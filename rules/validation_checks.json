@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "checks": [
+    {
+      "id": "CHK_HUMANITY",
+      "name": "Humanity-pass",
+      "rule": "No supernatural antagonists; motivations emotionally grounded."
+    },
+    {
+      "id": "CHK_BREADCRUMBS",
+      "name": "Breadcrumb-pass",
+      "rule": "Setups map to payoffs; no orphan hints."
+    },
+    {
+      "id": "CHK_CHANNELS",
+      "name": "Channel separation",
+      "rule": "MT/VT/LT remain distinct; no digital transmission of VT/LT."
+    },
+    {
+      "id": "CHK_ANTAG",
+      "name": "Antagonist-pressure check",
+      "rule": "Antagonist actions increase pressure or reveal human cost."
+    },
+    {
+      "id": "CHK_EMO_CIRCUIT",
+      "name": "Emotional circuit audit",
+      "rule": "Pressure\u2192payoff\u2192relief pattern avoids reader fatigue."
+    }
+  ],
+  "pressure_thresholds": {
+    "default": {
+      "max_strain_intensity": 4,
+      "max_episodes_at_or_above": 4
+    },
+    "notes": "Tune per reader cohort in reader_pressure.csv"
+  }
+}

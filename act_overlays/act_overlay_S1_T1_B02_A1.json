@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "act_id": "S1.T1.B02.A1",
+  "book_id": "B02",
+  "trilogy_id": "T1",
+  "act_thesis": "TODO",
+  "deltas": {
+    "pressure_vectors": [],
+    "character_state_deltas": [],
+    "soft_modulation": {
+      "fun": {
+        "allowed": true,
+        "max_intensity": "LOW"
+      },
+      "slice_of_life": {
+        "allowed": true,
+        "max_intensity": "LOW"
+      },
+      "wonder": {
+        "allowed": true,
+        "max_intensity": "LOW"
+      }
+    }
+  },
+  "act_success_criteria": [
+    "TODO"
+  ],
+  "forbidden_shortcuts": [
+    "TODO"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "trilogy_id": "T3",
+  "name": "Loom",
+  "tone_envelope": "brooding collapse, convergence, rebuilding",
+  "era_envelope": {
+    "tech_state": "collapse_heavy",
+    "default_vfx_ceiling": "FX3",
+    "allowed_heat_range": [
+      "H0",
+      "H1",
+      "H2",
+      "H3",
+      "H4"
+    ]
+  },
+  "environment_envelope": {
+    "weather_max": "W3",
+    "corridor_max": "U5"
+  },
+  "hard_constraints": [
+    "MT!=VT!=LT",
+    "no_resurrection",
+    "antagonists_human_led"
+  ],
+  "TODO": "Populate trilogy-specific ceilings and exceptions."
+}

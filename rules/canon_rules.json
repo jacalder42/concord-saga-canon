@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "project": "ConcordSaga",
+  "invariants": {
+    "no_resurrection": true,
+    "antagonists_human_or_human_made_only": true,
+    "channels": {
+      "MT": "mortal_media_channel",
+      "VT": "metaphysical_channel",
+      "LT": "post_mending_only_channel"
+    },
+    "channel_separation": [
+      "MT!=VT",
+      "VT!=LT",
+      "MT!=LT"
+    ],
+    "manufactured_metas": {
+      "intent": "none_permanent",
+      "cannot_ascend": true
+    }
+  },
+  "controlled_vocab": {
+    "corridors": [
+      "U1",
+      "U2",
+      "U3",
+      "U4",
+      "U5",
+      "U6",
+      "U7"
+    ],
+    "weather": [
+      "W0",
+      "W1",
+      "W2",
+      "W3",
+      "W4"
+    ],
+    "res_states": [
+      "CALM",
+      "BLOOM",
+      "SHARD",
+      "RUPTURE",
+      "NODE",
+      "VT",
+      "LT"
+    ],
+    "modes": [
+      "ROM",
+      "HUM",
+      "ACT",
+      "SCI",
+      "CIV",
+      "INT",
+      "HOR",
+      "SLICE"
+    ],
+    "heat": [
+      "H0",
+      "H1",
+      "H2",
+      "H3",
+      "H4"
+    ],
+    "fx": [
+      "FX0",
+      "FX1",
+      "FX2",
+      "FX3"
+    ]
+  },
+  "systems": {
+    "id_system": {
+      "SID_format": "S1.T{1-3}.B{01-09}.A{1-3}.E{01-99}",
+      "ECID_fields": [
+        "POV",
+        "ENV",
+        "CORRIDOR",
+        "WEATHER",
+        "MODE",
+        "HEAT",
+        "FX",
+        "RES"
+      ],
+      "BID_format": "{SID}-B{BeatNumber}"
+    },
+    "resonance_equation": "RP = Will \u00d7 Emotion \u00d7 Intent",
+    "uars": {
+      "boost_soft_cap": 0.2,
+      "boost_over_cap_cost_curve": "steep"
+    }
+  },
+  "romance_system": {
+    "heat_ladder": {
+      "H0": "spark",
+      "H1": "sizzle",
+      "H2": "burn",
+      "H3": "blaze",
+      "H4": "white_hot"
+    },
+    "global_rules": [
+      "emotion_over_physicality",
+      "resonance_never_shortcuts_consent"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+Copyright (c) 2025
+
+All rights reserved.
+
+This repository contains worldbuilding systems, rules, and canon notes for a creative project.
+No license is granted for reuse, redistribution, or derivative works without explicit permission.

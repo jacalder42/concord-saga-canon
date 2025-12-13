@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "book_id": "B03",
+  "trilogy_id": "T1",
+  "title": "TODO: Book B03 Title",
+  "pov_targets": "TODO: Provide POV weight targets (optional).",
+  "entry_state": {
+    "world": "TODO",
+    "key_character_states": "TODO"
+  },
+  "exit_state_locks": [
+    "TODO"
+  ],
+  "locations_in_play": [
+    "TODO"
+  ],
+  "escalation_permissions": {
+    "max_corridor_tier": "TODO",
+    "max_weather": "TODO",
+    "max_fx": "TODO"
+  },
+  "continuity_hooks": [
+    "TODO"
+  ]
+}
