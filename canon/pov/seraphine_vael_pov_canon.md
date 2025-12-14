@@ -213,5 +213,171 @@ every trilogy,
 every era.
 
 ---
+# SERAPHINE VAEL — POV MODIFIER BLOCKS
+Scope: Trilogy & Era-Level POV Modulation  
+Dependency: Seraphine Vael — POV Canon (Saga Level)
+
+These blocks MODIFY the baseline POV canon.
+They do not replace it.
+
+---
+
+## VEIL MODIFIER (BOOKS 1–3)
+
+### POV MODE
+Subtle, grounded, fully human-scale.
+
+### PERCEPTUAL FRAME
+- Emotion is read as social and interpersonal, never metaphysical.
+- Resonance is not perceived as a system.
+- Unusual sensations are framed as stress, coincidence, or environmental pressure.
+
+### CADENCE ADJUSTMENT
+- Slightly looser pacing
+- More space between observations
+- Longer breaths, softer transitions
+
+### EMOTIONAL LOAD
+- Grief is present but largely dormant
+- Regulation feels natural, not costly
+- Care still feels effective
+
+### FAILURE RISK (PRIMARY)
+Arriving too late.
+
+- Helplessness
+- Survivor’s guilt
+- Quiet internal questioning: *“What did I miss?”*
+
+### PROHIBITIONS (VEIL)
+- No cosmic language
+- No foreshadowing tone
+- No sense of inevitability
+- No interpretation of events as “meant” to happen
+
+### VEIL POV SUMMARY
+She believes showing up still works.
+The world has not yet taught her otherwise.
+
+---
+
+## NEON MODIFIER (BOOKS 4–6)
+
+### POV MODE
+Compressed, strained, emotionally saturated.
+
+### PERCEPTUAL FRAME
+- Emotional fields feel denser and louder
+- Crowds are harder to regulate
+- Silence carries threat instead of rest
+
+### CADENCE ADJUSTMENT
+- Shorter sentences under stress
+- Less softness between beats
+- Breath is controlled, sometimes held
+
+### EMOTIONAL LOAD
+- Grief resurfaces more frequently
+- Regulation becomes costly
+- Care requires conscious effort
+
+### FAILURE RISK (PRIMARY)
+Arriving too early.
+
+- Over-intervention
+- Outpacing consent
+- Calm imposed too fast
+
+This is where she nearly fails ethically.
+
+### NARRATIVE SIGNAL
+If her presence stabilizes a scene **too quickly**, the POV must flag danger.
+
+### PROHIBITIONS (NEON)
+- No escalation into authority
+- No framing her as “the solution”
+- No emotional short-circuiting
+
+### NEON POV SUMMARY
+Care still matters — but it no longer feels sufficient.
+She begins to learn restraint.
+
+---
+
+## LOOM MODIFIER (BOOKS 7–9)
+
+### POV MODE
+Deliberate, restrained, weight-bearing.
+
+### PERCEPTUAL FRAME
+- Authority pressure is constant
+- Others look to her for certainty (she refuses it)
+- Silence becomes an active choice
+
+### CADENCE ADJUSTMENT
+- Slower pacing despite higher stakes
+- Stillness used intentionally
+- Fewer words, more weight per sentence
+
+### EMOTIONAL LOAD
+- Grief is integrated, not dormant
+- Regulation is chosen, not automatic
+- Presence is costly but conscious
+
+### FAILURE RISK (PRIMARY)
+Becoming a benevolent regulator.
+
+- Calm-as-control
+- Care that overrides agency
+- Certainty with a gentle voice
+
+### CORRECTIVE ACTION
+She slows even when urgency demands speed.
+
+### PROHIBITIONS (LOOM)
+- No command tone
+- No inevitability language
+- No moral superiority framing
+
+### LOOM POV SUMMARY
+Stability must be shared or it becomes violence.
+Restraint is the work.
+
+---
+
+## POST-MENDING MODIFIER (EPILOGUE / AFTER)
+
+### POV MODE
+Clear, quiet, filtered.
+
+### PERCEPTUAL FRAME
+- Emotional clarity without omniscience
+- Connection without dominance
+- Resonance expressed as gentle continuity
+
+### CADENCE ADJUSTMENT
+- Simple sentences
+- Soft imagery
+- Space for silence
+
+### EMOTIONAL LOAD
+- Grief remains, but no longer destabilizes
+- Care is shared by the world, not carried alone
+
+### IDENTITY SHIFT
+She is now **Luminous Thread**:
+- filtration, not command
+- connection, not control
+
+### HARD CONSTRAINT
+She must **never** sound all-seeing.
+
+### POST-MENDING POV SUMMARY
+The world breathes again.
+She breathes with it.
+
+---
+
+END — SERAPHINE VAEL POV MODIFIER BLOCKS
 
 END — SERAPHINE VAEL POV CANON
