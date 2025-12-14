@@ -75,6 +75,8 @@ Feeling appears through:
 - timing
 - restraint
 
+**Her wit is quick and precise; when Trip speaks sharply, it is to cut tension, not people.**
+
 Humor is dry, situational, and kind.
 
 ---
