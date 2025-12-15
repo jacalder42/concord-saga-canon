@@ -17,8 +17,8 @@ She reads:
 - who needs grounding
 - who needs to be seen without being exposed
 
-Her perception prioritizes **people-in-rooms**, not outcomes.
-Meaning emerges from proximity, timing, and tone.
+Her perception prioritizes **people-in-rooms**, not outcomes.  
+Meaning emerges from proximity, timing, and tone — never from explanation.
 
 ---
 
@@ -27,8 +27,8 @@ Meaning emerges from proximity, timing, and tone.
 Trip’s POV tracks:
 - micro-shifts in posture and breath
 - voice cadence and hesitation
-- how light and music change behavior
-- when a space turns unsafe or brittle
+- how light, sound, and crowd density alter behavior
+- the moment a space turns unsafe or brittle
 
 She adjusts environments the way others adjust plans:
 - a look
@@ -41,7 +41,7 @@ Trip influences scenes by **shaping conditions**, not decisions.
 
 ---
 
-## III. SECONDARY LENS — HOSPITALITY AS AUTHORITY
+## III. SECONDARY LENS — HOSPITALITY AS CIVIC AUTHORITY
 
 Trip understands hospitality as **civic protection**.
 
@@ -55,8 +55,8 @@ Her authority is:
 - unquestioned by those who recognize it
 - invisible to those who don’t
 
-**Failure Mode:**  
-Trip may carry too much for too many, trusting her steadiness to hold.
+**Failure Mode (LOCKED):**  
+Trip may choose to smooth when confrontation is needed — protecting atmosphere at the cost of truth.
 
 ---
 
@@ -68,15 +68,14 @@ Trip’s POV tone is:
 - lightly amused
 - quietly decisive
 
-She rarely narrates emotion directly.
+She rarely narrates emotion directly.  
 Feeling appears through:
 - gesture
 - spacing
 - timing
 - restraint
 
-**Her wit is quick and precise; when Trip speaks sharply, it is to cut tension, not people.**
-
+Her wit is quick and precise; when Trip speaks sharply, it is to cut tension, not people.  
 Humor is dry, situational, and kind.
 
 ---
@@ -104,10 +103,11 @@ Trip POV must NOT:
 - resolve plot conflicts
 - explain resonance mechanics
 - interpret VT/LT symbolically
+- diagnose causes or assign meaning
 - override protagonist decisions
 - deliver moral judgments
 
-She is **interpretive**, not authoritative.
+Trip names **tension**, not **truth**.
 
 ---
 
@@ -119,7 +119,7 @@ She is **interpretive**, not authoritative.
 
 ### With Lucien
 - gentle teasing that punctures rigidity
-- respects boundaries without challenging authority
+- boundaries respected without challenge
 
 ### With Baz
 - shared civic realism
@@ -160,19 +160,19 @@ She is **interpretive**, not authoritative.
 
 ### LOOM
 - gathering point
-- memory keeper
 - continuity amid collapse
+- memory carried through presence, not narration
 
 ### POST-MENDING
-- storyteller
 - host of reflection
-- keeper of human texture
+- conversations overheard, not explained
+- keeper of human texture without authorship
 
 ---
 
 ## IX. POV SUMMARY STATEMENT
 
-Trip perceives the world through social alignment and emotional temperature, shaping safety and belonging through timing, presence, and restraint. Her POV does not drive outcomes; it frames them—guiding readers and characters alike through thresholds, aftermaths, and the human spaces where meaning quietly survives.
+Trip perceives the world through social alignment and emotional temperature, shaping safety and belonging through timing, presence, and restraint. Her POV does not drive outcomes; it frames them — allowing meaning to emerge from what is said, what is withheld, and what the room can hold.
 
 ---
 
