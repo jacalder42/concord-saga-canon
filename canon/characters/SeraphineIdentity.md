@@ -1,4 +1,4 @@
-# SERAPHINE VAEL — EBCI CANON
+# SERAPHINE VAEL — IDENTITY CANON
 Saga Lead · Empathic Anchor · Emotional Regulator · Luminous Thread (Post-Mending)
 
 Status: FINAL · LOCKED · SINGLE SOURCE OF TRUTH
