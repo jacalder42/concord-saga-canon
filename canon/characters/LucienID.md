@@ -1,110 +1,59 @@
-# LUCIEN KAEL — CHARACTER ID
+# LUCIEN KAEL — IDENTITY CANON (Tier-1)
 
-**Character Name:** Lucien Kael  
-**Saga Role:** Ethical Containment Anchor · Structural Counterweight  
-**Primary Function:** Prevent escalation through restraint, boundary, and care  
-**Trilogy Presence:** Veil · Neon · Loom · Post-Mending  
-**POV Status:** Primary POV (shared lead, not narrative driver)
+## I. Core Identity
+- **Name:** Lucien Kael
+- **Role Function:** structural containment anchor; ethical restraint voice; discipline-as-care axis
+- **Saga Position:** primary restraint counterweight within the core ensemble; prevents escalation by holding boundaries under pressure
+- **Hard Rule:** Lucien’s restraint is never absence of emotion; it is disciplined regulation shaped by responsibility, not detachment
 
----
+## II. Geographic Origin
+- **Birthplace:** Vienna, Austria
+- **Childhood Environment:** Alsergrund district — academic, orderly, institution-facing
+- **Emotional Home:** Vienna (architecture, etiquette, institutional memory, silence-as-structure)
 
-## IDENTITY SUMMARY
+## III. Cultural Origin / Heritage
+- **Heritage:** mixed European (Austrian mother, French father)
+- **Cultural imprint (compressed):** classical order; reputation-conscious social codes; etiquette as containment; intellectual rigor prioritized over emotional expression
+- **Identity impact:** silence and precision internalized as safety; emotional regulation framed as moral responsibility
 
-Lucien Kael operates as the saga’s **containment axis**.  
-Where others expand, accelerate, or bloom, Lucien **holds**.
+## IV. Family Structure & Emotional Ecology
+- **Mother:** **Dr. Adélie Mercier-Kael** — mathematician; emotionally reserved; precision, discipline, and composure treated as virtue
+- **Father:** **Karl Kael** — cultural archivist; gentle, deferential, emotionally repressed; affection expressed indirectly
+- **Sibling Context:** one older sister (**Elena Kael**) who leaves Vienna in early adulthood due to household rigidity
+- **Household dynamic (compressed):** upper-middle academic legitimacy; emotional excess discouraged; conflict managed through silence and withdrawal rather than confrontation
 
-He is defined not by absence of emotion, but by **disciplined regulation** — the belief that unchecked force, even benevolent, creates harm. His authority emerges through restraint, silence, and structural clarity rather than command.
+## V. Socioeconomic Position
+- **Class position:** upper-middle-class academic household
+- **Institutional proximity:** high (education, cultural legitimacy, reputation insulation)
+- **Primary cost:** emotional development constrained by etiquette and reputational logic
 
-Lucien does not seek to control outcomes.  
-He seeks to prevent irreversible damage.
+## VI. Education / Pre-Saga Trajectory
+- **Education:** University of Vienna
+- **Fields:** architecture / structural systems / ethical design frameworks
+- **Pre-Veil Role:** structural analyst within a civic or cultural systems bureau
+- **Skill identity (compressed):** pattern containment; risk prevention; ethical delay; system stability analysis
 
----
+## VII. Psychological Architecture (Identity Loop)
+- **Core wound:** emotional closeness leads to loss or destabilization
+- **Core belief:** stability must be preserved to prevent harm
+- **Stress behaviors:** over-containment; delayed expression; isolation under pressure; responsibility hoarding
+- **Regulation style:** boundary-setting, omission, ethical delay, silence as control
 
-## EMOTIONAL OPERATING SYSTEM
+## VIII. Trilogy Anchor Facts (Identity-Relevant)
+- **Veil:** restraint manifests as control; containment effective but isolating
+- **Neon:** containment fractures; restraint becomes painful and costly under escalation
+- **Loom:** restraint reframed as chosen care; structure becomes shared safety rather than suppression
+- **Post-Mending:** Lucien embodies structure-with-intent; discipline remains human-rooted, not mystical
 
-**Baseline State:** Controlled attentiveness  
-**Primary Emotional Driver:** Responsibility  
-**Core Fear:** That release without structure will cause catastrophic harm  
+## IX. Ensemble Integration Notes (Identity-Relevant)
+- **Seraphine:** his containment gives her bloom safe edges; her empathy destabilizes his rigidity
+- **Caro:** action-first care challenges his preference for delay
+- **Elisabet:** clarity aligns with his structural logic; her warmth exposes his emotional avoidance
+- **Rex:** physical limits validate his ethical restraint; material cost grounds abstraction
+- **Trip:** punctures rigidity through sharp humor; authority respected without deference
 
-Lucien processes emotion by:
-- identifying boundaries
-- narrowing scope
-- slowing momentum
-- choosing omission over assertion
+## X. Canon Conflict Ledger (Preserved Record)
+- **No major conflicting identity packages** remain active for Lucien in the current source set.
+- **Sibling presence (Elena Kael):** retained as canon unless explicitly removed; functions as early rupture imprint.
 
-Care is expressed through **what he does not allow**.
-
----
-
-## REGULATION METHOD
-
-Lucien regulates both himself and others through:
-- ethical delay
-- spatial and emotional containment
-- refusal to escalate
-- precise, minimal intervention
-
-His default question is not *“Can we?”*  
-It is *“What must not happen?”*
-
----
-
-## STRENGTHS (FUNCTIONAL)
-
-- Maintains stability under pressure  
-- Prevents catastrophic escalation  
-- Holds moral line when others blur it  
-- Provides safe structure for emotional intensity  
-
-Lucien is most effective when paired with:
-- Seraphine’s empathy
-- Caro’s action
-- Rex’s physical constraints
-
----
-
-## FAILURE MODES
-
-Lucien may:
-- delay too long
-- absorb responsibility meant to be shared
-- prioritize prevention over repair
-- mistake silence for sufficiency
-
-When Lucien fails, it is usually through **excess restraint**, not absence of care.
-
----
-
-## USAGE CONSTRAINTS (HARD RULES)
-
-Lucien **must not**:
-- dominate narrative authority
-- act as emotional explainer
-- replace Seraphine’s empathic role
-- accelerate events for efficiency
-- resolve conflicts through force
-
-His role is containment, not correction.
-
----
-
-## EVOLUTION ACROSS THE SAGA
-
-**Veil:**  
-Containment as control; restraint is rigid and isolating
-
-**Neon:**  
-Containment fractures; restraint becomes painful and costly
-
-**Loom:**  
-Containment reframed as care; restraint chosen with intent
-
-**Post-Mending:**  
-Lucien embodies structure-as-safety, no longer as suppression
-
----
-
-## ID SUMMARY STATEMENT
-
-Lucien Kael is the saga’s ethical containment figure — a man who holds the line not to deny feeling, but to prevent harm. His power lies in restraint, his cost in isolation, and his growth in learning that structure can be shared rather than borne alone.
-
+END — LUCIEN KAEL IDENTITY CANON
