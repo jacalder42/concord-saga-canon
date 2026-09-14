@@ -36,16 +36,21 @@ Useful for locating likely material; never authoritative by themselves.
 # 1. Saga-level structure
 
 ## Saga Continuity Spine v3
-Status: FOUND BY REFERENCE / EXACT ARTIFACT NOT YET RECOVERED
-Evidence recovered from Phase 1A indicates project memory preserved at least:
+Status: PARTIALLY RECOVERED BY COMPONENT / EXACT STANDALONE ARTIFACT NOT FOUND IN CURRENT TWO-CHAT CORPUS
+
+Phase 1A explicitly identifies Saga Continuity Spine v3 as safely preserved in project memory and names these components:
 - protagonist baton: Baz -> Tahl -> Kade -> Seraphine -> LT
 - trilogy escalation logic
 - Book 9 endgame constraints
-- POV Baton Pass
-- trilogy leads and POV distribution rules
-- Loom Books 7-9 endgame canon cards
 
-Action: Recover exact source text before reconstructing a new Saga Spine.
+The same audit separately identifies:
+- POV Baton Pass (Saga-level)
+- trilogy leads and POV distribution rules
+- Loom Books 7-9 Endgame Canon Cards
+
+Interpretation: the conceptual spine is recoverable, but the exact standalone v3 source text has not yet been located in the two saved conversations. Do not fabricate a verbatim `Saga Continuity Spine v3` document from the component summary.
+
+Action: later search additional Story Development chats/files for the original standalone artifact. In the meantime, use the Final Canon nine-book Beat Bible plus developed GitHub character/endgame canon as the stronger narrative evidence.
 
 ## Global rules and invariants
 Status: PRESENT IN GITHUB
@@ -57,7 +62,7 @@ Current repository includes:
 - UARS soft-cap information
 - controlled vocabulary for corridors, weather, resonance states, modes, heat, FX
 
-Action: Compare against the Phase 1A Mechanica inventory before considering the current GitHub implementation complete.
+Mechanica audit note: a dedicated recovery audit now exists at `recovery/MECHANICA_MIGRATION_AUDIT_2026.md`.
 
 ---
 
@@ -65,14 +70,14 @@ Action: Compare against the Phase 1A Mechanica inventory before considering the 
 
 ## Trilogy Beats / Consolidated Beat Bible
 Status: FOUND / FINAL CANON
-Source: user-provided Trilogy Beats document recovered from the Phase 1A workflow.
+Source: user-provided Trilogy Beats document recovered from the Phase 1A workflow and reproduced in Episode Expansion conversation.
 Scope:
 - Veil Books 1-3
 - Neon Books 4-6
 - Loom Books 7-9
 - act-level beat sequences for all nine books
 
-Book titles / current recovered labels:
+Book titles / recovered labels:
 - B01 — Veil: The First Thread
 - B02 — Veil: The Second Breath
 - B03 — Veil: The Fracture Point
@@ -85,7 +90,7 @@ Book titles / current recovered labels:
 
 Authority note: Episode Expansion conversation states the Veil Trilogy Beat Bibles were fully received, aligned cleanly against stored canon, and showed no drift before Book 1 episode construction began.
 
-Action: Preserve as archival canon unchanged before any 2026 editorial review.
+Action: preserve as archival canon unchanged before any 2026 editorial review.
 
 ---
 
@@ -121,7 +126,7 @@ Required canon named in the recovered workflow:
 - Trilogy Structural Canons for Books 1-9
 - Beat Bibles for Veil / Neon / Loom
 
-Action: Preserve this as the historical Episode Expansion Engine. Review for 2026 simplification only after recovery is complete.
+Action: preserve this as the historical Episode Expansion Engine. Review for 2026 simplification only after recovery is complete.
 
 ---
 
@@ -138,9 +143,9 @@ Recovered Book 1 episode material uses this pattern directly, for example:
 - S1.T1.B1.A1.E01
 - S1.T1.B1.A1.E01-B01
 
-Potential issue: Phase 1A references a broader "CONCORD CONTENT ID SYSTEM (SID / ECID / BID)" and a compressed Episode + Scene Workflow Stack. Exact later wording still needs recovery before assuming no subsequent semantic changes.
+Phase 1A separately confirms that the `CONCORD CONTENT ID SYSTEM (SID / ECID / BID)` and compressed Episode + Scene Workflow Stack were considered safely retained as rules/constraints, while exact reusable operational templates were not necessarily retained.
 
-Action: Keep existing IDs stable. Do not rename until the later workflow-stack artifact is recovered or conclusively shown missing.
+Current assessment: no evidence in the two saved chats proves that SID/ECID/BID semantics were later renamed. Preserve existing meanings unless a later primary artifact demonstrates supersession.
 
 ---
 
@@ -177,51 +182,76 @@ Important version note:
 Current recommendation: treat E16 as the later accepted Act I close; retain the earlier E15-only artifact unchanged in source archive for provenance.
 
 ## Book 1 Act II
-Status: PARTIAL EPISODE EXPANSION
+Status: PARTIAL EPISODE EXPANSION / STOPPING POINT NOW VERIFIED
 
 Recovered:
-- E17 — Baz arrives / Act II opening
-- E18 — Context Sharpens
+- E17 — Baz arrives / Act II opening — completed
+- E18 — Context Sharpens — completed
 
-The workflow then points to:
-- E19 — Spike in the Neighborhood (Part I)
+The saved Episode Expansion conversation ends its recoverable construction sequence by instructing that E18 be archived and announcing the next episode as:
+- E19 — Act II: Spike in the Neighborhood (Part I)
 
-Current confidence:
-- E17 completed
-- E18 completed
-- E19 identified as next; full completion not yet verified
+Targeted searches for `END EPISODE 19`, `Episode 19 archived`, `Episode 20`, and the E19 beat block returned no completed E19 artifact. The strongest available evidence therefore supports:
 
-Action: Continue forensic search for E19 and any later episodes before resuming new episode construction.
+**Historical stopping point: E18 completed; E19 named but not constructed in this conversation.**
+
+This is now stronger than a provisional assumption, though a separate Book 1 Beat Backup chat could still contain material not present in the two exported chats.
+
+Action: do not resume E19 until the Book 1 Beat Backup chat is checked if it can be recovered. If that backup contains only E00-E18, E19 is the clean resumption point.
 
 ---
 
 # 6. Book 2-9 episode-expansion status
 
-Status: MACRO BEATS FOUND / EPISODE-LEVEL EXPANSION NOT YET VERIFIED
+Status: MACRO BEATS FOUND / EPISODE-LEVEL EXPANSION NOT VERIFIED
 
 All nine books have act-level macro beats in the consolidated Trilogy Beats artifact.
-No current recovered evidence yet proves full episode expansion for Books 2-9.
+No current recovered evidence proves full episode expansion for Books 2-9.
 
-Action: Search old Episode Expansion / backup conversations before assuming these levels were never built.
+Action: search old Episode Expansion / backup conversations before assuming these levels were never built.
 
 ---
 
 # 7. Mechanica / Resonance migration
 
-Status: SUBSTANTIAL PHASE 1A INVENTORY RECOVERED / GITHUB MIGRATION PARTIAL
+Status: SUBSTANTIAL MIGRATION CONFIRMED
 
-Phase 1A explicitly inventories authoritative Mechanica / Resonance components, including:
-- Mechanica v4 declaration and supersession/versioning statement
-- Resonance system declaration and non-magic / human-emotion physics frame
-- MT / VT / LT channel boundaries
-- rule that resonance never transmits digitally
-- Veil -> Neon -> Loom -> Post-Mending escalation model
-- hard constraints / forbidden moves
-- primary equation RP = Will x Emotion x Intent
+Phase 1A contains a component-level inventory of authoritative Mechanica/Resonance material. GitHub contains `rules/Mechanica-v4.md`, labeled:
+- `Mechanica v4 (Memory Edition)`
+- `Status: Authoritative Canon`
+- `Source: Project Memory (inflated)`
+- `Phase: 1A Migration`
 
-Current GitHub contains portions of these ideas, but the Phase 1A inventory is richer than the present top-level rule files.
+The current file strongly matches major Phase 1A requirements including:
+- authority/supersession
+- resonance as emotional physics
+- MT/VT/LT separation and no digital resonance transmission
+- Veil/Neon/Loom/Post-Mending escalation
+- hard constraints
+- RP equation
+- ~20% nonlinear boost threshold
+- UARS and ActionStates
+- boost taxonomy/costs/stacking/failure modes
+- environmental conductivity/material behavior
+- crowd physics and tech interference
+- U1-U7 corridors
+- W0-W4 resonance weather
+- resonance states and shard progression
+- containment/stabilization
+- MT/VT/LT mechanics
+- ascension/manufactured-meta constraints
 
-Action: audit the complete Phase 1A inventory against GitHub before marking Mechanica migration complete.
+Not yet proven complete relative to the Phase 1A checklist:
+- explicit consequence ladder
+- recovery/aftercare/reset rules
+- exact event-trigger ladder
+- explicit danger-window rules
+- dedicated aftermath behavior rules
+- exact VFX ceiling / symbol-action permission tables
+
+See `recovery/MECHANICA_MIGRATION_AUDIT_2026.md` for the detailed non-canon audit.
+
+Interpretation: Mechanica should be audited/provenanced, not redesigned.
 
 ---
 
@@ -244,6 +274,7 @@ Related preserved concepts listed in that audit include:
 - Fun Layer / F beats
 - Mobius Audit System
 - Breadcrumb pass concept
+- Symbolic Action Engine (compressed)
 
 Action: recover exact artifact text where available before inventing replacements.
 
@@ -269,16 +300,16 @@ Action: preserve recovered originals in a source-archive layer before normalizat
 
 # 10. Current repository-state interpretation
 
-The repository appears strongest in:
+The repository is strongest in:
 - rules / invariants
 - character canon
 - Mechanica / resonance concepts
 - factions / supporting canon
 - schema and templates
 
-The repository appears incomplete in:
-- saga story spine
-- trilogy narrative summaries
+The repository is incomplete in:
+- fully human-readable saga story spine
+- trilogy narrative summaries at the top-level canon files
 - book narrative spines
 - populated act overlays
 - populated episode beat grids
@@ -291,9 +322,9 @@ Interpretation: the project stalled during canon migration / artifact persistenc
 # 11. Immediate next steps
 
 1. Preserve the original Trilogy Beats and Book1 Act1 Beats content in a source-archive location without edits.
-2. Continue searching the Episode Expansion conversation for E19+ and any Book 1 backup references.
-3. Recover the exact Saga Continuity Spine v3 if present in accessible chats/files.
-4. Recover the full Phase 1A Mechanica inventory and compare component-by-component with GitHub.
+2. Recover/check the separate Book 1 Beat Backup chat if available; verify whether it ends at E18.
+3. Search additional Story Development chats/files for the exact standalone Saga Continuity Spine v3 rather than reconstructing it from memory summary.
+4. Continue provenance recovery for the six not-yet-proven Mechanica components identified in the Mechanica audit.
 5. Recover exact operational workflow artifacts where possible.
 6. Only after recovery, create proposed current-state narrative files (Saga / Trilogy / Book / Episode) in a proposal layer.
 7. Have a second model/reviewer inspect proposed migrations against existing canon before promotion.
@@ -308,6 +339,6 @@ Interpretation: the project stalled during canon migration / artifact persistenc
 - Do not treat TODO repository scaffolds as stronger than recovered final canon.
 - Do not collapse MT / VT / LT boundaries.
 - Do not silently reconcile conflicts.
-- Do not resume E19 until recovery confirms no later completed material exists.
+- Do not resume E19 until recovery checks the separate backup chat or establishes it is unavailable.
 
 END RECOVERY LEDGER
