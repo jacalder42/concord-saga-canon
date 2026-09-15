@@ -12,6 +12,12 @@ Do **not** treat sanitization as editorial revision of the conversation. It is a
 
 Original raw exports remain external source artifacts. Their SHA-256 hashes are recorded below for provenance.
 
+## Split-file convention
+
+Some sanitized conversations are stored as `__part01.html`, `__part02.html`, etc. This was done only to keep repository/connector writes reliable for large exports. Splits occur at whole conversation-turn boundaries; the source conversation text was not summarized or intentionally edited to create the parts.
+
+When a conversation is split, read the numbered parts in ascending order as one historical source artifact.
+
 ## Files supplied / recovered
 
 | Original file | Original SHA-256 | Sanitized SHA-256 |
