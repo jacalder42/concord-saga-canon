@@ -341,4 +341,27 @@ Interpretation: the project stalled during canon migration / artifact persistenc
 - Do not silently reconcile conflicts.
 - Do not resume E19 until recovery checks the separate backup chat or establishes it is unavailable.
 
+---
+
+# 13. ECID vocabulary collision
+
+Status: CONFLICT RECORDED / UNRESOLVED / BLOCKS MIGRATION
+
+The recovered episode packets fill ECID fields with tokens the controlled vocabulary in
+`rules/canon_rules.json` does not permit: `STRAIN` (17 field values), `LORE` (5), `POL`
+(1), `SHARD-EDGE` (1), `VT-BRUSH` (1). Migrating a packet means either writing those
+tokens into canon or altering them on the way in, and both are canon acts.
+
+`STRAIN` is the substantive one. It is named as a condition in tier-1 canon
+(`canon/characters/SeraphineAppearance.md`, `### Under Strain`) and in the symbol system
+(`rules/symbols/COLOR_SEMANTICS.md`, `### YELLOW — Strain / Overload`, "risk: shard
+precursors"), but `rules/Mechanica-v4.md` §33 does not list it among the resonance
+states. Both readings are recorded; neither is resolved here.
+
+Evidence, counts, provenance and options: `recovery/ECID_VOCABULARY_COLLISION_2026.md`.
+
+Blocks: migration of the Veil beat bible into book contexts and act overlays, and
+migration of the E16–E18 packets. Four rulings are needed from the author before either
+proceeds; they are listed in §7 of that memo.
+
 END RECOVERY LEDGER
