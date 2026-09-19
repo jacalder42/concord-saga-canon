@@ -224,3 +224,156 @@ because the name/person has deliberately been withheld.
 6. Exact final B03 MT post.
 7. Whether B03 epilogue is titled **The First Quiet** in current canon.
 8. Which existing B01–B03 named-Tahl beats should become MT supplements versus be deleted/reassigned.
+
+
+# Velvet Vein integration layer — 2026-09-19
+
+## Governing function
+
+The Velvet Vein is a **reaction surface** for MissingThread, not a second evidence channel.
+
+- MT/Threadnaut: evidence, verification, publication, public record.
+- Trip/Vein: social temperature, rumor sorting, ordinary-life consequence, private truth, local backchannel.
+- Trip may observe that behavior changes after an MT post.
+- Trip may not diagnose resonance, certify MT claims, or become an omniscient source.
+- Vein scenes must continue to work as nightlife/culture/hospitality scenes even when carrying breadcrumbs.
+
+## B01 — MT becomes something people mention
+
+### VEIN-A — “Somebody posted it”
+**Pair with:** MT-01 or MT-02  
+A patron mentions the anonymous anomaly post as bar chatter, not as a plot briefing. Responses vary: joke, dismissal, curiosity, recognition.
+
+**Trip function:** reads who laughs too quickly, who checks a phone, who changes subject.  
+**Reader function:** MT exists in the same civic world as the protagonists.  
+**Tahl protection:** no identity clues beyond established voice/artifact clues.
+
+### VEIN-B — correction earns trust
+**Pair with:** MT-02 correction  
+Someone notes that the anonymous poster corrected/retracted something rather than doubling down.
+
+Trip need not praise MT. The useful signal is behavioral: people who normally dismiss feeds begin treating this one as worth checking.
+
+**Long payoff:** trust accumulates before influence.
+
+### VEIN-C — ordinary life persists
+**Pair with:** MT-03 / late B01  
+Lacuna music, drinks, flirting, work complaints, local gossip remain foreground. The anomaly thread is one current among many.
+
+**Purpose:** prevent the Vein from becoming “the lore bar.” It is valuable because people still live there.
+
+## B02 — MT begins changing conversation
+
+### VEIN-D — whisper-network crossover
+**Pair with:** MT-05  
+A Filament-adjacent patron/witness mentions something at the Vein that later appears in anonymized MT form—or vice versa.
+
+**Hard rule:** do not imply Trip directly feeds Threadnaut unless later narrative establishes it. Information can move through multiple ordinary people.
+
+**Reader function:** first glimpse of a decentralized civic information ecology.
+
+### VEIN-E — post-Brush absence/change
+**Pair with:** MT-06 / MT-07  
+Do not put Tahl physically in the bar.
+
+Instead, after the Brush, MT cadence changes slightly: delay, unusually cautious wording, a failed-replication note. At the Vein, readers can hear someone complain that Threadnaut is “hedging” or “spooked.”
+
+**Trip function:** notices the audience's relationship to the voice changing.
+
+### VEIN-F — southwest becomes a joke before a fear
+**Pair with:** MT-08  
+A patron makes a throwaway joke about everything weird “leaning southwest” or about Threadnaut's map obsession.
+
+**Purpose:** breadcrumb becomes cultural language before it becomes plot language.
+
+## B03 — influence becomes consequence
+
+### VEIN-G — Threadnaut has an audience
+**Pair with:** MT-09 / MT-11  
+MT posts now alter room behavior quickly:
+- phones come out;
+- patrons compare locations;
+- somebody calls a relative;
+- someone dismisses it and gets challenged by another patron.
+
+Trip does not arbitrate who is correct.
+
+**Reader function:** demonstrate that Threadnaut has become socially consequential without putting Tahl onstage.
+
+### VEIN-H — Warehouse Pattern Post lands
+**Pair with:** MT-12 / Warehouse Pattern Post  
+The warning reaches the Vein.
+
+Show mixed, human-scale consequences:
+- a Warehouse worker swaps/cancels a shift;
+- someone calls a family member working nearby;
+- another person cannot afford to miss work and goes anyway;
+- Filament-adjacent people begin checking on vulnerable contacts;
+- someone complains that an anonymous feed is causing panic.
+
+**Trip action:** practical hospitality/safety behavior only—help someone make a call, find a ride, wait somewhere safe, calm an argument.
+
+**Critical function:** establish on-page that the warning helps at least one person before the catastrophe.
+
+### VEIN-I — the second audience becomes visible
+**Placement:** after Warehouse warning, before/around containment tightening  
+Patrons notice unusual official vehicles, access restrictions, missing public information, or workers being turned away.
+
+Nobody needs to know the institutions are reacting specifically to MT.
+
+**Reader inference:** public warning and institutional movement are occurring in the same information environment.
+
+### VEIN-J — after the Warehouse
+**Pair with:** MT-14 silence  
+The Vein holds contradictory reports:
+- some people got out because they heard the warning;
+- others were trapped;
+- official information is incomplete;
+- footage circulates;
+- nobody yet has a clean casualty picture;
+- Threadnaut has stopped posting.
+
+Trip's role is to hold the room, not solve the event.
+
+**Optional emotional image:** somebody who survived because of MT asks why Threadnaut has gone silent.
+
+This can precede the B03 epilogue and make Tahl's later discovery that the post saved people emotionally concrete.
+
+## Relationship guardrails
+
+### Trip ↔ Tahl
+**OPEN BY AUTHOR RULING.**
+- Veil-era Trip does not know Threadnaut's identity.
+- No meeting is required in Neon.
+- No lifetime prohibition on meeting.
+- Narrative may determine later whether they ever meet before Tahl's death.
+- Anonymous Threadnaut may reference Vein culture without establishing personal acquaintance.
+
+### Trip × Lacuna
+**OPEN BY AUTHOR RULING.**
+- recovered prior chemistry/fluid-intimacy architecture remains available;
+- no required romantic/sexual progression;
+- no prohibition against progression;
+- scene chemistry and later narrative need determine outcome.
+- do not build structural beats that require this relationship to escalate.
+
+## Density rule
+
+Do **not** use all Vein modules automatically.
+
+Target:
+- B01: 1–2 Vein reaction beats beyond already-required Lacuna/culture material.
+- B02: 2–3.
+- B03: 3–4, with Warehouse reaction the strongest.
+
+Whenever an existing Vein/Lacuna/cast scene can carry the reaction naturally, fold the breadcrumb into that scene rather than adding a new episode.
+
+## Combined reveal logic
+
+The Vein helps make Tahl's B03 epilogue reveal fair because readers have encountered Threadnaut in three modes:
+
+1. **His own artifacts** — what he chooses to publish.
+2. **Institutional reaction** — what powerful systems do because the information exists.
+3. **Velvet Vein reaction** — what ordinary people do because they trust, doubt, fear, joke about, or act on it.
+
+By the time the narrative says **Tahl Morgan**, the reader already knows the social footprint of the person being named.
