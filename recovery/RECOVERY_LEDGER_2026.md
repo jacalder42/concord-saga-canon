@@ -2573,4 +2573,167 @@ END OF ENTRY 28
 
 ===============================================================
 
+===============================================================
+
+# 29. Locations, combat and antagonists — primer review — 2026-09-19
+
+**Direction:** James, 2026-09-19 — locations and combat *"should have a lot of primer
+material in notion, chat exports, and maybe early git materials. Those should be reviewed
+prior to acting or consolidating."* On antagonists: *"primary antagonists are treated
+similar to protagonists (i believe this system already exists or was begun) and antagonist
+groups can operate at a pressure curve model."*
+
+**Status:** REVIEWED / NOTHING CONSOLIDATED / §28's ASSESSMENT PARTLY SUPERSEDED
+
+Full review at `proposals/concord-2026/LOCATIONS_COMBAT_ANTAGONISTS_PRIMER_REVIEW_2026-09-19.md`.
+
+---
+
+## 1. The correction to §28
+
+§28 recorded locations, combat and antagonist arcs as three layers that "do not exist" and
+needed author direction on **shape**. **That was true of the repository and false of the
+project.** All three are already-designed systems that never migrated to GitHub.
+
+| Layer | §28 said | Actual |
+| --- | --- | --- |
+| Locations | absent, needs a shape decision | **Full CANON system in Notion.** Recovery plus one collision ruling |
+| Combat | absent, needs a shape decision | **Full CANON system in Notion.** Migrates into existing UARS/scene-type structure; no new schema |
+| Antagonist arcs | material without structure | **Template and curves both already exist** in the repo and the exports |
+
+**None of the three needs a design proposal.** The shape questions §28 §6 posed are
+answered by sources, not by decisions.
+
+## 2. Locations — `HYBRID RESONANCE GEOGRAPHY SYSTEM — CANON` (Notion, 2025-11-27)
+
+Nine sections, built on the project's own spine: *"Resonance geography = emotional
+topography + civic stress + metaphysical pressure."* It **evolves per trilogy** — Veil
+shards → Neon Zones → Loom Corridors → post-Mending Echo Nodes — with five Neon Zone
+types, four Loom Corridor classes and a city-by-city map for New Orleans, Vienna,
+Singapore, Reykjavík and Marrakesh. Two further city bibles exist: `NEW ORLEANS CITY BIBLE
+(FINAL CANON)` (2025-12-01, neighborhood granularity) and `REYKJAVÍK — QUIET RESONANCE ZONE
+(Deep-Pass v1)`.
+
+**It already makes the distinction James raised.** §V is the narrative-location layer
+(places with resonance properties); §VIII "Character Interaction Rules" is the character
+layer (Seraphine senses distortion first, Rex calculates corridor-edge routes, Kade
+destabilizes Amber Drift). One place layer plus a character-interaction layer referencing
+it — recorded, not decided.
+
+**It corroborates the Warehouse Incident independently.** The New Orleans map reads
+*"Violet Bloom: Warehouse District (Baz's death site)"*, and Violet Bloom is defined as
+near-shard rupture conditions — which is what `BAZ_WAREHOUSE_INCIDENT_RECOVERY` concluded
+from unrelated evidence.
+
+**NEW COLLISION — the `Corridor` token.** `canon_rules.json` uses `CORRIDOR` as an ECID
+field with vocabulary `U1`–`U7`, and Mechanica §24–25 defines Corridor Tiers as
+resonance-intensity bands. The geography system uses **Corridor** for named Loom travel
+routes in four classes. Same word, two objects — the `VT` situation again. **Do not merge
+and do not rename either before a ruling.** This blocks the locations migration.
+
+## 3. Combat — a full system in Notion; the repo has one section
+
+The substrate has exactly two things: Mechanica §57 `SCENE-TYPE APPLICATION`, which
+includes an **Action / Conflict** type (rising cost curves, environmental damage, visible
+failure risk), and an unticked checkbox at
+`rules/resonance/EMOTIONAL_MODES_AND_INSTABILITY.md:207` —
+`[ ] Optional: add civic vs combat emotional profiles`.
+
+Notion holds six relevant pages, most in a `Resonance Mastery Mechanics` folder:
+`CONCORD SAGA — CONFLICT ENGINE (v1.0)`, `COMBAT SKILL TREES (INTEGRATED)` Part I,
+`OPPONENT ARCHETYPES & CHARACTER RESPONSES` (a *Resonant Combat System Module*),
+`RES0NANT COMBAT BENTO v1`, `HUMOR & CONFLICT BENTO` (which carries a **Conflict Ladder**),
+and `Character Engine Canon - Compact Bento` (§VIII *Combat / Action Translation*, "Character
+Engine Bento v3 — Unified Action–Resonance System").
+
+**The shape question is answered by the `Phase 1A Migration Plan` export**, which places
+combat inside section 2, *UARS action economy and cost model*: *"Combat vs non-combat (how
+UARS expresses differently in action scenes vs civic scenes vs intimacy)"*, alongside
+*"Action permissions by corridor/weather"*. So **combat is a mode of UARS expression, not
+a separate axis** — the opposite of the `LOAD` case. It needs no new schema, only
+migration.
+
+## 4. Antagonists — confirmed, and ahead of the protagonists
+
+James's recollection is right and understated. **Saeko, Ito and Han Wei carry five files
+each** — `ID`, `EBCI`, `Appearance`, `Render` **plus `Backstory`**, which no protagonist
+has. Elias and Virelli carry the standard four. All five have POV files. Every protagonist
+carries exactly four.
+
+**The gap is on the protagonist side, and it is the lead.** Seraphine has three files and
+**no `EBCI`** — `SeraphineAppearance`, `SeraphineIdentity`, `SeraphineRender`. She is the
+only main character without an EBCI and the only one breaking the `*ID.md` convention,
+while `source_canon/characters/seraphine_full.md` sits at 830 lines stamped `FINAL CANON`
+behind the unresolved §1.1 authority conflict.
+
+**The group template already exists and is unevenly applied.** Concord has a directory of
+5 files (EraFunction · Limits · Mandate · Relationships · Structure) and Filaments 6
+(adding Aesthetics · CanonLocks · Origin). Technarc, Dominions, Choirless, Brightbreak and
+Manufactured Metas are **single files**. `EraFunction` is the pressure-curve field in
+everything but name, so James's proposal is an existing convention to extend, not a new
+model.
+
+**The curves are already written.** `_ Narrative Structure _` carries a saga-level
+antagonist evolution — *"Veil: secretive, institutional antagonism. Neon: splinter groups,
+weaponized tech, fear populism. Loom: global panic and collapse-level human conflict"* —
+and the `Saga Beat Expansion Pipeline` audit carries per-faction curves, e.g. *"Choirless:
+Whispered ideology in Neon 4 → traction in Neon 5 → violence in Neon 6 → full militant
+splinter in Loom."* Extraction into the faction files and binding to `episode_beats.csv`'s
+existing `antagonist_pressure` column is the work.
+
+## 5. Early git materials — nothing was lost
+
+Checked all refs with `--diff-filter=A` and `--diff-filter=D`. **No location, geography,
+environment, combat or action file has ever existed in this repository**, and only two
+files have ever been deleted (a superseded unsplit export HTML and a stray `.pyc`). The
+repo began with character and faction files and the systems layer arrived later and
+partially. Nothing to recover from history.
+
+## 6. INCIDENTAL — the Project Model Set names 14 advisory groups, none migrated
+
+`Character involvement pacing__part02` holds the **Project Model Set**, *"a clean,
+authoritative list … ONLY what is actually saved"* — five items. The repository has item 1
+and part of item 2.
+
+**Item 3, Advisory Groups (Core, Canon), saved 2025-11-16:** Art Direction Council ·
+Continuity Wardens · Humanity Pass Council · Paratext Architecture Board · Breadcrumb /
+Foreshadowing Weavers · **Action Realism Board** (*grounded conflict, violence realism,
+physical logic*) · **Environmental Texture Board** (*ensures each location maintains
+distinct sensory/cultural identity*) · Serial Release Calibration Team.
+
+**Item 4, Provisional:** Visual Effects / Cinematic Imagery Panel · Resonant Tech
+Calibration Review · Emotional Authenticity Advisory · Mystery/Conspiracy Calibration
+Circle · Narrative Soundtrack Council · **Geography & Location Logic Panel**.
+
+**All fourteen are absent from the substrate.** `canon/editorial_lenses.md` captured item 1
+only. Directly relevant here: **locations and combat each already have a governance body in
+canon**, and locations have a second pending. Item 5 also preserves an explicitly open
+question: *"Filaments Call Sign 'K' Question — not yet resolved."*
+
+## 7. INCIDENTAL — two December memory exports postdate everything else
+
+`25.12.06 Memory List` (2025-12-06) and `Memory Set 25-1212` (2025-12-13, in a separate
+`Concord Saga 25-1212 Export` folder) are later than every other artifact surveyed in this
+project, which runs 2025-11-23 to 2025-12-01. They name ActionState routing
+(Baseline→Rupture→Proto-Ascendant), UARS, corridor ecology, environmental modifiers,
+resonance weather, the RP equation and the >20% boost rule.
+
+Under ND-045 — later explicit material outranks earlier "Final Canon" labels — **these
+are the best available index of the project's end-state canon**, and should be read before
+any consolidation pass. Neither is among the 21 sanitized exports.
+
+## 8. What this adds to the author queue
+
+1. **The `Corridor` token collision** (§2) — blocks the locations migration.
+2. **Are the 8 canon advisory groups still canon**, and do the 6 provisional ones ratify
+   (§6)? Two of them govern exactly the subjects under review.
+3. **Seraphine's missing `EBCI` and nonstandard `Identity` filename** (§4) — oversight or
+   deliberate? Entangled with the `source_canon/` conflict.
+4. **Should the December memory exports be the canon-state index** for extraction (§7)?
+5. **The `Filaments Call Sign "K"` question** (§6), recorded as explicitly unresolved.
+
+END OF ENTRY 29
+
+===============================================================
+
 END RECOVERY LEDGER

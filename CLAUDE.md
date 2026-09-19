@@ -422,12 +422,26 @@ ledger §28. The three findings that change how the queue below should be read:
   is 22 lines of orientation — so the saga timeline has nowhere to live. `book_context`'s
   `entry_state` / `exit_state_locks` / `locations_in_play` / `continuity_hooks` /
   `pov_targets` **are** the book-level timeline and are `TODO` in all nine books.
-- **Three layers do not exist at all**: **locations** (no `canon/locations/`; `ENV` has no
-  vocabulary; the narrative-location versus character-location distinction is not
-  expressible), **combat** (3 canon mentions, 0 grids), and **antagonist arcs** (material
-  in ND-020–ND-029, no structure). Plus character arcs, POV allocation, chronology and
-  motif binding, all unstructured. **These need author direction on shape before anyone
-  builds them** — §6 of the assessment.
+- **Three layers are missing from the repository — but not from the project.** Corrected
+  2026-09-19 after a source review (ledger §29,
+  `proposals/concord-2026/LOCATIONS_COMBAT_ANTAGONISTS_PRIMER_REVIEW_2026-09-19.md`):
+  - **Locations** — a full CANON system exists in Notion,
+    `HYBRID RESONANCE GEOGRAPHY SYSTEM` (Veil shards → Neon Zones → Loom Corridors →
+    Echo Nodes), plus New Orleans and Reykjavík city bibles. It **already separates
+    narrative locations from character interaction** (§V vs §VIII). Recovery, not design.
+    **Blocked on the new `Corridor` token collision** — see §4.
+  - **Combat** — a full CANON system exists in Notion (Conflict Engine v1.0, Combat Skill
+    Trees, Opponent Archetypes, two Bentos, a Conflict Ladder). The `Phase 1A` export
+    settles its shape: combat is **a mode of UARS expression, not a separate axis**, and
+    Mechanica §57 already implements the scene-type half. **No new schema needed.**
+  - **Antagonist arcs** — the template and the curves both already exist. Five antagonists
+    carry full protagonist treatment and three carry a fifth `Backstory` file no
+    protagonist has; the `Concord/` and `filaments/` faction directories are the group
+    template, with `EraFunction` as the pressure-curve field. Ruled 2026-09-19: primary
+    antagonists get protagonist treatment, groups get a pressure-curve model.
+
+  Still genuinely unstructured: character arcs, POV allocation, chronology, motif binding.
+  **And Seraphine — the lead — has no `EBCI` file**, the only main character without one.
 - **Only two questions truly gate the cascade**: item 1 below, and *which Veil draft is
   canon*. Most of the rest blocks one artifact, not the pipeline.
 
