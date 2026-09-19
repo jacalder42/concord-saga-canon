@@ -1572,4 +1572,124 @@ These are concrete targets for work-queue item 6 rather than a blind inventory.
 This entry explains what *is* in the places it was expected to be, and finds that the
 exported line describes the Mending without them.
 
+---
+
+# 24. The 2026-09-19 timeline / Veil / Notion bundles — verified, two defects caught
+
+Status: COMMITTED VERBATIM / MILESTONE LOAD HELD / TWO CITATION DEFECTS / SEVERAL RULINGS RECORDED
+
+Sources, all committed unaltered first: `recovery/SAGA_TIMELINE_2026-09-19.md`,
+`recovery/VEIL_STRUCTURE_2026-09-19.md`, `recovery/NOTION_RECOVERY_2026-09-19.md`, and
+the 36-row milestone load at
+`proposals/concord-2026/milestones_payoffs_PROPOSED_LOAD_2026-09-19.csv`.
+
+## DEFECT 1 — the milestone CSV would have destroyed three ruled columns
+
+The uploaded load carries **16 columns**. `grids/milestones_payoffs.csv` carries **19**.
+Missing: **`supplement_function`, `supplement_vehicle`, `supplement_form`.**
+
+Those three were added on 2026-09-19 — the first two per decisions §3 (type, function
+and vehicle are three independent axes), the third per the same-day ruling that form and
+vehicle are separate values. The load was built against the pre-ruling header.
+
+Loading it as-is would have silently dropped all three from the grid.
+
+**Corrected load written to
+`proposals/concord-2026/milestones_payoffs_PROPOSED_LOAD_v2_2026-09-19.csv`** — all 36
+rows realigned to the 19-column header, the three new columns present and empty. Nothing
+else altered. **Still in `proposals/`, not loaded**, because every row reads
+`status: proposed` and the timeline document's §8 asks whether to load rather than
+stating that it loads.
+
+## DEFECT 2 — commit `a4324a9` does not exist in this repository
+
+Both `VEIL_STRUCTURE` and `NOTION_RECOVERY` carry a naming note citing commit `a4324a9`
+as locking *Bastien "Baz" Arnaud* over Notion's *Baz Foix*.
+
+`git cat-file -t a4324a9` → **not a valid object name.** It is in no branch of this
+repository.
+
+**The substance is right and the citation is not.** `Arnaud` is current canon here — it
+appears in `BazID.md`, `BazEBCI.md`, `BazAppearance.md` and `BazRender.md`, introduced
+by commit `6a24b5f`. `Foix` appears nowhere in the repository outside the Notion
+citations themselves. So the naming note's conclusion holds; only its evidence does not
+resolve.
+
+This is the second citation of this shape, after the `"VT: sealed until Tahl breach"`
+escalation-curve reference in §19 and §23. Both were right about the claim and wrong
+about where it lives. Worth naming as a pattern: **claims arriving from the Cowork side
+are reliable; the commit hashes and document names attached to them are not, and should
+be checked before they are relied on in a ledger.**
+
+## Integrity checks re-run independently, and they pass
+
+`SAGA_TIMELINE` §4 claims the load has no dangling `required_setups`, no setup occurring
+later than the milestone requiring it, and only ruled `supplement_type` values. Verified
+against the file rather than taken on trust:
+
+- 36 rows, every `required_setups` reference resolves
+- no milestone requires a setup later in story order
+- every `supplement_type` value is in the ruled or provisional vocabulary
+
+Those claims stand.
+
+## CONFLICT — `target_act: EP` contradicts the current ruling
+
+Five rows — `M10`, `M11` (Book 3), `M23` (Book 6), `M35`, `M36` (Book 9) — use `EP` in
+`target_act`.
+
+`CLAUDE.md` §3 currently reads: *"Epilogues take the next sequential episode number."*
+That is decisions §2.2, ruled 2026-09-18.
+
+`VEIL_STRUCTURE` part 4 records a later ruling — *"Act 4 is more of a multi-episode
+epilogue (~3-4)"* — and its §3 proposes **superseding** that with `EP` in the act slot,
+offering three options:
+
+- **A.** `EP` and `PR` both in the act slot; supersedes both D6 (`E00`) and D8
+- **B.** `EP` only; prologue stays `E00` inside Act I
+- **C.** Keep D8; the epilogue is the tail of Act III
+
+**A is recommended there and none is ruled.** So the five `EP` rows presume an outcome.
+They are correct under A or B and wrong under C. Left as written in the proposed load,
+flagged here, and **the load cannot go into the grid until this is settled** — the
+validator's SID format allows `A{1-3}` only, so `EP` is not expressible today.
+
+## Book 9 has four acts — the largest open structural question
+
+`NOTION_RECOVERY` part 4 §1: the Book 9 Final Beat Bible runs **ACT I–ACT IV**, with Act
+IV "Afterlight" at E16–E21. `S1.T3.B09.A4.E16` is not expressible under
+`A{1-3}`, and the 27-Act Macro Structure says nine books times three acts.
+
+Either the saga is 28 acts, or Act IV is the epilogue written as an act — which is what
+the `EP` question above would settle. **The two questions are one question**, and should
+be ruled together.
+
+## What the bundles unblock, and what they do not
+
+| Held item | Status |
+| --- | --- |
+| `VT` era gating citation (§19, §23) | **Fully sourced.** `01.02` Trilogy Architecture: "VT sealed until Tahl brushes it". §23 found the rule in the exports; this finds it in Notion too, independently |
+| Post-Mending envelope contents | **Sourced** — `06 • Post-Mending World Bible` gives no shards, Echo Nodes, "breaths not storms" supporting `W0`–`W1`, and `VT` persisting |
+| `MT becomes LT` vs channel separation | **Resolved as a rename**, not a conversion, so `MT ≠ VT ≠ LT` holds |
+| Silence and Hope | **Recovered** in full — structural half and emotional half, both dissolving at the Mending into Lucien and Caro |
+| Who performs the Mending (§23) | **Resolved.** `B09.A3.E14`: the trio act *and* "Silence dissolves into Lucien. Hope dissolves into Caro." Both lines were right; the export audit was describing the human half |
+| Post-Mending era file | **Still held** — `LT` now has *three* referents (Seraphine's ascended identity, the resonance state, Kade's renamed network), which is a new question, not the old one |
+
+## The Veil two-draft problem remains the largest open item
+
+`VEIL_STRUCTURE` part 1 records it and does not resolve it: Notion and the exports
+disagree about whether Baz dies in Book 3, whether Tahl and Caro appear in Books 1–2,
+whether the Caro–Elisabet romance exists in Veil, and whether Veil points at Santa Fe.
+**Migrating any Veil act overlay writes one of two stories into canon.**
+
+The rulings in part 2 cut across both drafts and are recorded as binding there, but they
+settle character and causality, not act structure.
+
+## Not applied
+
+Nothing from these bundles is applied to the substrate. The milestone load is corrected
+and staged in `proposals/`; every ruling that needs a schema change — `EP` in the act
+slot, `A{1-4}`, the `pov_named_on_page` flag proposed at `VEIL_STRUCTURE` part 3 §4 —
+waits on the rulings above.
+
 END RECOVERY LEDGER
