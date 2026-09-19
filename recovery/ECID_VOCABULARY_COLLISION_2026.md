@@ -1,6 +1,9 @@
 # ECID Vocabulary Collision — Decision Memo
 
-**Status:** Evidence only. No canon decision made. Blocks work-queue items 4 and 5.
+**Status:** Evidence only. The four rulings it requested were made on 2026-09-18 —
+see `recovery/CANON_DECISIONS_2026-09-18.md` §1 and §3, and `CLAUDE.md` §4.1 for the
+resolution table. The evidence below stands as recorded; the questions in §7 are
+answered. Retained because migration still has to apply §1.5's mapping.
 **Prepared:** 2026-09-18
 **Sources:** `recovery/source_exports/html_sanitized/` — 21 exports, 20 with content
 (`ChatGPT - Story Development.html` is the known 708-byte shell, 580 visible characters) —

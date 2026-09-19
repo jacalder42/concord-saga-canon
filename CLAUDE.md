@@ -184,13 +184,18 @@ One scheme only. `recovery/RECOVERY_LEDGER_2026.md` defines it:
 | A | Explicit locked source canon |
 | B | Explicitly approved development outputs |
 | C | Existing GitHub canon |
-| D | Assistant-generated but unapproved material |
-| E | Memory summaries |
+| D | Other sources — Notion, assistant-generated drafts, anything else recovered |
+| E | Memory |
+
+Ruled 2026-09-18 (`recovery/CANON_DECISIONS_2026-09-18.md` §5.1). Tier D widened from
+"assistant-generated but unapproved" to cover all other sources, Notion included.
+Notion-only facts stay `RECOVERED PRIOR CANON` until re-approved (§5.4).
 
 A second, conflicting lettering exists in
 `recovery/checkpoints/RECOVERY_STATE_CHECKPOINT_2026-09-15.md` (lines 16–18), where D
 is "earlier Notion", E is "assistant-generated", and F is "memory". That file is the
-only place it survives. **That scheme is retired.** When converting it, rewrite to the
+only place it survives, and it is on the unmerged proposal branch.
+**That scheme is retired and converts wherever found.** When converting it, rewrite to the
 table above, note the conversion in the commit message, and record it in the ledger —
 commit messages alone are too easy to lose.
 
@@ -235,30 +240,28 @@ an external handoff.
 - Act overlays already use the correct two-digit `S1.T1.B01.A1` form
 - `rules/canon_rules.json` already carries the correct two-digit SID pattern
 
-**Act I recovery status — conflict, unresolved.**
+**Act I recovery status — RULED 2026-09-18.**
 
-Two repository artifacts say Act I is complete:
+`recovery/CANON_DECISIONS_2026-09-18.md` §5.5 settles it:
 
-- `recovery/checkpoints/BOOK1_EPISODE_RECOVERY_STATE_2026-09-15.md` — "Act I —
-  recovered complete", listing E00–E16
-- `recovery/RECOVERY_LEDGER_2026.md` §5 — "FULLY EPISODE-EXPANDED THROUGH E16"
+- **Full beat text for E00–E18 exists**, in the unabridged source conversations.
+- **E00–E15 are unexported and unmigrated.** The repository holds packets for E16–E18
+  only, in `Story Development - Episode expansion process__part01/02.html`.
 
-A file-level search of the exports says otherwise:
+So "recovered complete" in `BOOK1_EPISODE_RECOVERY_STATE_2026-09-15.md` and in
+`RECOVERY_LEDGER_2026.md` §5 referred to material that **exists but is not exported**.
+The earlier reading recorded here — that it meant the title list — is superseded. The
+distinction that matters for planning is *exported*, not *exists*: the beat text is
+real, and work-queue item 7 targets `Archive Veil Book 1` because that is where it
+lives.
 
-- E16, E17, E18 have **full packets** with complete ECID blocks, in
-  `Story Development - Episode expansion process__part01/02.html`. E18 ends with
-  "END EPISODE 18 … Next episode: EPISODE 19."
-- E00–E15 appear as **titles only**. No packet body for any of them is present in any
-  export on either branch; the Act I episode titles return zero content matches.
-  The ledger names `Archive Veil Book 1` and `Hold until release` as their likely home,
-  and neither has been exported.
+The file-level evidence is unchanged and still correct: no packet body for E00–E15
+appears in any export on either branch. That was a fact about the exports, not about
+whether the material exists.
 
-The likely reconciliation is that "recovered complete" meant the title list, not the
-packets. **That is a reading, not a ruling.** James: confirm it and the ledgers get
-corrected to the E00–E15 / E16–E18 / E19 split. Until then, both readings stand
-recorded, per §4.
-
-E19 is named only, never built. Prohibited — see §4.
+**E19 unlocks after the line-by-line chat review, organization and distillation**
+(§6.5) — not after E01–E15 migration alone. Until then it is named only, never built.
+Prohibited — see §4.
 
 ---
 

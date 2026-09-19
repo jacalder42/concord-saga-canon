@@ -25,11 +25,23 @@ Material produced in an approval / archive / proceed workflow and not later supe
 ### Tier C — Existing GitHub canon
 Developed current repository content. A TODO placeholder does not override richer recovered material that was never migrated.
 
-### Tier D — Assistant-generated but unapproved material
-Useful for archaeology only; never silently promoted.
+### Tier D — Other sources
+Material from sources outside the locked/approved/GitHub layers — Notion, assistant-generated
+drafts, and anything else recovered. Useful for archaeology; never silently promoted.
+Notion-only facts stay `RECOVERED PRIOR CANON` until re-approved (decisions §5.4).
 
-### Tier E — Memory summaries
-Useful for locating likely material; never authoritative by themselves.
+### Tier E — Memory
+Memory summaries and project-memory recall. Useful for locating likely material; never
+authoritative by themselves.
+
+> **Ruled 2026-09-18** (`recovery/CANON_DECISIONS_2026-09-18.md` §5.1). The scheme is
+> A locked source canon · B approved development outputs · C existing GitHub canon ·
+> **D other sources** · **E memory**. Tier D widens from "assistant-generated but
+> unapproved" to cover all other sources, Notion included. The competing checkpoint
+> lettering (D earlier Notion / E assistant-generated / F memory) is **retired and
+> converted wherever found** — it survives only in
+> `recovery/checkpoints/RECOVERY_STATE_CHECKPOINT_2026-09-15.md` lines 16–18, which is
+> on the unmerged proposal branch and converts when that branch lands.
 
 ---
 
@@ -156,7 +168,18 @@ above is the recovered historical form and converts on migration. See §14.
 # 5. Book 1 recovery status
 
 ## Book 1 Act I
-Status: FULLY EPISODE-EXPANDED THROUGH E16
+Status: **CORRECTED 2026-09-18** — full beat text for E00–E18 EXISTS in the unabridged
+source conversations. E00–E15 are UNEXPORTED and UNMIGRATED. The repository holds
+packets for E16–E18 only.
+
+> `recovery/CANON_DECISIONS_2026-09-18.md` §5.5 rules what "recovered complete" meant
+> in this ledger and in `BOOK1_EPISODE_RECOVERY_STATE`: the material exists, but it is
+> not exported. The earlier reading recorded in `CLAUDE.md` §6 — that "recovered
+> complete" referred to the title list — is superseded. The distinction that matters
+> for planning is **exported**, not **exists**: work-queue item 7 targets
+> `Archive Veil Book 1` because that is where the unexported beat text lives.
+>
+> The superseded status line read: `FULLY EPISODE-EXPANDED THROUGH E16`.
 
 Recovered structure includes:
 - E00 Prologue — The Conversation in the Sky

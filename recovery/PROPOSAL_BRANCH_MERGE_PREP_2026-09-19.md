@@ -75,18 +75,20 @@ All four are **content** conflicts that merging would import. None is a git conf
 and none is created by the merge — each already exists on the branch today. Merging
 makes them visible on `main` rather than causing them.
 
-### 3.1 A third artifact asserting Act I is complete
+### 3.1 A third artifact asserting Act I is complete — now consistent with the ruling
 
-`CLAUDE.md` §6 records the Act I dispute and names two artifacts on the "complete"
-side. Merging adds a third:
+`proposals/concord-2026/RECOVERED_SAGA_SPINE_PROPOSAL.md` lines 124–129 assert
+"Act I E01–E16: complete in the later workflow…", a third artifact beside the two
+`CLAUDE.md` §6 named.
 
-> `proposals/concord-2026/RECOVERED_SAGA_SPINE_PROPOSAL.md`, lines 124–129:
-> "Act I E01–E16: complete in the later workflow…"
+**Decisions §5.5 ruled on 2026-09-18 that "recovered complete" means the beat text
+exists but is unexported.** Under that ruling this document is not wrong — it is
+describing existence, not export state. It should still gain the exported/unexported
+distinction when it is next touched, because on its own it reads as a claim about the
+repository.
 
-This does not change the evidence — no packet body for E00–E15 exists in any export on
-either branch — but it means the correction contemplated in work-queue item 2 has three
-documents to correct, not two. `CLAUDE.md` §6 should be updated to name all three when
-James rules.
+The file-level evidence is unchanged: no packet body for E00–E15 appears in any export
+on either branch.
 
 ### 3.2 The retired D/E/F tier scheme, still contained to one file
 
