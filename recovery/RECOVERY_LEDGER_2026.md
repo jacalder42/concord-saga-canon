@@ -418,4 +418,77 @@ This ruling is independent of the four in
 `recovery/ECID_VOCABULARY_COLLISION_2026.md` §7, but lands in the same material, so it
 is best answered alongside them.
 
+---
+
+# 15. Book 3 Act III structural shells — unqueued material
+
+Status: RECOVERED / UNMIGRATED / NO QUEUE ITEM UNTIL NOW
+
+## What exists
+
+`Story Development - Saga structural archive` (both parts, proposal branch) holds 22
+structural episode blocks that no work-queue item covered:
+
+- **18 shells**, `S1.T1.B3.A3.E01` through `E18` — Book 3, Act III, "The Slip"
+- **4 shells**, `S1.T1.B3.EP.E01` through `E04` — the Veil → Neon epilogue
+
+The assistant turn following them records that they were stored "exactly as provided,
+with no alteration, no compression", which places them as an archival paste rather than
+generated material. See §14 of `recovery/ECID_VOCABULARY_COLLISION_2026.md` on why turn
+role alone does not settle authorship.
+
+## These are shells, not packets — the distinction matters
+
+Each block carries 13 fields: `Title`, `Function`, `POV`, `ENV`, `U-Level`, `Weather`,
+`Mode`, `Resonance State`, `Intent`, `Continuity In`, `Continuity Out`, `Anchor`,
+`Notes`.
+
+The Book 1 E16–E18 material in queue item 5 is a different and heavier artifact: full
+packets carrying `Heat`, `FX`, `Audience`, a Pressure Map, Episode Jazz, and 6–12
+internal beats with BIDs. Migrating a shell and migrating a packet are not the same
+operation and should not share a procedure.
+
+## Three blockers, two of them new
+
+**1. Vocabulary (already recorded).** These shells carry 14 `STRAIN`, 4 `LORE`, 1 `POL`
+and 1 `VT-BRUSH` — 20 of the 25 out-of-vocabulary ECID field values in the whole corpus.
+Covered by §13 and by the four rulings in `ECID_VOCABULARY_COLLISION_2026.md` §7.
+
+**2. Missing required ECID fields.** `rules/canon_rules.json` lists `ECID_fields` as
+`POV, ENV, CORRIDOR, WEATHER, MODE, HEAT, FX, RES`. The shells supply no `Heat` and no
+`FX` — zero occurrences across all 22 blocks. Migration therefore either leaves two
+required fields empty, invents values, or the schema has to mark them optional at shell
+granularity. **Ruling needed.**
+
+**3. The epilogue has no valid act token.** The SID format is
+`S1.T{1-3}.B{01-09}.A{1-3}.E{01-99}`. The four epilogue shells use `S1.T1.B3.EP.E01`
+form — `EP` where an act must go. An epilogue is not act 1, 2 or 3, and the format has
+no slot for it. This is the same class of gap as the `E00` prologue problem in
+`CLAUDE.md` §3, and the two are best settled together: both ask whether the SID format
+covers material outside the three-act spine. **Ruling needed.**
+
+## Where it sits relative to the Veil migration
+
+Book 3 is a Veil book, so this material is inside the Veil scope, not beside it:
+
+- **Queue item 4** populates the nine Veil act overlays from the Beat Bible at act
+  level. One of those nine is `act_overlays/act_overlay_S1_T1_B03_A3.json` — the act
+  these shells sit inside.
+- **Queue item 5a** (new) populates episode-level structure for that same act.
+
+Item 4 sets the envelope; 5a fills it. Running 5a first would write episode rows with
+no act-level ceiling to check them against — and this material contains a known breach:
+`S1.T1.B3.A3.E14` carries `Weather: W4 (brief)` while
+`rules/trilogy_context_T1_veil.json` caps Veil at `weather_max: W3`. That episode is
+also the trilogy's only declared VT contact (`Anchor: FIRST AND ONLY VT BRUSH IN VEIL
+TRILOGY`), so it is not a candidate for quiet downgrade to `W3`. The envelope defect
+itself is recorded in `CLAUDE.md` §9.1 and expanded in §16 of this ledger.
+
+## Ruling needed
+
+1. Do shells migrate with `HEAT`/`FX` empty, or is the schema amended to make them
+   optional at shell granularity?
+2. How are epilogue units identified, given `A{1-3}` has no slot for them — and does
+   the same answer cover the `E00` prologue?
+
 END RECOVERY LEDGER

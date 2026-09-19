@@ -29,10 +29,11 @@ counting ECID field values only:
 | Material | SIDs | Out-of-vocabulary field values | Queue item |
 | --- | --- | --- | --- |
 | `Episode expansion process` | `S1.T1.B1.A1.E16`, `B1.A2.E17`, `B1.A2.E18` | 3 `STRAIN`, 1 `LORE`, 1 `EDGE` — **5 total** | item 5 |
-| `Saga structural archive` | `S1.T1.B3.A3.E01`–`E18` | 14 `STRAIN`, 4 `LORE`, 1 `POL`, 1 `BRUSH` — **20 total** | not in the queue |
+| `Saga structural archive` | `S1.T1.B3.A3.E01`–`E18` | 14 `STRAIN`, 4 `LORE`, 1 `POL`, 1 `BRUSH` — **20 total** | item 5a |
 
 So item 5 — migrating E16–E18 — hits five occurrences of three tokens. The remaining
-20 occurrences sit in Book 3 Act 3 material that no current queue item touches. Both
+20 occurrences sit in Book 3 Act 3 material, which now has a queue item of its own
+(`CLAUDE.md` §8 item 5a, scoped in `recovery/RECOVERY_LEDGER_2026.md` §15). Both
 packet sets also use the retired one-digit book form (`B1`, `B3`) that `CLAUDE.md` §3
 rules wrong, so that conversion lands in the same pass.
 
@@ -58,8 +59,8 @@ Outside ECID field values:
 - `LORE` twice in the **beat-level `Function:` field**, not in prose:
   `Function: LORE + CHAR` and `Function: PLOT + LORE`, in `Narrative Structure`,
   attached to beats `S1.T1.B1.A1.E06-B2` and `-B4`. That is a different field in a
-  different schema layer, and those beat IDs also carry the retired `-B{n}` form that
-  `CLAUDE.md` §3 replaces with `BT`
+  different schema layer, and those beat IDs use the `-B{n}` form whose replacement by
+  `BT` is proposed but unapproved — see `recovery/RECOVERY_LEDGER_2026.md` §14
 - `BRUSH` once in an `Anchor:` line — quoted in §3.1
 
 Raw token totals across the corpus are therefore `STRAIN` 18, `LORE` 7, `BRUSH` 2.
@@ -303,7 +304,8 @@ Four rulings, in this order:
 
 Answers to 1–3 unblock item 5. Answer 4 determines whether the `book_context` and
 act-overlay schemas need extending before migration starts. None of the four unblocks
-the Book 3 Act 3 material, which needs a queue item of its own.
+the Book 3 Act 3 material on its own: that is now queue item 5a, and it carries two
+further structural rulings recorded in `recovery/RECOVERY_LEDGER_2026.md` §15.
 
 ---
 

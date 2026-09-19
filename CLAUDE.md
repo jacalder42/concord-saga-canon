@@ -267,6 +267,13 @@ on §4.1.
    nine Veil act overlays, following `proposals/concord-2026/MIGRATION_MAP_BOOK_CONTEXT_ACT_OVERLAYS.md`
    — **blocked on items 1 and §4.1**
 5. Migrate the E16–E18 packets into the canon structure — **blocked on items 1 and §4.1**
+5a. Migrate the Book 3 Act III structural shells — `S1.T1.B3.A3.E01`–`E18`, plus the
+   four-episode Veil→Neon epilogue, from the `Saga structural archive` export. This is
+   the Book 3 analogue of item 5 and sits downstream of item 4, which sets the act
+   envelope these episodes must fit inside. **Blocked on items 1 and 4, on §4.1, and on
+   two structural rulings recorded in `recovery/RECOVERY_LEDGER_2026.md` §15** — the
+   shells omit the required `HEAT` and `FX` ECID fields, and the epilogue uses `EP` in
+   the act slot, which the SID format does not allow
 6. Run the ChatGPT console export in list mode; produce the full workspace inventory
 7. Extract remaining Tier 1 conversations, `Archive Veil Book 1` first — this is where
    the E00–E15 packets are expected to be
