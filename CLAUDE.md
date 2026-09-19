@@ -20,6 +20,8 @@ Non-prose canon substrate for the Concord Saga, a nine-book serial.
 | `templates/` | Hand-authored templates for audits and bundles. Edit these freely; the **generated artifacts** produced from them are what must not be hand-edited |
 | `proposals/` | Analysis and proposal documents (`proposals/concord-2026/`). Present on the proposal branch only — see §6 |
 | `recovery/` | Recovery ledgers, migration audits, checkpoints, and sanitized source exports |
+| `tools/` | Validation scripts. `validate_canon.py` checks the substrate against `rules/canon_rules.json`; `test_validate_canon.py` is its self-test |
+| `reports/` | Generated validation reports — do not hand-edit, regenerate (see `reports/README.md`) |
 
 **No prose, scene text, or dialogue is stored here.** If a task would put
 narrative prose in this repo, stop and say so instead.
@@ -313,6 +315,18 @@ need their own ledger entry.
 - **All 27 act overlays are byte-identical** apart from their ID fields, as are all 9
   book contexts. Every act caps `fun`/`slice_of_life`/`wonder` at `LOW`, including the
   Book 9 climax.
-- **No validation tooling exists.** The repo specifies a controlled vocabulary, a SID
-  format and five named checks, and enforces none of them. The `Technarc` drift and the
-  `STRAIN` collision in §4.1 are both things a check script would have caught.
+- ~~**No validation tooling exists.**~~ **Addressed 2026-09-19.** `tools/validate_canon.py`
+  now enforces the mechanical layer — SID format including the two-digit book rule, ECID
+  field names, and controlled-vocabulary membership for all six dimensions — reading every
+  rule from `rules/canon_rules.json` rather than hardcoding it. Run it before any
+  migration commit:
+
+  ```sh
+  python3 tools/validate_canon.py            # exits non-zero on any violation
+  python3 tools/test_validate_canon.py       # 27 self-tests
+  ```
+
+  Baseline as of 2026-09-19: 27 violations in the substrate, all of them `TODO`
+  placeholders in the nine book-context skeletons. See `reports/README.md`. It does not
+  catch the other four defects above — the faction drift is a spelling question and the
+  envelope contradiction is a semantic one, and neither is a format violation.
