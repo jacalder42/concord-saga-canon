@@ -652,19 +652,14 @@ Current canon instead locks:
 
 **Recovered narrative purpose:** Tahl is the mortal ceiling of truth. His death demonstrates that clarity alone cannot survive unlimited systemic pressure.
 
-## ND-031 — Baz's B04 death remains causally under-recovered
-
-**Classification:** MISSING CAUSAL SOURCE
-
-Current recovery establishes:
-- Baz survives B03;
-- Baz dies in B04;
-- Lucien spirals afterward;
-- exact killer/method/motive/location have not been recovered.
-
-The older B03 Warehouse death is obsolete.
-
-**Critical warning:** do not assign Baz's death to Elias, Brightbreak, Choirless, Han Wei, Virelli, a manufactured meta, or generic resonance collapse without source evidence.
+## ND-031 — Baz dies at the END of B03 in the Warehouse Incident; the cast enters B04 carrying/discovering the consequences
+- **Authority:** current explicit author ruling + corroborating November 2025 Final Beat Bible
+- **Status:** CORRECTED / SOURCE-CONFIRMED CORE
+- **Recovered mechanics:** NOLA Warehouse District; Resonance Rupture; trapped civilians; Baz enters to rescue them; structural collapse crushes him; he uses his last breath to pull a child free; Lucien arrives too late.
+- **Causal boundary:** surviving Final Beat Bible attributes the immediate death to Rupture/structural collapse, not a named antagonist personally killing Baz. Dominion/Technarch institutional pressure surrounds the event.
+- **B04 handoff:** current author ruling says the rest of the cast learns of Baz's death at the start of B04; exact information-discovery sequence remains to reconcile against older epilogue staging.
+- **Tahl connection:** current author direction proposes that pre-reveal MT/Threadnaut reporting may have exposed Baz or a Warehouse participant, creating Tahl's guilt/ethics wound. This exposure mechanism is NOT yet documentary-confirmed and remains OPEN.
+- **Lucien connection:** Lucien's guilt is structurally supported; exact formulation that he blames himself specifically for asking Baz to come to New Orleans remains author recollection pending direct source confirmation.
 
 ## ND-032 — Kade's old “nearly kills Rex” version is superseded
 
@@ -714,3 +709,11 @@ The missing link is **Baz's B04 death causality**, plus exact Neon event provena
 6. Then audit remaining **book-specific locked anchors/breadcrumbs** before filling 27 act overlays.
 
 END NARRATIVE DECISION LEDGER
+
+
+## Baz identity-name conflict — Foix vs Arnaud
+- November 2025 Notion canon layer overwhelmingly uses **Basil “Baz” Foix**, including character sheet, visual canon, skill tree, B03 character list, and Lucien relationship canon.
+- December 12/13 recovery memory set explicitly records **Bastien “Baz” Arnaud — Tier-1 Character Canon Card saved to memory**.
+- Current GitHub Tier-1 files uniformly use **Bastien “Baz” Arnaud** (BazID, BazEBCI, BazAppearance, Baz POV).
+- This strongly indicates a later identity rewrite/rename from Basil Foix → Bastien Arnaud, but the direct author selection/supersession statement has not yet been recovered.
+- **Working authority:** use **Bastien “Baz” Arnaud** in current Tier-1 canon while preserving **Basil “Baz” Foix** as historical alias/drift until the renaming source is found. Do not mass-delete Foix references from historical source material.
