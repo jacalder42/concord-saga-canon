@@ -147,6 +147,10 @@ Phase 1A separately confirms that the `CONCORD CONTENT ID SYSTEM (SID / ECID / B
 
 Current assessment: no evidence in the two saved chats proves that SID/ECID/BID semantics were later renamed. Preserve existing meanings unless a later primary artifact demonstrates supersession.
 
+**Superseded 2026-09-18 for the BID form.** `recovery/CANON_DECISIONS_2026-09-18.md`
+§2.3 rules beat IDs to `{SID}-BT{BeatNumber}`. The `{SID}-B{BeatNumber}` form recorded
+above is the recovered historical form and converts on migration. See §14.
+
 ---
 
 # 5. Book 1 recovery status
@@ -366,7 +370,18 @@ proceeds; they are listed in §7 of that memo.
 
 ---
 
-# 14. Beat ID prefix — open item
+# 14. Beat ID prefix — RULED 2026-09-18
+
+Status: **RESOLVED.** `BT` adopted. See `recovery/CANON_DECISIONS_2026-09-18.md` §2.3.
+
+The ruling: beat IDs are `{SID}-BT{BeatNumber}`. `rules/canon_rules.json` now carries
+that form, applied cleanly without the two non-schema keys the earlier unapproved edit
+introduced. The history below is preserved because it records why the change was
+reverted once before being made properly.
+
+---
+
+## Original entry (superseded by the ruling above)
 
 Status: PROPOSAL / UNAPPROVED / REVERTED FROM THE REPOSITORY
 
@@ -405,18 +420,12 @@ carry beat IDs in the old form (for example `S1.T1.B1.A1.E06-B2` and `-B4` in th
 Deciding before migration costs nothing; deciding after means a second rewrite pass on
 top of the one-digit-book conversion already required by `CLAUDE.md` §3.
 
-## Ruling needed
+## Ruling needed — answered
 
-Does the beat prefix stay `B` or become `BT`?
-
-If `BT`: `rules/canon_rules.json` `BID_format` changes, `CLAUDE.md` §3 changes, §4 of
-this ledger gets a conversion note, and recovered beat IDs convert during migration.
-If `B` stays: `CLAUDE.md` §3 drops the proposal and the collision is accepted as
-documented behaviour.
-
-This ruling is independent of the four in
-`recovery/ECID_VOCABULARY_COLLISION_2026.md` §7, but lands in the same material, so it
-is best answered alongside them.
+Does the beat prefix stay `B` or become `BT`? **`BT`**, per §2.3 of the decisions
+document. `BID_format` and `CLAUDE.md` §3 are updated. §4 of this ledger records the
+old form as recovered-material context and is annotated accordingly. Recovered beat IDs
+convert during migration.
 
 ---
 

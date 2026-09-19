@@ -82,7 +82,7 @@
         "FX",
         "RES"
       ],
-      "BID_format": "{SID}-B{BeatNumber}"
+      "BID_format": "{SID}-BT{BeatNumber}"
     },
     "resonance_equation": "RP = Will \u00d7 Emotion \u00d7 Intent",
     "uars": {
