@@ -658,3 +658,34 @@ Because Tier-1 says Elias wants **authorization rather than obedience**, the str
 
 This aligns the climax with existing Elias failure mechanics instead of requiring a new antagonist mechanism.
 
+
+# 25. Elisabet warning — author-locked correction
+
+Elisabet's warning is tactical, not a missing piece of Mending physics.
+
+Current author ruling:
+- Brightbreak and other competing forces are closing on the Mending site.
+- Elisabet recognizes that the perimeter is failing and the Mending team's available time is collapsing.
+- She leaves Rex/rear guard to carry that warning forward.
+- She reaches Caro/the Mending team and warns them that the convergence is imminent.
+- Elisabet and Caro receive their final pre-Mending moment together.
+- Caro then proceeds with Seraphine and Lucien as one of the active Mending triad.
+- Elisabet's departure changes the rear-line conditions and leaves Rex more exposed as the Elias–Kade–Rex crisis develops.
+
+This supersedes the earlier hypothesis that Elisabet's live resonance-ecology mapping reveals a technical condition required to perform the Mending.
+
+## Corrected structural function
+
+The compressed “Elisabet maps resonance ecology live” beat can survive as situational awareness: her mapping helps reveal faction movement, closing routes, a failing perimeter, or imminent attack. The exact detection method remains open.
+
+Elisabet is not a fourth technical operator of the Mending. Her endgame function is:
+**recognize danger → carry warning forward → give the triad urgency/time → release Caro into the Mending → contribute to the defense/continuity around it.**
+
+## Still open
+- Which forces comprise “others” besides Brightbreak.
+- Exact detection method.
+- Why Elisabet must carry the warning personally rather than relay it.
+- Whether communications are down, compromised, distrusted, or simply inadequate.
+- Where Elisabet goes after the final Caro moment.
+- Exact timing/geography relative to Kade's attack on Rex.
+- Exact dialogue/physicality of the Caro–Elisabet farewell.
