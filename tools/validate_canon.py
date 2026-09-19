@@ -85,6 +85,7 @@ SUPPLEMENT_COLUMNS = {
     "SUPPLEMENT_TYPE": "supplement_types",
     "SUPPLEMENT_FUNCTION": "supplement_functions",
     "SUPPLEMENT_VEHICLE": "supplement_vehicles",
+    "SUPPLEMENT_FORM": "supplement_forms",
 }
 
 # JSON key -> controlled_vocab key, for the envelope files.
@@ -316,7 +317,7 @@ def allowed_tokens(source, dim, vocab, supp):
     """
     if source == "controlled_vocab":
         return {v.upper() for v in vocab[dim]}
-    allowed = {k.upper() for k in supp.get(dim, {})}
+    allowed = {k.upper() for k in supp.get(dim, {}) if not k.startswith("_")}
     if dim == "supplement_types":
         allowed |= {k.upper() for k in supp.get("supplement_types_provisional", {})
                     if not k.startswith("_")}

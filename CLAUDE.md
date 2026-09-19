@@ -121,6 +121,10 @@ identifiers. Epilogues take the next sequential episode number.
 recognized input aliases recorded in `ECID_field_aliases`; tooling normalizes on the
 way in. Do not rewrite the schema to match packet labels.
 
+**`SUPP` is a mode** (ruled 2026-09-19, hedged as *"mode, i think"*), added to
+`controlled_vocab.modes`. Treat it as a soft ruling: no beat carries the tag yet, so it
+reopens cheaply if tagging shows it behaving as a marker rather than a register.
+
 **The ECID carries a `LOAD` axis** (§1.4): `L0` unloaded, `L1` carrying/sustainable,
 `L2` strained with visible cost, `L3` shard precursor. Nothing else in the ECID carried
 emotional load — `HEAT` is the romance ladder, `FX` and `WEATHER` are environmental,

@@ -65,6 +65,11 @@ A supplement may include:
 - reflective vignettes
 - aftermath scenes
 
+> **These six are the `supplement_form` axis.** Ruled 2026-09-19: form and vehicle are
+> **separate values**, so these do not fold into the vehicle list. Codified as
+> `supplement_system.supplement_forms` in `rules/canon_rules.json` and described at
+> `canon/supplements/SUPPLEMENT_VEHICLES.md` §2.1. Any form may ride any vehicle.
+
 Supplements are:
 - optional
 - secondary

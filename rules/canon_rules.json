@@ -54,7 +54,8 @@
       "INT",
       "HOR",
       "SLICE",
-      "FUN"
+      "FUN",
+      "SUPP"
     ],
     "heat": [
       "H0",
@@ -135,7 +136,7 @@
     "source": "recovery/CANON_DECISIONS_2026-09-18.md 1.4"
   },
   "supplement_system": {
-    "note": "Type, function and vehicle are three independent axes. Nothing is overloaded; the field decides what a token means. See recovery/CANON_DECISIONS_2026-09-18.md 3.",
+    "note": "Type, function, vehicle and form are four independent axes. Nothing is overloaded; the field decides what a token means. See recovery/CANON_DECISIONS_2026-09-18.md 3 and the 2026-09-19 rulings.",
     "supplement_types": {
       "LORE": "Historic or background information",
       "POL": "Political communiques giving information not seen in the narrative",
@@ -162,6 +163,15 @@
       "VT": "VT Glimpses",
       "VELVET": "Velvet Vein Menu / Cocktail Book",
       "RITUAL": "Resonance Recipes / Music / Ritual Inserts"
+    },
+    "supplement_forms": {
+      "_note": "A fourth axis, separate from vehicle. Ruled 2026-09-19: form and vehicle are separate values. The six forms are from rules/Channels/SUPPLEMENTS_PERMISSION_RULES.md section 2.",
+      "LETTER": "letters",
+      "RECORDING": "recorded messages",
+      "JOURNAL": "journals",
+      "FRAGMENT": "memory fragments",
+      "VIGNETTE": "reflective vignettes",
+      "AFTERMATH": "aftermath scenes"
     },
     "constraints": {
       "vt_glimpses_max_total": 12,

@@ -12,19 +12,21 @@ Machine-readable counterparts live in `rules/canon_rules.json` under
 
 ---
 
-## 1. The three axes
+## 1. The four axes
 
-Type, function and vehicle are **three independent axes**. Nothing is overloaded, and
-the field decides what a token means (decisions §4.2).
+Type, function, vehicle and form are **four independent axes**. Nothing is overloaded,
+and the field decides what a token means (decisions §4.2).
 
 | Axis | Question it answers | Where it lives |
 | --- | --- | --- |
 | `supplement_type` | which audience segment does this pay off | decisions §3.1 |
 | `supplement_function` | what does it do in the reader's emotional cycle | decisions §3.2 |
-| `supplement_vehicle` | where does it appear in-world | this document |
+| `supplement_vehicle` | where does it appear in-world | §2 below |
+| `supplement_form` | what shape is the artifact itself | §2.1 below |
 
 **Worked example.** A Chronicle leak about political suppression is vehicle `CHRON`,
-function `LINK`, type `POL`, serving the Hardcore Fantasy Nerd.
+function `LINK`, type `POL`, serving the Hardcore Fantasy Nerd. Its form might be
+`RECORDING` or `LETTER` — that is a separate choice, and no vehicle constrains it.
 
 ---
 
@@ -78,6 +80,27 @@ spine records, seen from the supplement layer.
 
 > **Token collision.** `VT` is a channel (`channels.VT`), a resonance state
 > (`res_states`), and this vehicle. Three vocabularies, one token.
+
+### 2.1 Form — a separate axis from vehicle
+
+**Ruled 2026-09-19: form and vehicle are separate values.** The six forms listed at
+`rules/Channels/SUPPLEMENTS_PERMISSION_RULES.md` §2 do **not** fold into vehicle. They
+are their own axis, and any form may ride any vehicle.
+
+| Code | Form |
+| --- | --- |
+| `LETTER` | letters |
+| `RECORDING` | recorded messages |
+| `JOURNAL` | journals |
+| `FRAGMENT` | memory fragments |
+| `VIGNETTE` | reflective vignettes |
+| `AFTERMATH` | aftermath scenes |
+
+The distinction: **vehicle** is the in-world publication a reader encounters it
+through; **form** is the shape of the artifact. A journal excerpt printed in the
+Chronicle is vehicle `CHRON`, form `JOURNAL`. The same journal excerpt surfacing in
+Field Notes is vehicle `FIELD`, form `JOURNAL`. Folding them together would have lost
+that.
 
 ### Culture
 
@@ -162,12 +185,21 @@ three-part close rather than an unresolved note in the source. Recorded as found
 
 ## 5. What this document does not settle
 
-Open at decisions §8, and not to be decided without James:
+**Answered 2026-09-19:**
 
-- **Whether the six forms in `SUPPLEMENTS_PERMISSION_RULES.md` §2 fold into vehicle**
-  (§8 item 3). Letters, recorded messages, journals, memory fragments, reflective
-  vignettes and aftermath scenes each have an obvious vehicle, so folding them in is
-  the recommendation in the decisions — but it is a ruling, not a cleanup.
+- **The six forms do not fold into vehicle** (§8 item 3). They are a separate axis —
+  see §2.1. The decisions document recommended folding them in; James ruled the other
+  way, and the journal-in-two-vehicles case above shows why.
+- **`SUPP` is a mode** (§8 item 2), added to `controlled_vocab.modes`. Given with the
+  hedge *"mode, i think"* — recorded as a soft ruling. If beat tagging later shows
+  `SUPP` behaving as a marker rather than a register, it reopens cheaply: no beat is
+  tagged with it yet.
+
+**Still open at decisions §8, not to be decided without James:**
+
 - **`reader_group` values** (§8 item 5): derived from `supplement_type`, or an
-  independent vocabulary if the segments cut differently.
-- **Whether `SUPP` is a mode or a flag** (§8 item 2).
+  independent vocabulary if the segments cut differently (subscriber tier, first-read
+  versus re-read).
+- **A mode glossary** (§8 item 4). No file defines what any mode means. That absence is
+  what let `LORE` and `POL` drift into the mode field, and `SUPP` and `FUN` now join a
+  list where nine of ten entries are undefined.

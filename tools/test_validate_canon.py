@@ -197,6 +197,10 @@ class TestLoadAxis(unittest.TestCase):
 
     HEADER = "SID,POV,ENV,CORRIDOR,WEATHER,MODE,HEAT,FX,RES,LOAD,BID\n"
 
+    def test_supp_is_a_mode(self):
+        """Ruled 2026-09-19 (hedged: 'mode, i think')."""
+        self.assertIn("SUPP", VOCAB["modes"])
+
     def test_load_is_in_the_vocabulary(self):
         self.assertEqual(VOCAB["load"], ["L0", "L1", "L2", "L3"])
 
@@ -246,26 +250,46 @@ class TestEcidAliases(unittest.TestCase):
 
 
 class TestSupplementAxes(unittest.TestCase):
-    HEADER = "supplement_id,supplement_type,supplement_function,supplement_vehicle\n"
+    HEADER = ("supplement_id,supplement_type,supplement_function,"
+              "supplement_vehicle,supplement_form\n")
 
     def test_ruled_tokens_pass(self):
-        self.assertEqual(csv_problems(self.HEADER + "s1,LORE,LINK,CHRON\n"), [])
+        self.assertEqual(csv_problems(self.HEADER + "s1,LORE,LINK,CHRON,LETTER\n"), [])
 
     def test_provisional_types_are_accepted_not_flagged(self):
         # decisions 7 is applied but unratified; the report names it instead
-        self.assertEqual(csv_problems(self.HEADER + "s1,ROM,PING,VEIN\n"), [])
+        self.assertEqual(csv_problems(self.HEADER + "s1,ROM,PING,VEIN,JOURNAL\n"), [])
 
     def test_unknown_type_is_rejected(self):
-        problems = csv_problems(self.HEADER + "s1,NONSENSE,LINK,CHRON\n")
+        problems = csv_problems(self.HEADER + "s1,NONSENSE,LINK,CHRON,LETTER\n")
         self.assertTrue(any(p.token == "NONSENSE" for p in problems))
 
     def test_unknown_function_is_rejected(self):
-        problems = csv_problems(self.HEADER + "s1,LORE,SHOUT,CHRON\n")
+        problems = csv_problems(self.HEADER + "s1,LORE,SHOUT,CHRON,LETTER\n")
         self.assertTrue(any(p.token == "SHOUT" for p in problems))
 
     def test_unknown_vehicle_is_rejected(self):
-        problems = csv_problems(self.HEADER + "s1,LORE,LINK,TELEGRAM\n")
+        problems = csv_problems(self.HEADER + "s1,LORE,LINK,TELEGRAM,LETTER\n")
         self.assertTrue(any(p.token == "TELEGRAM" for p in problems))
+
+    def test_unknown_form_is_rejected(self):
+        problems = csv_problems(self.HEADER + "s1,LORE,LINK,CHRON,POSTCARD\n")
+        self.assertTrue(any(p.token == "POSTCARD" for p in problems))
+
+    def test_form_and_vehicle_are_independent(self):
+        """Ruled 2026-09-19: form and vehicle are separate values.
+
+        Any form may ride any vehicle; neither constrains the other.
+        """
+        for vehicle in ("MT", "CHRON", "VEIN", "FIELD"):
+            for form in ("LETTER", "JOURNAL", "AFTERMATH"):
+                row = f"s1,LORE,LINK,{vehicle},{form}\n"
+                self.assertEqual(csv_problems(self.HEADER + row), [],
+                                 f"{form} on {vehicle} must validate")
+
+    def test_underscore_metadata_keys_are_not_valid_tokens(self):
+        problems = csv_problems(self.HEADER + "s1,LORE,LINK,CHRON,_NOTE\n")
+        self.assertTrue(any(p.token == "_NOTE" for p in problems))
 
 
 class TestVtCap(unittest.TestCase):
