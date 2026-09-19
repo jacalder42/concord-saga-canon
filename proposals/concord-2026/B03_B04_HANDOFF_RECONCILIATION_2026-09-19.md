@@ -519,3 +519,54 @@ Provisional flow:
 3. Recover the evolution stages of the physical kit across B04–B06.
 4. Determine whether the old “Echo-imprinted rig” was explicitly superseded during Mechanica v4/channel-separation development.
 5. Find any source for Tahl accidentally exposing Baz / Warehouse evidence or causing unintended consequences through MT.
+
+
+# 16. Warehouse Incident — documentary recovery
+
+November 2025 **BOOK 3 — VEIL III (Final Beat Bible)** explicitly identifies Act III as **“THE WAREHOUSE INCIDENT.”** This corroborates the current author recollection and fixes the core event geography/mechanics:
+
+- Location: **New Orleans Warehouse District**.
+- Event: massive **Resonance Rupture** forms in the district.
+- Civilians are trapped inside/around the warehouse.
+- Tahl records the event.
+- Baz runs into the warehouse to rescue trapped civilians.
+- A resonance shockwave causes structural collapse.
+- Baz is crushed.
+- With his last effort, Baz pulls a **child** free.
+- Lucien arrives too late.
+- Older implementation has Lucien drag Baz out and grieve at the scene.
+- Warehouse Zone remains a long-term resonance scar.
+
+## Antagonist causality correction
+The recovered Final Beat Bible does **not** show a named antagonist personally killing Baz. Dominion pressure and Technarch escalation are active around the larger B03 crisis, but Baz's immediate cause of death is the Rupture-driven structural collapse while rescuing civilians.
+
+Therefore preserve:
+**systemic/institutional failure + resonance catastrophe → Warehouse Incident → Baz chooses civilian rescue → structural collapse → child survives → Baz dies.**
+
+Do not convert this into villain murder without stronger later evidence.
+
+## Tahl exposure hypothesis remains open
+The source confirms Tahl is recording during the Warehouse Incident and MT explodes in popularity afterward, but does not by itself confirm that Tahl's reporting exposed Baz before/during the incident. The author's 2026-09-19 proposal that Tahl realizes his reporting exposed Baz remains an excellent reconstruction candidate, but needs a direct source or explicit author lock before being treated as recovered historical canon.
+
+# 17. Baz name conflict — identity reconciliation
+
+### Historical November layer
+The large November 2025 Notion canon uses **Basil “Baz” Foix** across character, visual, relationship, skill-tree, and book-support documents.
+
+### Later December/current layer
+A December 12/13 recovery memory explicitly records **Bastien “Baz” Arnaud — Tier-1 Character Canon Card saved to memory**.
+
+Current GitHub Tier-1 files use **Bastien “Baz” Arnaud** consistently:
+- BazID.md
+- BazEBCI.md
+- BazAppearance.md
+- baz_arnaud_pov.md
+
+### Provisional reconciliation
+The evidence strongly suggests a later character-identity rewrite:
+**Basil “Baz” Foix → Bastien “Baz” Arnaud.**
+
+Until the original author-selection exchange is recovered:
+- current working name: **Bastien “Baz” Arnaud**;
+- historical **Foix** references remain valid provenance and must not be rewritten inside archived source evidence;
+- search remains open for the explicit rename/lock and for whether the first-name change Basil → Bastien was part of the same decision.
