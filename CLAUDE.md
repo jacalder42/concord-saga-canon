@@ -163,6 +163,11 @@ Never decide, invent, or quietly resolve:
 - Contradictions between two canon sources — record both readings and where each came
   from, then flag it
 - Whether unapproved or assistant-generated material becomes canon
+- **Who performs the Mending.** Open — the exports audit it as "coordinated human
+  Intent & resonance skill" by the Ascendant Trio, with no mention of Silence or Hope;
+  Notion `05.02` says "Silence + Hope give their metaphysical bodies". Possibly
+  compatible, but the export passage is an audit of that event and does not name them.
+  Ledger §23. This is the substantive question behind item 9b.
 - **The Post-Mending `res_states` list.** Open — the banded envelope work is applied,
   but the Post-Mending era file is **held**: as specified it omits `LT`, which
   Mechanica §33 lists as a resonance state and which is the era's own signature.
@@ -365,7 +370,10 @@ the envelope**. What remains: item 1 is ruled (merge, §6.1) but not performed o
    distinction was assumed rather than established — the 21 exports are the archive
    layer, not the development layer, as
    `proposals/concord-2026/EXPORT_INVENTORY_AND_MISSING_SOURCE_MAP.md` §3 already
-   records
+   records. **Two concrete targets found 2026-09-19** (§23): `Spine Architect chat`,
+   named as the owner of saga-wide continuity storage, and `Saga Visual Bible
+   Framework`. Neither is among the 21 exports. Sanitization stripped every
+   conversation ID, so the exports cannot be mined for more
 7. Extract remaining Tier 1 conversations, `Archive Veil Book 1` first — this is where
    the E00–E15 packets are expected to be. **Confirmed still necessary 2026-09-19:** the
    Notion `BOOK 1 — VEIL I (Final Beat Bible)` was read and does **not** hold them. It

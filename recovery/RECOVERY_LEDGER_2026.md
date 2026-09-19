@@ -1057,7 +1057,14 @@ quotation omits one bullet, *"operates within filtered resonance"*, which is arg
 the most relevant of the three to a post-Mending envelope and should be carried over if
 §4 item 4 is adopted.
 
-## One citation that does not resolve
+## One citation that does not resolve — PARTLY CORRECTED, see §23
+
+> **Corrected 2026-09-19 (§23).** The quoted string is still absent from the corpus,
+> but the *rule* it carried is sourced: `Saga Beat Expansion Pipeline` records
+> "VT cannot appear before Book 3 · LT cannot appear before Post-Mending", and bounds
+> VT at both ends. The finding below is right about the citation and wrong to imply the
+> claim was unsupported.
+
 
 **§4 item 1 cites an "escalation curve" for `"VT: sealed until Tahl breach"`.** That
 string appears nowhere in `rules/`, `canon/`, or any of the 21 sanitized exports. The
@@ -1460,5 +1467,109 @@ not mistaken for the material being weak. It is not weak; it is the only copy fo
 **Nothing in §20 is withdrawn.** That entry recorded the absence from `canon/` and
 `source_canon/`, which stands. It did not claim the exports had been searched for the
 entities; this entry closes that gap.
+
+---
+
+# 23. Tahl / Lucien / Caro / Mending in the exports — a divergence, not an absence
+
+Status: SEARCHED / SUBSTANTIVE FORK FOUND / ONE EARLIER FINDING CORRECTED
+
+Followed up §22 on the expectation that Silence-and-Hope material sits in the export
+discussions of Tahl, Lucien, Caro and the Mending. Those discussions are **dense** —
+`Tahl` 96, `Lucien` 107, `Seraphine` 99, `Baz` 62, `Mending` 36, `Caro` 15 — but they
+carry no Silence-and-Hope entity content.
+
+The reason is not that the exports are thin. It is that **they tell a different story
+about the Mending.**
+
+## The exports say the Mending is human
+
+`Saga Beat Expansion Pipeline` runs an audit and records:
+
+> **Ascendant Trio (Seraphine, Lucien, Caro):** No beats explicitly "crown" them; the
+> Mending is framed as **coordinated human Intent & resonance skill**. After the
+> Mending, language focuses on prismatic calm, not godhood. ✅ Pass — ascension is
+> implicit in function, not called out as the point of the story.
+
+Notion `05.02 • Metaphysics & Ascension Bible` says something different:
+
+> 1.1 Silence & Hope (Old Metaphysicals) … **Silence + Hope give their metaphysical
+> bodies**
+
+**These may be compatible** — the trio supplies human Intent while the old
+metaphysicals supply the substance. But the export passage is an *audit of the Mending*
+that checks who does what and concludes it is coordinated human skill. An audit of that
+event would be expected to name Silence and Hope if they were giving their bodies in
+it. It does not mention them at all.
+
+So this is a **fork between two independent lines**, not a gap in one. Recorded, not
+resolved — decisions §5.4 gives GitHub and later recovered Beat Bible material
+precedence over conflicting Notion, which would favour the human framing; but §22
+establishes the exports are the archive layer, and an audit summary is not the same as
+an originating decision. **Both readings stand until James rules.**
+
+This is the substantive question behind work-queue item 9b: recovering Silence and Hope
+from Notion means importing a metaphysical account of the Mending that the exported
+material does not corroborate and arguably contradicts.
+
+## CORRECTION to §19: the VT era-gating rule IS sourced
+
+§19 recorded that the channels proposal cited an escalation curve reading
+`"VT: sealed until Tahl breach"`, and that the string appears in no rules file, no canon
+file, and none of the exports — concluding the citation "does not resolve".
+
+**The quoted string is still not in the corpus, but the rule is.**
+`Saga Beat Expansion Pipeline` carries it twice:
+
+> **2. Resonance Logic Audit** — VT cannot appear before Book 3 · LT cannot appear
+> before Post-Mending · Shards escalate properly across Neon
+
+and, in the channel audit:
+
+> VT: brush at Veil 3 end; full slip + Intent spark in Neon 6 Act II; no surviving VT
+> contact afterwards. MT: Tahl's entire Neon arc + Kade's rise in Neon 6 / Loom; always
+> mortal media. LT: Only hinted post-Mending (Book 9 Epilogue handshake).
+
+So the substance of ruling question 3's era gating is sourced, in an export, and is
+more precise than the proposal's paraphrase: `VT` is gated to **Book 3 onward**, not
+merely "after Tahl's breach", and has **no surviving contact after Neon 6 Act II**.
+That last clause is new information — it bounds `VT` at both ends.
+
+§19's finding is corrected: the citation was to a document that does not exist under
+that name, but the claim it carried is supported.
+
+## Bearing on the open `MT` question
+
+The same audit line reads: **"MT: … always mortal media."**
+
+That is a third characterisation beside `MT_RULES.md`'s infrastructure definition and
+the ruling's publication definition, and it sits closer to the publication reading —
+"mortal media" is what the MissingThread is, not what a phone network is. It also
+vindicates the `mortal_media_channel` gloss further than §20 already did.
+
+Evidence for ruling §2's options A/B/C. Not a ruling.
+
+## Two chats named in the exports that were never exported
+
+Mined from the conversation text, since sanitization stripped the sidebar and every
+conversation ID (zero UUIDs survive in the 21 files — the four IDs in
+`EXPORT_INVENTORY_AND_MISSING_SOURCE_MAP.md` §2 must have been taken before
+sanitization):
+
+- **`Spine Architect chat`** — named in `Character Vault Chat` as the owner of
+  "Saga-wide continuity storage", which the Character Vault explicitly does not handle.
+  Not among the 21. A continuity-storage chat is a strong candidate for metaphysics.
+- **`Saga Visual Bible Framework`** — named in `Character involvement pacing` as an
+  existing chat title, in a list of bibles "not currently part of the Model Set".
+- `Book 1 Beat Backup Chat` — already known and already absent; confirmed again here as
+  the archive destination for E16, E17 and E18.
+
+These are concrete targets for work-queue item 6 rather than a blind inventory.
+
+## What this does not change
+
+§22's conclusion stands: the Silence-and-Hope entity material is not in the exports.
+This entry explains what *is* in the places it was expected to be, and finds that the
+exported line describes the Mending without them.
 
 END RECOVERY LEDGER
