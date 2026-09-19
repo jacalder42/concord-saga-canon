@@ -555,3 +555,106 @@ Therefore classify:
 - whether Elias believes his own argument versus knowingly weaponizes it: OPEN.
 - Rex's exact physical intervention: OPEN.
 
+
+
+# 23. Elias Tier-1 cross-check — author recollection strongly corroborated
+
+A targeted cross-check against current Tier-1 character canon found that the underlying machinery of the author's recovered B09 motive is already canonical.
+
+## EliasID.md
+Tier-1 defines Elias as:
+- **human opportunist; narrative predator; certainty broker**
+- self-justifying through effectiveness = responsibility
+- blind spot: **confuses control with care**
+- primary intolerance: **wasted momentum**
+- reframes restraint as fear
+- pressures action before the window closes
+- does not want Kade's loyalty; wants **Kade's authorization**
+- believes Kade's volatility is his power
+- believes **stabilization will neutralize reach**
+- believes grief must remain live to **keep the signal hot**
+- Brightbreak = banner/handle/meme for followers; Elias uses it for leverage
+- Tahl Echo interrupts Elias's final leverage moment
+- post-Mending Brightbreak dissolves completely.
+
+This is strong corroboration for the author's recollection that Elias fears the Mending partly because it ends the crisis ecology sustaining his influence.
+
+## EliasEBCI.md
+Tier-1 manipulation mechanics:
+- time compression: “the window is closing”
+- moral reframing: **“inaction is harm”**
+- validation of fear
+- selective amplification of grievance
+- rarely direct instructions
+- **narrows perceived options until one remains**
+- with Kade: reinforces urgency over restraint
+- **frames hesitation as betrayal of audience trust**
+- pushes toward irreversible acts
+- uses Brightbreak as a **distributed amplifier**
+- Loom objective: **attempts to force irreversible authorization**
+- fails when pressure becomes visible as coercion, Kade's moral center returns, and Tahl Echo interrupts final leverage
+- post-Mending Elias loses amplification infrastructure
+- hard rule: **his power depends on instability**
+- summary: urgency weaponized; certainty masquerades as care; almost convinces someone else to end the world.
+
+## Kade Tier-1
+KadeID/EBCI independently defines:
+- susceptibility to **certainty-offering figures**
+- righteousness escalation
+- manipulated by Brightbreak
+- forced toward **responsibility over righteousness**
+- failure when certainty replaces curiosity
+- failure when influence outpaces care
+- failure when grief becomes justification
+- failure when narrative eclipses truth.
+
+## Consequence for B09 reconstruction
+
+The author's remembered anti-Mending argument is not an imported new characterization. It fills the missing **object** into machinery already present in Tier-1:
+
+**Existing Tier-1 machinery**
+Elias needs instability + Kade's authorization + urgency + a narrowed moral choice.
+
+**Recovered author object**
+The Mending threatens the instability/amplification ecology.
+Elias therefore frames the Mending as taking Resonance/choice from humanity and stopping it as a moral obligation.
+
+Result:
+**“If you let them do this, you are allowing a few people to decide humanity's future. If you hesitate, you are helping them take that future away.”**
+
+That sentence is an illustrative reconstruction, NOT recovered dialogue.
+
+## Thematic mirror — status refined
+
+The broader saga canon explicitly states:
+- “Suppression breaks; breath heals.”
+- connection over control.
+- Mending = “Filtration, not suppression.”
+- Elias confuses control with care.
+- Elias's power depends on instability.
+- Kade must move from responsibility/righteousness confusion toward restraint/listening.
+
+Therefore the endgame's ideological geometry is strongly source-supported:
+
+1. **Old Veil / institutional hard-control logic:** safety through suppression/control.
+2. **Elias/Brightbreak extreme:** preservation of crisis/exposure framed as freedom; certainty imposed in the name of choice.
+3. **Mending:** neither pole; filtration/breath, connection, empathy, Intent.
+
+Do not overstate that Elias consciously represents “unrestricted Resonance” as a formal doctrine. That exact doctrine has not been recovered.
+What is locked is his B09 anti-Mending framing and influence motive.
+
+# 24. Likely final-leverage shape
+
+Because Tier-1 says Elias wants **authorization rather than obedience**, the strongest B09 scene logic is:
+
+- Elias does not order Kade to stop the Mending.
+- Elias engineers the frame in which **Kade publicly/personally authorizes stopping it**.
+- Kade believes the decision is his.
+- Rex's intervention turns abstract rhetoric into irreversible action.
+- The near-kill makes visible that Kade's “defense of choice” has become coercion.
+- Tahl Echo interrupts at precisely the point where Elias's pressure has become visible as coercion—the canonical Elias failure condition.
+- Kade's moral center reasserts itself—the other canonical failure condition.
+- Kade protects Rex, withdraws his authorization from Elias/Brightbreak, and then protects the Mending.
+
+This aligns the climax with existing Elias failure mechanics instead of requiring a new antagonist mechanism.
+
