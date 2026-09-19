@@ -8,7 +8,13 @@ Applies To: Veil, Neon, Loom (pre-Mending); persists post-Mending but remains di
 
 ## 1. WHAT VT IS
 
-VT (Veil-Touch) is **direct metaphysical boundary contact**.
+VT (VeilThread) is **direct metaphysical boundary contact**.
+
+> **Ruled 2026-09-19** (`recovery/CHANNEL_NAMES_RULING_2026-09-19.md`): VT is
+> **VeilThread** — *the private channel between Silence and Hope that Tahl discovers*.
+> `Veil-Touch` is retired. The "boundary contact" characterisation below is not
+> superseded: it is what the channel is from the mortal side, which is why `RES: VT`
+> records the field registering contact with a channel never meant to admit a mortal.
 
 VT represents:
 - proximity to the Veil

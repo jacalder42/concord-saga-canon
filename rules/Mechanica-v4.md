@@ -720,7 +720,7 @@ Force worsens outcomes.
 
 There are three channels:
 - MT (Mortal Technology)
-- VT (Veil-Touch)
+- VT (VeilThread)
 - LT (Luminous Thread)
 
 Channels never merge.
@@ -1134,7 +1134,7 @@ Energy × Emotion × Intent
 **Rupture:** Catastrophic resonance failure  
 **Node:** Post-Mending stabilized convergence  
 **MT:** Mortal Technology channel  
-**VT:** Veil-Touch metaphysical channel  
+**VT:** VeilThread metaphysical channel  
 **LT:** Luminous Thread (post-Mending only)  
 **Breathable Veil:** Prismatic filtration membrane formed during the Mending  
 **Echo Node:** Stable post-Mending resonance anchor  

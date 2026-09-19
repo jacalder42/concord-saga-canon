@@ -116,6 +116,17 @@ migration, not the reverse. `pre01`/`post01` was considered and rejected: the Pr
 is narrative, and non-narrative material is supplements, which carry their own
 identifiers. Epilogues take the next sequential episode number.
 
+**The three channels are three Threads.** Ruled 2026-09-19
+(`recovery/CHANNEL_NAMES_RULING_2026-09-19.md`):
+
+- **MT** — MissingThread, the public mortal channel (early Tahl)
+- **VT** — VeilThread, the private channel between Silence and Hope that Tahl discovers
+- **LT** — LuminousThread, the post-Mending channel
+
+`Veil-Touch` is retired and corrected in `rules/`, including two occurrences in
+Mechanica. `Mortal Technology` is **not yet** retired — see §4, the `MT` reconciliation
+is open.
+
 **Field names: the schema is canonical, packet labels are aliases** (§2.4).
 `canon_rules.json` keeps `CORRIDOR` and `RES`. `U-Level` and `Resonance State` are
 recognized input aliases recorded in `ECID_field_aliases`; tooling normalizes on the
@@ -158,10 +169,16 @@ Never decide, invent, or quietly resolve:
   Ledger §18. A proposal at
   `proposals/concord-2026/CHANNELS_AND_RESONANCE_STATES_2026-09-19.md` §4 would settle
   it by permitting `CALM · BLOOM · NODE · VT · LT`, but it is unruled.
-- **Is `VT` Veil-Touch or VeilThread?** Open — `rules/` says Veil-Touch in four places
-  including Mechanica; three tier-1 character cards say VeilThread, as does
-  `recovery/CANON_DECISIONS_2026-09-18.md` §1.2. Two different words, not two
-  spellings. Ledger §19 and §16.6.
+- **How `MT` reconciles with the infrastructure layer.** Open — `recovery/CHANNEL_NAMES_RULING_2026-09-19.md`
+  §2, options A/B/C. The *name* is ruled (MissingThread); what is not is whether `MT`
+  means the channel, the mortal tier, or splits from the infrastructure that
+  `rules/Channels/MT_RULES.md` describes. **Do not rename `MT_RULES.md` until this is
+  ruled** — retitling it would leave a file called MissingThread describing phone
+  networks. Ledger §20.
+- **Whether `LuminousThread` and `MissingThread` close up.** Open — the ruling writes
+  all three names as closed compounds, but the repository has `Luminous Thread` spaced
+  19 times with zero closed, and `Missing Thread` spaced 6 against `MissingThread` 2.
+  Only `VeilThread` had an unambiguous closed form to restore. Ledger §20.
 - **E19 and beyond.** E19 is named but never built. Do not generate, draft, or outline
   it. The prohibition stands until James lifts it.
 
@@ -348,6 +365,12 @@ the envelope**. What remains: item 1 is ruled (merge, §6.1) but not performed o
 8. Migrate E01–E15 packets
 9. Resolve the `canon/` vs `source_canon/` authority conflict (§1.1) and the Mechanica
    provenance question
+9b. **Recover Silence and Hope — Tier-1 gap.** `canon/characters/` holds 62 files across
+   14 characters and **neither Silence nor Hope appears in any of them**, nor in
+   `source_canon/`. Two metaphysical entities who are each half of the Old Veil, whose
+   existence defines `VT`, and whose break drives the endgame, have no canon file.
+   Notion has at least `08.10 • Silence — Metaphysical`. Recommended as a Tier-1
+   recovery item; **awaiting confirmation** (ruling §7 question 2). Ledger §20
 9a. **Deferred until recovery and distillation complete** (ruled 2026-09-19): author the
    ~40 `Asks`/`Flags`/`Protects` fields in `canon/editorial_lenses.md`. Not recoverable
    — decisions §5.6 confirms they were invented repo-side and are not in Notion. Do not
@@ -387,9 +410,10 @@ file it names. No fix has been applied; two of the five need a ruling before one
   second-guessing the values. Ledger §18; source at
   `proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md`. **18 of the 27
   bands are inferred placeholders**, and the Post-Mending file is held — see §4.
-- **`Veil-Touch` vs `VeilThread`** — new 2026-09-19. Four occurrences against three,
-  rules files against character cards, with the decisions document on the minority side.
-  Ledger §16.6 and §19. Not fixed; it needs a ruling.
+- ~~**`Veil-Touch` vs `VeilThread`**~~ **Resolved 2026-09-19 — VeilThread.** All four
+  `rules/` occurrences corrected, two of them in Mechanica. The three character cards
+  needed no change: they had preserved the original while the rules files drifted.
+  Ledger §16.6 and §20.
 - **All six grid CSVs are header-only**, so `CHK_BREADCRUMBS` and `CHK_EMO_CIRCUIT` in
   `rules/validation_checks.json` cannot run against any data.
 - **All 27 act overlays are byte-identical** apart from their ID fields, as are all 9

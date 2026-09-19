@@ -834,7 +834,16 @@ blocked on §16.2.
 
 ---
 
-## 16.6 `Veil-Touch` vs `VeilThread` — NEW, found 2026-09-19
+## 16.6 `Veil-Touch` vs `VeilThread` — RESOLVED 2026-09-19: VeilThread
+
+Status: **RESOLVED.** `recovery/CHANNEL_NAMES_RULING_2026-09-19.md`. All four `rules/`
+occurrences corrected; the three character cards needed no change. **My framing of this
+defect was wrong in one respect — see §20.** The cards were not the drift; they
+preserved the original.
+
+---
+
+### Original entry (framing partly superseded)
 
 Four occurrences of `Veil-Touch` across three authoritative `rules/` files against three
 of `VeilThread` in three tier-1 character cards, with the decisions document using the
@@ -1116,5 +1125,139 @@ Two further reasons to wait:
    arrives as a proposal, not a ruling, so the file stays held.
 2. **§3's grouping and the `Veil-Touch` question touch the same block.** If both are
    ruled, they should land in one edit rather than two.
+
+---
+
+# 20. Channel names ruled — VeilThread applied, MT held
+
+Status: PARTIALLY APPLIED / MECHANICA AMENDED / TWO QUESTIONS OPEN
+
+Source: `recovery/CHANNEL_NAMES_RULING_2026-09-19.md`, committed verbatim first.
+
+> MissingThread, VeilThread and LuminousThread are correct. MT is the public mortal
+> channel (early Tahl). VT is the private channel between Silence and Hope that Tahl
+> discovers. LT is the post-Mending channel.
+
+## MECHANICA AMENDED — recorded under §5.2
+
+`rules/Mechanica-v4.md` is authoritative under decisions §5.2 until the line-by-line
+memory review. This ruling amends it, so the change is recorded here rather than made
+silently:
+
+| Line | Was | Now |
+| --- | --- | --- |
+| 723 | `- VT (Veil-Touch)` | `- VT (VeilThread)` |
+| 1137 | `**VT:** Veil-Touch metaphysical channel` | `**VT:** VeilThread metaphysical channel` |
+
+Nothing else in Mechanica changed. The amendment is a name, not a mechanic: `VT`'s
+behaviour, its §33 state entry and its channel-separation law are untouched.
+
+Also applied: `rules/Channels/VT_RULES.md:11` and
+`rules/Channels/CHANNELS_OVERVIEW.md:14`. `VT_RULES.md` gains a note recording that
+"direct metaphysical boundary contact" is **not** superseded — it is what the channel is
+from the mortal side, which is exactly why `RES: VT` records the field registering
+contact with a channel never meant to admit a mortal.
+
+`rules/canon_rules.json` `invariants.channels` now carries all three ruled names and
+definitions, with a `_naming_note` pointing at the open `MT` question.
+
+## The ruling's justification checks out
+
+`rules/Channels/CHANNELS_OVERVIEW.md` — the file that introduced both renamings —
+declares `Source: Project Memory (inflated)`. `MT_RULES.md`, `VT_RULES.md` and
+`LT_RULES_POST_MENDING.md` all declare `Source: Project Memory` with no inflation flag.
+Verified. That single file is the only inflated one in the channel set, and it is the
+one that drifted.
+
+## TWO CORRECTIONS TO MY OWN EARLIER FINDINGS
+
+Recorded plainly because both were stated with more confidence than they deserved.
+
+**1. The three character cards were not drift.** §16.6 and §19 framed
+`KadeEBCI.md`, `LacunaEBCI.md` and `TahlEBCI.md` as the minority form, and said "the
+evidence favours `Veil-Touch` — it is in the authoritative channel rules and in
+Mechanica". That reasoning counted files rather than tracing provenance. The cards had
+**preserved the original** while the rules files drifted around them, and Notion carries
+the Thread naming consistently across five independent pages. Majority in the
+repository was the wrong test when the drift was introduced by a file that flags its own
+source as inflated.
+
+The same is true of `recovery/CANON_DECISIONS_2026-09-18.md` §1.2, which I described as
+being "on the wrong side" of the drift. It was on the right side.
+
+**2. The `mortal_media_channel` gloss was closer to right than the file it
+contradicted.** §19 recorded it as a paraphrase that "narrows" `MT_RULES.md`'s
+definition. In fact the gloss pointed at a public channel while the rules file had
+expanded into infrastructure. The finding is withdrawn.
+
+## The `MT` collision dissolves
+
+`canon_rules.json` and `canon/supplements/SUPPLEMENT_VEHICLES.md` both carried a note
+reconciling "MT the channel" with "MT the supplement vehicle". Under the ruling those
+are **one object** — the MissingThread, the public mortal channel Tahl launches. The
+note is removed rather than reworded.
+
+`VT`'s multiplicity is real and stands: channel, resonance state, and supplement
+vehicle, three vocabularies sharing one token.
+
+## HELD: how `MT` reconciles
+
+`MT_RULES.md` §1 defines `MT` as "the human-built information and communication
+layer" — phones, AR overlays, holochat, broadcast media, data networks. That is
+infrastructure. The ruling makes `MT` a publication Tahl launches. Renaming the file
+would leave a document called MissingThread describing phone networks.
+
+Three options are in the ruling §2 (A: channel vs substrate; B: `MT` as the mortal tier
+with the MissingThread as flagship; C: split, adding a fourth token). **B is
+recommended there and is not applied** — it is a canon act. `Mortal Technology` stays in
+place across all six occurrences until it is ruled.
+
+## NEW: the compound spellings do not match the repository
+
+The ruling writes all three names closed up. The repository does not, and only one of
+the three had a closed form to restore:
+
+| Name | Closed form in repo | Spaced form in repo |
+| --- | --- | --- |
+| `VeilThread` | 3 (Kade, Lacuna, Tahl EBCI cards) | 0 — the drift was `Veil-Touch`, a different word |
+| `MissingThread` | 1 (`canon/characters/TahlID.md`) | 6 (`SUPPLEMENT_VEHICLES.md`, `canon_rules.json`, decisions, ledger) |
+| `LuminousThread` | **0** | **19** (`SeraphineIdentity.md`, `SeraphineAppearance.md`, `seraphine_vael_pov.md`, `LT_RULES_POST_MENDING.md`, `CHANNELS_OVERVIEW.md`, `Mechanica-v4.md`, `seraphine_full.md`) |
+
+`VeilThread` was unambiguous and is applied. The other two are not:
+
+- **Read strictly**, the ruling mandates closed compounds and 25 further occurrences
+  change, including tier-1 Seraphine canon — she becomes *the Luminous Thread*
+  post-Mending, which is the saga's ending.
+- **Read as naming the channel rather than its spacing**, nothing further changes. The
+  ruling's own change-scope §6 supports this: it lists the `Veil-Touch` and
+  `Mortal Technology` edits and **does not mention `Luminous Thread` at all**.
+
+Both readings recorded, neither applied. `LuminousThread` has zero repository support,
+so unlike `VeilThread` this would be a new spelling rather than a restoration.
+
+## NEW GAP: Silence and Hope have no canon files
+
+Verified independently. `canon/characters/` holds **62 files across 14 characters**.
+Neither Silence nor Hope appears in any of them, nor anywhere in `source_canon/`, and
+no file is named for either. The phrase "Old Veil" appears nowhere in the repository
+outside the sanitized exports.
+
+Two metaphysical entities who are each half of the Old Veil, whose existence defines
+`VT`, and whose break drives the endgame have no canon file. Notion has at least
+`08.10 • Silence — Metaphysical`.
+
+Added to the work queue as item 9b, **marked awaiting confirmation** — ruling §7
+question 2 asks whether to queue it, so the item records the recommendation rather than
+assuming the answer.
+
+## Open
+
+1. **How `MT` reconciles** — ruling §2, options A/B/C. Blocks the `MT` half of the
+   rename and any retitling of `MT_RULES.md`.
+2. **Whether `LuminousThread` and `MissingThread` close up**, per the table above.
+3. **Silence and Hope recovery** — confirm queue item 9b.
+4. Ruling §7 question 3 asks whether amending Mechanica needs more than a ledger entry.
+   This entry is that record. If §5.2 wants something stronger — a version bump, or a
+   note in Mechanica's own authority statement — say so and it is a small edit.
 
 END RECOVERY LEDGER

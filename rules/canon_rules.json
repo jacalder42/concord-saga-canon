@@ -5,9 +5,10 @@
     "no_resurrection": true,
     "antagonists_human_or_human_made_only": true,
     "channels": {
-      "MT": "mortal_media_channel",
-      "VT": "metaphysical_channel",
-      "LT": "post_mending_only_channel"
+      "MT": "MissingThread - public mortal channel (early Tahl)",
+      "VT": "VeilThread - the private channel between Silence and Hope that Tahl discovers",
+      "LT": "LuminousThread - post-Mending channel",
+      "_naming_note": "Ruled 2026-09-19, recovery/CHANNEL_NAMES_RULING_2026-09-19.md. The three channels are three Threads. Veil-Touch and Mortal Technology are retired names. How MT reconciles with the infrastructure layer described in rules/Channels/MT_RULES.md is OPEN - see that ruling section 2 and recovery/RECOVERY_LEDGER_2026.md section 20."
     },
     "channel_separation": [
       "MT!=VT",
@@ -181,6 +182,6 @@
       "word_count_max": 600,
       "placement": "between episodes"
     },
-    "token_collision_note": "MT appears in two vocabularies: as a channel it is Mortal Technology (channels.MT); as a supplement vehicle it is The Missing Thread. VT likewise is both a channel, a resonance state, and a supplement vehicle. Per 4.2 the field disambiguates, not the token."
+    "token_collision_note": "VT appears in three vocabularies: as a channel (invariants.channels.VT), as a resonance state (controlled_vocab.res_states), and as a supplement vehicle. Per decisions 4.2 the field disambiguates, not the token. MT is NOT a collision: ruled 2026-09-19, the MT channel and the MT supplement vehicle are the same thing - the MissingThread."
   }
 }

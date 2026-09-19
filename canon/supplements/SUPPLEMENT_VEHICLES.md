@@ -47,11 +47,12 @@ The tone and voice arcs run across the saga, not within one entry. `MT` is the v
 that changes hands — the handover from Tahl to Kade is the same baton pass the saga
 spine records, seen from the supplement layer.
 
-> **Token collision.** `MT` here is *The Missing Thread*, a supplement vehicle. `MT` in
-> `rules/Channels/MT_RULES.md` and in `channels.MT` is *Mortal Technology*, a channel.
-> Per decisions §4.2 the field disambiguates, not the token.
-> `grids/supplement_deployment.csv` carries both `channel_MT_VT_LT` and
-> `supplement_vehicle`, one column apart.
+> **Not a collision — ruled 2026-09-19.** The `MT` channel and the `MT` supplement
+> vehicle are **the same thing**: the MissingThread, the public mortal channel Tahl
+> launches. The earlier note here reconciled a drift that has since been ruled away.
+> `grids/supplement_deployment.csv` still carries both `channel_MT_VT_LT` and
+> `supplement_vehicle`, but for `MT` they now name one object, not two.
+> See `recovery/CHANNEL_NAMES_RULING_2026-09-19.md` §3.
 
 #### `CHRON` — Chronicle
 
@@ -78,8 +79,9 @@ spine records, seen from the supplement layer.
 
 **Hard-capped — see §3.1.** This is the only vehicle with a total-use limit.
 
-> **Token collision.** `VT` is a channel (`channels.VT`), a resonance state
-> (`res_states`), and this vehicle. Three vocabularies, one token.
+> **Token collision — real, and it stands.** `VT` is a channel
+> (`channels.VT`, the VeilThread), a resonance state (`res_states`), and this vehicle.
+> Three vocabularies, one token. Unlike `MT`, this one was not ruled away.
 
 ### 2.1 Form — a separate axis from vehicle
 

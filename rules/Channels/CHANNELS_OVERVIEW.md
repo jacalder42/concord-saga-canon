@@ -11,7 +11,7 @@ Applies To: Veil, Neon, Loom, Post-Mending
 This document defines the three-channel model that governs information, perception, and metaphysical boundary contact in the Concord Saga:
 
 - MT — Mortal Technology
-- VT — Veil-Touch (metaphysical boundary contact)
+- VT — VeilThread (the private channel between Silence and Hope that Tahl discovers)
 - LT — Luminous Thread (post-Mending only)
 
 This model exists to prevent drift into:
