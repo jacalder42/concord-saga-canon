@@ -69,31 +69,50 @@ Work without asking for step-by-step approval. Standing rules:
 
 ## 3. Identifier conventions
 
-> **Provenance gap:** the three rules in this section are written as settled, but no
-> artifact in the repository records who approved them or when. §4 makes that
-> provenance load-bearing. James: record the approval here, or these read as
-> unsourced to any session following §4 strictly.
+Ruled 2026-09-18 — `recovery/CANON_DECISIONS_2026-09-18.md` §2. The provenance gap
+previously flagged here is closed.
 
-**SID format is `S1.T{1-3}.B{01-09}.A{1-3}.E{01-99}` — two-digit book numbers.**
-This is decided. `B1` is the old one-digit form and is wrong wherever it appears.
+**SID format is `S1.T{1-3}.B{01-09}.A{1-3}.E{00-99}` — two-digit book numbers.**
+`B1` is the old one-digit form and is wrong wherever it appears.
 
 - Trilogies: `T1` Veil, `T2` Neon, `T3` Loom
 - Books: `B01`..`B09` — always two digits
 - Acts: `A1`..`A3`
-- Episodes: `E01`..`E99`, **numbered continuously across the whole book**, not
+- Episodes: `E00`..`E99`, **numbered continuously across the whole book**, not
   restarting at `E01` in each act. Episode numbering restarting per act is the old,
   corrected form.
 - Episodes live in grids, not in filenames.
+
+> **One discrepancy, flagged not resolved.** §2.1 of the decisions document writes the
+> format as `S1.T{1-3}.B{00-09}.…` — a `B00` book — while its own prose says
+> "two-digit book numbers", every book in the repository is `B01`–`B09`, and there is
+> no book zero. `B{01-09}` is applied here as the reading consistent with everything
+> else. If `B00` was intended, say so and it changes in one line. See
+> `recovery/RECOVERY_LEDGER_2026.md` §17.
 
 **Scope warning.** The recovered material uses the old forms pervasively, not
 occasionally: one-digit books throughout, and per-act restarts such as
 `S1.T1.B3.A3.E01` through `E18` in the `Saga structural archive` export. Treat the
 rewrite as a migration pass with its own ledger entry, not an incidental find-and-replace.
 
-**`E00` is currently out of spec.** Recovered Book 1 Act I opens with
-`E00 Prologue — The Conversation in the Sky`, but `E{01-99}` excludes it. Either the
-range widens to `E{00-99}` or prologues get their own rule. Unresolved — flag it
-when migrating, do not pick one.
+**The Prologue is `E00`, titled `The Conversation in the Sky`** (§2.2). The episode
+range widened to `E{00-99}` to admit it. This supersedes `Silence & Hope` from the Veil
+Master Beat Bible, whose Act I numbering starts the Prologue at `EP 01` and is
+therefore **offset by one** — that bible renumbers to the `E00` convention on
+migration, not the reverse. `pre01`/`post01` was considered and rejected: the Prologue
+is narrative, and non-narrative material is supplements, which carry their own
+identifiers. Epilogues take the next sequential episode number.
+
+**Field names: the schema is canonical, packet labels are aliases** (§2.4).
+`canon_rules.json` keeps `CORRIDOR` and `RES`. `U-Level` and `Resonance State` are
+recognized input aliases recorded in `ECID_field_aliases`; tooling normalizes on the
+way in. Do not rewrite the schema to match packet labels.
+
+**The ECID carries a `LOAD` axis** (§1.4): `L0` unloaded, `L1` carrying/sustainable,
+`L2` strained with visible cost, `L3` shard precursor. Nothing else in the ECID carried
+emotional load — `HEAT` is the romance ladder, `FX` and `WEATHER` are environmental,
+`MODE` is register — which is why `STRAIN` was drafted as a pseudo-state. `LOAD` is
+where it goes.
 
 **Beat IDs use `BT`.** Ruled 2026-09-18 (`recovery/CANON_DECISIONS_2026-09-18.md`
 §2.3). The form is `{SID}-BT{BeatNumber}`, and `rules/canon_rules.json` carries it.

@@ -53,7 +53,8 @@
       "CIV",
       "INT",
       "HOR",
-      "SLICE"
+      "SLICE",
+      "FUN"
     ],
     "heat": [
       "H0",
@@ -67,11 +68,17 @@
       "FX1",
       "FX2",
       "FX3"
+    ],
+    "load": [
+      "L0",
+      "L1",
+      "L2",
+      "L3"
     ]
   },
   "systems": {
     "id_system": {
-      "SID_format": "S1.T{1-3}.B{01-09}.A{1-3}.E{01-99}",
+      "SID_format": "S1.T{1-3}.B{01-09}.A{1-3}.E{00-99}",
       "ECID_fields": [
         "POV",
         "ENV",
@@ -80,9 +87,18 @@
         "MODE",
         "HEAT",
         "FX",
-        "RES"
+        "RES",
+        "LOAD"
       ],
-      "BID_format": "{SID}-BT{BeatNumber}"
+      "BID_format": "{SID}-BT{BeatNumber}",
+      "ECID_field_aliases": {
+        "CORRIDOR": [
+          "U-Level"
+        ],
+        "RES": [
+          "Resonance State"
+        ]
+      }
     },
     "resonance_equation": "RP = Will \u00d7 Emotion \u00d7 Intent",
     "uars": {
@@ -102,5 +118,15 @@
       "emotion_over_physicality",
       "resonance_never_shortcuts_consent"
     ]
+  },
+  "load_axis": {
+    "ladder": {
+      "L0": "unloaded",
+      "L1": "carrying, sustainable",
+      "L2": "strained; visible cost; the yellow/overload condition of Mechanica 51",
+      "L3": "shard precursor; the next step is fracture"
+    },
+    "purpose": "Carries emotional load, which HEAT (romance ladder), FX and WEATHER (environmental) and MODE (register) do not. Its absence is why STRAIN was drafted as a pseudo-state.",
+    "source": "recovery/CANON_DECISIONS_2026-09-18.md 1.4"
   }
 }

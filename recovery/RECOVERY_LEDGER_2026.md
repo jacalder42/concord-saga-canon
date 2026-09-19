@@ -725,4 +725,39 @@ need a reader. It also cannot catch §16.1 (a spelling question) or §16.2 (a se
 one); both use valid tokens throughout.
 
 
+---
+
+# 17. SID book component — `B{00-09}` vs `B{01-09}`, flagged not resolved
+
+Status: DISCREPANCY RECORDED / ONE READING APPLIED / TRIVIAL TO CHANGE
+
+`recovery/CANON_DECISIONS_2026-09-18.md` §2.1 writes the SID format as:
+
+> Format `S1.T{1-3}.B{00-09}.A{1-3}.E{00-99}` — **two-digit book numbers**
+
+The book component reads `B{00-09}`, admitting a book zero. Three things point the
+other way:
+
+1. The same sentence says "two-digit book numbers", which is what the widening from
+   `B{1-9}` to `B{01-09}` achieved; it says nothing about admitting `B00`.
+2. Every book in the repository is `B01` through `B09` — nine books, nine
+   `book_context_B0*.json` files, 27 act overlays. There is no book zero and none is
+   named anywhere in the saga architecture.
+3. The instruction accompanying the ruling specified widening **the episode range** to
+   `E{00-99}`, and named no change to the book component.
+
+The most likely reading is a transcription slip: the `00` from the episode widening
+carried onto the book component in the same sentence.
+
+**Applied:** `S1.T{1-3}.B{01-09}.A{1-3}.E{00-99}`. The episode widening is made
+exactly as ruled; the book component is left at `B{01-09}`.
+
+**If `B00` was intended** — a book zero, a prequel volume, or a deliberate reservation
+of the slot — it is a one-line change to `rules/canon_rules.json` plus a line in
+`CLAUDE.md` §3, and the validator picks it up automatically because it derives its
+rules from that file. Nothing else depends on it today.
+
+This was flagged rather than silently chosen because a SID format change is an
+identifier ruling, and §4 of `CLAUDE.md` reserves those.
+
 END RECOVERY LEDGER
