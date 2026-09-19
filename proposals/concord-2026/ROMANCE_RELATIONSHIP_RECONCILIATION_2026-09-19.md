@@ -179,3 +179,182 @@ Seraphine/Lucien move toward durable co-regulation and Mending partnership. Caro
 - whether optional Trip/Lacuna survives.
 
 END — ROMANCE & RELATIONSHIP RECONCILIATION
+
+
+# 15. Relationship anchor audit — Final Beat Bibles + dedicated couple trees
+
+## Source warning
+
+The 2025-11-23 Notion Final Beat Bibles are valuable evidence of intended relationship progression, but they contain plot material superseded by later recovered structural canon, including:
+- Baz dying in B03 rather than the later B03-survives/B04-death structure;
+- VT contact earlier/more often than the later Veil restriction;
+- older Silence/Hope successor/ascension cosmology.
+
+Therefore their **relationship function** is recoverable evidence; their exact event geography is not automatically current canon.
+
+Dedicated Romance Canon pages dated 2025-11-25/26 are later than those beat bibles and often refine romance pacing, but they also conflict with one another. They are best read as the relationship design layer, not a single authoritative episode schedule.
+
+## 15.1 Seraphine × Lucien anchor ladder
+
+### High-confidence anchors
+
+**B01 — awareness at distance / narrative recognition**
+- Final B01 Beat Bible explicitly begins the Seraphine/Lucien emotional dynamic while they remain geographically separate.
+- Dedicated trees preserve remote awareness, emotional parallel, and caution.
+- Do not require supernatural pair-bond mechanics.
+
+**B02 — first direct contact + pull + vulnerability**
+- Final B02 Beat Bible: Lucien arrives in New Orleans; first direct Seraphine scene is charged/understated.
+- Shared investigation creates mutual awareness.
+- Lucien later confesses part of the Dominion truth/struggle.
+- Book closes on a quiet heavy shared moment.
+- This is a durable relationship-state change: curiosity → trust/connection.
+
+**B03 — emotional denial → reluctant acceptance**
+- Final B03 relationship function explicitly says this.
+- Older version uses Baz's on-page death as the catalyst; that causal placement is superseded.
+- The durable beat is not “kiss after Baz dies in B03”; it is **Seraphine becomes a person Lucien can be emotionally uncontained with**.
+- Under current Baz chronology, the grief-release component naturally migrates to early B04 unless later evidence places another B03 catalyst.
+
+**Neon — fracture + vulnerability + chosen connection**
+- Dedicated trees consistently place real romantic breakthrough in Neon even when exact book differs.
+- Durable motifs: Lucien fears he is unsafe/broken; Seraphine refuses his self-erasure; deliberate touch becomes possible; emotional honesty precedes physical payoff.
+- Current structure supports Lucien spiraling after Baz and repeated Seraphine/Lucien fracture/repair.
+
+**Loom — practiced co-regulation**
+- B08 Final Beat Bible contains a durable anchor compatible with later structure: Lucien enters dangerous stillness and Seraphine pulls him back; their bond reignites “quiet and immense.”
+- Later Loom structure also repeatedly uses Seraphine anchoring Lucien.
+- Their end-state should read as durable chosen partnership, not romance-generated supernatural power.
+
+### Unresolved exact anchors
+
+Do **not** lock yet:
+- first kiss = B03;
+- first kiss = Neon;
+- near-kiss = B07/B08;
+- B05 first H3;
+- B06 H4;
+- “storm-kiss” wording;
+- glove-removal scene as mandatory;
+- specific rooftop/pinned-wall scenes;
+- metaphysical post-Mending pairing.
+
+### Best current reconstruction
+
+**Veil:** recognition → first contact → trust → emotional dependence acknowledged but not cleanly resolved.  
+**Neon:** Baz-grief fracture → honesty → first unmistakable romantic/physical payoff → commitment tested by systemic collapse.  
+**Loom:** reunion/co-regulation → mature intimacy → Mending partnership → grounded post-Mending bond.
+
+This is strong enough to guide beat reconstruction without inventing which episode contains the first kiss.
+
+## 15.2 Caro × Elisabet anchor ladder
+
+This couple's milestone sequence is more consistent across sources.
+
+**B01 — recognition / instinctive grounding**
+- Final B01: Elisabet is introduced as calming presence; she anchors Caro during the first crisis bloom.
+- Dedicated trees: Caro feels unusually safe/seen; early physical awareness remains H0.
+
+**B02 — unmistakable romantic tension**
+- Final B02 explicitly says their first unmistakable romantic tension occurs when Elisabet grounds Caro after a modulation spike.
+- “Lantern Moment” supplies slow intimate grounding.
+- Durable state: safety becomes attraction.
+
+**B03 — future-facing vulnerability / near-payoff**
+- Final B03: Caro sees Elisabet as someone she wants a future with.
+- Dedicated later trees repeatedly place a near-kiss / vulnerable holding phase in Veil B03.
+- This survives even though the old B03 Baz-death plot does not.
+
+**B04 — partnership under crisis / likely first kiss candidate**
+- Final B04 labels them “Partners in Crisis” and “fully bonded amid chaos.”
+- Grid V2 explicitly places Caro initiating the first real kiss in B04.
+- This is the strongest surviving candidate for first kiss, but should remain PROVISIONAL until current Neon structural recovery is complete.
+
+**B05–B06 — chosen partnership + physical intimacy**
+- Multiple romance grids converge on B05/B06 as their major physical-payoff window, though H3/H4 assignment varies.
+- Durable state change: they consciously choose each other and become an established couple.
+- Exact consummation/H4 episode remains unratified.
+
+**Loom — established partnership / reciprocal anchoring**
+- Later Final Beat Bibles repeatedly treat them as a unit:
+  - B07 “The Anchors”;
+  - B08 “The First Safe Fire,” with Elisabet holding Caro after collapse;
+  - B09 their love is a central emotional pillar while anchoring refugees.
+- Later recovered Loom structure independently preserves Caro/Elisabet trust, retreats, and stabilization roles.
+- This is stronger than any individual old heat-scene placement.
+
+**Post-Mending**
+- Dedicated couple canon strongly agrees on continuing committed partnership and domestic tenderness.
+- Old metaphysical mechanics around Caro becoming Hope Reborn are not required for that relationship end-state.
+
+### Best current reconstruction
+
+**Veil:** recognition → grounding → attraction → future-facing vulnerability/near-kiss.  
+**Neon:** first kiss → deliberate choice → physical intimacy → established partnership.  
+**Loom:** reciprocal anchors under collapse → mature devotion → post-Mending life together.
+
+## 15.3 Comparative pacing rule
+
+The two primary romances are intentionally not duplicates.
+
+**Seraphine/Lucien**
+- slower;
+- more withheld;
+- built through distance, fracture, fear, and emotional containment;
+- physical milestones should arrive only after major trust breakthroughs.
+
+**Caro/Elisabet**
+- earlier relational clarity;
+- more embodied grounding;
+- more openly affectionate/physical once mutuality is established;
+- becomes the ensemble's visible model of functional partnership sooner.
+
+This contrast appears across the dedicated couple trees and should be protected during beat reconstruction.
+
+## 15.4 Supersession map
+
+**Preserve**
+- emotional functions;
+- polarity/dynamic;
+- vulnerability sequence;
+- primary-couple status;
+- broad trilogy pacing;
+- Caro/Elisabet becoming an established pair before Loom;
+- Seraphine/Lucien remaining the slower and more fracture-driven arc.
+
+**Translate to current chronology**
+- Lucien grief intimacy tied to Baz: move causal grief consequences to B04 unless later source evidence says otherwise.
+- any romance beat relying on premature VT contact: retain emotional beat, remove VT dependency.
+- Loom intimacy tied to old ascension mechanics: retain devotion/choice, reframe through current Mending mechanics.
+
+**Do not restore automatically**
+- exact H-level per book;
+- named sex/intimacy scenes;
+- resonance-generated physical effects that violate current mechanics;
+- old Silence/Hope successor romance consequences.
+
+## 15.5 Provisional anchor schedule for later beat reconstruction
+
+| Book | Seraphine / Lucien | Caro / Elisabet |
+|---|---|---|
+| B01 | remote awareness / parallel | recognition + grounding |
+| B02 | first meeting, pull, vulnerability | unmistakable tension + intimate grounding |
+| B03 | trust deepens; denial → reluctant acceptance | future-facing vulnerability; near-kiss candidate |
+| B04 | Baz-grief fracture; Seraphine becomes grief-safe person | partnership in crisis; strongest first-kiss candidate |
+| B05 | romantic breakthrough window | deliberate choice / intimacy window |
+| B06 | relationship tested by rupture; commitment under pressure | established couple; peak Neon intimacy window |
+| B07 | post-Neon reconnection / co-regulation | established anchors |
+| B08 | Lucien dangerous stillness; Seraphine pulls him back | reciprocal care under survival pressure |
+| B09 | mature partnership in Mending/endgame | love as human stabilizing pillar; survive together |
+| Post | grounded enduring bond | committed domestic partnership |
+
+**Status of table:** recovery scaffold, not canon. It intentionally avoids assigning unverified kiss/sex/H-level milestones except where identifying the strongest candidate.
+
+# 16. Updated next recovery target
+
+The remaining romance uncertainty is now narrow enough to defer exact heat placement until Neon source recovery. The larger forensic priority can move to **antagonist causal architecture**:
+- Elias → Brightbreak manipulation;
+- Choirless escalation;
+- Technarc hardliners / manufactured metas;
+- how those pressures intersect Baz, Tahl, Kade, Lucien, and the Mending route.
+
