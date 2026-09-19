@@ -163,11 +163,19 @@ Never decide, invent, or quietly resolve:
 - Contradictions between two canon sources — record both readings and where each came
   from, then flag it
 - Whether unapproved or assistant-generated material becomes canon
-- **Who performs the Mending.** Open — the exports audit it as "coordinated human
-  Intent & resonance skill" by the Ascendant Trio, with no mention of Silence or Hope;
-  Notion `05.02` says "Silence + Hope give their metaphysical bodies". Possibly
-  compatible, but the export passage is an audit of that event and does not name them.
-  Ledger §23. This is the substantive question behind item 9b.
+- **Who performs the Mending.** **Answered from source 2026-09-19 — awaiting only a
+  correction pass.** `BOOK 9 — LOOM III (Final Beat Bible)` E14 carries both halves in one
+  beat, so there was never a fork to merge. It assigns **five** named human functions —
+  Seraphine opens, Lucien shapes structure, Caro modulates, **Elisabet grounds all three
+  as "the human heart of the mending", Kade holds humanity through MT** — and then
+  "Silence dissolves into Lucien. Hope dissolves into Caro … They form the membrane with
+  Seraphine."
+
+  So **the trio is who *ascends*, not exhaustively who *performs***; the Act III function
+  line separates the two. Every existing record is too narrow: ledger §24's row, ND-013
+  and this bullet all say "trio". The export's "Seraphine, Lucien, Caro complete the
+  Mending" is an act-level compression. **Correcting those three artifacts is the open
+  task, not the question.** Ledger §27.2.
 - **The Post-Mending `res_states` list.** Open — the banded envelope work is applied,
   but the Post-Mending era file is **held**: as specified it omits `LT`, which
   Mechanica §33 lists as a resonance state and which is the era's own signature.
@@ -192,7 +200,11 @@ Never decide, invent, or quietly resolve:
   §3 above rules that epilogues take the next sequential episode number. Both readings
   satisfy a three-act Book 9. Three options at
   `recovery/VEIL_STRUCTURE_2026-09-19.md` part 4 §3; A supersedes the `E00` prologue
-  ruling too. **Still blocks the milestone load**, five of whose rows use
+  ruling too. **Source evidence found 2026-09-19 favours B, not the recommended A:** the
+  export layer is asymmetric — the prologue sits as beat 1 *inside* ACT I, while both
+  recovered epilogues (Book 3, Book 9) are units *outside* the acts with numbering
+  restarting at `EP 01`. The exports also record this exact question being put to the
+  author during Book 1 construction and **never answered**. Ledger §27.7. **Still blocks the milestone load**, five of whose rows use
   `target_act: EP`. Two follow-ups ride on it: whether Book 9's epilogue is three or
   four episodes, and whether epilogue episodes restart at `E01`. Ledger §24 and §25.
 - **Which Veil draft is canon.** Still open, but **narrowed 2026-09-19** by the parallel
@@ -209,7 +221,15 @@ Never decide, invent, or quietly resolve:
     which is marked NON-CANONICAL. Needs promotion.
   - *Does Veil point at Santa Fe?* **Untouched.**
 
-  Migrating any Veil act overlay still writes one of two stories into canon on the parts
+  **There is a third draft, found 2026-09-19.** The three `ACT * SUMMARY — VEIL I` Notion
+  pages put **the Warehouse Incident and Baz's death in Book 1**, not Book 3, and stage
+  Tahl heavily there ("Tahl, Threadnaut", "Tahl's First Threshold"). Notion's own
+  last-edited stamps put them at 20:18–20:24 on 2025-11-23 against the Book 1 Final Beat
+  Bible at 22:17 the same day, and the Final Beat Bible says the Baz bond is "setting up
+  Book 3 tragedy". Evidence and the author's ruling both favour the later artifact, but
+  **declaring those pages superseded is an author call.** Ledger §27.6.
+
+  Migrating any Veil act overlay still writes one of three stories into canon on the parts
   that remain. `recovery/VEIL_STRUCTURE_2026-09-19.md` part 1.
 - **Four author locks live only in proposal documents**, unmigrated and unqueued: the Baz
   death timing, the `Bastien "Baz" Arnaud` identity name, Tahl's B01–B03 absence, and the
@@ -219,14 +239,22 @@ Never decide, invent, or quietly resolve:
   `S1.T1.B03.A3.E14` band exception in `act_overlays/act_overlay_S1_T1_B03_A3.json`. Its
   own source says not to touch Tier-1 rules until the recovery phase ends, so it is held.
   Ledger §26.6.
-- **Which Book 9 epilogue is canon.** Open, and new. **Three** renderings exist: the Loom
-  Final Canon backup's five beats (ND-015), the Notion Final Beat Bible's six
-  (`VEIL_STRUCTURE` part 4 §4), and an "older detailed" Notion epilogue of eleven
-  (`recovery/B09_ENDGAME_MENDING_ECHO_RECOVERY_2026-09-19.md` §9). They share only the
-  Kade-posts beat, and disagree on whether his first post-Mending message is `MT` or `LT`.
-  The timeskip is separately unresolved — three days, 6–12 months, or 1–2 years — and
-  that document says not to lock it yet. **All of this must be settled before** the
-  three-or-four-episode question §25 left open. Ledger §26.8 and §26.12.
+- **The Book 9 epilogue — timeskip, and whether the `MT`→`LT` rename completes there.**
+  Open. The *length* question is no longer the hard part: Notion's `ACT IV — Afterlight`
+  and its separate `Book 9 Epilogue — "Luminous Thread"` page carry **the same events**,
+  once as character codas and once as a staged scene, and Act IV's own function line says
+  it "positions the epilogue". So Act IV is the epilogue written as an act, corroborating
+  §25 from the primary source — and **zero of the 22 exports contain an "ACT IV"** at all.
+  What is genuinely unresolved:
+  - **Timeskip** — Notion says 6–12 months, the export says "THREE DAYS AFTER",
+    `B09_ENDGAME` §11 adds 1–2 years and says not to lock it.
+  - **Does the rename complete here?** Notion says *MT becomes LT* and calls Kade's post
+    the first `LT` entry; the export has him write the first post-Mending **`MT`** message
+    with `LT` only hinted by a handshake invitation. **Rule this with the held
+    Post-Mending era file and the three-referent `LT` problem, not separately** — it
+    decides whether `LT` exists as a channel at the end of Book 9.
+
+  Ledger §27.3.
 - **Do the ND decision ledgers need a supersession field?** Open. `ND-032` is classified
   `SUPERSEDED` and protects the Kade→Elias sequence; a later document from the same
   session reverses it to Kade→Rex on eight sources plus an author ruling, and ND-032
@@ -427,9 +455,13 @@ the envelope**. What remains: item 1 is ruled (merge, §6.1) but not performed o
    the E00–E15 packets are expected to be. **Confirmed still necessary 2026-09-19:** the
    Notion `BOOK 1 — VEIL I (Final Beat Bible)` was read and does **not** hold them. It
    carries 15 act-level macro beats, not episode packets, with zero title overlap.
-   Decisions §9's hypothesis is disconfirmed for Book 1. Ledger §21. The three
-   `ACT * SUMMARY — VEIL I` Notion pages are unread and are the likeliest remaining
-   Notion home for Book 1 episode-level material
+   Decisions §9's hypothesis is disconfirmed for Book 1. Ledger §21. **The three
+   `ACT * SUMMARY — VEIL I` pages have now been read too (2026-09-19) and hold no packets
+   either** — 7, 8 and 9 *clusters*, with Act I stating "No fixed episode count at this
+   stage" and Act II "Episode counts will naturally emerge from cluster expansion during
+   drafting". The Notion Book 1 layer is confirmed macro-only four times over, so
+   `Archive Veil Book 1` is the only remaining candidate and further Notion searching for
+   Book 1 episode material is low-value. Ledger §27.5
 8. Migrate E01–E15 packets
 9. Resolve the `canon/` vs `source_canon/` authority conflict (§1.1) and the Mechanica
    provenance question

@@ -2159,4 +2159,304 @@ END OF ENTRY 26
 
 ===============================================================
 
+===============================================================
+
+# 27. Open questions taken to the sources — 2026-09-19
+
+**Ruling applied:** James, 2026-09-19 — *"ND-032 is correct, Kade nearly kills Rex."*
+**Then:** *"Review other questions against your own review of Notion and export chats."*
+
+**Status:** ONE RULING APPLIED / THREE QUESTIONS ANSWERED FROM SOURCE / THREE STILL
+AUTHOR-ONLY / SIX NEW FINDINGS
+
+Method: all 22 sanitized exports searched directly, plus seven Notion pages fetched —
+`BOOK 9 — LOOM III (Final Beat Bible)`, `Book 9 Epilogue — "Luminous Thread"`, the three
+`ACT * SUMMARY — VEIL I` pages, and the two pages carrying `Threadnaut`.
+
+**Note on §1 of `CLAUDE.md`.** The Notion epilogue page is a staged scene containing
+dialogue. None of it is transcribed here. Beats are recorded by function only.
+
+---
+
+## 1. RULED — ND-032: Kade nearly kills Rex
+
+The ruling reverses ND-032's verdict. `NARRATIVE_DECISION_LEDGER_SOURCE_AUDIT` ND-032 is
+titled *"Kade's old 'nearly kills Rex' version is superseded"* and ends *"The later
+sequence is protected"*, protecting Kade→Elias. **That verdict is now wrong.**
+
+The Kade→Rex spine stands, as `B09_ENDGAME_MENDING_ECHO_RECOVERY_2026-09-19.md` §3–§4
+argued from eight independent sources.
+
+**Source of the error located.** The Kade→Elias line comes from one place, and this
+review found it — `Trilogy Act-Level Beat Backup__part02`, B09 ACT III beat 2:
+
+> Kade nearly kills Elias; Rex intervenes; Kade snaps
+
+That is a single act-level beat line in a compression pass. Against it stand the Kade and
+Rex character sheets, the Rex and Tahl skill trees, the Master Saga Summary, the
+Antagonist Architecture bible, the Kade→Tahl heat ladder and the Loom Trilogy Canon
+Bible. The forensic reading — a transposition error during act-level summarisation — is
+confirmed by the evidence ratio, and now by the ruling.
+
+**Governing sequence:** Elias manipulates Kade → Kade attacks Rex → nearly kills him →
+Tahl's Echo forces recalibration → Kade rejects Brightbreak → turns to protecting the
+Mending.
+
+ND-032 is **not** edited here — see §7, question 6. The ND format still has no way to
+retire an entry, so editing it in place would hide the structural problem this case
+exposes rather than fix it.
+
+## 2. ANSWERED — who performs the Mending, and why every record so far was too narrow
+
+`BOOK 9 — LOOM III (Final Beat Bible)`, **E14 "The Mending (Breathable Veil Formation)"**,
+marked *"This is the cosmological core of the saga."* The beat assigns **five distinct
+human functions**, not three:
+
+| Participant | Function at E14 |
+| --- | --- |
+| Seraphine | opens herself; prismatic resonance flows |
+| Lucien | shapes structure around her, stabilising the flow |
+| Caro | modulates the emotional burden, filtering the world's pain |
+| **Elisabet** | grounds all three — *"the human heart of the mending"* |
+| **Kade** | holds humanity steady through MT |
+
+And then, in the same beat: **Silence dissolves into Lucien. Hope dissolves into Caro.**
+Their last act is to **form the membrane with Seraphine**.
+
+**So the fork was never a fork.** One primary source carries both halves in one beat. This
+**confirms §24's reading** and **satisfies ND-013's caution** — nothing had to be merged,
+because the source never separated them.
+
+**But both records are still too narrow.** ND-013 says the Mending is "structurally
+assigned to Seraphine + Lucien + Caro" and §24 says "the trio act"; the source gives
+Elisabet and Kade explicit, named functions in the event. The Act III function line shows
+where the trio framing comes from and what it actually means:
+
+> Execute the mending of the Veil, the dissolution of Silence & Hope, and ascension of the
+> new triad.
+
+**The triad is who *ascends*, not exhaustively who *performs*.** The export's
+`Trilogy Act-Level Beat Backup` line *"Seraphine, Lucien, Caro complete the Mending"* is
+an act-level compression of a five-function event — the same compression class as the
+Kade/Elias error in §1, from the same export.
+
+**Recommended, not applied:** §24's row and ND-013 both need correcting to the five-function
+form, and `CLAUDE.md` §4 can drop the item. That is three artifacts, so it is proposed
+rather than done — question 1 in §7.
+
+## 3. ANSWERED — the Book 9 epilogue: two of the three renderings are the same content twice
+
+Notion structures Book 9 as **ACT I · ACT II · ACT III · ACT IV · plus a separate epilogue
+page**. The export structures it as **ACT I · ACT II · ACT III · EPILOGUE**.
+
+**ACT IV's own function line gives it away:**
+
+> **Act Function:** Resolve character arcs and **position the epilogue**.
+
+And the book overview's narrative-function list ends: *"Create space for an epilogue
+(LT / post-mending world)."* So in Notion, Act IV is not the epilogue — it points at one.
+Yet the separate `Book 9 Epilogue — "Luminous Thread"` page carries **the same events**:
+
+| Notion ACT IV (E16–E21), as codas | Notion epilogue page, as staged scene |
+| --- | --- |
+| E16 Seraphine · E17 Lucien · E18 Caro | beats 4–5, Caro arrives, Lucien and Seraphine approach |
+| E19 Elisabet | beat 3, Elisabet joins Kade |
+| E20 Kade posts the first LT message; MT becomes LT | beats 2 and 7, Kade writes and reads the first LT entry |
+| E21 Tahl's Echo's final gesture, then fades | beat 8, a final VT flicker, seen only by the ascended trio |
+
+**Act IV is the epilogue written as an act.** That is exactly the ruling of §25, and it is
+now corroborated from the primary source rather than inferred: the redundancy is visible
+inside Notion itself, which is why Act IV reads as a fourth act that does not behave like
+one.
+
+**Zero occurrences of "ACT IV" in all 22 sanitized exports.** The export layer is
+unanimously three-act. `ACT IV` is Notion-only, and the ruling matches the export layer.
+
+**Two genuine conflicts survive, and they are not about length:**
+
+1. **The timeskip.** Notion's epilogue page states **6–12 months after the mending**, with
+   reasons (infrastructure returns, resonance normalises, Kade grows into his voice). The
+   export heads its unit **EPILOGUE — THREE DAYS AFTER**. `B09_ENDGAME` §11 adds a third
+   candidate, 1–2 years, and says not to lock it.
+2. **Whether the rename completes here.** Notion Act IV E20 says *MT becomes LT* and the
+   epilogue page labels Kade's post the first **LT** entry, "LT (formerly MT)". The export
+   epilogue has Kade write the first post-Mending **MT** message, with a separate final
+   beat for the **LT handshake invitation** — i.e. LT is only *hinted*, which is what
+   `B09_ENDGAME` §10 reports the later continuity audit saying.
+
+Conflict 2 is the live one: it decides whether `LT` exists as a channel at the end of Book
+9 or is only gestured at, which bears directly on the **Post-Mending era file still HELD**
+over its `res_states` list (§18) and on the three-referent `LT` problem (§24). It should be
+ruled with those, not separately.
+
+**Beat counts, for the record:** Notion Act IV 6 · Notion epilogue page 9 · export epilogue
+5. The export's five are numbered **EP 01–EP 05** inside a unit named `EPILOGUE`.
+
+## 4. ANSWERED — `Threadnaut` has exactly two sources, and neither is an export
+
+| Layer | Occurrences |
+| --- | --- |
+| All 22 sanitized exports | **0** |
+| `canon/`, `rules/`, `grids/` | **0** |
+| Notion | **2 pages** |
+| `proposals/` + `recovery/` | 84 |
+
+The two Notion sources:
+
+- `ACT I SUMMARY — VEIL I`, cluster 3 of 7, titled **"Tahl, Threadnaut"**
+- `BOOK 4 — NEON I (Final Beat Bible)`: *"Filaments begin calling him 'Threadnaut.'"*
+
+So 84 repository references rest on two Notion lines plus author recollection. **The two
+lines disagree with each other** in exactly the way `B03_B04_HANDOFF` §11 predicted: the
+B04 bible bestows the name *after* Tahl becomes public, while the Act I summary already
+uses it as a Book 1 cluster title. The handoff document flagged this as a terminology
+conflict and said not to collapse it silently. That was right, and the conflict is real.
+
+**The Act I support is weaker than it looks**, because that page is part of a Veil draft
+that is superseded on other grounds — see §6.
+
+`Threadnaut` remains a candidate Tier-1 gap, now with its source base measured rather than
+assumed. Question 3 in §7.
+
+## 5. NEW — work-queue item 7: all three `ACT * SUMMARY — VEIL I` pages read, none holds packets
+
+`CLAUDE.md` §8 item 7 recorded these three as *"unread and the likeliest remaining Notion
+home for Book 1 episode-level material."* All three are now read. **None holds episode
+packets, and two say so explicitly:**
+
+| Page | Structure | Statement |
+| --- | --- | --- |
+| `ACT I SUMMARY — VEIL I` | 7 clusters | *"No fixed episode count at this stage; episodes will emerge naturally from drafting."* |
+| `ACT II SUMMARY — VEIL I` | 8 clusters | *"Episode counts will naturally emerge from cluster expansion during drafting."* |
+| `ACT III SUMMARY — VEIL I` | 9 scene clusters | no episode numbering of any kind |
+
+With §21 (the Book 1 Final Beat Bible holds 15 act-level macro beats, not packets), the
+Notion Book 1 layer is now **confirmed macro-only four times over**. The hypothesis that
+Notion holds the E00–E15 packets is disconfirmed for Book 1 in full.
+
+**`Archive Veil Book 1` in the ChatGPT workspace is the only remaining candidate**, which
+raises the value of work-queue items 6 and 7 again and lowers the value of further Notion
+searching for Book 1 episode material.
+
+One useful corroboration: Act I's supplement list — MT #1, Chronicle sidebar, MT #2,
+Velvet Vein #1, Chronicle leak, MT #3, Filament Drop #1 — matches the "Historical density
+evidence" in `VEIL_MT_THREADNAUT_BREADCRUMB_GRID` exactly. That grid's density claim is
+sourced.
+
+## 6. NEW — there is a THIRD Veil draft, and it kills Baz in Book 1
+
+`ACT III SUMMARY — VEIL I` is Book 1. Its cluster list includes:
+
+> 8. **The Warehouse Incident (Baz's Death)**
+
+and its establishing list includes *"Baz's death shattering Lucien and reshaping Neon
+arc"* — all in **Book 1**.
+
+This contradicts, inside the same Notion workspace:
+
+- `BOOK 1 — VEIL I (Final Beat Bible)`: the Baz bond forms, *"setting up Book 3 tragedy"*
+- `BOOK 3 — VEIL III (Final Beat Bible)`: *"Act Function: Execute the Rupture, **kill Baz**, break the cast, launch Neon"*
+- the author's 2026-09-19 ruling: Baz dies at the **end of B03**
+
+**Provenance favours the Final Beat Bible, narrowly but cleanly.** Notion's own
+last-edited stamps, same day:
+
+| Page | Last edited |
+| --- | --- |
+| `ACT I SUMMARY — VEIL I` | 2025-11-23 20:18 |
+| `ACT II SUMMARY — VEIL I` | 2025-11-23 20:21 |
+| `ACT III SUMMARY — VEIL I` | 2025-11-23 20:24 |
+| `BOOK 1 — VEIL I (Final Beat Bible)` | 2025-11-23 **22:17** |
+
+The Final Beat Bible is roughly two hours later than the act summaries and disagrees with
+them, so the summaries read as a superseded restructuring experiment. The author's ruling
+agrees with the later artifact.
+
+**This widens "Which Veil draft is canon" from two drafts to three**, and the third is the
+one that is already mostly ruled against. The three act summaries also stage Tahl heavily
+in Book 1 — cluster 3 "Tahl, Threadnaut", cluster 5 "Tahl's First Threshold", *"Tahl's
+irreversible commitment to the Pattern"* — against the lock that Tahl is not a named
+primary before the B03 epilogue.
+
+Recorded, not resolved. The evidence points one way and the ruling agrees with it, but
+declaring a Notion page superseded is an author call.
+
+## 7. NEW — the exports asked the prologue question and never answered it
+
+`Episode expansion process__part01` contains the question this repository is still
+arguing, asked of the author during Book 1 construction:
+
+> Should the Prologue be treated as: A) Episode 0 (outside the Act structure), or
+> B) Episode 1 within Act I? Canon supports both approaches.
+
+**No answer follows.** The next turn jumps to Episode 16. Decisions §2.2 later settled it
+as `E00`.
+
+More useful is what the export layer *does*, which is **asymmetric**:
+
+- the **prologue** sits as **beat 1 inside ACT I** — "Prologue — Silence & Hope (canon)",
+  then "2. Seraphine fails to save the swamp child"
+- the **epilogue** is a **unit outside the acts**, with its own numbering restarting at
+  `EP 01` — both for Book 3 (`EPILOGUE — VEIL → NEON BRIDGE`, EP 01–04) and Book 9
+  (`EPILOGUE — THREE DAYS AFTER`, EP 01–05)
+
+**That is option B** of `VEIL_STRUCTURE` part 4 §3 — `EP` in the act slot, prologue stays
+inside Act I — not the recommended option A. `VEIL_STRUCTURE` argued for A on symmetry
+grounds; **the recovered material is not symmetric, and never was.** It also answers part 4
+§5 item 3 as a matter of observed practice: epilogue episodes **restart at `EP 01`**.
+
+This is evidence, not a ruling. The choice between honouring the recovered asymmetry and
+imposing symmetry remains the author's.
+
+## 8. Smaller findings
+
+**The B03 "slip" wording is quoted, not careless.** `Episode expansion process__part01`
+heads Book 1's third act `ACT III — THE SLIP` and gives beat 7 as
+*"THE SLIP — Tahl's first VT brush"* at EP 14–15. So milestone `M09`'s "VT slip" wording
+and the overlay exception's "VT brush" wording both quote the same source line, **which
+itself calls one event by both names**. That conflation is precisely what the locked
+NOTICE/BRUSH/PUNCTURE/SLIP ladder exists to resolve, and it strengthens §26.6: the three
+artifacts are not sloppy, they faithfully reproduce a source that had not yet drawn the
+distinction.
+
+**Notion is the `Technarch` drift source.** The Book 9 bible reads *"Overthrow Dominion
+and Technarch remnants"* and *"Technarch: Collapsed"*. The parallel session was reading
+Notion, so the spelling travelled with the content. The correction at §26.10 stands, and
+this explains how it re-entered — it will re-enter again on every Notion pass unless the
+mapping is applied at read time.
+
+**Per-act episode restarts confirmed pervasive in the act backup.** Every act in the
+`Trilogy Act-Level Beat Backup` runs its own `EP 01–EP 23/24`. `CLAUDE.md` §3's scope
+warning that this is a migration pass rather than a find-and-replace is correct and if
+anything understated.
+
+## 9. What is still author-only
+
+Questions 4, 5 and 6 from §26.11 **cannot be settled from sources** — they are decisions
+about this repository's own record-keeping, and no beat bible has an opinion on them:
+
+4. Which authority lettering governs the narrative decision ledgers (§26.4)
+5. Whether the classification labels need a second axis (§26.5)
+6. Whether the ND ledgers need a supersession field (§26.12) — **now urgent**, because
+   ND-032 is a confirmed-wrong entry with no way to mark it
+
+The revised queue:
+
+1. **Correct the Mending record in three places** to the five-function form (§2) —
+   §24's row, ND-013, and `CLAUDE.md` §4. Recommended; not applied.
+2. **The Book 9 epilogue timeskip** — three days, 6–12 months, or 1–2 years (§3).
+3. **Does the MT→LT rename complete in the Book 9 epilogue** (§3)? Rule with the held
+   Post-Mending era file and the three-referent `LT` problem, not separately.
+4. **Is `Threadnaut` a Tier-1 recovery item** (§4), and which of its two conflicting
+   naming sources governs?
+5. **Are the three `ACT * SUMMARY — VEIL I` pages superseded** (§6)? Evidence and ruling
+   both say yes; the declaration is the author's.
+6. **Prologue/epilogue symmetry** (§7): honour the recovered asymmetry (option B) or
+   impose symmetry (option A)?
+7. Questions 4–6 above, unchanged.
+
+END OF ENTRY 27
+
+===============================================================
+
 END RECOVERY LEDGER
