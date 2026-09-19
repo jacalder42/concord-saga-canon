@@ -124,7 +124,7 @@ Reader question: **What happens when an anonymous observer becomes part of the e
 ### MT-10 — Institutions disagree
 **Placement:** early-mid B03  
 **Vehicle:** comparison of official statements, deleted notices, field evidence  
-**Function:** documents Dominion/Technarch secrecy without omniscience.  
+**Function:** documents Dominion/Technarc secrecy without omniscience.  
 **Ethic:** clearly distinguishes fact, inference, and rumor.  
 **Gear breadcrumb:** ruggedized storage/analog backup begins appearing because public systems are becoming unreliable.
 

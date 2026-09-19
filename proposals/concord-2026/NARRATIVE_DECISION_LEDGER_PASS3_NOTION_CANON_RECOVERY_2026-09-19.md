@@ -125,7 +125,7 @@ The Antagonist Architecture Bible establishes the original layered model:
 
 It strongly supports:
 - human/systemic antagonism rather than supervillains;
-- Technarc/Technarch containment and Protocol 9;
+- Technarc containment and Protocol 9;
 - Dominion purity/control pressure;
 - Saeko as trauma-driven civic fear rather than simple villain;
 - Manufactured Metas as system failures lacking Intent;

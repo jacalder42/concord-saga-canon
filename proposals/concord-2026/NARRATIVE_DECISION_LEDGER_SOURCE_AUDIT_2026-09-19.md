@@ -656,7 +656,7 @@ Current canon instead locks:
 - **Authority:** current explicit author ruling + corroborating November 2025 Final Beat Bible
 - **Status:** CORRECTED / SOURCE-CONFIRMED CORE
 - **Recovered mechanics:** NOLA Warehouse District; Resonance Rupture; trapped civilians; Baz enters to rescue them; structural collapse crushes him; he uses his last breath to pull a child free; Lucien arrives too late.
-- **Causal boundary:** surviving Final Beat Bible attributes the immediate death to Rupture/structural collapse, not a named antagonist personally killing Baz. Dominion/Technarch institutional pressure surrounds the event.
+- **Causal boundary:** surviving Final Beat Bible attributes the immediate death to Rupture/structural collapse, not a named antagonist personally killing Baz. Dominion/Technarc institutional pressure surrounds the event.
 - **B04 handoff:** current author ruling says the rest of the cast learns of Baz's death at the start of B04; exact information-discovery sequence remains to reconcile against older epilogue staging.
 - **Tahl connection:** current author direction proposes that pre-reveal MT/Threadnaut reporting may have exposed Baz or a Warehouse participant, creating Tahl's guilt/ethics wound. This exposure mechanism is NOT yet documentary-confirmed and remains OPEN.
 - **Lucien connection:** Lucien's guilt is structurally supported; exact formulation that he blames himself specifically for asking Baz to come to New Orleans remains author recollection pending direct source confirmation.

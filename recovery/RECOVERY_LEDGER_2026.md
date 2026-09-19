@@ -1999,12 +1999,38 @@ item open on the two that remain.
 
 ## 10. Smaller findings
 
-**`Technarch` re-entered.** The retired spelling is back in 5 `proposals/` documents and
-18 non-quotation uses in `REX_TAN_RECOVERY_SOURCE_AUDIT`. `Technarc` is canonical
-(decisions §6.4, §16.1) and faction naming is canon, so this is a ruled correction rather
-than a decision; applied in a separate commit, preserving the two genuine quotations in
-the Rex audit (`"Technarch-adjacent; logistics-focused, skeptical but decent"` and the
-gloss of that phrase) because they are evidence.
+**`Technarch` re-entered — corrected.** The retired spelling came back in six
+`proposals/` documents (including both milestone load CSVs) and in two Claude-authored
+`recovery/` audits. `Technarc` is canonical (decisions §6.4, ledger §16.1) and faction
+naming is canon, so this is a ruled correction rather than a decision. Applied in a
+separate commit:
+
+| File | Corrected | Preserved |
+| --- | --- | --- |
+| `REX_TAN_RECOVERY_SOURCE_AUDIT_2026-09-19.md` | 16 | **4** |
+| `BAZ_WAREHOUSE_INCIDENT_RECOVERY_2026-09-19.md` | 4 | 0 |
+| `B03_B04_HANDOFF_RECONCILIATION_2026-09-19.md` | 1 | 0 |
+| `NARRATIVE_DECISION_LEDGER_SOURCE_AUDIT_2026-09-19.md` | 1 | 0 |
+| `NARRATIVE_DECISION_LEDGER_PASS3_NOTION_CANON_RECOVERY_2026-09-19.md` | 1 | 0 |
+| `VEIL_MT_THREADNAUT_BREADCRUMB_GRID_2026-09-19.md` | 1 | 0 |
+| `milestones_payoffs_PROPOSED_LOAD_2026-09-19.csv` (row `M30`) | 1 | 0 |
+| `milestones_payoffs_PROPOSED_LOAD_v2_2026-09-19.csv` (row `M30`) | 1 | 0 |
+
+The four preserved are genuine quotations of older material and are evidence: the
+`"Rational Thread / Technarch defector / post-Mending leader"` package label, the
+`"loyal Technarch engineer slowly defects"` phrasing, the B1 character list's
+`"Technarch-adjacent; logistics-focused, skeptical but decent"`, and the line glossing
+what `"Technarch-adjacent"` means. A fifth line in that file carried curly quotes around
+`"loyalty"` rather than around the faction name, so it was the document's own prose and
+was corrected.
+
+PASS3's hedged `Technarc/Technarch containment` collapsed to `Technarc containment`.
+
+The repository now reads **200 `Technarc`** and **zero `Technarch`** outside `CLAUDE.md`,
+this ledger, `CANON_DECISIONS_2026-09-18.md`, `PROPOSAL_BRANCH_MERGE_PREP_2026-09-19.md`,
+the four Rex quotations, and the three author-uploaded 2026-09-19 bundles
+(`SAGA_TIMELINE`, `VEIL_STRUCTURE`, `NOTION_RECOVERY`) — which are originals under §1.0
+and are not edited in place. `proposals/`, `canon/`, `rules/` and `grids/` are clean.
 
 **`Threadnaut` has 84 references and no canon file.** It appears 68 times in `proposals/`
 and 16 in `recovery/`, and **zero times** in `canon/`, `rules/` or `grids/`. It is now

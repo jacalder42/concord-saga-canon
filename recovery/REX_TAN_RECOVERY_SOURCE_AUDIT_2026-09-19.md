@@ -21,9 +21,9 @@ From canon/characters/RexID.md:
 - constraint = protection, not pessimism.
 - high technical institutional proximity, low policy/political authority.
 
-### Pre-saga Technarch breakpoint
+### Pre-saga Technarc breakpoint
 Tier-1 contains a specific later backstory:
-- Technarch asks Rex to certify a system that performs statistically but fails catastrophically for edge cases.
+- Technarc asks Rex to certify a system that performs statistically but fails catastrophically for edge cases.
 - Rex quietly refuses certification.
 - Rex deliberately relocates to Detroit because failure is visible and repair-first there.
 
@@ -74,7 +74,7 @@ Useful:
 - Singapore connection.
 - systems engineer.
 - analytical precision.
-- Technarch proximity.
+- Technarc proximity.
 - growing distrust of optimization without humanity.
 - manufactured-meta failures as institutional evidence.
 - civic/mechanical triage.
@@ -85,35 +85,35 @@ Useful:
 Superseded or requires review:
 - literal teal/geometric resonance power.
 - “dampens chaos / enhances signal clarity” as supernatural effect.
-- loyal Technarch engineer until Neon defection.
+- loyal Technarc engineer until Neon defection.
 - primary global reconstruction leader.
 - post-Mending governance partnership.
 - Kade nearly kills Rex as the final climax.
 - Tahl Echo saving Rex as Rex's singular emotional awakening.
-- Protocol 13/global Technarch martial-rule Loom architecture unless separately re-approved.
+- Protocol 13/global Technarc martial-rule Loom architecture unless separately re-approved.
 
-## 5. Technarch relationship — reconstructed
+## 5. Technarc relationship — reconstructed
 
 ### Older architecture
 Veil:
-- Rex works under Technarch protocols.
+- Rex works under Technarc protocols.
 - B1 character list: “Technarch-adjacent; logistics-focused, skeptical but decent.”
 - B2: increasingly uneasy; civic liaison.
 - B3: first major doubts; analysts pressure him; hidden logs do not match.
 
 Neon:
 - witnesses manufactured-meta failure.
-- leaves Technarch / joins protagonists.
+- leaves Technarc / joins protagonists.
 - Singapore becomes ideological confrontation site.
 
 ### Current Tier-1
 The ethical break occurs **pre-saga** at certification refusal, followed by relocation to Detroit.
 
 Recommended reconciliation:
-- Rex is no longer a loyal internal Technarch engineer during Veil.
+- Rex is no longer a loyal internal Technarc engineer during Veil.
 - “Technarch-adjacent” means former employee/pipeline engineer, contractor/contact, technical peer, or person whose credentials grant access—not ideological loyalty.
 - old B1–B3 doubts become **confirmation/escalation** of a prior ethical break.
-- Technarch knows Rex is technically credible and institutionally inconvenient.
+- Technarc knows Rex is technically credible and institutionally inconvenient.
 - Rex knows how their systems think because he was trained inside that logic.
 
 This preserves institutional intimacy without requiring a second defection arc.
@@ -121,10 +121,10 @@ This preserves institutional intimacy without requiring a second defection arc.
 ## 6. Rex and the Warehouse / Veil institutional line
 Historical B3 sources:
 - Rex running civic triage.
-- conflicted by Technarch decisions.
+- conflicted by Technarc decisions.
 - Dr. Shun Wei warns anomaly numbers do not match official logs.
 - Hardliner analyst pressures Rex.
-- Technarch retrieval agents seek Warehouse evidence.
+- Technarc retrieval agents seek Warehouse evidence.
 - Rex sees civic systems fracture after Warehouse.
 
 Current-fit interpretation:
@@ -140,7 +140,7 @@ This makes Rex potentially valuable to the still-open forensic question: what ex
 ### VEIL — constraint voice at margins
 - systems mostly work;
 - Rex's warnings often seem overly cautious because redundancy still exists;
-- former Technarch proximity gives him access/context;
+- former Technarc proximity gives him access/context;
 - Warehouse becomes proof that optimization + secrecy can kill.
 - supporting role, not core lead.
 
@@ -230,7 +230,7 @@ This is likely Rex's strongest Loom allocation.
 
 ## 12. Potential Warehouse contribution to recover next
 Because Rex is technically credible and historically present around B3 civic triage, search/reconstruction should test these possibilities against source evidence:
-- Did Technarch suppress/alter hazard data?
+- Did Technarc suppress/alter hazard data?
 - Did containment perimeter reduce evacuation capacity?
 - Did evidence retrieval delay civilian rescue?
 - Did institutional access control trap people or responders?
@@ -243,14 +243,14 @@ Do not invent answer until documentary recovery is exhausted.
 ## 13. Proposed current locks
 Already Tier-1:
 1. Singapore-born Chinese Singaporean; Detroit chosen environment.
-2. pre-saga Technarch certification refusal.
+2. pre-saga Technarc certification refusal.
 3. physical constraint anchor / limits-as-care.
 4. leadership ceiling.
 5. non-metaphysical.
 6. post-Mending repair/infrastructure contribution, not political rule.
 
 Recovered reconciliation:
-7. Veil Technarch “loyalty” is superseded; institutional proximity remains.
+7. Veil Technarc “loyalty” is superseded; institutional proximity remains.
 8. old defection becomes confirmation of prior ethical break.
 9. old Kade-nearly-kills-Rex climax superseded by Kade→Elias, Rex intervenes, Tahl Echo interruption.
 10. old Elisabet/Rex governance dyad should be reframed as technical/intellectual reconstruction partnership.

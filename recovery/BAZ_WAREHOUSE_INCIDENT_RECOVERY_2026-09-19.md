@@ -172,7 +172,7 @@ This creates a useful contrast for B03: evacuation/safety vs institutional conta
 
 ### B03 institutional deployment
 Recovered B03 character architecture places:
-- **Technarch Containment Squad** at Shard and Rupture events;
+- **Technarc Containment Squad** at Shard and Rupture events;
 - **Dominion Retrieval Team** attempting to extract Lucien;
 - **Caldas Ren** at Warehouse-zone perimeter;
 - **Rook & Harlow** attempting to secure evidence from Warehouse;
@@ -186,7 +186,7 @@ Han Wei's antagonist sheet explicitly says:
 - that failure becomes his turning point;
 - afterward he expands Protocol 9 into surveillance/containment.
 
-Therefore a Technarch-engineered Warehouse Rupture is poorly supported and should not be reconstructed by default.
+Therefore a Technarc-engineered Warehouse Rupture is poorly supported and should not be reconstructed by default.
 
 ## Recovered institutional pattern
 
@@ -215,7 +215,7 @@ Strengths:
 Evidence status: **SUPPORTED IN PRINCIPLE; exact delay not recovered.**
 
 ### B. Evidence retrieval during escalation
-Technarch retrieval agents enter/hold the site to secure records, sensors, samples, or other evidence instead of treating it solely as a civilian emergency.
+Technarc retrieval agents enter/hold the site to secure records, sensors, samples, or other evidence instead of treating it solely as a civilian emergency.
 
 Effect:
 - response becomes confused/compartmentalized;
@@ -256,7 +256,7 @@ Evidence status: **ACTORS/AIM RECOVERED; Warehouse causal link not recovered.**
 1. Warning signs indicate another Warehouse event.
 2. Threadnaut/Filament/public sources see enough to raise concern.
 3. Institutions classify the anomaly as containable and establish a controlled perimeter rather than ordering transparent, aggressive evacuation.
-4. Technarch personnel prioritize securing Warehouse evidence/data while information remains compartmentalized.
+4. Technarc personnel prioritize securing Warehouse evidence/data while information remains compartmentalized.
 5. Rupture exceeds Han Wei's predictive model.
 6. Civilians are still trapped.
 7. Baz, already familiar with the district and its prior B02 evacuation, goes in/returns for them.

@@ -538,7 +538,7 @@ November 2025 **BOOK 3 — VEIL III (Final Beat Bible)** explicitly identifies A
 - Warehouse Zone remains a long-term resonance scar.
 
 ## Antagonist causality correction
-The recovered Final Beat Bible does **not** show a named antagonist personally killing Baz. Dominion pressure and Technarch escalation are active around the larger B03 crisis, but Baz's immediate cause of death is the Rupture-driven structural collapse while rescuing civilians.
+The recovered Final Beat Bible does **not** show a named antagonist personally killing Baz. Dominion pressure and Technarc escalation are active around the larger B03 crisis, but Baz's immediate cause of death is the Rupture-driven structural collapse while rescuing civilians.
 
 Therefore preserve:
 **systemic/institutional failure + resonance catastrophe → Warehouse Incident → Baz chooses civilian rescue → structural collapse → child survives → Baz dies.**
