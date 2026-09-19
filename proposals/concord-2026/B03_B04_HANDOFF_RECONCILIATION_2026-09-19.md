@@ -768,3 +768,130 @@ The following older implementation should not control reconstruction:
 - Tahl personally integrated into Baz's social circle before the Warehouse Incident.
 
 Underlying investigative observations, MT posts, data maps, and reporting functions may be translated into anonymous supplement artifacts rather than discarded.
+
+
+# 23. VT contact vocabulary audit — Brush → Puncture → Slip
+
+**Status:** PROPOSED RECONCILIATION — strong fit, not yet promoted to Mechanica.
+
+## Vocabulary collision audit
+
+### BRUSH
+Historical sources repeatedly use **brush** for low-grade mortal proximity/contact with VT.
+- B02 Final Beat Bible explicitly: “Tahl's First Real Brush with VT.”
+- Character/skill sources refer to early brushes.
+- Brush is therefore suitable for a microscopic, ambiguous contact that does not constitute access.
+
+### EDGE
+Historical sources use **edge** generically for dangerous proximity (“near the VT edge”).
+- Keep as descriptive proximity language.
+- Do not promote to a formal event class unless needed.
+
+### PUNCTURE
+No meaningful historical VT technical use recovered.
+- Current GitHub uses “puncture” only in ordinary prose unrelated to VT mechanics.
+- Therefore **Puncture is available** as a new/recovered formal distinction if author approves.
+
+### BREACH
+Historical metaphysics material already uses **Human Breach (Tahl)**.
+- Avoid using BREACH for B03 because it carries old system baggage and may imply too much crossing/access.
+
+### SLIP
+Strong historical association with Tahl's dangerous entry/crossing into VT.
+- Current Tahl canon says VT slip occurs in Neon and death occurs at Santa Fe Rupture B06.
+- Reserve **SLIP** for the B06 threshold event/full dangerous crossing.
+- Do not call the B03 epilogue a slip.
+
+## Proposed escalation ladder
+
+### B01 — NOTICE / PROXIMITY
+- Threadnaut detects correlations.
+- No personal VT contact.
+- Environmental anomalies only.
+- Gear remains investigative.
+
+### B02 — BRUSH
+- microscopic, ambiguous VT contact;
+- may occur during Shard/anomaly research;
+- too small to prove;
+- no access;
+- no communication;
+- no power;
+- no named-Tahl foregrounding required.
+- Can be represented indirectly through MT/Threadnaut supplement material so Tahl's identity remains concealed.
+
+Historical B02 source strongly supports this function:
+- stray resonance pulse pushes Tahl too close to VT;
+- first microscopic flicker;
+- “not visible to reader yet” in old implementation.
+
+Current reconstruction can make the *effect* visible while withholding its metaphysical interpretation and Tahl's identity.
+
+### B03 — PUNCTURE
+Qualitatively different from Brush.
+
+Proposed definition:
+> A mortal momentarily creates or passes through an infinitesimal discontinuity in the VT boundary sufficient for direct perception, but insufficient for entry, stable access, communication, or Intent-bearing action.
+
+Properties:
+- accidental;
+- extremely brief;
+- Tahl remains physically outside VT;
+- direct perception occurs;
+- no dialogue;
+- no controllable access;
+- no ability gain;
+- cannot be reproduced on demand;
+- technology neither causes nor carries the contact;
+- aftermath includes overload/exhaustion/uncertainty.
+
+Best placement remains B03 epilogue:
+Warehouse/MT consequence → Tahl reveal → searches sky for relief → recognizes the impossible quality previously brushed in B02 → follows it perceptually → **PUNCTURE** → recoils/collapses → cannot prove what happened.
+
+### B04–B05 — EDGE / RECURRENCE
+- Tahl now recognizes the signature.
+- intermittent proximity/flickers may occur.
+- attempts to understand conditions increase danger.
+- never stable access.
+- B05 “VT Faultline” can function as near-slip escalation.
+- avoid multiplying formal contact events unnecessarily.
+
+### B06 — SLIP
+- full dangerous VT threshold crossing;
+- Intent spark occurs here under current channel chronology;
+- catastrophic;
+- tied to Tahl's death / Santa Fe rupture;
+- not equivalent to Brush or Puncture.
+
+### LOOM — ECHO
+- postmortem state/function under separate Echo rules.
+- no resurrection.
+
+## Why this reconciliation is attractive
+
+It explains historical source drift:
+- older B02 material correctly preserved the **first Brush**;
+- B03 material correctly insisted Tahl was closer to VT but “not fully slipping yet”;
+- later structural work tried to protect one consequential Veil event and mislabeled/compressed it as brush/slip;
+- B06 retains the true Slip.
+
+It also gives Tahl a clean metaphysical escalation without making him a Veil protagonist:
+
+**B01 NOTICE → B02 BRUSH → B03 PUNCTURE → B04–05 EDGE/RECURRENCE → B06 SLIP → LOOM ECHO.**
+
+## Source conflict requiring explicit author resolution
+December 12/13 compressed memory says B04 includes “Tahl's first VT brush,” while also defining B01–B03 as Baz-centric and B04–B06 as Tahl-centric.
+
+This appears to be a later structural relocation/compression rather than a detailed mechanics ruling, because:
+- detailed B02 Final Beat Bible explicitly contains the first microscopic brush;
+- B03 sources place Tahl dangerously close but not fully slipping;
+- current author reconstruction provides a coherent distinction between B02 Brush and B03 Puncture.
+
+Recommended authority if approved:
+- retain Baz-centric B01–B03 / Tahl-centric B04–B06 foregrounding;
+- allow anonymous Threadnaut to experience B02 Brush off-axis;
+- reveal Tahl during B03 Puncture epilogue;
+- interpret December “B04 first brush” as superseded compression.
+
+## Mechanica note
+If author locks this ladder, update Channel/VT and Mechanica only after the broader recovery phase. Do not modify Tier-1 rules during forensic reconstruction.
