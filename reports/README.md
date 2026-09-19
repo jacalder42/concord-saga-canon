@@ -17,7 +17,12 @@ Two reports, because scope changes the answer.
 | Report | Scope | Files | Violations |
 | --- | --- | --- | --- |
 | `VALIDATION_BASELINE_2026-09-19.md` | canon substrate | 190 | 27 |
-| `VALIDATION_BASELINE_ALL_2026-09-19.md` | everything, incl. `recovery/`, `CLAUDE.md` | 196 | 45 |
+| `VALIDATION_BASELINE_ALL_2026-09-19.md` | everything, incl. `recovery/`, `proposals/`, `CLAUDE.md` | 224 | 52 |
+
+The `--all` figure rose from 196/45 because the proposal branch merged into the working
+branch, bringing 28 more files and 7 more quoted one-digit SIDs. The substrate figure is
+unchanged, which is the point: **the banded envelopes and the 27 new
+`escalation_permissions` blocks added zero violations.**
 
 ### What the rulings changed in the checker
 
@@ -35,6 +40,12 @@ Two reports, because scope changes the answer.
   provisional types `ROM`, `TECH` and `CHAR` are **accepted, not flagged** — §7 was to
   be applied while marked unratified — and the report's configuration block names them
   on every run so they cannot be mistaken for ruled vocabulary.
+- **`CHK_BANDS`** validates the per-act `escalation_permissions` bands ruled 2026-09-19:
+  every bound is a member of its axis vocabulary, `min` does not exceed `max`, and each
+  exception names a valid axis, a valid value and a parseable SID. It checks
+  **coherence, never judgement** — that an act permits `U3`–`U6` is the author's call,
+  and a test asserts the checker will not second-guess it. A pinned band (`FX3`–`FX3`,
+  as `B08.A1` uses) is legal.
 - **`CHK_VT_CAP`** enforces the one supplement constraint a script can settle: 10–12
   `VT` Glimpses across all nine books (§3.4). Exceeding the maximum is a violation.
   Being under the minimum is **not** — the saga is unwritten, and an empty grid is not
@@ -99,10 +110,14 @@ Recorded so the reports are not read as stronger than they are.
   are editorial judgements about story content. This validator enforces the mechanical
   layer — identifier format, field names, controlled vocabulary — which is the part a
   script can settle. The editorial five still need a reader.
-- **No semantic checks.** The validator will not catch the trilogy-envelope
-  contradiction in `CLAUDE.md` §9.1: `W3`/`U5` are valid tokens everywhere they appear,
-  and whether Loom should permit more than Veil is a canon question, not a format one.
-  This is the open item at decisions §8 item 1.
+- **Band values are not judged, only checked for coherence.** `CHK_BANDS` cannot tell
+  a well-reasoned band from a careless one. 18 of the 27 act bands are marked
+  `basis: inferred` and are placeholders; the checker treats them exactly like the 9
+  marked `observed`. Read the `basis` field before trusting a band.
+- **Episode-level band conformance is not checked yet.** Nothing verifies that an
+  episode's `CORRIDOR` sits inside its act's band, because no episode rows exist —
+  `episode_beats.csv` is still header-only. That check becomes possible, and worth
+  adding, the moment migration writes the first row.
 - **The 150–600 word supplement range is not enforced.** No supplement text exists in
   the repository to measure, and per `CLAUDE.md` §1 none ever will — this repo holds no
   prose. The constraint is recorded in `supplement_system.constraints` for whatever

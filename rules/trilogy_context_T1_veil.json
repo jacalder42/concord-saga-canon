@@ -5,14 +5,15 @@
   "tone_envelope": "subtle, clean seams, institutional secrecy",
   "era_envelope": {
     "tech_state": "mostly_stable",
-    "default_vfx_ceiling": "FX1",
+    "default_vfx_ceiling": "FX2",
     "allowed_heat_range": [
       "H0",
       "H1",
       "H2",
       "H3",
       "H4"
-    ]
+    ],
+    "default_vfx_ceiling_note": "Raised from FX1 on 2026-09-19. Recovered packet S1.T1.B01.A1.E16 carries FX2 and the ruling is that the packet is correct - \"start with a bang\". The FX1 ceiling was the error."
   },
   "environment_envelope": {
     "weather_max": "W3",

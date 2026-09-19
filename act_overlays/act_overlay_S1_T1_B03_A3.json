@@ -4,6 +4,32 @@
   "book_id": "B03",
   "trilogy_id": "T1",
   "act_thesis": "TODO",
+  "escalation_permissions": {
+    "corridor": {
+      "min": "U1",
+      "max": "U5"
+    },
+    "weather": {
+      "min": "W0",
+      "max": "W3"
+    },
+    "fx": {
+      "min": "FX1",
+      "max": "FX2"
+    },
+    "exceptions": [
+      {
+        "sid": "S1.T1.B03.A3.E14",
+        "axis": "weather",
+        "value": "W4",
+        "scope": "brief",
+        "reason": "First and only VT brush in the Veil trilogy"
+      }
+    ],
+    "basis": "observed",
+    "source": "proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
+    "basis_note": "floor U1/W0 at E15-E18; peak U4/W3 at E13; W4 exception at E14"
+  },
   "deltas": {
     "pressure_vectors": [],
     "character_state_deltas": [],

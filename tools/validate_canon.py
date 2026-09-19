@@ -22,6 +22,11 @@ CHK_ECID_FIELDS  Files that carry an ECID block must name every field in
 CHK_VOCAB        Values in ECID-bearing CSV columns and in known JSON envelope keys
                  must belong to the matching controlled vocabulary — every axis,
                  including `LOAD` and the three supplement axes.
+CHK_BANDS        Per-act `escalation_permissions` bands are well formed: every bound
+                 is a member of its axis vocabulary, `min` does not exceed `max`, and
+                 each `exceptions` entry names a valid axis, a valid value, and a SID
+                 that parses. Band *values* are author judgement and are never
+                 second-guessed; only their coherence is checked.
 CHK_VT_CAP       `VT` Glimpses are capped at 10-12 across all nine books
                  (`supplement_system.constraints`). Exceeding the maximum is a
                  violation; being under the minimum is not, since the saga is
@@ -370,6 +375,62 @@ def walk_json(node, vocab, path, out, trail=""):
             walk_json(item, vocab, path, out, trail)
 
 
+BAND_AXIS_VOCAB = {"corridor": "corridors", "weather": "weather", "fx": "fx"}
+
+
+def check_bands(path, data, vocab, sidfmt, out):
+    """Validate the shape of an escalation_permissions band block.
+
+    Checks coherence, never editorial judgement. That an act permits U3-U6 is the
+    author's call; that `U9` is not a corridor, or that min exceeds max, is not.
+    """
+    ep = data.get("escalation_permissions")
+    if not isinstance(ep, dict) or "corridor" not in ep:
+        return                      # book_context's flat TODO form, handled elsewhere
+    for axis, dim in BAND_AXIS_VOCAB.items():
+        band = ep.get(axis)
+        if not isinstance(band, dict):
+            out.append(Violation("CHK_BANDS", rel(path), None, axis,
+                                 f"escalation_permissions.{axis} is missing or not a band"))
+            continue
+        order = [v.upper() for v in vocab[dim]]
+        lo, hi = band.get("min"), band.get("max")
+        for label, val in (("min", lo), ("max", hi)):
+            if not isinstance(val, str) or val.upper() not in order:
+                out.append(Violation("CHK_BANDS", rel(path), None, str(val),
+                                     f"{axis}.{label} is not a member of {dim}: "
+                                     f"{', '.join(order)}"))
+        if (isinstance(lo, str) and isinstance(hi, str)
+                and lo.upper() in order and hi.upper() in order
+                and order.index(lo.upper()) > order.index(hi.upper())):
+            out.append(Violation("CHK_BANDS", rel(path), None, f"{lo}..{hi}",
+                                 f"{axis}.min is above {axis}.max"))
+    for exc in ep.get("exceptions", []):
+        if not isinstance(exc, dict):
+            continue
+        axis = exc.get("axis")
+        if axis not in BAND_AXIS_VOCAB:
+            out.append(Violation("CHK_BANDS", rel(path), None, str(axis),
+                                 f"exception axis must be one of "
+                                 f"{', '.join(BAND_AXIS_VOCAB)}"))
+            continue
+        val = exc.get("value")
+        allowed = {v.upper() for v in vocab[BAND_AXIS_VOCAB[axis]]}
+        if not isinstance(val, str) or val.upper() not in allowed:
+            out.append(Violation("CHK_BANDS", rel(path), None, str(val),
+                                 f"exception value is not a member of "
+                                 f"{BAND_AXIS_VOCAB[axis]}"))
+        sid = exc.get("sid", "")
+        found = list(sidfmt.find_candidates(sid))
+        if not found:
+            out.append(Violation("CHK_BANDS", rel(path), None, str(sid),
+                                 "exception sid is not SID-shaped"))
+        else:
+            for _, _, groups in found:
+                for problem in sidfmt.validate(groups):
+                    out.append(Violation("CHK_BANDS", rel(path), None, sid, problem))
+
+
 def check_json(path, vocab, out):
     try:
         with open(path, encoding="utf-8") as fh:
@@ -378,6 +439,7 @@ def check_json(path, vocab, out):
         out.append(Violation("CHK_JSON_PARSE", rel(path), exc.lineno, "", str(exc)))
         return
     walk_json(data, vocab, path, out)
+    return data
 
 
 # --------------------------------------------------------------------------- #
@@ -493,7 +555,9 @@ def main():
             with open(path, encoding="utf-8") as fh:
                 check_sids(path, fh.read(), sidfmt, violations)
         elif path.endswith(".json"):
-            check_json(path, vocab, violations)
+            data = check_json(path, vocab, violations)
+            if isinstance(data, dict):
+                check_bands(path, data, vocab, sidfmt, violations)
             with open(path, encoding="utf-8") as fh:
                 check_sids(path, fh.read(), sidfmt, violations)
         else:

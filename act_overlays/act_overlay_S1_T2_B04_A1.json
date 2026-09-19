@@ -4,6 +4,24 @@
   "book_id": "B04",
   "trilogy_id": "T2",
   "act_thesis": "TODO",
+  "escalation_permissions": {
+    "corridor": {
+      "min": "U2",
+      "max": "U5"
+    },
+    "weather": {
+      "min": "W1",
+      "max": "W2"
+    },
+    "fx": {
+      "min": "FX1",
+      "max": "FX2"
+    },
+    "exceptions": [],
+    "basis": "inferred",
+    "source": "proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
+    "basis_note": "floor leaves U1/W0"
+  },
   "deltas": {
     "pressure_vectors": [],
     "character_state_deltas": [],

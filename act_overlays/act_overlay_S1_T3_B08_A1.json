@@ -4,6 +4,24 @@
   "book_id": "B08",
   "trilogy_id": "T3",
   "act_thesis": "TODO",
+  "escalation_permissions": {
+    "corridor": {
+      "min": "U4",
+      "max": "U6"
+    },
+    "weather": {
+      "min": "W3",
+      "max": "W4"
+    },
+    "fx": {
+      "min": "FX3",
+      "max": "FX3"
+    },
+    "exceptions": [],
+    "basis": "inferred",
+    "source": "proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
+    "basis_note": "the nadir; FX pinned"
+  },
   "deltas": {
     "pressure_vectors": [],
     "character_state_deltas": [],

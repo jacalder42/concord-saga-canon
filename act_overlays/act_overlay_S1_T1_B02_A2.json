@@ -4,6 +4,24 @@
   "book_id": "B02",
   "trilogy_id": "T1",
   "act_thesis": "TODO",
+  "escalation_permissions": {
+    "corridor": {
+      "min": "U1",
+      "max": "U4"
+    },
+    "weather": {
+      "min": "W0",
+      "max": "W2"
+    },
+    "fx": {
+      "min": "FX0",
+      "max": "FX2"
+    },
+    "exceptions": [],
+    "basis": "inferred",
+    "source": "proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
+    "basis_note": "friction is civic"
+  },
   "deltas": {
     "pressure_vectors": [],
     "character_state_deltas": [],

@@ -4,6 +4,24 @@
   "book_id": "B05",
   "trilogy_id": "T2",
   "act_thesis": "TODO",
+  "escalation_permissions": {
+    "corridor": {
+      "min": "U3",
+      "max": "U6"
+    },
+    "weather": {
+      "min": "W2",
+      "max": "W4"
+    },
+    "fx": {
+      "min": "FX2",
+      "max": "FX3"
+    },
+    "exceptions": [],
+    "basis": "inferred",
+    "source": "proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
+    "basis_note": "first unexceptional W4; the act is named for it"
+  },
   "deltas": {
     "pressure_vectors": [],
     "character_state_deltas": [],

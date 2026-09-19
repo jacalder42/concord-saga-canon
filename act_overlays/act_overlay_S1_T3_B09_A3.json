@@ -4,6 +4,25 @@
   "book_id": "B09",
   "trilogy_id": "T3",
   "act_thesis": "TODO",
+  "escalation_permissions": {
+    "corridor": {
+      "min": "U5",
+      "max": "U6"
+    },
+    "weather": {
+      "min": "W3",
+      "max": "W4"
+    },
+    "fx": {
+      "min": "FX3",
+      "max": "FX3"
+    },
+    "exceptions": [],
+    "basis": "inferred",
+    "source": "proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
+    "basis_note": "PRE-MENDING PORTION ONLY - see unresolved era split",
+    "unresolved": "This act spans the Mending and therefore two eras. Values here are the PRE-MENDING portion only. The post-Mending portion needs the era file, which is held pending the LT question - see recovery/RECOVERY_LEDGER_2026.md 18."
+  },
   "deltas": {
     "pressure_vectors": [],
     "character_state_deltas": [],

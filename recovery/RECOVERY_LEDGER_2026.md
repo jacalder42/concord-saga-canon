@@ -902,4 +902,109 @@ rules from that file. Nothing else depends on it today.
 This was flagged rather than silently chosen because a SID format change is an
 identifier ruling, and §4 of `CLAUDE.md` reserves those.
 
+---
+
+# 18. Banded envelopes — applied, with the Post-Mending file HELD
+
+Status: PARTIALLY APPLIED / ONE CANON CONTRADICTION FLAGGED, NOT RESOLVED
+
+Source: `proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md`, committed
+verbatim before anything was applied from it.
+
+## Two rulings, both applied
+
+1. **`FX2` in Book 1 Act I is correct** — "start with a bang". So
+   `trilogy_context_T1_veil.json`'s `default_vfx_ceiling: FX1` was the error, not the
+   recovered packet. Raised to `FX2`, with the reason recorded in the file. Recovered
+   packet `S1.T1.B01.A1.E16` stands unamended.
+2. **Bands replace ceilings**, on every axis in every act. Applied to all 27 act
+   overlays as `escalation_permissions` with `corridor`/`weather`/`fx` min-max pairs,
+   an `exceptions` list, and a `basis` field reading `observed` or `inferred` so no
+   interpolated value can later be mistaken for a ruled one. `S1.T1.B03.A3.E14`'s `W4`
+   is the first and only exception entry.
+
+`tools/validate_canon.py` gained `CHK_BANDS`, which checks band **coherence** only —
+bounds are vocabulary members, `min` does not exceed `max`, exception axes and values
+are valid, exception SIDs parse. Band *values* are author judgement and are never
+second-guessed; a test asserts that. All 27 bands pass.
+
+## HELD: the Post-Mending era file forbids the era's own signature state
+
+§6 of the source document specifies `rules/era_context_post_mending.json` with:
+
+> `res_states_permitted`: `CALM` · `BLOOM` · `NODE`
+
+**`LT` is missing, and it should not be.** `rules/Mechanica-v4.md` §33 lists `LT` among
+the resonance states and defines it as *"Post-Mending prismatic filtration ·
+Ascendant-only perception · Gentle, non-coercive presence"*.
+`rules/Channels/LT_RULES_POST_MENDING.md` is headed **"Applies To: Post-Mending World
+Only"** and defines `LT` as the post-Mending metaphysical channel formed when the Veil
+becomes breathable. And `canon/characters/SeraphineIdentity.md` has the saga lead
+become the Luminous Thread post-Mending — the saga's ending.
+
+So a Post-Mending envelope permitting only `CALM`, `BLOOM` and `NODE` would forbid the
+one state the era exists to contain, and would make the ending illegal under its own
+rules.
+
+**Both readings recorded, neither resolved, per `CLAUDE.md` §4:**
+
+- *The document's list is right as written.* `LT` is a **channel**, and channels are
+  not governed by an era's `res_states` — `VT` and `LT` sit in `res_states` in
+  Mechanica §33 but describe channel interaction rather than field condition, so an
+  era envelope might legitimately not enumerate them.
+- *The list is incomplete.* Mechanica §33 makes `LT` a resonance state without
+  qualification, and the era file's own axis is `res_states_permitted`. Omitting it
+  excludes it.
+
+The exclusion is the reason the file is held rather than written: creating it as
+specified would encode a rule against the ending. **The file does not exist yet, and
+`U7` and `NODE` still have no home** — the gap §4.1 of
+`recovery/ENVELOPE_QUESTION_2026-09-19.md` identified remains open.
+
+The same question applies to `VT`, which the document also omits.
+
+## Three accuracy notes on the source document
+
+None changes a band; all three are recorded so the reasoning stays auditable.
+
+**1. The `B3.A3` floor count is across 22 episodes, not 18.** §1 says *"`B3.A3` sits at
+`U1` for eleven of eighteen episodes"*. Counted from the shells: within `B3.A3`'s own
+18 episodes, `U1` appears **7** times flat plus one `U1→U2`. The count of 11 is reached
+only by including the four Veil→Neon epilogue shells, which are `B3.EP`, not `B3.A3`.
+The band `U1`–`U5` is unaffected and correct either way.
+
+**2. The epilogue shells have no band, and need none.** §2's table covers `B01.A1`
+through `B03.A3` with no row for the Veil→Neon epilogue, so on the document's own terms
+four recovered episodes are unbanded. Decisions §2.2 closes this: epilogues take the
+next sequential episode number, so those four renumber into `B03.A3` as `E19`–`E22` and
+fall under its band. Their values — `U1`, `U2→U3`, `U1`, `U1`; `W0`, `W1–W2`, `W0`,
+`W0` — are all inside `U1`–`U5` / `W0`–`W3`. So §7's claim holds, by a route §7 does
+not state.
+
+**3. §7's "22 recovered episodes" excludes the three packets §2 cites as observed.**
+The 22 are the structural shells (18 `B3.A3` + 4 `B3.EP`). `E16`, `E17` and `E18` are
+separately recovered full packets and are the `[observed]` basis for `B01.A1` and
+`B01.A2`. Checked independently: `E16` (`U3→U4`, `W1`, `FX2`), `E17` (`U2→U3`, `W1`,
+`FX0→FX1`) and `E18` (`U2→U3`, `W1`, `FX1`) all fall inside their bands. The
+verification is sound across all 25; the figure should read 25.
+
+Also worth noting: the `B3.A3` shells carry **no `FX` field at all**, so the `FX1`–`FX2`
+band on that act is inferred rather than observed, despite the row being marked
+`[observed]` overall. The corridor and weather parts of that row are observed; the FX
+part is not.
+
+## Still open from §8 of the source document
+
+1. `allowed_heat_range` removal from the envelope files — recommended there, not ruled.
+2. What the nine book contexts hold now that bands live at act level: derived from
+   their three acts, or removed. Their 27 `TODO` placeholders are still the entire
+   substrate violation count.
+3. `B08.A2`'s deliberate floor dip — the one place the source lowered a floor against
+   the trilogy's direction.
+4. The `B09.A3` era split. The act overlay carries the **pre-Mending portion only**,
+   marked `unresolved` in the file, because the post-Mending half needs the era file
+   that is held above.
+5. The 18 Neon and Loom acts remain inferred placeholders, marked `basis: inferred` in
+   every file.
+
 END RECOVERY LEDGER

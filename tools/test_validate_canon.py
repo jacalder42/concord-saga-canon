@@ -332,6 +332,66 @@ class TestVtCap(unittest.TestCase):
         self.assertEqual(vt, [])
 
 
+class TestBands(unittest.TestCase):
+    """Per-act escalation_permissions bands, ruled 2026-09-19."""
+
+    def band(self, **over):
+        ep = {"corridor": {"min": "U1", "max": "U5"},
+              "weather": {"min": "W0", "max": "W3"},
+              "fx": {"min": "FX1", "max": "FX2"},
+              "exceptions": []}
+        ep.update(over)
+        return {"act_id": "S1.T1.B03.A3", "escalation_permissions": ep}
+
+    def check(self, obj):
+        out = []
+        vc.check_bands("fixture.json", obj, VOCAB, SIDFMT, out)
+        return out
+
+    def test_well_formed_band_passes(self):
+        self.assertEqual(self.check(self.band()), [])
+
+    def test_bad_bound_token_is_rejected(self):
+        out = self.check(self.band(corridor={"min": "U1", "max": "U9"}))
+        self.assertTrue(any(p.token == "U9" for p in out))
+
+    def test_inverted_band_is_rejected(self):
+        out = self.check(self.band(weather={"min": "W3", "max": "W0"}))
+        self.assertTrue(any("above" in p.detail for p in out))
+
+    def test_equal_min_and_max_is_allowed(self):
+        """B08.A1 pins FX3-FX3; a pin is a legal band, not an error."""
+        self.assertEqual(self.check(self.band(fx={"min": "FX3", "max": "FX3"})), [])
+
+    def test_valid_exception_passes(self):
+        exc = [{"sid": "S1.T1.B03.A3.E14", "axis": "weather", "value": "W4",
+                "scope": "brief", "reason": "First and only VT brush"}]
+        self.assertEqual(self.check(self.band(exceptions=exc)), [])
+
+    def test_exception_with_one_digit_book_is_rejected(self):
+        exc = [{"sid": "S1.T1.B3.A3.E14", "axis": "weather", "value": "W4"}]
+        out = self.check(self.band(exceptions=exc))
+        self.assertTrue(any("digit" in p.detail for p in out))
+
+    def test_exception_with_bad_axis_is_rejected(self):
+        exc = [{"sid": "S1.T1.B03.A3.E14", "axis": "mood", "value": "W4"}]
+        out = self.check(self.band(exceptions=exc))
+        self.assertTrue(any(p.token == "mood" for p in out))
+
+    def test_exception_with_bad_value_is_rejected(self):
+        exc = [{"sid": "S1.T1.B03.A3.E14", "axis": "weather", "value": "W9"}]
+        out = self.check(self.band(exceptions=exc))
+        self.assertTrue(any(p.token == "W9" for p in out))
+
+    def test_band_values_are_never_second_guessed(self):
+        """A band far outside its trilogy's old ceiling is legal: bands are judgement."""
+        self.assertEqual(self.check(self.band(corridor={"min": "U6", "max": "U7"})), [])
+
+    def test_flat_book_context_form_is_ignored(self):
+        obj = {"escalation_permissions": {"max_corridor_tier": "TODO"}}
+        self.assertEqual(self.check(obj), [])
+
+
 class TestVocabularyJson(unittest.TestCase):
     def test_valid_envelope_passes(self):
         obj = {"environment_envelope": {"weather_max": "W3", "corridor_max": "U5"}}

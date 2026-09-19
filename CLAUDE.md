@@ -152,8 +152,10 @@ Never decide, invent, or quietly resolve:
 - Contradictions between two canon sources — record both readings and where each came
   from, then flag it
 - Whether unapproved or assistant-generated material becomes canon
-- **The trilogy envelope replacement rule.** Open — decisions §8 item 1. It blocks the
-  whole migration path. Stated in full at `recovery/ENVELOPE_QUESTION_2026-09-19.md`.
+- **The Post-Mending `res_states` list.** Open — the banded envelope work is applied,
+  but the Post-Mending era file is **held**: as specified it omits `LT`, which
+  Mechanica §33 lists as a resonance state and which is the era's own signature.
+  Ledger §18.
 - **E19 and beyond.** E19 is named but never built. Do not generate, draft, or outline
   it. The prohibition stands until James lifts it.
 
@@ -300,9 +302,10 @@ material before transforming it, so the raw form survives in history.
 
 **Updated 2026-09-18/19 against `recovery/CANON_DECISIONS_2026-09-18.md`.**
 
-The §4.1 vocabulary collision no longer blocks anything — it is ruled. **The blocker is
-now decisions §8 item 1: what replaces the fixed trilogy envelopes.** Items 4, 5 and 5a
-all wait on it. Item 1 is ruled (merge, §6.1) but not yet performed.
+The §4.1 vocabulary collision is ruled, and so is the envelope question — **per-act
+bands, applied 2026-09-19** (ledger §18). Items 4, 5 and 5a are **no longer blocked on
+the envelope**. What remains: item 1 is ruled (merge, §6.1) but not performed on
+`main`, and the Post-Mending era file is held pending the `LT` question.
 
 1. Decide the fate of `proposal/concord-2026-reconciliation` — merge it into `main`, or
    record why it stays separate. Everything below assumes its contents are reachable.
@@ -316,19 +319,20 @@ all wait on it. Item 1 is ruled (merge, §6.1) but not yet performed.
 3. Close the missing-source gap in the ledgers, per §6
 4. Migrate the Veil Consolidated Beat Bible into `book_context_B01/B02/B03.json` and the
    nine Veil act overlays, following `proposals/concord-2026/MIGRATION_MAP_BOOK_CONTEXT_ACT_OVERLAYS.md`
-   — **blocked on item 1 and on decisions §8 item 1.** The map says to cross-derive
-   `escalation_permissions` from the trilogy envelope rules, and those are the rules
-   §6.2 declares unintended with no replacement yet chosen
-5. Migrate the E16–E18 packets into the canon structure — **blocked on item 1 and on
-   decisions §8 item 1.** The §1.5 mapping is ready and the validator's self-test
-   confirms every target pair in it validates, so the vocabulary side is solved. What
-   is not: one packet breaches the current `W3` cap, and the replacement envelope rule
-   is undecided. Do not migrate until it is
+   — **blocked on item 1 only.** The envelope rule is settled: act-level bands are in
+   place, so `escalation_permissions` can now be derived. Note the map's instruction
+   predates bands and describes book-level ceilings; ledger §18 records the open
+   question of whether book contexts derive from their three acts or drop the field
+5. Migrate the E16–E18 packets into the canon structure — **blocked on item 1 only.**
+   The §1.5 mapping is ready, the validator's self-test confirms every target pair in
+   it validates, and all three packets fall inside their act bands (`B01.A1`/`B01.A2`),
+   verified 2026-09-19. The `W3` breach that blocked this was `S1.T1.B03.A3.E14`, which
+   is item 5a's material and now carries a sanctioned exception
 5a. Migrate the Book 3 Act III structural shells — `S1.T1.B3.A3.E01`–`E18`, plus the
    four-episode Veil→Neon epilogue, from the `Saga structural archive` export. This is
    the Book 3 analogue of item 5 and sits downstream of item 4, which sets the act
    envelope these episodes must fit inside. **Blocked on items 1 and 4, on decisions
-   §8 item 1.** Both structural questions are now settled: `HEAT` and `FX` are optional
+   item 1 only.** All three earlier blockers are settled: `HEAT` and `FX` are optional
    at shell granularity (ruled 2026-09-19, `ECID_fields_optional`), and §2.2 rules that
    epilogues take the next sequential episode number, so the four Veil→Neon epilogue
    shells renumber into the Book 3 sequence. See `recovery/RECOVERY_LEDGER_2026.md` §15
@@ -368,14 +372,15 @@ file it names. No fix has been applied; two of the five need a ruling before one
   now reads 73 `Technarc`, 0 `Technarch` outside `CLAUDE.md` and `recovery/`, which
   quote the retired spelling as evidence. Ledger §16.1 records what changed and why the
   `RexID.md` naming-variance entry reads better afterwards.
-- **Trilogy envelopes contradict the escalation model.** **Confirmed unintended** by
-  decisions §6.2 — values should be fluid and matched to narrative momentum. The
-  replacement rule is **not yet decided** (§8 item 1: advisory guidance with no enforced
-  ceiling, per-act ceilings, or a ceiling tied to a momentum marker). Whatever replaces
-  it must admit Veil packet `S1.T1.B3.A3.E14`, which already carries `Weather: W4`.
-  **This is now the blocker on work-queue items 4, 5 and 5a**, and the only thing the
-  migration path waits on. Stated in full, with options, constraints and five
-  sub-questions, at `recovery/ENVELOPE_QUESTION_2026-09-19.md`.
+- ~~**Trilogy envelopes contradict the escalation model.**~~ **Resolved 2026-09-19 —
+  per-act bands.** All 27 act overlays now carry `escalation_permissions` with
+  `corridor`/`weather`/`fx` min-max bands, an `exceptions` list, and a `basis` field
+  marking each block `observed` or `inferred`. Veil's FX ceiling rose to `FX2` — the
+  recovered E16 packet was right and the ceiling was wrong. `S1.T1.B03.A3.E14`'s `W4`
+  is a sanctioned exception. `CHK_BANDS` validates band coherence without
+  second-guessing the values. Ledger §18; source at
+  `proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md`. **18 of the 27
+  bands are inferred placeholders**, and the Post-Mending file is held — see §4.
 - **All six grid CSVs are header-only**, so `CHK_BREADCRUMBS` and `CHK_EMO_CIRCUIT` in
   `rules/validation_checks.json` cannot run against any data.
 - **All 27 act overlays are byte-identical** apart from their ID fields, as are all 9
