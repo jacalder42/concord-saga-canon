@@ -28,7 +28,7 @@ Pass 1 rule: IDENTIFY FIRST. Do not merge or delete yet.
 - The Lacuna — NOLA ritual musician / grief and community anchor; recurring through saga.
 - Bastien “Baz” Arnaud — current locked name; historical lists use Baz Foix.
 - Elisabet Arnardóttir — core ensemble; not a minor despite some early lists treating her as secondary.
-- Janvier “Jan” Foix — historical Baz-family continuity character; surname relationship now requires review after Baz Arnaud lock.
+- Janvier “Jan” Arnaud — historical Baz-family continuity character. ~~surname relationship now requires review after Baz Arnaud lock~~ — **reviewed and resolved 2026-09-19**: renamed from `Janvier “Jan” Foix` under Amendment 1. This audit called for the review; the ruling supplied it. Ledger §40.
 - Clio Harmon — musician joining Lacuna in grief rituals; B7–B9 recurrence.
 - Maya R. Duplessis — NOLA shelter / migration leader; B7–B9.
 - Pastor Elise Moreno — refugee / spiritual anchor; B7–B9.

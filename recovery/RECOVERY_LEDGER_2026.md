@@ -3715,4 +3715,91 @@ END OF ENTRY 39
 
 ===============================================================
 
+===============================================================
+
+# 40. Amendment 1 — consequential rename: Janvier "Jan" Arnaud — 2026-09-19
+
+**Authority:** `recovery/GATE_RULINGS_2026-09-19.md` **Amendment 1**, scope clause.
+
+**Status:** RENAMED / **FLAGGED REVERSIBLE** / FUNCTION PRESERVED VERBATIM /
+SUBSTRATE UNTOUCHED / VALIDATOR 27 / 62
+
+---
+
+## 1. Why he was affected at all
+
+`Janvier "Jan" Foix` (manifest §4, bundle C) is **Baz's family**. He carried the surname
+*because* Baz did. When `Foix` was retired as a Baz surname, Janvier inherited a name
+that no longer exists in the cast — the rename is a consequence of the ruling, not a
+separate judgement about him.
+
+The alternative would have left a Foix relative of a man named Arnaud, which is worse than
+either name alone.
+
+## 2. Function preserved exactly — verified field by field
+
+All four fields are **byte-identical** to the pre-rename entry:
+
+| Field | Value |
+| --- | --- |
+| Status | `KEEP / NARROW RECURRING.` |
+| Range | `lightly pre-B3 if useful; primary payoff Loom.` |
+| Function | `Baz's family; grief that does not center Lucien.` |
+| Ending | `OPEN.` |
+
+**`Ending: OPEN` in particular is untouched.** Renaming a character is not an occasion to
+close an open ending, and nothing here supplies detail the manifest did not have.
+
+## 3. Reversibility, recorded in the entry itself
+
+The manifest entry carries the note in place: *"Function unchanged; rename reversible —
+if a later ruling restores `Foix`, only the surname moves."*
+
+That is worth stating because Janvier's rename is **derivative**. It rests entirely on the
+Baz ruling. If Amendment 1 were ever revisited, Janvier reverts mechanically — the given
+name, the diminutive, the function, the range and the ending are all independent of the
+surname.
+
+## 4. Where he changed
+
+| File | Change |
+| --- | --- |
+| `CHARACTER_RECONCILIATION_MANIFEST_2026-09-20.md` §4 | Entry retitled with the rename note; roster line |
+| `EDITORIAL_CASTING_RESOLUTION_VIENNA_2026-09-19.md` | 4 — cast list, keep line, function line, and the "Foix family identity" argument |
+| `EDITORIAL_CASTING_RESOLUTION_GLOBAL_PLACE_ANCHORS_2026-09-19.md` | roster line |
+| `TRILOGY_CAST_CHECK_2026-09-19.md` | roster line |
+| `SECONDARY_TERTIARY_CHARACTER_AUDIT_PASS1_2026-09-19.md` | See §5 |
+
+### 4.1 The Vienna "family identity" line needed thought, not replacement
+
+It read: *"Janvier Foix further strengthens the **Foix family identity** in the recovered
+cast architecture."*
+
+A blind substitution would have produced a sentence asserting an Arnaud family identity in
+*recovered* material, where no such thing appears — the recovered cast architecture really
+does say Foix. It is struck through and restated instead: **the family identity holds and
+is the reason for the rename; the surname is Arnaud.** The original stays visible.
+
+## 5. A document that asked for exactly this, and got it
+
+`SECONDARY_TERTIARY_CHARACTER_AUDIT_PASS1` §Janvier read: *"surname relationship now
+requires review after Baz Arnaud lock."*
+
+**The audit called for the review; the ruling supplied it.** The line now records that it
+was reviewed and resolved rather than leaving a standing request that has been answered.
+This is the second such case in two commits — §39 recorded two documents waiting for a
+direct author statement on Baz that arrived as a ruling rather than a recovery.
+
+## 6. Verification
+
+- Remaining `Janvier Foix` / `Jan Foix` strings outside `source_exports/`: **3**, all
+  supersession notes recording the old name, plus the ruling and ledger text.
+- `git diff --name-only`: **zero** files under `canon/`, `rules/`, `grids/`,
+  `book_context/`, `act_overlays/`, `source_canon/`.
+- Validator `27 / 62`.
+
+END OF ENTRY 40
+
+===============================================================
+
 END RECOVERY LEDGER

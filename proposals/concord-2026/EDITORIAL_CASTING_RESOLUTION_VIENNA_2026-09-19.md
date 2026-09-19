@@ -55,13 +55,13 @@ Do not convert every memory into resonance foreshadowing.
 ## III. JANVIER “JAN” FOIX — KEEP / PROMOTE TO NARROW RECURRING FAMILY FACE
 
 Recovered B7–B8 material explicitly establishes:
-- Janvier “Jan” Foix;
+- Janvier “Jan” Arnaud;
 - Baz's cousin;
 - distrusts Lucien;
 - confronts Lucien about Baz's death;
 - eventual reconciliation seed.
 
-Keep **Janvier “Jan” Foix**.
+Keep **Janvier “Jan” Arnaud**.
 
 This character supplies a missing function:
 **Baz belonged to people other than Lucien.**
@@ -229,7 +229,7 @@ Editorial recommendation:
 
 Do not silently import “Bastien Arnaud.”
 
-Janvier Foix further strengthens the Foix family identity in the recovered cast architecture.
+~~Janvier Foix further strengthens the Foix family identity in the recovered cast architecture.~~ **Amended 2026-09-19 (Amendment 1).** The family identity holds and is the reason for the rename; the surname is **Arnaud**. Janvier “Jan” Arnaud strengthens the **Arnaud** family identity in the recovered cast architecture.
 
 ## XIII. VIENNA CAST AFTER RESOLUTION
 
@@ -238,7 +238,7 @@ Janvier Foix further strengthens the Foix family identity in the recovered cast 
 - **Bastien “Baz” Arnaud** — human warmth / lost Vienna / ordinary life.
 
 ### Narrow recurring
-- **Janvier “Jan” Foix** — Baz's family / consequence / grief outside Lucien.
+- **Janvier “Jan” Arnaud** — Baz's family / consequence / grief outside Lucien.
 - **Helena Kael** — Lucien's family / Dominion inheritance.
 - **Marius Holt** — archive / institutional conscience.
 

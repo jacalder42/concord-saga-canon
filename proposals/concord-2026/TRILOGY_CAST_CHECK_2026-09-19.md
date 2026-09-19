@@ -313,7 +313,7 @@ The old lists do the opposite: they repeatedly add new shelter leaders, reporter
 ### A. Stop late-stage cast inflation
 
 Historical B7–B9 introduce:
-Maya Duplessis, Jonah Halley, Pastor Elise Moreno, Jan Foix, Clio Harmon, Sara Nguyen, Darnell Ross, Carmine Goodwin, Lina Harrow, Emmanuel Drake, Francis Arnaud and others.
+Maya Duplessis, Jonah Halley, Pastor Elise Moreno, Jan Arnaud, Clio Harmon, Sara Nguyen, Darnell Ross, Carmine Goodwin, Lina Harrow, Emmanuel Drake, Francis Arnaud and others.
 
 Not all need deletion, but none should be presumed recurring merely because old lists named them.
 

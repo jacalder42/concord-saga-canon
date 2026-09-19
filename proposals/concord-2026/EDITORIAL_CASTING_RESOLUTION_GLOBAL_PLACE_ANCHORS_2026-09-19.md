@@ -264,7 +264,7 @@ Trip; Mara/M; Arianna; Kesi; Shirin; Leila; Ramon; Anaïs; Roland; Ms. Leontine;
 Elisabet-linked recovered local relationships; Mara Niht remains recovery-dependent; avoid overpopulation.
 
 ### Vienna — relational/institutional city
-Bastien “Baz” Arnaud; Jan Foix; Helena Kael; Marius Holt; Virelli/Caldas in antagonist layer.
+Bastien “Baz” Arnaud; Jan Arnaud; Helena Kael; Marius Holt; Virelli/Caldas in antagonist layer.
 
 ### Singapore — institutional-isolation city
 Shun Watanabe [editorial rename proposal from institutional pass]; Tamsin Kho; Kasumi Arendt; Han Wei; Chuan as light place texture.

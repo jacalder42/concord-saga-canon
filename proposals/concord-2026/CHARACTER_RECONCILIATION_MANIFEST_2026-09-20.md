@@ -287,7 +287,8 @@ Function: Lucien's aunt; family inheritance and Dominion conditioning.
 Ending: OPEN; historical dying-message material not locked.
 Approval: [ ]
 
-### Janvier “Jan” Foix
+### Janvier “Jan” Arnaud
+**Renamed 2026-09-19** from `Janvier “Jan” Foix` — consequential rename under `recovery/GATE_RULINGS_2026-09-19.md` Amendment 1, which retires `Foix` as a Baz surname. He is Baz's family, so he carried the rejected surname. **Function unchanged; rename reversible** — if a later ruling restores `Foix`, only the surname moves. Ledger §40.
 Status: KEEP / NARROW RECURRING.
 Range: lightly pre-B3 if useful; primary payoff Loom.
 Function: Baz's family; grief that does not center Lucien.
@@ -639,7 +640,7 @@ Proposals, not mandatory scenes:
 - Caldas Ren
 - Marius Holt
 - Helena Kael
-- Jan Foix
+- Jan Arnaud
 - Han Wei
 - Shun Watanabe
 - Kasumi Arendt
