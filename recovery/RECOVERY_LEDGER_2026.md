@@ -3126,4 +3126,107 @@ END OF ENTRY 32
 
 ===============================================================
 
+===============================================================
+
+# 33. Gate rulings applied — step 1: locations blockers closed — 2026-09-19
+
+**Authority:** `recovery/GATE_RULINGS_2026-09-19.md`, committed verbatim at `423984d`
+before any work, per §7.
+
+**Status:** §2 AND §3 OF `LOCATIONS_RECOVERY_2026-09-19.md` CLOSED / VALIDATOR 27 / 62,
+UNCHANGED
+
+---
+
+## 1. Ruling 1 closed the taxonomy conflict by dissolving it
+
+§30 recorded "three location taxonomies, none of them the same" as a blocker, and read it
+as a contest between rival vocabularies. **Ruling 1 shows it was never that.** The three
+are three different kinds of thing:
+
+| Layer | Source | What it supplies |
+| --- | --- | --- |
+| **Type** | geography system | the **controlled vocabulary** of zone types and corridor classes. **`ENV` derives from here and only here** |
+| **Name** | city bibles | **named places** — proper nouns for specific ground, each mapping onto a type |
+| **Severity** | Reykjavík scheme | the **shard progression**, a scale layering over places. **Not a spatial taxonomy** |
+
+The ruling's own line settles it: *"Red Lantern Faultline is a name, not a type."* The
+New Orleans bible was never proposing a competing vocabulary; it was naming ground.
+
+**The qualification is the operative part**, and it is broader than the contested
+neighbourhoods: *"All specific type assignments are PRELIMINARY until vetted against
+narrative and milestones"* — including *"the assignments both source documents already
+carry."* So the geography system's own five-city map is provisional too, not just the
+disputed entries. **Structure ruled, contents provisional.**
+
+**Warehouse District resolves cleanly as a side effect.** `Violet Bloom` (type) and
+`Violet Spiral` (name) were recorded as a near-miss disagreement; under the two-layer
+shape they are one type and one name for the same ground. Still marked provisional.
+
+**Scope, from the ruling:** the zone-type vocabulary appears in five files, all under
+`recovery/` and `proposals/`; **the canon substrate contains none of it.** Nothing to
+migrate, nothing to unpick — this is forward-looking structure only.
+
+## 2. Ruling 2 closed the `Corridor` collision, and retired my own objection
+
+The author's definition:
+
+> **A corridor is a linear path or area between two known points. Context determines
+> whether it is safe, dangerous, or otherwise.**
+
+The four senses §30 recorded collapse to one definition, one scale and two instance
+classes: `U1`–`U7` is **intensity measured on corridors**, Loom Corridors are **a named
+class**, and Laugavegur / River Corridor are **ordinary instances, correct usage**.
+
+**My "sense 3 is the worst" finding is withdrawn.** I argued a bloom zone could not be a
+corridor because *zones are chaotic pockets, corridors are safe routes*. Safety is not
+part of the definition, so the objection has no force. What decides "Blue Pulse Corridor"
+is **geometry alone** — linear and connective, or a pocket without that geometry — and
+that is a question about the referent, to be answered during the Ruling 1 vetting pass,
+**not a naming decision now**.
+
+**Consequential amendment:** the geography system's safe-route framing is superseded and
+is amended wherever it appears — carried out as its own step.
+
+**No renaming.** The ruling's scope note: bare `Corridor` appears in **13 places across
+the canon substrate** — the EBCI header, Concord's Corridor Preservation, corridor
+viability, corridor instability, corridor ecology `U1`–`U7`, corridor shifts — and **all
+are correct under this definition.** None changed.
+
+## 3. What this unblocks, and what it does not
+
+**Cleared:** both locations blockers recorded at §30 §1. `ENV` derivation is no longer
+gated on a taxonomy ruling.
+
+**Not cleared, and deliberately so:** which type each named place maps onto. Tremé,
+Marigny, the French Quarter and Bywater stay **unassigned** — not provisionally assigned —
+per Ruling 1 and the instruction to leave contested ground out of the `ENV` derivation.
+
+**Untouched:** whether Vienna, Singapore and Marrakesh have city bibles. Still open, still
+gated on work-queue item 6.
+
+## 4. One inconsistency in the rulings document, recorded not resolved
+
+Ruling 3's standing carve-outs read: *"the author-locked controls are untouched: **Tahl
+Morgan / MissingThread** and **Baz Foix** remain as locked."*
+
+`canon/characters/BazID.md` reads **Bastien "Baz" Arnaud**, and `CLAUDE.md` §3 records
+that `canon/characters/` is final. The most natural reading is that the *control* — the
+Foix→Arnaud rename decision — is what stays locked, not that `Foix` is the canonical
+name. That is consistent with §31, which deliberately left the `Foix` references in place
+as documentation of the rename.
+
+**Recorded, not acted on.** Nothing in this pass changes any Baz reference, and the
+existing lock stands either way. Flagged so the reading is explicit rather than assumed.
+
+## 5. Validator
+
+`27 canon-scope / 62 all-scope` before and after. No change — this step edited one
+`recovery/` document and added one ledger entry, neither of which carries validated
+tokens.
+
+END OF ENTRY 33
+
+===============================================================
+
 END RECOVERY LEDGER

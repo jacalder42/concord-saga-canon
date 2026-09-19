@@ -101,9 +101,25 @@ Zones = chaotic pockets · Corridors = safe routes · Nodes = healing places.
 
 ---
 
-## 2. CONFLICT — three location taxonomies, none of them the same
+## 2. CONFLICT — three location taxonomies — **RULED 2026-09-19, Ruling 1**
 
-This is the finding that matters most from this pass, and it is **not resolved here**.
+> **Ruled:** `recovery/GATE_RULINGS_2026-09-19.md` Ruling 1 — **Option C, qualified.**
+> The three taxonomies are **not rivals**; they are three different kinds of thing:
+>
+> - the **geography system** holds the **controlled vocabulary** of zone types and
+>   corridor classes — and `ENV` derives from that layer **and only that layer**;
+> - the **city bibles** hold **named places**, proper nouns for specific ground, each
+>   mapping onto a type. *"Red Lantern Faultline is a name, not a type."*
+> - the **Reykjavík scheme** is the **shard progression** — a severity scale that layers
+>   over places. **Not a spatial taxonomy, and not to be treated as one.**
+>
+> **The qualification governs everything:** *"All specific type assignments are
+> PRELIMINARY until vetted against narrative and milestones."* That includes the contested
+> ground below **and** the assignments both source documents already carry. **The
+> structure is ruled; the contents are provisional.**
+
+The conflict as originally recorded is kept below, because it is the evidence the ruling
+was made against.
 
 | Source | Taxonomy used |
 | --- | --- |
@@ -129,28 +145,73 @@ bible is **four days later** and is stamped `FINAL CANON`; the geography system 
 `CANON` and is the only document that defines the type vocabulary the city bible partly
 departs from.
 
-**Both readings recorded; neither wins.** This needs a ruling before any `ENV` vocabulary
-is derived, because the two would produce different vocabularies.
+~~**Both readings recorded; neither wins.**~~ **Closed by Ruling 1.** The disagreement was
+never between two vocabularies — it was between a vocabulary and a set of place names. The
+`ENV` vocabulary comes from the geography system alone, so the city bible's terms do not
+compete with it.
+
+**What stays open is narrower and is not a blocker:** which *type* each named place maps
+onto. Tremé, Marigny, the French Quarter and Bywater are **contested ground** and are
+**left unassigned**, per Ruling 1 and the §4 instruction to derive `ENV` from the type
+layer only. The Warehouse District's two entries — `Violet Bloom` and `Violet Spiral` —
+are now readable as one type and one name for the same place, which is exactly the shape
+the ruling describes; it is still marked provisional like every other assignment.
+
+**Scope note from the ruling:** the zone-type vocabulary appears in five files, all under
+`recovery/` and `proposals/`. **The canon substrate contains none of it.** There is
+nothing to migrate and nothing to unpick.
 
 ---
 
-## 3. CONFLICT — `Corridor` now has four distinct meanings
+## 3. CONFLICT — `Corridor` — **RULED 2026-09-19, Ruling 2**
 
-Ledger §29 recorded two. This pass found four:
+> **Ruled:** `recovery/GATE_RULINGS_2026-09-19.md` Ruling 2 — **Option B**, with the
+> definition supplied by the author:
+>
+> > **A corridor is a linear path or area between two known points. Context determines
+> > whether it is safe, dangerous, or otherwise.**
+>
+> **The four senses are not four meanings.** They are one definition, one measurement
+> scale applied to it, and two instance classes — see the amended table below.
 
-| Sense | Where | What it is |
+Ledger §29 recorded two senses. This pass found four, and the ruling resolves all four:
+
+| Recorded sense | Where | **Under Ruling 2** |
 | --- | --- | --- |
-| 1 | `rules/canon_rules.json`, Mechanica §24–25 | ECID field `CORRIDOR`, vocabulary `U1`–`U7` — resonance-intensity tiers |
-| 2 | Geography system §IV | **Loom Corridors** — named travel routes, four classes |
-| 3 | New Orleans bible §III | **"Blue Pulse Corridor"** — a bloom zone, not a route |
-| 4 | Reykjavík bible §2C, NOLA §II | **"Laugavegur Corridor"**, **"RIVER CORRIDOR"** — ordinary streets and river geography |
+| 1 | `rules/canon_rules.json`, Mechanica §24–25 | **Intensity measured on corridors.** `U1`–`U7` is a scale, not a rival sense |
+| 2 | Geography system §IV | **A named class of corridors.** Instance layer |
+| 3 | New Orleans bible §III — "Blue Pulse Corridor" | **Conditional — see the geometry test below** |
+| 4 | Reykjavík §2C, NOLA §II — "Laugavegur Corridor", "River Corridor" | **Ordinary instances. Correct usage.** |
 
-Sense 3 is the worst of the four, because it applies the word to the thing sense 2
-explicitly contrasts with (*zones are chaotic pockets, corridors are safe routes*). The
-New Orleans bible also uses "diaspora corridors" for evacuation routes, which is sense 2
-in all but name.
+~~Sense 3 is the worst of the four, because it applies the word to the thing sense 2
+explicitly contrasts with (*zones are chaotic pockets, corridors are safe routes*).~~
+**That objection no longer holds.** Safety is not part of the definition, so a bloom zone
+being dangerous does not disqualify it from being a corridor. The New Orleans bible's
+"diaspora corridors" for evacuation routes is straightforwardly sense 2.
 
-**Do not rename anything.** This is a `VT`-class collision and needs the author.
+### The geometry test for "Blue Pulse Corridor"
+
+The term now stands or falls on **geometry alone**:
+
+- **linear and connective**, running between two known points → the name is correct and
+  stays;
+- **a pocket or area without that connective geometry** → it is a zone, and "Corridor"
+  comes off the name.
+
+This is a question **about the referent**, to be answered when the New Orleans geography is
+vetted under Ruling 1. **It is not a naming decision to be made now.**
+
+### Consequential amendment, carried out separately
+
+The geography system's framing that *corridors are safe routes and zones are chaotic
+pockets* is **superseded** — the distinction is geometric, not one of safety. That line is
+amended wherever it appears; see the ledger entry for the pass.
+
+**Still: do not rename anything.** The ruling's scope note is explicit — bare `Corridor`
+appears in **13 places across the canon substrate** (the EBCI header, Concord's Corridor
+Preservation, corridor viability, corridor instability, corridor ecology `U1`–`U7`,
+corridor shifts) and **all of them are correct under this definition.** No mass rename, no
+prose rewriting.
 
 ---
 
@@ -242,10 +303,11 @@ which ties this page to the romance heat ladder and to
 
 1. **The locations layer is recovered in system form.** Era model, two type vocabularies,
    a five-city map, a character-interaction layer and two deep city bibles.
-2. **It cannot be migrated yet.** Two blockers, both needing the author: the three-way
-   taxonomy conflict (§2) and the four-way `Corridor` collision (§3).
-3. **`ENV` vocabulary must wait on §2.** The geography system and the New Orleans bible
-   would produce different controlled vocabularies for the same city.
+2. ~~It cannot be migrated yet.~~ **Both blockers are cleared** by Rulings 1 and 2
+   (2026-09-19). What remains is not a blocker but a vetting pass: specific type
+   assignments are provisional, and contested ground stays unassigned.
+3. ~~`ENV` vocabulary must wait on §2.~~ **`ENV` derives from the geography system's type
+   layer and only that layer** (Ruling 1). The city bibles supply names, not vocabulary.
 4. **"Deep-Pass v1" implies a programme.** Only Reykjavík carries that suffix. Vienna,
    Singapore and Marrakesh appear in the system's map but have no located city bible —
    they may exist unsearched, or may never have been written. **Work-queue item 6 would
@@ -254,12 +316,15 @@ which ties this page to the romance heat ladder and to
 
 ## 7. For the author
 
-1. **Which location taxonomy governs** (§2) — the geography system's five zone types, the
-   New Orleans bible's three named formations, or the Reykjavík shard-tier scheme?
-2. **The four-way `Corridor` collision** (§3). Blocks both the locations migration and any
-   `ENV` work.
-3. **Do the two New Orleans neighbourhood maps reconcile**, or does the later `FINAL CANON`
-   city bible supersede the system's assignments?
+1. ~~Which location taxonomy governs~~ — **RULED**, Ruling 1. Two layers: types from the
+   geography system, names from the city bibles, severity from the shard progression.
+2. ~~The four-way `Corridor` collision~~ — **RULED**, Ruling 2. One definition, geometric
+   not safety-based.
+3. ~~Do the two New Orleans neighbourhood maps reconcile~~ — **dissolved by Ruling 1.**
+   They were never the same kind of claim. Which type each named place maps onto is a
+   **vetting question**, answered against narrative and milestones, and the contested
+   ground stays unassigned until then.
 4. **Do Vienna, Singapore and Marrakesh have city bibles**, or do they need authoring?
+   **Still open** — untouched by these rulings, and still gated on work-queue item 6.
 
 END OF DOCUMENT
