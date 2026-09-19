@@ -155,3 +155,137 @@ The current structural reconciliation should therefore preserve this blank expli
 
 **Baz investigates Warehouse resonance event → institutional/antagonist interference [MECHANISM UNRECOVERED] → Rupture/collapse → civilians trapped → Baz saves child → Baz dies → Tahl reports → cast learns at B04 opening → Lucien internalizes “I brought him here.”**
 
+
+
+# Institutional-intervention forensic pass — 2026-09-19
+
+## What the sources actually establish
+
+### B02 seeds containment as policy
+Lucien tells Seraphine the Dominion knows resonance is breaking and is preparing **“containment operations.”**
+
+The B02 Warehouse Shard event then demonstrates the correct civilian response:
+- Lucien stabilizes perimeter;
+- Baz helps evacuate casualties.
+
+This creates a useful contrast for B03: evacuation/safety vs institutional containment/control.
+
+### B03 institutional deployment
+Recovered B03 character architecture places:
+- **Technarch Containment Squad** at Shard and Rupture events;
+- **Dominion Retrieval Team** attempting to extract Lucien;
+- **Caldas Ren** at Warehouse-zone perimeter;
+- **Rook & Harlow** attempting to secure evidence from Warehouse;
+- **Yara Kint** attempting to seize Threadnaut/Tahl research illegally;
+- official/police accusation that the investigator is interfering.
+
+### Han Wei did not cause the Rupture
+Han Wei's antagonist sheet explicitly says:
+- he dismisses early shard anomalies as manageable;
+- he **fails to predict the Warehouse Rupture**;
+- that failure becomes his turning point;
+- afterward he expands Protocol 9 into surveillance/containment.
+
+Therefore a Technarch-engineered Warehouse Rupture is poorly supported and should not be reconstructed by default.
+
+## Recovered institutional pattern
+
+The evidence supports:
+**underestimate → contain → retrieve/control evidence → catastrophe exceeds model → harden policy afterward.**
+
+It does not support:
+**institution deliberately causes Rupture → antagonist murders Baz.**
+
+## Three viable intervention mechanisms
+
+### A. Premature containment perimeter / delayed evacuation
+Institutions identify escalating Warehouse anomaly but prioritize sealing/containing the zone over broad civilian evacuation.
+
+Effect:
+- workers/civilians remain inside or cannot clear quickly enough;
+- Rupture exceeds predicted envelope;
+- Baz enters because people are still trapped.
+
+Strengths:
+- strongest thematic contrast with B02, where Baz helps evacuate casualties;
+- directly explains why civilians remain available to be rescued;
+- embodies “order without consent / prediction without empathy”;
+- does not require villainous intent.
+
+Evidence status: **SUPPORTED IN PRINCIPLE; exact delay not recovered.**
+
+### B. Evidence retrieval during escalation
+Technarch retrieval agents enter/hold the site to secure records, sensors, samples, or other evidence instead of treating it solely as a civilian emergency.
+
+Effect:
+- response becomes confused/compartmentalized;
+- access/egress is obstructed;
+- information about danger is withheld;
+- Baz or workers remain in/return to the structure.
+
+Strengths:
+- directly supported by Rook & Harlow “attempt to secure evidence from the warehouse”;
+- pairs naturally with Yara Kint's illegal research seizure;
+- establishes Neon evidence-control behavior.
+
+Evidence status: **DIRECTLY RECOVERED as an action; causal effect on Baz unresolved.**
+
+### C. Lucien extraction collides with emergency response
+Dominion Retrieval Team uses the crisis/perimeter to force Lucien's extraction.
+
+Effect:
+- Lucien is diverted/delayed;
+- he cannot assist Baz or civilian rescue;
+- later guilt intensifies.
+
+Strengths:
+- Dominion Retrieval Team is explicitly B03;
+- Caldas Ren is explicitly at Warehouse perimeter;
+- ties Lucien's break with Dominion directly to Baz loss.
+
+Risk:
+- may over-mechanize Lucien's guilt and conflict with current ruling that cast learns of Baz death only in B04.
+- old direct-witness staging cannot survive unchanged.
+
+Evidence status: **ACTORS/AIM RECOVERED; Warehouse causal link not recovered.**
+
+## Best-fit combined reconstruction candidate
+
+**A + B**, with C kept separate unless later evidence supports it:
+
+1. Warning signs indicate another Warehouse event.
+2. Threadnaut/Filament/public sources see enough to raise concern.
+3. Institutions classify the anomaly as containable and establish a controlled perimeter rather than ordering transparent, aggressive evacuation.
+4. Technarch personnel prioritize securing Warehouse evidence/data while information remains compartmentalized.
+5. Rupture exceeds Han Wei's predictive model.
+6. Civilians are still trapped.
+7. Baz, already familiar with the district and its prior B02 evacuation, goes in/returns for them.
+8. He saves the child and dies in structural collapse.
+9. Public footage + MT reporting make suppression impossible.
+10. Institutional lesson is perversely “we need more control,” feeding Protocol 9/Neon.
+
+This makes Baz's death a consequence of:
+- natural/systemic resonance failure;
+- institutional overconfidence and secrecy;
+- Baz's voluntary courage.
+
+No individual needs to murder him.
+
+## Threadnaut relationship to intervention
+
+Best current fit:
+- Threadnaut reports warning signs and/or institutional activity before the Rupture;
+- publication may force institutions to move sooner, visibly, or more aggressively;
+- Tahl later sees the feedback loop and feels implicated;
+- but institutional choices remain institutional choices.
+
+Possible ethical wound:
+**MT was right about the danger, but being right changed the board.**
+
+This is stronger than making the report factually mistaken.
+
+## Recommended provisional lock candidate
+Pending author approval:
+> The Warehouse Incident is worsened by a **failed institutional containment response**: authorities underestimate the coming Rupture, prioritize perimeter/evidence control over transparent evacuation, and are overtaken by an event outside their predictive model. Baz dies rescuing civilians who remain trapped. Threadnaut's reporting contributes to public/institutional movement around the event but does not cause the Rupture or send Baz into it.
+
+Keep exact operational details flexible until B03 act reconstruction.
