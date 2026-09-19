@@ -1576,7 +1576,7 @@ exported line describes the Mending without them.
 
 # 24. The 2026-09-19 timeline / Veil / Notion bundles — verified, two defects caught
 
-Status: COMMITTED VERBATIM / MILESTONE LOAD HELD / TWO CITATION DEFECTS / SEVERAL RULINGS RECORDED
+Status: COMMITTED VERBATIM / MILESTONE LOAD HELD / ONE DEFECT / ONE RETRACTED FINDING
 
 Sources, all committed unaltered first: `recovery/SAGA_TIMELINE_2026-09-19.md`,
 `recovery/VEIL_STRUCTURE_2026-09-19.md`, `recovery/NOTION_RECOVERY_2026-09-19.md`, and
@@ -1601,25 +1601,40 @@ else altered. **Still in `proposals/`, not loaded**, because every row reads
 `status: proposed` and the timeline document's §8 asks whether to load rather than
 stating that it loads.
 
-## DEFECT 2 — commit `a4324a9` does not exist in this repository
+## ~~DEFECT 2~~ — WITHDRAWN. Commit `a4324a9` exists.
 
-Both `VEIL_STRUCTURE` and `NOTION_RECOVERY` carry a naming note citing commit `a4324a9`
-as locking *Bastien "Baz" Arnaud* over Notion's *Baz Foix*.
+**This finding was wrong and is retracted in full.**
 
-`git cat-file -t a4324a9` → **not a valid object name.** It is in no branch of this
-repository.
+I recorded that `a4324a9`, cited in `VEIL_STRUCTURE` and `NOTION_RECOVERY` as locking
+*Bastien "Baz" Arnaud* over Notion's *Baz Foix*, was "not a valid object name" and in no
+branch of this repository.
 
-**The substance is right and the citation is not.** `Arnaud` is current canon here — it
-appears in `BazID.md`, `BazEBCI.md`, `BazAppearance.md` and `BazRender.md`, introduced
-by commit `6a24b5f`. `Foix` appears nowhere in the repository outside the Notion
-citations themselves. So the naming note's conclusion holds; only its evidence does not
-resolve.
+It is a real commit. `a4324a9d3f6f5a45bbce4ea78ecdf924a481afd1`, authored by jacalder42
+on 2026-09-19, adding ten lines to
+`proposals/concord-2026/B03_B04_HANDOFF_RECONCILIATION_2026-09-19.md`. It was pushed by
+a **parallel session working the same branch**, and had not reached this clone when I
+ran the check.
 
-This is the second citation of this shape, after the `"VT: sealed until Tahl breach"`
-escalation-curve reference in §19 and §23. Both were right about the claim and wrong
-about where it lives. Worth naming as a pattern: **claims arriving from the Cowork side
-are reliable; the commit hashes and document names attached to them are not, and should
-be checked before they are relied on in a ledger.**
+**The error was mine, not the document's.** `git cat-file` answered correctly about a
+clone that was behind. I treated a local absence as a repository absence, and stated it
+with more confidence than a single un-fetched lookup supports. The rule that follows:
+**fetch before concluding anything is missing from git**, exactly as `CLAUDE.md` §6
+already says for the proposal branch — I applied that discipline to branch contents and
+not to commit hashes.
+
+The naming note in both bundles is therefore **correct and correctly cited**. `Arnaud`
+is current canon; `Foix` is the superseded Notion-side name.
+
+One real observation survives: **two commits carry the identical message**
+"Lock Bastien Baz Arnaud as current canon identity" — `a4324a9` and `6508833`. A
+duplicate, not a defect, but worth knowing when tracing that ruling.
+
+**The §19/§23 pattern claim is also withdrawn.** I generalised from two cases to
+"citations from the Cowork side do not resolve". One of the two was my own fetch error.
+The other — the `"VT: sealed until Tahl breach"` escalation-curve reference — was a
+quoted string that did not exist while the rule it carried did, and Notion `01.02` has
+since been found to carry that exact sense. Neither supports a pattern. There is no
+systematic citation problem in these bundles.
 
 ## Integrity checks re-run independently, and they pass
 
