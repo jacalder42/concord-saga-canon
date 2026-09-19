@@ -3634,4 +3634,85 @@ END OF ENTRY 38
 
 ===============================================================
 
+===============================================================
+
+# 39. Amendment 1 — proposal layer corrected — 2026-09-19
+
+**Authority:** `recovery/GATE_RULINGS_2026-09-19.md` **Amendment 1**.
+
+**Status:** 8 FILES CORRECTED / SUBSTRATE UNTOUCHED / PROVENANCE STATEMENTS PRESERVED /
+VALIDATOR 27 / 62
+
+---
+
+## 1. The line drawn
+
+`Foix` appeared in **14 files** (74 occurrences) — 13 before Amendment 1 was committed,
+which itself added the fourteenth. The correction split them three ways:
+
+| Kind | Action | Example |
+| --- | --- | --- |
+| **`Foix` used as Baz's *current* name**, in a document's own voice | **Corrected** | manifest §1 heading `### Baz Foix` → `### Bastien “Baz” Arnaud` |
+| **Statements *about* the superseded name** | **Kept**, section annotated as ruled | *"The large November 2025 Notion canon uses Basil “Baz” Foix"* |
+| **Originals and the authority** | **Untouched** | `GATE_RULINGS`, the author-uploaded bundles |
+
+**The middle row is the one that matters.** Rewriting those would make the sentences
+false, not current. *"Historical **Foix** references remain valid provenance"* becomes
+nonsense as *"historical Arnaud references"*; a statement that Notion used `Foix` is a
+**fact about Notion** and stays true no matter what is ruled here.
+
+That is the instruction's quotation exception applied to reported speech as well as
+quotation marks: **a recovery document must not be edited to make its source appear to
+have said something it did not.** The same rule governed `Technarc` (§26.10),
+`Ito Masayuki` (§31) and the safe-route framing (§34).
+
+One of the corrected documents states the rule itself, which is why it was followed
+rather than invented: `B03_B04_HANDOFF` §17 — *"historical **Foix** references remain
+valid provenance and must not be rewritten inside archived source evidence."*
+
+## 2. What was corrected
+
+| File | Change |
+| --- | --- |
+| `CHARACTER_RECONCILIATION_MANIFEST_2026-09-20.md` §1 | Heading retitled; **alias line inverted** — `Bastien “Baz” Arnaud` is canon, `Basil “Baz” Foix` retired. It previously read the reverse |
+| `EDITORIAL_CASTING_RESOLUTION_VIENNA_2026-09-19.md` | 4 doc-voice preferences corrected or struck, including *"protect Basil “Baz” Foix … unless a higher-authority current ruling says otherwise"* — **the ruling arrived** |
+| `EDITORIAL_CASTING_RESOLUTION_GLOBAL_PLACE_ANCHORS_2026-09-19.md` | Baz entry in the cast list |
+| `BAZ_WAREHOUSE_INCIDENT_RECOVERY_2026-09-19.md` | **Retitled.** Flagged at §26.10 and §31 and left alone twice; now correct, with a note recording the old title |
+| `CHARACTER_MIGRATION_PLAN_2026-09-19.md` §4.3 | Discrepancy marked **RESOLVED** |
+| `NARRATIVE_DECISION_LEDGER_SOURCE_AUDIT_2026-09-19.md` §Baz | Section marked **RULED**; its *"direct author selection … has not yet been recovered"* now notes the ruling **arrived rather than was recovered** |
+| `B03_B04_HANDOFF_RECONCILIATION_2026-09-19.md` §17 | Section marked **RULED**; analysis and provenance rules stand |
+| `CLAUDE.md` §3 | The *"deliberately not swept"* note replaced by the ruling |
+
+## 3. Two documents that had it right and were overruled anyway
+
+`NARRATIVE_DECISION_LEDGER_SOURCE_AUDIT` and `B03_B04_HANDOFF` both reached
+**Bastien “Baz” Arnaud** as working authority from the evidence, and both said the direct
+author statement had not been recovered. They were correct on the substance and correct to
+hedge. **What they were waiting for never existed to be recovered — it was ruled.** Both
+sections now say so.
+
+The manifest went the other way, preferring `Basil “Baz” Foix` and marking
+`Bastien “Baz” Arnaud` *"rejected unless higher-authority evidence emerges"*. That is the
+line Amendment 1 overrules, and inverting it was the specific instruction.
+
+## 4. Substrate untouched — verified, not assumed
+
+`git diff --name-only` after the pass: **8 files, zero under `canon/`, `rules/`, `grids/`,
+`book_context/`, `act_overlays/` or `source_canon/`.** The substrate already read
+`Bastien "Baz" Arnaud` with zero `Foix` and needed nothing.
+
+## 5. Left for the next commit
+
+**`Janvier "Jan" Foix`** — manifest §4, bundle C. He inherited the rejected surname and is
+renamed separately, so the consequential rename is its own auditable commit rather than
+buried in this one.
+
+## 6. Validator
+
+`27 / 62`, unchanged.
+
+END OF ENTRY 39
+
+===============================================================
+
 END RECOVERY LEDGER

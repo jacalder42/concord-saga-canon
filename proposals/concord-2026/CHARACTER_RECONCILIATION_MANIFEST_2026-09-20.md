@@ -44,9 +44,9 @@ Status: LOCKED.
 Migration: every old named-Tahl Veil interaction must be transformed, anonymized, reassigned, or retired.
 Ending: Tahl dies B6; later echo only as already locked.
 
-### Baz Foix
+### Bastien “Baz” Arnaud
 Status: KEEP / LOCKED death.
-Aliases/conflicts: Basil “Baz” Foix preferred; historical “Bastien ‘Baz’ Arnaud” rejected unless higher-authority evidence emerges.
+Aliases/conflicts: **Bastien “Baz” Arnaud is canon** (ruled 2026-09-19, `recovery/GATE_RULINGS_2026-09-19.md` Amendment 1). **Basil “Baz” Foix is retired** — this entry previously preferred it and that preference is overruled. `Foix` survives only as the superseded Notion-side name in historical provenance.
 Category: core supporting / Vienna human anchor.
 Range: Veil, death end B3.
 Function: Lucien's closest friend/near-brother; ordinary-life bridge.

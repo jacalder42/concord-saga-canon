@@ -117,12 +117,12 @@ facts are supplied.
 **Tahl Morgan / MissingThread** and the **Baz** identity control (manifest §1) are locked
 and are not reclassified by any batch.
 
-> **Recorded discrepancy, not resolved here.** Ruling 3 writes this control as
-> *"Baz Foix"*, while `canon/characters/BazID.md` reads **Bastien "Baz" Arnaud** and
-> `CLAUDE.md` §3 makes `canon/characters/` final. The reading carried forward is that the
-> **rename decision** is what stays locked — consistent with ledger §31, which left the
-> `Foix` references in place as documentation of that rename. No Baz reference is changed
-> by this plan. Ledger §33 §4.
+> **RESOLVED 2026-09-19 — Amendment 1.** This was recorded here as an open discrepancy:
+> Ruling 3 wrote the control as *"Baz Foix"* while `canon/characters/BazID.md` reads
+> **Bastien "Baz" Arnaud**. **James ruled for canon.** `Bastien "Baz" Arnaud` is canon;
+> `Basil "Baz" Foix` is overruled and `Foix` is retired as a Baz surname. The earlier
+> cautious reading — that only the *rename decision* stayed locked — is superseded.
+> `recovery/GATE_RULINGS_2026-09-19.md` Amendment 1; ledger §38 and §39.
 
 ### 4.4 Bundles B and G inherit preliminary status
 

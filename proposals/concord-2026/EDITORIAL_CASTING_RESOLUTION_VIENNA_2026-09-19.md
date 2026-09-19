@@ -220,12 +220,12 @@ A later memory export contains an alternate historical identity:
 **Bastien “Baz” Arnaud**.
 
 The stronger 2025-11 character bible and multiple Vienna sources use:
-**Basil “Baz” Foix**.
+**Bastien “Baz” Arnaud**. — *corrected 2026-09-19, Amendment 1; this document previously read Basil “Baz” Foix.*
 
-Current project materials also consistently use Baz Foix.
+~~Current project materials also consistently use Baz Foix.~~ **Overruled 2026-09-19** (Amendment 1): `canon/characters/BazID.md` reads **Bastien “Baz” Arnaud**, and `canon/characters/` is final.
 
 Editorial recommendation:
-protect **Basil “Baz” Foix** for this proposal set unless a higher-authority current ruling says otherwise.
+~~protect **Basil “Baz” Foix** for this proposal set unless a higher-authority current ruling says otherwise.~~ **The higher-authority ruling arrived:** Amendment 1, 2026-09-19. **Bastien “Baz” Arnaud** is canon.
 
 Do not silently import “Bastien Arnaud.”
 
@@ -235,7 +235,7 @@ Janvier Foix further strengthens the Foix family identity in the recovered cast 
 
 ### Core
 - **Lucien Kael** — primary city lens.
-- **Baz Foix** — human warmth / lost Vienna / ordinary life.
+- **Bastien “Baz” Arnaud** — human warmth / lost Vienna / ordinary life.
 
 ### Narrow recurring
 - **Janvier “Jan” Foix** — Baz's family / consequence / grief outside Lucien.

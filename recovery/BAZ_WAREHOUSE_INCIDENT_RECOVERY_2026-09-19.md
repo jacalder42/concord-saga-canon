@@ -1,4 +1,6 @@
-# Baz Foix — Warehouse Incident Recovery
+# Bastien “Baz” Arnaud — Warehouse Incident Recovery
+
+> **Retitled 2026-09-19.** This document was created before the identity lock and was titled *“Baz Foix — Warehouse Incident Recovery”*. `Foix` is retired as a Baz surname per `recovery/GATE_RULINGS_2026-09-19.md` Amendment 1. Nothing else in the document changed.
 
 **Status:** AUTHOR RECOLLECTION + HISTORICAL SOURCE RECOVERY / CURRENT STAGING PARTIALLY UNRESOLVED
 **Date:** 2026-09-19

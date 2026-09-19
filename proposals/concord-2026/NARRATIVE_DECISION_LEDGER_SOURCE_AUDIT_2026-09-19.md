@@ -711,11 +711,13 @@ The missing link is **Baz's B04 death causality**, plus exact Neon event provena
 END NARRATIVE DECISION LEDGER
 
 
-## Baz identity-name conflict — Foix vs Arnaud
+## Baz identity-name conflict — Foix vs Arnaud — **RULED 2026-09-19**
+
+> **Closed by Amendment 1.** `Bastien “Baz” Arnaud` is canon; `Basil “Baz” Foix` is overruled and retired as a Baz surname. The analysis below stands as the record of the conflict and its provenance; its “working authority” recommendation is now a ruling.
 - November 2025 Notion canon layer overwhelmingly uses **Basil “Baz” Foix**, including character sheet, visual canon, skill tree, B03 character list, and Lucien relationship canon.
 - December 12/13 recovery memory set explicitly records **Bastien “Baz” Arnaud — Tier-1 Character Canon Card saved to memory**.
 - Current GitHub Tier-1 files uniformly use **Bastien “Baz” Arnaud** (BazID, BazEBCI, BazAppearance, Baz POV).
-- This strongly indicates a later identity rewrite/rename from Basil Foix → Bastien Arnaud, but the direct author selection/supersession statement has not yet been recovered.
+- This strongly indicates a later identity rewrite/rename from Basil Foix → Bastien Arnaud, but the direct author selection/supersession statement has not yet been recovered. **— The direct author ruling arrived 2026-09-19 (Amendment 1); it was ruled, not recovered.**
 - **Working authority:** use **Bastien “Baz” Arnaud** in current Tier-1 canon while preserving **Basil “Baz” Foix** as historical alias/drift until the renaming source is found. Do not mass-delete Foix references from historical source material.
 
 

@@ -150,8 +150,15 @@ from recovered sources. Three divergent forms were corrected on 2026-09-19 —
 `Koro Ito` → **Ito Masayuki** — the last of which a proposal document had ruled the other
 way from a memory export without checking `ItoID.md`. Source quotations keep the old form
 as evidence; the author-uploaded bundles and `recovery/source_exports/` are not edited in
-place. `Baz Foix` is **deliberately not swept**: that rename is already locked and the
-surviving references document it. Ledger §31.
+place.
+
+**`Foix` is retired as a Baz surname** — ruled 2026-09-19,
+`recovery/GATE_RULINGS_2026-09-19.md` **Amendment 1**. `Bastien "Baz" Arnaud` is canon and
+the manifest's preference for `Basil "Baz" Foix` is overruled. §31 had left `Foix`
+**deliberately not swept**, on the reading that the references documented an already-locked
+rename; that is superseded. The proposal layer is corrected; statements *about* the
+superseded Notion-side name stay, because they remain true and are the provenance record.
+`Janvier "Jan" Foix` renamed to `Janvier "Jan" Arnaud` as a consequence. Ledger §38–§40.
 
 **Beat IDs use `BT`.** Ruled 2026-09-18 (`recovery/CANON_DECISIONS_2026-09-18.md`
 §2.3). The form is `{SID}-BT{BeatNumber}`, and `rules/canon_rules.json` carries it.

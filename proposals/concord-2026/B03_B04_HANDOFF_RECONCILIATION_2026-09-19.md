@@ -548,7 +548,9 @@ Do not convert this into villain murder without stronger later evidence.
 ## Tahl exposure hypothesis remains open
 The source confirms Tahl is recording during the Warehouse Incident and MT explodes in popularity afterward, but does not by itself confirm that Tahl's reporting exposed Baz before/during the incident. The author's 2026-09-19 proposal that Tahl realizes his reporting exposed Baz remains an excellent reconstruction candidate, but needs a direct source or explicit author lock before being treated as recovered historical canon.
 
-# 17. Baz name conflict — identity reconciliation
+# 17. Baz name conflict — identity reconciliation — **RULED 2026-09-19**
+
+> **Closed by Amendment 1** (`recovery/GATE_RULINGS_2026-09-19.md`). **Bastien “Baz” Arnaud is canon**; **Basil “Baz” Foix is overruled** and `Foix` is retired as a Baz surname. This section's analysis and its provenance rules stand — including the instruction that historical `Foix` references must not be rewritten inside archived source evidence, which is the rule this correction pass followed.
 
 ### Historical November layer
 The large November 2025 Notion canon uses **Basil “Baz” Foix** across character, visual, relationship, skill-tree, and book-support documents.
