@@ -120,7 +120,8 @@ Standing carve-outs, unchanged by this approval:
 - **Terminal Witness** remains **RECOVER MORE / DO NOT PROMOTE**. Tier E
   recollection, no source-level corroboration. Protect the slot; invent nothing.
 - The author-locked controls are untouched: **Tahl Morgan / MissingThread** and
-  **Baz Foix** remain as locked.
+  **Baz Foix** remain as locked. † *— see **Amendment 1**, below. The Baz surname is
+  amended; the rest of this line stands.*
 
 B and G are approved in substance; their *place* references inherit Ruling 1's
 preliminary status, like every other specific location assignment.
@@ -172,3 +173,56 @@ In order. Nothing here requires a further ruling.
 The two blockers on the locations layer are now cleared. Place and cast both have
 rulings. The saga timeline — the one container the cascade lacks — is the first
 thing downstream of this queue that can actually be built.
+
+
+---
+
+# AMENDMENT 1 — Baz's surname
+
+**Status:** AUTHOR RULING — BINDING
+**Date:** 2026-09-19
+**Ruled by:** James
+**Amends:** Ruling 3's standing carve-out, above. **Ruling 3's body is not rewritten** —
+it records what was ruled on 2026-09-19 and stands as issued. This amendment sits after
+it, and the carve-out carries a pointer.
+
+---
+
+## The ruling
+
+> **Bastien "Baz" Arnaud is canon.**
+> The manifest's preference for **Basil "Baz" Foix** is **overruled**.
+> **"Foix" is retired as a Baz surname.**
+
+## What this settles
+
+The discrepancy recorded at ledger §33 §4 and carried forward into
+`CHARACTER_MIGRATION_PLAN_2026-09-19.md` §4.3 is closed. Ruling 3's carve-out named the
+locked control as *"Baz Foix"*; `canon/characters/BazID.md` reads **Bastien "Baz"
+Arnaud**; the two are now reconciled **in favour of canon**, consistent with the
+2026-09-19 ruling that `canon/characters/` is final (`CLAUDE.md` §3, ledger §31).
+
+The earlier reading — that the *rename decision* was what stayed locked rather than the
+name `Foix` itself — was the cautious one, and it is superseded by a direct ruling. It is
+recorded here rather than deleted, because it is what the previous passes acted on.
+
+## Scope
+
+- **Applies to Baz only.** `Foix` is retired **as a Baz surname**.
+- **`Janvier "Jan" Foix`** (manifest §4, bundle C) inherited the rejected surname and
+  becomes **`Janvier "Jan" Arnaud`**. His function is unchanged: Baz's family, grief that
+  does not centre Lucien, ending `OPEN`. Recorded as a **consequential rename, reversible**.
+- **The canon substrate is already correct** and is not touched. `canon/` reads
+  `Bastien "Baz" Arnaud` throughout with zero `Foix`.
+- **Quotations are annotated, not rewritten.** Where a `recovery/` or `proposals/`
+  document **quotes a source that said `Foix`**, the quotation stands and carries a note.
+  *A recovery document must not be edited to make its source appear to have said something
+  it did not.* Same rule the `Technarc`, `Ito Masayuki` and safe-route passes used.
+
+## What does not change
+
+Everything else in Ruling 3 — the approval of bundles A–I, the HOLD carve-outs, Terminal
+Witness as `RECOVER MORE / DO NOT PROMOTE`, and the **Tahl Morgan / MissingThread** lock —
+is unaffected.
+
+END OF AMENDMENT 1

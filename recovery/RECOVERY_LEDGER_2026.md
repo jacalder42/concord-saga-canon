@@ -3573,4 +3573,65 @@ END OF ENTRY 37
 
 ===============================================================
 
+===============================================================
+
+# 38. Amendment 1 — Baz's surname ruled — 2026-09-19
+
+**Ruled:** James, 2026-09-19 — *"Bastien "Baz" Arnaud is canon. The manifest's preference
+for Basil "Baz" Foix is overruled; "Foix" is retired as a Baz surname."*
+
+**Recorded at:** `recovery/GATE_RULINGS_2026-09-19.md`, **Amendment 1**.
+
+**Status:** RULING RECORDED / CORRECTION PASSES FOLLOW AS SEPARATE COMMITS /
+VALIDATOR 27 / 62
+
+---
+
+## 1. What it closes
+
+The discrepancy first recorded at §33 §4 and carried into
+`CHARACTER_MIGRATION_PLAN_2026-09-19.md` §4.3. Ruling 3's standing carve-out named the
+locked control **"Baz Foix"**; `canon/characters/BazID.md` reads **Bastien "Baz" Arnaud**.
+
+Both previous passes declined to resolve it. §31 left the `Foix` references standing as
+documentation of the rename and said so explicitly; §33 recorded the inconsistency and
+read it as *the rename decision* being what stayed locked rather than the name itself.
+**That reading was the cautious one and it is now superseded by a direct ruling.** It is
+kept in both documents rather than deleted, because it is what the intervening passes
+acted on and the record should show why.
+
+## 2. How the amendment was recorded, and why that shape
+
+**Ruling 3's body is not rewritten.** It records what was ruled on 2026-09-19 and stands
+as issued. Amendment 1 sits after it; the carve-out line carries a dagger pointing to it.
+
+This is the same reasoning the earlier passes used for verbatim quotations — §26.10 for
+`Technarc`, §31 for `Ito Masayuki`, §34 for the safe-route framing. **A record of what was
+decided is not improved by editing it to match what was decided later.** The amendment
+supersedes; it does not overwrite.
+
+## 3. Scope, as the amendment states it
+
+- Applies to **Baz only**: `Foix` is retired **as a Baz surname**.
+- **`Janvier "Jan" Foix`** inherited the rejected surname and becomes
+  **`Janvier "Jan" Arnaud`** — a consequential rename, flagged reversible, with his
+  function preserved exactly.
+- **The canon substrate is already correct** and is not touched: `canon/` reads
+  `Bastien "Baz" Arnaud` throughout with **zero** `Foix`.
+- **Quotations are annotated, not rewritten**, wherever a document quotes a source that
+  said `Foix`.
+
+## 4. What is unaffected
+
+The rest of Ruling 3 stands: bundles A–I approved, the five HOLD carve-outs, Terminal
+Witness as `RECOVER MORE / DO NOT PROMOTE`, and the **Tahl Morgan / MissingThread** lock.
+
+## 5. Validator
+
+`27 / 62`, unchanged. This commit records a ruling; it corrects nothing yet.
+
+END OF ENTRY 38
+
+===============================================================
+
 END RECOVERY LEDGER
