@@ -155,7 +155,13 @@ Never decide, invent, or quietly resolve:
 - **The Post-Mending `res_states` list.** Open — the banded envelope work is applied,
   but the Post-Mending era file is **held**: as specified it omits `LT`, which
   Mechanica §33 lists as a resonance state and which is the era's own signature.
-  Ledger §18.
+  Ledger §18. A proposal at
+  `proposals/concord-2026/CHANNELS_AND_RESONANCE_STATES_2026-09-19.md` §4 would settle
+  it by permitting `CALM · BLOOM · NODE · VT · LT`, but it is unruled.
+- **Is `VT` Veil-Touch or VeilThread?** Open — `rules/` says Veil-Touch in four places
+  including Mechanica; three tier-1 character cards say VeilThread, as does
+  `recovery/CANON_DECISIONS_2026-09-18.md` §1.2. Two different words, not two
+  spellings. Ledger §19 and §16.6.
 - **E19 and beyond.** E19 is named but never built. Do not generate, draft, or outline
   it. The prohibition stands until James lifts it.
 
@@ -381,6 +387,9 @@ file it names. No fix has been applied; two of the five need a ruling before one
   second-guessing the values. Ledger §18; source at
   `proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md`. **18 of the 27
   bands are inferred placeholders**, and the Post-Mending file is held — see §4.
+- **`Veil-Touch` vs `VeilThread`** — new 2026-09-19. Four occurrences against three,
+  rules files against character cards, with the decisions document on the minority side.
+  Ledger §16.6 and §19. Not fixed; it needs a ruling.
 - **All six grid CSVs are header-only**, so `CHK_BREADCRUMBS` and `CHK_EMO_CIRCUIT` in
   `rules/validation_checks.json` cannot run against any data.
 - **All 27 act overlays are byte-identical** apart from their ID fields, as are all 9

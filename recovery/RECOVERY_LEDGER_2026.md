@@ -834,6 +834,17 @@ blocked on §16.2.
 
 ---
 
+## 16.6 `Veil-Touch` vs `VeilThread` — NEW, found 2026-09-19
+
+Four occurrences of `Veil-Touch` across three authoritative `rules/` files against three
+of `VeilThread` in three tier-1 character cards, with the decisions document using the
+minority form. Full scope, evidence and the ruling needed are in §19.
+
+Unlike §16.1's `Technarc`, these are two different words rather than two spellings, and
+`VeilThread` collides with `LT`'s own name (*Luminous Thread*). No fix applied.
+
+---
+
 ## 16.5 No validation tooling — addressed 2026-09-19
 
 Recorded here for completeness; this one is closed.
@@ -1006,5 +1017,104 @@ part is not.
    that is held above.
 5. The 18 Neon and Loom acts remain inferred placeholders, marked `basis: inferred` in
    every file.
+
+---
+
+# 19. Channels-and-states proposal — verified, nothing applied
+
+Status: PROPOSAL VERIFIED / NOT APPLIED / FOUR RULINGS REQUESTED / ONE NEW DEFECT FOUND
+
+Source: `proposals/concord-2026/CHANNELS_AND_RESONANCE_STATES_2026-09-19.md`, committed
+verbatim. Its §7 asks four questions, all of which are author rulings under `CLAUDE.md`
+§4, so **none of §3, §4 or §6 has been applied.**
+
+## What checks out
+
+The central argument holds, and the evidence is stronger than the document claims.
+
+**`VT` and `LT` in `res_states` are not a category error.** `rules/Channels/VT_RULES.md`
+line 11 defines `VT` as *"direct metaphysical boundary contact"* — an event, not a
+medium. `Mechanica-v4.md` §33 gives `VT` as "Metaphysical boundary interaction" and
+`LT` as "Post-Mending prismatic filtration". Both describe field conditions.
+
+**The `MT`-absence argument is sound.** `res_states` holds `CALM · BLOOM · SHARD ·
+RUPTURE · NODE · VT · LT`. `MT` is not there. Had the three channels been filed into
+the state list by mistake, `MT` would have come with them. Its absence is evidence the
+two that *are* there were put there deliberately.
+
+**§4 item 4's `VT_RULES.md` §9 citation is accurate**, including "VT does not evolve
+into LT" — that line sits just below the bullet list at line 143, not inside it. The
+quotation omits one bullet, *"operates within filtered resonance"*, which is arguably
+the most relevant of the three to a post-Mending envelope and should be carried over if
+§4 item 4 is adopted.
+
+## One citation that does not resolve
+
+**§4 item 1 cites an "escalation curve" for `"VT: sealed until Tahl breach"`.** That
+string appears nowhere in `rules/`, `canon/`, or any of the 21 sanitized exports. The
+file it names is not in the repository either.
+
+The underlying claim may well be right — `S1.T1.B3.A3.E14` is anchored
+*"FIRST AND ONLY VT BRUSH IN VEIL TRILOGY"*, which implies nothing before it — but that
+is an inference from the packet, not the citation given. **Ruling question 3 asks about
+`VT` era gating, so this should be settled there rather than by treating the quoted
+line as sourced.** If the escalation curve is a Notion document, it is in the not-yet-
+recovered list at decisions §9.
+
+## NEW DEFECT: `Veil-Touch` vs `VeilThread`
+
+Found while verifying §1, flagged by nothing before now. This is the `Technarc` pattern
+again, and the decisions document is on the wrong side of it.
+
+| Form | Occurrences | Files |
+| --- | --- | --- |
+| **`Veil-Touch`** | 4 | `rules/Channels/VT_RULES.md`, `rules/Channels/CHANNELS_OVERVIEW.md`, `rules/Mechanica-v4.md` (×2) |
+| **`VeilThread`** | 3 | `canon/characters/KadeEBCI.md`, `canon/characters/LacunaEBCI.md`, `canon/characters/TahlEBCI.md` |
+
+Every authoritative rules file says **Veil-Touch**. Three tier-1 character cards say
+**VeilThread**. They are different words, not spellings of one word — "touch" and
+"thread" mean different things, and `LT` is already *Luminous **Thread***, so
+`VeilThread` additionally collides with `LT`'s own name.
+
+**`recovery/CANON_DECISIONS_2026-09-18.md` §1.2 uses `VeilThread`:**
+
+> `VT-BRUSH` refers to the VeilThread channel; the operative token is `VT`.
+
+So the binding decisions document uses the minority form, which came from the character
+cards rather than from the channel rules. The ruling it makes — that the operative token
+is `VT` — is unaffected either way.
+
+This is recorded, not resolved, per `CLAUDE.md` §4. **Ruling needed: is `VT`
+Veil-Touch or VeilThread?** If `Veil-Touch`, three character cards need correcting and
+the decisions document needs a note; if `VeilThread`, four rules files do, including
+Mechanica. The evidence favours `Veil-Touch` — it is in the authoritative channel rules
+and in Mechanica, which §5.2 makes authoritative — but that is an observation, not a
+ruling.
+
+Cross-referenced into §16 as defect 16.6.
+
+## §6's `MT` gloss drift is real
+
+`rules/canon_rules.json` → `invariants.channels.MT` reads `mortal_media_channel`.
+`rules/Channels/MT_RULES.md`, Authoritative Canon, defines `MT` as **Mortal
+Technology**, *"the human-built information and communication layer"* — phones, AR
+overlays, holochat. "Media" narrows it to publication, which is the wrong sense and
+also the sense that collides with the `MT` supplement vehicle (*The Missing Thread*).
+
+Not corrected: it is ruling question 4. The correction is one string.
+
+## Why nothing was applied
+
+All four questions in §7 are canon decisions. The grouping in §3 defines what kind of
+thing each token is; the rules in §4 would become enforced constraints; §6 rewrites a
+definition. `CLAUDE.md` §4 reserves all of it.
+
+Two further reasons to wait:
+
+1. **§4 item 4 would settle the held Post-Mending envelope** (§18) by permitting
+   `CALM · BLOOM · NODE · VT · LT`. That is the reading this ledger argued for, but it
+   arrives as a proposal, not a ruling, so the file stays held.
+2. **§3's grouping and the `Veil-Touch` question touch the same block.** If both are
+   ruled, they should land in one edit rather than two.
 
 END RECOVERY LEDGER
