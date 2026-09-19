@@ -16,7 +16,9 @@ CHK_SID_FORMAT   Tokens shaped like a SID are validated component by component
 CHK_ECID_FIELDS  Files that carry an ECID block must name every field in
                  `systems.id_system.ECID_fields`. Packet labels declared in
                  `ECID_field_aliases` (`U-Level` for `CORRIDOR`, `Resonance State`
-                 for `RES`) are accepted and normalized.
+                 for `RES`) are accepted and normalized. Fields listed in
+                 `ECID_fields_optional` (`HEAT`, `FX` — optional at shell
+                 granularity) are reported as notices, not violations.
 CHK_VOCAB        Values in ECID-bearing CSV columns and in known JSON envelope keys
                  must belong to the matching controlled vocabulary — every axis,
                  including `LOAD` and the three supplement axes.
@@ -250,7 +252,8 @@ def normalize_header(header, alias_map):
     return [alias_map.get(col, col) for col in header]
 
 
-def check_csv(path, sidfmt, ecid_fields, vocab, supp, alias_map, out, vt_counter):
+def check_csv(path, sidfmt, ecid_fields, vocab, supp, alias_map, out, vt_counter,
+              optional_fields=(), notices=None):
     with open(path, newline="", encoding="utf-8") as fh:
         rows = list(csv.reader(fh))
     if not rows:
@@ -261,10 +264,18 @@ def check_csv(path, sidfmt, ecid_fields, vocab, supp, alias_map, out, vt_counter
     present = [f for f in ecid_fields if f in header]
     if len(present) >= max(2, len(ecid_fields) // 2):
         missing = [f for f in ecid_fields if f not in header]
-        if missing:
+        required = [f for f in missing if f not in optional_fields]
+        optional = [f for f in missing if f in optional_fields]
+        if required:
             out.append(Violation(
                 "CHK_ECID_FIELDS", rel(path), 1, ",".join(raw_header),
-                f"ECID block missing required field(s): {', '.join(missing)}",
+                f"ECID block missing required field(s): {', '.join(required)}",
+            ))
+        if optional and notices is not None:
+            notices.append(Violation(
+                "CHK_ECID_FIELDS", rel(path), 1, ",".join(raw_header),
+                f"ECID block omits optional field(s): {', '.join(optional)} "
+                f"- permitted at shell granularity, expected on full packets",
             ))
     col_vocab = {}
     for i, col in enumerate(header):
@@ -372,7 +383,7 @@ def check_json(path, vocab, out):
 # Report
 # --------------------------------------------------------------------------- #
 
-def build_report(violations, scanned, include_meta, rules, vt_count=0):
+def build_report(violations, scanned, include_meta, rules, vt_count=0, notices=None):
     idsys = rules["systems"]["id_system"]
     supp = rules.get("supplement_system", {})
     lines = []
@@ -385,7 +396,11 @@ def build_report(violations, scanned, include_meta, rules, vt_count=0):
     w("")
     w(f"- Rules source: `rules/canon_rules.json` (schema {rules.get('schema_version')})")
     w(f"- SID format: `{idsys['SID_format']}`")
-    w(f"- ECID fields: {', '.join(idsys['ECID_fields'])}")
+    req = [f for f in idsys['ECID_fields']
+           if f.upper() not in [o.upper() for o in idsys.get('ECID_fields_optional', [])]]
+    opt = idsys.get('ECID_fields_optional', [])
+    w(f"- ECID fields: {', '.join(req)}"
+      + (f" (+ optional at shell granularity: {', '.join(opt)})" if opt else ""))
     aliases = idsys.get("ECID_field_aliases", {})
     if aliases:
         w("- Accepted field aliases: "
@@ -419,6 +434,14 @@ def build_report(violations, scanned, include_meta, rules, vt_count=0):
             vs = by_check[check]
             w(f"| `{check}` | {len(vs)} | {len({v.path for v in vs})} |")
     w("")
+    if notices:
+        w(f"## Notices — {len(notices)}")
+        w("")
+        w("Not violations; they do not affect the exit code.")
+        w("")
+        for n in notices:
+            w(f"- `{n.path}`: {n.detail}")
+        w("")
     for check in sorted(by_check):
         vs = by_check[check]
         w(f"## {check} — {len(vs)} violation(s)")
@@ -450,6 +473,7 @@ def main():
     idsys = rules["systems"]["id_system"]
     sidfmt = SidFormat(idsys["SID_format"])
     ecid_fields = [f.upper() for f in idsys["ECID_fields"]]
+    optional_fields = [f.upper() for f in idsys.get("ECID_fields_optional", [])]
     # reverse the declared alias map: packet label -> canonical schema field
     alias_map = {}
     for canonical, aliases in idsys.get("ECID_field_aliases", {}).items():
@@ -457,13 +481,14 @@ def main():
             alias_map[alias.upper()] = canonical.upper()
 
     violations = []
+    notices = []
     vt_rows = []
     scanned = 0
     for path in iter_files(args.all):
         scanned += 1
         if path.endswith(".csv"):
             check_csv(path, sidfmt, ecid_fields, vocab, supp, alias_map,
-                      violations, vt_rows)
+                      violations, vt_rows, optional_fields, notices)
             with open(path, encoding="utf-8") as fh:
                 check_sids(path, fh.read(), sidfmt, violations)
         elif path.endswith(".json"):
@@ -476,7 +501,7 @@ def main():
 
     check_vt_cap(vt_rows, supp, violations)
 
-    report = build_report(violations, scanned, args.all, rules, len(vt_rows))
+    report = build_report(violations, scanned, args.all, rules, len(vt_rows), notices)
     if args.report:
         with open(args.report, "w", encoding="utf-8") as fh:
             fh.write(report)

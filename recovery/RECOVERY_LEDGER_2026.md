@@ -486,11 +486,22 @@ operation and should not share a procedure.
 and 1 `VT-BRUSH` — 20 of the 25 out-of-vocabulary ECID field values in the whole corpus.
 Covered by §13 and by the four rulings in `ECID_VOCABULARY_COLLISION_2026.md` §7.
 
-**2. Missing required ECID fields.** `rules/canon_rules.json` lists `ECID_fields` as
-`POV, ENV, CORRIDOR, WEATHER, MODE, HEAT, FX, RES`. The shells supply no `Heat` and no
-`FX` — zero occurrences across all 22 blocks. Migration therefore either leaves two
-required fields empty, invents values, or the schema has to mark them optional at shell
-granularity. **Ruling needed.**
+**2. Missing required ECID fields — RULED 2026-09-19: optional at shell granularity.**
+
+The shells supply no `Heat` and no `FX` — zero occurrences across all 22 blocks — while
+`ECID_fields` listed both as required. James ruled the third option: the schema marks
+them optional rather than migration leaving them empty or inventing values.
+
+Applied as `systems.id_system.ECID_fields_optional: ["HEAT", "FX"]`. The validator now
+reports a record omitting them as a **notice**, not a violation, so shells migrate
+without failing the build while the omission stays visible in the report.
+
+**The cost, recorded so it is not a surprise.** The checker cannot tell a shell grid
+from a full-packet grid — nothing in the schema marks granularity — so a *full packet*
+that omitted `HEAT`/`FX` would also pass with only a notice. The softening is scoped to
+those two fields and no others: a missing `RES`, `MODE` or `CORRIDOR` is still a
+violation, and a test asserts it. If granularity ever needs enforcing, the fix is a
+granularity column or a filename convention the checker can read.
 
 **3. The epilogue has no valid act token.** The SID format is
 `S1.T{1-3}.B{01-09}.A{1-3}.E{01-99}`. The four epilogue shells use `S1.T1.B3.EP.E01`
@@ -516,11 +527,11 @@ also the trilogy's only declared VT contact (`Anchor: FIRST AND ONLY VT BRUSH IN
 TRILOGY`), so it is not a candidate for quiet downgrade to `W3`. The envelope defect
 itself is recorded in `CLAUDE.md` §9.1 and expanded in §16 of this ledger.
 
-## Ruling needed — one of two answered
+## Ruling needed — both answered
 
-1. **Still open.** Do shells migrate with `HEAT`/`FX` empty, or is the schema amended
-   to make them optional at shell granularity? The shells supply neither field, and
-   `canon_rules.json` lists both as required.
+1. **Answered 2026-09-19: optional.** The schema marks `HEAT` and `FX` optional at
+   shell granularity rather than migration leaving them empty or inventing values.
+   See blocker 2 above for what was applied and what it costs.
 2. **Answered 2026-09-18.** §2.2 rules that the Prologue is `E00` and **epilogues take
    the next sequential episode number**. So `S1.T1.B3.EP.E01`–`E04` renumber into the
    Book 3 sequence rather than needing a new act token, and the SID format needs no

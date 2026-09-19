@@ -306,10 +306,10 @@ all wait on it. Item 1 is ruled (merge, §6.1) but not yet performed.
    four-episode Veil→Neon epilogue, from the `Saga structural archive` export. This is
    the Book 3 analogue of item 5 and sits downstream of item 4, which sets the act
    envelope these episodes must fit inside. **Blocked on items 1 and 4, on decisions
-   §8 item 1, and on one remaining structural ruling** — the shells omit the required
-   `HEAT` and `FX` ECID fields (`recovery/RECOVERY_LEDGER_2026.md` §15). The epilogue
-   identifier question is settled: §2.2 rules that epilogues take the next sequential
-   episode number, so `S1.T1.B3.EP.E01`–`E04` renumber into the Book 3 sequence
+   §8 item 1.** Both structural questions are now settled: `HEAT` and `FX` are optional
+   at shell granularity (ruled 2026-09-19, `ECID_fields_optional`), and §2.2 rules that
+   epilogues take the next sequential episode number, so the four Veil→Neon epilogue
+   shells renumber into the Book 3 sequence. See `recovery/RECOVERY_LEDGER_2026.md` §15
 6. Run the ChatGPT console export in list mode; produce the full workspace inventory
 7. Extract remaining Tier 1 conversations, `Archive Veil Book 1` first — this is where
    the E00–E15 packets are expected to be

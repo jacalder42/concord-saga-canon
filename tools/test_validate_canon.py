@@ -31,6 +31,7 @@ SIDFMT = vc.SidFormat(IDSYS["SID_format"])
 ECID = [f.upper() for f in IDSYS["ECID_fields"]]
 ALIAS = {a.upper(): c.upper()
          for c, al in IDSYS.get("ECID_field_aliases", {}).items() for a in al}
+OPTIONAL = [f.upper() for f in IDSYS.get("ECID_fields_optional", [])]
 
 
 def sid_problems(text):
@@ -39,15 +40,17 @@ def sid_problems(text):
     return out
 
 
-def csv_problems(content, vt_counter=None):
+def csv_problems(content, vt_counter=None, notices=None):
     out = []
     vt = vt_counter if vt_counter is not None else []
+    nots = notices if notices is not None else []
     with tempfile.NamedTemporaryFile("w", suffix=".csv", delete=False,
                                      encoding="utf-8", newline="") as fh:
         fh.write(content)
         path = fh.name
     try:
-        vc.check_csv(path, SIDFMT, ECID, VOCAB, SUPP, ALIAS, out, vt)
+        vc.check_csv(path, SIDFMT, ECID, VOCAB, SUPP, ALIAS, out, vt,
+                     OPTIONAL, nots)
     finally:
         os.unlink(path)
     return out
@@ -159,13 +162,29 @@ class TestEcidFields(unittest.TestCase):
         problems = [p for p in csv_problems(header) if p.check == "CHK_ECID_FIELDS"]
         self.assertEqual(problems, [])
 
-    def test_missing_heat_and_fx_are_reported(self):
-        # this is the shape of the recovered Book 3 Act III shells
+    def test_shell_omitting_heat_and_fx_is_a_notice_not_a_violation(self):
+        """Ruled 2026-09-19: HEAT and FX are optional at shell granularity.
+
+        This is the shape of the recovered Book 3 Act III shells.
+        """
+        notices = []
         header = "SID,POV,ENV,CORRIDOR,WEATHER,MODE,RES,LOAD,BID\n"
+        problems = [p for p in csv_problems(header, notices=notices)
+                    if p.check == "CHK_ECID_FIELDS"]
+        self.assertEqual(problems, [], "shells must not fail the build")
+        self.assertEqual(len(notices), 1, "but the omission stays visible")
+        self.assertIn("HEAT", notices[0].detail)
+        self.assertIn("FX", notices[0].detail)
+
+    def test_a_genuinely_required_field_still_violates(self):
+        """The softening is scoped to HEAT and FX, not to the whole check."""
+        header = "SID,POV,ENV,CORRIDOR,WEATHER,MODE,HEAT,FX,LOAD,BID\n"  # no RES
         problems = [p for p in csv_problems(header) if p.check == "CHK_ECID_FIELDS"]
         self.assertEqual(len(problems), 1)
-        self.assertIn("HEAT", problems[0].detail)
-        self.assertIn("FX", problems[0].detail)
+        self.assertIn("RES", problems[0].detail)
+
+    def test_optional_list_comes_from_the_rules_file(self):
+        self.assertEqual(sorted(OPTIONAL), ["FX", "HEAT"])
 
     def test_non_ecid_csv_is_ignored(self):
         header = "breadcrumb_id,type,what_is_hinted,status,notes\n"

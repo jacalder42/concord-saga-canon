@@ -98,7 +98,12 @@
         "RES": [
           "Resonance State"
         ]
-      }
+      },
+      "ECID_fields_optional": [
+        "HEAT",
+        "FX"
+      ],
+      "ECID_fields_optional_note": "Optional at shell granularity. Recovered structural episode shells (the Book 3 Act III set in the Saga structural archive export) carry no Heat or FX; full episode packets do. Ruled 2026-09-19. A record omitting them is reported as a notice, not a violation."
     },
     "resonance_equation": "RP = Will \u00d7 Emotion \u00d7 Intent",
     "uars": {
