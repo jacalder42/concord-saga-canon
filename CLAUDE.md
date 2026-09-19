@@ -359,7 +359,13 @@ the envelope**. What remains: item 1 is ruled (merge, §6.1) but not performed o
    at shell granularity (ruled 2026-09-19, `ECID_fields_optional`), and §2.2 rules that
    epilogues take the next sequential episode number, so the four Veil→Neon epilogue
    shells renumber into the Book 3 sequence. See `recovery/RECOVERY_LEDGER_2026.md` §15
-6. Run the ChatGPT console export in list mode; produce the full workspace inventory
+6. Run the ChatGPT console export in list mode; produce the full workspace inventory.
+   **Raised in value 2026-09-19:** until this runs, "not exported" and "does not exist"
+   cannot be told apart. The Silence-and-Hope search (§22) is a concrete case where that
+   distinction was assumed rather than established — the 21 exports are the archive
+   layer, not the development layer, as
+   `proposals/concord-2026/EXPORT_INVENTORY_AND_MISSING_SOURCE_MAP.md` §3 already
+   records
 7. Extract remaining Tier 1 conversations, `Archive Veil Book 1` first — this is where
    the E00–E15 packets are expected to be. **Confirmed still necessary 2026-09-19:** the
    Notion `BOOK 1 — VEIL I (Final Beat Bible)` was read and does **not** hold them. It
@@ -374,8 +380,12 @@ the envelope**. What remains: item 1 is ruled (merge, §6.1) but not performed o
    14 characters and **neither Silence nor Hope appears in any of them**, nor in
    `source_canon/`. Two metaphysical entities who are each half of the Old Veil, whose
    existence defines `VT`, and whose break drives the endgame, have no canon file.
-   Notion has at least `08.10 • Silence — Metaphysical`. Recommended as a Tier-1
-   recovery item; **awaiting confirmation** (ruling §7 question 2). Ledger §20
+   **Notion is the only located source**: it holds both `08.10 • Silence — Metaphysical`
+   and `08.11 • Hope — Metaphysical`. The 21 exports were searched 2026-09-19 and hold
+   essentially nothing — 3 entity references, all the retired prologue title
+   `Silence & Hope`; the other 10 `Silence` hits are Lucien's arc vocabulary, a
+   different concept. Recommended as a Tier-1 recovery item; **awaiting confirmation**
+   (ruling §7 question 2). Ledger §20 and §22
 9a. **Deferred until recovery and distillation complete** (ruled 2026-09-19): author the
    ~40 `Asks`/`Flags`/`Protects` fields in `canon/editorial_lenses.md`. Not recoverable
    — decisions §5.6 confirms they were invented repo-side and are not in Notion. Do not

@@ -1360,4 +1360,105 @@ Nothing in the work queue moves. Item 7 keeps its target and its rationale. The 
 is a negative result, and worth the same care as a positive one: the hypothesis in
 decisions §9 is now disconfirmed for Book 1 rather than open.
 
+---
+
+# 22. Silence and Hope in the exports — searched 2026-09-19, almost nothing there
+
+Status: SEARCHED / NEGATIVE RESULT / ROOT CAUSE IDENTIFIED
+
+Expectation checked: that the exported ChatGPT chats hold substantial Silence and Hope
+material. They do not. The reason is structural and is already documented in the
+repository's own inventory.
+
+## The counts
+
+Across all 21 sanitized exports:
+
+| Token | Occurrences | Files |
+| --- | --- | --- |
+| `Silence` | 13 | 6 |
+| `Hope` | 3 | 2 |
+| `Old Veil` | 1 | 1 |
+| `Silence and Hope` / `Silence & Hope` / `Silence + Hope` | 0 | 0 |
+
+## Only three of the thirteen are the entity
+
+**"Silence" in the exports overwhelmingly means Lucien's arc, not the metaphysical
+entity.** Ten of the thirteen are arc vocabulary:
+
+`Silence-echo crises` · `Silence-precursor spirals` · `Silence-with-Intent line` ·
+`Silence-without-Intent arc` · `Silence-geometry threshold` · `Silence-echo tremors` ·
+`Silence-echo patterns` · `Silence-geometry crisis` · `Tahl arc climax → Silence's spark`
+
+Every one describes Lucien's dissociation and structural fracture, or Tahl's arc
+endpoint. None describes the half of the Old Veil.
+
+The remaining three, and **all three `Hope` occurrences**, are the same beat title in
+two documents:
+
+> `Prologue — Silence & Hope` (`Episode expansion process__part01`)
+> `Prologue — Silence & Hope (canon)` (`Trilogy Act-Level Beat Backup`, twice)
+
+That is the prologue title decisions §2.2 **supersedes** with "The Conversation in the
+Sky". So the only entity-level trace of Silence and Hope in the entire export corpus is
+a title that has since been retired.
+
+The single `Old Veil` occurrence is a systems check — "Old Veil → Shards → Rupture" in
+`Saga Beat Expansion Pipeline` — not a description of the entities.
+
+## `Silence` is a token collision inside the project's own vocabulary
+
+This is the finding worth carrying forward. `Silence` names two different things:
+
+- **Silence**, the metaphysical construct, half of the Old Veil
+- **the Silence arc** — Lucien's dissociation line, with its own compound vocabulary
+  (`Silence-with-Intent`, `Silence-without-Intent`, `Silence-echo`, `Silence-geometry`)
+
+Same class of collision as `MT` and `VT`, and worse for search: anyone grepping the
+corpus for the entity gets ten arc hits for every three entity hits. That asymmetry is
+very likely why the material feels like it should be there. It is not a reason to
+rename anything — both usages are established — but it should be recorded before
+someone concludes the entity material was lost.
+
+## Root cause: these are the wrong chats, and the repo already said so
+
+`proposals/concord-2026/EXPORT_INVENTORY_AND_MISSING_SOURCE_MAP.md` §3 states it
+directly:
+
+> The available structural exports are primarily **backup / archive / audit outputs**,
+> not necessarily the chats where the late decisions were originally negotiated. …
+> continued semantic searching inside the same backup files is unlikely to recover the
+> missing *decision dialogue* if the originating chat itself was never exported.
+
+Its evidence: `Trilogy Act-Level Beat Backup` asks for source beats to be pasted and
+says it will not reconstruct; `Saga structural archive` defines itself as pure
+structural storage that adds nothing; `Phase 1A Migration Plan` states authored assets
+may exist only inside long chats.
+
+And §4B of the same document, listing the highest-value missing chats, anticipates this
+exact gap — it expects a missing chat to contain "the user's remembered Tahl/Silence
+epilogue discussion".
+
+**So the Silence and Hope material is very probably in the ChatGPT workspace, in chats
+that were never exported.** The 21 exports are the archive layer, not the development
+layer. Metaphysics and worldbuilding were developed elsewhere.
+
+## What this changes
+
+**Work-queue item 6 rises in value.** "Run the ChatGPT console export in list mode;
+produce the full workspace inventory" is the gate on knowing what is recoverable at
+all. Until it runs, the difference between *not exported* and *does not exist* cannot
+be told apart — and this search is a concrete case where that distinction was assumed
+rather than established.
+
+**Item 9b's route is confirmed as Notion, not the exports.** Notion holds both
+`08.10 • Silence — Metaphysical` and `08.11 • Hope — Metaphysical` (§20). The exports
+hold neither. For this item Notion is the only located source, which is the reverse of
+the usual precedence in decisions §5.4 — worth stating plainly so the Tier D marking is
+not mistaken for the material being weak. It is not weak; it is the only copy found.
+
+**Nothing in §20 is withdrawn.** That entry recorded the absence from `canon/` and
+`source_canon/`, which stands. It did not claim the exports had been searched for the
+entities; this entry closes that gap.
+
 END RECOVERY LEDGER
