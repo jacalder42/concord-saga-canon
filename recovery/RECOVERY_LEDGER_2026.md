@@ -3400,4 +3400,86 @@ END OF ENTRY 35
 
 ===============================================================
 
+===============================================================
+
+# 36. Gate rulings — step 4: `ENV` derived from the type layer — 2026-09-19
+
+**Authority:** `recovery/GATE_RULINGS_2026-09-19.md` Ruling 1 — *"`ENV` derives from that
+layer and only that layer."*
+
+**Status:** DERIVED AND ENFORCED / CONTESTED GROUND LEFT UNASSIGNED / VALIDATOR 27 / 62 /
+71 SELF-TESTS PASSING
+
+---
+
+## 1. What was added
+
+**`rules/canon_rules.json`** — two additions, the first substrate change in this queue:
+
+- `controlled_vocab.env` — **11 tokens**: the five Neon Zone types, the four Loom Corridor
+  classes, `NODE_ECHO`, and the `CORR_UNCLASSED` holding token.
+- `location_system` — the type layer with each member's behaviour as the source gives it,
+  the ruled corridor definition, and an explicit note that the shard progression
+  contributes nothing.
+
+**`tools/validate_canon.py`** — `ENV` joined `FIELD_VOCAB`, so it is now checked like any
+other axis. `POV` remains free text.
+
+**Six new self-tests**, pinning the four things that could drift: `ENV` is enforced; its
+members are *exactly* the type layer; **named places are not members**
+(`Violet Spiral`, `Red Lantern Faultline`, `Blue Pulse Corridor`, `Tremé`,
+`French Quarter`); and the **shard progression contributes nothing**
+(`FLICKER`, `GHOSTWAVE`, `FRACTURE`, `RUPTURE_THREAT`). Two more assert that no
+non-`PROVISIONAL` row in the place registry carries a type.
+
+## 2. Contested ground: unassigned, not provisionally assigned
+
+The instruction was explicit, and it is now enforced by test rather than by care:
+**Tremé, Marigny, the French Quarter and Bywater have no `ENV` value**, and neither does
+`Red Lantern Faultline`, which spans them. A test walks the registry and fails if any
+non-`PROVISIONAL` row acquires a type.
+
+`Blue Pulse Corridor` likewise carries no type — held for the Ruling 2 geometry test.
+
+## 3. The consequence this surfaced, which is the important part
+
+**The validator's own fixtures were using free-text `ENV`.** Eleven rows read
+`...,Seraphine,Square,U3,W1,...`, taken from the recovered E16 packet, whose `ENV` is
+*"Streets leading away from the square (night)"*.
+
+Under Ruling 1 **that is not an `ENV` value.** It is a scene setting; `ENV` is now a zone
+or corridor **type**. The fixtures moved to `ZONE_BLUE_PULSE` and all 71 tests pass — but
+the fixtures were only reflecting the source material.
+
+**So: every recovered packet migrated from here on needs its `ENV` mapped to a type.**
+That is migration work which did not exist before today. It affects work-queue item 5
+(E16–E18), item 5a (the Book 3 Act III shells) and item 8 (E01–E15).
+
+**Today it costs nothing** — `episode_beats.csv` is header-only, so enforcement adds zero
+violations and the count is unchanged at 27 / 62. **At migration time it will cost
+something**, and the count will rise unless the `ENV` mapping is done as part of the
+migration rather than after it. Recorded in `reports/README.md` under known limitations so
+whoever runs the migration meets it before the validator does.
+
+This is worth stating plainly rather than burying: applying Ruling 1 made a previously
+free field a controlled one, and the recovered material does not satisfy it. That is the
+ruling working as intended — it is how a scene setting and a resonance type stopped being
+the same field — but it is not free.
+
+## 4. On the token spellings, again
+
+Flagged at §35 and restated because it now lives in `canon_rules.json`: **membership is
+ruled, spellings are mechanical.** `location_system._token_note` says so in the file
+itself. Changing them is a find-and-replace across two `proposals/` files, one `rules/`
+key and the test fixtures.
+
+## 5. Validator
+
+`27 canon-scope / 62 all-scope`, unchanged, with `ENV` now enforced. 71 self-tests pass
+(up from 63). Both baseline reports regenerated.
+
+END OF ENTRY 36
+
+===============================================================
+
 END RECOVERY LEDGER

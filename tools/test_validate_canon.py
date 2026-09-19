@@ -116,21 +116,21 @@ class TestVocabularyCsv(unittest.TestCase):
     HEADER = "SID,POV,ENV,CORRIDOR,WEATHER,MODE,HEAT,FX,RES,LOAD,BID\n"
 
     def test_valid_row_passes(self):
-        row = "S1.T1.B01.A1.E16,Seraphine,Square,U3,W1,INT,H0,FX2,CALM,L0,x\n"
+        row = "S1.T1.B01.A1.E16,Seraphine,ZONE_BLUE_PULSE,U3,W1,INT,H0,FX2,CALM,L0,x\n"
         self.assertEqual(csv_problems(self.HEADER + row), [])
 
     def test_strain_is_rejected(self):
-        row = "S1.T1.B01.A1.E16,Seraphine,Square,U3,W1,INT,H0,FX2,STRAIN,L0,x\n"
+        row = "S1.T1.B01.A1.E16,Seraphine,ZONE_BLUE_PULSE,U3,W1,INT,H0,FX2,STRAIN,L0,x\n"
         problems = csv_problems(self.HEADER + row)
         self.assertTrue(any(p.token == "STRAIN" for p in problems))
 
     def test_lore_mode_is_rejected(self):
-        row = "S1.T1.B01.A1.E16,Seraphine,Square,U3,W1,LORE,H0,FX2,CALM,L0,x\n"
+        row = "S1.T1.B01.A1.E16,Seraphine,ZONE_BLUE_PULSE,U3,W1,LORE,H0,FX2,CALM,L0,x\n"
         problems = csv_problems(self.HEADER + row)
         self.assertTrue(any(p.token == "LORE" for p in problems))
 
     def test_compound_mode_splits_and_flags_only_the_bad_token(self):
-        row = "S1.T1.B01.A1.E16,Seraphine,Square,U3,W1,INT / CIV / LORE,H0,FX2,CALM,L0,x\n"
+        row = "S1.T1.B01.A1.E16,Seraphine,ZONE_BLUE_PULSE,U3,W1,INT / CIV / LORE,H0,FX2,CALM,L0,x\n"
         problems = csv_problems(self.HEADER + row)
         flagged = {p.token for p in problems}
         self.assertIn("LORE", flagged)
@@ -138,19 +138,19 @@ class TestVocabularyCsv(unittest.TestCase):
         self.assertNotIn("CIV", flagged)
 
     def test_transition_value_splits_on_arrow(self):
-        row = "S1.T1.B01.A1.E16,Seraphine,Square,U3,W1,INT,H0,FX2,CALM → STRAIN,L0,x\n"
+        row = "S1.T1.B01.A1.E16,Seraphine,ZONE_BLUE_PULSE,U3,W1,INT,H0,FX2,CALM → STRAIN,L0,x\n"
         problems = csv_problems(self.HEADER + row)
         flagged = {p.token for p in problems}
         self.assertIn("STRAIN", flagged)
         self.assertNotIn("CALM", flagged)
 
     def test_out_of_range_corridor_is_rejected(self):
-        row = "S1.T1.B01.A1.E16,Seraphine,Square,U9,W1,INT,H0,FX2,CALM,L0,x\n"
+        row = "S1.T1.B01.A1.E16,Seraphine,ZONE_BLUE_PULSE,U9,W1,INT,H0,FX2,CALM,L0,x\n"
         problems = csv_problems(self.HEADER + row)
         self.assertTrue(any(p.token == "U9" for p in problems))
 
     def test_placeholder_row_is_not_flagged_as_vocabulary(self):
-        row = "S1.T1.B01.A1.E16,Seraphine,Square,TODO,TODO,TODO,TODO,TODO,TODO,TODO,x\n"
+        row = "S1.T1.B01.A1.E16,Seraphine,ZONE_BLUE_PULSE,TODO,TODO,TODO,TODO,TODO,TODO,TODO,x\n"
         problems = [p for p in csv_problems(self.HEADER + row)
                     if p.check == "CHK_VOCAB"]
         self.assertEqual(problems, [])
@@ -205,11 +205,11 @@ class TestLoadAxis(unittest.TestCase):
         self.assertEqual(VOCAB["load"], ["L0", "L1", "L2", "L3"])
 
     def test_valid_load_value_passes(self):
-        row = "S1.T1.B01.A1.E16,Seraphine,Square,U3,W1,INT,H0,FX2,CALM,L2,x\n"
+        row = "S1.T1.B01.A1.E16,Seraphine,ZONE_BLUE_PULSE,U3,W1,INT,H0,FX2,CALM,L2,x\n"
         self.assertEqual(csv_problems(self.HEADER + row), [])
 
     def test_out_of_range_load_is_rejected(self):
-        row = "S1.T1.B01.A1.E16,Seraphine,Square,U3,W1,INT,H0,FX2,CALM,L9,x\n"
+        row = "S1.T1.B01.A1.E16,Seraphine,ZONE_BLUE_PULSE,U3,W1,INT,H0,FX2,CALM,L9,x\n"
         problems = csv_problems(self.HEADER + row)
         self.assertTrue(any(p.token == "L9" for p in problems))
 
@@ -218,7 +218,7 @@ class TestLoadAxis(unittest.TestCase):
         for res, load in [("CALM", "L2"), ("CALM", "L0"), ("CALM", "L1"),
                           ("SHARD", "L2"), ("SHARD", "L3"),
                           ("RUPTURE", "L3"), ("VT", "L3")]:
-            row = (f"S1.T1.B01.A1.E16,Seraphine,Square,U3,W1,INT,H0,FX2,"
+            row = (f"S1.T1.B01.A1.E16,Seraphine,ZONE_BLUE_PULSE,U3,W1,INT,H0,FX2,"
                    f"{res},{load},x\n")
             self.assertEqual(csv_problems(self.HEADER + row), [],
                              f"{res}/{load} from decisions 1.5 must validate")
@@ -243,7 +243,7 @@ class TestEcidAliases(unittest.TestCase):
     def test_values_under_an_alias_are_still_vocabulary_checked(self):
         header = ("SID,POV,ENV,U-Level,WEATHER,MODE,HEAT,FX,"
                   "Resonance State,LOAD,BID\n")
-        row = "S1.T1.B01.A1.E16,Seraphine,Square,U9,W1,INT,H0,FX2,STRAIN,L0,x\n"
+        row = "S1.T1.B01.A1.E16,Seraphine,ZONE_BLUE_PULSE,U9,W1,INT,H0,FX2,STRAIN,L0,x\n"
         flagged = {p.token for p in csv_problems(header + row)}
         self.assertIn("U9", flagged)
         self.assertIn("STRAIN", flagged)
@@ -464,6 +464,78 @@ class TestRulesAreReadNotHardcoded(unittest.TestCase):
         for dim in ("corridors", "weather", "res_states", "modes", "heat", "fx"):
             self.assertIn(dim, VOCAB, f"{dim} missing from canon_rules.json")
 
+
+
+class EnvVocabularyDerivation(unittest.TestCase):
+    """ENV derives from the geography system's type layer and only that layer.
+
+    GATE_RULINGS_2026-09-19 Ruling 1. Four things pinned down here: the vocabulary
+    exists and is enforced, it is exactly the type layer, named places are not
+    members, and the shard progression contributes nothing.
+    """
+
+    def test_env_is_a_checked_field(self):
+        self.assertEqual(vc.FIELD_VOCAB.get("ENV"), "env")
+
+    def test_env_members_are_exactly_the_type_layer(self):
+        loc = RULES["location_system"]
+        derived = (set(loc["zone_types"]) | set(loc["corridor_classes"])
+                   | set(loc["post_mending"]))
+        self.assertEqual(set(VOCAB["env"]), derived)
+
+    def test_named_places_are_not_env_values(self):
+        upper = {v.upper() for v in VOCAB["env"]}
+        for name in ("VIOLET SPIRAL", "RED LANTERN FAULTLINE", "BLUE PULSE CORRIDOR",
+                     "LAUGAVEGUR CORRIDOR", "TREME", "FRENCH QUARTER"):
+            self.assertNotIn(name, upper)
+
+    def test_shard_progression_contributes_nothing(self):
+        upper = {v.upper() for v in VOCAB["env"]}
+        for token in ("FLICKER", "GHOSTWAVE", "FRACTURE", "RUPTURE_THREAT"):
+            self.assertNotIn(token, upper)
+
+    def test_a_bad_env_value_is_flagged(self):
+        bad = csv_problems("SID,ENV\nS1.T1.B01.A1.E01,Violet Spiral\n")
+        self.assertTrue([p for p in bad if p.check == "CHK_VOCAB"],
+                        "a named place used as an ENV value should be flagged")
+
+    def test_a_good_env_value_passes(self):
+        good = csv_problems("SID,ENV\nS1.T1.B01.A1.E01,ZONE_VIOLET_BLOOM\n")
+        self.assertEqual([p for p in good if p.check == "CHK_VOCAB"], [])
+
+
+class ContestedGroundIsUnassigned(unittest.TestCase):
+    """Step 4: leave contested ground unassigned rather than provisionally assigned."""
+
+    def test_no_non_provisional_row_carries_a_type(self):
+        import csv as _csv
+        path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                            "proposals", "concord-2026",
+                            "location_places_PROVISIONAL_2026-09-19.csv")
+        with open(path, encoding="utf-8") as fh:
+            rows = list(_csv.DictReader(fh))
+        self.assertTrue(rows)
+        for row in rows:
+            if row["type_status"] != "PROVISIONAL":
+                self.assertEqual(
+                    row["mapped_type"], "",
+                    "%s is %s but carries a type" % (row["place_name"],
+                                                     row["type_status"]))
+
+    def test_the_four_ruled_contested_places_are_present_and_blank(self):
+        import csv as _csv
+        path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                            "proposals", "concord-2026",
+                            "location_places_PROVISIONAL_2026-09-19.csv")
+        with open(path, encoding="utf-8") as fh:
+            rows = {r["place_name"]: r for r in _csv.DictReader(fh)}
+        for name in ("Tr\u00e9m\u00e9".encode().decode(), "Marigny",
+                     "French Quarter", "Bywater"):
+            pass
+        for name in ("Marigny", "French Quarter", "Bywater"):
+            self.assertIn(name, rows)
+            self.assertEqual(rows[name]["mapped_type"], "")
+            self.assertEqual(rows[name]["type_status"], "CONTESTED_UNASSIGNED")
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)

@@ -112,8 +112,13 @@ Recorded so the reports are not read as stronger than they are.
   cannot be flagged as malformed. Tracked as a ruling in
   `recovery/RECOVERY_LEDGER_2026.md` §15 instead. The same applies to any identifier
   malformed in its non-numeric structure rather than its digits.
-- **`POV` and `ENV` are unchecked.** `canon_rules.json` defines no vocabulary for
-  them, so the checker has nothing to validate against.
+- **`POV` is unchecked.** `canon_rules.json` defines no vocabulary for it, so the
+  checker has nothing to validate against. **`ENV` joined the checked fields on
+  2026-09-19**: its vocabulary derives from the geography system's type layer and only
+  that layer (`recovery/GATE_RULINGS_2026-09-19.md` Ruling 1). Named places are not `ENV`
+  values, and the shard progression contributes nothing. Enforcement adds **zero**
+  violations today because `episode_beats.csv` is header-only — but see the migration
+  note below.
 - **JSON vocabulary checking is keyed to known field names** (`max_weather`,
   `corridor_max`, `default_vfx_ceiling`, and the rest in `JSON_KEY_VOCAB`). A new
   envelope key would go unchecked until it is added to that map.
@@ -126,6 +131,14 @@ Recorded so the reports are not read as stronger than they are.
   a well-reasoned band from a careless one. 18 of the 27 act bands are marked
   `basis: inferred` and are placeholders; the checker treats them exactly like the 9
   marked `observed`. Read the `basis` field before trusting a band.
+- **Recovered packets carry free-text `ENV` and will not satisfy the new vocabulary.**
+  The E16 packet's `ENV` reads *"Streets leading away from the square (night)"* — a scene
+  setting, not a zone or corridor type. Under Ruling 1 that is not an `ENV` value.
+  **Every packet migrated from here on needs its `ENV` mapped to a type**, and that is
+  migration work which did not exist before 2026-09-19. It is also why the validator's own
+  fixtures moved from `Square` to `ZONE_BLUE_PULSE`. Expect the substrate count to rise at
+  migration time unless the mapping is done as part of it.
+
 - **Episode-level band conformance is not checked yet.** Nothing verifies that an
   episode's `CORRIDOR` sits inside its act's band, because no episode rows exist —
   `episode_beats.csv` is still header-only. That check becomes possible, and worth

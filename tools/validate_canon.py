@@ -73,9 +73,13 @@ META_FILES = ["CLAUDE.md", "README.md"]
 
 SCANNED_SUFFIXES = (".md", ".json", ".csv")
 
-# ECID field name -> controlled_vocab key. Fields absent here (POV, ENV) are free text.
+# ECID field name -> controlled_vocab key. Fields absent here (POV) are free text.
+# ENV joined on 2026-09-19: its vocabulary derives from the geography system's type
+# layer and only that layer (GATE_RULINGS_2026-09-19 Ruling 1). Named places are not
+# ENV values, and the shard progression is a severity scale, not a spatial taxonomy.
 FIELD_VOCAB = {
     "CORRIDOR": "corridors",
+    "ENV": "env",
     "WEATHER": "weather",
     "MODE": "modes",
     "HEAT": "heat",

@@ -76,6 +76,19 @@
       "L1",
       "L2",
       "L3"
+    ],
+    "env": [
+      "ZONE_BLUE_PULSE",
+      "ZONE_AMBER_DRIFT",
+      "ZONE_VIOLET_BLOOM",
+      "ZONE_RED_FLARE",
+      "ZONE_SILVER_STATIC",
+      "CORR_HUMANITARIAN",
+      "CORR_CONCORD",
+      "CORR_RUPTURE",
+      "CORR_GHOSTLINE",
+      "CORR_UNCLASSED",
+      "NODE_ECHO"
     ]
   },
   "systems": {
@@ -183,5 +196,29 @@
       "placement": "between episodes"
     },
     "token_collision_note": "VT appears in three vocabularies: as a channel (invariants.channels.VT), as a resonance state (controlled_vocab.res_states), and as a supplement vehicle. Per decisions 4.2 the field disambiguates, not the token. MT is NOT a collision: ruled 2026-09-19, the MT channel and the MT supplement vehicle are the same thing - the MissingThread."
+  },
+  "location_system": {
+    "_status": "Type layer ruled 2026-09-19, recovery/GATE_RULINGS_2026-09-19.md Ruling 1. ENV derives from this layer and ONLY this layer. Specific place-to-type assignments are PROVISIONAL and live in proposals/concord-2026/location_places_PROVISIONAL_2026-09-19.csv - none is loaded here.",
+    "_token_note": "Vocabulary membership is ruled; token spellings are mechanical, derived from the geography system's own colour and class words. See proposals/concord-2026/LOCATION_TWO_LAYER_STRUCTURE_2026-09-19.md section 2.5.",
+    "zone_types": {
+      "ZONE_BLUE_PULSE": "Blue Pulse District - clarity hum, calm-before-chaos",
+      "ZONE_AMBER_DRIFT": "Amber Drift Zone - emotional panic amplification",
+      "ZONE_VIOLET_BLOOM": "Violet Bloom Stripe - near-shard rupture conditions",
+      "ZONE_RED_FLARE": "Red Flare Intersection - violence flashpoints",
+      "ZONE_SILVER_STATIC": "Silver Static Block - metas disrupt resonance signal"
+    },
+    "corridor_classes": {
+      "CORR_HUMANITARIAN": "Humanitarian - Filament-built; lantern signals, quiet boats, grounded rituals",
+      "CORR_CONCORD": "Concord - protagonist routes; emotional stabilizers required",
+      "CORR_RUPTURE": "Rupture - extremely dangerous; lead toward shard-cluster fail zones",
+      "CORR_GHOSTLINE": "Ghostline - almost silent; emotional emptiness",
+      "CORR_UNCLASSED": "Bookkeeping, not a class. A named Loom corridor whose class the source does not state. Nine of eleven recovered corridors are in this position."
+    },
+    "post_mending": {
+      "NODE_ECHO": "Echo Node - gentle pools of stabilized resonance at former shard fractures"
+    },
+    "corridor_definition": "A corridor is a linear path or area between two known points. Context determines whether it is safe, dangerous, or otherwise. Ruled 2026-09-19, Ruling 2. The corridor classes are NOT a safety gradient - they sort by who built or uses a corridor and what it leads to.",
+    "shard_progression_note": "Flicker -> Ghostwave -> Fracture -> Rupture is the shard progression: a severity scale layering over places. It is NOT a spatial taxonomy and contributes nothing to ENV. Ruling 1.",
+    "source": "HYBRID RESONANCE GEOGRAPHY SYSTEM (Notion, 2025-11-27), recovered at recovery/LOCATIONS_RECOVERY_2026-09-19.md"
   }
 }
