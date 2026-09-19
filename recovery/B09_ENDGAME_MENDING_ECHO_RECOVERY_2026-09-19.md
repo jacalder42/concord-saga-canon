@@ -213,3 +213,119 @@ Do not use it to explain the Mending itself.
 - Elisabet leaves Rex to warn the Mending team and has a final moment with Caro.
 - Seraphine/Lucien/Caro are the active Mending triad.
 - Luminous Thread belongs after the Mending / epilogue layer.
+
+
+# 13. Sanitized export forensic pass — detailed Act III source hunt
+
+A targeted File Library search of the sanitized ChatGPT exports was run for:
+- “Loom Book 9 — Act III Structural Canon v1”
+- Elias–Kade–Rex confrontation
+- Elisabet leaves Rex / warns Mending / Caro final moment
+- Kade nearly kills Rex
+- Tahl Echo saves Rex / recalibrates Kade
+- protect the Mending / Brightbreak break
+- LT handshake / Luminous Thread
+
+## What the exports directly preserve
+
+### Trilogy Act-Level Beat Backup
+Compressed B09 sequence:
+- Act II: Elisabet maps resonance ecology live.
+- Act II: rear guard = Rex, Lacuna, Filaments.
+- Act III: Brightbreak vs Choirless chaos.
+- Act III compressed line: “Kade nearly kills Elias; Rex intervenes; Kade snaps.”
+- then Tahl echo flare stops Kade’s collapse.
+- then Seraphine/Lucien/Caro complete Mending.
+- Brightbreak influence shatters.
+- epilogue includes LT handshake invitation / Tahl triangle.
+
+### Saga Beat Expansion Pipeline
+Higher-level continuity audit says:
+- Kade grows from reluctant MT successor
+  → Brightbreak-manipulated voice
+  → near-catastrophe
+  → saved by Tahl’s Echo
+  → post-Mending MT.
+- Rex is rear-guard anchor in Loom.
+- Caro + Elisabet are central to getting Seraphine to the Mending intact.
+
+This higher-level causal description is compatible with the current author-restored Rex near-kill sequence and does not require Elias to be the attack victim.
+
+### Memory/export summary evidence
+December recovery memory explicitly remembers a finalized:
+**“Loom Book 9 — Act III Structural Canon v1”**
+including:
+- siege break;
+- **Elias–Kade–Rex confrontation**;
+- Tahl echo flare/intervention;
+- Mending/endgame baton.
+
+The detailed contents of that structural-canon conversation are not presently being surfaced by the File Library index.
+
+## Strong historical convergence outside compressed act summary
+
+Independent older character/system sources repeatedly preserve:
+- Kade nearly kills Rex;
+- Rex nearly dies in Kade’s surge;
+- Tahl Echo intervenes;
+- Echo saves/stops both Rex/Kade crisis;
+- Kade’s emotional nadir is the Rex attack;
+- Kade later chooses protection rather than destruction.
+
+Therefore the single compressed phrase “Kade nearly kills Elias” is now treated as:
+**LIKELY TRANSPOSED/COMPRESSED SUMMARY ERROR**, not an equal-authority alternate canon.
+
+Do not use it for reconstruction.
+
+# 14. Updated protected endgame causality
+
+## Recovered + author-restored core
+1. Elias has progressively manipulated Kade/Brightbreak through Loom.
+2. Kade reaches B09 with doubt/contradictions present but not yet fully free of Elias.
+3. Elisabet is operating with Rex/rear guard while mapping the live resonance ecology.
+4. Elisabet discovers something the forward Mending team must know.
+5. Elisabet leaves Rex to carry the warning forward.
+6. She reaches Caro and has a final intimate moment with her before Caro proceeds into the Mending.
+7. Elias exploits the rear-line situation and Kade’s distorted frame.
+8. Kade is tricked/manipulated into attacking Rex.
+9. Kade nearly kills Rex.
+10. Tahl Echo intervenes.
+11. The Echo does not mind-control Kade; it forces recognition/recalibration.
+12. Kade recognizes the falseness/fanaticism of Elias’s weaponized interpretation of Tahl.
+13. Kade rejects/shuns/breaks from Elias and Brightbreak fanaticism.
+14. Kade redirects his force toward **protecting and escalating the Mending**.
+15. Seraphine/Lucien/Caro complete the Mending.
+16. Breathable Veil forms.
+17. Only afterward does the saga enter the **Luminous Thread / LT** layer.
+
+## Important dramatic distinction
+Act II should not contain full “Kade realizes Brightbreak manipulation.”
+
+Use:
+**doubt / contradiction / fracture in Elias’s frame**
+
+Then Act III:
+**Rex near-kill + Tahl Echo = full recognition and choice.**
+
+# 15. Mending vs Luminous Thread terminology — now strongly separated
+
+Sanitized exports + Notion recovery agree on the broad sequence:
+**Mending → new membrane / Breathable Veil → post-Mending communication/cultural layer → LT handshake / Luminous Thread epilogue.**
+
+Therefore:
+- **Mending** = cosmological repair event.
+- **Breathable Veil** = resulting membrane/state.
+- **LT / Luminous Thread** = post-Mending channel/cultural/metaphysical succession layer whose exact taxonomy still needs reconciliation.
+- Do not name the Mending itself “Luminous Thread.”
+
+# 16. Source gap still open
+
+The missing artifact remains:
+**the detailed “Loom Book 9 — Act III Structural Canon v1” development conversation.**
+
+The File Library search confirms that the export corpus remembers its existence but is not currently surfacing the underlying detailed exchange.
+
+Until recovered:
+- use the current author ruling above as governing endgame causality;
+- preserve exact dialogue, attack mechanics, Echo visuals, warning content, and Caro/Elisabet goodbye wording as OPEN;
+- do not invent those details and label them recovered.
