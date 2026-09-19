@@ -112,11 +112,20 @@ flags, never decisions.
 
 ---
 
-## Note on the `TODO` fields above
+## Note on the `TODO` fields above — authoring DEFERRED
 
 The roughly 40 `Asks` / `Flags` / `Protects` fields left `TODO` in the board and
 consultant sections **are not recoverable**. Decisions §5.6 confirms they are not in
 Notion either — they were invented repo-side and need **authoring, not recovery**.
+
+**Ruled 2026-09-19: authoring is deferred until recovery and distillation are
+complete.** These fields stay `TODO` until then. They are not a gap to be closed
+opportunistically, and no session should fill them — including by inference from the
+board members' published work, which would put invented lens criteria into canon under
+real people's names.
+
+The validator does not flag them: they are prose placeholders in a markdown file, not
+schema values, so they carry no mechanical cost while they wait.
 
 The rest of this file matches the Notion Editorial & Publication Codex verbatim, as
 does `canon/codex_rules.md`, which carries its nine rules.

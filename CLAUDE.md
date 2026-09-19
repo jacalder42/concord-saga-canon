@@ -337,6 +337,10 @@ all wait on it. Item 1 is ruled (merge, §6.1) but not yet performed.
 8. Migrate E01–E15 packets
 9. Resolve the `canon/` vs `source_canon/` authority conflict (§1.1) and the Mechanica
    provenance question
+9a. **Deferred until recovery and distillation complete** (ruled 2026-09-19): author the
+   ~40 `Asks`/`Flags`/`Protects` fields in `canon/editorial_lenses.md`. Not recoverable
+   — decisions §5.6 confirms they were invented repo-side and are not in Notion. Do not
+   fill them before then, and never by inference from the board members' published work
 10. Resume episode construction at E19 — **author-gated, see §4**
 
 ---
