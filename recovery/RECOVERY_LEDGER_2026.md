@@ -3308,4 +3308,96 @@ END OF ENTRY 34
 
 ===============================================================
 
+===============================================================
+
+# 35. Gate rulings — step 3: the two-layer location structure built — 2026-09-19
+
+**Authority:** `recovery/GATE_RULINGS_2026-09-19.md` Ruling 1.
+
+**Status:** STRUCTURE BUILT / 31 PLACES RECORDED / CONTESTED GROUND UNASSIGNED /
+VALIDATOR 27 / 62
+
+**Artifacts:** `proposals/concord-2026/LOCATION_TWO_LAYER_STRUCTURE_2026-09-19.md` and
+`proposals/concord-2026/location_places_PROVISIONAL_2026-09-19.csv`.
+
+---
+
+## 1. The shape
+
+| | **Type layer** | **Name layer** |
+| --- | --- | --- |
+| Source | the geography system | the city bibles |
+| Holds | the controlled vocabulary | proper nouns for specific ground |
+| Membership | **ruled** | open |
+| `ENV` derives from | **this layer only** | never |
+
+The **shard progression** sits in neither. It is severity layering over places, and
+Ruling 1 forbids treating it as a spatial taxonomy.
+
+## 2. The type layer — ten members plus one holding token
+
+Five Neon Zone types (`ZONE_BLUE_PULSE`, `ZONE_AMBER_DRIFT`, `ZONE_VIOLET_BLOOM`,
+`ZONE_RED_FLARE`, `ZONE_SILVER_STATIC`), four Loom Corridor classes
+(`CORR_HUMANITARIAN`, `CORR_CONCORD`, `CORR_RUPTURE`, `CORR_GHOSTLINE`), and `NODE_ECHO`.
+
+Plus **`CORR_UNCLASSED`** — bookkeeping, not a class. **Nine of the eleven recovered Loom
+corridors are named without a stated class**, and this token lets them be recorded without
+inventing which of the four they belong to. That is a real gap in the sources, not a gap
+in the structure.
+
+**Token spellings are mechanical, not ruled.** The geography system supplies names; a CSV
+field needs codes. Derived by fixed rule — group prefix plus the source's own colour or
+class word — and no token carries meaning the source did not state. Changing them later
+is a find-and-replace across two `proposals/` files and one `rules/` key.
+
+## 3. The name layer — 31 places, four statuses
+
+| Status | Count |
+| --- | --- |
+| `PROVISIONAL` | 17 |
+| `UNASSIGNED_NO_TYPE_IN_SOURCE` | 8 |
+| `CONTESTED_UNASSIGNED` | 5 |
+| `PENDING_GEOMETRY_TEST` | 1 |
+
+**Every non-`PROVISIONAL` row has an empty `mapped_type`**, asserted by a check rather
+than by inspection. Contested ground is *unassigned*, never *provisionally assigned* —
+which is the instruction, and the distinction that matters for step 4.
+
+**Five contested, not four.** The ruling names Tremé, Marigny, the French Quarter and
+Bywater. **`Red Lantern Faultline`** is added: it is the NOLA bible's name for
+Tremé → Esplanade → Marigny, so it inherits their status. A name cannot be mapped while
+the ground it covers is unmapped.
+
+**`Blue Pulse Corridor` is held.** Its recovered extent — Convention Center → Riverwalk →
+French Quarter — **reads as linear**, which would pass Ruling 2's geometry test, but it
+terminates in contested ground and the ruling places the question in the vetting pass.
+Recorded as pending. **Not answered.**
+
+## 4. Two things the structure resolved on its own
+
+**The Warehouse District.** §30 recorded it as the near-miss — "agrees in colour, differs
+in term". Under two layers there is no disagreement: `ZONE_VIOLET_BLOOM` is the type,
+"Violet Spiral" is the name, and the ground is the Warehouse District. One place.
+
+**Bywater's second source evaporated.** §30 read it as a two-source disagreement between
+`Amber Drift` and the NOLA bible's "Flickers → Ghostwaves". Under Ruling 1 the latter is
+**shard progression, not a type**, so it was never a competing assignment. Bywater is
+contested on the geography system's assignment alone — which is why the ruling names it
+even though only one type was ever proposed for it.
+
+## 5. Scope held
+
+The ruling's scope note said the zone-type vocabulary lives in five files, all under
+`recovery/` and `proposals/`, with **none in the canon substrate**. This step adds a sixth
+and seventh, both under `proposals/`. **Nothing was written to `canon/`, `rules/`,
+`grids/`, `book_context/` or `act_overlays/` by this step.**
+
+## 6. Validator
+
+`27 / 62` before and after.
+
+END OF ENTRY 35
+
+===============================================================
+
 END RECOVERY LEDGER
