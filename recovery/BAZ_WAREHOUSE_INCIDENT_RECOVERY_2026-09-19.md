@@ -106,3 +106,52 @@ Search later December 2025 source material and sanitized exports for Warehouse I
 Priority: find a post-November revision introducing the remembered antagonist intervention while preserving the Warehouse/child-rescue core.
 
 END — BAZ WAREHOUSE INCIDENT RECOVERY
+
+
+## Post-November search result — 2026-09-19
+
+A targeted search of later Notion/December memory material and the current GitHub/sanitized-export index did **not** recover a later explicit scene stating which antagonist intervenes at the Warehouse Incident.
+
+### What the later-source search clarified
+
+1. The December 2025 compressed memory preserves Baz as a Tier-1 character but does not preserve Warehouse mechanics.
+2. The later recovered Saga Structural Archive shifts B03 Act III emphasis toward node instability, Santa Fe convergence, institutional secrecy, Tahl's first/only Veil VT brush, and the Veil→Neon bridge.
+3. This later compression appears to be why the Warehouse Incident disappeared from the current nine-book macro even though November source canon repeatedly treats the Warehouse District as Baz's canonical death site.
+4. No current GitHub Tier-1 file contains the Warehouse Incident by name.
+5. Therefore absence from current GitHub is **not evidence the Warehouse Incident was deliberately deleted**; it is consistent with information loss during structural compression/migration.
+
+### Antagonist evidence around the incident
+
+Historical B03 sources place:
+- Dominion Enforcer Caldas Ren at the warehouse-zone perimeter;
+- Technarc retrieval agents attempting to secure warehouse evidence;
+- Technarc agents trying to seize Tahl's research;
+- Virelli increasing Dominion pressure around Lucien;
+- Han Wei monitoring Tahl and preparing Protocol 9.
+
+However, the same source layer explicitly labels these antagonist-adjacent presences as **shadow-level foreshadowing, not front-line villains**.
+
+This makes a direct “named villain kills Baz” reading less likely in the November version.
+
+### Reconciliation hypothesis — NOT CANON
+
+The author's remembered “antagonist intervenes” is compatible with a later revision in which institutional interference turns an already-dangerous resonance investigation into a fatal rescue situation.
+
+The strongest architecture-compatible possibilities are:
+- evidence seizure/containment prevents a clean evacuation;
+- an institutional retrieval action escalates or delays response;
+- suppression of Tahl/Baz's investigation leaves civilians exposed;
+- a field operative interferes without being the metaphysical cause of the Rupture.
+
+These are **hypotheses only**. Do not promote one without a recovered source or new author ruling.
+
+### Current forensic conclusion
+
+The Warehouse Incident itself, Baz's child rescue, Tahl's reporting function, and Lucien's guilt are sufficiently corroborated to restore to the structural recovery layer.
+
+The antagonist-intervention mechanism remains the only major missing causal component.
+
+The current structural reconciliation should therefore preserve this blank explicitly:
+
+**Baz investigates Warehouse resonance event → institutional/antagonist interference [MECHANISM UNRECOVERED] → Rupture/collapse → civilians trapped → Baz saves child → Baz dies → Tahl reports → cast learns at B04 opening → Lucien internalizes “I brought him here.”**
+
