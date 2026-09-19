@@ -525,4 +525,192 @@ A significant portion of the narrative was already decided at a level below the 
 
 Those details should be recovered **before** the current reconciliation branch is treated as promotion-ready.
 
+
+# 10. Antagonist causal architecture audit
+
+## ND-020 — Antagonism is systemic first; Elias is a later human exploit, not the hidden cause of the saga
+
+**Classification:** PRESENT / IMPORTANT INTERPRETIVE LOCK  
+**Sources:** Notion Antagonist Architecture Bible; current GitHub Elias/Brightbreak canon; Loom Final Canon backup
+
+The older antagonist architecture explicitly rejects a singular evil source. Systems fail and people panic; antagonism emerges from fear, grief, institutional arrogance, emotional overload, and brittle systems.
+
+Elias/Brightbreak does not appear in that older architecture. Current canon introduces Elias as a later Loom-era narrative predator who exploits conditions already created by collapse.
+
+**Recovered causal rule:** Dominion/Technarc failures + civic trauma + resonance collapse create the wound. Choirless and splinter movements express or radicalize the wound. Elias/Brightbreak later exploit the wound. Elias does not secretly cause Veil/Neon.
+
+## ND-021 — Brightbreak is three distinct things: Elias, handle, movement
+
+**Classification:** PRESENT / CANON-CRITICAL  
+**Source:** canon/factions/Brightbreak.md
+
+Current canon locks:
+1. Elias = human person/narrative predator.
+2. “Brightbreak” = late-Neon online handle.
+3. Brightbreak = post-Tahl decentralized movement.
+
+The movement is larger than Elias. He learns to steer it but does not formally command it.
+
+## ND-022 — Elias wants Kade's authorization, not obedience
+
+**Classification:** PRESENT / HIGH-CONFIDENCE  
+**Sources:** EliasID.md, EliasEBCI.md, Brightbreak.md, Loom Final Canon backup
+
+Elias identifies Kade as visible, grieving, morally urgent, volatile, and globally legible. His objective is not to recruit Kade as a subordinate. He wants **Kade as proof**.
+
+Mechanism: validate fear; keep grief active; frame hesitation as betrayal; compress time; narrow perceived choices; encourage speech/action before processing; let Brightbreak distribute the result.
+
+## ND-023 — Elias/Brightbreak escalation is a three-book causal chain
+
+**Classification:** PRESENT BUT COMPRESSED
+
+**B07:** post-funeral vacuum; Elias moves unseen; Brightbreak seeds; Kade's visibility and grief provide leverage.
+
+**B08:** Brightbreak rhetoric sharpens; Kade misinterprets resonance/collapse through increasingly certain narrative frames; he becomes an unwilling beacon.
+
+**B09:** Kade reaches Brightbreak zenith, recognizes manipulation too late to avoid crisis, nearly kills Elias; Rex intervenes; Kade snaps; Tahl echo interrupts the collapse.
+
+This is not a sudden B09 turn. It is a deliberately staged capture attempt across Loom.
+
+## ND-024 — Tahl's echo defeats Brightbreak thematically by restoring grief without certainty
+
+**Classification:** PRESENT / CAUSAL PURPOSE RECOVERED
+
+Brightbreak fails when grief is witnessed rather than redirected and uncertainty is survived rather than replaced by a simple story.
+
+Tahl's echo flare is therefore not merely an interruption. Its narrative function is to restore Kade's moral relationship to Tahl and break Elias's certainty frame.
+
+**Constraint:** the Echo must not mind-control Kade, solve the conflict by power, or act as resurrected Tahl. Kade's choice remains human.
+
+## ND-025 — Choirless is not Brightbreak
+
+**Classification:** PRESENT / DISTINCTION NEEDS PROTECTION
+
+Choirless response to trauma:
+- eliminate feeling;
+- make silence/calm synonymous with mercy;
+- treat empathy/expression as contagion.
+
+Brightbreak response to trauma:
+- supply certainty;
+- turn ambiguity into story;
+- redirect grief toward purpose and authorization.
+
+Brightbreak can parasitize Choirless wounds, but their solutions differ:
+- Choirless: **feel less**.
+- Brightbreak: **believe more certainly**.
+
+Their B09 collision represents competing human responses to collapse, not interchangeable enemy mobs.
+
+## ND-026 — Choirless originates in Neon; Loom is mutation/escalation
+
+**Classification:** PRESENT / CHRONOLOGY LOCK
+
+Choirless emerges after large-scale Neon disasters and institutional failure. By Loom, its doctrine fragments, mutates, and is reused by panic regimes.
+
+This supports “Choirless escalation” in Loom but prevents accidental late introduction.
+
+## ND-027 — Manufactured Metas are evidence of institutional failure, not independent villains
+
+**Classification:** PRESENT / HIGH-CONFIDENCE
+
+Causal chain: institutional fear → attempt to engineer resonance without emotional agency/Intent → field deployment → unstable failure → public terror → further institutional overreach.
+
+They cannot develop Intent, ascend, become a coherent faction/culture, or become the hidden cause of collapse.
+
+## ND-028 — Han Wei acts through authorization; direct-villain scenes are drift
+
+**Classification:** PRESENT / USAGE LOCK
+
+Han Wei's pressure vectors are abstraction, prediction, authorization, and delegation. He is most dangerous one step removed.
+
+He should not become physically threatening, impulsive, a direct action antagonist, or a personal duelist with protagonists.
+
+## ND-029 — Older Protocol 9 / Han Wei / Virelli / Saeko sequence is useful Neon causal evidence but not yet source-reconciled Final Canon
+
+**Classification:** RECOVERED DEVELOPMENT CANON / PROVENANCE GAP
+
+Older detailed sequence:
+- B04: Protocol 9 monitoring, manufactured-meta public failure, anti-resonance populism, Dominion pressure, Filament fracture, Riot of Light.
+- B05: checkpoints, meta field test failure, Virelli hybrid containment, Filament raid/splintering, Tahl targeted for preventive detention.
+- B06: mandatory resonance testing + “cleansing operations” as civic collapse accelerates.
+
+The broad causal architecture agrees strongly with current Tier-1 antagonist canon. Do not yet lock exact named operations, episode placement, slogans, or named Riot events solely from these Notion pages.
+
+## ND-030 — Tahl's death is systemic consequence, not knowingly chosen sacrifice
+
+**Classification:** CONFLICT RESOLVED BY CURRENT TIER-1
+
+Older B06 material frames Tahl's death as a heroic civilian-saving run in NOLA and gives repeated VT brushes.
+
+Current canon instead locks:
+- death at Santa Fe rupture, B06;
+- VT contact occurs late and is fatal;
+- he cannot survive prolonged VT exposure;
+- death is not punishment, destiny, or sacrifice knowingly chosen;
+- it is systemic consequence.
+
+**Recovered narrative purpose:** Tahl is the mortal ceiling of truth. His death demonstrates that clarity alone cannot survive unlimited systemic pressure.
+
+## ND-031 — Baz's B04 death remains causally under-recovered
+
+**Classification:** MISSING CAUSAL SOURCE
+
+Current recovery establishes:
+- Baz survives B03;
+- Baz dies in B04;
+- Lucien spirals afterward;
+- exact killer/method/motive/location have not been recovered.
+
+The older B03 Warehouse death is obsolete.
+
+**Critical warning:** do not assign Baz's death to Elias, Brightbreak, Choirless, Han Wei, Virelli, a manufactured meta, or generic resonance collapse without source evidence.
+
+## ND-032 — Kade's old “nearly kills Rex” version is superseded
+
+**Classification:** SUPERSEDED
+
+Older antagonist bible: Kade nearly kills Rex; Tahl Echo halts him; Kade chooses to protect Rex.
+
+Later Final Loom structure: Kade nearly kills **Elias**; **Rex intervenes**; Kade snaps; Tahl Echo flare stops the collapse.
+
+The later sequence is protected.
+
+## ND-033 — Loom antagonist architecture evolved after the older “world itself collapsing” model
+
+**Classification:** SOURCE EVOLUTION
+
+Older Loom Antagonist Map says primary pressure is environmental/civic collapse, with weak Dominion/Technarc remnants and volatile splinters.
+
+Later canon adds Elias/Brightbreak, Choirless escalation, and Kade manipulation.
+
+Best reconciliation: **environmental collapse remains the substrate; later human antagonists exploit and shape behavior inside it.**
+
+# 11. Recovered antagonist causal chain
+
+**Veil:** institutions hide/contain instability → trust erodes.  
+↓  
+**Early Neon:** resonance failures become public → Technarc/Dominion intensify control → manufactured metas and suppression visibly fail → civic fear/polarization grows.  
+↓  
+**Mid/Late Neon:** trauma + institutional failure produce Choirless logic and Filament splintering; Tahl's truth work creates pressure because institutions retaliate and frightened publics polarize.  
+↓  
+**B06:** systemic pressure exceeds Tahl's mortal limits at Santa Fe; fatal VT contact kills him.  
+↓  
+**B07:** Tahl's absence creates a truth/meaning vacuum; Kade inherits audience without Tahl's restraint; Elias identifies the opening; Brightbreak seeds.  
+↓  
+**B08:** certainty rhetoric reframes Kade's grief and misreadings; Choirless escalates independently; collapse routes everyone toward Honey Island.  
+↓  
+**B09:** Brightbreak and Choirless collide; Elias pushes Kade toward irreversible violence; Kade nearly kills Elias; Rex interrupts; Tahl echo restores the moral relationship beneath the manipulated story; Kade breaks from capture; Mending proceeds while the human antagonist architectures lose their substrate.
+
+The missing link is **Baz's B04 death causality**, plus exact Neon event provenance.
+
+# 12. Updated forensic priorities
+
+1. Recover **Baz B04 death** source: mechanism, responsible party if any, location, and whether targeted or collateral.
+2. Recover exact **Neon B04–B06 Final Canon** source/provenance.
+3. Search for the source where **Elias/Brightbreak was introduced and approved**.
+4. Recover **Choirless named causal beats** across B04–B09, especially their route into Honey Island.
+5. Recover **node-route causality**: why NOLA → Santa Fe → Mound City → Serpent Mound → Honey Island is narratively necessary rather than merely itinerary.
+6. Then audit remaining **book-specific locked anchors/breadcrumbs** before filling 27 act overlays.
+
 END NARRATIVE DECISION LEDGER
