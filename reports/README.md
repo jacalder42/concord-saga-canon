@@ -17,12 +17,13 @@ Two reports, because scope changes the answer.
 | Report | Scope | Files | Violations |
 | --- | --- | --- | --- |
 | `VALIDATION_BASELINE_2026-09-19.md` | canon substrate | 190 | 27 |
-| `VALIDATION_BASELINE_ALL_2026-09-19.md` | everything, incl. `recovery/`, `proposals/`, `CLAUDE.md` | 224 | 52 |
+| `VALIDATION_BASELINE_ALL_2026-09-19.md` | everything, incl. `recovery/`, `proposals/`, `CLAUDE.md` | 243 | 61 |
 
-The `--all` figure rose from 196/45 because the proposal branch merged into the working
-branch, bringing 28 more files and 7 more quoted one-digit SIDs. The substrate figure is
-unchanged, which is the point: **the banded envelopes and the 27 new
-`escalation_permissions` blocks added zero violations.**
+The `--all` figure rose from 196/45 to 224/52 when the proposal branch merged into the
+working branch, and again to 243/61 when the parallel narrative-recovery session added
+its ten documents. **The substrate figure has not moved from 27 through any of it**,
+which is the point: the banded envelopes, the 27 `escalation_permissions` blocks and
+2,800 lines of narrative recovery added zero substrate violations.
 
 ### What the rulings changed in the checker
 
@@ -64,17 +65,28 @@ tokens.** That is not a claim that the project is clean; it is a consequence of 
 grids being header-only and the migration not having started. The violations arrive
 with the migration.
 
-### What the extra 18 violations under `--all` are
+### What the extra 34 violations under `--all` are
 
-All 18 are `CHK_SID_FORMAT`, all one-digit book numbers (`B1`, `B3` where the format
-requires `B01`, `B03`), across four files — `CLAUDE.md`, the recovery ledger, the ECID
-memo, and now `recovery/CANON_DECISIONS_2026-09-18.md` itself, which quotes recovered
-SIDs in its §1.5 migration mapping.
+All 34 are `CHK_SID_FORMAT`, across 12 files. Thirty-two are one-digit book numbers
+(`B1`, `B3` where the format requires `B01`, `B03`), in `CLAUDE.md`, the recovery ledger,
+the ECID memo, `recovery/CANON_DECISIONS_2026-09-18.md`, the envelope question, the
+2026-09-19 recovery bundles, the 2026-09-15 checkpoint, two proposals and the two
+milestone load CSVs.
 
-**Every one is an intentional quotation.** These files document the one-digit form in
-order to rule against it — `CLAUDE.md` §3 quotes it as the wrong form, and the ledger
-and memo quote the recovered SIDs verbatim as evidence. Rewriting them would destroy
-the evidence they exist to preserve.
+Two are a different shape: `S1.T3.B09.A4.E16` in `recovery/NOTION_RECOVERY_2026-09-19.md`
+and in the ledger, flagged `A4 out of range 1..3`. Those quote the Book 9 Final Beat
+Bible's "ACT IV", which **ledger §25 ruled is the epilogue, not a fourth act** — so they
+are now quotations of a ruled-out form, exactly like the one-digit SIDs.
+
+**Every one of the 34 is an intentional quotation.** These files document the wrong forms
+in order to rule against them — `CLAUDE.md` §3 quotes the one-digit book as the wrong
+form, and the ledgers and memos quote recovered SIDs verbatim as evidence. Rewriting them
+would destroy the evidence they exist to preserve.
+
+The two milestone CSVs deserve a note, because they are staged for `grids/` rather than
+for the record: their hits are in the free-text `notes` column citing a recovered packet
+(`Recovered packet S1.T1.B3.A3.E14`). Their **structured** columns are correct —
+`target_book` reads `B03`, `B08`, `B09`. Loading them will not import a malformed SID.
 
 This is why `recovery/`, `proposals/` and `CLAUDE.md` sit outside the default scope. A
 checker that flags a memo for quoting the error it documents is reporting noise. The

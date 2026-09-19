@@ -195,11 +195,35 @@ Never decide, invent, or quietly resolve:
   ruling too. **Still blocks the milestone load**, five of whose rows use
   `target_act: EP`. Two follow-ups ride on it: whether Book 9's epilogue is three or
   four episodes, and whether epilogue episodes restart at `E01`. Ledger §24 and §25.
-- **Which Veil draft is canon.** Open, and the largest item. Notion and the exports
-  disagree on whether Baz dies in Book 3, whether Tahl and Caro appear in Books 1–2,
-  whether the Caro–Elisabet romance exists in Veil, and whether Veil points at Santa Fe.
-  Migrating any Veil act overlay writes one of two stories into canon.
-  `recovery/VEIL_STRUCTURE_2026-09-19.md` part 1.
+- **Which Veil draft is canon.** Still open, but **narrowed 2026-09-19** by the parallel
+  narrative-recovery session — ledger §26.9. Of the four sub-questions:
+  - *Does Baz die in Book 3?* **Ruled** — end of B03; the cast learns at the start of
+    B04. `recovery/BAZ_DEATH_TIMING_RULING_2026-09-19.md`.
+  - *Do Tahl and Caro appear in Books 1–2?* **Ruled for Tahl** — not a primary
+    character in B01–B03, and may not be named before the B03 epilogue.
+    `proposals/concord-2026/B03_B04_HANDOFF_RECONCILIATION_2026-09-19.md`. **Caro is
+    not addressed and stays open.**
+  - *Does the Caro–Elisabet romance exist in Veil?* **High-confidence recovered, not
+    ruled** — "Veil seeds attraction",
+    `proposals/concord-2026/ROMANCE_RELATIONSHIP_RECONCILIATION_2026-09-19.md` §2,
+    which is marked NON-CANONICAL. Needs promotion.
+  - *Does Veil point at Santa Fe?* **Untouched.**
+
+  Migrating any Veil act overlay still writes one of two stories into canon on the parts
+  that remain. `recovery/VEIL_STRUCTURE_2026-09-19.md` part 1.
+- **Four author locks live only in proposal documents**, unmigrated and unqueued: the Baz
+  death timing, the `Bastien "Baz" Arnaud` identity name, Tahl's B01–B03 absence, and the
+  **VT contact escalation ladder** `B01 NOTICE → B02 BRUSH → B03 PUNCTURE → B04–05
+  EDGE/RECURRENCE → B06 SLIP → LOOM ECHO`. The ladder has **no field anywhere in the
+  schema** and retires the wording of three existing artifacts, including the
+  `S1.T1.B03.A3.E14` band exception in `act_overlays/act_overlay_S1_T1_B03_A3.json`. Its
+  own source says not to touch Tier-1 rules until the recovery phase ends, so it is held.
+  Ledger §26.6.
+- **Which Book 9 epilogue is canon.** Open, and new. The Loom Final Canon backup gives
+  five beats (ND-015); the Notion Final Beat Bible gives six (`VEIL_STRUCTURE` part 4 §4).
+  They share only the Kade-posts beat, and disagree on whether his first post-Mending
+  message is `MT` or `LT`. **This must be settled before** the three-or-four-episode
+  question §25 left open. Ledger §26.8.
 - **E19 and beyond.** E19 is named but never built. Do not generate, draft, or outline
   it. The prohibition stands until James lifts it.
 

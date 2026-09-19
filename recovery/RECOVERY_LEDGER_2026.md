@@ -1796,4 +1796,265 @@ END OF ENTRY 25
 
 ===============================================================
 
+===============================================================
+
+# 26. Review of the parallel narrative-recovery session — 2026-09-19
+
+**Scope:** the 26 commits from `0332711` to `b139678`, which produced ten new documents
+and about 2,800 lines of narrative recovery from the sanitized exports and Notion.
+
+**Status:** REVIEWED / NOTHING APPLIED / NINE FINDINGS RECORDED
+
+---
+
+## 1. What the session produced
+
+| Document | Lines | Home |
+| --- | --- | --- |
+| `NARRATIVE_DECISION_LEDGER_SOURCE_AUDIT_2026-09-19.md` | ND-001..ND-033 | `proposals/` |
+| `NARRATIVE_DECISION_LEDGER_PASS2_CHARACTERS_RELATIONSHIPS_ANTAGONISTS_2026-09-19.md` | ND-020..ND-038 | `proposals/` |
+| `NARRATIVE_DECISION_LEDGER_PASS3_NOTION_CANON_RECOVERY_2026-09-19.md` | ND-039..ND-045 | `proposals/` |
+| `B03_B04_HANDOFF_RECONCILIATION_2026-09-19.md` | 24 numbered sections | `proposals/` |
+| `ROMANCE_RELATIONSHIP_RECONCILIATION_2026-09-19.md` | 15 sections | `proposals/` |
+| `NEON_B04_B06_SOURCE_RECONCILIATION_2026-09-19.md` | — | `proposals/` |
+| `VEIL_MT_THREADNAUT_BREADCRUMB_GRID_2026-09-19.md` | MT-01..MT-14 + EP-A..EP-G | `proposals/` |
+| `BAZ_WAREHOUSE_INCIDENT_RECOVERY_2026-09-19.md` | 291 | `recovery/` |
+| `BAZ_DEATH_TIMING_RULING_2026-09-19.md` | 36 | `recovery/` |
+| `TRIP_VELVET_VEIN_RECOVERY_2026-09-19.md` | 272 | `recovery/` |
+| `LACUNA_RECOVERY_SOURCE_AUDIT_2026-09-19.md` | 291 | `recovery/` |
+| `REX_TAN_RECOVERY_SOURCE_AUDIT_2026-09-19.md` | 264 | `recovery/` |
+
+ND-001 through ND-045 are continuous with no gaps. Every Tier-1 file the audits cite
+was checked and exists (`TripID`, `TripEBCI`, `trip_pov`, `RexID`, `LacunaID`).
+
+## 2. The discipline held — this is the headline
+
+**The session touched no substrate file.** Verified with `git log` per path: `grids/`,
+`act_overlays/`, `book_context/`, `canon/` and `rules/` have zero commits from it. The
+only substrate commit in the range is `1effb59`, which is this session's VeilThread
+application.
+
+Every document carries a status line, and they are honest ones — `PROPOSAL / RECOVERY —
+NONCANONICAL UNTIL AUTHOR PROMOTION`, `do not treat unresolved items as new canon`,
+`These are hypotheses only. Do not promote one without a recovered source or new author
+ruling.` Author locks are labelled as such and separated from reconstruction candidates:
+`B03_B04_HANDOFF` §14 explicitly says an author proposal *"remains an excellent
+reconstruction candidate, but needs a direct source or explicit author lock before being
+treated as recovered historical canon."* The MT breadcrumb grid contains beat functions
+and prohibitions, never scene text, so `CLAUDE.md` §1's no-prose rule holds.
+
+That is the working agreement doing its job. The findings below are about bookkeeping and
+collisions, not about a session that overstepped.
+
+## 3. Finding 1 — none of it is in this ledger
+
+Every ledger commit in the range is this session's. Searching the ledger for
+`BAZ_DEATH_TIMING`, `BAZ_WAREHOUSE`, `LACUNA`, `REX_TAN`, `TRIP_VELVET`,
+`NARRATIVE_DECISION_LEDGER`, `ROMANCE_RELATIONSHIP`, `NEON_B04_B06`, `THREADNAUT` and
+`PUNCTURE` returns zero hits. The one `B03_B04_HANDOFF` hit is §24's retraction citing it.
+
+So **four author locks exist only inside proposal documents**:
+
+1. Baz dies at the end of B03; the cast learns at the start of B04
+   (`BAZ_DEATH_TIMING_RULING_2026-09-19.md`)
+2. Bastien "Baz" Arnaud is the current canon identity name
+   (`B03_B04_HANDOFF` §"AUTHOR LOCK — Baz identity name")
+3. Tahl is not a primary character in B01–B03 and may not be named before the B03
+   epilogue (`B03_B04_HANDOFF` §"Governing current author rulings" item 5)
+4. The VT contact escalation ladder (`B03_B04_HANDOFF` §24)
+
+`CLAUDE.md` §9 says a change to canon state that leaves the ledger stale is half-finished
+work. This entry is the ledger catching up; it does not apply any of the four.
+
+## 4. Finding 2 — a THIRD A–E authority lettering is now in use
+
+`CLAUDE.md` §5 says **one scheme only**, and already records one retired competitor in
+`recovery/checkpoints/RECOVERY_STATE_CHECKPOINT_2026-09-15.md`. A third has appeared at
+`NARRATIVE_DECISION_LEDGER_SOURCE_AUDIT_2026-09-19.md` §1 and is stamped on 16 ND items
+(`**Authority:** B` ×14, `B/C` ×1, `A/C only where user selection is clear` ×1).
+
+| Letter | `CLAUDE.md` §5 tier | SOURCE_AUDIT §1 authority |
+| --- | --- | --- |
+| A | Explicit locked source canon | Explicit author locks in the source conversation |
+| B | Explicitly approved development outputs | **Purpose-built backup/archive chats** populated by the user |
+| C | Existing GitHub canon | **Approved development outputs** |
+| D | Other sources — Notion, drafts, anything recovered | **Later recovery/reconciliation summaries** |
+| E | Memory | Memory summaries / recollection |
+
+A and E roughly align. **B, C and D each mean something different in the two schemes**, so
+a reader carrying one scheme into the other misreads every stamp — `Authority: B` reads as
+"approved development output" under §5 and as "archive chat" under the audit.
+
+**Not converted, and conversion is not mechanical.** The audit's B ("purpose-built
+archive chats the user explicitly defined as canonical storage, excluded exploration from,
+and pasted retained material into") has no §5 equivalent: under §5 those exports are
+tier D, which is exactly the distinction the audit was built to preserve. Converting would
+destroy information. Recorded as a question for James (§9 below) rather than resolved here,
+per `CLAUDE.md` §4.
+
+## 5. Finding 3 — the classification vocabulary drifted, the same way `MODE` did
+
+SOURCE_AUDIT §2 declares six labels: `PRESENT`, `COMPRESSED`, `MISSING`, `CONFLICT`,
+`SUPERSEDED`, `UNCERTAIN`.
+
+Across the three ledger passes there are **58 `Classification:` stamps using 37 distinct
+values**, of which **3** are exactly one of the declared six. The rest are compounds and
+inventions: `PRESENT / CONFLICT WATCH`, `PRESENT, but under-protected`,
+`SOURCE RECOVERED / HIGH VALUE`, `CONFLICT RESOLVED BY CURRENT TIER-1`,
+`PROCESS DECISION`, `MISSING SOURCE / PROVENANCE GAP`, and thirty more. Several differ
+only by trailing whitespace.
+
+This is the `LORE`/`POL`-into-`MODE` failure again (§13, decisions §4.1): a vocabulary
+with no room for a needed distinction grows compounds instead of a new axis. The
+compounds are pairing a *state* (`PRESENT`, `MISSING`) with a *disposition*
+(`CONFLICT WATCH`, `DO NOT PROMOTE`, `HIGH VALUE`). That reads as two axes, not one —
+but naming them is an author call, not a cleanup.
+
+## 6. Finding 4 — the VT ladder is locked, and three artifacts now contradict it
+
+`B03_B04_HANDOFF` §24 records an author lock:
+
+> **B01 NOTICE → B02 BRUSH → B03 PUNCTURE → B04–B05 EDGE / RECURRENCE → B06 SLIP → LOOM ECHO**
+
+**It has no home in the schema.** `rules/canon_rules.json` has no VT-contact axis, no such
+`controlled_vocab` list, and `grids/episode_beats.csv` has no column for it. This is the
+`STRAIN`/`LOAD` shape exactly (§13, decisions §1.4): a real distinction with no field to
+carry it. Note also that decisions §1.2 disposed of `BRUSH` and `EDGE` as *"not states —
+the operative token is `VT`"*; that ruling was about `res_states` and stands, but both
+tokens are now formal event classes on a different axis, so the disposal no longer
+disposes of them.
+
+**Three existing artifacts describe the B03 event in terms the ladder retires:**
+
+| Artifact | Says | Under the ladder |
+| --- | --- | --- |
+| `act_overlays/act_overlay_S1_T1_B03_A3.json`, exception `reason` | "First and only VT brush in the Veil trilogy" at `S1.T1.B03.A3.E14` | that event is a **PUNCTURE**; the brush is in B02 |
+| ND-004, "The Veil trilogy contains exactly one VT brush" | recommends preserving the trilogy-wide exclusion rule | the exclusion still holds for *brushes*, but B02 now carries one, so "first" moves |
+| `milestones_payoffs_PROPOSED_LOAD_v2` row `M09` | "The chronicler's VT **slip**" at `B03.A3.E14` | the ladder explicitly says *"Do not call the B03 epilogue a slip"*; `SLIP` is reserved for B06 |
+
+There is also a **placement** tension: the ladder puts the PUNCTURE in the B03 epilogue,
+while the recovered packet anchors the event at `A3.E14`, mid-Act-III.
+
+**Nothing changed.** The overlay `reason` is substrate and quotes its source verbatim, and
+the ladder proposal itself instructs: *"If author locks this ladder, update Channel/VT and
+Mechanica only after the broader recovery phase. Do not modify Tier-1 rules during forensic
+reconstruction."* Held on that instruction.
+
+## 7. Finding 5 — three records disagree about who performs the Mending
+
+| Record | State |
+| --- | --- |
+| `CLAUDE.md` §4 | **Open.** "the export passage is an audit of that event and does not name them" |
+| This ledger §24 | **Resolved.** `B09.A3.E14` carries the trio act *and* "Silence dissolves into Lucien. Hope dissolves into Caro"; both lines were right |
+| ND-013 | **CONFLICT WATCH.** "This remains an unresolved fork and must not be silently merged into the structural event" |
+
+ND-013's authority is `B/C` and it predates the Notion bundle that produced §24's reading,
+so the likely history is that §24 supersedes it. **But that is an inference, not a record**,
+and §24's "resolved" was written by this session without ND-013 in view. All three states
+are left standing and flagged. At minimum `CLAUDE.md` §4 and ND-013 need to be reconciled
+with §24, and if §24 overreached it needs withdrawing — that is question 1 in §9.
+
+## 8. Finding 6 — there are two different Book 9 epilogues, and §25 only saw one
+
+§25 recorded the Book 9 three-act ruling and left open "whether Book 9's epilogue is three
+or four episodes", citing `VEIL_STRUCTURE` part 4 §4, which compresses the Notion Final
+Beat Bible's six Act IV beats (E16 Seraphine · E17 Lucien · E18 Caro · E19 Elisabet ·
+E20 Kade posts the first LT message · E21 Tahl's Echo).
+
+**ND-015 gives a different epilogue from a different source** — the Loom Final Canon
+backup, authority B:
+
+1. Elisabet/Rex ↔ Kade/Lacuna holochat
+2. Kade writes the first post-Mending **MT** message
+3. Lacuna presses "post"
+4. stars "twinkling in conversation"
+5. **LT** handshake invitation using Tahl's triangle
+
+Five beats, not six. Only the Kade-posts beat clearly overlaps, and even there the two
+sources disagree on whether the first post is MT or LT — which touches the `MT becomes LT`
+rename recorded at §24. The Notion version's three ascension codas and Tahl's farewell are
+absent; the holochat, Lacuna pressing post, and the triangle handshake are absent from
+Notion.
+
+So the epilogue-length question is **not** "three or four" — it is an exports-versus-Notion
+fork of the same shape as the Veil two-draft problem, and it must be resolved before the
+length is chosen. §25 is amended by this entry rather than rewritten, since its own text is
+accurate about what it had read.
+
+## 9. Finding 7 — `CLAUDE.md` §4's Veil two-draft item is stale
+
+§4 lists four sub-questions under "Which Veil draft is canon". Three now have author
+rulings recorded in the new documents:
+
+| §4 sub-question | State after this session |
+| --- | --- |
+| whether Baz dies in Book 3 | **Ruled** — end of B03, cast learns at start of B04 |
+| whether Tahl and Caro appear in Books 1–2 | **Ruled for Tahl** — not a primary character in B01–B03, not named before the B03 epilogue. Caro not addressed |
+| whether the Caro–Elisabet romance exists in Veil | **High-confidence recovered, not ruled** — "Veil seeds attraction", `ROMANCE_RELATIONSHIP` §2, marked NON-CANONICAL |
+| whether Veil points at Santa Fe | **Untouched** |
+
+`CLAUDE.md` still tells the next session all four are wide open. It is corrected in the
+same commit as this entry, marking each sub-question with its actual state and keeping the
+item open on the two that remain.
+
+## 10. Smaller findings
+
+**`Technarch` re-entered.** The retired spelling is back in 5 `proposals/` documents and
+18 non-quotation uses in `REX_TAN_RECOVERY_SOURCE_AUDIT`. `Technarc` is canonical
+(decisions §6.4, §16.1) and faction naming is canon, so this is a ruled correction rather
+than a decision; applied in a separate commit, preserving the two genuine quotations in
+the Rex audit (`"Technarch-adjacent; logistics-focused, skeptical but decent"` and the
+gloss of that phrase) because they are evidence.
+
+**`Threadnaut` has 84 references and no canon file.** It appears 68 times in `proposals/`
+and 16 in `recovery/`, and **zero times** in `canon/`, `rules/` or `grids/`. It is now
+load-bearing: the B03 epilogue reveal architecture and a whole 21-beat breadcrumb grid
+depend on it. This is the same shape as work-queue item 9b (Silence and Hope): a
+structurally essential entity with no Tier-1 file. Proposed as a queue item, not added
+unilaterally — question 3 in §11.
+
+**The MT breadcrumb grid asserts an open question as a governing lock.** Its §"Governing
+locks" reads *"MT is mortal technology/media. No device accesses or transmits VT."*
+`CLAUDE.md` §4 lists how `MT` reconciles with the infrastructure layer as **open**
+(options A/B/C, `CHANNEL_NAMES_RULING` §2), and `Mortal Technology` as a name is
+explicitly *not yet* retired pending it. The grid is marked NONCANONICAL so nothing is
+breached — but promoting that grid would settle the MT question by side effect. Flagged
+so the promotion is a decision rather than a consequence.
+
+**`BAZ_WAREHOUSE_INCIDENT_RECOVERY_2026-09-19.md` is titled "Baz Foix".** The file was
+created at `16fa7cc`, before the Arnaud identity lock landed at `6508833`/`a4324a9`, and
+was never retitled. `canon/` reads Bastien "Baz" Arnaud throughout with zero `Foix`; all
+21 surviving `Foix` occurrences are in `recovery/` and `proposals/` discussing the older
+name, which is the right place for them. Left as found and recorded here, because the
+document's own §"Superseded older staging" is where the correction belongs and a retitle
+would make the file's history harder to read.
+
+**`reports/README.md` is stale.** It records the `--all` baseline as 52 violations across
+224 files with 18 `CHK_SID_FORMAT` in four files. The current figures are **61 across 243
+files, 34 `CHK_SID_FORMAT` in 12 files**. The substrate figure is unchanged at 27, all
+`TODO` placeholders. Every one of the 34 was checked: **all are intentional quotations** of
+recovered one-digit SIDs, including the two `S1.T3.B09.A4.E16` occurrences, which are now
+quotations of a form §25 ruled out. The milestone CSVs' hits are in the free-text `notes`
+column citing recovered packets; their structured `target_book` columns correctly read
+`B03`/`B08`/`B09`. No new real defect. The README is refreshed in the same commit.
+
+## 11. What this adds to the author queue
+
+1. **Does ledger §24 supersede ND-013 on who performs the Mending?** Three records
+   currently disagree (§7). If §24 is right, `CLAUDE.md` §4 drops the item and ND-013 is
+   annotated superseded; if not, §24 is withdrawn.
+2. **Which Book 9 epilogue is canon** — the Loom Final Canon backup's five beats or the
+   Notion Final Beat Bible's six (§8)? The three-or-four-episode question from §25 cannot
+   be answered before this one.
+3. **Is `Threadnaut` a Tier-1 recovery item**, alongside Silence and Hope (queue 9b)?
+4. **Which authority lettering governs the narrative decision ledgers** (§4)? The two
+   schemes are not inter-convertible without losing the archive-chat distinction.
+5. **Do the classification labels need a second axis** — state plus disposition (§5)?
+
+None of the five is decided here.
+
+END OF ENTRY 26
+
+===============================================================
+
 END RECOVERY LEDGER
