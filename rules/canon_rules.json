@@ -82,9 +82,7 @@
         "FX",
         "RES"
       ],
-      "BID_format": "{SID}-BT{BeatNumber}",
-      "BID_format_retired": "{SID}-B{BeatNumber}",
-      "BID_format_note": "The retired form reused B for both Book and Beat. Beat IDs now use the BT prefix. Old-form IDs encountered in recovered material are converted, and the rename is noted where they appear."
+      "BID_format": "{SID}-B{BeatNumber}"
     },
     "resonance_equation": "RP = Will \u00d7 Emotion \u00d7 Intent",
     "uars": {

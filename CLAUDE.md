@@ -93,11 +93,16 @@ rewrite as a migration pass with its own ledger entry, not an incidental find-an
 range widens to `E{00-99}` or prologues get their own rule. Unresolved — flag it
 when migrating, do not pick one.
 
-**Beat IDs.** The old beat form `S1.T1.B1.A1.E13-B01` reuses `B` for both Book and
-Beat. Use the beat prefix `BT` when writing new beat IDs, and note the rename where
-old-form IDs are encountered. `rules/canon_rules.json` carries the matching
-`BID_format` — if that rule changes, change the JSON in the same commit or the repo
-ships a spec no session is following.
+**Beat IDs — unresolved, awaiting a ruling.** The current form in
+`rules/canon_rules.json` is `{SID}-B{BeatNumber}`, e.g. `S1.T1.B1.A1.E13-B01`. It
+reuses `B` for both Book and Beat. A `BT` prefix has been **proposed** as a fix but
+not approved; it is recorded as an open item in `recovery/RECOVERY_LEDGER_2026.md`
+§14, alongside the four ECID rulings.
+
+Until James rules: **write beat IDs in the current `-B{n}` form**, matching
+`canon_rules.json`. Do not write `BT` IDs, and do not edit `BID_format`. No beat IDs
+exist anywhere in the repository yet, so whichever way the ruling goes costs nothing
+today — that stops being true the moment the first packet is migrated.
 
 ---
 

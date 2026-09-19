@@ -364,4 +364,58 @@ Blocks: migration of the Veil beat bible into book contexts and act overlays, an
 migration of the E16–E18 packets. Four rulings are needed from the author before either
 proceeds; they are listed in §7 of that memo.
 
+---
+
+# 14. Beat ID prefix — open item
+
+Status: PROPOSAL / UNAPPROVED / REVERTED FROM THE REPOSITORY
+
+## What the repository says
+
+`rules/canon_rules.json` defines `"BID_format": "{SID}-B{BeatNumber}"`, giving beat IDs
+of the form `S1.T1.B1.A1.E13-B01`. §4 of this ledger records the same form, and the
+recovered Book 1 material uses it.
+
+## The problem
+
+The form reuses `B` for two different things: the book number (`B1`) and the beat
+number (`-B01`). A parser reading `S1.T1.B1.A1.E13-B01` has to know the position to
+know which `B` means what.
+
+## The proposal, and its status
+
+A `BT` prefix — `S1.T1.B01.A1.E13-BT01` — was suggested in a draft working agreement
+as the fix. **It was never approved by the author.** On 2026-09-18 that suggestion was
+applied to `rules/canon_rules.json` in commit `e395470`, which also introduced two keys
+(`BID_format_retired`, `BID_format_note`) that are not part of the file's schema.
+
+That edit has been reverted. `rules/canon_rules.json` is byte-identical to `main`
+again, and `CLAUDE.md` §3 now instructs sessions to write beat IDs in the existing
+`-B{n}` form until a ruling exists.
+
+## Why this is cheap to decide now
+
+**No beat IDs exist anywhere in the repository.** A repository-wide search for the
+pattern returns two hits, both illustrative examples inside prose — `CLAUDE.md` §3 and
+§4 of this ledger — and neither is a live identifier. Nothing would need rewriting.
+
+That changes the moment the first episode packet is migrated. The recovered packets
+carry beat IDs in the old form (for example `S1.T1.B1.A1.E06-B2` and `-B4` in the
+`Narrative Structure` export), so migration will start writing them into the repository.
+Deciding before migration costs nothing; deciding after means a second rewrite pass on
+top of the one-digit-book conversion already required by `CLAUDE.md` §3.
+
+## Ruling needed
+
+Does the beat prefix stay `B` or become `BT`?
+
+If `BT`: `rules/canon_rules.json` `BID_format` changes, `CLAUDE.md` §3 changes, §4 of
+this ledger gets a conversion note, and recovered beat IDs convert during migration.
+If `B` stays: `CLAUDE.md` §3 drops the proposal and the collision is accepted as
+documented behaviour.
+
+This ruling is independent of the four in
+`recovery/ECID_VOCABULARY_COLLISION_2026.md` §7, but lands in the same material, so it
+is best answered alongside them.
+
 END RECOVERY LEDGER
