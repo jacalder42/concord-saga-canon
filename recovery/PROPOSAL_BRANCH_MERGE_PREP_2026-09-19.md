@@ -1,8 +1,11 @@
 # Proposal Branch Merge — Preparation
 
-**Status:** PREPARATION ONLY. Nothing has been merged. This is work-queue item 1
-(`CLAUDE.md` §8), which is an author decision.
-**Prepared:** 2026-09-19
+**Status:** PREPARATION ONLY. Nothing has been merged.
+**Prepared:** 2026-09-19 · **Re-verified:** 2026-09-19 against
+`recovery/CANON_DECISIONS_2026-09-18.md`
+**Ruled:** §6.1 — *"`proposal/concord-2026-reconciliation` merges, as its own folder."*
+The merge itself is decided; the mechanics and the conflicts it imports are below, and
+performing it remains James's call.
 **Branch:** `proposal/concord-2026-reconciliation` @ `9e2f345`
 **Against:** `origin/main` @ `253fdf4`
 
@@ -69,11 +72,14 @@ follows), `AUTHORITY_MAP.md`, `NINE_BOOK_AUTHORITY_LAYER.md`,
 
 ---
 
-## 3. Conflicts with current canon — four, none blocking the merge
+## 3. Conflicts with current canon — five, none blocking the merge
 
-All four are **content** conflicts that merging would import. None is a git conflict,
+All five are **content** conflicts that merging would import. None is a git conflict,
 and none is created by the merge — each already exists on the branch today. Merging
 makes them visible on `main` rather than causing them.
+
+**One is new since the 2026-09-18 rulings and is the only one that undoes work already
+done on this branch:** see §3.5.
 
 ### 3.1 A third artifact asserting Act I is complete — now consistent with the ruling
 
@@ -131,6 +137,42 @@ nothing. So merging does not resolve the envelope defect, and work-queue item 4 
 complete until it is resolved — the map tells you to derive values from rules that do
 not currently agree.
 
+### 3.5 The merge reintroduces the retired `Technarch` spelling — 43 occurrences
+
+**New, and the one worth deciding before merging rather than after.**
+
+Decisions §6.4 ruled `Technarc` canonical, and commit `a83f78d` on this branch
+corrected all 9 occurrences across the 6 canon and rules files it named. The repository
+now reads 73 `Technarc`, 0 `Technarch`.
+
+The proposal branch carries 43 more:
+
+| Location | Occurrences | Files |
+| --- | --- | --- |
+| `proposals/concord-2026/` | 23 | 7 |
+| `recovery/checkpoints/` | 1 | 1 |
+| `recovery/source_exports/html_sanitized/` | 19 | 6 |
+
+Heaviest: `NINE_BOOK_AUTHORITY_LAYER.md` (7), `NOTION_TARGETED_RECOVERY_PASS2.md` (6),
+`NOTION_SOURCE_AUDIT_2026.md` (4).
+
+**The 19 in the exports must not be touched.** They are the sanitized source
+conversations — irreplaceable per `CLAUDE.md` §7, and §6.1 is explicit that exports are
+never pruned in place. A spelling sweep across them would be exactly the in-place
+alteration that rule forbids.
+
+**The 24 in the analysis layer are a judgement call**, and it is James's:
+
+- *Leave them.* They are `proposals/` and `checkpoints/` — analysis written before the
+  ruling, in a folder `CLAUDE.md` §5 tiers as D. Their spelling is a historical record
+  of when they were written.
+- *Correct the 24.* `Technarc` then holds everywhere except the exports, and the
+  ruling reads as fully applied.
+
+Either way the exports keep the old spelling, so `grep Technarch` will never return
+zero repository-wide. The validator does not check spelling, so nothing enforces this
+mechanically either way.
+
 ---
 
 ## 4. Conflicts with §8 of the ECID memo — none
@@ -155,26 +197,27 @@ those counts cite evidence reachable only from an unmerged branch.
 
 ## 5. What is recommended, and what is not
 
-**Not recommended by this document:** whether to merge. That is work-queue item 1 and
-`CLAUDE.md` §4 reserves it.
+**Decided at §6.1:** the branch merges, as its own folder. What remains is the timing,
+which is James's, and three mechanical points.
 
-**What the evidence supports, for James to weigh:**
+**1. The mechanics.** `git checkout main && git merge --ff-only
+proposal/concord-2026-reconciliation`. No conflict resolution is required. A follow-up
+commit should then update `CLAUDE.md` §6, which still describes the branch as unmerged
+and lists what `main` lacks.
 
-Arguments for merging: the exports are irreplaceable and currently single-copy on a
-branch; the merge is a fast-forward that modifies nothing; three work-queue items (4,
-5, 5a) read from files only available there; and the ECID memo's evidence base is
-currently unreachable from `main`.
+**2. "As its own folder" needs one clarification.** §6.1 says the recovery material
+keeps its own top-level folder. The branch actually lands in **two**: `recovery/`,
+which already exists on `main` and would gain `checkpoints/` and `source_exports/`
+subfolders; and `proposals/`, which would be new at top level. That matches the intent
+as far as this document can tell — the analysis layer stays separable from canon — but
+if §6.1 meant a single folder holding both, say so before merging, because moving them
+afterwards rewrites paths that this branch's documents already cite.
 
-Arguments for keeping it separate: everything under `proposals/` is explicitly marked
-`PROPOSAL / NON-CANONICAL`, and merging places 19 unapproved analysis documents on the
-main line where a later reader may mistake them for settled canon. If that is the
-concern, it is addressable — `CLAUDE.md` §1 already documents `proposals/` as an
-analysis folder, and the tier scheme in §5 covers it.
+**3. Pruning, per §6.1.** The sanitized exports are **never pruned in place**. Any
+pruning copies them to a separate folder and prunes the copy. The ChatGPT Business
+workspace has no export path and the share-link route was tested and closed — these
+files are the only copy that exists anywhere. This applies to the `Technarch` question
+in §3.5 as much as to any size-driven pruning.
 
-**If the decision is to merge**, the mechanics are: `git checkout main && git merge
---ff-only proposal/concord-2026-reconciliation`. No conflict resolution is required. A
-follow-up commit should then update `CLAUDE.md` §6, which currently describes the branch
-as unmerged and lists what `main` lacks.
-
-**If the decision is to keep it separate**, `CLAUDE.md` §8 item 1 asks that the reason
-be recorded, and items 4, 5 and 5a need restating to say which branch they run on.
+**Ordering note.** This branch and the proposal branch share zero files and merge
+cleanly in either order, so neither blocks the other.
