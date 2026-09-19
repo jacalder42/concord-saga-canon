@@ -329,3 +329,132 @@ Until recovered:
 - use the current author ruling above as governing endgame causality;
 - preserve exact dialogue, attack mechanics, Echo visuals, warning content, and Caro/Elisabet goodbye wording as OPEN;
 - do not invent those details and label them recovered.
+
+
+# 17. Character/antagonist-source recovery pass
+
+This pass searched the historical character-development and antagonist architecture material rather than only act summaries.
+
+## Kade → Rex near-kill is deeply embedded character canon
+
+### Kade character architecture
+Recovered sources independently preserve:
+- “Nearly kills Rex during a resonance spike.”
+- “Emotional nadir: attempts to kill Rex.”
+- Kade's Loom mastery breakthrough = humility through near-fatal mistake.
+- Almost killing Rex → Echo intervention breaks the cycle.
+
+### Kade skill tree
+Explicit sequence:
+- Tahl's death → grief-deformed leadership.
+- Nearly lethal resonance amplification event with Rex.
+- Almost killing Rex → Echo-intervention breaks the cycle.
+- Post-Mending mastery follows.
+
+### Rex character architecture
+- Rex nearly dies in Kade's emotional surge.
+- Tahl Echo intervention saves Rex.
+- Rex later forgives Kade.
+- event becomes a major Rex emotional breakthrough.
+
+### Antagonist Architecture Bible
+Kade as emotional antagonist in Loom:
+- grief spiral nearly kills Rex;
+- fractures diaspora groups;
+- destabilizes shelters;
+- Tahl Echo halts him;
+- **he chooses to protect Rex**;
+- then becomes cultural steward of MT.
+
+This source is especially important because it supplies the moral choice after the Echo:
+**destruction → interruption → protection.**
+
+## Echo-contact emotional mechanics
+
+The Kade→Tahl heat/relationship ladder preserves:
+- trigger: grief spike / near-violence Rex confrontation;
+- channel: emotional collapse + resonance storm + VT amplification;
+- Tahl Echo appears during the Rex confrontation;
+- Kade's collapse crystallizes into clarity;
+- Echo contact is warmth/tenderness, not command;
+- Kade repeatedly apologizes;
+- aftertaste = clarity, relief, beginning of emotional maturity.
+
+Older imagery includes an embrace / warmth / memory-resonance contact. Treat literal visuals as provisional, but preserve the function:
+**Echo restores recognition; Kade chooses afterward.**
+
+This supports current author ruling that Tahl forces recalibration without mind control.
+
+## Elias/Brightbreak role
+
+Recovered saga/antagonist material establishes:
+- Elias/Brightbreak manipulates Kade's certainty across Loom.
+- Kade is susceptible because faction pressure twists sincerity, grief, abandonment fear, and premature leadership.
+- Brightbreak influence deepens before B9.
+- Kade reaches a misinterpretation threshold in B8/B9.
+
+The exact lie/trick that turns Kade on Rex remains unrecovered, but the psychological mechanism is clear:
+**Elias weaponizes Kade's sincere need to protect people and preserve Tahl's legacy by presenting Rex/constraint as obstruction or betrayal.**
+
+That last sentence is a reconstruction hypothesis, not recovered dialogue/mechanics.
+
+## Caro × Elisabet final pre-Mending intimacy is independently historical
+
+Recovered Caro×Elisabet relationship grid explicitly assigns B9:
+- “Their last intimacy before the Mending is soft, reverent.”
+- scene types: quiet undressing, shared breath, sacred closeness.
+- relationship state: complete devotion / pre-Mending farewell texture.
+
+Current author ruling adds the causal placement:
+Elisabet leaves Rex to warn the Mending team → reaches Caro → final moment with Caro → Caro proceeds into Mending.
+
+Therefore a **final Caro/Elisabet pre-Mending intimate scene is not newly invented**; the older relationship architecture independently preserves that beat.
+
+Exact level of physicality/prose remains for later narrative design.
+
+## Significant structural refinement
+
+The endgame now has two mirrored acts of choice:
+
+### Kade
+Elias/Brightbreak turns grief into certainty and violence.
+Tahl Echo interrupts.
+Kade chooses protection over fanaticism.
+
+### Elisabet/Caro
+Elisabet carries necessary truth forward.
+She and Caro choose connection despite imminent separation.
+Caro proceeds into the Mending rather than retreating into private safety.
+
+Both threads converge on the same saga ethic:
+**care does not mean preventing necessary risk; care means preserving another person's agency while refusing destructive certainty.**
+
+# 18. Current confidence grading
+
+### SOURCE-STRONG / AUTHOR-CONFIRMED
+- Kade nearly kills Rex.
+- Tahl Echo interrupts the crisis.
+- Kade's near-kill is his emotional nadir.
+- Kade moves from destruction toward protection after the Echo.
+- Elias/Brightbreak manipulates Kade's certainty in Loom.
+- Caro/Elisabet have a final pre-Mending intimacy beat.
+- Elisabet leaves Rex to carry a warning forward and gets that final Caro moment.
+- Mending follows the Echo crisis.
+- Luminous Thread belongs post-Mending.
+
+### SOURCE-SUPPORTED BUT EXACT IMPLEMENTATION OPEN
+- Echo contact involves tenderness/warmth and Kade apology.
+- Rex later forgives Kade.
+- Kade protects Rex immediately after the break.
+- Caro/Elisabet final scene is quiet/reverent rather than action-heavy.
+
+### STILL UNRECOVERED
+- Exact content of Elias's deception about Rex.
+- Exact reason Rex becomes the target.
+- Exact physical/resonant attack mechanics.
+- Exact wording/content of Elisabet's warning.
+- Why the warning cannot be relayed remotely.
+- Exact Caro/Elisabet dialogue.
+- Exact Echo words/visual form.
+- Exact action by which Kade then protects/escalates the Mending.
+
