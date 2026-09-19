@@ -181,7 +181,7 @@ Use:
 - frightened students/professionals;
 - public meetings.
 
-Koro Ito remains the recurring ideological face.
+Ito Masayuki remains the recurring ideological face.
 
 Vienna can demonstrate how Ito's doctrine appeals to people trained to value restraint/order without turning every recruit into a named antagonist.
 
@@ -250,7 +250,7 @@ Janvier Foix further strengthens the Foix family identity in the recovered cast 
 - Seraphine;
 - Elisabet;
 - Rex;
-- Koro Ito's ideas / Choirless cells later.
+- Ito Masayuki's ideas / Choirless cells later.
 
 ### Local texture
 - café workers;

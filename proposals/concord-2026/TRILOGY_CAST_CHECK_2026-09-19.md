@@ -282,7 +282,7 @@ For B4–B6:
 Use the rebuilt ideological ladder:
 - Saeko Morita = public safety legitimacy.
 - Tessa Vane = neighbor-level exclusion/enforcement.
-- Koro Ito = Erasure doctrine / Choirless.
+- Ito Masayuki = Erasure doctrine / Choirless.
 - Silas Moreau = ideological media normalization.
 
 Do not restore Marcus Kell, Mara Kell, Priya Sen, Jonah Grieves, Yusef Harrow as a parallel named villain ensemble merely because old Neon lists contain them.

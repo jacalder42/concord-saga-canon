@@ -124,7 +124,7 @@ Marrakesh should feel like a real city inhabited by people, not an “emotional 
 
 Recovery produced an important correction:
 
-**Kade Rios's character sheet gives his origin as New Orleans, not Santa Fe.**
+**Kade Harper's character sheet gives his origin as New Orleans, not Santa Fe.**
 
 Santa Fe is repeatedly flagged in later structural memory as a **pressure zone/collapse location**, including the Book 6 rupture architecture, but it is not recovered as Kade's hometown or foundational personal ecosystem.
 
@@ -155,7 +155,7 @@ This also prevents geographic sprawl during the already-dense late Neon rupture.
 
 Recovered Filament canon identifies **coastal Japan** as an early Filament region.
 
-Recovered antagonist architecture separately places Koro Ito / Saeko Morita / Choirless or anti-resonance development in the ideological layer.
+Recovered antagonist architecture separately places Ito Masayuki / Saeko Morita / Choirless or anti-resonance development in the ideological layer.
 
 Editorial rule:
 **Do not create a generic Japanese supporting cast whose only job is to explain the Choirless.**
@@ -168,7 +168,7 @@ When Japanese/coastal civic scenes appear, preserve:
 - ordinary civic resilience;
 - disagreement with anti-resonance politics.
 
-Koro Ito and Saeko Morita remain antagonist/ideological characters, not “Japan's representatives.”
+Ito Masayuki and Saeko Morita remain antagonist/ideological characters, not “Japan's representatives.”
 
 Their exact geographic biographies should follow their dedicated recovered character sources, not be inferred from names.
 

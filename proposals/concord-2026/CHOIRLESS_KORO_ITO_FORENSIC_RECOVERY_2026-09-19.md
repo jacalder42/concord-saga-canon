@@ -1,18 +1,18 @@
-# Concord 2026 — Choirless / Koro Ito Forensic Recovery & Editorial Resolution
+# Concord 2026 — Choirless / Ito Masayuki Forensic Recovery & Editorial Resolution
 
 Status: EDITORIAL RECOMMENDATION / PROPOSAL — NONCANONICAL UNTIL AUTHOR PROMOTION
 Date: 2026-09-19
-Scope: Recover historical Choirless architecture, resolve Koro Ito identity/function, and separate Choirless from Saeko's movement, Dominion, Technarch, and Brightbreak.
+Scope: Recover historical Choirless architecture, resolve Ito Masayuki identity/function, and separate Choirless from Saeko's movement, Dominion, Technarch, and Brightbreak.
 
 ## I. RECOVERED EVIDENCE
 
-### A. Koro Ito exists in the historical architecture
+### A. Ito Masayuki exists in the historical architecture
 
 The strongest recovered source is the 2025-12-12 memory export, which explicitly identifies:
 
 **Koro Ito and Saeko Morita (Neon)** — leaders of anti-resonance populism and PureTone weaponization; rhetoric fuels Neon chaos and hybrid persecution.
 
-This resolves the previously incomplete “Ito” reference: the historical name is **Koro Ito**.
+This resolved the previously incomplete “Ito” reference to the historical name **Koro Ito**. **Superseded 2026-09-19:** James ruled that the names in `canon/characters/` are final, and `canon/characters/ItoID.md` reads **ITO MASAYUKI**. `Koro Ito` is the historical development-layer form; the canonical name is **Ito Masayuki**.
 
 Older appearance/physicality memory cards independently preserve:
 - Ito: rigid sermon posture;
@@ -77,9 +77,9 @@ Historical “Koro Ito and Saeko Morita — leaders of anti-resonance populism a
 
 ## III. EDITORIAL RESOLUTION
 
-### 1. Koro Ito — KEEP / PRIMARY HUMAN FACE OF CHOIRLESS
+### 1. Ito Masayuki — KEEP / PRIMARY HUMAN FACE OF CHOIRLESS
 
-Keep the full historical name **Koro Ito**.
+Keep the full historical name **Ito Masayuki**.
 
 Function:
 **the person who turns suppression from a policy preference into a moral doctrine of Erasure.**
@@ -258,7 +258,7 @@ This gives the siege ideological geometry rather than a generic villain alliance
 ## VI. CAST LOAD
 
 Current recommendation:
-- **Koro Ito** — sole required saga-recurring named Choirless leader.
+- **Ito Masayuki** — sole required saga-recurring named Choirless leader.
 - One recurring Choirless field character may be added ONLY if recovered or if beat construction demonstrates repeated relational value.
 - Otherwise cells/recruits remain mostly unnamed or locally named once.
 
@@ -300,7 +300,7 @@ If two antagonist scenes answer the same question, consolidate or rewrite.
 ## IX. DECISIONS
 
 KEEP:
-- Koro Ito
+- Ito Masayuki
 - Choirless
 - “emotion is entropy” doctrinal core
 - first overt violence in B6

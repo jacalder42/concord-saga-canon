@@ -151,7 +151,13 @@ Hope dissolves into Caro."*
 
 ---
 
-## 3. CONFLICT — two protagonist surnames disagree with Tier-1 canon
+## 3. CONFLICT — two protagonist surnames disagreed with Tier-1 canon — **RULED 2026-09-19**
+
+> **Ruled:** James, 2026-09-19 — *"names in repo canon/character can be considered final
+> and other references can be adjusted to match."* **`canon/` wins.** Carolina "Caro"
+> Alvarez and Kade Harper are canonical; `Caro Gauthier` and `Kade Rios` are historical
+> development-layer forms. The table below is kept as the evidence of the divergence.
+> Ledger §31.
 
 | Notion combat trees | Repository Tier-1 canon | Canon files carrying it |
 | --- | --- | --- |
@@ -192,7 +198,7 @@ not resolve it.
 
 ## 6. For the author
 
-1. **Caro's and Kade's surnames** (§3) — Alvarez/Harper as canon holds, or Gauthier/Rios?
+1. ~~Caro's and Kade's surnames~~ — **ruled 2026-09-19**, `canon/` is final (§3).
 2. **Does the Conflict Engine's two-axis model (Tier 0–5 plus C0–C5) stand**, or collapse
    into one? The bento treats them as two; they read as near-duplicates at the extremes.
 3. **Do the seven "… Thread" epithets stay** (§4), given they are the likely source of the

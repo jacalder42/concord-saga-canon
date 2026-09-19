@@ -376,7 +376,7 @@ Guardrail: not Choirless lieutenant by default.
 Ending: OPEN.
 Approval: [ ]
 
-### Koro Ito
+### Ito Masayuki
 Recovered identity: resolves older “Ito.”
 Status: KEEP / PRIMARY HUMAN FACE OF CHOIRLESS.
 Range: proto-language/network B4–B5; first overt Choirless violence B6; spread B7; peak B8; Mending opposition B9.
@@ -517,7 +517,7 @@ Approval: [ ]
 
 ### Coastal Japan
 Status: NO NEW REPRESENTATIVE CHARACTER REQUIRED.
-Rule: local Filaments/civilians exist independently of Koro/Saeko/Choirless.
+Rule: local Filaments/civilians exist independently of Ito/Saeko/Choirless.
 Approval: [ ]
 
 ## 9. GLOBAL UTILITY / HOLD POPULATION
@@ -647,7 +647,7 @@ Proposals, not mandatory scenes:
 - Harlow
 - Saeko Morita
 - Tessa Vane
-- Koro Ito
+- Ito Masayuki
 - Naomi Clairborne
 - Zane Rowley
 - Silas Moreau

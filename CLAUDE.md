@@ -142,6 +142,17 @@ emotional load — `HEAT` is the romance ladder, `FX` and `WEATHER` are environm
 `MODE` is register — which is why `STRAIN` was drafted as a pseudo-state. `LOAD` is
 where it goes.
 
+**Character names: `canon/characters/` is final.** Ruled 2026-09-19 — *"names in repo
+canon/character can be considered final and other references can be adjusted to match."*
+**Check `canon/characters/` first on any identity question**, before concluding a name
+from recovered sources. Three divergent forms were corrected on 2026-09-19 —
+`Caro Gauthier` → **Carolina "Caro" Alvarez**, `Kade Rios` → **Kade Harper**, and
+`Koro Ito` → **Ito Masayuki** — the last of which a proposal document had ruled the other
+way from a memory export without checking `ItoID.md`. Source quotations keep the old form
+as evidence; the author-uploaded bundles and `recovery/source_exports/` are not edited in
+place. `Baz Foix` is **deliberately not swept**: that rename is already locked and the
+surviving references document it. Ledger §31.
+
 **Beat IDs use `BT`.** Ruled 2026-09-18 (`recovery/CANON_DECISIONS_2026-09-18.md`
 §2.3). The form is `{SID}-BT{BeatNumber}`, and `rules/canon_rules.json` carries it.
 

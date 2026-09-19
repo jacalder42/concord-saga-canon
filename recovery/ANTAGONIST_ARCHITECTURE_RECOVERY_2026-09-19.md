@@ -21,7 +21,7 @@ Five antagonists carry the protagonist file pattern, and three exceed it:
 | Character | Files | Extra |
 | --- | --- | --- |
 | Saeko Morita | 5 | **`SaekoBackstory.md`** |
-| Koro Ito | 5 | **`ItoBackstory.md`** |
+| Ito Masayuki | 5 | **`ItoBackstory.md`** |
 | Han Wei | 5 | **`HanWeiBackstory.md`** |
 | Elias Ward | 4 | — |
 | Marcellus Virelli | 4 | — |
@@ -67,6 +67,7 @@ applies force, which is what makes its curve predictable.
 Marcellus Virelli (Dominion) — hybrid-purging zealot, *"compassionate authoritarian"* ·
 Director Han Wei (Technarc) — architect of resonance containment and data absolutism ·
 Koro Ito & Saeko Morita — populist anti-resonance leaders fuelling Neon fear ·
+*(quoted verbatim; `canon/characters/ItoID.md` reads **ITO MASAYUKI**, which is final per the 2026-09-19 ruling — `Koro Ito` is the historical form)* ·
 **Proto-Extremist Filament Leader — unnamed youth who seeds splinter militancy.**
 
 That fourth entry is an **uncast role**, and it overlaps the parallel session's

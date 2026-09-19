@@ -2774,7 +2774,8 @@ zone*; and ordinary streets (`Laugavegur Corridor`, `RIVER CORRIDOR`). Sense 3 i
 worst, applying the word to the thing sense 2 explicitly contrasts with — *zones are
 chaotic pockets, corridors are safe routes*. **Blocks the locations migration.**
 
-**Two protagonist surnames disagree with Tier-1 canon** (pass 2 §3). Notion's combat skill
+**Two protagonist surnames disagreed with Tier-1 canon** (pass 2 §3) — **RULED 2026-09-19,
+see §31: `canon/` is final.** Notion's combat skill
 trees read **Caro Gauthier** and **Kade Rios**; `canon/` reads **Carolina "Caro" Alvarez**
 and **Kade Harper**, five files each. `Gauthier` and `Rios` appear zero times in `canon/`.
 The other five core names agree across both. This belongs with the parallel session's
@@ -2888,7 +2889,7 @@ function and mechanics are recorded; the prose stays in Notion, and each documen
 
 1. **Which location taxonomy governs** (§1) — blocks `ENV`.
 2. **The four-way `Corridor` collision** (§1) — blocks the locations migration.
-3. **Caro's and Kade's surnames** (§1).
+3. ~~Caro's and Kade's surnames~~ — **ruled 2026-09-19** (§31).
 4. **Run the three-pass integration, and in what order** (§3)?
 5. **Extend the faction directory pattern to the five antagonist factions?** This is the
    concrete form of the group pressure-curve ruling.
@@ -2899,6 +2900,139 @@ function and mechanics are recorded; the prose stays in Notion, and each documen
    load's `pressure_before`/`pressure_after`? Possibly three unrelated 1–5 scales.
 
 END OF ENTRY 30
+
+===============================================================
+
+===============================================================
+
+# 31. Character names ruled final — reference alignment pass — 2026-09-19
+
+**Ruled:** James, 2026-09-19 — *"names in repo canon/character can be considered final and
+other references can be adjusted to match."*
+
+**Status:** RULING APPLIED / 23 REFERENCES CORRECTED / QUOTATIONS PRESERVED / ONE NEW
+DIVERGENCE FOUND AND FIXED
+
+---
+
+## 1. The authoritative list, from `canon/characters/`
+
+| Character | Canonical name | Source file |
+| --- | --- | --- |
+| Baz | **Bastien "Baz" Arnaud** | `BazID.md` |
+| Caro | **Carolina "Caro" Alvarez** | `CaroID.md` |
+| Elias | **Elias Ward** | `EliasID.md` |
+| Elisabet | **Elisabet Arnardóttir** | `ElisabetID.md` |
+| Han Wei | **Director Han Wei** | `HanWeiID.md` |
+| Ito | **Ito Masayuki** | `ItoID.md` |
+| Kade | **Kade Harper** | `KadeID.md` |
+| Lacuna | **Lacuna** (primary usage) | `LacunaID.md` |
+| Lucien | **Lucien Kael** | `LucienID.md` |
+| Rex | **Rex Tan** | `RexID.md` |
+| Saeko | **Saeko Morita** | `SaekoID.md` |
+| Seraphine | **Seraphine Vael** (birth name Seraphine Broussard) | `SeraphineIdentity.md` |
+| Tahl | **Tahl Morgan** | `TahlID.md` |
+| Trip | **Trip** (professional name; legal name intentionally undisclosed) | `TripID.md` |
+| Virelli | **High Inquisitor Marcellus Virelli** | `VirelliID.md` |
+
+## 2. A third divergence, found by this pass
+
+§30 recorded two surname conflicts. A systematic sweep of every first-name/surname pair
+across the repository found a **third**, and it is the most consequential because a
+parallel-session document had already ruled the other way:
+
+| Divergent form | Canonical | Where it came from |
+| --- | --- | --- |
+| `Caro Gauthier` | **Carolina "Caro" Alvarez** | Notion combat skill trees |
+| `Kade Rios` | **Kade Harper** | Notion combat skill trees |
+| **`Koro Ito`** | **Ito Masayuki** | the 2025-12-12 memory export |
+
+`proposals/concord-2026/CHOIRLESS_KORO_ITO_FORENSIC_RECOVERY_2026-09-19.md` §I.A had
+concluded: *"This resolves the previously incomplete 'Ito' reference: the historical name
+is **Koro Ito**."* That conclusion was reached from the memory export without checking
+`canon/characters/ItoID.md`, which is headed **ITO MASAYUKI**. The ruling settles it the
+other way. The line is **not deleted** — it now carries a supersession note in place,
+which is the first time a finding in this project has been retired in place rather than
+contradicted in a later file (compare the ND-032 problem, §26.12).
+
+Note the two forms differ in **given name**, not just order: Masayuki against Koro. This
+is not a surname-first/given-first rendering difference.
+
+**One apparent divergence was a false alarm.** `Seraphine Broussard` appears in
+`SeraphineIdentity.md` as her **Birth Name**, with `Seraphine Vael` as the canonical name.
+Both are canon; nothing to correct.
+
+## 3. What was corrected, and what was deliberately left
+
+**Corrected — 23 references in the documents' own voice:**
+
+| File | Change |
+| --- | --- |
+| `CHOIRLESS_KORO_ITO_FORENSIC_RECOVERY_2026-09-19.md` | 7 doc-voice `Koro Ito` → `Ito Masayuki`; §I.A conclusion annotated as superseded |
+| `CHARACTER_RECONCILIATION_MANIFEST_2026-09-20.md` | 3 |
+| `EDITORIAL_CASTING_RESOLUTION_GLOBAL_PLACE_ANCHORS_2026-09-19.md` | 2 `Koro Ito`, 1 `Kade Rios` |
+| `EDITORIAL_CASTING_RESOLUTION_VIENNA_2026-09-19.md` | 2 |
+| `TRILOGY_CAST_CHECK_2026-09-19.md` | 1 |
+| `ANTAGONIST_ARCHITECTURE_RECOVERY_2026-09-19.md` | canon-file table row corrected; the export quotation annotated |
+
+**Preserved — quotations, because they are the evidence:**
+
+- `CHOIRLESS_KORO_ITO...` lines 13 and 76 quote the 2025-12-12 memory export verbatim.
+- `ANTAGONIST_ARCHITECTURE_RECOVERY` §2.3 quotes the export's key-individuals list; an
+  inline note now records that `canon/` reads Ito Masayuki.
+- The `COMBAT_CONFLICT_RECOVERY` §3 comparison table and the §30 passage keep both forms
+  and are re-headed **RULED**, so the divergence stays auditable.
+
+**Untouched by rule:**
+
+- `recovery/source_exports/**` — originals, never edited in place (§1.0).
+- `recovery/NOTION_RECOVERY_`, `SAGA_TIMELINE_`, `VEIL_STRUCTURE_2026-09-19.md` —
+  author-uploaded bundles committed verbatim at `99e9927`. Between them they hold 4
+  `Gauthier`/`Rios` references and 4 `Foix`. Same treatment as the `Technarc` pass.
+
+## 4. `Baz Foix` — deliberately NOT swept
+
+`Foix` appears 40 times across 11 files. **None was changed**, and that is a judgement
+worth recording rather than a gap.
+
+The Baz rename is **already author-locked** (`Bastien "Baz" Arnaud`, 2026-09-19), and the
+surviving `Foix` references are documentation *of that rename* — identity-history
+sections, supersession maps, and the parallel session's reconciliation manifest, which
+exists precisely to track transfer/rename/merge decisions. `canon/` already reads Arnaud
+throughout with zero `Foix`. Sweeping them would delete the record of the adjustment the
+ruling describes, not complete it.
+
+**One exception is flagged, not fixed:**
+`recovery/BAZ_WAREHOUSE_INCIDENT_RECOVERY_2026-09-19.md` is **titled** *"Baz Foix —
+Warehouse Incident Recovery"*, in the document's own voice, and was created at `16fa7cc`
+before the identity lock landed. §26.10 already recorded this. Retitling it is a file
+rename that would break the parallel session's references and obscure the document's own
+history, so it is left for the author — but under this ruling it is now clearly wrong and
+should be corrected when that session's manifest migrates.
+
+## 5. Verification
+
+- `Gauthier` and `Rios` now appear **only** in the two comparison tables and the three
+  untouched author bundles.
+- `Koro` now appears **only** in two verbatim quotations, one supersession note, one
+  annotated quotation, and one ledger reference to a file name.
+- `canon/`, `rules/` and `grids/` were **not modified** — they are the source of truth and
+  already agreed.
+- Validator unchanged at 27 substrate violations; 63 self-tests pass.
+
+## 6. What this closes and what it opens
+
+**Closes:** §30 question 3 (Caro's and Kade's surnames) and the `Ito` identity question,
+which had been answered incorrectly.
+
+**Opens nothing new**, but it makes one standing problem concrete: the
+`CHOIRLESS_KORO_ITO` case is exactly the failure mode §26.12 describes. A proposal document
+reached a naming conclusion from recovered sources **without checking `canon/`**, and
+nothing in its format would have caught it. The rule that would have prevented it is
+simple and worth stating: **`canon/characters/` is checked first on any identity question**,
+which is now what the ruling says.
+
+END OF ENTRY 31
 
 ===============================================================
 
