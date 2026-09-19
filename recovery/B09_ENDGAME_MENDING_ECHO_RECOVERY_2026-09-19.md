@@ -458,3 +458,100 @@ Both threads converge on the same saga ethic:
 - Exact Echo words/visual form.
 - Exact action by which Kade then protects/escalates the Mending.
 
+
+
+# 22. Elias motive / anti-Mending argument — current author ruling + source fit
+
+## Current author recollection — GOVERNING
+Elias:
+- craves influence;
+- understands that Brightbreak and his larger cultural power depend on the crisis continuing;
+- fears the Mending will end or radically diminish his influence over Brightbreak and broader populations;
+- frames the Mending as **denying Resonance to the world**;
+- argues that the Mending must therefore be stopped.
+
+This is now the governing motive for the B09 Elias/Kade confrontation unless a stronger later explicit author ruling supersedes it.
+
+## Source compatibility
+
+Historical canon repeatedly establishes the saga's suppression-vs-breath distinction:
+- Master Saga Summary Theme 3: **“Suppression breaks; breath heals.”**
+- Mending result = Breathable Veil.
+- Book 9 Final Beat Bible: **“Filtration, not suppression. Empathy as filter. Intent as guide.”**
+- Post-Mending Resonance remains present and becomes gentle/shared rather than eliminated.
+
+Therefore Elias's claim that the Mending will deny/suppress Resonance is **factually wrong about the actual outcome but rhetorically plausible before the Mending succeeds.**
+
+That asymmetry is dramatically useful:
+- Elias can sincerely or cynically frame the intervention as deprivation/control.
+- Kade does not yet possess proof of the outcome.
+- The protagonists themselves are taking an unprecedented risk.
+- Brightbreak can turn uncertainty into certainty.
+
+## Refined confrontation causality
+
+1. Elias fears the Mending because crisis sustains his influence.
+2. He reframes that self-interest as a defense of humanity's access to Resonance.
+3. Brightbreak message: the Mending is not healing; it is a small group deciding to close/restrict humanity's relationship with Resonance.
+4. This targets Kade's established sensitivity to:
+   - institutional secrecy;
+   - people making choices for others;
+   - truth suppression;
+   - fear of failing Tahl's legacy;
+   - premature responsibility for frightened people.
+5. Kade comes to believe stopping the Mending may be an act of defending human agency.
+6. Rex becomes the immediate obstacle/intervenor when Kade acts on that belief.
+7. Kade attacks Rex and nearly kills him.
+8. Tahl Echo interrupts the certainty loop.
+9. Kade recognizes that Elias has converted “people deserve truth/choice” into “people must choose Elias's answer.”
+10. Kade rejects/shuns Elias and Brightbreak fanaticism.
+11. Kade protects Rex and redirects himself toward protecting/escalating the Mending.
+
+## Important thematic distinction
+
+Elias's strongest argument is not:
+**“Resonance is good, therefore chaos is good.”**
+
+It is:
+**“No one has the right to take Resonance away from humanity.”**
+
+That gives the lie a moral surface.
+
+The actual Mending answer is not the opposite authoritarian claim.
+It is:
+**the Breathable Veil does not remove Resonance; it changes the relationship from catastrophic suppression/rupture into breathable filtration.**
+
+Thus Elias's accusation contains the saga's central irony:
+**he condemns the Mending as control while trying to control what humanity is allowed to choose.**
+
+## Rex target refinement
+
+Previous high-fit hypothesis “Rex's caution is preventing necessary action” is now subordinate to the stronger author ruling.
+
+Current best:
+- Kade's true target/objective is **stopping the Mending**.
+- Rex becomes Kade's near-kill target because Rex intervenes/stands between Kade and that objective.
+- Elias may additionally characterize Rex's constraint/safety role as evidence that the Mending faction is controlling choice, but this is optional implementation rather than required motive.
+
+This better preserves:
+- Elias's influence motive;
+- Brightbreak ideology;
+- Kade's sincere but corrupted agency;
+- Rex's limits-as-care function;
+- the Mending as the actual contested objective.
+
+## Search result
+Targeted Notion search did **not** recover an older source explicitly wording Elias's argument as “the Mending will deny Resonance.”
+
+However, older source canon strongly supports the underlying opposition:
+- old Veil = hard suppression;
+- Mending = filtration/breath;
+- Resonance survives post-Mending;
+- Kade's Rex near-kill and Echo pivot are independently source-strong.
+
+Therefore classify:
+- **Elias influence motive / anti-Mending denial argument: AUTHOR-LOCKED CURRENT CANON.**
+- exact rhetoric/dialogue: OPEN.
+- whether Elias believes his own argument versus knowingly weaponizes it: OPEN.
+- Rex's exact physical intervention: OPEN.
+
