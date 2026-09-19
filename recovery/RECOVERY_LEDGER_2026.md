@@ -695,6 +695,12 @@ coherent. Option A was taken.
 > Of the three options analysed below, **C is now excluded** — narrowing the vocabulary
 > would contradict §6.2's finding that the ceilings, not the vocabulary, are wrong.
 > This is the blocker on work-queue items 4, 5 and 5a.
+>
+> **Stated in full at `recovery/ENVELOPE_QUESTION_2026-09-19.md`** (2026-09-19), which
+> supersedes the options analysis below. Two findings there change the shape of the
+> question: `U7` is Post-Mending rather than an escalation tier, so its unreachability
+> is correct and the real gap is a missing Post-Mending envelope; and `allowed_heat_range`
+> is flat for a good reason, being the romance ladder rather than an environmental axis.
 
 ### Scope
 

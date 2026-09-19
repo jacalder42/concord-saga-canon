@@ -152,7 +152,8 @@ Never decide, invent, or quietly resolve:
 - Contradictions between two canon sources — record both readings and where each came
   from, then flag it
 - Whether unapproved or assistant-generated material becomes canon
-- **The trilogy envelope replacement rule.** Open — decisions §8 item 1. It blocks migration; see §4.1 and §9.1.
+- **The trilogy envelope replacement rule.** Open — decisions §8 item 1. It blocks the
+  whole migration path. Stated in full at `recovery/ENVELOPE_QUESTION_2026-09-19.md`.
 - **E19 and beyond.** E19 is named but never built. Do not generate, draft, or outline
   it. The prohibition stands until James lifts it.
 
@@ -372,7 +373,9 @@ file it names. No fix has been applied; two of the five need a ruling before one
   replacement rule is **not yet decided** (§8 item 1: advisory guidance with no enforced
   ceiling, per-act ceilings, or a ceiling tied to a momentum marker). Whatever replaces
   it must admit Veil packet `S1.T1.B3.A3.E14`, which already carries `Weather: W4`.
-  **This is now the blocker on work-queue items 4, 5 and 5a.**
+  **This is now the blocker on work-queue items 4, 5 and 5a**, and the only thing the
+  migration path waits on. Stated in full, with options, constraints and five
+  sub-questions, at `recovery/ENVELOPE_QUESTION_2026-09-19.md`.
 - **All six grid CSVs are header-only**, so `CHK_BREADCRUMBS` and `CHK_EMO_CIRCUIT` in
   `rules/validation_checks.json` cannot run against any data.
 - **All 27 act overlays are byte-identical** apart from their ID fields, as are all 9
