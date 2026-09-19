@@ -717,3 +717,13 @@ END NARRATIVE DECISION LEDGER
 - Current GitHub Tier-1 files uniformly use **Bastien “Baz” Arnaud** (BazID, BazEBCI, BazAppearance, Baz POV).
 - This strongly indicates a later identity rewrite/rename from Basil Foix → Bastien Arnaud, but the direct author selection/supersession statement has not yet been recovered.
 - **Working authority:** use **Bastien “Baz” Arnaud** in current Tier-1 canon while preserving **Basil “Baz” Foix** as historical alias/drift until the renaming source is found. Do not mass-delete Foix references from historical source material.
+
+
+## AUTHOR LOCK — Baz identity name (2026-09-19)
+- **Current canonical identity:** **Bastien “Baz” Arnaud**.
+- **Superseded historical identity:** Basil “Baz” Foix.
+- Author recollection places the Arnaud adjustment in the character-backstory development pass.
+- Author has no functional preference between the surnames and approves the recovered/current Arnaud identity as the lock.
+- Editorial/backstory fit supports Arnaud; no plot or Mechanica dependency requires Foix.
+- Historical source documents must retain Foix unchanged for provenance, but all new/current canon should use **Bastien “Baz” Arnaud**.
+- The original rename exchange may still be recovered for provenance, but it is no longer required to resolve canon.
