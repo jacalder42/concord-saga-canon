@@ -895,3 +895,25 @@ Recommended authority if approved:
 
 ## Mechanica note
 If author locks this ladder, update Channel/VT and Mechanica only after the broader recovery phase. Do not modify Tier-1 rules during forensic reconstruction.
+
+
+# 24. AUTHOR LOCK — Tahl VT contact escalation (2026-09-19)
+
+Approved governing progression:
+
+**B01 NOTICE → B02 BRUSH → B03 PUNCTURE → B04–B05 EDGE / RECURRENCE → B06 SLIP → LOOM ECHO**
+
+Definitions:
+- **NOTICE:** pattern recognition only; no personal VT contact.
+- **BRUSH:** microscopic, ambiguous contact/proximity; no entry, access, communication, power, or proof.
+- **PUNCTURE:** momentary direct perception across an infinitesimal VT boundary discontinuity; no stable entry/access/communication; Tahl remains physically outside; no powers; cannot reproduce on demand.
+- **EDGE / RECURRENCE:** Neon recognition and increasingly dangerous proximity/flickers without stable access.
+- **SLIP:** B06 dangerous threshold crossing; Intent spark; catastrophic Santa Fe endpoint.
+- **ECHO:** postmortem Loom state/function under separate Echo rules; no resurrection.
+
+Consequences:
+- Restore the B02 historical first Brush function, but stage it through anonymous MT/Threadnaut material so Tahl Morgan remains unrevealed.
+- B03 epilogue is the Puncture, not a Brush or Slip.
+- December compressed “B04 first VT brush” is superseded as a mechanics placement; B04 remains the beginning of Tahl's foreground Neon role.
+- Reserve **breach** from this ladder because older metaphysics uses it differently.
+- Tier-1 Mechanica/VT rules should be updated only after forensic recovery/reconciliation is complete.
