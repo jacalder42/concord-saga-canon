@@ -3482,4 +3482,95 @@ END OF ENTRY 36
 
 ===============================================================
 
+===============================================================
+
+# 37. Gate rulings — step 5: character migration plan opened — 2026-09-19
+
+**Authority:** `recovery/GATE_RULINGS_2026-09-19.md` Ruling 3 — bundles A–I approved,
+authorizing *"controlled canon migration planning and application per manifest §0"* and
+explicitly **not** *"silent invention of unresolved material."*
+
+**Status:** PLAN OPENED / NOTHING MIGRATED / NOTHING PROMOTED / VALIDATOR 27 / 62
+
+**Artifact:** `proposals/concord-2026/CHARACTER_MIGRATION_PLAN_2026-09-19.md`
+
+---
+
+## 1. Manifest §0 step 1 is done, and it changes the risk profile
+
+The obsolete-name search over §14's 36-name watchlist has been **run**, not just planned:
+
+| Layer | Hits |
+| --- | --- |
+| **Canon substrate** | **4** |
+| `proposals/` | ~280 |
+| `recovery/` | 3 |
+| `recovery/source_exports/` | 0 |
+
+**35 of 36 names have zero substrate presence.** This is a `proposals/`-layer
+reconciliation, not a canon rewrite. The migration is far less dangerous than the
+manifest's size suggests — 600+ lines and ~80 entries, but almost none of it reaches
+`canon/`.
+
+## 2. The single substrate exception is already compliant
+
+`PureTone` is the only watchlist name in the substrate: `SaekoID.md:122`,
+`SaekoEBCI.md:34` and `:107`, `canon/factions/Choirless.md:125`.
+
+The manifest rules it *"RETIRE AS SEPARATE MAJOR FACTION"* while preserving it as
+*"earlier campaign/network/technology vocabulary."* **All four occurrences read
+"PureTone logic"** — methodology, not faction. They are the surviving permitted sense.
+
+So the one hit classifies **KEEP-AS-VOCABULARY, not RETIRE**, and **the watchlist requires
+no substrate edit at all.** Worth stating because the opposite would have been the single
+largest risk in this queue.
+
+## 3. Batch order, with B and G last
+
+Nine batches: **H** (trilogy load / migration *rules*) → A → C → D → E → F → I →
+**B** → **G**.
+
+**H runs first** by deliberate choice. It holds the migration rules themselves, so running
+it first means every later batch is validated against them rather than retrofitted.
+
+**B and G run last** per Ruling 3: approved in substance, but their place references
+*"inherit Ruling 1's preliminary status."* They cannot start until the narrative vetting
+pass settles the contested ground in `location_places_PROVISIONAL_2026-09-19.csv`.
+
+**Bundle I migrates nothing.** It is approved *as a hold list*; its batch slot exists only
+to record that it was considered and deliberately not moved.
+
+**Every batch is gated** on the validator reporting at or below 27 / 62. A batch that
+raises either number stops the queue.
+
+## 4. Carve-outs enumerated rather than trusted to memory
+
+Five **HOLD** items — manufactured-meta population, Arden Kess / LX-5, Lila Shore,
+Nix & Rio, Ayo Mensah — are listed by name and bundle in the plan, excluded from every
+batch.
+
+**Terminal Witness** stays `RECOVER MORE / DO NOT PROMOTE`. Ruling 3: *"Protect the slot;
+invent nothing."* Excluded from every batch, no facts supplied.
+
+The **author-locked controls** (Tahl Morgan / MissingThread, and the Baz identity control)
+are untouched. The plan carries forward §33 §4's recorded discrepancy — Ruling 3 writes
+the control as *"Baz Foix"* while `canon/characters/BazID.md` reads
+**Bastien "Baz" Arnaud** — with the reading that the **rename decision** is what stays
+locked. **No Baz reference is changed by this plan**, so the discrepancy costs nothing
+either way, but it is recorded in the plan itself rather than only here.
+
+## 5. Ready state
+
+**Batches 1–7 are ready to run.** Batches 8 and 9 wait on the Ruling 1 vetting pass — the
+only remaining dependency, and a narrative one rather than a structural one.
+
+## 6. Validator
+
+`27 / 62`, unchanged. This step added one `proposals/` document and ran a read-only
+search; nothing was migrated.
+
+END OF ENTRY 37
+
+===============================================================
+
 END RECOVERY LEDGER
