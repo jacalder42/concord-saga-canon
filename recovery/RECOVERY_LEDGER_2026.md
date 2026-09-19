@@ -1260,4 +1260,104 @@ assuming the answer.
    This entry is that record. If §5.2 wants something stronger — a version bump, or a
    note in Mechanica's own authority statement — say so and it is a small edit.
 
+---
+
+# 21. Notion Book 1 Final Beat Bible — read 2026-09-19. It is NOT the E00-E15 material.
+
+Status: HYPOTHESIS DISCONFIRMED FOR BOOK 1 / WORK-QUEUE ITEM 7 UNCHANGED
+
+Source: Notion `BOOK 1 — VEIL I (Final Beat Bible)`, last edited 2025-11-23, read
+2026-09-19. Tier D, RECOVERED PRIOR CANON (decisions §5.4).
+
+## The question it was read to answer
+
+Decisions §9 lists the per-book Final Beat Bibles as not yet searched, and says the
+last of them "may hold the E00–E15 material the chat exports are missing". Work-queue
+item 7 depends on the answer: it targets the ChatGPT conversation `Archive Veil Book 1`
+because that was believed to be the only home of those packets.
+
+## The answer: no
+
+The Book 1 Final Beat Bible holds **15 macro beats, five per act**, across three acts:
+
+- Act I "THE HUM BEFORE THE CRACK" — `E1`–`E5`
+- Act II "THE PRESSURE RISES" — `E6`–`E10`
+- Act III "THE FIRST SHARD" — `E11`–`E15`
+
+That is act-level structure for a whole book. The recovered ChatGPT material has
+**seventeen episodes in Act I alone** (`E00`–`E16`), at 1.3–1.8k words each, with full
+ECID blocks, Pressure Maps and 6–12 internal beats per episode.
+
+These are two different granularities. The Notion page matches what §2 of this ledger
+calls the Consolidated Beat Bible layer — "act-level beat sequences for all nine
+books" — not the Episode Expansion Engine layer of §3 (60–80 episodes per book).
+
+**Title overlap between the two sets is zero.** Notion's `E1` is "Seraphine: The
+Lantern Glows Wrong"; the recovered `E01` is "The Sick Child". No Notion beat title
+appears anywhere in the repository.
+
+**So the E00–E15 packets are not in Notion's Book 1 Final Beat Bible.** Work-queue item
+7 stands as written, and `CLAUDE.md` §7's source constraint remains load-bearing exactly
+where it was.
+
+Not checked: the eight other Final Beat Bibles, the three `ACT * SUMMARY — VEIL I`
+pages, or the separate `Book 1 Prologue` page. The Act summaries are the most likely
+remaining Notion home for episode-level Book 1 material and have not been read.
+
+## Independent corroboration — and why it counts
+
+**ChatGPT could not reference Notion.** So the Notion beat bible and the ChatGPT episode
+expansion are independent lines of development. Where they agree, that is corroboration
+rather than copying; where they differ, it is a genuine fork.
+
+**They agree on the Act II opening.** Notion `E9` is "Baz Arrives in NOLA", the first
+beat of Act II. The recovered ChatGPT packet `S1.T1.B1.A2.E17` is "Baz Arrives in NOLA",
+the formal opening of Act II. Same title, same structural function, arrived at
+independently. Only the numbering differs, which is exactly what the two granularities
+predict.
+
+**They agree that MT is the MissingThread.** The page lists `MT (early)` among Book 1's
+Supplement Vehicles *and* gives `E7 — Tahl: Origin of MT — Tahl launches the early
+version of Missing Thread`. One object, used as a supplement vehicle and launched by
+Tahl — independent corroboration of the 2026-09-19 channel ruling and of the `MT`
+collision dissolving (§20).
+
+Bearing on the open `MT` reconciliation (ruling §2, options A/B/C): this page treats
+`MT` purely as the publication Tahl launches. It carries nothing resembling
+`MT_RULES.md`'s infrastructure definition. That is evidence, not a ruling.
+
+**They are consistent on VT's era gating.** Book 1's Act III function is to "hint at
+VT" — no contact occurs. The only VT contact in Veil is `S1.T1.B3.A3.E14`, anchored
+"FIRST AND ONLY VT BRUSH IN VEIL TRILOGY". This is consistent with the "sealed until
+Tahl's breach" claim that §19 flagged as citing an unsourced escalation curve. Still
+not the cited source, but the pattern now has two independent witnesses.
+
+## Conflicts and notes, none resolved
+
+**A third prologue title.** Notion has a separate page `Book 1 Prologue — "Conversation
+in the Stars"`. Decisions §2.2 rules the prologue is `E00`, titled **"The Conversation
+in the Sky"**, superseding "Silence & Hope" from the Veil Master Beat Bible. So three
+names exist: the ruled *Sky*, the superseded *Silence & Hope*, and Notion's *Stars*.
+*Stars* and *Sky* differ by one word and are plainly the same artifact. The ruling
+stands under §5.4; recorded so the variant is not mistaken for a fourth prologue.
+
+**Notion carries `Technarch`.** The page reads "Dominions + Technarch shadows" and
+"Technarch flags him". Decisions §6.4 ruled `Technarc` canonical and the repository is
+corrected. This is consistent with Notion being older, and changes nothing — recorded
+because anyone migrating from these pages will import the retired form.
+
+**Episode numbering is continuous across the book**, `E1` through `E15`, not restarting
+per act. That agrees with decisions §2.1's continuous rule. The form is one-digit and
+carries no SID prefix, so migration converts it.
+
+**`Jules` has no canon file.** The page has "Jules' lattice sketch overlaps faintly with
+Tahl's notes" in `E5`. `Jules` appears nowhere in `canon/` or `source_canon/`. A smaller
+instance of the §20 Silence-and-Hope gap; recorded, not queued.
+
+## What this does not change
+
+Nothing in the work queue moves. Item 7 keeps its target and its rationale. The finding
+is a negative result, and worth the same care as a positive one: the hypothesis in
+decisions §9 is now disconfirmed for Book 1 rather than open.
+
 END RECOVERY LEDGER

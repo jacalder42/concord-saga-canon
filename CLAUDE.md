@@ -361,7 +361,12 @@ the envelope**. What remains: item 1 is ruled (merge, §6.1) but not performed o
    shells renumber into the Book 3 sequence. See `recovery/RECOVERY_LEDGER_2026.md` §15
 6. Run the ChatGPT console export in list mode; produce the full workspace inventory
 7. Extract remaining Tier 1 conversations, `Archive Veil Book 1` first — this is where
-   the E00–E15 packets are expected to be
+   the E00–E15 packets are expected to be. **Confirmed still necessary 2026-09-19:** the
+   Notion `BOOK 1 — VEIL I (Final Beat Bible)` was read and does **not** hold them. It
+   carries 15 act-level macro beats, not episode packets, with zero title overlap.
+   Decisions §9's hypothesis is disconfirmed for Book 1. Ledger §21. The three
+   `ACT * SUMMARY — VEIL I` Notion pages are unread and are the likeliest remaining
+   Notion home for Book 1 episode-level material
 8. Migrate E01–E15 packets
 9. Resolve the `canon/` vs `source_canon/` authority conflict (§1.1) and the Mechanica
    provenance question
