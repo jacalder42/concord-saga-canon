@@ -36,7 +36,7 @@ RECOVERED BEAT CANON:
 1. Baz arrives in NOLA; world context sharpens.
 2. Neighborhood emotional spike rattles Seraphine.
 3. Filament circle — city is breathing wrong.
-4. Dominion/Technarch pressure appears.
+4. Dominion/Technarc pressure appears.
 5. Seraphine + Lucien fracture & repair.
 6. Pulses form a cycle.
 7. Close: pattern accelerating.
@@ -62,11 +62,11 @@ RECOVERED BEAT CANON:
 
 ### Act I — Pressure Under the Surface
 RECOVERED BEAT CANON:
-NOLA unsettled; public talk of pulse; multi-city Filament reports; Baz receives Dominion-coded warning; Seraphine overload #2; Lucien misalignment #2; early Technarch interference; strongest pulse yet; close: accelerating everywhere.
+NOLA unsettled; public talk of pulse; multi-city Filament reports; Baz receives Dominion-coded warning; Seraphine overload #2; Lucien misalignment #2; early Technarc interference; strongest pulse yet; close: accelerating everywhere.
 
 ### Act II — Fragile Corridors
 RECOVERED BEAT CANON:
-Cross-city Filament coordination; civic disturbance echoes; Seraphine/Lucien dissonance; Dominion/Technarch friction; first clear systemic grounding failure; global pulse cluster; Lucien #3; Seraphine #3; close: corridors becoming fragile.
+Cross-city Filament coordination; civic disturbance echoes; Seraphine/Lucien dissonance; Dominion/Technarc friction; first clear systemic grounding failure; global pulse cluster; Lucien #3; Seraphine #3; close: corridors becoming fragile.
 
 ### Act III — What the City Feels
 RECOVERED BEAT CANON:
@@ -103,11 +103,11 @@ RECONCILIATION RESULT:
 
 ### Act I — Static in the Air
 RECOVERED BEAT CANON:
-World uneasy after Veil drift; Seraphine emotional spikes unpredictable; Lucien dissociation flickers; Tahl begins MT/crisis voice; Filaments under pressure; civic panic rises; Technarch system failures; first Neon-scale fracture.
+World uneasy after Veil drift; Seraphine emotional spikes unpredictable; Lucien dissociation flickers; Tahl begins MT/crisis voice; Filaments under pressure; civic panic rises; Technarc system failures; first Neon-scale fracture.
 
 ### Act II — Flickers in the Network
 RECOVERED BEAT CANON:
-Multi-city emotional-static events; Seraphine stabilization fails catastrophically; Lucien fractures intensify; Tahl's MT reporting becomes global lifeline; Filaments scramble; Technarch secrecy worsens fear; early shard-patterning; Santa Fe watches.
+Multi-city emotional-static events; Seraphine stabilization fails catastrophically; Lucien fractures intensify; Tahl's MT reporting becomes global lifeline; Filaments scramble; Technarc secrecy worsens fear; early shard-patterning; Santa Fe watches.
 
 ### Act III — The Edges Split
 RECOVERED BEAT CANON:
@@ -129,7 +129,7 @@ RECONCILIATION FLAG — BAZ TRANSITION:
 
 ### Act I — Everything Sharpens
 RECOVERED BEAT CANON:
-Cities brittle; shard-pattern flickers; Seraphine field splits into layers; Lucien sees early Silence-geometry; Tahl burnout begins as MT load skyrockets; Filaments over capacity; Technarch disinformation; major city enters shard crisis.
+Cities brittle; shard-pattern flickers; Seraphine field splits into layers; Lucien sees early Silence-geometry; Tahl burnout begins as MT load skyrockets; Filaments over capacity; Technarc disinformation; major city enters shard crisis.
 
 ### Act II — Cracks in the World
 RECOVERED BEAT CANON:
@@ -137,7 +137,7 @@ Pulse-shards turn violent; Seraphine coherence fails; Lucien dissociation nearly
 
 ### Act III — Before the Break
 RECOVERED BEAT CANON:
-Regional resonance storms; Seraphine collapses and Caro + Elisabet stabilize; Lucien becomes unpredictable with Silence-without-Intent shadow; Tahl delivers hardest MT truth; Santa Fe near threshold; Technarch hardliners push; Santa Fe destabilizes.
+Regional resonance storms; Seraphine collapses and Caro + Elisabet stabilize; Lucien becomes unpredictable with Silence-without-Intent shadow; Tahl delivers hardest MT truth; Santa Fe near threshold; Technarc hardliners push; Santa Fe destabilizes.
 
 ---
 

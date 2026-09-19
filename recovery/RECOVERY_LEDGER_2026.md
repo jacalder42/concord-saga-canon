@@ -562,6 +562,26 @@ Repository-wide count afterwards: 73 `Technarc`, 0 `Technarch`, excluding `CLAUD
 and `recovery/`, which quote the retired spelling as evidence and are left alone
 deliberately.
 
+### Second pass, 2026-09-19 — the analysis layer
+
+After the proposal branch merged into the working branch, a further **24** occurrences
+came into reach. James ruled: correct them, leave the exports.
+
+| Area | Before | After |
+| --- | --- | --- |
+| `proposals/concord-2026/` (7 files) | 23 | 0 |
+| `recovery/checkpoints/` (1 file) | 1 | 0 |
+| `recovery/source_exports/html_sanitized/` (6 files) | 19 | **19 — untouched** |
+
+The exports are not corrected and must not be. They are the sanitized source
+conversations — the only copy that exists anywhere, per `CLAUDE.md` §7 — and decisions
+§6.1 forbids pruning or altering them in place. A spelling sweep across them would be
+exactly that alteration.
+
+So `grep Technarch` will never return zero repository-wide. It now survives in exactly
+two deliberate places: the 19 in the exports, and four meta-documents that quote the
+retired spelling while recording the ruling against it.
+
 ### The one line worth checking
 
 The concern recorded below was `canon/characters/RexID.md` line 67, inside

@@ -8,7 +8,7 @@ Purpose: final high-value Notion archaeology focused on Protocol 9, Brightbreak/
 # 1. Protocol 9 — limits of recoverable detail
 
 Notion consistently supports:
-- B03: Han Wei/Technarch preparing Protocol 9.
+- B03: Han Wei/Technarc preparing Protocol 9.
 - B04: Protocol 9 launches as enforced monitoring / citywide surveillance and containment of resonance-active individuals.
 - B05: Protocol 9 expands into checkpoints and detention pressure.
 - Trilogy canon: `Protocol 9 -> 9.1 -> detention authority`.

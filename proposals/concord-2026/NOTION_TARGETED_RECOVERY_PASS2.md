@@ -45,7 +45,7 @@ Recommendation:
 ## Veil antagonist map
 Very sparse by design:
 - Dominion / Virelli precursor: ideological suspicion, Filament monitoring
-- Technarch / Han Wei precursor: early containment, denial of anomalies
+- Technarc / Han Wei precursor: early containment, denial of anomalies
 
 This supports keeping Veil antagonist pressure procedural and mostly indirect.
 
@@ -60,7 +60,7 @@ Later GitHub role splits for Ito/Saeko may supersede this exact assignment, but 
 ## Loom antagonist map
 Older model:
 - primary antagonistic pressure = world/civic collapse itself
-- Dominion and Technarch reduced to weak residual remnants
+- Dominion and Technarc reduced to weak residual remnants
 - extremist Filament splinters remain volatile
 
 This is substantially earlier than the later Brightbreak/Elias architecture and should not override it.
@@ -79,14 +79,14 @@ The Notion B05 Final Beat Bible explicitly identifies:
 - Kade rises from lost youth voice -> Neon symbol
 - Tahl moves closer to VT and becomes a target
 - resonance bloom zones expand
-- Dominion + Technarch power plays become explicit
+- Dominion + Technarc power plays become explicit
 
 Important recovered Act II sequence:
 1. Saeko's anti-resonance movement gains national power.
 2. Han Wei expands Protocol 9 into resonance checkpoints.
 3. Blinking Girl is field-tested and malfunctions in public.
 4. Virelli moves to oversee hybrid containment and hunt Filament leaders.
-5. A Technarch raid fractures a Filament youth gathering into splinters.
+5. A Technarc raid fractures a Filament youth gathering into splinters.
 6. Tahl reaches a dangerous VT faultline.
 
 Act III then gives:
@@ -111,7 +111,7 @@ This is not merely escalation and should be treated as a recovered structural fu
 Notion contains `05.48 • Resonance - Manufactured Meta`, explicitly marked as superseding older meta descriptions under the then-current Resonance Dynamics Model.
 
 Core recovered rules:
-- human test subjects altered by Technarch Hardliner programs
+- human test subjects altered by Technarc Hardliner programs
 - voluntary or coerced origins
 - emotional agency intentionally stripped
 - resonance-saturated
@@ -151,7 +151,7 @@ Do not automatically carry forward:
 Notion supports a clear escalation lineage:
 
 ## B03 setup
-Technarch is preparing Protocol 9 for Neon.
+Technarc is preparing Protocol 9 for Neon.
 
 ## B04
 Protocol 9 launches as enforced monitoring of resonance-active individuals / a containment grid.

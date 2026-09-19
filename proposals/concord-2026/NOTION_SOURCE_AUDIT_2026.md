@@ -141,7 +141,7 @@ Older Notion `BOOK 4 — NEON I` assumes Baz already died in B3 and contains:
 - Tahl warning goes viral.
 - Seraphine publicly flares.
 - Lucien holds crowd structure.
-- anti-resonance protesters / Filament youth / Technarch agents collide.
+- anti-resonance protesters / Filament youth / Technarc agents collide.
 
 Assessment:
 - Later recovered B4 macro beats are more abstract and place the Baz removal transition inside B4.
@@ -157,7 +157,7 @@ Strong prior-canon elements:
 - B1 Flickers
 - B2 Ghostwaves
 - B3 Fractures -> First Rupture
-- Technarch monitoring begins in B2
+- Technarc monitoring begins in B2
 - Dominion ideological murmurs intensify
 - Tahl investigative / proto-MT growth
 - first VT brush/slip trajectory
@@ -206,7 +206,7 @@ Do not restore `Silence Reborn`, `Hope Reborn`, or B8 Rex near-killing without e
 Notion contains the standalone `05.07 • Antagonist Architecture Bible` that GitHub faction files repeatedly reference.
 
 It defines three antagonist layers:
-1. Institutional — Dominion, Technarch, anti-resonance movements.
+1. Institutional — Dominion, Technarc, anti-resonance movements.
 2. Emotional/Human — Kade spiral, extremist Filaments, civic panic, grief reactions.
 3. Metaphysical/Environmental — Silence paradoxes, Hope overload, storms, Shards, saturation, diaspora.
 
@@ -237,7 +237,7 @@ These specific prior-canon elements deserve explicit comparison against current 
 4. Filament steady-vs-radical split beginning in B4/B5.
 5. B5 as `Metas & Pressure Systems / Weaponization` rather than generic fracture escalation.
 6. named manufactured meta prototypes: Silver Pattern Man / Blinking Girl.
-7. Dominion/Technarch escalation specifics by trilogy.
+7. Dominion/Technarc escalation specifics by trilogy.
 8. emotional/civic antagonist layer independent of formal factions.
 9. old Baz warehouse death scene as salvage DNA for a later B4 death decision.
 10. early Kade parasocial / youth-following progression.

@@ -137,9 +137,17 @@ nothing. So merging does not resolve the envelope defect, and work-queue item 4 
 complete until it is resolved — the map tells you to derive values from rules that do
 not currently agree.
 
-### 3.5 The merge reintroduces the retired `Technarch` spelling — 43 occurrences
+### 3.5 The retired `Technarch` spelling — RESOLVED 2026-09-19
 
-**New, and the one worth deciding before merging rather than after.**
+**Ruled:** correct the 24 in the analysis layer; leave the 19 in the exports.
+Applied 2026-09-19 — `proposals/` and `recovery/checkpoints/` now read 0
+`Technarch`, the exports still read 19, deliberately.
+
+The analysis that produced the question is kept below.
+
+---
+
+#### Original entry
 
 Decisions §6.4 ruled `Technarc` canonical, and commit `a83f78d` on this branch
 corrected all 9 occurrences across the 6 canon and rules files it named. The repository
@@ -172,6 +180,13 @@ alteration that rule forbids.
 Either way the exports keep the old spelling, so `grep Technarch` will never return
 zero repository-wide. The validator does not check spelling, so nothing enforces this
 mechanically either way.
+
+**Resolved 2026-09-19: the 24 were corrected, the 19 left.** Repository-wide,
+`Technarch` now survives in exactly two places, both deliberate: the 19 in the
+sanitized exports, and four meta-documents that quote the retired spelling while
+recording the ruling against it (`CLAUDE.md` §9.1, this file,
+`recovery/RECOVERY_LEDGER_2026.md` §16.1, and
+`recovery/CANON_DECISIONS_2026-09-18.md` §6.4 itself).
 
 ---
 

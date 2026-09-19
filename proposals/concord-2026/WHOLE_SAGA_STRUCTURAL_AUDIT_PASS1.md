@@ -215,7 +215,7 @@ This is currently the least legible major layer in the recovered Beat Bible.
 
 Recovered pressure sources include:
 - Dominion institutional secrecy/control;
-- Technarch interference/hardliners;
+- Technarc interference/hardliners;
 - Choirless ideology and violence;
 - Brightbreak manipulation;
 - Elias Ward;

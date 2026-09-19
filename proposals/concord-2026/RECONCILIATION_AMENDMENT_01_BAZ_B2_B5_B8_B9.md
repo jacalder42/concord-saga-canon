@@ -80,7 +80,7 @@ Recovered B05 functions include:
 - Han Wei expands Protocol 9 into checkpoints / harder containment.
 - Manufactured Meta `Blinking Girl` is field-tested and publicly malfunctions.
 - Virelli moves toward hybrid containment / Filament pressure.
-- a Technarch raid fractures Filament youth into splinters.
+- a Technarc raid fractures Filament youth into splinters.
 - Tahl becomes a public truth source and detention target.
 - civic fear reorganizes into movements.
 - Kade rises as a public symbol.

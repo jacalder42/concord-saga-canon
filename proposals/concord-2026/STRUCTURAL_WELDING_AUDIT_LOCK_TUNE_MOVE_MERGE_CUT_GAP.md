@@ -43,7 +43,7 @@ This act already fulfills B01's core promise: the story begins with human failur
 - Baz arrival.
 - neighborhood emotional spike.
 - Filament circle.
-- first Dominion/Technarch pressure.
+- first Dominion/Technarc pressure.
 - Seraphine/Lucien fracture-repair.
 - pulse cycle recognition.
 
@@ -106,7 +106,7 @@ Recovered functions:
 - cross-city Filament coordination.
 - civic disturbance echoes.
 - Seraphine/Lucien dissonance.
-- Dominion/Technarch friction.
+- Dominion/Technarc friction.
 - first clear systemic grounding failure.
 - global pulse cluster.
 - Lucien #3 / Seraphine #3.
@@ -114,7 +114,7 @@ Recovered functions:
 **LOCK**
 - cross-city Filament coordination.
 - first systemic grounding failure.
-- Dominion/Technarch friction.
+- Dominion/Technarc friction.
 
 **TUNE**
 - replace or transform repeated numbered overload/misalignment beats into consequences of competing stabilization doctrines.

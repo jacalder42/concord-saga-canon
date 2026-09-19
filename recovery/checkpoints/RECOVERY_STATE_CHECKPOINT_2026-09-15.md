@@ -144,7 +144,7 @@ B5 is recovery/welding, not blank invention. Older Notion strongly supports:
 - Protocol 9 expansion into checkpoints/harder containment.
 - Manufactured Meta public field test; `Blinking Girl` malfunctions.
 - Virelli/hybrid containment pressure.
-- Technarch raid fractures Filament youth.
+- Technarc raid fractures Filament youth.
 - Tahl becomes detention target/public truth source.
 - Kade rises as public symbol.
 - civic fear reorganizes into movements.
