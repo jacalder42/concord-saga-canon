@@ -219,11 +219,20 @@ Never decide, invent, or quietly resolve:
   `S1.T1.B03.A3.E14` band exception in `act_overlays/act_overlay_S1_T1_B03_A3.json`. Its
   own source says not to touch Tier-1 rules until the recovery phase ends, so it is held.
   Ledger §26.6.
-- **Which Book 9 epilogue is canon.** Open, and new. The Loom Final Canon backup gives
-  five beats (ND-015); the Notion Final Beat Bible gives six (`VEIL_STRUCTURE` part 4 §4).
-  They share only the Kade-posts beat, and disagree on whether his first post-Mending
-  message is `MT` or `LT`. **This must be settled before** the three-or-four-episode
-  question §25 left open. Ledger §26.8.
+- **Which Book 9 epilogue is canon.** Open, and new. **Three** renderings exist: the Loom
+  Final Canon backup's five beats (ND-015), the Notion Final Beat Bible's six
+  (`VEIL_STRUCTURE` part 4 §4), and an "older detailed" Notion epilogue of eleven
+  (`recovery/B09_ENDGAME_MENDING_ECHO_RECOVERY_2026-09-19.md` §9). They share only the
+  Kade-posts beat, and disagree on whether his first post-Mending message is `MT` or `LT`.
+  The timeskip is separately unresolved — three days, 6–12 months, or 1–2 years — and
+  that document says not to lock it yet. **All of this must be settled before** the
+  three-or-four-episode question §25 left open. Ledger §26.8 and §26.12.
+- **Do the ND decision ledgers need a supersession field?** Open. `ND-032` is classified
+  `SUPERSEDED` and protects the Kade→Elias sequence; a later document from the same
+  session reverses it to Kade→Rex on eight sources plus an author ruling, and ND-032
+  carries no mark. The ND labels describe how current authority treats a *source*, not how
+  a later pass treats an earlier *finding*, so corrections accumulate in new files while
+  the superseded entries keep reading as current. Ledger §26.12.
 - **E19 and beyond.** E19 is named but never built. Do not generate, draft, or outline
   it. The prohibition stands until James lifts it.
 

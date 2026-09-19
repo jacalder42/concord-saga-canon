@@ -2079,6 +2079,82 @@ column citing recovered packets; their structured `target_book` columns correctl
 
 None of the five is decided here.
 
+## 12. Addendum — `B09_ENDGAME_MENDING_ECHO_RECOVERY_2026-09-19.md`
+
+The parallel session pushed an eleventh document while this review was being committed.
+It changes two findings above and adds a tenth.
+
+### It makes a third Book 9 epilogue rendering, not a second
+
+Finding 6 (§8) recorded two. There are three, from three sources:
+
+| Source | Beats | Shape |
+| --- | --- | --- |
+| Notion Book 9 Final Beat Bible, "ACT IV — Afterlight" | 6 (E16–E21) | three ascension codas · Elisabet · Kade posts first LT · Tahl's Echo |
+| Loom Final Canon backup (ND-015) | 5 | holochat · Kade posts first **MT** · Lacuna presses post · stars twinkling · LT handshake |
+| "Older detailed" Notion epilogue (§9 of the new document) | 11 | riverfront · repaired Tahl equipment · first LT post · Elisabet joins · Caro kisses Elisabet · Seraphine/Lucien approach · Luminous Parade · triangle flicker · Tahl farewell · stars · Book 1 prologue echo |
+
+And a **fourth open variable**: the timeskip. The new document gives "6–12 months after
+Mending", notes a later act backup compressing it to "three days after", and lists
+"three days vs 6–12 months vs 1–2 years" as an unresolved detail. Its own instruction is
+*"Do not lock exact epilogue timeskip yet."*
+
+So §25's three-or-four-episode question is further from settled than §8 said, not closer.
+Author question 2 in §11 stands and widens: three renderings and three timeskips.
+
+### It supports §24's `LT`-has-three-referents note, and holds the same way
+
+§10 of the new document lists exactly the conflation this ledger flagged at §24 —
+Seraphine as "Luminous Thread", `LT` as renamed `MT`, and `LT` as the post-Mending
+network — and rules for recovery purposes only that **Luminous Thread is post-Mending
+only** and is not the name of the Mending mechanism. Its unresolved-details list keeps
+"Final LT taxonomy: channel / metaphysical mesh / cultural archive / Seraphine role" open.
+That is consistent with the Post-Mending era file staying **HELD** (§18), and it does not
+release it.
+
+On the Mending itself, §12 reads *"Seraphine/Lucien/Caro are the active Mending triad"*
+and says nothing about Silence and Hope. That is a fourth record on the question in
+finding 5 (§7) and it neither confirms nor contradicts §24's reading — it is silent on the
+metaphysical half. Question 1 in §11 is unchanged.
+
+### Finding 10 — the ND ledger has no supersession mechanism, and ND-032 is now wrong
+
+The new document §3 and §4 **reverse ND-032**. ND-032 is classified `SUPERSEDED` and reads:
+
+> Older antagonist bible: Kade nearly kills Rex … Later Final Loom structure: Kade nearly
+> kills **Elias**; **Rex intervenes** … The later sequence is protected.
+
+The new document marshals eight independent sources — the Kade and Rex character sheets,
+the Rex and Tahl skill trees, the Master Saga Summary, the Antagonist Architecture bible,
+the Kade→Tahl heat ladder and the Loom Trilogy Canon Bible — concludes *"The repeated
+historical spine is Kade → Rex, not Kade → Elias"*, reclassifies the later act-level
+backup as a compression/transposition error, and records a current author ruling:
+**Elias manipulates Kade → Kade attacks Rex → Tahl Echo forces recalibration.**
+
+The reversal looks well-evidenced and is the session correcting itself, which is the
+process working. **The defect is that ND-032 carries no mark.** A reader working the
+decision ledger in order reaches ND-032, sees `Classification: SUPERSEDED` with the
+Kade→Elias sequence "protected", and has no way to know a later document overturned it.
+Nothing in the ND format records supersession *of an ND item* — the labels describe how
+current authority treats a **source**, not how a later pass treats an earlier finding.
+
+This sharpens finding 1. It is not only that the ledger missed this work; it is that the
+narrative decision ledgers have no way to retire their own entries, so corrections
+accumulate in new files while the superseded entries keep reading as current. That is the
+same failure mode the tier-scheme duplication caused (§5 of `CLAUDE.md`), and it will get
+worse with every pass.
+
+**Not fixed here.** Annotating ND-032 means editing another session's analysis to assert
+which of two readings won, and although the evidence and the author ruling both point one
+way, the fix that matters is structural — an ND supersession convention — not a single
+annotation. Added as question 6:
+
+6. **Do the ND ledgers need a supersession field**, so a later pass can retire an earlier
+   ND item in place instead of contradicting it in a new file? ND-032 is the first case
+   and will not be the last.
+
+END OF ADDENDUM
+
 END OF ENTRY 26
 
 ===============================================================
