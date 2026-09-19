@@ -302,3 +302,220 @@ For beat reconstruction, use:
 This gives the strongest dramatic irony and preserves both the Warehouse tragedy and Tahl reveal without making B03 structurally overstuffed.
 
 END — B03/B04 HANDOFF RECONCILIATION
+
+
+# 11. MT / Threadnaut / Tahl reveal refinement — author direction 2026-09-19
+
+## Current author recollection / ruling
+Before Tahl is named in the B03 epilogue, he is foreshadowed through:
+- **MT / MissingThread**
+- the **Threadnaut** character/persona
+
+Tahl himself remains outside the named primary cast until the epilogue.
+
+This means the audience can know the *voice/avatar* before knowing the person.
+
+## Historical source evidence
+Older sources strongly establish:
+- MT begins as Tahl's conspiracy journal / civic blog;
+- Filaments act as an early whisper network behind Missing Thread;
+- Tahl documents anomalies using ordinary mortal media;
+- MT grows from investigative cadence/integrity rather than supernatural ability;
+- historical B04 material also says Filaments begin calling Tahl “Threadnaut.”
+
+### Threadnaut terminology conflict
+The author's current recollection places Threadnaut before Tahl's named reveal, while one older B04 source makes “Threadnaut” a nickname bestowed after Tahl becomes public.
+
+Do not silently collapse these.
+
+**Working current interpretation:** Threadnaut is a pre-reveal MT-facing character/persona/identity whose relationship to the real Tahl is disclosed in the epilogue. The older B04 “Filaments begin calling him Threadnaut” beat may represent either public adoption of an existing persona-name or superseded origin staging. Source hunt remains open.
+
+# 12. Revised B03 epilogue causal engine
+
+The epilogue should begin not with Tahl heroically “stepping forward,” but with **consequence**.
+
+## Opening state
+Tahl / Threadnaut has reported, posted, cross-linked, or exposed information around the Warehouse Incident.
+
+He realizes too late that his work has done something dangerous:
+- exposed a person involved in the event;
+- exposed Baz, possibly without knowing Baz's name;
+- exposed a route, image, location, identity marker, or evidentiary link;
+- helped institutional actors/public crowds connect information that should not yet have been connected.
+
+Exact exposure mechanism remains OPEN.
+
+### Emotional engine
+Tahl's core wound becomes immediate:
+**“If I miss the pattern, someone will be harmed.”**
+
+But here the inversion is worse:
+**he did not miss the pattern — he published it — and someone may have been harmed because he was right.**
+
+This gives MT's future ethics a wound-based origin:
+truth carries responsibility; accuracy alone is not enough.
+
+## Searching the sky
+Unable to find relief in:
+- feeds,
+- comments,
+- footage,
+- maps,
+- official statements,
+- his own notes,
+
+Tahl physically disengages from the information stream and looks upward.
+
+He is not:
+- trying to contact VT;
+- conducting a metaphysical experiment;
+- seeking power;
+- expecting an answer.
+
+He is looking for **quiet / scale / relief**.
+
+That human action becomes the accidental condition for the first VT brush.
+
+## First VT brush
+Protected mechanics:
+- first/only Veil VT brush;
+- accidental;
+- metaphysical contact is consequence, not pursuit;
+- no digital transmission;
+- no device accesses VT;
+- no powers;
+- no prophecy;
+- no explicit dialogue;
+- over-clarity / pressure / perceptual collapse;
+- fragmentary and frightening;
+- Tahl survives exhausted.
+
+Narrative function:
+Tahl looks away from a human network he no longer trusts himself to use carelessly and accidentally perceives a larger boundary he cannot understand.
+
+This is **discovery**, not initiation.
+
+## After the brush
+The brush does not tell Tahl what to write.
+
+Instead it changes his relationship to certainty:
+- the world is larger than his model;
+- he cannot publish everything merely because it is true;
+- he must distinguish evidence from interpretation;
+- he must carry uncertainty honestly.
+
+He returns to MT as a more responsible mortal reporter.
+
+This provides a clean ethical seed for the saga's later opposition to Brightbreak:
+**Tahl learns early that truth without humility can injure people; Elias later offers certainty without truth.**
+
+# 13. Tahl gear lineage — recovered source + current reconciliation
+
+## Recovered historical source
+The November 2025 Tech & Communications Bible contains a substantial Tahl equipment progression.
+
+### Veil
+Tahl uses ordinary investigative technology:
+- personal devices;
+- notebook / field notes;
+- voice recorder;
+- standard AR/holochat;
+- civic/data systems.
+
+Appearance canon reinforces:
+- hands often occupied by notebook, recorder, device;
+- rewinds voice recorder repeatedly;
+- messenger-bag civic-journalist silhouette.
+
+### Neon
+As infrastructure becomes unreliable, Tahl's equipment evolves toward **resopunk**:
+- ruggedized comm units;
+- low-frequency analog backups;
+- analog/digital hybrids;
+- sound/pulse interfaces;
+- field modifications;
+- increasingly janky, functional, human-built hardware.
+
+Historical canon describes Tahl modifying his equipment while investigating VT-adjacent phenomena.
+
+### Loom legacy
+Older canon makes Tahl's modified transmitter / rig the surviving MT backbone inherited by Kade and supported by Filament local networks.
+
+Kade later uses repaired versions of Tahl's equipment.
+
+## Conflict with current Mechanica
+Older Tech Bible says Tahl's hardware becomes “resonance-imprinted,” briefly syncs with VT harmonics, and thereby stabilizes MT signals.
+
+Current Mechanica v4 hard rules state:
+- **MT ≠ VT ≠ LT**
+- resonance never transmits digitally;
+- technology may distort/fail but cannot carry resonance;
+- MT is purely mortal technology;
+- VT never broadcasts and never travels digitally.
+
+Therefore:
+**the gear progression survives; the old metaphysical-hardware explanation does not currently survive without revision.**
+
+## Current safe gear model
+For reconstruction:
+1. **Veil:** ordinary journalist/investigator kit.
+2. **B03 epilogue:** gear records evidence but plays no role in accessing VT.
+3. **B04–B06:** Tahl iteratively hardens his kit because ordinary systems fail under resonance pressure.
+4. **Late Neon:** rig becomes a sophisticated but ugly analog/digital field communications system.
+5. **Loom:** Kade/Filaments preserve and repair Tahl's hardware because its architecture is robust, distributed, low-frequency, and designed around degraded infrastructure — not because it carries VT.
+6. Any post-death “Echo imprint” hardware behavior is quarantined as legacy drift pending separate channel reconciliation.
+
+# 14. Revised epilogue shape
+
+Provisional flow:
+
+**A. Threadnaut fallout**
+- MT/Threadnaut feed is moving faster than Tahl can control.
+- Tahl realizes something he posted exposed a Warehouse participant / Baz.
+- He may not know the man's name.
+- comments, reposts, institutional attention, or public triangulation make deletion meaningless.
+
+**B. Human guilt**
+- Tahl scrubs backward through his own evidence chain.
+- discovers the point where observation became exposure.
+- cannot determine whether his post contributed to the death, but cannot dismiss the possibility.
+- first true articulation of “truth carries responsibility.”
+
+**C. Disconnect**
+- shuts screens / recorder / feed.
+- leaves the data.
+- seeks physical quiet.
+
+**D. Sky**
+- looks upward for relief rather than answers.
+- city noise drops perceptually.
+- sky/geometry behaves incorrectly.
+- first/only Veil VT brush.
+- no words; no beings; no invitation.
+- unbearable clarity, then collapse.
+
+**E. Return**
+- Tahl comes back to himself.
+- the gear is still only gear.
+- whatever he perceived cannot be uploaded or proven.
+- he chooses to write only what he can responsibly substantiate.
+
+**F. Reveal**
+- the narrative finally names the person behind the voice:
+**Tahl Morgan.**
+- relationship among Tahl / MissingThread / Threadnaut becomes legible to reader.
+
+**G. Final MT post**
+- short, mortal, careful.
+- does not claim metaphysical revelation.
+- acknowledges uncertainty.
+- tells the truth about human consequence.
+- becomes the ethical origin of the MT voice carried through Neon.
+
+# 15. New forensic targets
+
+1. Find the source where **Threadnaut is explicitly constructed as an MT persona/avatar** rather than later nickname.
+2. Recover any dedicated **Tahl gear / rig / transmitter development document** beyond the Tech & Communications Bible.
+3. Recover the evolution stages of the physical kit across B04–B06.
+4. Determine whether the old “Echo-imprinted rig” was explicitly superseded during Mechanica v4/channel-separation development.
+5. Find any source for Tahl accidentally exposing Baz / Warehouse evidence or causing unintended consequences through MT.
