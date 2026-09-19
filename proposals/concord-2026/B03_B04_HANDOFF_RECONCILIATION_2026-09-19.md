@@ -645,3 +645,126 @@ Tahl's gear should visibly evolve with his investigative practice. It can become
 - Editorial/backstory fit supports Arnaud; no plot or Mechanica dependency requires Foix.
 - Historical source documents must retain Foix unchanged for provenance, but all new/current canon should use **Bastien “Baz” Arnaud**.
 - The original rename exchange may still be recovered for provenance, but it is no longer required to resolve canon.
+
+
+# 20. Veil MT / Threadnaut breadcrumb architecture — source reconciliation
+
+## Recovered supplement architecture
+Historical saga architecture explicitly treats paratext as a major storytelling engine.
+
+Veil supplement intensity:
+- **B01: light**
+- **B02: moderate**
+- **B03: high**
+
+Veil vehicles:
+- MT — small, personal, earnest; curiosity and early civic hints
+- Chronicle — light institutional/public coverage
+- Vein — cultural slices
+- Field Notes — early anomaly / AR-glitch documentation
+- VT — unseen flickers, no dialogue
+
+Supplement Architecture Bible requires supplements to remain short, intentional, grounded, braided into story, and never replace narrative or deliver direct metaphysical exposition.
+
+## Current reconciliation
+This existing supplement system is the correct delivery mechanism for Tahl's pre-reveal presence.
+
+### B01 — anonymous voice
+MT appears lightly:
+- earnest anomaly posts;
+- small interviews / civic observations;
+- pattern comparisons;
+- occasional humor or self-doubt;
+- no Tahl name;
+- Threadnaut label/persona may appear only if it feels organic rather than branded.
+
+Reader function: “someone else is noticing.”
+
+### B02 — recognizable intelligence
+MT becomes moderately more frequent:
+- better source triangulation;
+- stronger pattern recognition;
+- corrections/retractions where evidence changes;
+- early Filament whisper-network tips;
+- increasing concern about institutional explanations;
+- still no named Tahl POV.
+
+Reader function: “this anonymous person is unusually good at this.”
+
+### B03 — consequential voice
+MT presence becomes high:
+- directional/drift observations;
+- Warehouse-related reporting;
+- institutional contradictions;
+- public reaction;
+- increasingly visible Threadnaut identity/persona;
+- final reporting mistake/exposure candidate creates ethical consequence.
+
+Reader function: “Threadnaut matters to the crisis.”
+
+### B03 epilogue — reveal
+Only now resolve:
+**MissingThread / Threadnaut → Tahl Morgan.**
+
+This is not the introduction of a new function. It is the revelation of the person readers have already encountered indirectly.
+
+## VT chronology correction
+Older November beat bibles contain multiple premature Veil VT contacts, including a B02 “First Real Brush with VT.”
+
+Later recovered structural canon instead protects:
+- **one first/only Veil VT brush**
+- in B03
+- fragmentary
+- no explicit dialogue
+- no powers.
+
+Therefore:
+- B01/B02 VT contact assigned directly to Tahl is superseded;
+- environmental VT shadowing may remain invisible/reader-uninterpretable;
+- Tahl's personal first brush should be reserved for the B03 epilogue unless later stronger source or author ruling moves it.
+
+## Epilogue refinement using historical “The First Quiet”
+Historical epilogue already supplies:
+- late-night NOLA after Warehouse Rupture;
+- public rumors;
+- official silence;
+- Filament vigil;
+- MT post;
+- Warehouse lights/sky imagery;
+- transition Veil secrecy → Neon panic.
+
+Current reconstruction can retain those functions while replacing obsolete ensemble staging.
+
+Particularly useful recovered image:
+**people share videos of strange lights in the sky above the Warehouse**, followed by a final faint shimmer in the sky.
+
+This provides an organic visual bridge into the author's proposed Tahl action:
+after realizing the consequences of his reporting, Tahl stops looking at feeds/maps/screens and looks toward the actual sky.
+
+That can become the immediate setup for his first/only Veil VT brush.
+
+# 21. Provisional masked-Tahl progression
+
+**B01:** MissingThread exists; Threadnaut is at most an anonymous label/persona. Tahl Morgan does not appear as named cast.
+
+**B02:** MissingThread voice becomes recognizable; Filament whisper network begins feeding information; no Tahl VT brush.
+
+**B03 main:** MT/Threadnaut becomes consequential and increasingly tied to drift/Warehouse reporting. Tahl remains unidentified/off-axis.
+
+**B03 Warehouse:** anonymous recorder/reporter function may operate without joining ensemble.
+
+**B03 epilogue:** reporting consequence → human behind Threadnaut revealed as Tahl Morgan → looks to sky for relief/scale → first/only Veil VT brush → returns with stronger ethic of uncertainty/responsibility → final MT post.
+
+**B04:** Tahl enters narrative foreground as Neon lead. Filaments/public can begin attaching “Threadnaut” directly to him, preserving the older B04 nickname beat as public identity convergence rather than name invention.
+
+# 22. What this supersedes
+
+The following older implementation should not control reconstruction:
+- B01 named Tahl primary POV;
+- B02 named Tahl ensemble role;
+- B02 “First Real Brush with VT”;
+- repeated Veil Tahl/VT interactions;
+- B03 named Tahl as ordinary ensemble member throughout;
+- Tahl personally integrated into Baz's social circle before the Warehouse Incident.
+
+Underlying investigative observations, MT posts, data maps, and reporting functions may be translated into anonymous supplement artifacts rather than discarded.
