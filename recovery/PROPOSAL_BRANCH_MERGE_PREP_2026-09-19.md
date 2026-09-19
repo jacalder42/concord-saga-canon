@@ -220,13 +220,10 @@ proposal/concord-2026-reconciliation`. No conflict resolution is required. A fol
 commit should then update `CLAUDE.md` §6, which still describes the branch as unmerged
 and lists what `main` lacks.
 
-**2. "As its own folder" needs one clarification.** §6.1 says the recovery material
-keeps its own top-level folder. The branch actually lands in **two**: `recovery/`,
-which already exists on `main` and would gain `checkpoints/` and `source_exports/`
-subfolders; and `proposals/`, which would be new at top level. That matches the intent
-as far as this document can tell — the analysis layer stays separable from canon — but
-if §6.1 meant a single folder holding both, say so before merging, because moving them
-afterwards rewrites paths that this branch's documents already cite.
+**2. "As its own folder" — clarified 2026-09-19.** Two folders, and they are a
+pipeline: **`recovery/` keeps the originals, `proposals/` keeps the distilled
+versions.** That is what the branch already does, so no paths move. Recorded in
+`CLAUDE.md` §1.0.
 
 **3. Pruning, per §6.1.** The sanitized exports are **never pruned in place**. Any
 pruning copies them to a separate folder and prunes the copy. The ChatGPT Business

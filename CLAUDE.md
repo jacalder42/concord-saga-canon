@@ -18,13 +18,30 @@ Non-prose canon substrate for the Concord Saga, a nine-book serial.
 | `book_context/` | `book_context_B01.json` .. `B09.json` |
 | `act_overlays/` | 27 per-act JSON overlays, `act_overlay_S1_T1_B01_A1.json` form |
 | `templates/` | Hand-authored templates for audits and bundles. Edit these freely; the **generated artifacts** produced from them are what must not be hand-edited |
-| `proposals/` | Analysis and proposal documents (`proposals/concord-2026/`). Present on the proposal branch only — see §6 |
-| `recovery/` | Recovery ledgers, migration audits, checkpoints, and sanitized source exports |
+| `proposals/` | **Distilled versions.** Analysis and proposal documents worked up from the originals (`proposals/concord-2026/`) |
+| `recovery/` | **Originals.** Ledgers, migration audits, checkpoints, and the sanitized source exports — never pruned or altered in place |
 | `tools/` | Validation scripts. `validate_canon.py` checks the substrate against `rules/canon_rules.json`; `test_validate_canon.py` is its self-test |
 | `reports/` | Generated validation reports — do not hand-edit, regenerate (see `reports/README.md`) |
 
 **No prose, scene text, or dialogue is stored here.** If a task would put
 narrative prose in this repo, stop and say so instead.
+
+### 1.0 `recovery/` holds originals, `proposals/` holds distilled versions
+
+Ruled 2026-09-19. The two folders are a pipeline, not a duplication:
+
+- **`recovery/`** is where source material lands unaltered. The sanitized exports in
+  `recovery/source_exports/` are **never pruned or edited in place** (decisions §6.1) —
+  the ChatGPT Business workspace has no export path and the share-link route was tested
+  and closed, so these files are the only copy that exists anywhere. Any pruning copies
+  them elsewhere and prunes the copy.
+- **`proposals/`** is where distillation of that material lives. Editable, revisable,
+  and tiered D under §5.
+
+This is why the `Technarch` correction of 2026-09-19 touched
+`proposals/concord-2026/` and `recovery/checkpoints/` but left
+`recovery/source_exports/` alone. The same rule governs every future cleanup: if it
+would alter an original, it does not happen in place.
 
 ### 1.1 `source_canon/` has an unresolved authority conflict — do not resolve it
 
