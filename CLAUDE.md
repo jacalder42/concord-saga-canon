@@ -260,7 +260,10 @@ on §4.1.
 
 1. Decide the fate of `proposal/concord-2026-reconciliation` — merge it into `main`, or
    record why it stays separate. Everything below assumes its contents are reachable.
-   **This is an author decision; prepare the merge and ask.**
+   **This is an author decision; prepare the merge and ask.** Preparation is done and
+   recorded in `recovery/PROPOSAL_BRANCH_MERGE_PREP_2026-09-19.md`: the merge is a
+   clean fast-forward that modifies no existing file, and four content conflicts it
+   would import are listed there. Awaiting the ruling.
 2. Correct the Act I overstatement once James rules on §6, plus any one-digit SIDs, the
    duplicate tier scheme, and the empty `ChatGPT - Story Development.html` source file
    (708 bytes, shell only), per §3, §5 and §6
