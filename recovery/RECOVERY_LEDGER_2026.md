@@ -2736,4 +2736,170 @@ END OF ENTRY 29
 
 ===============================================================
 
+===============================================================
+
+# 30. Recovery passes 1–3 performed — locations, combat, antagonists — 2026-09-19
+
+**Direction:** James, 2026-09-19 — *"proceed with recover passes, and review updated
+repo."*
+
+**Status:** THREE PASSES COMPLETE / NOTHING MIGRATED / ONE TIER-1 DEFECT FIXED
+
+| Pass | Document | Sources |
+| --- | --- | --- |
+| 1 | `recovery/LOCATIONS_RECOVERY_2026-09-19.md` | 3 Notion pages |
+| 2 | `recovery/COMBAT_CONFLICT_RECOVERY_2026-09-19.md` | 2 Notion pages |
+| 3 | `recovery/ANTAGONIST_ARCHITECTURE_RECOVERY_2026-09-19.md` | 2 sanitized exports |
+
+§29's central claim holds: **all three layers were already designed and simply never
+migrated.** None needed a shape decision. Details live in the three documents; what
+follows is what the ledger must carry.
+
+---
+
+## 1. Blockers found, none resolved
+
+**Three location taxonomies, none matching** (pass 1 §2). The geography system uses five
+Neon Zone types; the New Orleans bible uses `Blue Pulse Corridor` / `Red Lantern
+Faultline` / `Violet Spiral`; Reykjavík uses the shard progression as a spatial tier. The
+two New Orleans maps also disagree per-neighbourhood — Tremé and Marigny are **Blue
+Pulse** in the system and **Red Lantern Faultline** in the city bible; only the Warehouse
+District agrees, and only on colour. The city bible is four days later and stamped
+`FINAL CANON`. **`ENV` vocabulary cannot be derived until this is ruled**, because the two
+sources would produce different vocabularies.
+
+**The `Corridor` collision is four-way, not two** (pass 1 §3): the ECID `CORRIDOR` axis
+`U1`–`U7`; Loom Corridors as named travel routes; `"Blue Pulse Corridor"` as a *bloom
+zone*; and ordinary streets (`Laugavegur Corridor`, `RIVER CORRIDOR`). Sense 3 is the
+worst, applying the word to the thing sense 2 explicitly contrasts with — *zones are
+chaotic pockets, corridors are safe routes*. **Blocks the locations migration.**
+
+**Two protagonist surnames disagree with Tier-1 canon** (pass 2 §3). Notion's combat skill
+trees read **Caro Gauthier** and **Kade Rios**; `canon/` reads **Carolina "Caro" Alvarez**
+and **Kade Harper**, five files each. `Gauthier` and `Rios` appear zero times in `canon/`.
+The other five core names agree across both. This belongs with the parallel session's
+`CHARACTER_RECONCILIATION_MANIFEST_2026-09-20.md`, which does not currently cover either.
+
+## 2. What the passes settled without a decision
+
+**Locations — the narrative/character split is in the source.** `HYBRID RESONANCE
+GEOGRAPHY SYSTEM` §V is the place layer; §VIII "Character Interaction Rules" is the
+character layer (Kade *destabilizes* Amber Drift zones; Rex calculates corridor-edge
+routes; Elisabet's clarity-breath smooths a Drift Zone). One place layer plus a
+character-interaction layer referencing it — exactly the distinction James raised,
+already drawn.
+
+**Combat — confirmed from the other direction.** The skill trees' six tiers **are** UARS
+categories: Tier 3 is *Resonance Boost*, Tier 5 is *Failure Mode*. §29 read the `Phase 1A`
+export as putting combat inside the UARS action economy; the skill-tree structure confirms
+it. **No new schema is needed.** Combat also defaults to de-escalation — Elisabet and
+Lacuna both neutralise nonviolently, and only Rex carries *"weapon proficiency high"*.
+
+**Antagonists — both halves of the ruling already exist.** The individual half is done in
+`canon/` (five antagonists at or above protagonist file parity). The group half is in the
+exports as a **named "Antagonist Pressure Audit"**, with per-faction curves already
+written and audited. The Choirless entry is the model case: *whispered ideology Neon 4 →
+traction Neon 5 → violence Neon 6 → full militant splinter in Loom*, doctrine attached.
+The saga-level curve is stated as **Institutions → Splinters → Extremists → Collapse
+panic**, and two of the architecture's five immutable rules are already invariants in
+`canon_rules.json`.
+
+## 3. NEW — a three-pass integration pipeline was designed and abandoned
+
+`_ Narrative Structure _` closes its antagonist compression with a next-steps plan sitting
+exactly at the intersection of all three layers recovered here:
+
+| Pass | Would produce |
+| --- | --- |
+| Environmental × Antagonist | **"Antagonist Geography Bible"** |
+| Resonance × Antagonist | **"Resonance–Antagonist Interaction Bible"** |
+| Full tri-weave | **"Civic Resonance Conflict Atlas"** |
+
+**None of the three exists** — not in Notion, the exports, or the repository. The
+conversation offered A/B/C, recommended Pass 1, and moved to an unrelated topic without an
+answer. Same shape as the abandoned prologue question (§27.7).
+
+Its worked examples — Virelli onto Vienna, Saeko's marches onto fractured Uptown,
+Technarc Hardliners anchoring Singapore → AR instability → containment cordons — are
+consistent with the geography system recovered in pass 1. **The two documents were written
+to fit together and never joined up.** This is the most concrete "organize" step (James's
+step 2) that the sources themselves propose.
+
+## 4. NEW — Silence and Hope are characterized mechanically for the first time
+
+The `CONFLICT ENGINE (v1.0)` vulnerability-trigger list ends with two entries that matter
+for work-queue item 9b:
+
+- **Silence** — paradox loops, emotional noise
+- **Hope** — emotional overload, compassion fractures
+
+and mode `M5` Cosmological names *"Silence paradox loops, Hope overload, VT instability"*.
+
+§22 recorded the 21 exports as holding essentially nothing on them. This is thin — two
+lines — but it is the first located source that gives them **mechanical** properties
+rather than naming them. Notion `08.10` and `08.11` remain the primary 9b targets.
+
+## 5. FIXED — 69 ChatGPT citation artifacts in three Tier-1 files
+
+Found while cross-checking the protagonist surnames. `TahlID.md` (27), `LacunaID.md` (21)
+and `KadeID.md` (21) carried stray `:contentReference[oaicite:NN]{index=NN}` markers —
+migration residue never cleaned. The first line of `KadeID.md` read
+`- **Name:** Kade Harper :contentReference[oaicite:27]{index=27}`.
+
+**Verified lossless before removal:** 68 of 69 sat at end of line, and the single mid-line
+case was two consecutive markers at a line end. Nothing but whitespace followed any of
+them. `canon/`, `rules/` and `grids/` now read **zero**.
+
+This is tool residue, not canon, so removing it was not a canon decision. It was **not**
+one of the §9.1 known defects — it had not previously been noticed. Validator unchanged at
+27 substrate violations.
+
+## 6. Repository review — the parallel session
+
+Fourteen commits since `973a7a0`, a secondary/tertiary **character and casting** pass:
+audit passes 1–3, then editorial casting resolutions for NOLA civic, Filament, Saeko
+orbit / civilian radicalization, Reykjavík, Vienna, Singapore, global place anchors and
+media supplements, plus a Choirless/Koro Ito forensic recovery, a trilogy cast recurrence
+check, and `CHARACTER_RECONCILIATION_MANIFEST_2026-09-20.md`.
+
+The manifest is disciplined — `CONSOLIDATED EDITORIAL PROPOSAL — DO NOT MIGRATE TIER-1
+CANON YET`, an explicit approval gate, a six-step migration procedure and a KEEP / RENAME /
+MERGE / DEMOTE legend. It uses the SOURCE_AUDIT authority lettering, so the §26.4
+collision persists; already flagged, not re-raised.
+
+**Two overlaps with this session's passes need cross-checking before either promotes:**
+
+1. The Reykjavík city bible introduces a castable tertiary character (the Harbor Shack #7
+   fisherman) and `EDITORIAL_CASTING_RESOLUTION_REYKJAVIK_2026-09-19.md` casts that city.
+2. The antagonist architecture's **Proto-Extremist Filament Leader — unnamed youth who
+   seeds splinter militancy** is an uncast role, and both the Filament and civilian
+   radicalization casting resolutions are live on that territory.
+
+Neither is a conflict yet. Both become one if the two lines cast the same slot differently.
+
+## 7. Prose rule observed
+
+Four recovered pages contain prose, dialogue or generation tags: the New Orleans bible's
+Sudowrite location keys, Reykjavík's "Signature Elisabet Moment" and a quoted Kade `MT`
+line, and the Book 9 epilogue page read in §27. **None was transcribed.** Structure,
+function and mechanics are recorded; the prose stays in Notion, and each document says so.
+
+## 8. Added to the author queue
+
+1. **Which location taxonomy governs** (§1) — blocks `ENV`.
+2. **The four-way `Corridor` collision** (§1) — blocks the locations migration.
+3. **Caro's and Kade's surnames** (§1).
+4. **Run the three-pass integration, and in what order** (§3)?
+5. **Extend the faction directory pattern to the five antagonist factions?** This is the
+   concrete form of the group pressure-curve ruling.
+6. **Do Vienna, Singapore and Marrakesh have city bibles**, or need authoring? Only
+   Reykjavík carries a `Deep-Pass v1` suffix, which implies a programme.
+7. **Does the Conflict Engine's two-axis model stand** (Tier 0–5 plus C0–C5), and is its
+   `Tier` the same 1–5 scale as `reader_pressure.csv`'s `intensity_1_5` and the milestone
+   load's `pressure_before`/`pressure_after`? Possibly three unrelated 1–5 scales.
+
+END OF ENTRY 30
+
+===============================================================
+
 END RECOVERY LEDGER

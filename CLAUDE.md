@@ -442,6 +442,14 @@ ledger §28. The three findings that change how the queue below should be read:
 
   Still genuinely unstructured: character arcs, POV allocation, chronology, motif binding.
   **And Seraphine — the lead — has no `EBCI` file**, the only main character without one.
+- **Recovery passes 1–3 are done** (2026-09-19, ledger §30). All three layers are recovered
+  into `recovery/LOCATIONS_RECOVERY_`, `COMBAT_CONFLICT_RECOVERY_` and
+  `ANTAGONIST_ARCHITECTURE_RECOVERY_2026-09-19.md`. **Nothing is migrated**, and two
+  blockers stop the locations layer: the **three-way location taxonomy conflict** (which
+  also blocks deriving an `ENV` vocabulary) and the **four-way `Corridor` collision**. A
+  third finding stands apart: an **Environmental × Antagonist × Resonance three-pass
+  integration was designed and abandoned**, and its three output bibles exist nowhere —
+  it is the most concrete "organize" step the sources themselves propose.
 - **Only two questions truly gate the cascade**: item 1 below, and *which Veil draft is
   canon*. Most of the rest blocks one artifact, not the pipeline.
 
