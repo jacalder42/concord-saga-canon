@@ -570,3 +570,68 @@ Until the original author-selection exchange is recovered:
 - current working name: **Bastien “Baz” Arnaud**;
 - historical **Foix** references remain valid provenance and must not be rewritten inside archived source evidence;
 - search remains open for the explicit rename/lock and for whether the first-name change Basil → Bastien was part of the same decision.
+
+
+# 18. Tahl pre-reveal / Threadnaut / MT reconciliation
+
+## Current author constraint
+Tahl is **not a primary character and may not be named on-page before the B03 epilogue**. Earlier B1–B3 sources that openly identify Tahl are therefore implementation drift, not governing placement.
+
+## Recovered historical functions
+Older source material consistently preserves several useful functions even though it names Tahl too early:
+- B1 Act I labels a cluster **“Tahl, Threadnaut”** and describes MT as the human lens.
+- The Filament/Civic Bible says Filaments are the whisper network behind Missing Thread before it becomes public and Tahl becomes their chronicler.
+- B4 Final Beat Bible says Filaments begin calling the now-public Tahl **“Threadnaut.”**
+- Tech/Communications Bible describes Tahl documenting early anomalies, then modifying his equipment as MT grows.
+
+## Reconciled presentation model
+### B01–B03 main text
+- Preserve **MT / MissingThread artifacts** as foreshadowing.
+- Preserve **Threadnaut** as an anonymous persona, community label, artifact tag, or reader-facing identity if useful.
+- Do **not** identify Threadnaut as Tahl Morgan on-page.
+- Do **not** give Tahl ordinary named POV scenes or cast participation before the epilogue.
+- Earlier named-Tahl investigative beats may be mined for anonymous MT supplement content rather than discarded wholesale.
+
+### B03 Warehouse Incident
+- Tahl's historical function as recorder/chronicler may survive **offstage through MT/Threadnaut artifacts**, without making him part of the visible ensemble.
+- Current reconstruction candidate: Threadnaut reporting accidentally exposes Baz/the Warehouse response in a way that contributes to Baz's vulnerability. This remains OPEN until documentary confirmation or author lock.
+
+### B03 epilogue
+Strong reconstruction target:
+1. Reveal the anonymous MT/Threadnaut human as **Tahl Morgan** for the first time.
+2. Tahl recognizes the human consequence of what he reported — potentially his accidental role in exposing Baz/the Warehouse situation.
+3. He may not yet know Baz's name; the moral wound is that a real person was harmed downstream of his truth-telling.
+4. Unable to find relief in the feed/data, he looks upward / searches the sky.
+5. This leads into Tahl's **first and only Veil VT brush**.
+6. The brush grants no power, prophecy, or metaphysical competence; it is over-clarity / boundary pressure followed by exhaustion and uncertainty.
+7. This creates the ethical engine for Neon Tahl: truth matters, but publication has consequences.
+
+### B04 onward
+- Tahl can become a named Neon lead.
+- The old B4 beat in which Filaments call him **Threadnaut** can survive as the public attachment of an older anonymous label/persona to the now-known man.
+
+## Canon-value assessment
+This model preserves the strongest pieces of both development eras while obeying the later author lock. It also makes the B03 epilogue perform four jobs efficiently: Tahl reveal, Baz consequence, MT ethics, and VT foreshadowing.
+
+# 19. Tahl gear evolution — recovered historical architecture
+
+The November Tech & Communications Bible contains a clear equipment-growth concept, but part of its explanation conflicts with current Mechanica's hard rule that resonance never transmits digitally.
+
+## Recoverable physical progression
+1. **Veil / anonymous Threadnaut:** ordinary human reporting/anomaly-documentation kit; public tech remains mostly reliable but glitches near pressure events.
+2. **Late Veil / early Neon:** Tahl modifies and ruggedizes the kit while chasing repeatable anomaly patterns.
+3. **Neon:** hybrid analog/digital resopunk tools, low-frequency backups, rugged comm units; equipment becomes distinctive and personal.
+4. **Late Neon:** equipment is repeatedly present during extreme pressure/VT-adjacent events; Tahl's use-pattern and repairs make it a unique survivor tool.
+5. **Post-Tahl / Loom:** Kade inherits the physical rig/recorder/transmitter lineage; Filament networks use it as part of the mortal communications backbone.
+
+## Historical concept requiring rewrite under Mechanica v4
+Old source says the equipment briefly synchronized with VT harmonics, acquired an Echo/metaphysical imprint, and therefore transmitted through resonance storms. Current Mechanica says:
+- resonance never transmits digitally;
+- technology is a casualty, not a resonance carrier;
+- MT is purely mortal technology;
+- MT cannot access VT/LT.
+
+Therefore the **gear lineage is recoverable; magical/metaphysical signal carriage is not.** Any exceptional reliability must be explained through human engineering, analog redundancy, routing, environmental adaptation, Filament relay infrastructure, or other Mechanica-compliant means unless Mechanica itself is deliberately reopened.
+
+## Development opportunity
+Tahl's gear should visibly evolve with his investigative practice. It can become a physical biography: every modification solves a failure encountered earlier. This lets the B03 epilogue show an early, recognizable version without making the device magical, and gives Kade's later inheritance emotional weight.
