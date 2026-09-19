@@ -491,4 +491,229 @@ itself is recorded in `CLAUDE.md` §9.1 and expanded in §16 of this ledger.
 2. How are epilogue units identified, given `A{1-3}` has no slot for them — and does
    the same answer cover the `E00` prologue?
 
+---
+
+# 16. Known defects register
+
+Status: DOCUMENTED / NOT FIXED / FIXES PROPOSED ONLY
+
+The five defects summarised in `CLAUDE.md` §9.1, with exact scope: which files, how
+many occurrences, and what a fix would change. **No fix in this section has been
+applied.** Defect 1 is a canon question and is the author's alone. Each entry should be
+read before any work that touches the same files.
+
+---
+
+## 16.1 Faction name drift — `Technarc` vs `Technarch`
+
+**This is canon, not spelling. Do not "fix" it.**
+
+### Scope
+
+64 occurrences of `Technarc`, 9 of `Technarch`, excluding `CLAUDE.md` and `recovery/`,
+which quote both forms while documenting them.
+
+The faction's own file, `canon/factions/Technarc.md`, titles it
+**THE TECHNARC DIRECTORATE** — no `h` — and uses that form throughout.
+
+All 9 variant occurrences:
+
+| File | Line | Context |
+| --- | --- | --- |
+| `canon/characters/RexID.md` | 42 | "**Technarch pressure point:** asked to certify a system…" |
+| `canon/characters/RexID.md` | 60 | "**Neon:** Technarch pressure escalates…" |
+| `canon/characters/RexID.md` | 67 | "**Employer naming variance:** Technarch / Technarch Directorate…" |
+| `canon/characters/VirelliID.md` | 117 | "Technarch hardliners and early anti-emotion movements reuse his logic" |
+| `canon/factions/Dominions.md` | 98 | "Technarch hardliners and early anti-emotion movements reuse Dominion logic" |
+| `canon/trilogy_veil.md` | 10 | "TODO: Dominions institutional pressure; early Technarch patterns." |
+| `canon/trilogy_neon.md` | 10 | "Technarch hardliners, Choirless emergence, manufactured meta failures." |
+| `rules/symbols/GEOMETRY_MOTIFS.md` | 42 | "- Technarch systems" |
+
+### Why this is not a typo sweep
+
+`canon/characters/RexID.md` line 67 sits under the heading
+**"XI. Canon Conflict Ledger (Preserved Record)"** and reads:
+
+> **Employer naming variance:** Technarch / Technarch Directorate treated as the same
+> institutional pressure source
+
+The variance is therefore **already recorded as a known and tolerated one** in tier-1
+character canon, alongside three other deliberately preserved variances (legacy origin
+package, geographic arc, engineering field phrasing). A find-and-replace would silently
+overwrite a canon ledger entry that exists to preserve exactly this.
+
+There is a second reading. That same line writes `Technarch / Technarch Directorate`
+with the `h` on both sides, while the faction file writes `Technarc Directorate`
+without. So the ledger entry may itself contain the drift it documents, in which case
+it records a variance between two spellings but names only one of them. **Both readings
+are recorded; neither wins.**
+
+### Proposed fixes — pick one, none applied
+
+**A. `Technarc` is canonical; the 9 variants are drift.** Correct all 9, and rewrite
+`RexID.md` line 67 to name both spellings accurately. Changes 8 files. Risk: if
+`Technarch` was ever an intentional in-world variant — a colloquial or hostile form,
+say — this erases it.
+
+**B. Both forms are canonical**, as `RexID.md` line 67 can be read to say. Change
+nothing in the 8 files; add a naming note to `canon/factions/Technarc.md` recording
+that both are in use and what each signifies. Changes 1 file.
+
+**C. `Technarch` is canonical** and the faction file is the outlier. Changes 1 file
+plus 64 occurrences. Least likely, listed for completeness.
+
+### Ruling needed
+
+Which spelling is canonical, and does `RexID.md` line 67 mean the variance is
+tolerated or that it needs correcting?
+
+---
+
+## 16.2 Trilogy envelopes contradict the escalation model
+
+### Scope
+
+Three files, one field each, plus a second field that is also uniform:
+
+| File | `default_vfx_ceiling` | `weather_max` | `corridor_max` | `allowed_heat_range` |
+| --- | --- | --- | --- | --- |
+| `rules/trilogy_context_T1_veil.json` | `FX1` | `W3` | `U5` | `H0`–`H4` |
+| `rules/trilogy_context_T2_neon.json` | `FX2` | `W3` | `U5` | `H0`–`H4` |
+| `rules/trilogy_context_T3_loom.json` | `FX3` | `W3` | `U5` | `H0`–`H4` |
+
+Only the FX ceiling escalates. Weather, corridor and heat are identical across all
+three trilogies.
+
+### What it contradicts
+
+`rules/Mechanica-v4.md` §7.3 describes the Loom trilogy as:
+
+> - Systemic collapse
+> - Resonance storms dominate
+> - Corridor failures widespread
+> - Shards shape geography
+
+`Mechanica-v4.md` §25 defines `U6` as "Shard-Laced — fractures present, severe
+instability, catastrophic failure likely", and §30 defines `W4` as `Landfall`. Those
+are the mechanical terms for what §7.3 describes, and the Loom envelope forbids both.
+
+### Consequence
+
+`U6`, `U7` and `W4` are in the controlled vocabulary at
+`rules/canon_rules.json` and are **unreachable in every trilogy**. Three of seven
+corridor tiers and one of five weather states can never legally appear.
+
+This also blocks work-queue item 4:
+`proposals/concord-2026/MIGRATION_MAP_BOOK_CONTEXT_ACT_OVERLAYS.md` instructs that
+`escalation_permissions` be "cross-derived from Mechanica v4 + trilogy envelope rules",
+and those two sources do not currently agree. And the recovered material already
+breaches it — `S1.T1.B3.A3.E14` carries `Weather: W4 (brief)` inside Veil (§15).
+
+### Proposed fixes — none applied
+
+**A. Raise the Loom and Neon ceilings** so escalation is expressed in all three
+dimensions, not just FX. Changes 2 files, 4 values. This is the reading `Mechanica-v4.md`
+§7.3 supports, but the specific ceilings are a canon judgement — whether Neon reaches
+`U6`, whether Veil's `W4` breach at E14 is a sanctioned exception or an error.
+
+**B. Keep the ceilings and treat U6/U7/W4 as out-of-envelope by design**, reachable
+only through an explicit per-episode exception mechanism that does not yet exist.
+Changes 0 files but requires a new exception field in the schema and a rule for it.
+
+**C. Narrow the controlled vocabulary** to what the envelopes permit. Rejected on its
+face — it would delete `U6`, `U7` and `W4` from Mechanica, which §7.3 depends on.
+
+### Ruling needed
+
+Do the Loom and Neon envelopes rise, or does an exception mechanism cover
+`S1.T1.B3.A3.E14` and anything like it?
+
+---
+
+## 16.3 All six grids are header-only
+
+### Scope
+
+| File | Data rows | Columns |
+| --- | --- | --- |
+| `grids/breadcrumbs.csv` | 0 | 9 |
+| `grids/episode_beats.csv` | 0 | 17 |
+| `grids/milestones_payoffs.csv` | 0 | 16 |
+| `grids/reaction_modifiers.csv` | 0 | 9 |
+| `grids/reader_pressure.csv` | 0 | 8 |
+| `grids/supplement_deployment.csv` | 0 | 9 |
+
+### Consequence
+
+Two of the five checks in `rules/validation_checks.json` cannot run:
+`CHK_BREADCRUMBS` ("setups map to payoffs; no orphan hints") has no breadcrumbs to
+check, and `CHK_EMO_CIRCUIT` has no pressure data. `pressure_thresholds.notes` in the
+same file says "Tune per reader cohort in reader_pressure.csv", which has no cohorts.
+
+The headers themselves are sound — `episode_beats.csv` carries all eight ECID fields
+plus `SID` and `BID`, and `tools/validate_canon.py` confirms the ECID block is
+complete.
+
+### Proposed fix — none applied
+
+This is not a defect to fix directly. The grids populate as a **consequence** of
+work-queue items 4, 5 and 5a: `episode_beats.csv` receives rows when packets migrate.
+The others (`breadcrumbs`, `milestones_payoffs`, `reader_pressure`) hold editorial
+telemetry that has no recovered source yet identified.
+
+What is worth deciding now: whether `episode_beats.csv` is the migration target for
+recovered packets at all, or whether packets land in `act_overlays/` with the grid
+derived afterwards. `MIGRATION_MAP` does not say.
+
+---
+
+## 16.4 All act overlays and book contexts are identical templates
+
+### Scope
+
+- **27 of 27** act overlays reduce to a single distinct file shape once `act_id`,
+  `book_id` and `trilogy_id` are normalised away.
+- **9 of 9** book contexts likewise, normalising `book_id`, `trilogy_id` and `title`.
+- **1 distinct** `soft_modulation` setting across all 27 overlays:
+  `fun`, `slice_of_life` and `wonder` all `allowed: true`, `max_intensity: LOW`.
+
+That last value is identical in `act_overlay_S1_T1_B01_A1.json`, the saga's opening
+act, and `act_overlay_S1_T3_B09_A3.json`, its climax.
+
+### Consequence
+
+The 27 `TODO` placeholders in `escalation_permissions` across the nine book contexts
+are the **entire substrate violation count** in
+`reports/VALIDATION_BASELINE_2026-09-19.md`. Nothing else in the substrate fails.
+
+### Proposed fix — none applied
+
+`MIGRATION_MAP_BOOK_CONTEXT_ACT_OVERLAYS.md` already reaches the same conclusion
+independently — it calls the uniform `LOW` values "template defaults rather than
+recovered act-specific canon" and instructs that `escalation_permissions` stay `TODO`
+until systems reconciliation completes. That instruction is correct and should be
+followed rather than replaced.
+
+So: no fix. These files populate through work-queue items 4 and 5a, and item 4 is
+blocked on §16.2.
+
+---
+
+## 16.5 No validation tooling — addressed 2026-09-19
+
+Recorded here for completeness; this one is closed.
+
+`tools/validate_canon.py` now enforces SID format including the two-digit book rule,
+ECID field names, and controlled-vocabulary membership across all six dimensions,
+reading every rule from `rules/canon_rules.json` rather than hardcoding it.
+`tools/test_validate_canon.py` covers it with 27 tests. Baseline reports are under
+`reports/`.
+
+It closes the mechanical half only. The five checks named in
+`rules/validation_checks.json` — `CHK_HUMANITY`, `CHK_BREADCRUMBS`, `CHK_CHANNELS`,
+`CHK_ANTAG`, `CHK_EMO_CIRCUIT` — are editorial judgements about story content and still
+need a reader. It also cannot catch §16.1 (a spelling question) or §16.2 (a semantic
+one); both use valid tokens throughout.
+
+
 END RECOVERY LEDGER

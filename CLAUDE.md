@@ -300,8 +300,11 @@ on §4.1.
 
 ### 9.1 Known defects on `main`, unfixed
 
-Flagged, not yet ruled on. Do not silently fix these while doing other work; they each
-need their own ledger entry.
+Flagged, not yet ruled on. Do not silently fix these while doing other work.
+
+**Each is now scoped in full — files, occurrence counts and proposed fixes — in
+`recovery/RECOVERY_LEDGER_2026.md` §16.** Read the relevant entry before touching any
+file it names. No fix has been applied; two of the five need a ruling before one can be.
 
 - **Faction name drift.** `Technarc` (64 uses) vs `Technarch` (9). The faction file is
   `canon/factions/Technarc.md`. The variant appears in `canon/characters/RexID.md` (3),
