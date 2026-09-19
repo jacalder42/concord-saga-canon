@@ -3036,4 +3036,94 @@ END OF ENTRY 31
 
 ===============================================================
 
+===============================================================
+
+# 32. Proposal branch fast-forwarded into `main` — 2026-09-19
+
+**Authority:** `recovery/CANON_DECISIONS_2026-09-18.md` §6.1, executed on James's explicit
+instruction 2026-09-19. **Work-queue item 1 is closed.**
+
+**Status:** MERGED / FAST-FORWARD / NOTHING MODIFIED OR DELETED
+
+---
+
+## 1. What happened
+
+```
+main: 253fdf4 → 9e2f345   (fast-forward, 47 additions, 0 modifications, 0 deletions)
+```
+
+`origin/proposal/concord-2026-reconciliation` is **left in place as a ref**, now pointing
+at the same commit as `main`.
+
+## 2. Preconditions verified before touching anything
+
+All four were checked and all four passed:
+
+| Check | Expected | Actual |
+| --- | --- | --- |
+| `git rev-parse origin/main` | `253fdf42899366a8dd528ed913025737dac63706` | matched |
+| `git rev-parse origin/proposal/concord-2026-reconciliation` | `9e2f3456ad0e4c17c93d4946b619934af3f12279` | matched |
+| `git merge-base --is-ancestor origin/main origin/proposal/...` | exit 0 | **exit 0** |
+| `git diff --name-status` between them | 47 lines, every one `A` | **47 lines, 47 `A`, 0 non-`A`** |
+
+The diff shape is the important one: **every change is an addition.** No file on `main`
+was modified, renamed or deleted by this merge, which is what
+`recovery/PROPOSAL_BRANCH_MERGE_PREP_2026-09-19.md` predicted and what made the merge safe
+to perform mechanically.
+
+No conflicts were resolved, nothing was squashed, nothing was rebased, and no merge commit
+was created — `--ff-only` at both the pull and the merge, and the push reported
+`253fdf4..9e2f345` with no `+`, confirming no force.
+
+## 3. Post-merge verification
+
+| Check | Expected | Actual |
+| --- | --- | --- |
+| `git rev-parse origin/main` | `9e2f345…` | matched |
+| `git log --oneline -1` | — | `9e2f345 Document sanitized export splitting and security handling` |
+| `ls recovery/source_exports/html_sanitized/ \| wc -l` | 22 | **22** |
+| `git merge-base --is-ancestor origin/main origin/claude/gifted-goodall-st4n7r` | exit 0 | **exit 0** |
+
+**The working branch is unaffected.** `origin/main` is an ancestor of
+`claude/gifted-goodall-st4n7r`, so there is no divergence and no rebase is needed; the
+working branch sits 105 commits ahead of `main`. Validator on the working branch unchanged
+at 27 substrate violations, 63 self-tests passing.
+
+## 4. What this unblocks
+
+`CLAUDE.md` §6's central warning — *"The recovery work is not on `main`"* — **no longer
+holds.** `main` now carries the 21 sanitized exports plus their README, the
+2026-09-15 checkpoints, and the `proposals/concord-2026/` analysis set.
+
+Work-queue items that were **"blocked on item 1 only"** are now unblocked on that count:
+
+- **Item 4** — migrate the Veil Consolidated Beat Bible into `book_context_B01/B02/B03`
+  and the nine Veil act overlays. *Still gated by the open question of which Veil draft is
+  canon (§27.6 records three drafts), so unblocked is not the same as ready.*
+- **Item 5** — migrate the E16–E18 packets. The §1.5 mapping is ready and all three
+  packets were verified inside their act bands on 2026-09-19.
+- **Item 5a** — migrate the Book 3 Act III structural shells. Downstream of item 4, and
+  still touching the open `EP`-slot question for its four epilogue shells.
+
+Item 1's own preparation document, `recovery/PROPOSAL_BRANCH_MERGE_PREP_2026-09-19.md`,
+also listed **four content conflicts the merge would import**. Those are now imported and
+live on `main`. Importing them was the expected and accepted cost of the merge — they are
+conflicts *between recovered documents*, not defects introduced by the merge — but they
+are now `main`'s conflicts rather than a branch's, and the migration items above run into
+them.
+
+## 5. What did NOT change
+
+- **No canon decision was made.** A fast-forward merge moves a pointer; it does not
+  adjudicate anything the merged documents disagree about.
+- **The proposal branch ref is retained**, per instruction.
+- **`CLAUDE.md` §6 is now stale** in its "not on `main`" framing. Updated in the same
+  commit as this entry; the section's file-level facts about what the branch held are
+  preserved as the record of what was merged.
+
+END OF ENTRY 32
+
+===============================================================
+
 END RECOVERY LEDGER

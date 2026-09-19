@@ -341,10 +341,18 @@ commit messages alone are too easy to lose.
 
 > Verify with `git` before trusting this section; it dates quickly.
 
-**The recovery work is not on `main`. It is on the branch
-`proposal/concord-2026-reconciliation`, 50 commits ahead and 0 behind, unmerged.**
+> **SUPERSEDED 2026-09-19 — the merge is done.** `main` was fast-forwarded
+> `253fdf4 → 9e2f345` on James's instruction (authority: decisions §6.1). All 47 changes
+> were additions; nothing on `main` was modified or deleted. The proposal branch ref is
+> retained. **Work-queue item 1 is closed.** Ledger §32.
+>
+> Everything listed below is now **on `main`**. The list is kept as the record of what the
+> merge brought over.
 
-That branch holds, and `main` does not:
+**The recovery work was not on `main`. It was on the branch
+`proposal/concord-2026-reconciliation`, unmerged until 2026-09-19.**
+
+That branch held, and `main` did not:
 
 - `recovery/source_exports/html_sanitized/` — 21 sanitized ChatGPT exports plus a
   README, split into parts, including `Episode expansion process`,
@@ -359,8 +367,8 @@ That branch holds, and `main` does not:
   migration map for book contexts and act overlays, the authority map, and the
   structural audits
 
-Check out that branch before concluding anything is missing. A handoff document written
-against `main` alone will understate what has been recovered.
+~~Check out that branch before concluding anything is missing.~~ No longer necessary —
+`main` carries all of it as of 2026-09-19.
 
 **The seven exports once reported missing are present on that branch** at
 `recovery/source_exports/html_sanitized/`: `Trilogy Act-Level Beat Backup`,
@@ -478,12 +486,13 @@ bands, applied 2026-09-19** (ledger §18). Items 4, 5 and 5a are **no longer blo
 the envelope**. What remains: item 1 is ruled (merge, §6.1) but not performed on
 `main`, and the Post-Mending era file is held pending the `LT` question.
 
-1. Decide the fate of `proposal/concord-2026-reconciliation` — merge it into `main`, or
-   record why it stays separate. Everything below assumes its contents are reachable.
-   **This is an author decision; prepare the merge and ask.** Preparation is done and
-   recorded in `recovery/PROPOSAL_BRANCH_MERGE_PREP_2026-09-19.md`: the merge is a
-   clean fast-forward that modifies no existing file, and four content conflicts it
-   would import are listed there. Awaiting the ruling.
+1. ~~Decide the fate of `proposal/concord-2026-reconciliation`.~~ **DONE 2026-09-19 —
+   merged.** Fast-forwarded `253fdf4 → 9e2f345`; 47 additions, 0 modifications, 0
+   deletions; branch ref retained. Ledger §32. **This unblocks items 4, 5 and 5a on the
+   item-1 count only** — item 4 is still gated by which Veil draft is canon, and 5a by
+   the `EP`-slot question. The four content conflicts
+   `recovery/PROPOSAL_BRANCH_MERGE_PREP_2026-09-19.md` predicted are now imported and are
+   `main`'s to resolve.
 2. Correct the Act I overstatement once James rules on §6, plus any one-digit SIDs, the
    duplicate tier scheme, and the empty `ChatGPT - Story Development.html` source file
    (708 bytes, shell only), per §3, §5 and §6
