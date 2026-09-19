@@ -635,3 +635,13 @@ Therefore the **gear lineage is recoverable; magical/metaphysical signal carriag
 
 ## Development opportunity
 Tahl's gear should visibly evolve with his investigative practice. It can become a physical biography: every modification solves a failure encountered earlier. This lets the B03 epilogue show an early, recognizable version without making the device magical, and gives Kade's later inheritance emotional weight.
+
+
+## AUTHOR LOCK — Baz identity name (2026-09-19)
+- **Current canonical identity:** **Bastien “Baz” Arnaud**.
+- **Superseded historical identity:** Basil “Baz” Foix.
+- Author recollection places the Arnaud adjustment in the character-backstory development pass.
+- Author has no functional preference between the surnames and approves the recovered/current Arnaud identity as the lock.
+- Editorial/backstory fit supports Arnaud; no plot or Mechanica dependency requires Foix.
+- Historical source documents must retain Foix unchanged for provenance, but all new/current canon should use **Bastien “Baz” Arnaud**.
+- The original rename exchange may still be recovered for provenance, but it is no longer required to resolve canon.
