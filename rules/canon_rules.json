@@ -128,5 +128,44 @@
     },
     "purpose": "Carries emotional load, which HEAT (romance ladder), FX and WEATHER (environmental) and MODE (register) do not. Its absence is why STRAIN was drafted as a pseudo-state.",
     "source": "recovery/CANON_DECISIONS_2026-09-18.md 1.4"
+  },
+  "supplement_system": {
+    "note": "Type, function and vehicle are three independent axes. Nothing is overloaded; the field decides what a token means. See recovery/CANON_DECISIONS_2026-09-18.md 3.",
+    "supplement_types": {
+      "LORE": "Historic or background information",
+      "POL": "Political communiques giving information not seen in the narrative",
+      "FUN": "Humor or an enjoyable story, placed when the narrative is in a heavy stretch",
+      "SLICE": "How life is progressing outside the narrative"
+    },
+    "supplement_types_provisional": {
+      "_status": "UNRATIFIED. Proposed in recovery/CANON_DECISIONS_2026-09-18.md 7, which follows necessarily from the 4.1 archetype definitions but was not ruled on directly. Without these, three of the five reader archetypes have no supplement type that serves them. Do not treat as locked.",
+      "ROM": "Relationship progression happening off-page",
+      "TECH": "Resopunk systems, mechanics and progression",
+      "CHAR": "Character interiority - backstory, private motive, ensemble dynamic"
+    },
+    "supplement_functions": {
+      "PING": "I see you. Stay with us.",
+      "TENSION": "The world is tightening.",
+      "RELEASE": "Yes, this is the payoff you needed.",
+      "LINK": "Plot linkage - conveying off-page events (Chronicle leaks, MT civic updates, route changes, hazard warnings)"
+    },
+    "supplement_vehicles": {
+      "MT": "The Missing Thread",
+      "CHRON": "Chronicle",
+      "VEIN": "Vein",
+      "FIELD": "Field Notes",
+      "VT": "VT Glimpses",
+      "VELVET": "Velvet Vein Menu / Cocktail Book",
+      "RITUAL": "Resonance Recipes / Music / Ritual Inserts"
+    },
+    "constraints": {
+      "vt_glimpses_max_total": 12,
+      "vt_glimpses_min_total": 10,
+      "vt_glimpses_scope": "all nine books combined",
+      "word_count_min": 150,
+      "word_count_max": 600,
+      "placement": "between episodes"
+    },
+    "token_collision_note": "MT appears in two vocabularies: as a channel it is Mortal Technology (channels.MT); as a supplement vehicle it is The Missing Thread. VT likewise is both a channel, a resonance state, and a supplement vehicle. Per 4.2 the field disambiguates, not the token."
   }
 }

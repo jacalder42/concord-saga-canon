@@ -135,7 +135,7 @@ Never decide, invent, or quietly resolve:
 - Contradictions between two canon sources — record both readings and where each came
   from, then flag it
 - Whether unapproved or assistant-generated material becomes canon
-- **The controlled-vocabulary collision.** See §4.1 — it blocks the migration queue.
+- **The trilogy envelope replacement rule.** Open — decisions §8 item 1. It blocks migration; see §4.1 and §9.1.
 - **E19 and beyond.** E19 is named but never built. Do not generate, draft, or outline
   it. The prohibition stands until James lifts it.
 
@@ -144,27 +144,34 @@ and ask; do not pick a winner. That rule binds this document too: where an earli
 version of this file overruled a repository artifact, §6 now records both readings
 instead.
 
-### 4.1 Controlled-vocabulary collision — blocks work-queue items 4 and 5
+### 4.1 The controlled-vocabulary collision — RESOLVED 2026-09-18
 
-The recovered episode packets use ECID tokens that are **not** in the controlled
-vocabulary at `rules/canon_rules.json`. Counted across the sanitized exports:
+The collision recorded here is settled by `recovery/CANON_DECISIONS_2026-09-18.md` §1
+and §3. Kept for the resolution, because migration still has to apply it.
 
-| Token | Field | Occurrences | Status |
-| --- | --- | --- | --- |
-| `STRAIN` | Resonance State | 17 | Not in `res_states` — more frequent than `CALM` (12) |
-| `LORE` | Mode | 5 | Not in `modes` |
-| `POL` | Mode | 1 | Not in `modes` |
-| `EDGE` | Resonance State | 1 | Not in `res_states` |
-| `BRUSH` | Resonance State | 1 | Not in `res_states` |
+| Token | Was recorded as | Ruling |
+| --- | --- | --- |
+| `STRAIN` (17) | missing `res_states` member | **Not a state.** Mechanica §33 stands. Strain remains canon as a *signal* (`COLOR_SEMANTICS.md`, Mechanica §51) and as the new `LOAD` axis, §1.1 and §1.4 |
+| `EDGE` (1) | missing `res_states` member | **Not a state.** `SHARD-EDGE` is an oversimplification, not an endorsed form. Nuance moves to `Notes`, §1.2 |
+| `BRUSH` (1) | missing `res_states` member | **Not a state.** `VT-BRUSH` refers to the VeilThread channel; the operative token is `VT`, §1.2 |
+| `LORE` (5) | missing `modes` member | **Not a mode — a `supplement_type`**, §3.1 |
+| `POL` (1) | missing `modes` member | **Not a mode — a `supplement_type`**, §3.1 |
 
-`canon_rules.json` allows `res_states` of `CALM / BLOOM / SHARD / RUPTURE / NODE /
-VT / LT`, matching `rules/Mechanica-v4.md` §33. It allows `modes` of
-`ROM / HUM / ACT / SCI / CIV / INT / HOR / SLICE`.
+The root cause was a missing axis, not a missing vocabulary. `LORE` and `POL` drifted
+into `MODE` because there was no supplement-type column to hold them, and `STRAIN`
+became a pseudo-state because nothing carried emotional load.
 
-Migrating E16–E18 hits this on the first ECID block. Either the vocabulary is
-incomplete or the packets are out of spec — that is a canon decision, so **stop and
-ask**. Do not silently map `STRAIN` onto `SHARD`, do not widen the vocabulary, and do
-not migrate the packets with the tokens stripped.
+**ECID fields hold a single value** (§1.3). Arrow forms such as `CALM → STRAIN` are
+redundant with the sequence: a field's value is inherently a transition from the
+previous ECID. Store the state the episode ends in; movement is recoverable by reading
+the previous episode.
+
+**The migration mapping for all 25 recovered values is in §1.5 of the decisions
+document.** Apply it exactly, and **preserve the original string in `Notes` on every
+packet** — the mapping must stay auditable and reversible.
+
+One reopening condition, stated in §1.1: the line-by-line memory chat review may revise
+Mechanica, at which point `STRAIN` reopens.
 
 ---
 
