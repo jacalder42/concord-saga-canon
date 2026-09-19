@@ -405,6 +405,39 @@ material before transforming it, so the raw form survives in history.
 
 ## 8. Work queue
 
+> **Read §8.0 first.** The numbered queue below is recovery-ordered. James redirected
+> priorities on 2026-09-19 to the build pipeline, and §8.0 is how the two relate.
+
+### 8.0 Build priorities — the pipeline this all serves
+
+Ruled 2026-09-19: *extract the best versions of rules, context, characters, environments
+and narrative → organize them → build a saga timeline with arcs and milestones → cascade
+to trilogy, book, act, episode.*
+
+Assessment at `proposals/concord-2026/NARRATIVE_BUILD_PRIORITIES_2026-09-19.md`;
+ledger §28. The three findings that change how the queue below should be read:
+
+- **The cascade has containers at every level except its root.** Trilogy, book, act and
+  episode containers all exist. There is **no saga-level container** — `saga_overview.md`
+  is 22 lines of orientation — so the saga timeline has nowhere to live. `book_context`'s
+  `entry_state` / `exit_state_locks` / `locations_in_play` / `continuity_hooks` /
+  `pov_targets` **are** the book-level timeline and are `TODO` in all nine books.
+- **Three layers do not exist at all**: **locations** (no `canon/locations/`; `ENV` has no
+  vocabulary; the narrative-location versus character-location distinction is not
+  expressible), **combat** (3 canon mentions, 0 grids), and **antagonist arcs** (material
+  in ND-020–ND-029, no structure). Plus character arcs, POV allocation, chronology and
+  motif binding, all unstructured. **These need author direction on shape before anyone
+  builds them** — §6 of the assessment.
+- **Only two questions truly gate the cascade**: item 1 below, and *which Veil draft is
+  canon*. Most of the rest blocks one artifact, not the pipeline.
+
+**Bookkeeping, in proportion.** The authority-lettering and classification-label questions
+(ledger §26.4, §26.5) can wait indefinitely. The supersession question is real but
+misframed: step 1 says *extract the best versions*, which presupposes we can tell which is
+best, and ND-032 proved we currently cannot. The useful question is **what rule decides
+which of two conflicting recovered versions wins** — ND-045 proposes a good one, and
+ratifying it is the one bookkeeping decision that pays for itself.
+
 **Updated 2026-09-18/19 against `recovery/CANON_DECISIONS_2026-09-18.md`.**
 
 The §4.1 vocabulary collision is ruled, and so is the envelope question — **per-act

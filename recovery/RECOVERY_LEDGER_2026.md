@@ -2459,4 +2459,118 @@ END OF ENTRY 27
 
 ===============================================================
 
+===============================================================
+
+# 28. Priorities reassessed against the build pipeline — 2026-09-19
+
+**Direction:** James, 2026-09-19 — *"many of these comments and questions focus on
+bookkeeping versus narrative structure. We need to assess and organize our priorities."*
+The pipeline: extract the best versions of rules, context, characters, environments and
+narrative → organize them → build a saga timeline with arcs and milestones → cascade to
+trilogy, book, act, episode.
+
+**Status:** ASSESSMENT WRITTEN / NOTHING BUILT / THREE NEW LAYERS NEED AUTHOR DIRECTION
+
+Full assessment at `proposals/concord-2026/NARRATIVE_BUILD_PRIORITIES_2026-09-19.md`.
+Recorded here in brief so the ledger carries the structural findings.
+
+---
+
+## 1. The cascade has containers at every level except its root
+
+| Level | Container | State |
+| --- | --- | --- |
+| **Saga** | **none** — `canon/saga_overview.md` is 22 lines of orientation | **MISSING** |
+| Trilogy | `rules/trilogy_context_T1/T2/T3.json` | envelopes set; each still carries its own `TODO` |
+| Book | `book_context_B01..B09.json` | 9 skeletons, every field `TODO` |
+| Act | 27 act overlays | bands set 2026-09-19; `act_thesis`, `deltas`, success criteria, forbidden shortcuts all `TODO` |
+| Episode | `grids/episode_beats.csv` | header-only, 0 rows |
+
+**The saga timeline has nowhere to live.** That is the highest-value structural gap and
+the cheapest to close, because the content is scattered rather than missing.
+
+**The book container already anticipates the cascade.** `entry_state`, `exit_state_locks`,
+`locations_in_play`, `continuity_hooks` and `pov_targets` *are* the book-level timeline,
+and all five are `TODO` in all nine books. The schema was built for this and never filled.
+
+## 2. The five extraction categories
+
+| Category | Resolution | Note |
+| --- | --- | --- |
+| Rules | **High** | 25 files plus `canon_rules.json`. Nearly done; needs consolidation, not recovery |
+| Context | **Containers only** | Blocked on narrative, not schema |
+| Characters | **High for 14** | 62 files in a consistent four-file pattern plus 15 POV files — the only *finished* layer in the repo, and the obvious template for the rest. Absent: **Silence**, **Hope**, **Threadnaut** |
+| Environments | **ABSENT** | See §3 |
+| Narrative | **Recovered, unorganized** | 0 rows in all six grids |
+
+## 3. Dimensions not yet considered — three named, four more found
+
+**Locations — no layer exists.** No `canon/locations/`. Eight canon files mention
+"location" at all; 6 New Orleans, 3 Santa Fe, 1 Honey Island; zero in `rules/` and
+`grids/`. Three consequences already biting: `ENV` is an ECID field with **no vocabulary**
+(`reports/README.md` records it), `locations_in_play` is `TODO` in all nine books, and
+**the narrative-location versus character-location distinction James raised is not
+currently expressible** — the first is a place with function and constraints, the second
+is a character *state* belonging on an arc timeline, and no field separates them. The saga
+is geographically dense in the recovered material, so this is recovery, not invention.
+
+**Combat — no system.** 3 canon mentions, 1 in `rules/`, 0 in `grids/`, 0 hits for
+"fight" — against recovered Loom material full of siege lines, Dominion's final push,
+Virelli's attempt on Seraphine, and the just-ruled Kade-attacks-Rex sequence. The open
+question is what *kind* of system the saga needs, and it has never been put.
+
+**Antagonist arcs — material without structure.** `canon/factions/` has 10 files and
+`episode_beats.csv` has an `antagonist_pressure` column, with nothing connecting them.
+ND-020–ND-029 are the richest existing material and are prose with no grid to carry them.
+
+**Four more found:** character arcs have no structured layer (66 files mention "arc" as
+prose; `character_state_deltas` is an empty array in all 27 overlays); `pov_targets` is
+`TODO` in all nine books; there is **no chronology artifact anywhere**, with three
+timeskips open; and `motif_1`/`motif_2` have no vocabulary binding them to
+`rules/symbols/`.
+
+## 4. The open questions re-sorted — and one bookkeeping question that is really a step-1 question
+
+**Blocking the cascade:** the proposal-branch merge (work-queue item 1); **which Veil draft
+is canon**, now three drafts (§27.6); `EP` in the act slot, which gates the milestone load
+that is step 3's raw material; and whether the `MT`→`LT` rename completes in the B09
+epilogue. The first two are the real gates.
+
+**Deferrable:** the B09 timeskip, the Threadnaut naming conflict, whether the three
+`ACT * SUMMARY — VEIL I` pages are superseded, prologue/epilogue symmetry.
+
+**On §26.4, §26.5 and §26.12 — two can wait indefinitely; the third is misframed.** Step 1
+says *extract the best versions*, which presupposes we can tell which version is best.
+**ND-032 is the proof that we currently cannot**: a decision-ledger entry marked
+`SUPERSEDED` that protected the wrong sequence, with no way to mark it once a later pass
+disproved it. James caught it; an extraction pass run earlier would have pulled
+Kade→Elias into canon as a sourced decision.
+
+So the question worth asking is not "do the ledgers need a supersession field" but **what
+is the rule for deciding which of two conflicting recovered versions wins.** ND-045
+already proposes a good one — later explicit author decisions beat earlier "Final Canon"
+labels; exact pasted backups beat assistant summaries; unique Notion detail with no later
+contradiction survives as candidate; conflicts are marked superseded or unresolved, never
+merged. **Ratifying ND-045 as the extraction rule is the one bookkeeping decision that
+pays for itself**, and the lettering and label questions can then be dropped.
+
+## 5. What was recommended to stop
+
+Further Notion searching for Book 1 episode packets. §27.5 closed it with four
+confirmations. `Archive Veil Book 1` in the ChatGPT workspace is the only remaining
+candidate — work-queue items 6 and 7.
+
+## 6. Three shape questions before anything is built
+
+1. **Locations:** one layer with a type field, or two — narrative locations and
+   character-location states?
+2. **Combat:** resolved through existing resonance mechanics, or its own axis the way
+   `LOAD` was?
+3. **Antagonist arcs:** the same arc treatment as protagonists, or a pressure-curve model
+   tied to `antagonist_pressure`?
+
+END OF ENTRY 28
+
+===============================================================
+
 END RECOVERY LEDGER
