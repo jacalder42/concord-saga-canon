@@ -83,12 +83,8 @@ previously flagged here is closed.
   corrected form.
 - Episodes live in grids, not in filenames.
 
-> **One discrepancy, flagged not resolved.** §2.1 of the decisions document writes the
-> format as `S1.T{1-3}.B{00-09}.…` — a `B00` book — while its own prose says
-> "two-digit book numbers", every book in the repository is `B01`–`B09`, and there is
-> no book zero. `B{01-09}` is applied here as the reading consistent with everything
-> else. If `B00` was intended, say so and it changes in one line. See
-> `recovery/RECOVERY_LEDGER_2026.md` §17.
+> **Confirmed 2026-09-19.** `B{01-09}` is correct; the `B{00-09}` in §2.1 of the
+> decisions document was a transcription slip. There is no book zero. Ledger §17.
 
 **Scope warning.** The recovered material uses the old forms pervasively, not
 occasionally: one-digit books throughout, and per-act restarts such as

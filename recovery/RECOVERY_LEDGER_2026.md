@@ -816,7 +816,21 @@ one); both use valid tokens throughout.
 
 ---
 
-# 17. SID book component — `B{00-09}` vs `B{01-09}`, flagged not resolved
+# 17. SID book component — RESOLVED 2026-09-19
+
+Status: **CONFIRMED.** `B{01-09}` is correct. James ruled 2026-09-19 that the
+`B{00-09}` in decisions §2.1 was a transcription slip: there is no book zero.
+
+`rules/canon_rules.json` already carries `S1.T{1-3}.B{01-09}.A{1-3}.E{00-99}`, applied
+2026-09-19, so no change was needed — the flagged reading was the right one. The
+validator enforces the two-digit book rule from that pattern, and
+`tools/test_validate_canon.py` asserts `B00` is out of range while `B{01-09}` stands.
+
+The analysis that produced the flag is kept below.
+
+---
+
+## Original entry (the discrepancy, now resolved)
 
 Status: DISCREPANCY RECORDED / ONE READING APPLIED / TRIVIAL TO CHANGE
 
@@ -845,6 +859,8 @@ exactly as ruled; the book component is left at `B{01-09}`.
 of the slot — it is a one-line change to `rules/canon_rules.json` plus a line in
 `CLAUDE.md` §3, and the validator picks it up automatically because it derives its
 rules from that file. Nothing else depends on it today.
+
+**Answered 2026-09-19: it was not intended.** `B{01-09}` stands.
 
 This was flagged rather than silently chosen because a SID format change is an
 identifier ruling, and §4 of `CLAUDE.md` reserves those.
