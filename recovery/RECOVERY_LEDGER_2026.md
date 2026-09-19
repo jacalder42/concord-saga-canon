@@ -516,12 +516,16 @@ also the trilogy's only declared VT contact (`Anchor: FIRST AND ONLY VT BRUSH IN
 TRILOGY`), so it is not a candidate for quiet downgrade to `W3`. The envelope defect
 itself is recorded in `CLAUDE.md` §9.1 and expanded in §16 of this ledger.
 
-## Ruling needed
+## Ruling needed — one of two answered
 
-1. Do shells migrate with `HEAT`/`FX` empty, or is the schema amended to make them
-   optional at shell granularity?
-2. How are epilogue units identified, given `A{1-3}` has no slot for them — and does
-   the same answer cover the `E00` prologue?
+1. **Still open.** Do shells migrate with `HEAT`/`FX` empty, or is the schema amended
+   to make them optional at shell granularity? The shells supply neither field, and
+   `canon_rules.json` lists both as required.
+2. **Answered 2026-09-18.** §2.2 rules that the Prologue is `E00` and **epilogues take
+   the next sequential episode number**. So `S1.T1.B3.EP.E01`–`E04` renumber into the
+   Book 3 sequence rather than needing a new act token, and the SID format needs no
+   `EP` slot. The `E00` prologue question is settled by the same ruling, via the
+   widened `E{00-99}` range.
 
 ---
 
@@ -651,6 +655,16 @@ coherent. Option A was taken.
 
 ## 16.2 Trilogy envelopes contradict the escalation model
 
+> **Ruled 2026-09-18 (§6.2): the identical envelopes are UNINTENDED.** Values should be
+> fluid and matched to narrative momentum. **The replacement rule is not yet decided**
+> — decisions §8 item 1 offers three shapes: advisory guidance with no enforced ceiling,
+> per-act ceilings, or a ceiling tied to a momentum marker. Whatever replaces it must
+> admit Veil packet `S1.T1.B3.A3.E14`, which already carries `Weather: W4`.
+>
+> Of the three options analysed below, **C is now excluded** — narrowing the vocabulary
+> would contradict §6.2's finding that the ceilings, not the vocabulary, are wrong.
+> This is the blocker on work-queue items 4, 5 and 5a.
+
 ### Scope
 
 Three files, one field each, plus a second field that is also uniform:
@@ -748,6 +762,10 @@ derived afterwards. `MIGRATION_MAP` does not say.
 ---
 
 ## 16.4 All act overlays and book contexts are identical templates
+
+> **Ruled 2026-09-18 (§6.3): not intended — skeleton state, not design.** This confirms
+> the reading below and the migration map's independent conclusion. No separate fix;
+> they populate through work-queue items 4 and 5a.
 
 ### Scope
 

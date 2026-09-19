@@ -280,9 +280,11 @@ material before transforming it, so the raw form survives in history.
 
 ## 8. Work queue
 
-**Items 2 and 3 are unblocked.** Items 4 and 5 read from files that exist only on the
-unmerged proposal branch, so they depend on item 1. Items 4 and 5 additionally depend
-on §4.1.
+**Updated 2026-09-18/19 against `recovery/CANON_DECISIONS_2026-09-18.md`.**
+
+The §4.1 vocabulary collision no longer blocks anything — it is ruled. **The blocker is
+now decisions §8 item 1: what replaces the fixed trilogy envelopes.** Items 4, 5 and 5a
+all wait on it. Item 1 is ruled (merge, §6.1) but not yet performed.
 
 1. Decide the fate of `proposal/concord-2026-reconciliation` — merge it into `main`, or
    record why it stays separate. Everything below assumes its contents are reachable.
@@ -296,15 +298,22 @@ on §4.1.
 3. Close the missing-source gap in the ledgers, per §6
 4. Migrate the Veil Consolidated Beat Bible into `book_context_B01/B02/B03.json` and the
    nine Veil act overlays, following `proposals/concord-2026/MIGRATION_MAP_BOOK_CONTEXT_ACT_OVERLAYS.md`
-   — **blocked on items 1 and §4.1**
-5. Migrate the E16–E18 packets into the canon structure — **blocked on items 1 and §4.1**
+   — **blocked on item 1 and on decisions §8 item 1.** The map says to cross-derive
+   `escalation_permissions` from the trilogy envelope rules, and those are the rules
+   §6.2 declares unintended with no replacement yet chosen
+5. Migrate the E16–E18 packets into the canon structure — **blocked on item 1 and on
+   decisions §8 item 1.** The §1.5 mapping is ready and the validator's self-test
+   confirms every target pair in it validates, so the vocabulary side is solved. What
+   is not: one packet breaches the current `W3` cap, and the replacement envelope rule
+   is undecided. Do not migrate until it is
 5a. Migrate the Book 3 Act III structural shells — `S1.T1.B3.A3.E01`–`E18`, plus the
    four-episode Veil→Neon epilogue, from the `Saga structural archive` export. This is
    the Book 3 analogue of item 5 and sits downstream of item 4, which sets the act
-   envelope these episodes must fit inside. **Blocked on items 1 and 4, on §4.1, and on
-   two structural rulings recorded in `recovery/RECOVERY_LEDGER_2026.md` §15** — the
-   shells omit the required `HEAT` and `FX` ECID fields, and the epilogue uses `EP` in
-   the act slot, which the SID format does not allow
+   envelope these episodes must fit inside. **Blocked on items 1 and 4, on decisions
+   §8 item 1, and on one remaining structural ruling** — the shells omit the required
+   `HEAT` and `FX` ECID fields (`recovery/RECOVERY_LEDGER_2026.md` §15). The epilogue
+   identifier question is settled: §2.2 rules that epilogues take the next sequential
+   episode number, so `S1.T1.B3.EP.E01`–`E04` renumber into the Book 3 sequence
 6. Run the ChatGPT console export in list mode; produce the full workspace inventory
 7. Extract remaining Tier 1 conversations, `Archive Veil Book 1` first — this is where
    the E00–E15 packets are expected to be
@@ -337,17 +346,18 @@ file it names. No fix has been applied; two of the five need a ruling before one
   now reads 73 `Technarc`, 0 `Technarch` outside `CLAUDE.md` and `recovery/`, which
   quote the retired spelling as evidence. Ledger §16.1 records what changed and why the
   `RexID.md` naming-variance entry reads better afterwards.
-- **Trilogy envelopes contradict the escalation model.** `rules/trilogy_context_T1_veil.json`,
-  `T2_neon.json` and `T3_loom.json` all carry identical `weather_max: "W3"` and
-  `corridor_max: "U5"`; only the FX ceiling escalates. `rules/Mechanica-v4.md` §7.3
-  describes Loom as corridor-failure and resonance-storm territory, which is U6/W4.
-  As written, `U6`, `U7` and `W4` are unreachable in every trilogy despite being in
-  the controlled vocabulary.
+- **Trilogy envelopes contradict the escalation model.** **Confirmed unintended** by
+  decisions §6.2 — values should be fluid and matched to narrative momentum. The
+  replacement rule is **not yet decided** (§8 item 1: advisory guidance with no enforced
+  ceiling, per-act ceilings, or a ceiling tied to a momentum marker). Whatever replaces
+  it must admit Veil packet `S1.T1.B3.A3.E14`, which already carries `Weather: W4`.
+  **This is now the blocker on work-queue items 4, 5 and 5a.**
 - **All six grid CSVs are header-only**, so `CHK_BREADCRUMBS` and `CHK_EMO_CIRCUIT` in
   `rules/validation_checks.json` cannot run against any data.
 - **All 27 act overlays are byte-identical** apart from their ID fields, as are all 9
-  book contexts. Every act caps `fun`/`slice_of_life`/`wonder` at `LOW`, including the
-  Book 9 climax.
+  book contexts, capping `fun`/`slice_of_life`/`wonder` at `LOW` including the Book 9
+  climax. **Confirmed unintended** by decisions §6.3: skeleton state, not design. They
+  populate through items 4 and 5a; no separate fix is needed.
 - ~~**No validation tooling exists.**~~ **Addressed 2026-09-19.** `tools/validate_canon.py`
   now enforces the mechanical layer — SID format including the two-digit book rule, ECID
   field names, and controlled-vocabulary membership for all six dimensions — reading every
