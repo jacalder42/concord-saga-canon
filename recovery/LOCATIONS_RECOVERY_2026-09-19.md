@@ -30,8 +30,14 @@ Core principle, verbatim:
 | --- | --- |
 | Veil | shards as Ghostwaves, Flickers, micro-fractures |
 | Neon | **Neon Zones** — urban resonance bloom districts |
-| Loom | **Loom Corridors** — semi-stable travel paths; *"NOT magical roads — safe-ish paths through unsafe resonance"* |
+| Loom | **Loom Corridors** — semi-stable travel paths; *"NOT magical roads — safe-ish paths through unsafe resonance"* † |
 | Post-Mending | **Echo Nodes** — gentle pools of stabilized resonance at former shard fractures |
+
+† **Amended by Ruling 2 (2026-09-19).** The source's safety gloss is quoted as written,
+but it is **not definitional**. A corridor is *"a linear path or area between two known
+points"*; whether it is safe, dangerous or otherwise is **context**. A Loom Corridor is a
+corridor because of its **geometry** — linear, connective, running between known points —
+not because it is safer than its surroundings.
 
 ### 1.1 Five Neon Zone types
 
@@ -95,9 +101,19 @@ This is the distinction James raised, and the source already draws it:
 So the shape question is answered by the source: **one place layer, plus a
 character-interaction layer that references it.** Not two parallel location systems.
 
-### 1.6 Reader accessibility layer, as given
+### 1.6 Reader accessibility layer, as given — **superseded in part by Ruling 2**
 
 Zones = chaotic pockets · Corridors = safe routes · Nodes = healing places.
+
+> **Amended 2026-09-19.** Quoted as the source gives it, but **the corridor half no longer
+> states the distinction.** Ruling 2: *"Safety is contextual; the distinction is
+> geometric."* A corridor is a linear path or area between two known points — a **shape**,
+> not a safety rating. Under the old framing a dangerous linear route was a contradiction;
+> under the ruling it is simply a corridor in a dangerous context, which is what
+> `Rupture Corridors` (*"extremely dangerous … lead toward shard-cluster fail zones"*)
+> already were. The reader-facing gloss may still be a useful simplification **for a
+> reader**, but it is **not the definition** and must not be used as a test of whether
+> something is a corridor.
 
 ---
 

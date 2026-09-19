@@ -2772,7 +2772,9 @@ sources would produce different vocabularies.
 `U1`–`U7`; Loom Corridors as named travel routes; `"Blue Pulse Corridor"` as a *bloom
 zone*; and ordinary streets (`Laugavegur Corridor`, `RIVER CORRIDOR`). Sense 3 is the
 worst, applying the word to the thing sense 2 explicitly contrasts with — *zones are
-chaotic pockets, corridors are safe routes*. **Blocks the locations migration.**
+chaotic pockets, corridors are safe routes*. ~~**Blocks the locations migration.**~~
+**RULED 2026-09-19, Ruling 2 — see §33 and §34. The safety framing is superseded and this
+objection is withdrawn; the distinction is geometric.**
 
 **Two protagonist surnames disagreed with Tier-1 canon** (pass 2 §3) — **RULED 2026-09-19,
 see §31: `canon/` is final.** Notion's combat skill
@@ -3226,6 +3228,83 @@ existing lock stands either way. Flagged so the reading is explicit rather than 
 tokens.
 
 END OF ENTRY 33
+
+===============================================================
+
+===============================================================
+
+# 34. Gate rulings — step 2: the safe-route framing amended — 2026-09-19
+
+**Authority:** `recovery/GATE_RULINGS_2026-09-19.md` Ruling 2, *"Consequential amendment"*.
+
+**Status:** AMENDED IN 3 PLACES / NOTHING RENAMED / SUBSTRATE UNTOUCHED / VALIDATOR 27 / 62
+
+---
+
+## 1. What the ruling requires
+
+> The geography system's framing that **corridors are safe routes and zones are chaotic
+> pockets** is superseded. Safety is contextual; the distinction is geometric. That line
+> requires amendment wherever it appears.
+
+## 2. Where it appears, and how each was handled
+
+A repository-wide search for `safe route` / `safe routes` / `safe-ish` / `chaotic pocket`
+found **8 occurrences outside `recovery/source_exports/`**. They are not all the same kind
+of text, and they were not all treated the same way.
+
+| Location | Kind | Action |
+| --- | --- | --- |
+| `LOCATIONS_RECOVERY` §1 era table — *"safe-ish paths through unsafe resonance"* | **verbatim source quotation** | **Annotated**, not rewritten — dagger note added |
+| `LOCATIONS_RECOVERY` §1.6 — *"Zones = chaotic pockets · Corridors = safe routes"* | **verbatim source quotation**, headed *"as given"* | **Annotated**, heading marked superseded in part |
+| Ledger §30 — the blocker record | this project's own finding | **Struck through**, pointed to §33/§34 |
+| `LOCATIONS_RECOVERY` §3 | already struck through at §33 | no change needed |
+| `LOCATIONS_RECOVERY` §3 amendment note | written at §33 to describe this step | no change needed |
+| Ledger §33 | withdraws the objection in its own words | no change needed |
+| `GATE_RULINGS_2026-09-19.md` ×2 | **the ruling itself** | **untouched** — it is the authority, committed verbatim |
+
+**Quotations were annotated rather than rewritten.** Both surviving instances are the
+geography system's own words, reproduced as evidence of what the source says. Editing them
+would make the recovery document misreport its source in order to agree with a later
+ruling, which is the opposite of what a recovery document is for. The same principle
+governed the `Technarc` pass (§26.10) and the naming pass (§31).
+
+## 3. What the annotations say
+
+The corridor half of the gloss **no longer states the distinction**. A corridor is *"a
+linear path or area between two known points"* — a **shape**, not a safety rating.
+
+The clearest evidence that the old framing was already failing is inside the geography
+system itself: **`Rupture Corridors`** are described there as *"extremely dangerous … lead
+toward shard-cluster fail zones"*. Under *corridors are safe routes* that is a
+contradiction in terms. Under the ruling it is unremarkable — a corridor in a dangerous
+context. The four Loom Corridor classes were **never** a safety gradient; they are
+`Humanitarian`, `Concord`, `Rupture` and `Ghostline`, which sort by **who built or uses
+them and what they lead to**, not by how safe they are.
+
+The reader-facing gloss is left standing as a simplification *for a reader*, with an
+explicit note that it is **not the definition** and must not be used as a test of whether
+something is a corridor.
+
+## 4. Nothing renamed — verified
+
+The ruling's scope note is explicit, and it was checked rather than assumed:
+
+- Files changed by this step: **2**, both under `recovery/`.
+- `canon/`, `rules/`, `grids/`, `book_context/` and `act_overlays/`: **0 files touched**.
+- The substrate's `corridor` usages — the EBCI header, Concord's Corridor Preservation,
+  corridor viability, corridor instability, corridor ecology `U1`–`U7`, corridor shifts —
+  are **all correct under the ruled definition** and none was altered.
+
+No mass rename. No prose rewriting. `Blue Pulse Corridor` was **not** touched: its fate
+turns on the geometry test, which is a question about the referent and belongs to the
+Ruling 1 vetting pass.
+
+## 5. Validator
+
+`27 canon-scope / 62 all-scope` before and after.
+
+END OF ENTRY 34
 
 ===============================================================
 
