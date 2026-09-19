@@ -332,10 +332,11 @@ Flagged, not yet ruled on. Do not silently fix these while doing other work.
 `recovery/RECOVERY_LEDGER_2026.md` §16.** Read the relevant entry before touching any
 file it names. No fix has been applied; two of the five need a ruling before one can be.
 
-- **Faction name drift.** `Technarc` (64 uses) vs `Technarch` (9). The faction file is
-  `canon/factions/Technarc.md`. The variant appears in `canon/characters/RexID.md` (3),
-  `canon/characters/VirelliID.md`, `canon/trilogy_veil.md`, `canon/trilogy_neon.md`,
-  `canon/factions/Dominions.md`, and `rules/symbols/GEOMETRY_MOTIFS.md` (1 each).
+- ~~**Faction name drift.**~~ **Resolved 2026-09-19.** `Technarc` is canonical per
+  decisions §6.4; all 9 `Technarch` occurrences across 6 files are corrected. Repository
+  now reads 73 `Technarc`, 0 `Technarch` outside `CLAUDE.md` and `recovery/`, which
+  quote the retired spelling as evidence. Ledger §16.1 records what changed and why the
+  `RexID.md` naming-variance entry reads better afterwards.
 - **Trilogy envelopes contradict the escalation model.** `rules/trilogy_context_T1_veil.json`,
   `T2_neon.json` and `T3_loom.json` all carry identical `weather_max: "W3"` and
   `corridor_max: "U5"`; only the FX ceiling escalates. `rules/Mechanica-v4.md` §7.3

@@ -7,7 +7,7 @@ Chaotic, fracture-prone, resopunk repairs; “Neon breaks.”
 TODO: ceilings and typical ranges.
 
 ## Antagonist Pressure
-Technarch hardliners, Choirless emergence, manufactured meta failures.
+Technarc hardliners, Choirless emergence, manufactured meta failures.
 
 ## Key Locations
 TODO: list.

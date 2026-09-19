@@ -39,7 +39,7 @@ If geometry appears “clean” during instability, the scene is incorrect.
 
 ### Common Contexts
 - Dominion architecture
-- Technarch systems
+- Technarc systems
 - Controlled civic spaces
 - Early Veil environments
 

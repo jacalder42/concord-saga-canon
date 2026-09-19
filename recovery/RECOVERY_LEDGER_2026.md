@@ -536,7 +536,54 @@ read before any work that touches the same files.
 
 ---
 
-## 16.1 Faction name drift — `Technarc` vs `Technarch`
+## 16.1 Faction name drift — RULED AND CORRECTED 2026-09-18/19
+
+Status: **RESOLVED.** `Technarc` is correct. All 9 variants corrected 2026-09-19 per
+`recovery/CANON_DECISIONS_2026-09-18.md` §6.4.
+
+### What was applied
+
+`Technarch` → `Technarc`, 9 occurrences across 6 files, exactly the list §6.4 names:
+
+| File | Occurrences |
+| --- | --- |
+| `canon/characters/RexID.md` | 3 |
+| `canon/characters/VirelliID.md` | 1 |
+| `canon/trilogy_veil.md` | 1 |
+| `canon/trilogy_neon.md` | 1 |
+| `canon/factions/Dominions.md` | 1 |
+| `rules/symbols/GEOMETRY_MOTIFS.md` | 1 |
+
+Repository-wide count afterwards: 73 `Technarc`, 0 `Technarch`, excluding `CLAUDE.md`
+and `recovery/`, which quote the retired spelling as evidence and are left alone
+deliberately.
+
+### The one line worth checking
+
+The concern recorded below was `canon/characters/RexID.md` line 67, inside
+**"XI. Canon Conflict Ledger (Preserved Record)"**, which read:
+
+> **Employer naming variance:** Technarch / Technarch Directorate treated as the same
+> institutional pressure source
+
+It now reads:
+
+> **Employer naming variance:** Technarc / Technarc Directorate treated as the same
+> institutional pressure source
+
+**The correction improves this line rather than damaging it.** Before, it named a
+variance between two identical spellings, which was incoherent — the entry recorded a
+drift it had itself absorbed. After, it reads as short-form (`Technarc`) against
+full-form (`Technarc Directorate`), which is a real and meaningful variance and matches
+the faction file's own title, **THE TECHNARC DIRECTORATE**.
+
+So the second reading recorded below turned out to be the right one: that ledger entry
+did carry the drift it documented. The other three preserved variances in that section
+— legacy origin package, geographic arc, engineering field phrasing — are untouched.
+
+---
+
+## Original entry (superseded by the ruling above)
 
 **This is canon, not spelling. Do not "fix" it.**
 
@@ -594,10 +641,11 @@ that both are in use and what each signifies. Changes 1 file.
 **C. `Technarch` is canonical** and the faction file is the outlier. Changes 1 file
 plus 64 occurrences. Least likely, listed for completeness.
 
-### Ruling needed
+### Ruling needed — answered
 
-Which spelling is canonical, and does `RexID.md` line 67 mean the variance is
-tolerated or that it needs correcting?
+Which spelling is canonical? **`Technarc`**, per §6.4. And `RexID.md` line 67 was
+carrying the drift rather than sanctioning it, so correcting it made the entry
+coherent. Option A was taken.
 
 ---
 

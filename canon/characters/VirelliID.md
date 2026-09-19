@@ -114,7 +114,7 @@ This makes him exceptionally dangerous during periods of fear-driven instability
 
 ### NEON
 - No longer central, but his doctrines persist  
-- Technarch hardliners and early anti-emotion movements reuse his logic  
+- Technarc hardliners and early anti-emotion movements reuse his logic  
 - His name may fade; his ideas do not  
 
 ### LOOM

@@ -95,7 +95,7 @@ Dominions are visible, authoritative, and confident.
 - Institutional legitimacy erodes
 - Direct power wanes
 - Doctrines persist as inherited frameworks
-- Technarch hardliners and early anti-emotion movements reuse Dominion logic
+- Technarc hardliners and early anti-emotion movements reuse Dominion logic
 
 Dominions become **ideological DNA**, not central actors.
 

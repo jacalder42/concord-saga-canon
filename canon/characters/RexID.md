@@ -39,7 +39,7 @@
 ## VII. Formative Imprints (Identity-Relevant)
 - **Early exposure to functioning infrastructure:** reliability normalized as moral baseline
 - **Cascading failure incident:** reveals brittleness created by optimization without empathy
-- **Technarch pressure point:** asked to certify a system that succeeds statistically but fails catastrophically for edge cases
+- **Technarc pressure point:** asked to certify a system that succeeds statistically but fails catastrophically for edge cases
 - **Ethical breakpoint:** Rex refuses certification quietly and definitively
 - **Choice to relocate:** selects Detroit deliberately for its repair-first, failure-visible ecology
 
@@ -57,14 +57,14 @@
 
 ## X. Trilogy Anchor Facts (Identity-Relevant)
 - **Veil:** systems expertise grounds early instability; limits visible before resonance language exists
-- **Neon:** Technarch pressure escalates; misuse of certainty exposed; refusal carries personal cost
+- **Neon:** Technarc pressure escalates; misuse of certainty exposed; refusal carries personal cost
 - **Loom:** fragility zones dominate; constraint ethic becomes survival-critical
 - **Post-Mending:** repair culture persists; Rex contributes to resilient, human-scale infrastructure and training
 
 ## XI. Canon Conflict Ledger (Preserved Record)
 - **Legacy origin package:** Detroit-born Bengali-American variants appear in early drafts; preserved as superseded legacy material
 - **Geographic arc variance:** Singapore → Detroit directionality now locked as current canon
-- **Employer naming variance:** Technarch / Technarch Directorate treated as the same institutional pressure source
+- **Employer naming variance:** Technarc / Technarc Directorate treated as the same institutional pressure source
 - **Engineering field phrasing:** mechanical / systems / infrastructure used interchangeably; non-conflicting
 
 END — REX TAN IDENTITY CANON v1.1

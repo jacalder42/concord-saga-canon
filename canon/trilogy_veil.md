@@ -7,7 +7,7 @@ TODO: clean seams, subtle resonance, institutional opposition.
 TODO: ceilings for weather/corridor/fx.
 
 ## Antagonist Pressure
-TODO: Dominions institutional pressure; early Technarch patterns.
+TODO: Dominions institutional pressure; early Technarc patterns.
 
 ## Key Locations
 TODO: list.
