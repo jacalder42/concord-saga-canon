@@ -1669,7 +1669,7 @@ They are correct under A or B and wrong under C. Left as written in the proposed
 flagged here, and **the load cannot go into the grid until this is settled** — the
 validator's SID format allows `A{1-3}` only, so `EP` is not expressible today.
 
-## Book 9 has four acts — the largest open structural question
+## Book 9 has four acts — RULED 2026-09-19, see §25
 
 `NOTION_RECOVERY` part 4 §1: the Book 9 Final Beat Bible runs **ACT I–ACT IV**, with Act
 IV "Afterlight" at E16–E21. `S1.T3.B09.A4.E16` is not expressible under
@@ -1678,6 +1678,10 @@ IV "Afterlight" at E16–E21. `S1.T3.B09.A4.E16` is not expressible under
 Either the saga is 28 acts, or Act IV is the epilogue written as an act — which is what
 the `EP` question above would settle. **The two questions are one question**, and should
 be ruled together.
+
+> **Half of it is now ruled.** James, 2026-09-19: *"Book 9 has 3 acts, the epilogue is
+> several episodes long which could have implied a 4th act."* The saga is 27 acts; Act
+> IV is the epilogue. The `EP` slot question above is **not** settled by it. §25.
 
 ## What the bundles unblock, and what they do not
 
@@ -1706,5 +1710,90 @@ Nothing from these bundles is applied to the substrate. The milestone load is co
 and staged in `proposals/`; every ruling that needs a schema change — `EP` in the act
 slot, `A{1-4}`, the `pov_named_on_page` flag proposed at `VEIL_STRUCTURE` part 3 §4 —
 waits on the rulings above.
+
+===============================================================
+
+# 25. Book 9 act count — RULED 2026-09-19: three acts
+
+**Ruled by:** James, 2026-09-19 — *"Book 9 has 3 acts, the epilogue is several episodes
+long which could have implied a 4th act."*
+
+**Status:** RULED / NOTHING IN THE SUBSTRATE NEEDED CHANGING / THE `EP` SLOT REMAINS OPEN
+
+---
+
+## 1. What it settles
+
+`NOTION_RECOVERY` part 4 §1 reported the Book 9 Final Beat Bible running **ACT I–ACT
+IV**, Act IV "Afterlight" at E16–E21, and §24 recorded the fork: either the saga is a
+28-act structure, or Act IV is the epilogue written as an act.
+
+It is the second. Three consequences, all of them confirmations rather than changes:
+
+| Artifact | Effect |
+| --- | --- |
+| `SID_format` in `rules/canon_rules.json` | **Unchanged.** `A{1-3}` stands; no `A4` |
+| The 27-Act Macro Structure | **Stands.** Nine books × three acts |
+| The 27 act overlays | **Correct as they are.** No 28th overlay is owed |
+| `escalation_permissions` on `B09.A3` | **Its `unresolved` note narrows** — see §3 |
+
+This also confirms, independently, the reading already recorded at
+`recovery/VEIL_STRUCTURE_2026-09-19.md` part 4 §2: *"Book 9 has three acts and an
+epilogue, not four acts. The Final Beat Bible's 'ACT IV — Afterlight' is the epilogue
+written as an act."* That document reached it from the earlier ruling *"Act 4 is more of
+a multi-episode epilogue (~3-4)"*; this ruling states it directly.
+
+## 2. What it does NOT settle
+
+**Where the epilogue goes.** The ruling says the epilogue is not an act. It does not say
+whether the epilogue is a unit of its own in the act slot or the tail of Act III. Both
+readings satisfy "Book 9 has 3 acts", so the three-way choice at
+`recovery/VEIL_STRUCTURE_2026-09-19.md` part 4 §3 is untouched:
+
+- **A.** `EP` and `PR` both in the act slot — `S1.T3.B09.EP.E01`, `S1.T1.B01.PR.E01`.
+  Supersedes decisions D6 (`E00` prologue) and D8 (epilogues take the next sequential
+  episode number). Recommended there.
+- **B.** `EP` only; the prologue stays `E00` inside Act I. Keeps D6, asymmetric.
+- **C.** Keep D8; the epilogue is the tail of Act III. The epilogue is then not a
+  separate unit at all.
+
+Under A or B the SID pattern becomes `S1.T{1-3}.B{01-09}.(A{1-3}|EP).E{00-99}`; under C
+it is unchanged and `CLAUDE.md` §3 already reads correctly.
+
+**So the milestone load is still blocked.** The five `target_act: EP` rows — `M10`,
+`M11`, `M23`, `M35`, `M36` in
+`proposals/concord-2026/milestones_payoffs_PROPOSED_LOAD_v2_2026-09-19.csv` — are
+correct under A or B and wrong under C. `EP` is not expressible under the current
+`SID_format`, so the load cannot enter `grids/` until A, B or C is ruled. That was the
+blocker before this ruling and it is the blocker after it.
+
+**And the two follow-ups in that document are still open:** whether Book 9's epilogue is
+three or four episodes and which grouping (part 4 §4), and whether epilogue episodes
+restart at `E01` within the unit or continue the book's numbering (part 4 §5 item 3).
+The first is an authoring decision; the second only arises under A or B.
+
+## 3. The `B09.A3` band note narrows
+
+`act_overlays/act_overlay_S1_T3_B09_A3.json` carries an `unresolved` note on its
+`escalation_permissions` recording that the band covers the pre-Mending portion only,
+because the era boundary was believed to fall mid-act.
+
+`NOTION_RECOVERY` part 4 §2 had already located that boundary at E14/E15 with Act IV
+wholly post-Mending. With Act IV now ruled to be the epilogue, the boundary falls at the
+**end of `B09.A3`** — a unit boundary under A or B, still mid-act under C, since C puts
+the epilogue inside Act III.
+
+**Not amended.** The note is only fully resolvable once the `EP` question is, and
+amending it now would encode a reading of that question. Recorded here instead.
+
+## 4. Nothing applied
+
+No file changed under this ruling beyond this ledger entry and the `CLAUDE.md` §4 item
+it narrows. The substrate was already correct for a three-act Book 9; what the ruling
+does is close off the 28-act branch, so no future migration writes an `A4`.
+
+END OF ENTRY 25
+
+===============================================================
 
 END RECOVERY LEDGER

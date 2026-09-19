@@ -184,12 +184,17 @@ Never decide, invent, or quietly resolve:
   all three names as closed compounds, but the repository has `Luminous Thread` spaced
   19 times with zero closed, and `Missing Thread` spaced 6 against `MissingThread` 2.
   Only `VeilThread` had an unambiguous closed form to restore. Ledger §20.
-- **Does Book 9 have four acts, and does `EP` go in the act slot?** Open, and they are
-  one question. The Book 9 Final Beat Bible runs Act I–Act IV; the SID format allows
-  `A{1-3}`; the recovered epilogue shells use `S1.T1.B3.EP.E01`; and `CLAUDE.md` §3
-  currently rules epilogues take the next sequential episode number. Three options at
-  `recovery/VEIL_STRUCTURE_2026-09-19.md` part 4 §3. **Blocks the milestone load**, five
-  of whose rows use `target_act: EP`. Ledger §24.
+- **Does `EP` go in the act slot?** Open. The act-count half of this question is
+  **ruled 2026-09-19: Book 9 has three acts**, Act IV "Afterlight" is the epilogue
+  written as an act, `A{1-3}` and the 27-Act Macro Structure stand unchanged (ledger
+  §25). What remains is where the epilogue lives. The recovered epilogue shells use
+  `S1.T1.B3.EP.E01`, with `EP` in the act slot and numbering restarting at `E01`;
+  §3 above rules that epilogues take the next sequential episode number. Both readings
+  satisfy a three-act Book 9. Three options at
+  `recovery/VEIL_STRUCTURE_2026-09-19.md` part 4 §3; A supersedes the `E00` prologue
+  ruling too. **Still blocks the milestone load**, five of whose rows use
+  `target_act: EP`. Two follow-ups ride on it: whether Book 9's epilogue is three or
+  four episodes, and whether epilogue episodes restart at `E01`. Ledger §24 and §25.
 - **Which Veil draft is canon.** Open, and the largest item. Notion and the exports
   disagree on whether Baz dies in Book 3, whether Tahl and Caro appear in Books 1–2,
   whether the Caro–Elisabet romance exists in Veil, and whether Veil points at Santa Fe.
