@@ -4579,4 +4579,88 @@ END OF ENTRY 49
 
 ===============================================================
 
+===============================================================
+
+# 50. Character migration batch 6 — bundle F, and a coverage ratchet — 2026-09-20
+
+**Authority:** Ruling 3, bundle **F** approved. Plan §2, batch 6 of 9.
+
+**Status:** MIGRATED / 11 CAST + 6 RETIRED + 1 HELD / CANON-SCOPE 27, ALL-SCOPE 62
+
+---
+
+## 1. Bundle F broke the parser twice more — in opposite directions
+
+**The MT chorus was being retired.** `Core MT chorus — KEEP HANDLES` is a bullet list, and
+the bullet handler written in batch 3 assumed bullets meant retirement, because bundle A's
+bullets were `Retired Filament identities`. So `Ribbon_9`, `GlassHarbor`,
+`NthDaySurvivor` and `tinfoilmage` — four handles the manifest says **KEEP** — were being
+filed as retired.
+
+**This was worse than a drop.** The earlier three gaps lost rows; this one **inverted
+their meaning**, and the output looked complete. Bullets now route on the heading keyword:
+`RETIRE`/`MERGE` → alias file, anything else → registry.
+
+**`Media identities retired as recurring` produced nothing.** It uses `Name → disposition`
+with an arrow; the prose handler only understood `Names: disposition` with a colon. Five
+more names — `Jenna Alvar`, `Carmine Goodwin`, `Lina Harrow`, `Wyatt LaGrange`,
+`Rachel Dupont / Marja Li` — would have vanished.
+
+## 2. So the check became mechanical
+
+Five parser failures across four batches, all with the same signature: **plausible output,
+quietly wrong.** Each was caught by reading the manifest section and comparing — which
+works until the reader is tired.
+
+The migrator now asserts **every `### ` heading in a section produces at least one row**
+somewhere — registry, alias file or held — and exits non-zero naming the unaccounted
+headings otherwise.
+
+**Verified by deliberately reintroducing the arrow-form bug:**
+
+```
+exit: 1
+UNACCOUNTED HEADINGS in section 7: ['Media identities retired as recurring']
+```
+
+It fires, and it names the heading. This is the ratchet the earlier four gaps needed and
+did not have.
+
+## 3. What moved
+
+**Cast (11):** `F01` Naomi Clairborne (PRIMARY CHRONICLE FACE) · `F02` Zane Rowley ·
+`F03` Silas Moreau · `F04` Patrice Valois · `F05` Signalman East ·
+**`F06`–`F09` the MT chorus** — Ribbon_9, GlassHarbor, NthDaySurvivor, tinfoilmage ·
+`F10` BriteLine (KEEP FINITE) · `F11` ghost_frequency (DEMOTE / CHORUS COLOR).
+
+The chorus rows carry the entry's `Identity rule` as their **guardrail**: *"do not reveal
+legal identities by default."* That is a constraint on future writing, so it is preserved
+as a field rather than folded into function — the same treatment as Ren Bellande's
+guardrail in §46.
+
+**Retired (6):** `BlackHarbor` plus the five media identities.
+
+**Held (1):** `Lila Shore` — `HOLD/NARROW`. The third HOLD to route correctly without
+intervention.
+
+## 4. Regeneration was additive
+
+A–E were regenerated alongside F and came back **byte-identical**: the diff is
+**18 insertions, 0 deletions**. The parser changes affect only shapes those bundles do not
+use, which is the result the fixes should produce.
+
+## 5. Verification
+
+Registry **38** · retired **27** · held **3** · all ids unique · no name in both registry
+and alias file · no HOLD in the registry. `27 / 62`, 86 tests.
+
+## 6. Next
+
+Batch 7 is **bundle I** — and it **migrates nothing**. Approved *as a hold list*; its slot
+exists to record that it was considered and deliberately not moved.
+
+END OF ENTRY 50
+
+===============================================================
+
 END RECOVERY LEDGER
