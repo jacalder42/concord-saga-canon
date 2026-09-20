@@ -3989,4 +3989,113 @@ END OF ENTRY 42
 
 ===============================================================
 
+===============================================================
+
+# 43. OPEN QUESTION — the pressure columns are live and provisional — 2026-09-20
+
+**Status:** OPEN — AUTHOR RULING NEEDED / **NOT A GATE** / NO VALUES ALTERED
+
+**Raised by:** `recovery/SAGA_TIMELINE_2026-09-19.md` §2 and §3, written while the grid
+was still staged. §41 loaded it, so **both columns are now in a live canon-scope grid**
+and the question has moved from theoretical to load-bearing.
+
+**Nothing in this entry changes the data.** `pressure_before` and `pressure_after` are
+untouched, and **no `thread` column was added**. Recording the ambiguity is the job.
+
+---
+
+## 1. Finding one — the scale saturates with four books to go
+
+`SAGA_TIMELINE` §2: the line pins at **5 from M19 (Book 5 Act III) to M32 (Book 9
+Act III)** — fourteen consecutive milestones at the ceiling, before the Mending drops it
+to 3 and the Lightfall to 1.
+
+Measured against the live grid:
+
+| | Count of 36 |
+| --- | --- |
+| Rows entering at `pressure_before: 5` | **16** |
+| Rows leaving at `pressure_after: 5` | **18** (half the grid) |
+
+The sixteen already at the ceiling before their own milestone fires:
+`M10`, `M19`–`M33` inclusive.
+
+> *"A scale that maxes out with four books to go cannot discriminate between the
+> Colorstorm, Tahl's death, the exodus and the swamp convergence — and those are not
+> equivalent."*
+
+Two options are offered there, and **both are design decisions, not data fixes**: widen
+the scale (1–7 or 1–10, with 5 reserved for "Neon's worst"), or rebase the middle (hold
+Books 1–4 to 1–3). The timeline document deliberately left the 1–5 values in place
+rather than invent a scale; **this entry does the same.**
+
+## 2. Finding two — `pressure` is doing two different jobs
+
+`SAGA_TIMELINE` §3: several rows show pressure *dropping* against the preceding row —
+`M04`, `M07`, `M17` — **and none is an error.** They start or continue a *different
+thread* at its own level. `M07` is the Caro–Elisabet formation, low-pressure by nature,
+sitting between two high-pressure world events.
+
+So the column is simultaneously recording **world pressure** and **the pressure of the
+thread the milestone belongs to**, and those diverge constantly.
+
+**27 of 36 rows have `pressure_after <= pressure_before`.** Under a single global reading
+that looks like three quarters of the saga's milestones failing to raise the stakes.
+Under the per-thread reading most of them are simply a different thread being measured.
+**The number is only alarming under one of the two interpretations, which is the
+ambiguity in one statistic.**
+
+The recommendation on file is a `thread` column — `veil` · `mt` · `tahl` ·
+`silence_hope` · `institutions` · `filaments` · `caro_elisabet` — with pressure read
+*within* a thread. **Not added.** It is a schema change to a live grid and needs a ruling.
+
+## 3. The empty `channel` column, and how it connects
+
+**23 of 36 rows have an empty `channel`.** The 13 that are populated read `MT` ×6,
+`VT` ×6, `LT` ×1.
+
+This is **partly downstream of the same question.** `channel` answers *which thread does
+this milestone belong to* for the three Threads specifically. A milestone on the
+Caro–Elisabet thread or the institutions thread has no channel to name, so the cell is
+blank — not because the information is missing, but because **the column can only express
+thread membership for three of the seven threads §2 identifies.**
+
+If a `thread` column is ruled in, most of those 23 blanks become expressible and
+`channel` narrows to what it actually means: which of `MT`/`VT`/`LT` carries the
+milestone. If it is not, the blanks stay blank and the thread information stays
+unrecorded.
+
+**Not all 23 are downstream of it.** Some milestones genuinely touch no channel. The two
+cases are not currently distinguishable, which is itself part of the finding.
+
+## 4. Why this is an open question and not a gate
+
+The grid is **live and every row is `proposed`** (§41). That is exactly the state this
+question needs: the values are loaded, checkable and diffable, without asserting they are
+final.
+
+- Nothing downstream consumes `pressure_*` yet — no grid reads it, no tool computes on it.
+- The saga root (§44) references the milestone **set**, not its pressure values.
+- `CHK_GRID_*` (§42) validates structure, and **deliberately does not judge pressure
+  values** — the same posture as `CHK_BANDS`.
+
+So the pipeline proceeds. **What must not happen is a later pass reading these numbers as
+settled**, which is what this entry exists to prevent.
+
+## 5. For the author
+
+1. **Widen the pressure scale, or rebase the middle?** (§1) Sixteen rows enter at the
+   ceiling; the last four books have nowhere to climb.
+2. **Add a `thread` column?** (§2) It would make `pressure` unambiguous and, per
+   `SAGA_TIMELINE` §3, make the melody and harmony passes mechanical.
+3. **Does the empty `channel` on 23 rows mean "no channel" or "not yet recorded"?** (§3)
+   Currently indistinguishable.
+
+Until 1 and 2 are ruled, **the loaded `pressure_before` and `pressure_after` values are
+provisional** — loaded so the grid is live, not because the scale is settled.
+
+END OF ENTRY 43
+
+===============================================================
+
 END RECOVERY LEDGER
