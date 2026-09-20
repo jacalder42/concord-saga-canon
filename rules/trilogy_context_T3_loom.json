@@ -23,5 +23,13 @@
     "no_resurrection",
     "antagonists_human_led"
   ],
+  "cast_load": {
+    "_source": "proposals/concord-2026/CHARACTER_RECONCILIATION_MANIFEST_2026-09-20.md section 11, approved as bundle H by recovery/GATE_RULINGS_2026-09-19.md Ruling 3. Migration batch 1, ledger 45.",
+    "foreground": "Geographically huge, emotionally recognizable. Default to returning faces rather than replacement shelter leaders, reporters or couriers.",
+    "institutional_antagonists": "Earlier institutions become collapse consequences rather than equal final-villain towers. The Chronicle is dead as an institution.",
+    "constraints": [
+      "Do not give everyone an epilogue card."
+    ]
+  },
   "TODO": "Populate trilogy-specific ceilings and exceptions."
 }

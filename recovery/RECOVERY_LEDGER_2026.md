@@ -4192,4 +4192,75 @@ END OF ENTRY 44
 
 ===============================================================
 
+===============================================================
+
+# 45. Character migration batch 1 — bundle H, trilogy load control — 2026-09-20
+
+**Authority:** `recovery/GATE_RULINGS_2026-09-19.md` Ruling 3, bundle **H** approved.
+Plan: `proposals/concord-2026/CHARACTER_MIGRATION_PLAN_2026-09-19.md` §2, batch 1 of 9.
+
+**Status:** MIGRATED / 3 FILES / CANON-SCOPE 27, ALL-SCOPE 62 / 86 TESTS
+
+**First batch of the character migration to reach the substrate.** Everything before this
+was planning.
+
+---
+
+## 1. Why H ran first
+
+Not alphabetical. Bundle H is the **trilogy load and migration rules themselves**, so
+running it first means batches 2–7 are measured against rules that are already in place
+rather than retrofitted to them afterwards. The plan fixed this order at §2.
+
+## 2. What moved, and where
+
+Manifest §11 holds three per-trilogy cast-load rules. Their correct home is the **trilogy
+layer**, which already exists: `rules/trilogy_context_T1_veil.json` and its two siblings.
+Each gains a `cast_load` block carrying its own `_source` line.
+
+| Trilogy | Foreground | Key constraint |
+| --- | --- | --- |
+| **T1 Veil** | recurring neighborhood/civic faces; institutional antagonists mostly peripheral | do not seed the full future Filament roster; **B03 prioritizes the Baz death, the fracture and the Tahl reveal** over new introductions |
+| **T2 Neon** | the **earned expansion window**; established civic faces reused as their jobs change under pressure | **B06 introduces almost no major new supporting characters** — cash established relationships instead |
+| **T3 Loom** | geographically huge, emotionally recognizable; **default to returning faces** rather than replacement shelter leaders, reporters or couriers | earlier institutions become collapse consequences rather than equal final-villain towers; the Chronicle is dead as an institution; **do not give everyone an epilogue card** |
+
+**Nothing was reworded into new meaning.** The manifest's prose is carried across as
+written, split into `foreground` / `institutional_antagonists` / `constraints` so a later
+pass can check against it mechanically rather than by reading.
+
+## 3. Two things this does immediately
+
+**It gives the later batches a measuring stick.** T2's *"B06 introduces almost no major
+new supporting characters"* and T3's *"default to returning faces"* are exactly the tests
+batches 2–7 need when deciding whether a recovered secondary character survives. Without
+H first, each of those decisions would have been made on judgement and reconciled later.
+
+**It corroborates work already done.** T1's constraint that B03 prioritizes the Baz death
+and the Tahl reveal over new introductions agrees independently with the B03→B04 handoff
+reconciliation and with the author lock that Tahl is not a named primary before the B03
+epilogue (§26.9). Two separate passes arriving at the same shape.
+
+## 4. What was preserved
+
+Each trilogy context keeps its own `TODO` (*"Populate trilogy-specific ceilings and
+exceptions"*) — **unfilled and moved to last**, because it is a different question and
+still the author's. `cast_load` sits before it.
+
+No envelope field was touched. `tone_envelope`, `era_envelope`, `environment_envelope` and
+`hard_constraints` are unchanged, so the banded-envelope work of §18 is unaffected.
+
+## 5. Validator
+
+`27 / 62` before and after; 86 self-tests pass. `cast_load` introduces no
+vocabulary-checked key, so it adds nothing to either count.
+
+## 6. Next
+
+Batch 2 is **bundle A** — Filament / community, manifest §2, 13 entries. Batches 2–7 are
+ungated; batches 8 (**B**) and 9 (**G**) wait on the Ruling 1 vetting pass.
+
+END OF ENTRY 45
+
+===============================================================
+
 END RECOVERY LEDGER

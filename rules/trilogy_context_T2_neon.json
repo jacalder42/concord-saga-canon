@@ -23,5 +23,13 @@
     "no_resurrection",
     "antagonists_human_led"
   ],
+  "cast_load": {
+    "_source": "proposals/concord-2026/CHARACTER_RECONCILIATION_MANIFEST_2026-09-20.md section 11, approved as bundle H by recovery/GATE_RULINGS_2026-09-19.md Ruling 3. Migration batch 1, ledger 45.",
+    "foreground": "The earned expansion window.",
+    "institutional_antagonists": "Active; established civic faces are reused as their jobs change under pressure.",
+    "constraints": [
+      "B06 should introduce almost no major new supporting characters; cash established relationships instead."
+    ]
+  },
   "TODO": "Populate trilogy-specific ceilings and exceptions."
 }

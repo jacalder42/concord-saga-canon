@@ -24,5 +24,14 @@
     "no_resurrection",
     "antagonists_human_led"
   ],
+  "cast_load": {
+    "_source": "proposals/concord-2026/CHARACTER_RECONCILIATION_MANIFEST_2026-09-20.md section 11, approved as bundle H by recovery/GATE_RULINGS_2026-09-19.md Ruling 3. Migration batch 1, ledger 45.",
+    "foreground": "Recurring neighborhood/civic faces.",
+    "institutional_antagonists": "Mostly peripheral.",
+    "constraints": [
+      "Do not seed the full future Filament roster.",
+      "B03 prioritizes the Baz death, the fracture and the Tahl reveal over future-character introductions."
+    ]
+  },
   "TODO": "Populate trilogy-specific ceilings and exceptions."
 }
