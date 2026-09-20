@@ -4663,4 +4663,109 @@ END OF ENTRY 50
 
 ===============================================================
 
+===============================================================
+
+# 51. Character migration batch 7 — bundle I, which migrates nothing — 2026-09-20
+
+Batch 7 of the character migration plan. Bundle I was approved by Ruling 3
+**as a hold list** — *"nothing in it is promoted."* This entry records that it was
+processed, not that anything moved into cast.
+
+## 1. What the bundle covers
+
+Two manifest sections:
+
+- **§9 GLOBAL UTILITY / HOLD POPULATION** — 9 entries
+- **§10 TERMINAL WITNESS — UNRESOLVED RECOVERY ITEM** — 1 entry
+
+## 2. Where the rows went, and why none reached the registry
+
+`canon/cast_registry.csv` is **unchanged by this batch. 38 rows before, 38 after.**
+
+The migrator carries a bundle-I override that routes every non-retirement row to
+`canon/cast_held.csv` rather than the registry:
+
+```python
+if bundle == "I":
+    held = rows
+    rows = []
+```
+
+This matters for the four `DEMOTE / LOCAL` entries, which are the only rows where the
+routing is a judgement rather than a transcription. A `DEMOTE` row in the registry would
+assert saga-recurring secondary-cast status; the ruling withholds exactly that. Demotion
+to local use is **not** promotion to the registry, so they are held.
+
+Retirements still land in `canon/cast_retired_aliases.csv`: recording a retirement is the
+opposite of promoting a name.
+
+**Retired (3)** — `Etienne Malhotra` · `Dr. Lila Renton` · `Jae Park`, each
+`RETIRE/MERGE` into an existing function.
+
+**Held (7)** — `Nix & Rio` and `Ayo Mensah` (HOLD), `Nayana Iyer`, `Hadia Noureen`,
+`Samuel "Sam" Broussard` and `Marienne St. Clair` (DEMOTE / LOCAL), and
+`TERMINAL WITNESS`.
+
+## 3. The sixth silent drop — a section with no entry headings
+
+§10 first reported **`0 cast rows, 0 retired aliases`** and looked finished.
+
+It was not. §10 has **no `### ` entry heading at all** — its `Field: value` lines sit
+directly under the `## 10.` heading, because the section describes one unresolved item
+rather than a roster. The parser splits sections on `\n### `, so it found zero entries.
+
+Worse, the **coverage ratchet added in §50 could not see it.** That check asserts every
+`### ` heading produces at least one row. A section with no headings has nothing to
+account for, so it passed — the ratchet was silent precisely where it was needed. This is
+the sixth instance of the migration's recurring failure signature, *plausible output,
+quietly wrong*, and the first where an existing guard was structurally blind to it.
+
+Two fixes:
+
+1. **Headless sections parse as a single entry**, named from the section heading with the
+   number and trailing dash-clause stripped — `TERMINAL WITNESS`.
+2. **A universal ratchet**: a section that produces no rows *at all* now aborts.
+
+   ```python
+   if not rows and not retired:
+       raise SystemExit("section %s produced NO rows at all" % num)
+   ```
+
+   No manifest section is empty of people, so zero output is never a correct result. This
+   guard does not depend on the section's shape, which is what made the §50 ratchet
+   miss here.
+
+Verified by reintroducing the bug on a copy of the migrator: exit 1,
+`section 10 produced NO rows at all`.
+
+## 4. Terminal Witness is preserved whole
+
+The author instruction is *"Terminal Witness stays RECOVER MORE."* Its held row carries
+that verbatim as `status`, and its `reason` states the author instruction rather than the
+bundle-I carve-out boilerplate — the two are different grounds for holding and should not
+read as the same one.
+
+The held schema has no `historical` column, so the row's `note` was widened to join the
+recovered function, the historical name, the evidence status and the proposed
+consolidation. Nothing in §10 is dropped: the historical name **"Mara Nichols"**, the
+Tier E evidence status, and the `Ramon Espina` consolidation condition all survive in the
+row.
+
+`Approval: [ ] pending recovery` is unchanged, in the manifest and in effect.
+
+## 5. Verification
+
+Registry **38** (A 12, C 5, D 7, E 3, F 11) · retired **30** · held **10** (D 2, F 1,
+I 7) · all cast ids unique · no name in both registry and alias file · no HOLD status in
+the registry. `27 / 62`, 86 tests.
+
+## 6. Next
+
+**Batches 1–7 are complete.** Batches **8 (bundle B)** and **9 (bundle G)** remain gated
+on the Ruling 1 narrative vetting pass and are not startable from the manifest alone.
+
+END OF ENTRY 51
+
+===============================================================
+
 END RECOVERY LEDGER
