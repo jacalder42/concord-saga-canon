@@ -210,7 +210,23 @@ Never decide, invent, or quietly resolve:
   all three names as closed compounds, but the repository has `Luminous Thread` spaced
   19 times with zero closed, and `Missing Thread` spaced 6 against `MissingThread` 2.
   Only `VeilThread` had an unambiguous closed form to restore. Ledger §20.
-- **Does `EP` go in the act slot?** Open. The act-count half of this question is
+- ~~**Does `EP` go in the act slot?**~~ **RULED 2026-09-20 — yes, but the slot is not an
+  act slot.** `GATE_RULINGS_2026-09-20.md` Ruling 6: `PR` and `EP` are **structural
+  positions alongside** `A1`–`A3`, not additional acts. All nine books have exactly three
+  acts and **27 remains the cap**, because a prologue is not an act. `SID_format` and
+  `milestone_grid.target_act_values` both carry `PR` and `EP`; the five `EP` milestone
+  rows validate as ordinary rows and their notices are gone. Ledger §55, §56.
+
+  This settles it without needing the export asymmetry resolved: the prologue sits inside
+  ACT I in the export layer while the epilogues sit outside the acts, and under Ruling 6
+  **both simply get a position**. The two follow-ups below ride on, and survive, the
+  ruling. Source evidence recorded 2026-09-20 (ledger §56 §4) bears on the second: the
+  `EP` rows cite `E20`, `E20` and `E21` as Notion provenance in their `notes`, suggesting
+  epilogue numbering **continues** the book's sequence rather than restarting — which
+  agrees with §3 above. `target_episode_or_range` is empty on all five, so that is source
+  evidence, not a populated field, and **it is not ruled**.
+
+  What follows is the pre-ruling record. The act-count half of this question is
   **ruled 2026-09-19: Book 9 has three acts**, Act IV "Afterlight" is the epilogue
   written as an act, `A{1-3}` and the 27-Act Macro Structure stand unchanged (ledger
   §25). What remains is where the epilogue lives. The recovered epilogue shells use
@@ -467,10 +483,21 @@ ledger §28. The three findings that change how the queue below should be read:
   dictated by author."* The book layer moved to the act's `{min, max}` shape and every
   value is a rollup of the three acts beneath it. Ledger §53.
 
-  **The 63 remaining `TODO` strings are unchanged and still the author's.** They are the
-  five timeline fields plus `title`, seven strings per book — `entry_state` holds two.
-  **A clean validation report is not a populated book layer**, and after this ruling that
-  gap is wider than it looks, not narrower.
+  **The book layer is now derived, 2026-09-20.** `TODO` placeholders fall **63 → 20**.
+  `continuity_hooks` and `exit_state_locks` come from the milestone grid's 33 cross-book
+  dependencies (§59); `entry_state` for B02–B09 is the preceding book's exit (§60);
+  `locations_in_play` carries the provisional type layer (§61); `pov_targets.rotation` is
+  derived from the baton pass as an **initial proposal** (§62).
+
+  **What stays authored: 20 strings.** `title` 9, `pov_targets.weights` 9, and B01's
+  `entry_state` 2 — B01 opens the saga, so nothing precedes it to derive from. The
+  projected figure was 19; it is 20 because an `entry_state` block holds two strings, the
+  same miscount that made this bullet's residue read 54 before §53. Ledger §59 §4.
+
+  **Two gaps are flagged, not filled.** Per-character entry state needs a character-arc
+  layer that does not exist (§60 §2), and a per-book location roster needs a source that
+  does not exist (§61 §2). Both fields say so in themselves rather than in a note beside
+  them. **A clean validation report is still not a populated book layer.**
 - **The first grid is populated.** `grids/milestones_payoffs.csv` holds **36 rows, all
   `proposed`** (ledger §41), checked by five `CHK_GRID_*` checks and 15 tests (§42).
   `pressure_before` / `pressure_after` are **provisional** — the scale saturates and the
@@ -651,8 +678,13 @@ file it names. No fix has been applied; two of the five need a ruling before one
   `rules/` occurrences corrected, two of them in Mechanica. The three character cards
   needed no change: they had preserved the original while the rules files drifted.
   Ledger §16.6 and §20.
-- **All six grid CSVs are header-only**, so `CHK_BREADCRUMBS` and `CHK_EMO_CIRCUIT` in
-  `rules/validation_checks.json` cannot run against any data.
+- **Five of the seven grid CSVs are header-only**, so `CHK_BREADCRUMBS` and
+  `CHK_EMO_CIRCUIT` in `rules/validation_checks.json` still cannot run against any data.
+  Corrected 2026-09-20 from "all six", which is wrong twice over — there are seven grids
+  now, and two carry data: `milestones_payoffs.csv` (36 rows, ledger §41) and
+  `locations_registry.csv` (31 places, new — ledger §61). The five empty are
+  `breadcrumbs`, `episode_beats`, `reaction_modifiers`, `reader_pressure` and
+  `supplement_deployment`.
 - **All 27 act overlays are byte-identical** apart from their ID fields, as are all 9
   book contexts, capping `fun`/`slice_of_life`/`wonder` at `LOW` including the Book 9
   climax. **Confirmed unintended** by decisions §6.3: skeleton state, not design. They
@@ -665,14 +697,25 @@ file it names. No fix has been applied; two of the five need a ruling before one
 
   ```sh
   python3 tools/validate_canon.py            # exits non-zero on any violation
-  python3 tools/test_validate_canon.py       # 100 self-tests
+  python3 tools/test_validate_canon.py       # 118 self-tests
   ```
 
-  **Canon-scope is 0 as of 2026-09-20** (all-scope 35), with **18 notices** — 5 for the
-  open `EP`-slot question and 13 for the trilogy contradiction above. Notices are not
-  violations and do not affect the exit code. `CHK_ENVELOPE` requires every book context
-  to carry its derived band block, so a deleted or reverted envelope reads as a violation
-  rather than as a clean run. Ledger §54.
+  **Canon-scope is 0 and notices are 0 as of 2026-09-20** (all-scope 53), with **118
+  self-tests**. Both former notice groups are closed: the 5 `EP` notices by Ruling 6
+  (§56), the 13 containment notices by deriving the trilogy layer (§57). Notices are not
+  violations and do not affect the exit code; **zero notices is now the meaningful state**,
+  because every derived layer agrees with the one above it.
+
+  Three checks guard that: `CHK_ENVELOPE` requires every book context to carry its band
+  block, so a deleted or reverted envelope reads as a violation rather than a clean run
+  (§54); `CHK_CONTAINMENT` reports a band exceeding its container (§57); and
+  `CHK_DECLARED` makes Ruling 5's soft ceiling enforceable — an **undeclared** breach is a
+  violation, a **declared** one a notice (§58).
+
+  All-scope rose 35 → 53, entirely from `recovery/`, `proposals/` and this file quoting
+  **one-digit book** forms. Those are not new defects: until the act slot became an
+  alternation, `S1.T1.B3.EP.E01` did not match the SID finder at all and its bad book
+  component went unseen. §3's scope warning already describes the condition. Ledger §56 §2.
 
   Baseline as of 2026-09-19: 27 violations in the substrate — the three
   `escalation_permissions` scalars in each of the nine book-context skeletons, and nothing

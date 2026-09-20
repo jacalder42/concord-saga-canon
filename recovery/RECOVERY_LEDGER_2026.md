@@ -5613,4 +5613,79 @@ END OF ENTRY 61
 
 ===============================================================
 
+===============================================================
+
+# 62. POV rotation derived; the queue closes — 2026-09-20
+
+Ruling 9 applied, and the eight-commit queue ends here.
+
+## 1. The rotation
+
+Composed mechanically from `rules/saga_context_S1.json` `pov_baton_pass`: **saga lead plus
+this book's trilogy lead.** Nothing else was read in.
+
+    B01-B03  T1   Seraphine Vael + Bastien "Baz" Arnaud
+    B04-B06  T2   Seraphine Vael + Tahl Morgan
+    B07-B09  T3   Seraphine Vael + Kade Harper
+
+Marked `_basis: "derived - INITIAL PROPOSAL, not ruled"`, as Ruling 9 specifies.
+
+Six books carry a `_ruled_constraints_bearing_on_this` field citing rulings that touch the
+proposal without changing it — Baz dying at the end of B03, Tahl's B01–B03 absence, `M20`
+placing Tahl's death in B06.A3, `M23` passing `MT` to Kade. B06's notes that whether POV
+continues through Tahl's Echo (`M22`, `M27`) is **not settled by the baton pass and is not
+decided here**.
+
+## 2. Weights stay authored, and the field says why
+
+Ruling 9 leaves the weights to the author. The field states the reason rather than only
+the fact: a count-based weighting would rest on the `channel` column, which is **empty on
+23 of 36 grid rows**. A number derived from a third of a dataset would read as measurement
+while being an artifact of what happens to have been filled in.
+
+The deeper reason is in the field too: **a POV distribution is a statement about emphasis,
+and no count supplies one.**
+
+## 3. Where the book layer stands
+
+`TODO` placeholders across `book_context/`: **63 → 20**.
+
+| Field | Before | After | How |
+| --- | --- | --- | --- |
+| `escalation_permissions` | 27 | 0 | rolled up from acts, §53 |
+| `continuity_hooks` | 9 | 0 | 33 cross-book dependencies, §59 |
+| `exit_state_locks` | 9 | 0 | milestones landing in the book, §59 |
+| `entry_state` | 18 | **2** | preceding book's exit, §60 — B01 has no predecessor |
+| `locations_in_play` | 9 | 0 | provisional type layer, §61 |
+| `pov_targets` | 9 | **9** | rotation derived; **weights authored** |
+| `title` | 9 | **9** | authored |
+
+**20, not the projected 19** — §59 §4.
+
+## 4. What is derived is not the same as what is known
+
+Three fields are populated *and* carry a stated gap. Recording them together matters more
+than the count does:
+
+- **`entry_state.key_character_states`** (B02–B09) cites the previous book's milestones
+  and then says per-character condition is **not in the grid** — the grid holds events.
+  Needs a character-arc layer that does not exist.
+- **`locations_in_play`** carries the type layer and says the **book dimension has no
+  source**. Six books list nothing, and the field states that this means no milestone
+  names a place, not that the book has no locations.
+- **`pov_targets.weights`**, above.
+
+Each says so **in itself**, not in a note beside it. A reader who finds only the value
+still finds the caveat — the same reason Ruling 8 put provisional status in the field.
+
+## 5. Verification
+
+Canon-scope **0**. Notices **0**. Tests **118**. All-scope **54**, every one a one-digit
+book inside a quotation in `recovery/`, `proposals/` or `CLAUDE.md` — including the two
+this ledger adds by quoting `S1.T1.B3.EP.E01` as evidence in §56.
+
+END OF ENTRY 62
+
+===============================================================
+
 END RECOVERY LEDGER

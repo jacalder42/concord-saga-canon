@@ -3,7 +3,22 @@
   "book_id": "B08",
   "trilogy_id": "T3",
   "title": "TODO: Book B08 Title",
-  "pov_targets": "TODO: Provide POV weight targets (optional).",
+  "pov_targets": {
+    "_basis": "derived - INITIAL PROPOSAL, not ruled",
+    "_derivation": "DERIVED 2026-09-20 under Ruling 9, as an INITIAL PROPOSAL, not a ruling. Composed mechanically from rules/saga_context_S1.json pov_baton_pass: the saga lead plus this book's trilogy lead. Nothing else was read in. Regenerate rather than hand-edit. Ledger section 62.",
+    "trilogy": "T3",
+    "rotation": [
+      {
+        "role": "saga_lead",
+        "character": "Seraphine Vael"
+      },
+      {
+        "role": "trilogy_lead",
+        "character": "Kade Harper"
+      }
+    ],
+    "weights": "TODO: authored. Ruling 9 derives the ROTATION and leaves the WEIGHTS to the author. They are deliberately not derived from milestone counts: the `channel` column is empty on 23 of 36 grid rows, so any count-based weighting would rest on little over a third of the dataset and would read as measurement while being an artifact of what has been filled in. A POV distribution is an authorial statement about emphasis, which no count supplies."
+  },
   "entry_state": {
     "_basis": "derived",
     "_derivation": "DERIVED 2026-09-20: a book's entry state is the preceding book's exit state. B0N entry = B0N-1 exit, so this cites BB07's exit_state_locks rather than restating them - one source, not two. Structural coordinates only; the grid holds the descriptions. Inherits status `proposed` from those grid rows. Regenerate rather than hand-edit. Ledger section 60.",

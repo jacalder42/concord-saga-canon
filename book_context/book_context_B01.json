@@ -3,7 +3,23 @@
   "book_id": "B01",
   "trilogy_id": "T1",
   "title": "TODO: Book B01 Title",
-  "pov_targets": "TODO: Provide POV weight targets (optional).",
+  "pov_targets": {
+    "_basis": "derived - INITIAL PROPOSAL, not ruled",
+    "_derivation": "DERIVED 2026-09-20 under Ruling 9, as an INITIAL PROPOSAL, not a ruling. Composed mechanically from rules/saga_context_S1.json pov_baton_pass: the saga lead plus this book's trilogy lead. Nothing else was read in. Regenerate rather than hand-edit. Ledger section 62.",
+    "trilogy": "T1",
+    "rotation": [
+      {
+        "role": "saga_lead",
+        "character": "Seraphine Vael"
+      },
+      {
+        "role": "trilogy_lead",
+        "character": "Bastien \"Baz\" Arnaud"
+      }
+    ],
+    "weights": "TODO: authored. Ruling 9 derives the ROTATION and leaves the WEIGHTS to the author. They are deliberately not derived from milestone counts: the `channel` column is empty on 23 of 36 grid rows, so any count-based weighting would rest on little over a third of the dataset and would read as measurement while being an artifact of what has been filled in. A POV distribution is an authorial statement about emphasis, which no count supplies.",
+    "_ruled_constraints_bearing_on_this": "Ruled: Tahl is not a primary character in B01-B03 and may not be named before the B03 epilogue. The T1 lead is Baz."
+  },
   "entry_state": {
     "_basis": "authored - not derivable",
     "_reason": "B01 opens the saga. Every other book's entry_state is derived from the preceding book's exit_state_locks; B01 has no predecessor, so there is nothing to derive from. This block is the author's and is deliberately left TODO. Ledger section 60.",
