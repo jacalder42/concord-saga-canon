@@ -134,9 +134,10 @@ Recorded so the reports are not read as stronger than they are.
   layer — identifier format, field names, controlled vocabulary — which is the part a
   script can settle. The editorial five still need a reader.
 - **Band values are not judged, only checked for coherence.** `CHK_BANDS` cannot tell
-  a well-reasoned band from a careless one. 18 of the 27 act bands are marked
-  `basis: inferred` and are placeholders; the checker treats them exactly like the 9
-  marked `observed`. Read the `basis` field before trusting a band.
+  a well-reasoned band from a careless one. 24 of the 27 act bands are marked
+  `basis: inferred` and are placeholders; the checker treats them exactly like the 3
+  marked `observed` (`B01.A1`, `B01.A2`, `B03.A3`). Read the `basis` field before
+  trusting a band. Counts corrected 2026-09-20 from 18 / 9.
 - **Recovered packets carry free-text `ENV` and will not satisfy the new vocabulary.**
   The E16 packet's `ENV` reads *"Streets leading away from the square (night)"* — a scene
   setting, not a zone or corridor type. Under Ruling 1 that is not an `ENV` value.

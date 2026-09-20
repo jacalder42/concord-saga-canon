@@ -4768,4 +4768,86 @@ END OF ENTRY 51
 
 ===============================================================
 
+===============================================================
+
+# 52. Two counting errors in CLAUDE.md, corrected — 2026-09-20
+
+Found while verifying the **Book Escalation Ceilings — Derivation Draft** against the
+substrate. Both are factual misstatements in the working agreement, not canon questions,
+so they are corrected rather than flagged. Neither changes a rule; both change what a
+future session would believe about the repository's state.
+
+## 1. The 27 violations were attributed to the wrong fields
+
+**Was** — CLAUDE.md §8.0: *"`book_context`'s `entry_state` / `exit_state_locks` /
+`locations_in_play` / `continuity_hooks` / `pov_targets` **are** the book-level timeline
+and are `TODO` in all nine books. Those 27 violations are the canon-scope baseline."*
+
+**Is** — those five fields are indeed `TODO` in all nine books, and **none of them is
+counted.** `book_context/` holds **90** `TODO` strings across ten fields. The validator
+reports **27**, and they are exactly:
+
+    escalation_permissions.max_corridor_tier    9
+    escalation_permissions.max_weather          9
+    escalation_permissions.max_fx               9
+
+Verified by reading the report directly: all 27 are `CHK_VOCAB`, three per book context,
+naming those three keys.
+
+**Why.** `CHK_VOCAB`'s placeholder branch fires only on keys present in `JSON_KEY_VOCAB`
+(`tools/validate_canon.py`), which maps the three escalation scalars and four envelope
+keys. `entry_state`, `exit_state_locks`, `locations_in_play`, `continuity_hooks`,
+`pov_targets` and `title` are not in that map, so their `TODO`s are invisible to the
+validator — 54 strings, uncounted.
+
+**Consequence, and why it matters now.** The derivation draft's closing line — *"committing
+the ceilings alone takes canon-scope violations from 27 to 0"* — is arithmetically
+correct. Under the old CLAUDE.md wording it read as *the book-level timeline is complete*,
+which it would not be. The corrected bullet states the count and the residue together:
+**a clean report is not a populated book layer.**
+
+## 2. "18 of the 27 bands are inferred" — the real split is 24 / 3
+
+**Was** — CLAUDE.md §9.1: *"18 of the 27 bands are inferred placeholders."*
+`reports/README.md` carried the same error with its complement: *"the checker treats them
+exactly like the 9 marked `observed`."*
+
+**Is** — **24 inferred, 3 observed.** The three observed acts are **`B01.A1`, `B01.A2`
+and `B03.A3`**.
+
+Verified twice, from independent sources that agree:
+
+- The 27 overlay files' own `basis` fields: `{'observed': 3, 'inferred': 24}`.
+- `ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md`, the source: 3 `[observed]` table rows
+  (a 4th marker is the legend line) and 25 `[inferred]`, of which one is the **held
+  post-Mending era file at line 157, not one of the 27 acts** — leaving 24.
+
+Both corrected sites now name the three observed acts rather than only a count, so the
+claim is checkable without recomputing it.
+
+## 3. Also sharpened
+
+CLAUDE.md §9.1's validator baseline said *"27 violations, all of them `TODO` placeholders
+in the nine book-context skeletons"* — true as written, but it invites the same inference
+as §1. It now names the three escalation scalars and says the skeletons' other `TODO`
+fields are unchecked.
+
+## 4. Not changed
+
+`RECOVERY_LEDGER_2026.md` §44 ¶3 says *"Those 27 violations are the author's to fill"*
+under the heading **The nine book-context TODOs are untouched**. That sentence is about
+ownership, not composition, and is still true. Left alone.
+
+The derivation draft itself is **not committed** — it is a draft for review, and its §3
+schema recommendation and §4.1 conflict are the author's calls.
+
+## 5. Verification
+
+`27 / 62`, 86 tests. No substrate file touched: the corrections are confined to
+`CLAUDE.md` and `reports/README.md`.
+
+END OF ENTRY 52
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -453,8 +453,16 @@ ledger §28. The three findings that change how the queue below should be read:
 
   Still true below it: `book_context`'s `entry_state` / `exit_state_locks` /
   `locations_in_play` / `continuity_hooks` / `pov_targets` **are** the book-level timeline
-  and are `TODO` in all nine books. Those 27 violations are the canon-scope baseline and
-  are the author's to fill.
+  and are `TODO` in all nine books. They are the author's to fill.
+
+  **They are not the 27 violations.** Corrected 2026-09-20; the earlier version of this
+  bullet said they were. `book_context/` holds **90** `TODO` strings across ten fields and
+  the validator counts **27** of them — exactly `escalation_permissions.max_corridor_tier`
+  / `max_weather` / `max_fx`, three per book. The five timeline fields above, and `title`,
+  are unchecked: `CHK_VOCAB` fires only on keys listed in `JSON_KEY_VOCAB`
+  (`tools/validate_canon.py`), and those six are not among them. So filling the escalation
+  ceilings would take canon-scope to **0** while leaving 54 `TODO` strings untouched.
+  **A clean report is not a populated book layer.** Ledger §52.
 - **The first grid is populated.** `grids/milestones_payoffs.csv` holds **36 rows, all
   `proposed`** (ledger §41), checked by five `CHK_GRID_*` checks and 15 tests (§42).
   `pressure_before` / `pressure_after` are **provisional** — the scale saturates and the
@@ -606,8 +614,9 @@ file it names. No fix has been applied; two of the five need a ruling before one
   recovered E16 packet was right and the ceiling was wrong. `S1.T1.B03.A3.E14`'s `W4`
   is a sanctioned exception. `CHK_BANDS` validates band coherence without
   second-guessing the values. Ledger §18; source at
-  `proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md`. **18 of the 27
-  bands are inferred placeholders**, and the Post-Mending file is held — see §4.
+  `proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md`. **24 of the 27
+  bands are inferred placeholders** — corrected 2026-09-20 from 18; only `B01.A1`,
+  `B01.A2` and `B03.A3` carry `basis: observed`. The Post-Mending file is held — see §4.
 - ~~**`Veil-Touch` vs `VeilThread`**~~ **Resolved 2026-09-19 — VeilThread.** All four
   `rules/` occurrences corrected, two of them in Mechanica. The three character cards
   needed no change: they had preserved the original while the rules files drifted.
@@ -629,7 +638,9 @@ file it names. No fix has been applied; two of the five need a ruling before one
   python3 tools/test_validate_canon.py       # 27 self-tests
   ```
 
-  Baseline as of 2026-09-19: 27 violations in the substrate, all of them `TODO`
-  placeholders in the nine book-context skeletons. See `reports/README.md`. It does not
+  Baseline as of 2026-09-19: 27 violations in the substrate — the three
+  `escalation_permissions` scalars in each of the nine book-context skeletons, and nothing
+  else. The skeletons' other `TODO` fields are not checked; see §8.0.
+  See `reports/README.md`. It does not
   catch the other four defects above — the faction drift is a spelling question and the
   envelope contradiction is a semantic one, and neither is a format violation.
