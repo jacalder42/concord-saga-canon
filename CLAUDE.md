@@ -499,10 +499,38 @@ ledger §28. The three findings that change how the queue below should be read:
   does not exist (§61 §2). Both fields say so in themselves rather than in a note beside
   them. **A clean validation report is still not a populated book layer.**
 - **The first grid is populated.** `grids/milestones_payoffs.csv` holds **36 rows, all
-  `proposed`** (ledger §41), checked by five `CHK_GRID_*` checks and 15 tests (§42).
-  `pressure_before` / `pressure_after` are **provisional** — the scale saturates and the
-  column is ambiguous between global and per-thread pressure (§43). Five rows carry
-  `target_act: EP`, reported as **notices** because the `EP`-slot question is open.
+  `proposed`** (ledger §41), checked by six `CHK_GRID_*` checks.
+
+  **Pressure is thread-scoped, 2026-09-20** — ruled *"World pressure should not effect
+  romance."* `pressure_before`/`pressure_after` became
+  `thread_pressure_before`/`thread_pressure_after`, and a **`thread`** column was added
+  with a vocabulary reconciled from the two lists on file (§64). Each row's pressure
+  measures **its own thread**, which is what §43 found the column already doing
+  inconsistently — five rows open *below* the previous row's close, impossible on one
+  world scale.
+
+  **The 36 values are still `proposed` and their provenance is mixed**: they were scored
+  before the column existed, so some are world readings and some thread readings. The
+  rename states intent; it does not certify the values. **17 of 36 threads are derived;
+  19 are `UNSCORED`**, which is a vocabulary member, not an empty cell —
+  `CHK_GRID_THREAD` makes an empty thread a violation.
+
+  **The scale is deliberately flexible** (`milestone_grid.pressure_scale`): five levels by
+  default, **calibrated per trilogy**, levels extensible, no fixed ceiling. Only T2 is
+  compressed. **T3 descends** — it opens at its maximum and ends at its minimum — so any
+  anchoring must define 1 as a trilogy's *minimum* and 5 as its *maximum*, never as
+  "opening" and "peak".
+
+  **Two grids, two quantities** (`grid_purposes`): this grid holds narrative pressure per
+  thread; `grids/reader_pressure.csv` holds reader-facing intensity per cohort. Score a
+  quantity in exactly one of them.
+
+  **The `channel` column stays as it is.** 13 rows carry `MT`/`VT`/`LT`, 23 are empty.
+  Backfilling `NONE` is **deferred** — ruled 2026-09-20 that narrative and milestones must
+  develop first and will change it. §64 §6.
+
+  The five `target_act: EP` rows validate as ordinary rows since Ruling 6; their notices
+  are gone.
 - **Three layers are missing from the repository — but not from the project.** Corrected
   2026-09-19 after a source review (ledger §29,
   `proposals/concord-2026/LOCATIONS_COMBAT_ANTAGONISTS_PRIMER_REVIEW_2026-09-19.md`):
@@ -717,10 +745,10 @@ file it names. No fix has been applied; two of the five need a ruling before one
 
   ```sh
   python3 tools/validate_canon.py            # exits non-zero on any violation
-  python3 tools/test_validate_canon.py       # 118 self-tests
+  python3 tools/test_validate_canon.py       # 127 self-tests
   ```
 
-  **Canon-scope is 0 and notices are 0 as of 2026-09-20** (all-scope 53), with **118
+  **Canon-scope is 0 and notices are 0 as of 2026-09-20** (all-scope 53), with **127
   self-tests**. Both former notice groups are closed: the 5 `EP` notices by Ruling 6
   (§56), the 13 containment notices by deriving the trilogy layer (§57). Notices are not
   violations and do not affect the exit code; **zero notices is now the meaningful state**,
