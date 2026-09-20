@@ -4421,4 +4421,89 @@ END OF ENTRY 47
 
 ===============================================================
 
+===============================================================
+
+# 48. Character migration batch 4 — bundle D, and two schema corrections — 2026-09-20
+
+**Authority:** Ruling 3, bundle **D** approved. Plan §2, batch 4 of 9.
+
+**Status:** MIGRATED / 7 CAST + 3 RETIRED + **2 HELD** / CANON-SCOPE 27, ALL-SCOPE 62
+
+---
+
+## 1. The HOLD carve-out is now structural, not a promise
+
+Bundle D is the first batch carrying **HOLD** items, and they do **not** enter the
+registry. A third file, `canon/cast_held.csv`, takes them:
+
+| Name | Status |
+| --- | --- |
+| Manufactured-meta population | `HOLD FOR MECHANICA + MANUFACTURED-META SPECIFIC REVIEW` |
+| Arden Kess / LX-5 | `HOLD` |
+
+Each row carries the reason verbatim: *"HOLD carve-out stands under Ruling 3; NOT promoted
+by this migration."*
+
+A check asserts **no HOLD name appears in the registry.** §37 enumerated the five HOLDs so
+they could not be missed; this makes missing them *mechanically impossible* for the
+remaining batches, which is a stronger guarantee than a list someone has to remember.
+
+## 2. Correction — three registry rows are already Tier-1 characters
+
+Batch 4's first run put **Rex Tan** in a secondary-cast registry. His own manifest entry
+says *"migration outside scope except relationship references."*
+
+Checking back, batch 3 had already done the same to **Marcellus Virelli**, and D01 to
+**Director Han Wei**. All three have full four-file Tier-1 treatment in
+`canon/characters/`.
+
+**They are not removed — their rows carry real decisions** (Virelli's *"old off-page B9
+death NOT LOCKED"* is exactly the kind of thing that must not be lost). Instead the
+registry gains a **`tier1_canon`** column naming their existing files, so the record is
+kept without implying they are newly-added secondary cast.
+
+The registry was regenerated for A, C and D together from a clean checkout. A and C rows
+are otherwise unchanged.
+
+## 3. Correction — the Tier-1 detector was wrong the first time
+
+The first implementation matched on a six-character filename prefix and found **only Han
+Wei**, missing Rex and Virelli — the two cases that prompted the column.
+
+Rewritten to derive the stem set from the filenames themselves
+(`RexID.md` → `Rex`, `VirelliEBCI.md` → `Virelli`) and match whole words. Now flags
+exactly three, with **no false positives** — checked specifically against the near-misses:
+`Helena Kael` (Lucien's file stem is `Lucien`, not `Kael`), `Ren Bellande` and
+`Ishaan Virk` (against `Virelli`).
+
+**A detector that finds one of three looks like a detector that works.** What caught it
+was naming the expected hits in advance and comparing, not reading the output.
+
+## 4. What moved
+
+`D01` **Director Han Wei** (Tier-1) · `D02` **Rex Tan** (Tier-1; migration out of scope) ·
+`D03` **Dr. Shun Watanabe** (RENAME PROPOSAL) · `D04` **Dr. Kasumi Arendt** ·
+`D05` **Gianna Locke** · `D06` **Harlow** (KEEP; Rook MERGE/RETIRE) ·
+`D07` **Tamsin "Bluewire" Kho** (DEMOTE).
+
+Three retired: `Rook`, `Yara Kint`, and `Pierre Morozov and generic duplicate analysts`.
+
+The last is **left as one entry, not split.** The source names one person and an unnamed
+class in a single disposition; splitting it would invent a roster of analysts that does
+not exist.
+
+## 5. Validator
+
+`27 / 62`; 86 tests. Registry **24** rows (A 12, C 5, D 7), retired **17**, held **2**.
+
+## 6. Next
+
+Batch 5 is **bundle E** — ideological / Choirless, manifest §6, 5 entries. This is where
+**Ito Masayuki** sits, so it is a direct test of whether the §31 naming correction holds
+at the source the way the Baz rename did in batch 3.
+
+END OF ENTRY 48
+
+===============================================================
+
 END RECOVERY LEDGER
