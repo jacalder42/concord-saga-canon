@@ -9,7 +9,31 @@
     "key_character_states": "TODO"
   },
   "exit_state_locks": [
-    "TODO"
+    {
+      "_basis": "derived",
+      "_derivation": "DERIVED 2026-09-20 from grids/milestones_payoffs.csv: the milestones landing in this book are what it locks on exit. Structural coordinates only (milestone, act, episode); the grid holds the descriptions. All 36 rows are status `proposed`, so every lock here inherits that status. Regenerate rather than hand-edit. Ledger section 59.",
+      "_status": "proposed - inherited from the grid rows"
+    },
+    {
+      "milestone": "M24",
+      "act": "A1"
+    },
+    {
+      "milestone": "M25",
+      "act": "A2"
+    },
+    {
+      "milestone": "M26",
+      "act": "A2"
+    },
+    {
+      "milestone": "M27",
+      "act": "A3"
+    },
+    {
+      "milestone": "M28",
+      "act": "A3"
+    }
   ],
   "locations_in_play": [
     "TODO"
@@ -42,6 +66,61 @@
     "superseded_finding": "CLOSED 2026-09-20. This field recorded that the book's derived band exceeded its trilogy container. The trilogy containers are now DERIVED from the books beneath them by the same rollup, so a book cannot exceed a container computed from itself and the breach no longer exists. Ledger section 57. TWO CORRECTIONS to what this field said: (1) it called the trilogy scalars \"older author-set ceilings that were never reconciled\". They were not. All three trilogy files carried identical W3/U5 beside an unfilled TODO reading \"Populate trilogy-specific ceilings and exceptions\" - SKELETON DEFAULTS, never populated. Same class of misattribution as the two CLAUDE.md errors in ledger section 52. (2) it counted fx as a breached axis. There is no trilogy fx_max; `default_vfx_ceiling` is a DEFAULT, and exceeding a default is not a breach."
   },
   "continuity_hooks": [
-    "TODO"
+    {
+      "_basis": "derived",
+      "_derivation": "DERIVED 2026-09-20 from grids/milestones_payoffs.csv `required_setups`, which encodes 54 dependency edges, 33 of them cross-book, with zero dangling and zero backward references. A cross-book dependency IS a continuity hook. Regenerate rather than hand-edit: if the grid changes, this block is stale. Milestone IDs are cited rather than described - the grid holds the descriptions, and duplicating them here would create a second copy to drift. Ledger section 59.",
+      "_counts": {
+        "owes_forward": 4,
+        "collects": 4
+      }
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M26",
+      "required_by": "M35",
+      "in_book": "B09"
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M27",
+      "required_by": "M33",
+      "in_book": "B09"
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M28",
+      "required_by": "M29",
+      "in_book": "B08"
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M28",
+      "required_by": "M31",
+      "in_book": "B08"
+    },
+    {
+      "kind": "collects",
+      "milestone": "M24",
+      "requires": "M19",
+      "from_book": "B05"
+    },
+    {
+      "kind": "collects",
+      "milestone": "M26",
+      "requires": "M23",
+      "from_book": "B06"
+    },
+    {
+      "kind": "collects",
+      "milestone": "M27",
+      "requires": "M22",
+      "from_book": "B06"
+    },
+    {
+      "kind": "collects",
+      "milestone": "M28",
+      "requires": "M08",
+      "from_book": "B03"
+    }
   ]
 }

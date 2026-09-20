@@ -5389,4 +5389,88 @@ END OF ENTRY 58
 
 ===============================================================
 
+===============================================================
+
+# 59. `continuity_hooks` and `exit_state_locks`, derived — 2026-09-20
+
+Two of the five book-level timeline fields were never authorial in the first place. They
+were already written down, in `grids/milestones_payoffs.csv`.
+
+## 1. The grid is a dependency graph
+
+`required_setups` encodes **54 edges**: 33 cross-book, 21 within-book, **zero dangling and
+zero backward** — no milestone requires a setup from a later book. Verified before
+deriving anything; a backward edge would have meant the grid, not the derivation, needed
+attention.
+
+**A cross-book dependency IS a continuity hook.** Nothing had to be invented, only read
+in the other direction.
+
+| Book | owes forward | collects | locks |
+| --- | --- | --- | --- |
+| B01 | 6 | 0 | 3 |
+| B02 | 6 | 2 | 4 |
+| B03 | 4 | 2 | 4 |
+| B04 | 4 | 5 | 5 |
+| B05 | 2 | 4 | 3 |
+| B06 | 5 | 3 | 4 |
+| B07 | 4 | 4 | 5 |
+| B08 | 2 | 4 | 3 |
+| B09 | 0 | 9 | 5 |
+| | **33** | **33** | **36** |
+
+Both hook columns sum to the cross-book edge count, and the locks column to the milestone
+count. **B01 collects nothing and B09 owes nothing forward** — the shape the saga's ends
+should have, and a check on the derivation that costs nothing to read.
+
+B09 collecting **9** is the largest value in the table: the endgame is where the most
+threads are paid off, which is what one would expect and is now stated in the data rather
+than assumed.
+
+## 2. IDs, not descriptions
+
+Every entry cites **milestone IDs and structural coordinates only** — no copied
+description text. Two reasons, and the second is the load-bearing one:
+
+1. The grid holds the descriptions.
+2. A copy is a second thing to drift. `exit_state_locks` describing the Warehouse Incident
+   in its own words would be a paraphrase that could quietly stop matching `M08`.
+
+`exit_state_locks` carries `_status: "proposed"`, inherited from the grid rows, so nothing
+here reads as settled that the grid does not.
+
+## 3. Regenerable
+
+Both blocks open with `_basis: derived`, a `_derivation` naming the source, and
+`_counts`. The derivation says *regenerate rather than hand-edit*: if the grid changes,
+the block is stale, and the only correct response is to recompute it.
+
+## 4. The remaining count, and a correction to the target
+
+Real `TODO` placeholders in `book_context/` are now **45**, down from 63: `title` 9,
+`pov_targets` 9, `locations_in_play` 9, `entry_state.world` 9,
+`entry_state.key_character_states` 9.
+
+**The stated end-state target of 19 is 20.** The queue reserves three things as authored —
+`title` (9), `pov_targets` weights (9) and B01's `entry_state` (1 book). But an
+`entry_state` block holds **two** strings, `world` and `key_character_states`, so B01
+contributes 2, not 1: 9 + 9 + 2 = **20**.
+
+This is the same miscount that made §52's residue read 54 instead of 63 — a field name
+counted where a string should have been. Recorded here rather than resolved by reshaping
+B01's block to produce a 19: the data should not be bent to match a number.
+
+**A counting note.** A naive scan for the substring `TODO` reports 51, because six
+`superseded_finding` fields *quote* the trilogy's old `TODO` text as evidence. The count
+above matches only values that **start with** `TODO`, which is what a placeholder is.
+
+## 5. Verification
+
+Canon-scope **0**. All-scope **53**. Notices **0**. Tests **118**. Nothing in the grid was
+modified — this entry only reads it.
+
+END OF ENTRY 59
+
+===============================================================
+
 END RECOVERY LEDGER
