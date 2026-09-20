@@ -12,7 +12,7 @@ Historical material repeatedly collapses several different pressures into a sing
 - vigilante harassment;
 - PureTone / Silence-Doctrine language;
 - Choirless;
-- Dominion/Technarch manipulation.
+- Dominion/Technarc manipulation.
 
 Current architecture requires separation.
 
@@ -79,7 +79,7 @@ Historical Marcus is:
 
 This creates an unnecessary backstage mastermind and duplicates:
 - Saeko's political agency;
-- Han/Technarch predictive analytics;
+- Han/Technarc predictive analytics;
 - Tessa's street organization;
 - later Choirless operational escalation.
 
@@ -89,7 +89,7 @@ Do not make Saeko a puppet whose success depends on a male strategist secretly e
 
 Useful analytics/manipulation beats can instead be:
 - ordinary campaign/media analytics under Saeko;
-- opportunistic use of public Technarch-derived data;
+- opportunistic use of public Technarc-derived data;
 - anonymous movement infrastructure.
 
 # 5. Priya Sen — DEMOTE TO CAMPAIGN/CULTURAL TEXTURE
@@ -114,7 +114,7 @@ A Silas byline may survive as an Easter-egg/supplement artifact, but no independ
 
 # 7. Jonah Grieves — RETIRE HISTORICAL QUIET-ROOM ARC
 
-Historical “Quiet Rooms” becoming death traps is tonally potent but risks creating yet another mini-villain/faction technology and muddling Choirless/Technarch mechanics.
+Historical “Quiet Rooms” becoming death traps is tonally potent but risks creating yet another mini-villain/faction technology and muddling Choirless/Technarc mechanics.
 
 Retire **Jonah Grieves** as recurring antagonist.
 

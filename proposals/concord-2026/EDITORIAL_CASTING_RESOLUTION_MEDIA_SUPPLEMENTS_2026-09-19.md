@@ -91,7 +91,7 @@ B9 final panicked message.
 
 Zane represents **attention economics** rather than conviction.
 
-He does not need to believe Saeko, Elias, the Technarch, Filaments, or Tahl. He needs the next post to outperform the last one.
+He does not need to believe Saeko, Elias, the Technarc, Filaments, or Tahl. He needs the next post to outperform the last one.
 
 His trajectory:
 **ironic aggregator → successful distortion merchant → audience capture → trapped by the panic economy he helped create.**
@@ -202,7 +202,7 @@ Avoid diagnostic language such as “psychological break” unless story specifi
 
 ### GlassHarbor — KEEP
 Trajectory:
-early recurring commenter → unverified emergency compilation → Technarch tracking/paranoia → Quietist purge tracking → final-hours documentation.
+early recurring commenter → unverified emergency compilation → Technarc tracking/paranoia → Quietist purge tracking → final-hours documentation.
 
 Function: **OSINT/crowdsourced verification under pressure.**
 
@@ -228,7 +228,7 @@ Do not make jokes literally prophetic as a supernatural gimmick. If a joke later
 
 ### BlackHarbor — MERGE INTO REN BELLANDE'S RADICALIZATION ECOSYSTEM / RETIRE AS CORE CHORUS
 Historical:
-street chaos observer → aggressive anti-Technarch → violent revolt → extremist messaging.
+street chaos observer → aggressive anti-Technarc → violent revolt → extremist messaging.
 
 This duplicates the militant Filament fracture at the public-voice level.
 

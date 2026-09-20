@@ -2,19 +2,19 @@
 
 Status: EDITORIAL RECOMMENDATION / PROPOSAL — NONCANONICAL UNTIL AUTHOR PROMOTION
 Date: 2026-09-19
-Scope: Singapore recurring/place cast, Rex's pre-Concord life, Technarch relationships, manufactured-meta victims, civic texture, and post-Technarch human continuity.
+Scope: Singapore recurring/place cast, Rex's pre-Concord life, Technarc relationships, manufactured-meta victims, civic texture, and post-Technarc human continuity.
 
 ## I. RECOVERED CORE
 
 Singapore is historically developed as:
 - Rex Tan's origin;
-- Technarch/Protocol 9 center;
+- Technarc/Protocol 9 center;
 - birthplace of manufactured metas;
-- a highly controlled city whose human-scale neighborhoods resist Technarch's reductive worldview;
+- a highly controlled city whose human-scale neighborhoods resist Technarc's reductive worldview;
 - later Filament/refugee corridors;
 - post-Mending example of technology reintegrated with human needs.
 
-Rex's recovered character sheet gives **no named family, sibling, childhood friend, spouse, or pre-Technarch civilian confidant**.
+Rex's recovered character sheet gives **no named family, sibling, childhood friend, spouse, or pre-Technarc civilian confidant**.
 
 It does, however, establish:
 - “Technarch Directorate lineage”;
@@ -60,7 +60,7 @@ Recovered evidence is unusually consistent:
 - B7: attempts sabotage to prevent weaponization.
 - B8 historical beat: executed after trying to destroy Protocol 13 servers.
 
-Shun is therefore not generic Technarch staff.
+Shun is therefore not generic Technarc staff.
 
 ### Editorial function
 **Shun is Rex's mentor and the human conscience inside the system.**
@@ -79,7 +79,7 @@ Veil:
 
 Neon:
 - Shun realizes reform from inside is failing;
-- Rex's break with Technarch makes explicit what Shun has been attempting quietly.
+- Rex's break with Technarc makes explicit what Shun has been attempting quietly.
 
 Loom:
 - Shun moves from dissent to sabotage.
@@ -111,7 +111,7 @@ Shun questions.
 Han controls.
 Tamsin has to keep the equipment running while becoming increasingly terrified.
 
-This gives Singapore/Technarch a worker-level perspective without inventing a new technician for every malfunction.
+This gives Singapore/Technarc a worker-level perspective without inventing a new technician for every malfunction.
 
 ### Relationship to Rex
 Not intimate.
@@ -142,16 +142,22 @@ Do not merge Shun and Kasumi.
 
 ## VI. DIRECTOR HAN WEI — KEEP / IDEOLOGICAL FATHER, NOT PERSONAL FATHER
 
-Han remains the Technarch institutional antagonist.
+Han remains the Technarc institutional antagonist.
 
 His relationship to Rex should carry the shape of a professional lineage:
-- Rex is the kind of brilliant engineer Technarch believes validates itself;
+- Rex is the kind of brilliant engineer Technarc believes validates itself;
 - Han sees Rex's defection as intellectual betrayal;
 - Rex sees Han as the endpoint of logic divorced from humility.
 
 Do not create a literal family twist.
 
 Rex's “Technarch Directorate lineage” can remain social/professional/familial background without making Han kin.
+
+> **Retired spelling retained above, deliberately.** `Technarch` inside the quoted
+> phrase is the SOURCE's wording and is evidence. `Technarc` is canonical
+> (decisions §6.4); every occurrence in this document's own voice was corrected
+> 2026-09-20. Ledger §63.
+
 
 ## VII. PIERRE MOROZOV — MERGE / RETIRE AS RECURRING IDENTITY
 
@@ -160,7 +166,7 @@ Historical function:
 - pressures Rex;
 - seeds distrust.
 
-This is not distinct enough from Han plus Technarch committee/hardliner apparatus.
+This is not distinct enough from Han plus Technarc committee/hardliner apparatus.
 
 Retire Morozov as a recurring identity.
 
@@ -171,7 +177,7 @@ His useful pressure beats can be assigned to:
 ## VIII. YARA KINT — DEMOTE TO LOCAL/UTILITY OR MERGE INTO RETRIEVAL APPARATUS
 
 Historical function:
-- Technarch agent;
+- Technarc agent;
 - catalogs civilian anomalies;
 - attempts to seize Tahl's research.
 
@@ -212,14 +218,14 @@ Singapore is where the saga should make that moral fact unavoidable.
 She has the strongest repeated narrative footprint and Loom escape material.
 Keep as the principal recurring manufactured-meta victim unless later audit identifies a stronger candidate.
 
-“Blinking Girl” should increasingly feel like the dehumanizing Technarch label, not her true identity.
+“Blinking Girl” should increasingly feel like the dehumanizing Technarc label, not her true identity.
 
 ### Silver Pattern Man — KEEP AS LIMITED RECURRING THREAT/VICTIM
 Useful visual and pursuit function, but do not over-personalize unless source recovery supplies a human identity.
 
 ### White Chime / Maya Reza — RECOVER MORE
 Core Visual Canon identifies Maya Reza as a disappeared Singapore civic volunteer converted into a sensory-resonance meta.
-This is potentially extremely valuable because she connects ordinary Singapore directly to Technarch experimentation.
+This is potentially extremely valuable because she connects ordinary Singapore directly to Technarc experimentation.
 
 Do not promote yet without dedicated source recovery.
 
@@ -230,7 +236,7 @@ Do not proliferate appearances merely because designs exist.
 ## XI. CHUAN'S NIGHT NOODLE COUNTER — KEEP PLACE; CHUAN MAY BECOME LIGHT RECURRING FACE
 
 Recovered city canon specifically names **Chuan's Night Noodle Counter (Lavender)**:
-- Technarch coders ate there after shifts;
+- Technarc coders ate there after shifts;
 - emotional signature = tired solidarity;
 - Rex uses it as solitary comfort;
 - post-Mending it becomes a Filament social hub.
@@ -309,21 +315,21 @@ This is a stronger arc than inventing a lost best friend.
 
 ## XVI. CITY INTERSECTIONS
 
-### One-North / Technarch Complex
+### One-North / Technarc Complex
 Rex + Shun + Tamsin + Kasumi + Han.
 Keep this the institutional ensemble.
 
 ### Chuan's / hawker and food spaces
 Rex + ordinary workers.
 No exposition dumps.
-Food/routine should counterbalance clinical Technarch imagery.
+Food/routine should counterbalance clinical Technarc imagery.
 
 ### Little India / Geylang
-Civilians + local Filaments + resonance life Technarch dismisses as “noise.”
+Civilians + local Filaments + resonance life Technarc dismisses as “noise.”
 
 Important editorial correction:
 avoid implying Singapore itself is emotionally sterile or authoritarian by nature.
-The **Technarch system** imposes reductive order; Singapore's actual human/cultural environments should visibly contradict that ideology.
+The **Technarc system** imposes reductive order; Singapore's actual human/cultural environments should visibly contradict that ideology.
 
 ### Henderson Waves
 Rex alone.
@@ -337,7 +343,7 @@ Industrial consequences of Protocol 9; worker/civilian stakes.
 ### Core
 - **Rex Tan** — primary lens.
 
-### Recurring Technarch-human layer
+### Recurring Technarc-human layer
 - **Dr. Shun Wei** — mentor / institutional conscience.
 - **Tamsin “Bluewire” Kho** — technician / worker-level collapse.
 - **Dr. Kasumi Arendt** — manufactured-meta evidence / ethics.

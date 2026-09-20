@@ -103,7 +103,7 @@ This also gives the Baptiste surname one strong community identity rather than s
 
 Historical progression:
 - pushes against secrecy;
-- resists Technarch overreach;
+- resists Technarc overreach;
 - raises emergency transparency measures;
 - attempts emergency governance;
 - tries to restore civic trust;
@@ -375,7 +375,7 @@ This is preferable to creating a new expert or witness for each crisis.
 
 Proceed to:
 1. institutional recurring cast — Dominion;
-2. institutional recurring cast — Technarch;
+2. institutional recurring cast — Technarc;
 3. antagonist-adjacent civilians/media;
 4. global/place anchors outside NOLA;
 5. then whole-saga name-density and trilogy cast-load review.

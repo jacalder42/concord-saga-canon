@@ -76,7 +76,7 @@ Strong recurrence candidates:
 - Francis Arnaud — food-corridor operator B7–B9; surname collision/possible opportunity after Baz Arnaud lock.
 - Emmanuel Drake — child/refugee protector B7–B9.
 - Carmine Goodwin — late Loom visual witness / reporter.
-- Lina Harrow — late Loom livestream witness; surname collision with Technarch Harlow.
+- Lina Harrow — late Loom livestream witness; surname collision with Technarc Harlow.
 - Helena Arceneaux — Creole elder reading bloom colors.
 - Eric Dominguez — bartender / early AR witness.
 - Kamal Dufresne — Lucien containment witness.
@@ -113,7 +113,7 @@ Potential utilities / consolidation candidates:
 - Arel Tovin — B3 shadow observer.
 - Eryk Sorensen — early analyst / bureaucratic presence.
 
-# F. Technarch recurring population
+# F. Technarc recurring population
 
 - Director Han Wei — major institutional antagonist.
 - Dr. Shun Wei — Rex mentor / internal resistance.

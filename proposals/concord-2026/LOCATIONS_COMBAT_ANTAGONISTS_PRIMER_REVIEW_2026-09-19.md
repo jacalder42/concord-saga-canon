@@ -194,6 +194,12 @@ Neon 6 failures. **So the pressure-curve model does not need inventing — it ne
 extracting into the faction files and binding to `episode_beats.csv`'s existing
 `antagonist_pressure` column.**
 
+> **Retired spelling retained above, deliberately.** `Technarch` inside the quoted
+> phrase is the SOURCE's wording and is evidence. `Technarc` is canonical
+> (decisions §6.4); every occurrence in this document's own voice was corrected
+> 2026-09-20. Ledger §63.
+
+
 `canon/factions/` is also the layer where Notion's `05.07 • Antagonist Architecture Bible`
 and ND-020–ND-029 belong.
 

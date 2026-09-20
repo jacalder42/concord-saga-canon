@@ -227,9 +227,9 @@ Potentially distinct if Echo Node stewardship and teaching children becomes an e
 Global first-responder function overlaps established Leila Broussard and other medical faces. Use unnamed/local medical workers outside NOLA.
 
 **Jae Park — MERGE/RETIRE**
-Survival engineering overlaps Rex + Singapore/Technarch technicians. Also creates avoidable Jae-name collision with Jae “Sparrow” Nguyen.
+Survival engineering overlaps Rex + Singapore/Technarc technicians. Also creates avoidable Jae-name collision with Jae “Sparrow” Nguyen.
 
-**Arden Kess / LX-5 — HOLD FOR TECHNARCH/MANUFACTURED-META AUDIT**
+**Arden Kess / LX-5 — HOLD FOR TECHNARC/MANUFACTURED-META AUDIT**
 Potentially distinctive because guilt + dangerous data may create relationship and plot leverage. Do not treat as generic regional anchor.
 
 **Samuel “Sam” Broussard — DEMOTE / LOCAL CIVILIAN**

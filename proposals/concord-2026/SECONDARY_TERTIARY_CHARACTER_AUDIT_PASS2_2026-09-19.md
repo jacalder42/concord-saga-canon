@@ -177,7 +177,7 @@ Ezra Simoneaux + Rachel Dupont + Marja Li + Carmine Goodwin + Lina Harrow + Jenn
 
 # 9. Institutional recurring faces — provisional rule
 
-Dominion and Technarch should each have a small number of faces readers can recognize.
+Dominion and Technarc should each have a small number of faces readers can recognize.
 
 Dominion provisional core:
 - Virelli role(s) — reconcile Marcellus/Severin.
@@ -186,7 +186,7 @@ Dominion provisional core:
 - Helena Kael — personal/family pressure.
 - possibly Sigrun Dahl — internal empath/conscience.
 
-Technarch provisional core:
+Technarc provisional core:
 - Han Wei — institutional architect.
 - Shun Wei — internal conscience/mentor.
 - Gianna Locke — enforcement-to-defection trajectory.
@@ -227,7 +227,7 @@ Mara/M, Arianna, Pivot, Nara, Stitch, Corrine, selected neighborhood elders.
 Leila, Rieux, Shirin, selected shelter/infrastructure face.
 
 **Institutions**
-small recurring Dominion and Technarch casts.
+small recurring Dominion and Technarc casts.
 
 **Public narrative**
 Tahl/Kade + a limited MT chorus + limited professional media.

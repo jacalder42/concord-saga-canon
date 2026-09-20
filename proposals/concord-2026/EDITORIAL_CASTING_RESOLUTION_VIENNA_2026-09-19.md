@@ -185,9 +185,9 @@ Ito Masayuki remains the recurring ideological face.
 
 Vienna can demonstrate how Ito's doctrine appeals to people trained to value restraint/order without turning every recruit into a named antagonist.
 
-## X. DONAUSTADT / TECHNARCH-DOMINION INTERFACE — ROUTE THROUGH EXISTING CAST
+## X. DONAUSTADT / TECHNARC-DOMINION INTERFACE — ROUTE THROUGH EXISTING CAST
 
-Historical city canon contains shared Dominion-Technarch research and prototype traffic.
+Historical city canon contains shared Dominion-Technarc research and prototype traffic.
 
 Use existing:
 - Rex;
@@ -196,7 +196,7 @@ Use existing:
 - Shun network;
 - Marius for Dominion records.
 
-Do not invent Vienna-specific Technarch scientists unless later recovery demands them.
+Do not invent Vienna-specific Technarc scientists unless later recovery demands them.
 
 ## XI. CIVIC SURVIVAL FACE — DO NOT ADD YET
 
@@ -316,12 +316,12 @@ That makes the city emotionally useful instead of merely beautiful Dominion scen
 
 ## XVII. NEXT PASS
 
-Proceed to **Singapore / Rex-Technarch ecosystem**:
+Proceed to **Singapore / Rex-Technarc ecosystem**:
 - Rex's pre-Concord human relationships;
 - Han/Shun/Kasumi institutional overlap;
 - civilian/engineering culture;
 - manufactured-meta survivors;
 - ideological genealogy feeding later Choirless;
-- determine whether Rex needs a non-Technarch home relationship analogous to Baz/Jan or whether his isolation is intentional.
+- determine whether Rex needs a non-Technarc home relationship analogous to Baz/Jan or whether his isolation is intentional.
 
 END EDITORIAL CASTING RESOLUTION

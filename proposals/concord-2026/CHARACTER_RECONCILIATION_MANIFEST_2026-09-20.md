@@ -299,10 +299,10 @@ Approval: [ ]
 Severin Virelli, Arel Tovin, Sigrun Dahl, Sabir Vollen, Nadia Verenz, Eryk Sorensen: RETIRE/MERGE/DEMOTE according to scene.
 Approval: [ ]
 
-## 5. TECHNARCH / REX ECOSYSTEM
+## 5. TECHNARC / REX ECOSYSTEM
 
 ### Director Han Wei
-Status: KEEP / PRIMARY TECHNARCH FACE.
+Status: KEEP / PRIMARY TECHNARC FACE.
 Function: prediction/control/risk; treats uncertainty and human variance as engineering defects.
 Ending: OPEN.
 Approval: [ ]
@@ -356,7 +356,7 @@ Status: HOLD.
 Reason: potentially distinctive guilt + dangerous-data leverage; not yet ready for promotion.
 Approval: [ ]
 
-### Retire/demote Technarch duplication
+### Retire/demote Technarc duplication
 Rook, Yara Kint, Pierre Morozov and generic duplicate analysts: RETIRE/MERGE/DEMOTE.
 Approval: [ ]
 
@@ -688,7 +688,7 @@ To avoid approving dozens of checkboxes individually, author may approve by bund
 A. Filament/community reconciliation
 B. NOLA civic/cultural reconciliation
 C. Dominion/Vienna reconciliation
-D. Technarch/Singapore reconciliation
+D. Technarc/Singapore reconciliation
 E. ideological/Choirless reconciliation
 F. media/public voices
 G. global/place anchors

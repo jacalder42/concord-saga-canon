@@ -637,11 +637,31 @@ Flagged, not yet ruled on. Do not silently fix these while doing other work.
 `recovery/RECOVERY_LEDGER_2026.md` §16.** Read the relevant entry before touching any
 file it names. No fix has been applied; two of the five need a ruling before one can be.
 
-- ~~**Faction name drift.**~~ **Resolved 2026-09-19.** `Technarc` is canonical per
-  decisions §6.4; all 9 `Technarch` occurrences across 6 files are corrected. Repository
-  now reads 73 `Technarc`, 0 `Technarch` outside `CLAUDE.md` and `recovery/`, which
-  quote the retired spelling as evidence. Ledger §16.1 records what changed and why the
-  `RexID.md` naming-variance entry reads better afterwards.
+- **Faction name drift — `Technarc` is canonical, and it keeps coming back.** Ruled
+  2026-09-19, decisions §6.4. Ledger §16.1 records the original pass.
+
+  **This defect has now been corrected FOUR times** (`a83f78d`, `6ba4de9`, `5475b4c`,
+  2026-09-20 §63) and re-entered three times. The count in this bullet was wrong before
+  2026-09-20: it claimed *"0 `Technarch` outside `CLAUDE.md` and `recovery/`"*, and the
+  real figure was **80** — 68 in `proposals/`, 12 in `canon/`.
+
+  **Two distinct re-entry routes, both now understood:**
+  1. **The proposal-branch fast-forward** (§32) landed *after* the correction passes and
+     re-imported 68 uncorrected occurrences. A merge does not inherit a sweep.
+  2. **The character migration** (§45–§51) copied the manifest's heading
+     `5. TECHNARCH / REX ECOSYSTEM` verbatim into `manifest_section`, putting 12 into
+     **canon scope** — the worst of the three re-entries, and self-inflicted.
+
+  **Expect it again.** Any merge from a branch cut before a naming ruling, and any
+  migration that copies a heading verbatim, reintroduces it. **The validator cannot catch
+  this** — it is a spelling question, not a format violation. Check with
+  `grep -ro 'Technarch' canon/ rules/ grids/` after any merge or bulk migration.
+
+  **Current state, 2026-09-20:** `canon/` **0**, `rules/` **0**, `grids/` **1**,
+  `proposals/` **6**. Every remaining occurrence is a **quotation of a source** and is
+  annotated as such — `Technarch Directorate lineage`, `Technarch Hardliners`, the
+  `Silver Static around Technarch towers` source-reads note, and the annotations
+  themselves, which name the retired spelling in order to explain it. Ledger §63.
 - ~~**Trilogy envelopes contradict the escalation model.**~~ **RESOLVED 2026-09-20 —
   the trilogy layer is now derived too, and the contradiction dissolved rather than being
   adjudicated.** The trilogy scalars were **skeleton defaults**, not author-set ceilings:

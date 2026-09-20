@@ -5688,4 +5688,77 @@ END OF ENTRY 62
 
 ===============================================================
 
+===============================================================
+
+# 63. `Technarch` re-entered twice more — the fourth correction — 2026-09-20
+
+Found while reviewing the open-items proposal, which itself wrote `Technarch` in its §2.
+That prompted a check, and the check found **80 occurrences** of a spelling ruled retired
+on 2026-09-19.
+
+## 1. CLAUDE.md's count was wrong
+
+§9.1 claimed *"0 `Technarch` outside `CLAUDE.md` and `recovery/`"*. Actual: **68 in
+`proposals/`, 12 in `canon/`.**
+
+## 2. Two re-entry routes, and the second is mine
+
+**Route 1 — the merge.** `a83f78d`, `6ba4de9` and `5475b4c` corrected the spelling across
+canon, rules and the analysis layer on 2026-09-19. The proposal-branch fast-forward (§32)
+landed **after** all three and re-imported 68 uncorrected occurrences from a branch cut
+before them. **A merge does not inherit a sweep**, and nothing warned that it had not.
+
+**Route 2 — the character migration, and this one is worse.** Batches 1–7 (§45–§51)
+copied the manifest heading `## 5. TECHNARCH / REX ECOSYSTEM` verbatim into the
+`manifest_section` column of three new cast files, and one `Status:` line into a fourth
+field. That put **12 occurrences into canon scope**: `cast_registry.csv` 7,
+`cast_retired_aliases.csv` 3, `cast_held.csv` 2.
+
+The manifest is dated **2026-09-20** — after the ruling — so it introduced the retired
+form fresh, and the migration propagated it into `canon/`. Verbatim copying is normally
+the safe choice; here it carried a known-bad token across a layer boundary.
+
+## 3. What was corrected and what was kept
+
+**Corrected: 68 in 12 `proposals/` files, 12 in 3 `canon/` files, 4 in the manifest.**
+
+**Preserved: 4 quotations**, the same four the 2026-09-19 pass preserved — an
+independent agreement worth noting, since the test was applied afresh rather than copied:
+
+- `"Technarch Directorate lineage"` ×2, Singapore resolution
+- `` `Technarch Hardliners` ``, primer review
+- `Source reads "Silver Static around Technarch towers"`, the places CSV
+
+The rule is unchanged from §16.1 and the `Foix` and `Ito` corrections: **correct a
+document's own voice; never rewrite a quotation of a source.** The two prose quotations
+are now annotated in place, so the retained spelling explains itself instead of reading
+like a miss.
+
+**`grids/locations_registry.csv` needed no change.** Its single occurrence was already
+the correct pattern: the place is named `Technarc towers district`, and the note quotes
+the source's spelling with the correction cited.
+
+## 4. Why this will happen again
+
+Four corrections, three re-entries. The mechanism is structural, not careless:
+
+- A branch cut before a naming ruling carries the old spelling, and merging is not
+  sweeping.
+- A migration that copies headings verbatim carries whatever the heading says.
+
+**The validator cannot catch it.** Spelling is not a format violation, and §9.1 has said
+so since the tooling landed. §9.1 now carries a grep to run after any merge or bulk
+migration, and states the expectation that it recurs rather than declaring victory a
+fourth time.
+
+## 5. Verification
+
+`canon/` **0**, `rules/` **0**, `grids/` **1** (quotation), `proposals/` **6** — the four
+quotations plus two inside the annotations, which name the retired spelling in order to
+explain it. Canon-scope **0**, notices **0**, 118 tests.
+
+END OF ENTRY 63
+
+===============================================================
+
 END RECOVERY LEDGER

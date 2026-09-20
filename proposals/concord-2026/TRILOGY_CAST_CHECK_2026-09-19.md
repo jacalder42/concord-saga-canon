@@ -96,7 +96,7 @@ This is enough to make NOLA feel inhabited without naming every witness.
 
 ### E. Institutional Veil pressure — REDUCE FRONT-LINE VILLAINS
 
-Historical B1–B3 over-seed named Dominion/Technarch operators.
+Historical B1–B3 over-seed named Dominion/Technarc operators.
 
 Dominion Veil spine:
 - Marcellus Virelli = distant/approaching institutional authority.
@@ -106,7 +106,7 @@ Dominion Veil spine:
 
 Retire Severin Virelli, Arel Tovin, Nadia Verenz, Eryk Sorensen as recurring identities.
 
-Technarch Veil spine:
+Technarc Veil spine:
 - Han Wei = distant system authority.
 - Rex = inside-system viewpoint.
 - Shun Watanabe = mentor/methodological conscience.
@@ -254,7 +254,7 @@ Dominion:
 - Marius = conscience/records.
 - Helena = Lucien's inherited family pressure.
 
-Technarch:
+Technarc:
 - Han = prediction/control.
 - Rex = countertrajectory.
 - Shun Watanabe = methodological conscience.
@@ -385,11 +385,11 @@ Signalman East and MT fragments become more valuable precisely because polished 
 
 ### G. Choirless / Brightbreak endgame
 
-Historical B7–B9 lists overemphasize Dominion/Technarch/Quiet Doctrine as equal final villains.
+Historical B7–B9 lists overemphasize Dominion/Technarc/Quiet Doctrine as equal final villains.
 
 Current architecture:
 - Dominion = containment.
-- Technarch = prediction.
+- Technarc = prediction.
 - Choirless/Ito = erasure.
 - Brightbreak/Elias = certainty/influence.
 
@@ -400,7 +400,7 @@ Honey Island conflict should preserve the clear opposition:
 - Elias/Brightbreak wants a post-crisis order in which his leverage/influence remains meaningful.
 - Mending represents coexistence/transformation rather than either solution.
 
-### H. Dominion/Technarch endings need controlled migration
+### H. Dominion/Technarc endings need controlled migration
 
 Old B9 list contains several disposable off-page/death/disappearance endings:
 Virelli dies off-page; Caldas killed in storm; Harlow vanishes; etc.
@@ -419,7 +419,7 @@ The global-place pass established that world scale should be carried by recurrin
 During B7–B9 migration, intentionally revisit surviving anchors from:
 - Reykjavík / Elisabet ecosystem;
 - Vienna / Lucien-Dominion civic texture;
-- Singapore / Rex-Technarch civilian texture;
+- Singapore / Rex-Technarc civilian texture;
 - Marrakesh;
 - Tokyo;
 - Santa Fe;
@@ -443,7 +443,7 @@ The absence of an epilogue mention does not equal death.
 ## V. CAST-LOAD FLAGS BY BOOK
 
 ### B1 — RED FLAG: too many named seeds
-Old list tries to establish primary cast + Filaments + civic workers + Dominion + Technarch + witnesses + media + antagonist shadows.
+Old list tries to establish primary cast + Filaments + civic workers + Dominion + Technarc + witnesses + media + antagonist shadows.
 
 Resolution:
 foreground neighborhood/civic recurrence; keep institutional figures mostly peripheral.
@@ -470,7 +470,7 @@ Resolution:
 reuse the consolidated civic/Filament/institutional ensemble.
 
 ### B6 — RED FLAG: climax overload
-Tahl death + crackdowns + Filament fracture + anti-resonance violence + Technarch/Dominion escalation.
+Tahl death + crackdowns + Filament fracture + anti-resonance violence + Technarc/Dominion escalation.
 
 Resolution:
 reduce new introductions close to zero. B6 should cash established faces.
@@ -502,7 +502,7 @@ High-value pairings for beat migration:
 - Kesi ↔ Nara: art and civic wayfinding overlap without becoming magic.
 - Sparrow ↔ Naomi: street documentation vs institutional verification.
 - Marius ↔ Naomi: leaked records and the ethics of publication.
-- Gianna ↔ Rex: obedience/defection from different levels of Technarch.
+- Gianna ↔ Rex: obedience/defection from different levels of Technarc.
 - Kasumi ↔ Leila: institutional science meets front-line medicine.
 - Ren ↔ Tessa Vane: opposing radicalizations that can recognize each other's logic without becoming allies.
 - Silas ↔ Saeko: media normalization vs political legitimacy.

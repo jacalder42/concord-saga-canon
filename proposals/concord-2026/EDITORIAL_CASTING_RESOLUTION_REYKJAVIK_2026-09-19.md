@@ -15,7 +15,7 @@ Recovered functions:
 - local priest who senses early anomaly;
 - old fisherman at Harbor Shack #7;
 - small Filament network;
-- Technarch defectors;
+- Technarc defectors;
 - diaspora/evacuation support;
 - Harpa becomes cultural site → triage site → post-Mending emotional arts center.
 
@@ -86,7 +86,7 @@ Function:
 - knew Elisabet in an analytical/professional context before Concord;
 - provides a grounded route into Reykjavík's early resonance research;
 - can demonstrate why the city becomes a clarity/data node;
-- may later help preserve research or coordinate with defecting Technarch scientists.
+- may later help preserve research or coordinate with defecting Technarc scientists.
 
 This character should remain local/tertiary.
 
@@ -130,9 +130,9 @@ Use:
 
 If a recurring Reykjavík Filament relationship later becomes necessary, recover before inventing.
 
-## VIII. TECHNARCH DEFECTORS — USE SHUN/KASUMI NETWORK, NOT NEW CAST
+## VIII. TECHNARC DEFECTORS — USE SHUN/KASUMI NETWORK, NOT NEW CAST
 
-Reykjavík historically shelters a small Technarch-defector presence.
+Reykjavík historically shelters a small Technarc-defector presence.
 
 Do not create a fresh named scientist for each lab.
 
@@ -209,7 +209,7 @@ This lets one location visibly change function across the saga:
 - mentor;
 - early research;
 - later Filament analysis;
-- Technarch-defector information.
+- Technarc-defector information.
 
 ### Grótta
 Keep primarily intimate.
@@ -252,6 +252,6 @@ Proceed to **Vienna / Lucien ecosystem**:
 - Choirless intellectual recruitment;
 - determine which Vienna characters recur and which remain place texture.
 
-Then Singapore/Rex-Technarch.
+Then Singapore/Rex-Technarc.
 
 END EDITORIAL CASTING RESOLUTION

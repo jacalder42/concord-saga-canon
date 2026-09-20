@@ -2,7 +2,7 @@
 
 Status: EDITORIAL RECOMMENDATION / PROPOSAL — NONCANONICAL UNTIL AUTHOR PROMOTION
 Date: 2026-09-19
-Scope: Recover historical Choirless architecture, resolve Ito Masayuki identity/function, and separate Choirless from Saeko's movement, Dominion, Technarch, and Brightbreak.
+Scope: Recover historical Choirless architecture, resolve Ito Masayuki identity/function, and separate Choirless from Saeko's movement, Dominion, Technarc, and Brightbreak.
 
 ## I. RECOVERED EVIDENCE
 
@@ -45,7 +45,7 @@ Treat older combat/VFX descriptions as developmental mechanics subject to curren
 ### C. Choirless chronology
 
 Later recovered continuity is especially useful:
-- B4: Technarch/Choirless/Dominion pressure begins escalating quietly.
+- B4: Technarc/Choirless/Dominion pressure begins escalating quietly.
 - B5: Choirless unrest grows.
 - B6: **first Choirless violence** is a continuity lock associated with the Santa Fe collapse/Tahl catastrophe.
 - B7: post-Tahl global fracture; faction escalation.
@@ -57,7 +57,7 @@ This later chronology should supersede vague older claims that Choirless are sim
 ### D. Geographic roots
 
 Recovered place bibles provide two strong developmental roots:
-- **Singapore:** Technarch's “emotion is a variable to eliminate” theory lays ideological groundwork for Choirless.
+- **Singapore:** Technarc's “emotion is a variable to eliminate” theory lays ideological groundwork for Choirless.
 - **Vienna:** Choirless later recruit intellectual supporters in Spittelberg/Neubau and occupy public squares during Loom collapse.
 
 This suggests Choirless is transnational and grows from multiple failed systems rather than being a single-city gang.
@@ -69,7 +69,7 @@ Historical material repeatedly blurs:
 - PureTone;
 - Choirless;
 - “Quiet Doctrine”;
-- Technarch hardliners.
+- Technarc hardliners.
 
 The current antagonist architecture requires these to be separated by narrative function.
 
@@ -98,7 +98,7 @@ Keep **emotion is entropy** as the clean historical doctrinal core.
 
 It distinguishes Choirless from:
 - Dominion purity/legitimacy;
-- Technarch prediction/control;
+- Technarc prediction/control;
 - Saeko safety/populism;
 - Brightbreak certainty/influence.
 
@@ -140,7 +140,7 @@ Choirless selects a harder conclusion from the same crisis.
 
 Recruitment can flow from:
 - disillusioned Saeko followers;
-- Technarch personnel traumatized by failed control systems;
+- Technarc personnel traumatized by failed control systems;
 - Dominion intellectuals who abandon lineage doctrine but retain suppression logic;
 - survivors of catastrophic resonance events;
 - civilians who equate emotional amplitude with catastrophe.
@@ -209,7 +209,7 @@ Pain suppressed is not pain resolved, and a humanity stripped of emotional varia
 
 ### Relationship to systems
 
-Ito can quote evidence from Technarch failures without being Technarch.
+Ito can quote evidence from Technarc failures without being Technarc.
 He can inherit suppression logic from Dominion without accepting bloodline legitimacy.
 He can exploit Saeko-created fear without answering to Saeko.
 
@@ -289,7 +289,7 @@ training + suppression tech + resonance-dampening practices + coordinated behavi
 For any scene:
 
 **Dominion / Virelli:** Who is legitimate?
-**Technarch / Han:** What can be predicted and controlled?
+**Technarc / Han:** What can be predicted and controlled?
 **Saeko:** What restrictions will frightened citizens accept for safety?
 **Tessa:** What will neighbors do once exclusion feels permitted?
 **Choirless / Ito:** What must be removed so disorder cannot return?
@@ -331,7 +331,7 @@ DO NOT MIGRATE:
 Proceed to global/place anchors outside New Orleans, beginning with:
 - Reykjavík / Elisabet ecosystem, including Mara Niht boundary;
 - Vienna / Lucien-Dominion civilian texture;
-- Singapore / Rex-Technarch civilian texture;
+- Singapore / Rex-Technarc civilian texture;
 then Marrakesh, Tokyo, Santa Fe, and convergence-route recurring faces.
 
 This will expose which “global” tertiary characters deserve recurrence and which are merely one-city texture.

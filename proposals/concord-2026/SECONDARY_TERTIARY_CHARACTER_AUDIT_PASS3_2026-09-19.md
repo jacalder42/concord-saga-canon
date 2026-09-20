@@ -145,7 +145,7 @@ Current author ruling: **Containment → Prediction → Erasure → Certainty**
 
 Broadly:
 - Dominion / Virelli
-- Technarch / Han Wei
+- Technarc / Han Wei
 - Ito / Saeko / Choirless
 - Elias / Brightbreak
 
