@@ -5,6 +5,8 @@
   "title": "TODO: Book B01 Title",
   "pov_targets": "TODO: Provide POV weight targets (optional).",
   "entry_state": {
+    "_basis": "authored - not derivable",
+    "_reason": "B01 opens the saga. Every other book's entry_state is derived from the preceding book's exit_state_locks; B01 has no predecessor, so there is nothing to derive from. This block is the author's and is deliberately left TODO. Ledger section 60.",
     "world": "TODO",
     "key_character_states": "TODO"
   },

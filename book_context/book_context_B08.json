@@ -5,8 +5,19 @@
   "title": "TODO: Book B08 Title",
   "pov_targets": "TODO: Provide POV weight targets (optional).",
   "entry_state": {
-    "world": "TODO",
-    "key_character_states": "TODO"
+    "_basis": "derived",
+    "_derivation": "DERIVED 2026-09-20: a book's entry state is the preceding book's exit state. B0N entry = B0N-1 exit, so this cites BB07's exit_state_locks rather than restating them - one source, not two. Structural coordinates only; the grid holds the descriptions. Inherits status `proposed` from those grid rows. Regenerate rather than hand-edit. Ledger section 60.",
+    "_status": "proposed - inherited from the grid rows",
+    "inherits_from": "B07",
+    "carried_in_locks": [
+      "M24",
+      "M25",
+      "M26",
+      "M27",
+      "M28"
+    ],
+    "world": "DERIVED: the world as B07 leaves it. See book_context_B07.json exit_state_locks: M24, M25, M26, M27, M28.",
+    "key_character_states": "DERIVED: as B07 leaves them. Character-level state is not carried in the milestone grid, which records events rather than per-character condition. What IS derivable is cited above; per-character detail needs either a character-arc layer (none exists yet - CLAUDE.md section 8.0 lists character arcs as genuinely unstructured) or an author pass. Not invented here."
   },
   "exit_state_locks": [
     {

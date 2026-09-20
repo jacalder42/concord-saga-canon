@@ -5473,4 +5473,63 @@ END OF ENTRY 59
 
 ===============================================================
 
+===============================================================
+
+# 60. `entry_state` for B02–B09, derived — 2026-09-20
+
+`B0N` entry is `B0N-1` exit. The chain:
+
+    B02 <- B01  M01 M02 M03
+    B03 <- B02  M04 M05 M06 M07
+    B04 <- B03  M08 M09 M10 M11
+    B05 <- B04  M12 M13 M14 M15 M16
+    B06 <- B05  M17 M18 M19
+    B07 <- B06  M20 M21 M22 M23
+    B08 <- B07  M24 M25 M26 M27 M28
+    B09 <- B08  M29 M30 M31
+
+Each block **cites** the predecessor's `exit_state_locks` rather than restating them —
+one source, not two. `B09`'s own five milestones (`M32`–`M36`) are locks, not an entry
+state, because nothing follows.
+
+## 1. B01 stays `TODO`, and says why in the field
+
+B01 opens the saga. It has no predecessor, so there is nothing to derive from. Its
+`entry_state` now carries `_basis: "authored - not derivable"` and a `_reason` stating
+that, with `world` and `key_character_states` left `TODO`.
+
+The reason belongs **in the file**. A future session reading a `TODO` beside eight derived
+siblings would otherwise reasonably assume it had been missed.
+
+## 2. One field is only partly derivable, and says so
+
+`world` derives cleanly: the world as the previous book leaves it, cited by milestone.
+
+**`key_character_states` does not.** The milestone grid records **events**, not
+per-character condition. `M20` says Tahl dies; it does not say what state that leaves
+Seraphine in. So the derived value cites what *is* known and then states plainly what is
+not:
+
+> Character-level state is not carried in the milestone grid … per-character detail needs
+> either a character-arc layer (none exists yet — `CLAUDE.md` §8.0 lists character arcs as
+> genuinely unstructured) or an author pass. **Not invented here.**
+
+This is the honest shape. Writing a plausible sentence about each cast member's condition
+at each book boundary would have filled the field and produced nine books of fiction that
+nothing supports. **Flagged for the author**: if per-character entry state is wanted, it
+needs the character-arc layer first, and that layer does not exist.
+
+## 3. Count
+
+Real `TODO` placeholders in `book_context/`: **45 → 29**. Remaining: `title` 9,
+`pov_targets` 9, `locations_in_play` 9, and B01's `entry_state` 2.
+
+## 4. Verification
+
+Canon-scope **0**. All-scope **53**. Notices **0**. Tests **118**.
+
+END OF ENTRY 60
+
+===============================================================
+
 END RECOVERY LEDGER
