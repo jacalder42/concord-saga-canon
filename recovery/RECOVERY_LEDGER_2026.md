@@ -3802,4 +3802,104 @@ END OF ENTRY 40
 
 ===============================================================
 
+===============================================================
+
+# 41. First grid populated — `milestones_payoffs.csv` is live — 2026-09-20
+
+**Status:** 36 ROWS LOADED / ALL `proposed` / CANON-SCOPE 27, ALL-SCOPE 62→61
+
+**The six grids have been header-only since the repository began.** This is the first one
+with data in it, and it is the raw material for the saga timeline (§28, step 3).
+
+---
+
+## 1. What was loaded
+
+`proposals/concord-2026/milestones_payoffs_PROPOSED_LOAD_v2_2026-09-19.csv` →
+`grids/milestones_payoffs.csv`.
+
+**v2, not v1.** v1 predates the three supplement axes and is missing
+`supplement_function`, `supplement_vehicle` and `supplement_form`, so its rows would not
+line up with the grid header. v2 carries all nineteen columns.
+
+Verified after load: **36 data rows**, **36 unique non-empty `milestone_id`**, header
+**byte-identical** to the schema, and the grid **byte-identical to its staging source**.
+
+## 2. Every row stays `proposed` — deliberately
+
+All 36 rows carry `status: proposed`. Nothing was promoted to `ruled`.
+
+That is what the `status` column is for: **the grid can be live without being settled.**
+Loading it makes the data reachable, checkable and diffable; it does not assert that any
+milestone is final. Several rows depend on questions still open in §4 of `CLAUDE.md` —
+notably the five `target_act: EP` rows, which remain unexpressible under `A{1-3}` until
+the `EP`-slot question is ruled.
+
+## 3. One cell corrected, on a ruling
+
+**The load did not go in clean, and the queue stopped until it was ruled on.**
+
+Row `M09`'s free-text `notes` read:
+
+> `Recovered packet S1.T1.B3.A3.E14, anchored 'FIRST AND ONLY VT BRUSH IN VEIL TRILOGY'.`
+
+`B3` is the one-digit form, corrected to `B03` under §3's two-digit rule. **James ruled:
+fix the typo** (2026-09-20).
+
+Three things make this a correction rather than a rewritten quotation:
+
+1. It is **prose in a comment field**, not a structural identifier. That row's actual
+   columns already read `T1` / `B03` / `A3` / `E14`.
+2. It is **this repository's own shorthand referring to a packet**, not a reproduction of
+   the packet's own header line.
+3. **The original survives untouched** in `recovery/source_exports/`, which is never
+   edited in place (§1.0). Nothing is lost.
+
+Had it been a genuine quotation of a source's own text, the standing rule would have
+applied instead — annotate, do not rewrite (§26.10, §31, §34, §39).
+
+**Corrected in both places**, so the grid and its staging source do not drift: the live
+grid and `milestones_payoffs_PROPOSED_LOAD_v2_2026-09-19.csv`. It was the **only** full
+SID string in the entire 36-row load — all 19 columns of all 36 rows were checked.
+
+## 4. A prediction I got wrong, corrected
+
+`reports/README.md` recorded, when the `--all` baseline was regenerated at §26:
+
+> The two milestone CSVs deserve a note … their hits are in the free-text `notes` column
+> … **Loading them will not import a malformed SID.**
+
+**The first half was right and the conclusion was wrong.** The validator scans file text,
+not only structured fields, so loading did import a flagged string — canon-scope went
+27→28 on the first attempt. The line is corrected in the same commit.
+
+## 5. Validator
+
+| Scope | Before | After |
+| --- | --- | --- |
+| canon | 27 | **27** |
+| all | 62 | **62** |
+
+**All-scope netted to zero, by two movements that cancelled.** Correcting the v2 staging
+file removed one occurrence (62→61). Writing *this entry* put one back (61→62): §3
+above quotes the pre-correction string once, as the evidence of what was fixed.
+
+**It is quoted exactly once on purpose.** A second copy in this section took the count to
+63 and had to come out — above the ceiling, which stops the queue. Hence the descriptive
+reference here instead of a second quotation.
+
+The v1 staging file `milestones_payoffs_PROPOSED_LOAD_2026-09-19.csv` **still carries the
+typo and was deliberately not touched**: it is superseded, it is not the file that was
+promoted, and it is the record of what v1 contained. It accounts for the surviving
+occurrence outside this ledger.
+
+Recorded because the intermediate reading was briefly 61 and the first draft of this entry
+claimed that as the final state. It is not; 62 is. Documenting a one-digit SID costs one
+all-scope violation, which is the same trade `reports/README.md` has recorded since §26 —
+these files quote the wrong form in order to rule against it.
+
+END OF ENTRY 41
+
+===============================================================
+
 END RECOVERY LEDGER

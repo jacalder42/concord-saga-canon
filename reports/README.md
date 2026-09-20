@@ -86,7 +86,13 @@ would destroy the evidence they exist to preserve.
 The two milestone CSVs deserve a note, because they are staged for `grids/` rather than
 for the record: their hits are in the free-text `notes` column citing a recovered packet
 (`Recovered packet S1.T1.B3.A3.E14`). Their **structured** columns are correct —
-`target_book` reads `B03`, `B08`, `B09`. Loading them will not import a malformed SID.
+`target_book` reads `B03`, `B08`, `B09`. ~~Loading them will not import a malformed SID.~~
+
+> **Corrected 2026-09-20.** That conclusion was wrong. The validator scans file *text*,
+> not only structured fields, so loading v2 raised canon-scope 27→28 on the first
+> attempt. The `notes` typo was ruled a typo and fixed (`B3`→`B03`) in both the grid and
+> its staging source. `grids/milestones_payoffs.csv` is now **live** at canon-scope 27,
+> and all-scope fell 62→61. Ledger §41.
 
 This is why `recovery/`, `proposals/` and `CLAUDE.md` sit outside the default scope. A
 checker that flags a memo for quoting the error it documents is reporting noise. The
