@@ -654,8 +654,14 @@ file it names. No fix has been applied; two of the five need a ruling before one
 
   ```sh
   python3 tools/validate_canon.py            # exits non-zero on any violation
-  python3 tools/test_validate_canon.py       # 27 self-tests
+  python3 tools/test_validate_canon.py       # 100 self-tests
   ```
+
+  **Canon-scope is 0 as of 2026-09-20** (all-scope 35), with **18 notices** — 5 for the
+  open `EP`-slot question and 13 for the trilogy contradiction above. Notices are not
+  violations and do not affect the exit code. `CHK_ENVELOPE` requires every book context
+  to carry its derived band block, so a deleted or reverted envelope reads as a violation
+  rather than as a clean run. Ledger §54.
 
   Baseline as of 2026-09-19: 27 violations in the substrate — the three
   `escalation_permissions` scalars in each of the nine book-context skeletons, and nothing

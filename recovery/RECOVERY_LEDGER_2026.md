@@ -4982,4 +4982,98 @@ END OF ENTRY 53
 
 ===============================================================
 
+===============================================================
+
+# 54. Closing the false-clean gap, and reporting the trilogy breach — 2026-09-20
+
+§53 filled the book envelopes and reached **canon-scope 0**. Part of that zero was
+earned and part of it was the checks not looking. This entry makes the whole of it
+earned, and puts the §53 §2 contradiction on the validator's own report.
+
+## 1. `CHK_ENVELOPE` — an envelope must exist
+
+`check_bands` opens with:
+
+```python
+if not isinstance(ep, dict) or "corridor" not in ep:
+    return                      # book_context's flat TODO form, handled elsewhere
+```
+
+That early return was correct while the book layer was flat `TODO`s. After §53 it is a
+hole: **delete `escalation_permissions` from a book context and the report reads zero
+violations** — not because the envelope is right, but because nothing is looking at it.
+This was flagged before the fill, so it is closed rather than discovered.
+
+`CHK_ENVELOPE` requires every `book_context/` file to carry a band-shaped block with a
+`basis`. Verified by deleting B05's block on the live repository: **1 violation**, where
+the same deletion before this commit produced **0**. Restored immediately.
+
+It also catches a **revert to the old scalar shape** — `max_corridor_tier` and friends no
+longer satisfy the book layer, so the pre-2026-09-20 form cannot come back quietly.
+
+## 2. `CHK_CONTAINMENT` — the trilogy breach, as notices
+
+§53 §2 found the trilogy scalars contradicting the act bands on 13 axes. That finding
+lived only in prose and in six `unresolved` fields, which means the next person to change
+an act band would not be told.
+
+`CHK_CONTAINMENT` compares each book's derived envelope against its trilogy container and
+reports every breach. **As notices, never violations** — the same treatment the `EP`-slot
+question gets in the milestone grid, and for the same reason: which layer gives way is an
+open author question, not a format error. Notices do not affect the exit code.
+
+The live report now carries **18 notices — 5 `EP` and 13 containment** — and the 13 match
+the independent cross-check in §53 §2 exactly:
+
+    B04  fx FX3 > T2 FX2
+    B05  corridor U6 > U5, weather W4 > W3, fx FX3 > FX2
+    B06  corridor U6 > U5, weather W4 > W3, fx FX3 > FX2
+    B07  corridor U6 > U5, weather W4 > W3
+    B08  corridor U6 > U5, weather W4 > W3
+    B09  corridor U6 > U5, weather W4 > W3
+
+## 3. A path bug found while writing the check
+
+`TRILOGY_CONTEXTS` was first written with working-directory-relative paths. Run the
+validator from anywhere but the repository root and the `open` fails, the handler returns,
+and the containment check reports nothing — **the exact failure mode the check exists to
+prevent**, reintroduced inside the fix for it.
+
+Resolved against `REPO`, like every other path in the tool. Verified by running from
+`/tmp`: 13 notices, same as from the root. The self-tests were run from `/tmp` too, the
+lesson from §42's `LIVE_GRID` slip.
+
+## 4. Tests
+
+**86 → 100.** Fourteen new, in two classes.
+
+`BookEnvelopeIsRequired` asserts the live nine pass, and that a missing block, a dropped
+axis, a missing `basis` and a reverted scalar block each fire. One test states the
+regression directly: it asserts `check_bands` **stays silent** on a missing block and that
+`CHK_ENVELOPE` speaks — so if someone later "simplifies" the early return away, the test
+that documents why it is there fails.
+
+`TrilogyContainmentIsANoticeNotAViolation` pins both halves: the breach is seen, and it
+does not reach the violation list. It also pins the live count at **13**, so a change to
+an act band that silently widens or closes the contradiction shows up as a failing test
+rather than as a quietly different report.
+
+## 5. Verification
+
+Canon-scope **0**, all-scope **35**, **100 tests**, 18 notices. Ratchet proven by
+deliberate breakage on the live repository, not by fixture alone.
+
+## 6. What is now open, for ruling
+
+1. **The trilogy contradiction** (§53 §2). Deriving the trilogy ceilings from the books
+   gives `U6`/`W4`/`FX3` for both T2 and T3. Consistent with the 2026-09-20 ruling and
+   with T1's own precedent, but wider than that ruling authorized.
+2. **M08's Rupture under a `W3` ceiling** (§53 §3). One conflict, and Mechanica's wording
+   does not force it.
+3. The `63` book-level `TODO` strings, unchanged and deliberately so.
+
+END OF ENTRY 54
+
+===============================================================
+
 END RECOVERY LEDGER

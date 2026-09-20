@@ -649,5 +649,132 @@ class MilestoneGridRatchet(unittest.TestCase):
         self.assertEqual({r["status"] for r in rows}, {"proposed"},
                          "loading the grid must not promote anything to ruled")
 
+
+# --------------------------------------------------------------------------- #
+# The derived book envelopes, 2026-09-20
+# --------------------------------------------------------------------------- #
+
+BOOK_FIXTURE = os.path.join(vc.REPO, "book_context", "book_context_B99.json")
+
+
+def envelope_problems(data, path=BOOK_FIXTURE):
+    """check_book_envelope never opens the file, so a synthetic path is enough."""
+    out = []
+    vc.check_book_envelope(path, data, out)
+    return out
+
+
+def containment_notices(data, path=BOOK_FIXTURE):
+    notices = []
+    vc.check_trilogy_containment(path, data, VOCAB, notices)
+    return notices
+
+
+def _band(corridor="U1", weather="W0", fx="FX0", tri="T1"):
+    return {"trilogy_id": tri, "escalation_permissions": {
+        "corridor": {"min": "U1", "max": corridor},
+        "weather": {"min": "W0", "max": weather},
+        "fx": {"min": "FX0", "max": fx},
+        "exceptions": [], "basis": "derived"}}
+
+
+class BookEnvelopeIsRequired(unittest.TestCase):
+    """CHK_ENVELOPE closes the gap CHK_BANDS leaves open.
+
+    check_bands returns early on a missing or flat block. That early return is what
+    let the nine TODO skeletons through before the book layer was derived; afterwards
+    it would have let a DELETED envelope read as zero violations. Ledger section 54.
+    """
+
+    def test_a_derived_envelope_passes(self):
+        self.assertEqual(envelope_problems(_band()), [])
+
+    def test_a_missing_block_is_a_violation(self):
+        out = envelope_problems({"trilogy_id": "T1"})
+        self.assertEqual([p.check for p in out], ["CHK_ENVELOPE"])
+
+    def test_check_bands_alone_would_not_catch_a_missing_block(self):
+        """The regression this check exists for, stated as a test."""
+        out = []
+        vc.check_bands(BOOK_FIXTURE, {"trilogy_id": "T1"}, VOCAB, SIDFMT, out)
+        self.assertEqual(out, [], "check_bands is expected to stay silent here")
+        self.assertTrue(envelope_problems({"trilogy_id": "T1"}),
+                        "CHK_ENVELOPE must speak where CHK_BANDS does not")
+
+    def test_a_dropped_axis_is_a_violation(self):
+        data = _band()
+        del data["escalation_permissions"]["weather"]
+        out = envelope_problems(data)
+        self.assertTrue([p for p in out if p.check == "CHK_ENVELOPE"])
+        self.assertIn("weather", out[0].token)
+
+    def test_a_reverted_scalar_block_is_a_violation(self):
+        """The pre-2026-09-20 shape must not come back unnoticed."""
+        data = {"trilogy_id": "T1", "escalation_permissions": {
+            "max_corridor_tier": "TODO", "max_weather": "TODO", "max_fx": "TODO"}}
+        self.assertTrue([p for p in envelope_problems(data)
+                         if p.check == "CHK_ENVELOPE"])
+
+    def test_a_block_without_basis_is_a_violation(self):
+        data = _band()
+        del data["escalation_permissions"]["basis"]
+        self.assertTrue([p for p in envelope_problems(data)
+                         if p.check == "CHK_ENVELOPE"])
+
+    def test_non_book_files_are_ignored(self):
+        other = os.path.join(vc.REPO, "act_overlays", "act_overlay_S1_T1_B01_A1.json")
+        self.assertEqual(envelope_problems({"trilogy_id": "T1"}, path=other), [])
+
+    def test_every_live_book_context_passes(self):
+        import glob as _glob
+        files = sorted(_glob.glob(os.path.join(vc.REPO, "book_context", "*.json")))
+        self.assertEqual(len(files), 9)
+        for f in files:
+            with open(f, encoding="utf-8") as fh:
+                out = []
+                vc.check_book_envelope(f, json.load(fh), out)
+            self.assertEqual(out, [], f"{os.path.basename(f)} must carry a band block")
+
+
+class TrilogyContainmentIsANoticeNotAViolation(unittest.TestCase):
+    """Six of nine books breach their container as of 2026-09-20.
+
+    Which layer gives way is an OPEN author question, so the breach is reported
+    and never enforced. These tests pin both halves: that it is seen, and that it
+    does not fail the build. Ledger section 53 part 2.
+    """
+
+    def test_a_fitting_envelope_produces_no_notice(self):
+        self.assertEqual(containment_notices(_band("U5", "W3", "FX2")), [])
+
+    def test_a_breaching_envelope_produces_a_notice(self):
+        out = containment_notices(_band("U6", "W3", "FX2"))
+        self.assertEqual([n.check for n in out], ["CHK_CONTAINMENT"])
+        self.assertEqual(out[0].token, "U6")
+
+    def test_each_axis_is_reported_separately(self):
+        out = containment_notices(_band("U6", "W4", "FX3", tri="T2"))
+        self.assertEqual(len(out), 3)
+
+    def test_the_live_breach_count_is_thirteen(self):
+        """B04 fx; B05-B06 all three; B07-B09 corridor and weather."""
+        import glob as _glob
+        total = []
+        for f in sorted(_glob.glob(os.path.join(vc.REPO, "book_context", "*.json"))):
+            with open(f, encoding="utf-8") as fh:
+                vc.check_trilogy_containment(f, json.load(fh), VOCAB, total)
+        self.assertEqual(len(total), 13)
+        self.assertEqual({n.check for n in total}, {"CHK_CONTAINMENT"})
+
+    def test_breaches_do_not_reach_the_violation_list(self):
+        """A notice must never change the exit code."""
+        out = []
+        vc.check_book_envelope(BOOK_FIXTURE, _band("U6", "W4", "FX3", tri="T2"), out)
+        self.assertEqual(out, [])
+
+    def test_an_unknown_trilogy_id_is_skipped_quietly(self):
+        self.assertEqual(containment_notices(_band("U6", tri="T9")), [])
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

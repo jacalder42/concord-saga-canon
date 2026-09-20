@@ -27,6 +27,13 @@ CHK_BANDS        Per-act `escalation_permissions` bands are well formed: every b
                  each `exceptions` entry names a valid axis, a valid value, and a SID
                  that parses. Band *values* are author judgement and are never
                  second-guessed; only their coherence is checked.
+CHK_ENVELOPE     Every `book_context` file carries a band-shaped
+                 `escalation_permissions` block with a `basis`. `CHK_BANDS` returns
+                 early on a missing or flat block, so without this a deleted envelope
+                 would read as zero violations rather than as a deletion.
+CHK_CONTAINMENT  A book's derived envelope is compared against its trilogy container.
+                 Reported as NOTICES: six of nine books breach as of 2026-09-20, and
+                 which layer gives way is an open author question, not a format error.
 CHK_VT_CAP       `VT` Glimpses are capped at 10-12 across all nine books
                  (`supplement_system.constraints`). Exceeding the maximum is a
                  violation; being under the minimum is not, since the saga is
@@ -552,6 +559,93 @@ def check_bands(path, data, vocab, sidfmt, out):
                     out.append(Violation("CHK_BANDS", rel(path), None, sid, problem))
 
 
+BOOK_CONTEXT_DIR = "book_context/"
+
+# Resolved against REPO, not the working directory: a cwd-relative path would make
+# the containment check fall silent when the validator runs from elsewhere, which is
+# the exact failure mode this check exists to prevent.
+TRILOGY_CONTEXTS = {
+    "T1": os.path.join(REPO, "rules", "trilogy_context_T1_veil.json"),
+    "T2": os.path.join(REPO, "rules", "trilogy_context_T2_neon.json"),
+    "T3": os.path.join(REPO, "rules", "trilogy_context_T3_loom.json"),
+}
+
+
+def check_book_envelope(path, data, out):
+    """A book context must carry a band-shaped `escalation_permissions` block.
+
+    `check_bands` returns early when the block is absent or not band-shaped, and
+    that early return is exactly what let the nine flat `TODO` skeletons through
+    before the book layer was derived. Now that it is derived, a missing block is
+    not scaffolding, it is a deletion - and with only `check_bands` looking, the
+    report would read zero violations. Ledger section 54.
+    """
+    if not rel(path).startswith(BOOK_CONTEXT_DIR):
+        return
+    ep = data.get("escalation_permissions")
+    if not isinstance(ep, dict):
+        out.append(Violation(
+            "CHK_ENVELOPE", rel(path), None, "",
+            "book context has no escalation_permissions block. It is derived from "
+            "the three acts beneath the book and must be present."))
+        return
+    missing = [ax for ax in BAND_AXIS_VOCAB if not isinstance(ep.get(ax), dict)]
+    if missing:
+        out.append(Violation(
+            "CHK_ENVELOPE", rel(path), None, ", ".join(missing),
+            "book context escalation_permissions is missing a band. Expected "
+            "{min, max} on each of corridor, weather, fx."))
+    if not ep.get("basis"):
+        out.append(Violation(
+            "CHK_ENVELOPE", rel(path), None, "",
+            "book context escalation_permissions carries no basis field, so a "
+            "derived block cannot be told from a hand-set one."))
+
+
+def check_trilogy_containment(path, data, vocab, notices):
+    """Does a book's derived envelope fit inside its trilogy container?
+
+    Reported as NOTICES, never violations. Six of the nine books breach their
+    container as of 2026-09-20, and whether the trilogy scalars give way or the act
+    bands do is an OPEN author question - the same treatment the `EP`-slot question
+    gets in the milestone grid. This check exists so the breach cannot go quiet
+    again, not to decide it. Ledger section 53 part 2.
+    """
+    if not rel(path).startswith(BOOK_CONTEXT_DIR):
+        return
+    ep = data.get("escalation_permissions")
+    tri = data.get("trilogy_id")
+    if not isinstance(ep, dict) or tri not in TRILOGY_CONTEXTS:
+        return
+    try:
+        with open(TRILOGY_CONTEXTS[tri], encoding="utf-8") as fh:
+            container = json.load(fh)
+    except (OSError, json.JSONDecodeError):
+        return                      # the trilogy file has its own checks
+    caps = {
+        "corridor": container.get("environment_envelope", {}).get("corridor_max"),
+        "weather": container.get("environment_envelope", {}).get("weather_max"),
+        "fx": container.get("era_envelope", {}).get("default_vfx_ceiling"),
+    }
+    for axis, dim in BAND_AXIS_VOCAB.items():
+        cap = caps.get(axis)
+        band = ep.get(axis)
+        if not isinstance(band, dict) or not isinstance(cap, str):
+            continue
+        order = [v.upper() for v in vocab[dim]]
+        hi = band.get("max")
+        if not isinstance(hi, str) or hi.upper() not in order or cap.upper() not in order:
+            continue
+        if order.index(hi.upper()) > order.index(cap.upper()):
+            notices.append(Violation(
+                "CHK_CONTAINMENT", rel(path), None, hi,
+                f"{axis}.max {hi} exceeds the {tri} container's "
+                f"{'default_vfx_ceiling' if axis == 'fx' else axis + '_max'} {cap}. "
+                f"The book band is derived from its acts; the trilogy scalar predates "
+                f"them and was never reconciled. OPEN author question, reported as a "
+                f"notice. See CLAUDE.md section 9.1."))
+
+
 def check_json(path, vocab, out):
     try:
         with open(path, encoding="utf-8") as fh:
@@ -681,6 +775,8 @@ def main():
             data = check_json(path, vocab, violations)
             if isinstance(data, dict):
                 check_bands(path, data, vocab, sidfmt, violations)
+                check_book_envelope(path, data, violations)
+                check_trilogy_containment(path, data, vocab, notices)
             with open(path, encoding="utf-8") as fh:
                 check_sids(path, fh.read(), sidfmt, violations)
         else:
