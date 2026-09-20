@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "saga_id": "S1",
+  "title": "Concord Saga",
+  "_purpose": "Saga-level root of the context cascade. Until 2026-09-20 the chain ran book_context_B0X.json -> act_overlay_S1_T*_B0*_A*.json with nothing above it, so the saga timeline had nowhere to live. Ledger 44.",
+  "_fill_rule": "Populated ONLY from material already ruled or already recorded. Every field that would need a new authorial statement is left TODO and says why. A TODO here is correct; a sentence written to fill it is not.",
+  "structure": {
+    "trilogies": 3,
+    "books": 9,
+    "acts_per_book": 3,
+    "acts_total": 27,
+    "_ruled": "All nine books have three acts; 27 is the cap. Ruled 2026-09-19 (ledger 25), confirmed by James 2026-09-20. Verified in the substrate: 27 act overlays, three per book, and A{1-3} in the SID format.",
+    "sid_format": "S1.T{1-3}.B{01-09}.A{1-3}.E{00-99}"
+  },
+  "trilogies": {
+    "T1": {
+      "name": "Veil",
+      "books": [
+        "B01",
+        "B02",
+        "B03"
+      ],
+      "context": "rules/trilogy_context_T1_veil.json"
+    },
+    "T2": {
+      "name": "Neon",
+      "books": [
+        "B04",
+        "B05",
+        "B06"
+      ],
+      "context": "rules/trilogy_context_T2_neon.json"
+    },
+    "T3": {
+      "name": "Loom",
+      "books": [
+        "B07",
+        "B08",
+        "B09"
+      ],
+      "context": "rules/trilogy_context_T3_loom.json"
+    }
+  },
+  "structural_frame": {
+    "name": "Concord Saga Jazz Framework v2",
+    "axes": [
+      "Melody",
+      "Harmony",
+      "Rhythm",
+      "Performance",
+      "Composer's Hand"
+    ],
+    "source": "canon/saga_overview.md"
+  },
+  "pov_baton_pass": {
+    "saga_lead": "Seraphine Vael",
+    "trilogy_leads": {
+      "T1": "Bastien \"Baz\" Arnaud",
+      "T2": "Tahl Morgan",
+      "T3": "Kade Harper"
+    },
+    "_names": "Canonical forms per canon/characters/, final per CLAUDE.md 3. canon/saga_overview.md gives the short forms Baz / Tahl / Kade.",
+    "weights": "TODO: saga-level POV weight targets. pov_targets is TODO in all nine book contexts; no distribution model has been authored. Needs an authorial statement."
+  },
+  "global_invariants": [
+    "MT != VT != LT",
+    "No resurrection",
+    "Antagonists are human or human-made",
+    "Resonance is grounded emotional physics (no 'magic' language)",
+    "Manufactured metas cannot ascend (no Intent)"
+  ],
+  "_invariants_source": "canon/saga_overview.md, corroborated by rules/canon_rules.json invariants.",
+  "milestones": {
+    "grid": "grids/milestones_payoffs.csv",
+    "count": 36,
+    "status": "All 36 rows are 'proposed'. Loaded 2026-09-20 (ledger 41); live but not settled.",
+    "_provisional": "pressure_before / pressure_after are PROVISIONAL - the scale saturates and the column is ambiguous between global and per-thread pressure. OPEN, ledger 43."
+  },
+  "era_boundary": {
+    "event": "The Mending",
+    "sid": "S1.T3.B09.A3.E14",
+    "_source": "BOOK 9 - LOOM III (Final Beat Bible) E14, 'the cosmological core of the saga'. Recorded at ledger 27.2.",
+    "followed_by": {
+      "event": "The Lightfall",
+      "sid": "S1.T3.B09.A3.E15"
+    },
+    "post_mending_envelope": "HELD - the Post-Mending era file omits LT, which Mechanica 33 lists as a resonance state. OPEN, ledger 18."
+  },
+  "saga_timeline": "TODO: arcs and milestone sequencing above the trilogy layer. The milestone SET exists (36 rows); the arc structure over it does not, and character arcs, antagonist arcs and chronology are all unstructured. Ledger 28 and 30.",
+  "entry_state": "TODO: saga-level opening world state. Needs an authorial statement; the nine book_context entry_state fields are TODO and are the author's to fill.",
+  "exit_state_locks": [
+    "TODO: saga-level end-state locks. BOOK 9 - END STATE exists in Notion and is recorded at ledger 27, but promoting it is a canon decision."
+  ],
+  "trilogy_summaries": "TODO: one line per trilogy. canon/saga_overview.md carries TODO for all three; not recoverable without an authorial statement.",
+  "post_mending_snapshot": "TODO: canon/saga_overview.md carries TODO here, and the Post-Mending era file is HELD over the LT question. Ledger 18.",
+  "chronology": "TODO: no timeline artifact exists anywhere in the substrate. Three timeskips are open, including the Book 9 epilogue (three days vs 6-12 months vs 1-2 years). Ledger 27.3 and 30."
+}

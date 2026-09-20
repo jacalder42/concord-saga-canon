@@ -4098,4 +4098,98 @@ END OF ENTRY 43
 
 ===============================================================
 
+===============================================================
+
+# 44. The saga root exists — `rules/saga_context_S1.json` — 2026-09-20
+
+**Status:** CREATED / 9 FIELDS FILLED FROM RULED MATERIAL / 7 LEFT TODO, EACH SAYING WHY /
+CANON-SCOPE 27, ALL-SCOPE 62
+
+§28 recorded the cascade's central structural gap: containers exist at trilogy, book, act
+and episode level, and **nothing above them.** The chain ran
+`book_context_B0X.json` → `act_overlay_S1_T*_B0*_A*.json` with no root, so the saga
+timeline — step 3 of the build pipeline — had nowhere to live. **It now has one.**
+
+Placed in `rules/` alongside `trilogy_context_T1_veil.json` and its siblings, which is
+where the layer directly below it already lives.
+
+---
+
+## 1. What was filled, and from what
+
+**Nine fields, every one from material already ruled or already recorded:**
+
+| Field | Source |
+| --- | --- |
+| `structure` — 3 trilogies, 9 books, **3 acts each, 27 total** | Ruled §25, **confirmed by James 2026-09-20**. Verified in the substrate: 27 overlays, three per book, `A{1-3}` in the SID format |
+| `trilogies` — `T1` Veil / `T2` Neon / `T3` Loom, with book ranges | `CLAUDE.md` §3; book ranges from the existing contexts |
+| `structural_frame` — Jazz Framework v2, five axes | `canon/saga_overview.md` |
+| `pov_baton_pass` — Seraphine Vael lead; Arnaud / Morgan / Harper | `canon/saga_overview.md`, with **canonical full names** per §31 and §39 |
+| `global_invariants` — five | `saga_overview.md`, corroborated against `canon_rules.json` |
+| `milestones` — grid, count 36, all `proposed` | §41 |
+| `era_boundary` — the Mending at `S1.T3.B09.A3.E14`, Lightfall at `E15` | §27.2 |
+
+The invariants list carries **five**, not the four in `saga_overview.md`: *manufactured
+metas cannot ascend* is added because `canon_rules.json` already holds it as
+`manufactured_metas.cannot_ascend`. That is a corroborated invariant, not a new one.
+
+`pov_baton_pass` is **half-filled on purpose** — the baton itself is recorded, but
+`weights` is TODO. `pov_targets` is TODO in all nine book contexts and no distribution
+model has ever been authored.
+
+## 2. What was left TODO, and why that is the correct outcome
+
+**Seven fields, thirteen TODO markers**, each stating its own reason rather than sitting
+blank:
+
+| Field | Why it is TODO |
+| --- | --- |
+| `saga_timeline` | The milestone **set** exists; the **arc structure over it** does not. Character arcs, antagonist arcs and chronology are all unstructured (§28, §30) |
+| `entry_state` | Needs an authorial statement. The nine book-context `entry_state` fields are the author's to fill |
+| `exit_state_locks` | `BOOK 9 — END STATE` exists in Notion and is recorded at §27, but **promoting it is a canon decision** |
+| `trilogy_summaries` | `saga_overview.md` carries TODO for all three; not recoverable |
+| `post_mending_snapshot` | `saga_overview.md` carries TODO, **and** the Post-Mending era file is HELD over the `LT` question (§18) |
+| `chronology` | **No timeline artifact exists anywhere in the substrate**, and three timeskips are open (§27.3, §30) |
+| `pov_baton_pass.weights` | As §1 |
+
+Several of these could have been filled with a plausible sentence. **None was.** The
+instruction was explicit and matches §4 of `CLAUDE.md`: a TODO left is correct; a
+sentence written to fill it is not. `exit_state_locks` is the sharpest case — the Book 9
+end state is *recovered and recorded*, so the words exist, but promoting recovered Notion
+material into a canon container is precisely the decision Claude does not make.
+
+## 3. The nine book-context TODOs are untouched
+
+`git status book_context/` is **empty**. Those 27 violations are the author's to fill and
+remain the canon-scope baseline.
+
+The saga root's own thirteen TODOs **add no violations**, because none sits under a key in
+`JSON_KEY_VOCAB` — the book contexts' TODOs are flagged for being in
+`escalation_permissions.max_corridor_tier` and siblings, which are vocabulary-checked
+fields. The root carries no envelope fields at all: **envelopes belong to the trilogy and
+act layers, which already have them.**
+
+## 4. What the root does not do
+
+- **It does not populate the cascade.** It gives the cascade a top, which is a different
+  and smaller thing.
+- **It asserts no new canon.** Every filled field points at where it came from.
+- **It does not resolve anything open.** Where a field touches an open question — the
+  Post-Mending envelope, the pressure scale, the timeskips — it **names the question and
+  its ledger entry** rather than answering it.
+
+## 5. Validator
+
+| Scope | Before | After |
+| --- | --- | --- |
+| canon | 27 | **27** |
+| all | 62 | **62** |
+| files scanned | 190 / 267 | **191 / 268** |
+
+86 self-tests pass.
+
+END OF ENTRY 44
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -443,11 +443,23 @@ to trilogy, book, act, episode.*
 Assessment at `proposals/concord-2026/NARRATIVE_BUILD_PRIORITIES_2026-09-19.md`;
 ledger §28. The three findings that change how the queue below should be read:
 
-- **The cascade has containers at every level except its root.** Trilogy, book, act and
-  episode containers all exist. There is **no saga-level container** — `saga_overview.md`
-  is 22 lines of orientation — so the saga timeline has nowhere to live. `book_context`'s
-  `entry_state` / `exit_state_locks` / `locations_in_play` / `continuity_hooks` /
-  `pov_targets` **are** the book-level timeline and are `TODO` in all nine books.
+- ~~The cascade has containers at every level except its root.~~ **Root created
+  2026-09-20**: `rules/saga_context_S1.json`, alongside the trilogy contexts. Nine fields
+  filled from ruled or recorded material — the 27-act structure, the trilogy split, the
+  Jazz Framework axes, the POV baton, five global invariants, the 36-milestone grid, and
+  the Mending era boundary. **Seven left `TODO`, each stating why**, including
+  `saga_timeline` itself: the milestone *set* exists, the *arc structure over it* does
+  not. Ledger §44.
+
+  Still true below it: `book_context`'s `entry_state` / `exit_state_locks` /
+  `locations_in_play` / `continuity_hooks` / `pov_targets` **are** the book-level timeline
+  and are `TODO` in all nine books. Those 27 violations are the canon-scope baseline and
+  are the author's to fill.
+- **The first grid is populated.** `grids/milestones_payoffs.csv` holds **36 rows, all
+  `proposed`** (ledger §41), checked by five `CHK_GRID_*` checks and 15 tests (§42).
+  `pressure_before` / `pressure_after` are **provisional** — the scale saturates and the
+  column is ambiguous between global and per-thread pressure (§43). Five rows carry
+  `target_act: EP`, reported as **notices** because the `EP`-slot question is open.
 - **Three layers are missing from the repository — but not from the project.** Corrected
   2026-09-19 after a source review (ledger §29,
   `proposals/concord-2026/LOCATIONS_COMBAT_ANTAGONISTS_PRIMER_REVIEW_2026-09-19.md`):
