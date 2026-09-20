@@ -4352,4 +4352,73 @@ END OF ENTRY 46
 
 ===============================================================
 
+===============================================================
+
+# 47. Character migration batch 3 — bundle C — 2026-09-20
+
+**Authority:** Ruling 3, bundle **C** approved. Plan §2, batch 3 of 9.
+
+**Status:** MIGRATED / 5 CAST ROWS + 6 RETIRED ALIASES / CANON-SCOPE 27, ALL-SCOPE 62
+
+---
+
+## 1. What moved
+
+`C01` **Marcellus Virelli** (KEEP / PRIMARY DOMINION FACE) · `C02` **Caldas Ren** ·
+`C03` **Marius Holt** · `C04` **Helena Kael** (KEEP / NARROW) ·
+`C05` **Janvier "Jan" Arnaud** (KEEP / NARROW RECURRING).
+
+Six retired: `Severin Virelli`, `Arel Tovin`, `Sigrun Dahl`, `Sabir Vollen`,
+`Nadia Verenz`, `Eryk Sorensen` — all *"RETIRE/MERGE/DEMOTE according to scene"*, and all
+six on the §14 watchlist with zero substrate presence.
+
+## 2. The rename held, without being re-applied
+
+`C05` came across as **Janvier "Jan" Arnaud**, not `Foix`. The parser reads the manifest
+as it now stands, and §40 corrected it there. **Nothing in this batch re-applied the
+rename** — it was already right at the source, which is what a migration should find.
+
+That is the first independent confirmation that the Amendment 1 pass (§38–§40) actually
+landed: a downstream tool reading the manifest cold produced the canonical name.
+
+## 3. Two endings that say what is NOT locked
+
+`C01` and `C02` carry endings that **explicitly unlock** prior material:
+
+- Virelli — *"OPEN; old off-page B9 death NOT LOCKED."*
+- Caldas Ren — *"OPEN; old storm death NOT LOCKED."*
+
+These are the opposite of the usual migration risk. Rather than a recovered fact being
+promoted by accident, the manifest is **actively releasing** two deaths that older
+material had recorded, and the registry carries that release rather than the death.
+Migrating the field as written is what preserves it.
+
+## 4. A parser gap found and closed
+
+Bundle A's retired identities are a **bullet list**; bundle C's are a **single prose
+line** — *"Severin Virelli, Arel Tovin, …: RETIRE/MERGE/DEMOTE according to scene."*
+
+The first run of batch 3 reported **0 retired aliases** and would have silently dropped
+all six. Caught by reading the section rather than trusting the count, the parser now
+handles both shapes, and the run was redone from a clean checkout.
+
+**Worth recording as a method note:** a parser that silently finds nothing looks exactly
+like a section that contains nothing. The check that caught it was comparing the output
+against the source, not inspecting the output alone.
+
+## 5. Validator
+
+`27 / 62`; registry 12 → **17** rows, retired 8 → **14**. All ids and aliases unique.
+
+## 6. Next
+
+Batch 4 is **bundle D** — Technarc / Singapore, manifest §5, and the **first batch with
+HOLD items**: `Manufactured-meta population` and `Arden Kess / LX-5`. The migrator now
+routes them to `canon/cast_held.csv`, marked **not promoted**, rather than into the
+registry.
+
+END OF ENTRY 47
+
+===============================================================
+
 END RECOVERY LEDGER
