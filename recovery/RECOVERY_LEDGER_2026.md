@@ -5885,4 +5885,77 @@ END OF ENTRY 64
 
 ===============================================================
 
+===============================================================
+
+# 65. Character migration batches 8 and 9 — B and G, the last two — 2026-09-20
+
+**Ruled 2026-09-20: "B and G are approved."** The character migration is complete.
+
+## 1. What the gate actually was
+
+Ruling 3 of 2026-09-19 marked both **"Approved, conditional on Ruling 1 vetting"** and
+added that their *place* references *"inherit Ruling 1's preliminary status."* The
+migration plan §4.4 read that as a hard stop: *"Batches 8 and 9 cannot start before
+that."*
+
+Two readings were live — that the condition is the vetting itself, or that it is
+satisfied by place references carrying preliminary status. **The author took the second.**
+Ruling 8 of 2026-09-20 is what makes it workable: preliminary now means *derived and
+marked*, not *absent*, and `grids/locations_registry.csv` exists to carry it.
+
+## 2. Migrated
+
+**Bundle B — NOLA civic / cultural** (manifest §3): **11 cast rows, 1 retired**
+(`Auntie Mae Broussard`).
+
+**Bundle G — place anchors** (manifest §8): **7 cast rows, 0 retired, 1 held.**
+
+All 18 registry rows carry a `migration_note` recording that their place references are
+**provisional**, citing the registry rather than copying values from it — so they
+regenerate when vetting changes a type instead of going stale.
+
+Two G rows are anti-promotions and worth naming, because they record a decision *not* to
+create cast: `Santa Fe` — *"NO RECURRING PLACE ANCHOR PROMOTED"* — and `Coastal Japan` —
+*"NO NEW REPRESENTATIVE CHARACTER REQUIRED."* Migrating them keeps the decision on the
+record rather than leaving the absence to be rediscovered.
+
+## 3. `Mara Niht` is not `Mara Nichols`, and the migrator nearly said it was
+
+`Mara Niht` (bundle G) carries `KEEP NAME / RECOVER MORE`, so `is_held()` routed it to the
+hold list — correct. But the reason text it received was **Terminal Witness's**, because
+that branch keys on the string `RECOVER MORE`.
+
+**They are different characters.** Manifest §15 lists them as recovery items **1 and 2**.
+`SECONDARY_TERTIARY_CHARACTER_AUDIT_PASS2` treats them apart and in opposite directions:
+
+- **`Mara Nichols`** — *the name is retired*; working label `TERMINAL WITNESS`.
+- **`Mara Niht`** — *"Author ruling fixes spelling/name: Mara Niht"*; the name is
+  **protected**, and what is missing is the source body.
+
+One name retired, one name protected, two letters apart. The row now carries its own
+reason and a note stating the distinction first, plus the source lead, the reserved
+function, the `DO NOT LOCK` list and the pending approval.
+
+**Seventh instance of the migration's signature failure** — plausible output, quietly
+wrong — and the first caused by a *reason string* rather than a dropped or misfiled row.
+The coverage ratchet from §50 cannot see this class: the row was produced, counted and
+filed correctly, and only its explanation was false.
+
+## 4. Final state of the character migration
+
+Registry **56** (A 12, B 11, C 5, D 7, E 3, F 11, G 7) · retired **31** · held **11**.
+
+All cast ids unique · no name in both registry and alias file · no `HOLD` status in the
+registry.
+
+**All nine batches are complete.** Bundle I migrated nothing, by design (§51).
+
+## 5. Verification
+
+Canon-scope **0**. Notices **0**. Tests **127**.
+
+END OF ENTRY 65
+
+===============================================================
+
 END RECOVERY LEDGER
