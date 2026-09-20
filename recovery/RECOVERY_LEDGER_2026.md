@@ -4506,4 +4506,77 @@ END OF ENTRY 48
 
 ===============================================================
 
+===============================================================
+
+# 49. Character migration batch 5 — bundle E — 2026-09-20
+
+**Authority:** Ruling 3, bundle **E** approved. Plan §2, batch 5 of 9.
+
+**Status:** MIGRATED / 3 CAST + 4 RETIRED / CANON-SCOPE 27, ALL-SCOPE 62
+
+---
+
+## 1. The naming correction held at source — second confirmation
+
+`E03` came across as **Ito Masayuki**, not `Koro Ito`.
+
+§31 corrected that in the manifest after a proposal document had concluded the wrong way
+from a memory export without checking `ItoID.md`. **Batch 5 did not re-apply anything** —
+the parser read the manifest cold and produced the canonical name, exactly as batch 3 did
+for `Janvier "Jan" Arnaud`.
+
+Two independent confirmations now that the naming passes landed where it mattered: at the
+source a downstream tool reads, not just in a ledger entry describing them.
+
+`E01` **Saeko Morita** and `E03` **Ito Masayuki** both flagged `tier1_canon` — five files
+each, the `*Backstory.md` antagonists of §29 §4.
+
+## 2. Two more parser gaps, both silent
+
+Bundle E exposed two entries the migrator would have dropped without a word.
+
+**`PureTone` was being written into the cast registry.** Its status is *"RETIRE AS
+SEPARATE MAJOR FACTION"* — it is a **retirement, and not a person**. Any entry whose
+status begins `RETIRE` now routes to the alias file. This matters beyond tidiness:
+§37 established `PureTone` is the **one watchlist name with substrate presence**, and all
+four occurrences read *"PureTone logic"*, the surviving technology sense. Filing it as
+cast would have contradicted the disposition that makes those four occurrences correct.
+
+**The `Quiet Doctrine / duplicate anti-resonance roster` entry produced nothing.** The
+prose-retire handler added in batch 3 was keyed to headings starting with *"Retire"*, and
+this one does not. `Marcus Kell`, `Priya Sen` and `Jonah Grieves` would have vanished.
+The handler now triggers on the **shape** of the entry — no status, no bullets, a
+`Names: disposition` line — rather than on heading wording.
+
+**That is the third silent-drop this migration has produced** (§47's bullet-versus-prose
+lists, §48's Tier-1 detector, and this). All three had the same signature: **plausible
+output, quietly short.** The only thing that caught any of them was checking the source
+section against the row count rather than reading the rows.
+
+## 3. What moved
+
+Registry: `E01` **Saeko Morita** (KEEP, Tier-1) · `E02` **Tessa Vane** (RENAME/REBUILD) ·
+`E03` **Ito Masayuki** (KEEP / PRIMARY HUMAN FACE OF CHOIRLESS, Tier-1).
+
+Retired: `PureTone` · `Marcus Kell` · `Priya Sen` ·
+`Jonah Grieves and equivalent parallel-faction identities` — the last left whole for the
+same reason as §48's analysts: the source names a person and an unnamed class in one
+disposition.
+
+## 4. Verification
+
+A check now asserts **no name appears in both the registry and the alias file.** Passing.
+
+Registry **27** (A 12, C 5, D 7, E 3) · retired **21** · held **2** · all ids unique.
+`27 / 62`.
+
+## 5. Next
+
+Batch 6 is **bundle F** — media / public voices, manifest §7, with one HOLD
+(`Lila Shore`). Batch 7 is **bundle I**, which **migrates nothing**.
+
+END OF ENTRY 49
+
+===============================================================
+
 END RECOVERY LEDGER
