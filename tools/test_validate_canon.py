@@ -867,5 +867,71 @@ class TrilogyContainmentIsANoticeNotAViolation(unittest.TestCase):
         self.assertEqual(containment_notices(_band("U6", tri="T9")), [])
 
 
+
+# --------------------------------------------------------------------------- #
+# Ruling 5: soft ceilings, declared breaches
+# --------------------------------------------------------------------------- #
+
+def _exc(sid, axis, value, reason="fixture"):
+    return {"sid": sid, "axis": axis, "value": value, "scope": "brief",
+            "reason": reason}
+
+
+class DeclaredExceptionsMakeASoftCeilingCheckable(unittest.TestCase):
+    """Ruling 5: "the ceiling is a tripwire, not a wall."
+
+    A band may exceed its container. What it may not do is exceed it SILENTLY.
+    Undeclared is a violation, declared is a notice. Without this check a soft
+    ceiling would be unenforceable, which is the same as having none.
+    Ledger section 58.
+    """
+
+    DIM = "corridors"
+
+    def test_covers_accepts_a_matching_exception(self):
+        exc = [_exc("S1.T1.B01.A3.E12", "corridor", "U6")]
+        self.assertIsNotNone(
+            vc._covers(VOCAB, self.DIM, exc, "corridor", "U6", "S1.T1.B01"))
+
+    def test_covers_rejects_a_weaker_exception(self):
+        """An exception permitting U5 does not license a band reaching U6."""
+        exc = [_exc("S1.T1.B01.A3.E12", "corridor", "U5")]
+        self.assertIsNone(
+            vc._covers(VOCAB, self.DIM, exc, "corridor", "U6", "S1.T1.B01"))
+
+    def test_covers_rejects_the_wrong_axis(self):
+        exc = [_exc("S1.T1.B01.A3.E12", "weather", "W4")]
+        self.assertIsNone(
+            vc._covers(VOCAB, self.DIM, exc, "corridor", "U6", "S1.T1.B01"))
+
+    def test_covers_rejects_an_exception_from_another_book(self):
+        """The SID check stops one book's exception licensing another's band."""
+        exc = [_exc("S1.T1.B03.A3.E14", "corridor", "U6")]
+        self.assertIsNone(
+            vc._covers(VOCAB, self.DIM, exc, "corridor", "U6", "S1.T1.B01"))
+
+    def test_covers_accepts_a_stronger_exception(self):
+        exc = [_exc("S1.T1.B01.A3.E12", "corridor", "U7")]
+        self.assertIsNotNone(
+            vc._covers(VOCAB, self.DIM, exc, "corridor", "U6", "S1.T1.B01"))
+
+    def test_the_live_substrate_has_no_undeclared_breach(self):
+        violations, notices = [], []
+        vc.check_declared_exceptions(VOCAB, violations, notices)
+        self.assertEqual([v.detail for v in violations], [])
+
+    def test_the_live_b03_exception_is_the_declared_kind(self):
+        """B03's W4 VT brush is the saga's one real exception; it must parse."""
+        with open(os.path.join(vc.REPO, "book_context",
+                               "book_context_B03.json"), encoding="utf-8") as fh:
+            ep = json.load(fh)["escalation_permissions"]
+        exc = ep["exceptions"]
+        self.assertEqual(len(exc), 1)
+        self.assertEqual(exc[0]["axis"], "weather")
+        self.assertEqual(exc[0]["value"], "W4")
+        for key in ("sid", "axis", "value", "scope", "reason"):
+            self.assertIn(key, exc[0], "Ruling 5 names all five fields")
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

@@ -5313,4 +5313,80 @@ END OF ENTRY 57
 
 ===============================================================
 
+===============================================================
+
+# 58. `CHK_DECLARED` — what makes a soft ceiling still checkable — 2026-09-20
+
+Ruling 5 says a trilogy ceiling is *"a tripwire, not a wall"*. Without a check, that
+sentence removes enforcement and puts nothing in its place — a soft ceiling nobody
+verifies is the same as no ceiling. `CHK_DECLARED` is the other half of the ruling: a band
+**may** exceed its container; it may not exceed it **silently**.
+
+- **Undeclared** breach → **violation**.
+- **Declared** breach → **notice**, so the crossing stays visible without failing the run.
+
+## 1. Both rungs of the cascade
+
+| Rung | Child | Container | Axes |
+| --- | --- | --- | --- |
+| 1 | act overlay | its book | corridor, weather, fx |
+| 2 | book context | its trilogy | corridor, weather |
+
+`fx` is checked at rung 1 and **skipped at rung 2**: the trilogy carries
+`default_vfx_ceiling`, a default rather than a ceiling, and exceeding a default is not a
+breach (§57 §3).
+
+## 2. What counts as declared
+
+An exception covers a breach when it names **the same axis**, permits **at least as much
+as the breaching band claims**, and its `sid` sits **inside the entity that breaches**.
+
+The SID condition is the one that does real work. Without it, B03's genuine `W4` VT-brush
+exception would license a `W4` band anywhere in the saga — an exception granted for one
+episode would silently become a standing permission. With it, `_covers` rejects an
+exception whose SID belongs to another book, and a test asserts exactly that.
+
+A weaker exception does not cover a stronger claim: an exception permitting `U5` does not
+license a band reaching `U6`. A stronger one does.
+
+## 3. Proven by deliberate breakage, both directions
+
+Silent on the live substrate, so the proof is constructed — the same method as
+`CHK_ENVELOPE` in §54, and the reason this entry can claim the check works rather than
+merely that it does not complain.
+
+**Step 1** — raise `B01`'s corridor max `U5 → U6` against a T1 container of `U5`, with no
+exception:
+
+    | `CHK_DECLARED` | 1 | 1 |     canon-scope 1
+
+**Step 2** — add the exception, changing nothing else:
+
+    {"sid": "S1.T1.B01.A3.E12", "axis": "corridor", "value": "U6",
+     "scope": "brief", "reason": "PROOF FIXTURE - not canon"}
+
+    canon-scope 0, notices 2
+
+Both results are what Ruling 5 specifies. `book_context_B01.json` was restored from the
+index immediately; **the fixture is not in the repository.**
+
+## 4. Tests
+
+**111 → 118.** Seven, covering `_covers` in both directions — matching, weaker, stronger,
+wrong axis, wrong book — plus two on the live substrate: that it carries no undeclared
+breach, and that B03's real exception carries all five fields Ruling 5 names.
+
+Run from `/tmp` as well as the repository root.
+
+## 5. Verification
+
+Canon-scope **0**. All-scope **53**. Notices **0**. Tests **118**.
+
+Zero notices is now the meaningful state: every derived layer agrees with the one above
+it, and the one real exception in the saga sits below every ceiling it touches.
+
+END OF ENTRY 58
+
+===============================================================
+
 END RECOVERY LEDGER

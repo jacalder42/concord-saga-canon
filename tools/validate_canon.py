@@ -63,6 +63,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import glob
 import json
 import os
 import re
@@ -485,6 +486,119 @@ def check_milestone_grid(path, rules, vocab, out, notices):
                     "status expects one of " + ", ".join(sorted(allowed))))
 
 
+def _rank(vocab, dim, token):
+    order = [v.upper() for v in vocab[dim]]
+    return order.index(token.upper()) if isinstance(token, str) \
+        and token.upper() in order else None
+
+
+def _covers(vocab, dim, exceptions, axis, child_max, owner_id):
+    """Is this breach declared? Ruling 5's form: sid, axis, value, scope, reason.
+
+    An exception covers a breach when it names the same axis, permits at least as
+    much as the breaching band claims, and sits inside the entity that breaches.
+    The SID check is what stops an exception granted for one episode from silently
+    licensing a band across a whole act.
+    """
+    want = _rank(vocab, dim, child_max)
+    for exc in exceptions or []:
+        if not isinstance(exc, dict) or exc.get("axis") != axis:
+            continue
+        got = _rank(vocab, dim, exc.get("value"))
+        if got is None or want is None or got < want:
+            continue
+        if owner_id and not str(exc.get("sid", "")).startswith(owner_id):
+            continue
+        return exc
+    return None
+
+
+def check_declared_exceptions(vocab, violations, notices):
+    """Ruling 5: a container ceiling is SOFT, but every breach must be DECLARED.
+
+    "The ceiling is a tripwire, not a wall." A band may exceed its container - what
+    it may not do is exceed it silently. An UNDECLARED breach is a violation; a
+    DECLARED one is a notice, so the crossing stays visible without failing the run.
+
+    Checks both rungs of the cascade: act inside book, book inside trilogy. `fx` is
+    excluded at the trilogy rung only, where the container is a default rather than
+    a ceiling. Ledger section 58.
+    """
+    books = {}
+    for b in range(1, 10):
+        p = os.path.join(REPO, BOOK_CONTEXT_DIR, f"book_context_B{b:02d}.json")
+        try:
+            with open(p, encoding="utf-8") as fh:
+                books[f"B{b:02d}"] = (p, json.load(fh))
+        except (OSError, json.JSONDecodeError):
+            continue
+
+    def compare(child_path, child_ep, child_id, cont_ep, cont_label, axes):
+        for axis in axes:
+            dim = BAND_AXIS_VOCAB[axis]
+            cb, pb = child_ep.get(axis), cont_ep.get(axis)
+            if not isinstance(cb, dict) or not isinstance(pb, dict):
+                continue
+            ci, pi = _rank(vocab, dim, cb.get("max")), _rank(vocab, dim, pb.get("max"))
+            if ci is None or pi is None or ci <= pi:
+                continue
+            declared = (_covers(vocab, dim, child_ep.get("exceptions"), axis,
+                                cb["max"], child_id)
+                        or _covers(vocab, dim, cont_ep.get("exceptions"), axis,
+                                   cb["max"], child_id))
+            if declared:
+                notices.append(Violation(
+                    "CHK_DECLARED", rel(child_path), None, cb["max"],
+                    f"{axis}.max {cb['max']} exceeds {cont_label} {pb['max']}, and is "
+                    f"DECLARED at {declared.get('sid')}: {declared.get('reason')}. "
+                    f"Ruling 5 permits this; reported so the crossing stays visible."))
+            else:
+                violations.append(Violation(
+                    "CHK_DECLARED", rel(child_path), None, cb["max"],
+                    f"{axis}.max {cb['max']} exceeds {cont_label} {pb['max']} with NO "
+                    f"declared exception. Ruling 5 makes the ceiling soft but requires "
+                    f"every breach to be declared: add an exception naming sid, axis, "
+                    f"value, scope and reason, inside {child_id}."))
+
+    # Rung 1: each act inside its book.
+    for path in sorted(glob.glob(os.path.join(REPO, "act_overlays", "*.json"))):
+        m = re.search(r"_(T\d)_B(\d\d)_A(\d)", os.path.basename(path))
+        if not m:
+            continue
+        entry = books.get(f"B{m.group(2)}")
+        if not entry:
+            continue
+        try:
+            with open(path, encoding="utf-8") as fh:
+                act = json.load(fh)
+        except (OSError, json.JSONDecodeError):
+            continue
+        ep = act.get("escalation_permissions")
+        if not isinstance(ep, dict):
+            continue
+        compare(path, ep, f"S1.{m.group(1)}.B{m.group(2)}.A{m.group(3)}",
+                entry[1].get("escalation_permissions", {}),
+                f"book B{m.group(2)}", ("corridor", "weather", "fx"))
+
+    # Rung 2: each book inside its trilogy. `fx` is skipped - the trilogy carries a
+    # default, not a ceiling, and exceeding a default is not a breach.
+    for bid, (path, data) in sorted(books.items()):
+        tri = data.get("trilogy_id")
+        if tri not in TRILOGY_CONTEXTS:
+            continue
+        try:
+            with open(TRILOGY_CONTEXTS[tri], encoding="utf-8") as fh:
+                container = json.load(fh)
+        except (OSError, json.JSONDecodeError):
+            continue
+        ep = data.get("escalation_permissions")
+        if not isinstance(ep, dict):
+            continue
+        compare(path, ep, f"S1.{tri}.{bid}",
+                container.get("environment_envelope", {}),
+                f"trilogy {tri}", ("corridor", "weather"))
+
+
 def check_vt_cap(vt_rows, supp, out):
     """The one supplement constraint a script can settle: decisions 3.4."""
     cons = supp.get("constraints", {})
@@ -825,6 +939,7 @@ def main():
                 check_sids(path, fh.read(), sidfmt, violations)
 
     check_vt_cap(vt_rows, supp, violations)
+    check_declared_exceptions(vocab, violations, notices)
 
     report = build_report(violations, scanned, args.all, rules, len(vt_rows), notices)
     if args.report:
