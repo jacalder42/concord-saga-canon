@@ -4798,13 +4798,17 @@ naming those three keys.
 (`tools/validate_canon.py`), which maps the three escalation scalars and four envelope
 keys. `entry_state`, `exit_state_locks`, `locations_in_play`, `continuity_hooks`,
 `pov_targets` and `title` are not in that map, so their `TODO`s are invisible to the
-validator — 54 strings, uncounted.
+validator — 63 strings, uncounted.
 
 **Consequence, and why it matters now.** The derivation draft's closing line — *"committing
 the ceilings alone takes canon-scope violations from 27 to 0"* — is arithmetically
 correct. Under the old CLAUDE.md wording it read as *the book-level timeline is complete*,
 which it would not be. The corrected bullet states the count and the residue together:
 **a clean report is not a populated book layer.**
+
+> **Residue corrected 2026-09-20, §53.** This entry first said 54 uncounted strings. It is
+> **63**: the six field *names* carry seven TODO *strings* per book, because `entry_state`
+> holds two (`world`, `key_character_states`). 27 + 63 = 90, which is the total above.
 
 ## 2. "18 of the 27 bands are inferred" — the real split is 24 / 3
 
@@ -4847,6 +4851,134 @@ schema recommendation and §4.1 conflict are the author's calls.
 `CLAUDE.md` and `reports/README.md`.
 
 END OF ENTRY 52
+
+===============================================================
+
+===============================================================
+
+# 53. The book envelopes, derived — and a live trilogy contradiction — 2026-09-20
+
+Two author rulings, 2026-09-20:
+
+1. **`{min, max}` is approved** for the book layer — *"min max works for me."*
+2. **The 27 violations are derived, not authored** — *"I also believe the 27 violations
+   should be derived from narrative and milestones, not dictated by author."*
+
+Ruling 2 settles what the derivation draft left open in its §6: the ceilings are a
+rollup, so filling them is not the author's job. This entry applies both.
+
+## 1. What was written
+
+All nine `book_context_B0X.json` move from three scalars to the act shape:
+
+    "escalation_permissions": {
+      "corridor": {"min": "U1", "max": "U5"},
+      "weather":  {"min": "W0", "max": "W3"},
+      "fx":       {"min": "FX1", "max": "FX2"},
+      "exceptions": [...],
+      "basis": "derived",
+      "derivation": "...", "act_basis": {...}, "source": "..."
+    }
+
+| Book | corridor | weather | fx | observed acts | exc |
+| --- | --- | --- | --- | --- | --- |
+| B01 | U1–U5 | W0–W2 | FX0–FX2 | A1, A2 | 0 |
+| B02 | U1–U5 | W0–W3 | FX0–FX2 | — | 0 |
+| B03 | U1–U5 | W0–W3 | FX1–FX2 | A3 | 1 |
+| B04 | U2–U5 | W1–W3 | FX1–FX3 | — | 0 |
+| B05 | U2–U6 | W1–W4 | FX2–FX3 | — | 0 |
+| B06 | U3–U6 | W2–W4 | FX2–FX3 | — | 0 |
+| B07 | U3–U6 | W2–W4 | FX2–FX3 | — | 0 |
+| B08 | U3–U6 | W2–W4 | FX2–FX3 | — | 0 |
+| B09 | U5–U6 | W3–W4 | FX3–FX3 | — | 0 |
+
+Every value is the min of its three acts' mins or the max of their maxes. **No judgement
+was applied to any number.** The table was computed independently from the 27 overlays
+and reproduces the derivation draft's table row for row.
+
+`basis` is **`derived`**, not `observed`/`inferred`, because the rollup's standing comes
+from the operation, not from evidence. Which acts under it were observed is recorded
+separately in `act_basis` — only **three acts in the saga** are `observed`
+(`B01.A1`, `B01.A2`, `B03.A3`), so seven of the nine books rest entirely on inference.
+
+B03's `W4` exception carries forward with a `from_act` pointer. B09 carries
+`unresolved_era`: its band is the **pre-Mending portion only**, because `B09.A3` spans the
+Mending. Milestone **M34's own note places the boundary at `S1.T3.B09.A3.E15`** — so the
+gap is locatable, not vague. `U7` (Quiet Veil) appears in no act band in the saga.
+
+## 2. The trilogy layer contradicts the act layer, on 13 axes
+
+**This is the finding, and it is not resolved here.**
+
+CLAUDE.md §9.1 recorded *"Trilogy envelopes contradict the escalation model"* as
+**resolved 2026-09-19 — per-act bands**. It is not resolved. The per-act bands were
+*added*; the trilogy scalars were never reconciled to them. Filling the book layer put
+the two in the same cascade and made the conflict visible:
+
+| Trilogy | container | books beneath it want |
+| --- | --- | --- |
+| T1 Veil | `U5` / `W3` / `FX2` | `U5` / `W3` / `FX2` — **consistent** |
+| T2 Neon | `U5` / `W3` / `FX2` | `U6` / `W4` / `FX3` — breaches all three |
+| T3 Loom | `U5` / `W3` / `FX3` | `U6` / `W4` / `FX3` — breaches corridor and weather |
+
+**Six of nine books breach their container**: B04 (fx), B05–B08 (all three / two), B09
+(corridor, weather). Thirteen axis-breaches in total. All three trilogies carry the same
+`weather_max: W3` / `corridor_max: U5`, which is itself the signature of values set once
+for the saga rather than per trilogy.
+
+Each of the six books records the breach in an `unresolved` field on its envelope. Nothing
+was changed in `rules/trilogy_context_*.json`.
+
+**Why this is the author's call and not a rollup.** Ruling 2 says envelopes are derived,
+which would make the trilogy ceilings the max of their three books — `U6`/`W4`/`FX3` for
+both T2 and T3. That is the consistent reading, and there is precedent: T1's
+`default_vfx_ceiling_note` records this exact situation being decided once before, when a
+recovered packet contradicted the ceiling and **the ceiling was ruled the error**. But the
+ruling named the 27 book violations, and rewriting three trilogy containers is a wider
+act than it authorized. Recorded, not performed.
+
+## 3. Cross-check against the milestone grid
+
+Ruling 2 says *narrative and milestones*, so the derived envelopes were checked against
+the 36-row grid. Every milestone whose description implies rupture- or storm-level
+conditions was tested against its act's weather ceiling.
+
+**Exactly one conflict, the one the draft already found.** `M08` — the first Rupture, the
+Warehouse Incident — sits at `B03.A3` under a `W3` ceiling, and Mechanica §30 defines
+`W4` Landfall as the state where *"shards or rupture-level events likely"*. The one `W4`
+exception in the saga is at `E14` and is granted for the **VT brush**, not the Rupture.
+
+`M19`, `M24`, `M30` and `M34` all sit under `W4` ceilings; no conflict. `M01` and `M03`
+match a keyword scan but are shard *events*, and Mechanica makes such events *likely under*
+Landfall without requiring Landfall for them — the implication runs one way only. So the
+conflict count stands at one, and **the Mechanica text does not force it**: "the Rupture
+does not require Landfall conditions" is the better-supported reading of §30 as written.
+Open, in CLAUDE.md §4. Not resolved here.
+
+## 4. Correction to §52
+
+§52 said the uncounted residue was **54** `TODO` strings. It is **63**. The six field
+*names* carry seven TODO *strings* per book: `entry_state` holds two (`world`,
+`key_character_states`). 27 + 63 = 90, the total §52 itself states. Corrected in §52 and
+in CLAUDE.md §8.0.
+
+Those 63 are untouched by this entry, exactly as the derivation draft's §6 says they must
+be: they are descriptions of a narrative that does not exist yet.
+
+## 5. Verification
+
+Canon-scope **27 → 0**. All-scope **62 → 35**. 86 tests.
+
+`check_bands` already runs on every JSON object, so the new blocks are shape-checked and
+coherence-checked the moment they exist — min and max are vocabulary members, min does not
+exceed max. It passes on all nine.
+
+**The count reached 0 partly because two checks cannot yet see a missing block.** That is
+closed in the next commit, not left standing; §54. The order is forced — adding the
+required-block check first would have made the nine flat `TODO` skeletons fail it and
+raised the baseline from 27 to 54, which the standing instruction forbids.
+
+END OF ENTRY 53
 
 ===============================================================
 

@@ -15,9 +15,31 @@
     "TODO"
   ],
   "escalation_permissions": {
-    "max_corridor_tier": "TODO",
-    "max_weather": "TODO",
-    "max_fx": "TODO"
+    "corridor": {
+      "min": "U2",
+      "max": "U5"
+    },
+    "weather": {
+      "min": "W1",
+      "max": "W3"
+    },
+    "fx": {
+      "min": "FX1",
+      "max": "FX3"
+    },
+    "exceptions": [],
+    "basis": "derived",
+    "derivation": "Union of the three act bands beneath this book (S1.T2.B04.A1/.A2/.A3): min of mins, max of maxes, per axis. No judgement was applied to any value. Regenerate rather than hand-edit: if an act band changes, this block is stale.",
+    "act_basis": {
+      "observed": [],
+      "inferred": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    "source": "act_overlays/ rolled up 2026-09-20; the act values themselves come from proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
+    "unresolved": "This derived envelope EXCEEDS its trilogy container in rules/trilogy_context_T2_neon.json: fx FX3 exceeds trilogy fx_max FX2. The act layer is narrative-derived and the trilogy scalars are older author-set ceilings that were never reconciled when the per-act bands landed. OPEN author question - see CLAUDE.md section 4 and ledger section 53. Not resolved here."
   },
   "continuity_hooks": [
     "TODO"

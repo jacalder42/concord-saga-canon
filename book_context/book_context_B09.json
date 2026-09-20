@@ -15,9 +15,32 @@
     "TODO"
   ],
   "escalation_permissions": {
-    "max_corridor_tier": "TODO",
-    "max_weather": "TODO",
-    "max_fx": "TODO"
+    "corridor": {
+      "min": "U5",
+      "max": "U6"
+    },
+    "weather": {
+      "min": "W3",
+      "max": "W4"
+    },
+    "fx": {
+      "min": "FX3",
+      "max": "FX3"
+    },
+    "exceptions": [],
+    "basis": "derived",
+    "derivation": "Union of the three act bands beneath this book (S1.T3.B09.A1/.A2/.A3): min of mins, max of maxes, per axis. No judgement was applied to any value. Regenerate rather than hand-edit: if an act band changes, this block is stale.",
+    "act_basis": {
+      "observed": [],
+      "inferred": [
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+    "source": "act_overlays/ rolled up 2026-09-20; the act values themselves come from proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
+    "unresolved": "This derived envelope EXCEEDS its trilogy container in rules/trilogy_context_T3_loom.json: corridor U6 exceeds trilogy corridor_max U5; weather W4 exceeds trilogy weather_max W3. The act layer is narrative-derived and the trilogy scalars are older author-set ceilings that were never reconciled when the per-act bands landed. OPEN author question - see CLAUDE.md section 4 and ledger section 53. Not resolved here.",
+    "unresolved_era": "PRE-MENDING PORTION ONLY. B09.A3 spans the Mending and therefore two eras; its band is the pre-Mending portion, so this rollup is too. The post-Mending portion needs the era file, which is held pending the LT question. U7 (Quiet Veil) is the post-Mending tier and appears in no act band in the saga. Milestone M34 places the boundary at S1.T3.B09.A3.E15. Ledger section 18."
   },
   "continuity_hooks": [
     "TODO"

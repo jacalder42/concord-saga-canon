@@ -15,9 +15,40 @@
     "TODO"
   ],
   "escalation_permissions": {
-    "max_corridor_tier": "TODO",
-    "max_weather": "TODO",
-    "max_fx": "TODO"
+    "corridor": {
+      "min": "U1",
+      "max": "U5"
+    },
+    "weather": {
+      "min": "W0",
+      "max": "W3"
+    },
+    "fx": {
+      "min": "FX1",
+      "max": "FX2"
+    },
+    "exceptions": [
+      {
+        "sid": "S1.T1.B03.A3.E14",
+        "axis": "weather",
+        "value": "W4",
+        "scope": "brief",
+        "reason": "First and only VT brush in the Veil trilogy",
+        "from_act": "S1.T1.B03.A3"
+      }
+    ],
+    "basis": "derived",
+    "derivation": "Union of the three act bands beneath this book (S1.T1.B03.A1/.A2/.A3): min of mins, max of maxes, per axis. No judgement was applied to any value. Regenerate rather than hand-edit: if an act band changes, this block is stale.",
+    "act_basis": {
+      "observed": [
+        "A3"
+      ],
+      "inferred": [
+        "A1",
+        "A2"
+      ]
+    },
+    "source": "act_overlays/ rolled up 2026-09-20; the act values themselves come from proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md"
   },
   "continuity_hooks": [
     "TODO"

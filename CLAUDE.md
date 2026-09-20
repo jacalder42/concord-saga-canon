@@ -455,14 +455,22 @@ ledger §28. The three findings that change how the queue below should be read:
   `locations_in_play` / `continuity_hooks` / `pov_targets` **are** the book-level timeline
   and are `TODO` in all nine books. They are the author's to fill.
 
-  **They are not the 27 violations.** Corrected 2026-09-20; the earlier version of this
-  bullet said they were. `book_context/` holds **90** `TODO` strings across ten fields and
-  the validator counts **27** of them — exactly `escalation_permissions.max_corridor_tier`
-  / `max_weather` / `max_fx`, three per book. The five timeline fields above, and `title`,
-  are unchecked: `CHK_VOCAB` fires only on keys listed in `JSON_KEY_VOCAB`
-  (`tools/validate_canon.py`), and those six are not among them. So filling the escalation
-  ceilings would take canon-scope to **0** while leaving 54 `TODO` strings untouched.
-  **A clean report is not a populated book layer.** Ledger §52.
+  **They were never the 27 violations.** Corrected 2026-09-20; the earlier version of this
+  bullet said they were. `book_context/` held **90** `TODO` strings across ten fields and
+  the validator counted **27** of them — exactly the three `escalation_permissions`
+  scalars per book. The five timeline fields above, and `title`, are unchecked:
+  `CHK_VOCAB` fires only on keys listed in `JSON_KEY_VOCAB` (`tools/validate_canon.py`),
+  and those six are not among them. Ledger §52.
+
+  **The 27 are now filled and canon-scope is 0** — ruled 2026-09-20: *"min max works for
+  me"* and *"the 27 violations should be derived from narrative and milestones, not
+  dictated by author."* The book layer moved to the act's `{min, max}` shape and every
+  value is a rollup of the three acts beneath it. Ledger §53.
+
+  **The 63 remaining `TODO` strings are unchanged and still the author's.** They are the
+  five timeline fields plus `title`, seven strings per book — `entry_state` holds two.
+  **A clean validation report is not a populated book layer**, and after this ruling that
+  gap is wider than it looks, not narrower.
 - **The first grid is populated.** `grids/milestones_payoffs.csv` holds **36 rows, all
   `proposed`** (ledger §41), checked by five `CHK_GRID_*` checks and 15 tests (§42).
   `pressure_before` / `pressure_after` are **provisional** — the scale saturates and the
@@ -607,8 +615,19 @@ file it names. No fix has been applied; two of the five need a ruling before one
   now reads 73 `Technarc`, 0 `Technarch` outside `CLAUDE.md` and `recovery/`, which
   quote the retired spelling as evidence. Ledger §16.1 records what changed and why the
   `RexID.md` naming-variance entry reads better afterwards.
-- ~~**Trilogy envelopes contradict the escalation model.**~~ **Resolved 2026-09-19 —
-  per-act bands.** All 27 act overlays now carry `escalation_permissions` with
+- **Trilogy envelopes contradict the escalation model. REOPENED 2026-09-20.** The
+  2026-09-19 entry below marked this resolved. It was not: the per-act bands were *added*
+  and the trilogy scalars were never reconciled to them. Deriving the book layer put both
+  in one cascade and exposed **13 axis-breaches across six of the nine books**. All three
+  trilogies carry the same `weather_max: W3` / `corridor_max: U5`, while T2's and T3's
+  acts want `U6`/`W4`. T1 is consistent; T2 and T3 are not. Ledger §53 §2. Deriving the
+  trilogy ceilings the way the books were derived is the consistent reading of the
+  2026-09-20 ruling, and T1's own `default_vfx_ceiling_note` is precedent for the ceiling
+  being the error — but that is a **wider act than the ruling authorized, so it is an open
+  author question**, reported by the validator as notices. What follows is the 2026-09-19
+  record, still accurate about the act layer:
+
+  **Per-act bands, 2026-09-19.** All 27 act overlays now carry `escalation_permissions` with
   `corridor`/`weather`/`fx` min-max bands, an `exceptions` list, and a `basis` field
   marking each block `observed` or `inferred`. Veil's FX ceiling rose to `FX2` — the
   recovered E16 packet was right and the ceiling was wrong. `S1.T1.B03.A3.E14`'s `W4`
