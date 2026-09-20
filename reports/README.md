@@ -145,6 +145,21 @@ Recorded so the reports are not read as stronger than they are.
   fixtures moved from `Square` to `ZONE_BLUE_PULSE`. Expect the substrate count to rise at
   migration time unless the mapping is done as part of it.
 
+- **The milestone grid is checked from 2026-09-20.** `CHK_GRID_SCHEMA`,
+  `CHK_GRID_ID`, `CHK_GRID_SETUPS`, `CHK_GRID_TARGET` and `CHK_GRID_STATUS` cover
+  `grids/milestones_payoffs.csv`: header drift, duplicate or empty `milestone_id`,
+  `required_setups` that resolve to a real row, two-digit `target_book`, `T1`–`T3`,
+  `A1`–`A3`, and `status` from `controlled_vocab.milestone_status`. **All pass on the
+  grid as promoted** — they are a ratchet against future edits, not a cleanup task, so any
+  failure is a change someone made.
+
+  **One deliberate exception:** five rows carry `target_act: EP`, which is not an act —
+  all nine books have three acts and **27 is the cap** (confirmed 2026-09-20). Whether
+  `EP` belongs in the act slot at all is an **open author question** (`CLAUDE.md` §4), so
+  those rows are **notices, not violations**. They become violations the moment the ruling
+  says `EP` is not an act slot, and valid the moment it says it is. The checker reports;
+  it does not decide.
+
 - **Episode-level band conformance is not checked yet.** Nothing verifies that an
   episode's `CORRIDOR` sits inside its act's band, because no episode rows exist —
   `episode_beats.csv` is still header-only. That check becomes possible, and worth

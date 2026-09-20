@@ -537,5 +537,117 @@ class ContestedGroundIsUnassigned(unittest.TestCase):
             self.assertEqual(rows[name]["mapped_type"], "")
             self.assertEqual(rows[name]["type_status"], "CONTESTED_UNASSIGNED")
 
+
+LIVE_GRID = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "grids", "milestones_payoffs.csv")
+GRID_HEADER = ",".join(RULES["milestone_grid"]["columns"]) + "\n"
+GRID_ROW = ("M01,MT,LitRPG Fan,a milestone,T1,B01,A1,E05,2,3,,MED,Y,,,,,proposed,note\n")
+
+
+def grid_problems(content):
+    """Run the milestone-grid checks over a fixture written to a temp path."""
+    import tempfile, os as _os
+    out, notices = [], []
+    d = tempfile.mkdtemp()
+    fp = _os.path.join(d, "milestones_payoffs.csv")
+    with open(fp, "w", encoding="utf-8") as fh:
+        fh.write(content)
+    vc.check_milestone_grid(fp, RULES, VOCAB, out, notices)
+    return out, notices
+
+
+class MilestoneGridRatchet(unittest.TestCase):
+    """The grid went live 2026-09-20 with 36 rows, all `proposed`.
+
+    Each check is asserted twice: the live grid passes it, and a known-bad
+    fixture fires it. A check that only ever passes proves nothing.
+    """
+
+    def test_the_live_grid_passes_every_check(self):
+        with open(LIVE_GRID, encoding="utf-8") as fh:
+            out, _ = grid_problems(fh.read())
+        self.assertEqual([p.check for p in out], [],
+                         "the promoted grid must pass its own checks")
+
+    # --- header ---------------------------------------------------------
+    def test_column_drift_fails_loudly(self):
+        drifted = GRID_HEADER.replace("breadcrumb_density", "breadcrumb_densty")
+        out, _ = grid_problems(drifted + GRID_ROW)
+        self.assertTrue([p for p in out if p.check == "CHK_GRID_SCHEMA"])
+
+    def test_a_dropped_column_fails(self):
+        out, _ = grid_problems(GRID_HEADER.replace(",notes", "") + GRID_ROW)
+        self.assertTrue([p for p in out if p.check == "CHK_GRID_SCHEMA"])
+
+    # --- milestone_id ---------------------------------------------------
+    def test_duplicate_milestone_id_is_flagged(self):
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW + GRID_ROW)
+        self.assertTrue([p for p in out if p.check == "CHK_GRID_ID"])
+
+    def test_empty_milestone_id_is_flagged(self):
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace("M01,", ",", 1))
+        self.assertTrue([p for p in out if p.check == "CHK_GRID_ID"])
+
+    # --- required_setups ------------------------------------------------
+    def test_dangling_required_setup_is_flagged(self):
+        row = GRID_ROW.replace(",MED,Y", ",MED,Y").replace("E05,2,3,,", "E05,2,3,M99,")
+        out, _ = grid_problems(GRID_HEADER + row)
+        bad = [p for p in out if p.check == "CHK_GRID_SETUPS"]
+        self.assertTrue(bad)
+        self.assertEqual(bad[0].token, "M99")
+
+    def test_resolving_required_setup_passes(self):
+        second = GRID_ROW.replace("M01,", "M02,", 1).replace("E05,2,3,,", "E05,2,3,M01,")
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW + second)
+        self.assertEqual([p for p in out if p.check == "CHK_GRID_SETUPS"], [])
+
+    # --- target columns -------------------------------------------------
+    def test_one_digit_book_is_flagged(self):
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace(",B01,", ",B1,"))
+        bad = [p for p in out if p.check == "CHK_GRID_TARGET"]
+        self.assertTrue(bad)
+        self.assertIn("two-digit", bad[0].detail)
+
+    def test_bad_trilogy_is_flagged(self):
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace(",T1,", ",T4,"))
+        self.assertTrue([p for p in out if p.check == "CHK_GRID_TARGET"])
+
+    def test_bad_act_is_flagged(self):
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace(",A1,", ",A4,"))
+        self.assertTrue([p for p in out if p.check == "CHK_GRID_TARGET"])
+
+    def test_all_books_have_three_acts(self):
+        """27 is the cap, confirmed by James 2026-09-20. A4 is never valid."""
+        self.assertEqual(RULES["milestone_grid"]["target_act_values"],
+                         ["A1", "A2", "A3"])
+
+    # --- the EP exception ------------------------------------------------
+    def test_ep_is_a_notice_not_a_violation(self):
+        """EP is an OPEN author question, so the checker reports without deciding."""
+        out, notices = grid_problems(GRID_HEADER + GRID_ROW.replace(",A1,", ",EP,"))
+        self.assertEqual([p for p in out if p.check == "CHK_GRID_TARGET"], [],
+                         "EP must not be a violation while the question is open")
+        self.assertTrue([n for n in notices if n.token == "EP"],
+                        "EP must still be reported")
+
+    def test_the_live_grid_raises_five_ep_notices(self):
+        with open(LIVE_GRID, encoding="utf-8") as fh:
+            out, notices = grid_problems(fh.read())
+        self.assertEqual(len([n for n in notices if n.token == "EP"]), 5)
+
+    # --- status ----------------------------------------------------------
+    def test_unknown_status_is_flagged(self):
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace(",proposed,", ",settled,"))
+        self.assertTrue([p for p in out if p.check == "CHK_GRID_STATUS"])
+
+    def test_every_live_row_is_still_proposed(self):
+        import csv as _csv
+        with open(LIVE_GRID, encoding="utf-8") as fh:
+            rows = list(_csv.DictReader(fh))
+        self.assertEqual(len(rows), 36)
+        self.assertEqual({r["status"] for r in rows}, {"proposed"},
+                         "loading the grid must not promote anything to ruled")
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

@@ -333,6 +333,123 @@ def allowed_tokens(source, dim, vocab, supp):
     return allowed
 
 
+
+MILESTONE_GRID = "grids/milestones_payoffs.csv"
+
+
+def check_milestone_grid(path, rules, vocab, out, notices):
+    """Structural checks over the populated milestone grid.
+
+    The grid went live on 2026-09-20 with 36 rows, every one `proposed`. These
+    checks are a ratchet against future edits rather than a cleanup task: they
+    all pass on the load as promoted, so any later failure is a change someone
+    made, not a pre-existing defect.
+
+    One exception is deliberate. Five rows carry `target_act: EP`, which is not
+    an act — all nine books have three acts and 27 is the cap. Whether `EP`
+    belongs in the act slot at all is an OPEN author question (CLAUDE.md 4),
+    so those rows are reported as notices rather than violations. They become
+    violations the moment the ruling says `EP` is not an act slot, and valid
+    the moment it says it is. Either way the checker does not decide.
+    """
+    spec = rules.get("milestone_grid")
+    if spec is None:
+        return
+    try:
+        with open(path, encoding="utf-8", newline="") as fh:
+            rows = list(csv.reader(fh))
+    except OSError:
+        return
+    if not rows:
+        return
+
+    header = [c.strip() for c in rows[0]]
+    expected = spec["columns"]
+    if header != expected:
+        out.append(Violation(
+            "CHK_GRID_SCHEMA", rel(path), 1, ",".join(header),
+            "milestone grid header does not match milestone_grid.columns; "
+            "column drift must fail loudly. Expected: " + ",".join(expected),
+        ))
+        return  # every check below indexes by column name
+
+    idx = {c: i for i, c in enumerate(header)}
+    data = [r for r in rows[1:] if any(c.strip() for c in r)]
+
+    def cell(row, col):
+        i = idx[col]
+        return row[i].strip() if i < len(row) else ""
+
+    # --- milestone_id unique and non-empty -------------------------------
+    seen = {}
+    ids = set()
+    for lineno, row in enumerate(data, 2):
+        mid = cell(row, "milestone_id")
+        if not mid:
+            out.append(Violation("CHK_GRID_ID", rel(path), lineno, "",
+                                 "milestone_id is empty"))
+            continue
+        if mid in seen:
+            out.append(Violation(
+                "CHK_GRID_ID", rel(path), lineno, mid,
+                f"duplicate milestone_id; first seen at line {seen[mid]}"))
+        else:
+            seen[mid] = lineno
+        ids.add(mid)
+
+    # --- required_setups must resolve ------------------------------------
+    for lineno, row in enumerate(data, 2):
+        for ref in split_values(cell(row, "required_setups")):
+            if ref and ref not in ids:
+                out.append(Violation(
+                    "CHK_GRID_SETUPS", rel(path), lineno, ref,
+                    f"required_setups references {ref}, which is not a "
+                    f"milestone_id in this grid"))
+
+    # --- target columns ---------------------------------------------------
+    books = {f"B{n:02d}" for n in range(1, 10)}
+    trilogies = set(spec["target_trilogy_values"])
+    acts = set(spec["target_act_values"])
+    for lineno, row in enumerate(data, 2):
+        mid = cell(row, "milestone_id")
+        book = cell(row, "target_book")
+        if book and book not in books:
+            hint = ("two-digit book required (B01..B09); "
+                    f"{book} is the old one-digit form"
+                    if book.startswith("B") and len(book) == 2
+                    else "expected one of B01..B09")
+            out.append(Violation("CHK_GRID_TARGET", rel(path), lineno, book,
+                                 f"{mid} target_book: {hint}"))
+        tri = cell(row, "target_trilogy")
+        if tri and tri not in trilogies:
+            out.append(Violation(
+                "CHK_GRID_TARGET", rel(path), lineno, tri,
+                f"{mid} target_trilogy expects one of {', '.join(sorted(trilogies))}"))
+        act = cell(row, "target_act")
+        if act and act not in acts:
+            if act == "EP":
+                notices.append(Violation(
+                    "CHK_GRID_TARGET", rel(path), lineno, act,
+                    f"{mid} target_act is EP, which is not an act - all nine "
+                    f"books have three acts (27 is the cap). Whether EP belongs "
+                    f"in the act slot is an OPEN author question; reported as a "
+                    f"notice, not a violation. See CLAUDE.md section 4."))
+            else:
+                out.append(Violation(
+                    "CHK_GRID_TARGET", rel(path), lineno, act,
+                    f"{mid} target_act expects one of {', '.join(sorted(acts))}"))
+
+    # --- status vocabulary -------------------------------------------------
+    allowed = {v.upper() for v in vocab.get("milestone_status", [])}
+    if allowed:
+        for lineno, row in enumerate(data, 2):
+            st = cell(row, "status")
+            if st and st.upper() not in allowed:
+                out.append(Violation(
+                    "CHK_GRID_STATUS", rel(path), lineno, st,
+                    "status expects one of " + ", ".join(sorted(allowed))))
+
+
 def check_vt_cap(vt_rows, supp, out):
     """The one supplement constraint a script can settle: decisions 3.4."""
     cons = supp.get("constraints", {})
@@ -556,6 +673,8 @@ def main():
         if path.endswith(".csv"):
             check_csv(path, sidfmt, ecid_fields, vocab, supp, alias_map,
                       violations, vt_rows, optional_fields, notices)
+            if rel(path) == MILESTONE_GRID:
+                check_milestone_grid(path, rules, vocab, violations, notices)
             with open(path, encoding="utf-8") as fh:
                 check_sids(path, fh.read(), sidfmt, violations)
         elif path.endswith(".json"):

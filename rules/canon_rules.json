@@ -89,6 +89,12 @@
       "CORR_GHOSTLINE",
       "CORR_UNCLASSED",
       "NODE_ECHO"
+    ],
+    "milestone_status": [
+      "proposed",
+      "ruled",
+      "migrated",
+      "retired"
     ]
   },
   "systems": {
@@ -220,5 +226,47 @@
     "corridor_definition": "A corridor is a linear path or area between two known points. Context determines whether it is safe, dangerous, or otherwise. Ruled 2026-09-19, Ruling 2. The corridor classes are NOT a safety gradient - they sort by who built or uses a corridor and what it leads to.",
     "shard_progression_note": "Flicker -> Ghostwave -> Fracture -> Rupture is the shard progression: a severity scale layering over places. It is NOT a spatial taxonomy and contributes nothing to ENV. Ruling 1.",
     "source": "HYBRID RESONANCE GEOGRAPHY SYSTEM (Notion, 2025-11-27), recovered at recovery/LOCATIONS_RECOVERY_2026-09-19.md"
+  },
+  "milestone_grid": {
+    "_status": "Schema for grids/milestones_payoffs.csv, populated 2026-09-20 (ledger 41). The status column exists so the grid can be live without being settled: all 36 rows are 'proposed'.",
+    "status_meanings": {
+      "proposed": "Loaded and checkable, but not settled. No author ruling promotes it.",
+      "ruled": "Author has ruled on this milestone.",
+      "migrated": "Carried into episode-level structure.",
+      "retired": "Superseded; kept for provenance."
+    },
+    "columns": [
+      "milestone_id",
+      "channel",
+      "reader_group",
+      "description",
+      "target_trilogy",
+      "target_book",
+      "target_act",
+      "target_episode_or_range",
+      "pressure_before",
+      "pressure_after",
+      "required_setups",
+      "breadcrumb_density",
+      "requires_packet",
+      "supplement_type",
+      "supplement_function",
+      "supplement_vehicle",
+      "supplement_form",
+      "status",
+      "notes"
+    ],
+    "target_trilogy_values": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "target_act_values": [
+      "A1",
+      "A2",
+      "A3"
+    ],
+    "target_book_pattern": "B01..B09 - two digits, per CLAUDE.md section 3. B1 is the old form and is wrong.",
+    "_act_note": "A1-A3 only. All nine books have three acts; 27 acts is the cap, confirmed by James 2026-09-20. Five rows currently carry target_act 'EP', which is NOT a valid act and is reported - the EP-slot question is open (CLAUDE.md section 4)."
   }
 }

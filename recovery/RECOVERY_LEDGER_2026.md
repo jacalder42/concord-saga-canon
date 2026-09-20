@@ -3902,4 +3902,91 @@ END OF ENTRY 41
 
 ===============================================================
 
+===============================================================
+
+# 42. The milestone grid is checked — 2026-09-20
+
+**Status:** 5 CHECKS ADDED / 15 TESTS / ALL PASS ON THE GRID AS PROMOTED /
+CANON-SCOPE 27, ALL-SCOPE 62
+
+`grids/milestones_payoffs.csv` went live at §41. This makes it **checkable**, so the next
+edit to it cannot quietly break it.
+
+---
+
+## 1. The five checks
+
+| Check | Enforces |
+| --- | --- |
+| `CHK_GRID_SCHEMA` | Header matches `milestone_grid.columns` **exactly**. Column drift fails loudly and **stops the remaining checks**, which index by column name |
+| `CHK_GRID_ID` | `milestone_id` unique and non-empty |
+| `CHK_GRID_SETUPS` | Every `required_setups` entry resolves to a `milestone_id` **in this grid** |
+| `CHK_GRID_TARGET` | `target_book` two-digit `B01`–`B09`; `target_trilogy` `T1`–`T3`; `target_act` `A1`–`A3` |
+| `CHK_GRID_STATUS` | `status` drawn from `controlled_vocab.milestone_status`, new: `proposed` · `ruled` · `migrated` · `retired` |
+
+**All five pass on the grid as promoted.** That is the point: they are a **ratchet against
+future edits**, not a cleanup task, so any failure from here is a change someone made.
+
+Each is asserted **twice** in the self-tests — the live grid passes it, and a known-bad
+fixture fires it. A check that only ever passes proves nothing. 71 tests → **86**.
+
+`rules/canon_rules.json` gains `milestone_grid` (the schema and the target vocabularies)
+and `controlled_vocab.milestone_status`.
+
+## 2. The one check that did NOT pass, and what was done about it
+
+The instruction was that all six checks currently pass. **Five do. The act check does
+not**, and the queue would have gone 27→32 if it had been written as a plain violation.
+
+Five rows — `M10`, `M11`, `M23`, `M35`, `M36` — carry **`target_act: EP`**.
+
+**`EP` is not an act.** James confirmed 2026-09-20: *"All books will have 3 acts"*, and
+**27 acts is the cap** — verified in the substrate as 27 overlay files, three per book,
+with `A{1-3}` in the SID format. So an `A1`–`A3` check is correct and must not be widened
+to admit `EP`.
+
+But **whether `EP` belongs in the act slot at all is an open author question**
+(`CLAUDE.md` §4; ledger §24, §25, §27.7), and it is the *reason* those five rows exist in
+this shape. Flagging them as violations would assert an answer.
+
+**They are reported as notices instead**, using the channel the validator already has for
+`ECID_fields_optional`. The report names all five with a pointer to the open question.
+
+This is **not loosening the check**:
+
+- `A4` is still a violation — tested.
+- A one-digit `B1` is still a violation — tested.
+- `EP` is still **reported**, by name, every run — tested.
+- The moment the ruling says `EP` is not an act slot, the notice becomes a violation by
+  deleting one branch. The moment it says `EP` **is** valid, it joins `target_act_values`.
+
+**The checker reports; it does not decide.** That is the same posture as `CHK_BANDS`, which
+validates band coherence without second-guessing the values (§18).
+
+## 3. What the checks confirmed about the load
+
+Running them is the first independent confirmation of the grid's internal consistency:
+
+- **36 unique, non-empty** `milestone_id`.
+- **Every `required_setups` reference resolves.** `SAGA_TIMELINE` §4 claimed this and §24
+  verified it by hand; it is now machine-checked on every run.
+- **Every `target_book` is two-digit.** The one-digit form that stopped the queue at §41
+  was in a `notes` cell, never in a structured column.
+- **Every row is still `proposed`.** A test asserts this specifically, so a future load
+  cannot promote rows to `ruled` as a side effect.
+
+## 4. Validator
+
+| Scope | Before | After |
+| --- | --- | --- |
+| canon | 27 | **27** |
+| all | 62 | **62** |
+| self-tests | 71 | **86** |
+
+Notices rose 0 → 5, which do not affect the exit code.
+
+END OF ENTRY 42
+
+===============================================================
+
 END RECOVERY LEDGER
