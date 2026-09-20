@@ -5134,4 +5134,84 @@ END OF ENTRY 55
 
 ===============================================================
 
+===============================================================
+
+# 56. `PR` and `EP` enter the vocabulary — 2026-09-20
+
+Ruling 6 applied. **Notices 18 → 13**: the five `EP` notices cleared, the 13 containment
+notices remain. Canon-scope **0**. Tests **100 → 109**.
+
+## 1. The pattern could not simply be edited
+
+`SID_format` lives in `canon_rules.json` and the validator builds its matcher from that
+string, so the obvious move was to widen `A{1-3}`. **It does not work.** `SidFormat`
+split on `\{(\d+)-(\d+)\}` and emitted `literal + (\d+)` per component — every component
+was numeric by construction, and `PR` and `EP` are not.
+
+The parser now accepts a second component form alongside the numeric range:
+
+    {01-09}              numeric range, width taken from `lo`
+    {act:A1|A2|A3|PR|EP} alternation over literal tokens, optionally named
+
+The new pattern is `S1.T{1-3}.B{01-09}.{act:A1|A2|A3|PR|EP}.E{00-99}`. The numeric form
+is untouched, which is why the two-digit book rule still holds and why the existing suite
+passed the refactor before the pattern changed.
+
+The loose matcher for an alternation is deliberately **wider than the allowed set**
+(`[A-Za-z]{1,3}\d{0,2}`), so `A0`, `A4` and `XX` are *found* and then fail validation
+rather than going unseen. Verified: all three fail, `PR`/`EP` pass, `S1.T1.B1.EP.E01`
+still fails on the book component, and act-prefix forms like `S1.T1.B01.A1` still parse.
+
+## 2. A blind spot closed, and it moved the all-scope count
+
+All-scope rose **35 → 50**. Every one of the 15 is a **one-digit book** in a quotation of
+recovered material, in `CLAUDE.md`, `proposals/` or `recovery/`.
+
+They are not new defects. They are SIDs the finder **could not see before**: with a purely
+numeric act slot, `S1.T1.B3.EP.E01` did not match the finder at all, so its one-digit book
+went unreported. The old suite asserted this as accepted behaviour, in a test named
+`test_epilogue_act_token_is_not_matched_as_valid` whose own comment called it a
+*"documented limitation"*.
+
+That test is replaced by `test_the_old_ep_blind_spot_is_closed`, which asserts the
+opposite and says why. **Canon-scope is unaffected** — the substrate carries no such form.
+The rise is detection reaching material `CLAUDE.md` §3's scope warning already describes.
+
+## 3. The dead carve-out removed
+
+`check_milestone_grid` special-cased `EP` into a notice. With `EP` in
+`target_act_values` that branch is unreachable, and leaving it would have parked a
+superseded reading in the code. Removed, with a comment recording what it was.
+
+`_act_note` is rewritten: `A1`-`A3` are the three acts, `PR` and `EP` are structural
+positions outside the act model, 27 remains the cap. The previous note called `EP` "NOT a
+valid act"; under Ruling 6 that framing was wrong, not merely outdated.
+
+## 4. Recorded, not resolved — epilogue episode numbering
+
+The five `EP` rows suggest epilogue numbering **continues the book's sequence** rather than
+restarting at `E01`: `M23` cites `E20` in B06, `M35` `E20` and `M36` `E21` in B09. High
+numbers, consistent with continuation.
+
+**Where they live matters and the record should be exact**: `target_episode_or_range` is
+**empty on all five** `EP` rows. The numbers appear in the `notes` column as *Notion
+provenance citations* — "Notion B6 aftermath unit E20", "Notion B9 E20", "Notion B9 E21".
+`M10` and `M11` (B03) carry no episode number at all.
+
+So this is **evidence from the source layer, not a populated field**, and it bears on the
+open question in `CLAUDE.md` §4 of whether epilogue episodes restart at `E01`. §3 of
+`CLAUDE.md` rules that epilogues take the next sequential episode number, which agrees.
+**Not resolved here.** If the continuation reading is wrong, it is an author question.
+
+## 5. Verification
+
+Canon-scope **0**. All-scope **50** (was 35; §2). Notices **13** (was 18). Tests **109**
+(was 100), including: a prologue SID parses, an epilogue SID parses, `A0`/`A4`/`XX` fail,
+act-prefix forms still parse, the whole live grid passes with its `EP` rows, and the five
+`EP` rows are still present — so the cleared notices cannot have come from losing rows.
+
+END OF ENTRY 56
+
+===============================================================
+
 END RECOVERY LEDGER

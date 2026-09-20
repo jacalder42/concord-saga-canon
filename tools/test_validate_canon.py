@@ -96,20 +96,47 @@ class TestSidFormat(unittest.TestCase):
         self.assertTrue(any("out of range" in p.detail for p in problems))
 
     def test_act_out_of_range_fails(self):
-        problems = sid_problems("S1.T1.B01.A4.E16")
-        self.assertTrue(any("out of range" in p.detail for p in problems))
+        """A4 is not a fourth act. Every book has exactly three."""
+        self.assertTrue(sid_problems("S1.T1.B01.A4.E16"))
+
+    def test_act_zero_fails(self):
+        self.assertTrue(sid_problems("S1.T1.B01.A0.E16"))
+
+    def test_an_unknown_act_token_fails(self):
+        self.assertTrue(sid_problems("S1.T1.B01.XX.E16"))
 
     def test_recovered_book3_form_fails(self):
         # the real Book 3 Act III shells, which use the one-digit book form
         problems = sid_problems("EP14 — S1.T1.B3.A3.E14")
         self.assertEqual(len(problems), 1)
 
-    def test_epilogue_act_token_is_not_matched_as_valid(self):
-        # S1.T1.B3.EP.E01 has EP where an act must be; it must not pass as a valid SID
-        self.assertEqual(sid_problems("S1.T1.B3.EP.E01"), [],
-                         "shape does not match the SID finder at all")
-        # documented limitation: a non-numeric act token is not SID-shaped, so the
-        # format check cannot see it. Ledger section 15 tracks it as a ruling instead.
+    # --- PR and EP in the act slot, Ruling 6 (2026-09-20) -------------------
+    def test_a_prologue_sid_parses(self):
+        self.assertEqual(sid_problems("S1.T1.B01.PR.E00"), [])
+
+    def test_an_epilogue_sid_parses(self):
+        self.assertEqual(sid_problems("S1.T3.B09.EP.E20"), [])
+
+    def test_the_old_ep_blind_spot_is_closed(self):
+        """This test replaces one that asserted the blind spot as a limitation.
+
+        Until 2026-09-20 the parser was purely numeric, so `EP` in the act slot did
+        not match the finder AT ALL and `S1.T1.B3.EP.E01` went unseen - one-digit
+        book and all. The old test asserted that as accepted behaviour. Ruling 6
+        made the slot an alternation, so the same string is now found and fails on
+        the book component, which was always the real defect. Ledger section 56.
+        """
+        problems = sid_problems("S1.T1.B3.EP.E01")
+        self.assertTrue(problems, "the one-digit book must now be seen")
+        self.assertTrue(any("digit" in p.detail for p in problems))
+
+    def test_a_valid_epilogue_sid_with_a_bad_book_still_fails(self):
+        self.assertTrue(sid_problems("S1.T1.B1.EP.E01"))
+
+    def test_act_prefix_forms_still_parse(self):
+        """Act IDs stop before the episode component; act_overlays rely on it."""
+        self.assertEqual(sid_problems("S1.T1.B01.A1"), [])
+        self.assertEqual(sid_problems("S1.T3.B09.EP"), [])
 
 
 class TestVocabularyCsv(unittest.TestCase):
@@ -617,24 +644,51 @@ class MilestoneGridRatchet(unittest.TestCase):
         out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace(",A1,", ",A4,"))
         self.assertTrue([p for p in out if p.check == "CHK_GRID_TARGET"])
 
-    def test_all_books_have_three_acts(self):
-        """27 is the cap, confirmed by James 2026-09-20. A4 is never valid."""
-        self.assertEqual(RULES["milestone_grid"]["target_act_values"],
-                         ["A1", "A2", "A3"])
+    def test_the_act_slot_holds_five_positions_but_only_three_acts(self):
+        """Ruling 6: PR and EP are positions alongside A1-A3, not extra acts.
 
-    # --- the EP exception ------------------------------------------------
-    def test_ep_is_a_notice_not_a_violation(self):
-        """EP is an OPEN author question, so the checker reports without deciding."""
+        27 remains the cap because a prologue is not an act. The distinction is the
+        whole content of the ruling, so it is asserted rather than assumed.
+        """
+        values = RULES["milestone_grid"]["target_act_values"]
+        self.assertEqual(values, ["A1", "A2", "A3", "PR", "EP"])
+        acts = [v for v in values if v.startswith("A")]
+        self.assertEqual(len(acts), 3, "there are exactly three acts")
+        self.assertEqual(9 * len(acts), 27, "27 acts is the cap")
+
+    # --- PR and EP, ordinary vocabulary since Ruling 6 ---------------------
+    def test_ep_is_neither_a_violation_nor_a_notice(self):
+        """The carve-out is gone: EP is a valid position, so nothing is reported.
+
+        It was a notice while the EP-slot question was open. Ruling 6 closed it.
+        """
         out, notices = grid_problems(GRID_HEADER + GRID_ROW.replace(",A1,", ",EP,"))
-        self.assertEqual([p for p in out if p.check == "CHK_GRID_TARGET"], [],
-                         "EP must not be a violation while the question is open")
-        self.assertTrue([n for n in notices if n.token == "EP"],
-                        "EP must still be reported")
+        self.assertEqual([p for p in out if p.check == "CHK_GRID_TARGET"], [])
+        self.assertEqual([n for n in notices if n.token == "EP"], [])
 
-    def test_the_live_grid_raises_five_ep_notices(self):
+    def test_pr_is_accepted_too(self):
+        out, notices = grid_problems(GRID_HEADER + GRID_ROW.replace(",A1,", ",PR,"))
+        self.assertEqual([p for p in out if p.check == "CHK_GRID_TARGET"], [])
+        self.assertEqual([n for n in notices if n.token == "PR"], [])
+
+    def test_a_fourth_act_is_still_a_violation(self):
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace(",A1,", ",A4,"))
+        self.assertTrue([p for p in out if p.check == "CHK_GRID_TARGET"])
+
+    def test_the_live_grid_raises_no_ep_notices(self):
+        """Was 5. The five EP rows validate as ordinary rows now."""
         with open(LIVE_GRID, encoding="utf-8") as fh:
             out, notices = grid_problems(fh.read())
-        self.assertEqual(len([n for n in notices if n.token == "EP"]), 5)
+        self.assertEqual([n for n in notices if n.token == "EP"], [])
+        self.assertEqual(out, [], "the whole grid must pass, EP rows included")
+
+    def test_the_five_ep_rows_are_still_there(self):
+        """Clearing the notices must not have come from losing the rows."""
+        import csv as _csv
+        with open(LIVE_GRID, encoding="utf-8") as fh:
+            rows = list(_csv.DictReader(fh))
+        ep = [r["milestone_id"] for r in rows if r["target_act"] == "EP"]
+        self.assertEqual(ep, ["M10", "M11", "M23", "M35", "M36"])
 
     # --- status ----------------------------------------------------------
     def test_unknown_status_is_flagged(self):

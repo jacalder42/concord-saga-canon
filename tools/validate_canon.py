@@ -137,43 +137,66 @@ class Violation:
 # SID format, derived from the declared pattern
 # --------------------------------------------------------------------------- #
 
-class SidFormat:
-    """Parses a pattern like S1.T{1-3}.B{01-09}.A{1-3}.E{01-99} into a matcher.
+# One component of a SID pattern: either a numeric range or a set of literal
+# alternatives. `{01-09}` is numeric; `{act:A1|A2|A3|PR|EP}` is an alternation.
+COMPONENT_RX = re.compile(r"\{(?:(\d+)-(\d+)|(?:([A-Za-z_]+):)?([A-Za-z0-9|]+))\}")
 
-    A `{lo-hi}` group declares both a numeric range and a digit width, taken from
-    the literal width of `lo`. So `{01-09}` requires exactly two digits, which is
-    what makes the two-digit book rule enforceable rather than advisory.
+
+class SidFormat:
+    """Parses a pattern like S1.T{1-3}.B{01-09}.{act:A1|A2|A3|PR|EP}.E{00-99}.
+
+    Two component forms:
+
+    `{lo-hi}`   a numeric range. It declares both the range and a digit width,
+                taken from the literal width of `lo`. So `{01-09}` requires
+                exactly two digits, which is what makes the two-digit book rule
+                enforceable rather than advisory.
+
+    `{name:A|B}` an alternation over literal tokens, optionally named for error
+                messages. Added 2026-09-20 for Ruling 6: the act slot holds five
+                structural positions, `A1`-`A3` plus `PR` and `EP`, and three of
+                them are not numeric. A purely numeric parser could not express
+                that, so the pattern in `canon_rules.json` could not simply be
+                edited. Ledger section 56.
     """
+
+    # Loose matcher for one alternation token: letters, then optional digits.
+    # Deliberately wider than the allowed set, so `A0` and `A4` are FOUND and
+    # then fail validation rather than going unnoticed.
+    ALT_LOOSE = r"([A-Za-z]{1,3}\d{0,2})"
 
     def __init__(self, pattern):
         self.pattern = pattern
-        self.literals = []   # literal text before each numeric component
-        self.numerics = []   # (width, lo, hi) per numeric component
-        parts = re.split(r"\{(\d+)-(\d+)\}", pattern)
-        # parts alternates: literal, lo, hi, literal, lo, hi, ..., trailing literal
-        i = 0
-        while i < len(parts):
-            lit = parts[i]
-            if i + 2 < len(parts):
-                lo, hi = parts[i + 1], parts[i + 2]
-                self.literals.append(lit)
-                self.numerics.append((len(lo), int(lo), int(hi)))
-                i += 3
+        self.literals = []    # literal text before each component
+        self.components = []  # ("num", (width, lo, hi)) | ("alt", (label, {tokens}))
+        pos = 0
+        for m in COMPONENT_RX.finditer(pattern):
+            self.literals.append(pattern[pos:m.start()])
+            lo, hi, name, alts = m.groups()
+            if lo is not None:
+                self.components.append(("num", (len(lo), int(lo), int(hi))))
             else:
-                self.trailing = lit
-                break
-        else:
-            self.trailing = ""
+                self.components.append(
+                    ("alt", (name or "", tuple(a for a in alts.split("|") if a))))
+            pos = m.end()
+        self.trailing = pattern[pos:]
+        # Numerics kept for callers that only care about the numeric components.
+        self.numerics = [spec for kind, spec in self.components if kind == "num"]
+
+        def loose(n):
+            out = []
+            for lit, (kind, _) in zip(self.literals[:n], self.components[:n]):
+                out.append(re.escape(lit)
+                           + (r"(\d+)" if kind == "num" else self.ALT_LOOSE))
+            return "".join(out)
+
         # Loose finder: same literals, digits of ANY width. Malformed identifiers
         # match this and then fail component validation, which is the point.
-        loose = "".join(re.escape(l) + r"(\d+)" for l in self.literals)
-        self.finder = re.compile(loose + re.escape(self.trailing))
+        self.finder = re.compile(loose(len(self.literals)) + re.escape(self.trailing))
         # Prefix forms: a token may legitimately stop at an earlier component
         # (an act ID stops before the episode component).
-        self.prefixes = []
-        for n in range(1, len(self.literals) + 1):
-            loose_n = "".join(re.escape(l) + r"(\d+)" for l in self.literals[:n])
-            self.prefixes.append(re.compile(loose_n + r"(?![\d.])"))
+        self.prefixes = [re.compile(loose(n) + r"(?![\d.])")
+                         for n in range(1, len(self.literals) + 1)]
 
     def find_candidates(self, text):
         """Yield (token, start_offset) for anything SID-shaped, valid or not."""
@@ -187,10 +210,18 @@ class SidFormat:
                 yield m.group(0), m.start(), m.groups()
 
     def validate(self, groups):
-        """Return a list of problems for the numeric components of a candidate."""
+        """Return a list of problems for the components of a candidate."""
         problems = []
         for idx, raw in enumerate(groups):
-            width, lo, hi = self.numerics[idx]
+            kind, spec = self.components[idx]
+            if kind == "alt":
+                name, allowed = spec
+                if raw not in allowed:
+                    problems.append(
+                        f"{raw} is not a valid {name or 'component'}: "
+                        f"{', '.join(allowed)}")
+                continue
+            width, lo, hi = spec
             label = self.literals[idx].lstrip(".") or f"component {idx + 1}"
             if len(raw) != width:
                 problems.append(
@@ -433,18 +464,15 @@ def check_milestone_grid(path, rules, vocab, out, notices):
                 "CHK_GRID_TARGET", rel(path), lineno, tri,
                 f"{mid} target_trilogy expects one of {', '.join(sorted(trilogies))}"))
         act = cell(row, "target_act")
+        # `EP` carried a notice-instead-of-violation carve-out here until
+        # 2026-09-20. Ruling 6 removed the need for it: PR and EP are structural
+        # positions in the act slot, so they are ordinary members of
+        # `target_act_values` and the carve-out would now be dead code asserting
+        # a superseded reading. Ledger section 56.
         if act and act not in acts:
-            if act == "EP":
-                notices.append(Violation(
-                    "CHK_GRID_TARGET", rel(path), lineno, act,
-                    f"{mid} target_act is EP, which is not an act - all nine "
-                    f"books have three acts (27 is the cap). Whether EP belongs "
-                    f"in the act slot is an OPEN author question; reported as a "
-                    f"notice, not a violation. See CLAUDE.md section 4."))
-            else:
-                out.append(Violation(
-                    "CHK_GRID_TARGET", rel(path), lineno, act,
-                    f"{mid} target_act expects one of {', '.join(sorted(acts))}"))
+            out.append(Violation(
+                "CHK_GRID_TARGET", rel(path), lineno, act,
+                f"{mid} target_act expects one of {', '.join(sorted(acts))}"))
 
     # --- status vocabulary -------------------------------------------------
     allowed = {v.upper() for v in vocab.get("milestone_status", [])}
