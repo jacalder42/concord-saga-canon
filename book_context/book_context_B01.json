@@ -30,7 +30,24 @@
     }
   ],
   "locations_in_play": [
-    "TODO"
+    {
+      "_basis": "derived (partial)",
+      "_derivation": "DERIVED 2026-09-20 under Ruling 8: assignments are populated and marked PROVISIONAL IN THE FIELD rather than left empty. The place roster and every place-to-type assignment live in grids/locations_registry.csv, which carries the two-layer structure of Ruling 1 - the geography system supplies TYPES, city bibles supply NAMES that map onto a type. Contested ground (Tremé, Marigny, French Quarter, Bywater, Red Lantern Faultline) is assigned there, not omitted. `match` distinguishes an exact place-name hit from an alias inference such as \"the swamp\" -> Honey Island Swamp. Ledger section 61.",
+      "_gap": "PER-BOOK ROSTER IS NOT DERIVABLE AND IS NOT INVENTED HERE. No source maps places to books. The milestone grid names a location in only 3 of 9 books, so the entries below are the places this book's own milestones NAME - a floor, never a complete roster, and an empty list means no milestone in this book names a place, NOT that the book has no locations. Ruling 8 authorises deriving the TYPE layer, which is done; it does not supply a book dimension that no source contains. Listing the full 31-place roster under every book would assert that every place appears in every book, which is false. OPEN: a per-book location pass needs a source that does not yet exist. See CLAUDE.md section 4.",
+      "_registry": "grids/locations_registry.csv",
+      "_counts": {
+        "named_by_this_books_milestones": 1,
+        "places_in_registry": 31
+      }
+    },
+    {
+      "place_id": "NOLA-04",
+      "place": "Bywater",
+      "provisional_type": "ZONE_AMBER_DRIFT",
+      "type_status": "PROVISIONAL_DERIVED",
+      "evidence_milestone": "M01",
+      "match": "exact_name"
+    }
   ],
   "escalation_permissions": {
     "corridor": {

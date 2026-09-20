@@ -5532,4 +5532,85 @@ END OF ENTRY 60
 
 ===============================================================
 
+===============================================================
+
+# 61. Locations: the type layer derived, the book dimension absent — 2026-09-20
+
+Ruling 8 applied. It splits cleanly into a part that was fully derivable and a part that
+has **no source at all**, and the two must not be reported as one.
+
+## 1. The contested five, assigned — and four of them were never contested
+
+`grids/locations_registry.csv` is new: 31 places, canon-scope, carrying every
+place-to-type assignment with its status **in the field**, as Ruling 8 requires.
+
+The five contested rows are now assigned. **Applying Ruling 1 dissolved four of them
+rather than deciding them:**
+
+| Place | Was | Now | Why it was never a conflict |
+| --- | --- | --- | --- |
+| Tremé | contested | `ZONE_BLUE_PULSE` | Geography system gives the **type**; "Red Lantern Faultline" is a **name**. Different axes. |
+| Marigny | contested | `ZONE_BLUE_PULSE` | Same. |
+| Bywater | contested | `ZONE_AMBER_DRIFT` | Geography system gives the type; Flickers → Ghostwaves is **shard progression**, a severity scale Ruling 1 states is not a spatial taxonomy. |
+| Red Lantern Faultline | contested | `CORR_UNCLASSED` | A **name**, by its own source note. Ruling 2 geometry test: Tremé → Esplanade → Marigny is linear and connective → corridor; class unstated. |
+| French Quarter | contested | `ZONE_BLUE_PULSE` | **The one real inference.** See below. |
+
+Plus `NOLA-16` Blue Pulse Corridor → `CORR_UNCLASSED`, on the geometry test already
+written in its own source note.
+
+**The French Quarter is marked differently and deliberately**:
+`PROVISIONAL_INFERRED_FROM_NAME`, not `PROVISIONAL_DERIVED`. The geography system assigns
+it nothing; the only statement is bible membership of the named *"Blue Pulse Corridor"*.
+Taking a type from a name is the move **Ruling 1 explicitly warns against**, so the row
+says so and names itself the first to revisit. Flattening it into the other four would
+have hidden the weakest evidence in the table behind the strongest.
+
+**Ruling 8 was not applied to the eight `UNASSIGNED_NO_TYPE_IN_SOURCE` rows.** R8
+authorises deriving **contested** assignments — rows where two sources speak. For these,
+none does. Deriving from nothing is invention, not derivation, and each row now says that
+in place of a value.
+
+## 2. The book dimension does not exist
+
+`locations_in_play` is a **per-book** field. The two-layer structure has **no book
+dimension**, and nothing else in the repository supplies one.
+
+Measured rather than assumed: scanning all 36 milestone descriptions and notes against
+all 31 place names finds a location named in **3 of 9 books**.
+
+    B01  Bywater             exact_name        M01
+    B07  Honey Island Swamp  alias_inference   M28
+    B08  Honey Island Swamp  alias_inference   M31
+
+Each book's field carries the registry pointer, the derivation, the counts, and those
+entries — with `match` distinguishing an exact place-name hit from an alias inference
+(*"the swamp"* → Honey Island Swamp; the registry holds exactly one swamp). The inference
+is labelled rather than merged, because an exact name and a guess are not the same
+evidence.
+
+**Six books list nothing, and the field says what that means**: no milestone in the book
+names a place — *not* that the book has no locations.
+
+The alternative was listing all 31 places under every book. That would have produced a
+full-looking field asserting that every place appears in every book, which is false.
+
+**OPEN, flagged for the author**: a per-book location pass needs a source that does not
+yet exist.
+
+## 3. Count
+
+Real `TODO` placeholders: **29 → 20**. `locations_in_play` is closed on all nine.
+
+Remaining: `title` 9, `pov_targets` 9, B01 `entry_state` 2 — **20, not the 19 the queue
+projected**, for the reason in §59 §4.
+
+## 4. Verification
+
+Canon-scope **0**. All-scope **53**. Notices **0**. Tests **118**. The proposals-layer
+source file is unchanged; the registry is a derived copy, per §1.0.
+
+END OF ENTRY 61
+
+===============================================================
+
 END RECOVERY LEDGER
