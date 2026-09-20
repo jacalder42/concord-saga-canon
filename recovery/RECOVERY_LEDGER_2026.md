@@ -5958,4 +5958,98 @@ END OF ENTRY 65
 
 ===============================================================
 
+===============================================================
+
+# 66. Mara Niht — a cross-project import, and her source is not here — 2026-09-20
+
+Author ruling, given after §65 flagged the name collision:
+
+> *"Mara Niht is another music project we have that was inspired by the Concord world and
+> we have decided to integrate her with connections to Elisabet. Her music profile and
+> writings were included as part of the large chatGPT chat backup/export."*
+
+## 1. What this settles, and what it does not
+
+**Settled.** She originates in a **separate music project**, inspired by the Concord world
+rather than written for it. **Integration is decided.** She has **connections to
+Elisabet**.
+
+That last point upgrades one line of the manifest's `DO NOT LOCK` list. *"Exact
+relationship to Elisabet"* stays unlocked, but the question changed: the relationship
+**exists**, and only its nature is open. Her held row records the distinction rather than
+deleting the entry.
+
+**Still `DO NOT LOCK`**, unchanged: age, nationality, style, instrument, exact
+relationship to Elisabet, Resonance status, first appearance, Harpa role.
+
+**Corroboration worth recording**: `canon/characters/ElisabetID.md` gives **Elisabet
+Arnardóttir**, an Icelandic name, and `SECONDARY_TERTIARY_CHARACTER_AUDIT_PASS2` says Mara
+Niht *"links Elisabet's pre-saga Icelandic life to the living cultural world of the
+saga."* The ruling and the recovered material point the same way.
+
+## 2. She stays held — for the body, not for the decision
+
+Her status becomes `KEEP NAME / INTEGRATION RULED / BODY PENDING RECOVERY`.
+
+**Not promoted to the cast registry**, because every attribute is still `DO NOT LOCK`. A
+registry row would assert a migrated cast member with no recovered content behind it.
+**Promotion now waits on recovery, not on a further ruling** — the gate moved, and the
+row says which gate it is.
+
+## 3. Her source is NOT in this repository
+
+The author says the material was in the large backup. **It is not among the 21 sanitized
+exports here.** Searched 2026-09-20 across all of `recovery/source_exports/`:
+
+    Mara          0 files       Velvet Vein   0 files
+    Niht          0 hits        Harpa         0 files
+    singer        0 files       songwrit      0 files      lyric   0 files
+
+Zero, on every name variant and every term from her reserved function. The only
+`Mara Niht` string in the repository is this ledger.
+
+**This is the distinction work-queue item 6 exists to make.** `CLAUDE.md` §8 item 6: until
+the workspace inventory runs, *"not exported" and "does not exist" cannot be told apart.*
+Here it can now be stated precisely — **exported, but not into this repository** — because
+the author has confirmed the material exists.
+
+So `Develop Singer Style` joins `Spine Architect chat` and `Saga Visual Bible Framework`
+(§23) as a **named, confirmed-to-exist recovery target**. It is the strongest of the
+three: the other two are inferred from references inside the exports, while this one the
+author has confirmed directly.
+
+## 4. A prose guardrail, stated before it is needed
+
+Her **writings** are presumably lyrics or poetry.
+
+`CLAUDE.md` §1: *"No prose, scene text, or dialogue is stored here. If a task would put
+narrative prose in this repo, stop and say so instead."*
+
+**When the body is recovered, the writings themselves do not land in this repository** —
+only structured references to them. Recording this now, while recovery is still ahead,
+rather than at the moment someone is holding the text and looking for somewhere to put
+it.
+
+## 5. An open question the tier scheme does not cover
+
+The tiers (§5) describe **Concord-internal authority**: locked source canon, approved
+development output, existing GitHub canon, other recovered sources, memory.
+
+**Mara Niht is none of these.** She is another project's material, authored outside the
+saga, imported into it by decision. Her music profile has its own provenance and its own
+prior authority, and "Tier D — other sources" flattens that into the same bucket as a
+Notion page.
+
+**Not resolved here.** It is a small question while she is the only case, and a real one
+if more cross-project integration follows. Flagged rather than answered, per §4.
+
+## 6. Verification
+
+Canon-scope **0**. Notices **0**. Tests **127**. No source export was read into canon; the
+search was read-only.
+
+END OF ENTRY 66
+
+===============================================================
+
 END RECOVERY LEDGER

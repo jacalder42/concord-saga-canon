@@ -295,6 +295,16 @@ Never decide, invent, or quietly resolve:
   carries no mark. The ND labels describe how current authority treats a *source*, not how
   a later pass treats an earlier *finding*, so corrections accumulate in new files while
   the superseded entries keep reading as current. Ledger §26.12.
+- **How does cross-project material carry its provenance?** Open, raised 2026-09-20 by
+  the first case. **Mara Niht** is another music project's character, authored outside the
+  saga and integrated into it by ruling (§66). The tier scheme (§5) describes
+  Concord-internal authority only — locked canon, approved development output, existing
+  GitHub canon, other recovered sources, memory — and **Tier D flattens another project's
+  own canon into the same bucket as a Notion page.** Small while she is the only case;
+  real if more cross-project integration follows. Ledger §66 §5.
+
+  Her **writings must not land in this repository** when recovered — §1's no-prose rule
+  covers lyrics and poetry. Only structured references. Ledger §66 §4.
 - **E19 and beyond.** E19 is named but never built. Do not generate, draft, or outline
   it. The prohibition stands until James lifts it.
 
@@ -612,10 +622,21 @@ the envelope**. What remains: item 1 is ruled (merge, §6.1) but not performed o
    distinction was assumed rather than established — the 21 exports are the archive
    layer, not the development layer, as
    `proposals/concord-2026/EXPORT_INVENTORY_AND_MISSING_SOURCE_MAP.md` §3 already
-   records. **Two concrete targets found 2026-09-19** (§23): `Spine Architect chat`,
+   records. **Three concrete targets.** Found 2026-09-19 (§23): `Spine Architect chat`,
    named as the owner of saga-wide continuity storage, and `Saga Visual Bible
-   Framework`. Neither is among the 21 exports. Sanitization stripped every
-   conversation ID, so the exports cannot be mined for more
+   Framework`. Added 2026-09-20 (§66): **`Develop Singer Style`**, holding Mara Niht's
+   music profile and writings.
+
+   **`Develop Singer Style` is the strongest of the three**, and the only one whose
+   existence rests on more than inference: the author has confirmed the material was in
+   the large backup, and a search of all 21 exports returns **zero hits** on `Mara`,
+   `Niht`, `Velvet Vein`, `Harpa`, `singer`, `songwrit` and `lyric`. So for this one item
+   the §8 item-6 ambiguity is already resolved — it is **exported but not into this
+   repository**, not *missing*. The other two are inferred from references inside the
+   exports.
+
+   None is among the 21 exports. Sanitization stripped every conversation ID, so the
+   exports cannot be mined for more
 7. Extract remaining Tier 1 conversations, `Archive Veil Book 1` first — this is where
    the E00–E15 packets are expected to be. **Confirmed still necessary 2026-09-19:** the
    Notion `BOOK 1 — VEIL I (Final Beat Bible)` was read and does **not** hold them. It
