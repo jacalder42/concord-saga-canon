@@ -39,7 +39,7 @@
       ]
     },
     "source": "act_overlays/ rolled up 2026-09-20; the act values themselves come from proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
-    "unresolved": "This derived envelope EXCEEDS its trilogy container in rules/trilogy_context_T2_neon.json: corridor U6 exceeds trilogy corridor_max U5; weather W4 exceeds trilogy weather_max W3; fx FX3 exceeds trilogy fx_max FX2. The act layer is narrative-derived and the trilogy scalars are older author-set ceilings that were never reconciled when the per-act bands landed. OPEN author question - see CLAUDE.md section 4 and ledger section 53. Not resolved here."
+    "superseded_finding": "CLOSED 2026-09-20. This field recorded that the book's derived band exceeded its trilogy container. The trilogy containers are now DERIVED from the books beneath them by the same rollup, so a book cannot exceed a container computed from itself and the breach no longer exists. Ledger section 57. TWO CORRECTIONS to what this field said: (1) it called the trilogy scalars \"older author-set ceilings that were never reconciled\". They were not. All three trilogy files carried identical W3/U5 beside an unfilled TODO reading \"Populate trilogy-specific ceilings and exceptions\" - SKELETON DEFAULTS, never populated. Same class of misattribution as the two CLAUDE.md errors in ledger section 52. (2) it counted fx as a breached axis. There is no trilogy fx_max; `default_vfx_ceiling` is a DEFAULT, and exceeding a default is not a breach."
   },
   "continuity_hooks": [
     "TODO"

@@ -4929,6 +4929,16 @@ for the saga rather than per trilogy.
 Each of the six books records the breach in an `unresolved` field on its envelope. Nothing
 was changed in `rules/trilogy_context_*.json`.
 
+> **Corrected 2026-09-20, §57.** This section reasoned about the trilogy scalars as though
+> they were *values someone chose*. They were not. All three trilogy files carried
+> identical `W3`/`U5` beside an unfilled `TODO` reading *"Populate trilogy-specific
+> ceilings and exceptions"* — **skeleton defaults, never populated.** Read that way there
+> was never a contradiction between two authored layers, only one layer that had been
+> filled and one that had not. This section's *"wider act than the ruling authorized"*
+> caution was therefore more cautious than the facts required. Same class of
+> misattribution as the two CLAUDE.md errors in §52. Section 4 of this entry also counted
+> `fx` among the breached axes; there is no trilogy `fx_max`.
+
 **Why this is the author's call and not a rollup.** Ruling 2 says envelopes are derived,
 which would make the trilogy ceilings the max of their three books — `U6`/`W4`/`FX3` for
 both T2 and T3. That is the consistent reading, and there is precedent: T1's
@@ -5211,6 +5221,95 @@ act-prefix forms still parse, the whole live grid passes with its `EP` rows, and
 `EP` rows are still present — so the cleared notices cannot have come from losing rows.
 
 END OF ENTRY 56
+
+===============================================================
+
+===============================================================
+
+# 57. The trilogy envelopes, derived — the contradiction dissolves — 2026-09-20
+
+**Notices 13 → 0.** Canon-scope **0**. Tests **109 → 111**.
+
+## 1. The finding that changes §53 §2
+
+§53 §2 recorded 13 axis-breaches and framed them as a contradiction between the
+narrative-derived act layer and the trilogy layer, calling the trilogy values *"older
+author-set ceilings"*. **That was wrong, and it is the same class of error as §52's two.**
+
+All three trilogy files carried identical `weather_max: W3` / `corridor_max: U5` beside:
+
+    "TODO": "Populate trilogy-specific ceilings and exceptions."
+
+**Skeleton defaults. Never populated.** No author set them; the identical values across
+three tonally different trilogies were the tell, and §53 noticed the tell without drawing
+the conclusion.
+
+So there were never two authored layers disagreeing. There was one layer filled and one
+layer still holding its placeholder — and the caution in §53 about "a wider act than the
+ruling authorized" was more cautious than the facts required.
+
+## 2. What was written
+
+`environment_envelope` on all three trilogy files moves to the band shape, derived from
+the nine books by the same rollup the books use on the acts:
+
+| Trilogy | books | corridor | weather | exceptions |
+| --- | --- | --- | --- | --- |
+| T1 Veil | B01–B03 | U1–U5 | W0–W3 | 1 |
+| T2 Neon | B04–B06 | U2–U6 | W1–W4 | 0 |
+| T3 Loom | B07–B09 | U3–U6 | W2–W4 | 0 |
+
+B03's `W4` VT-brush exception propagates up with both a `from_act` and a `from_book`
+pointer, so it is traceable from the trilogy down to the episode.
+
+Each carries `soft_ceiling` recording Ruling 5 in the file itself, and `supersedes`
+recording exactly what the scalars were. The `TODO` is closed and says why.
+
+**The 13 breach notices cleared by construction** — a book cannot exceed a container
+computed from itself. That was the predicted outcome and it is the right kind of
+verification: the number went to zero because the arithmetic made it impossible, not
+because a check was loosened.
+
+## 3. `fx` is a default, not a ceiling
+
+There is no trilogy `fx_max`. The era envelope carries `default_vfx_ceiling` — the FX
+level to assume when nothing says otherwise — and **exceeding a default is not a breach.**
+
+`CHK_CONTAINMENT` was checking it as one, which produced 3 of the 13 notices (B04, B05,
+B06) and put `fx` into six book `unresolved` notes as a breached axis. `container_band()`
+now returns `None` for `fx` and the checker skips it, with the reason in the docstring and
+a test asserting it.
+
+The derived fx band is still recorded on each trilogy as
+`fx_band_derived_from_books`, **for reference only**, next to a field naming the
+distinction. Losing the number would have been the wrong fix.
+
+## 4. The six book notes, corrected
+
+The `unresolved` field on B04–B09 is replaced by `superseded_finding`, which records the
+closure and **both things the old field got wrong**: the "author-set ceilings"
+misattribution, and counting `fx` as a breached axis. The old field name was itself
+misleading once the question closed.
+
+## 5. Tests
+
+**109 → 111.** `test_the_live_breach_count_is_thirteen` becomes
+`test_the_live_breach_count_is_zero`, with the reason stated: both layers derive from the
+same rollup, so any breach means a hand-edit. Two added:
+`test_fx_is_never_a_breach`, and
+`test_every_book_band_is_inside_its_derived_trilogy_band`, which asserts the rollup's
+defining property directly for all nine books rather than inferring it from a zero count.
+
+The fitting/breaching fixtures now read the live trilogy caps rather than hardcoding
+`U5`/`W3`, so they track the data instead of pinning the superseded values.
+
+## 6. Verification
+
+Canon-scope **0**. All-scope **52**, unchanged by this commit — the earlier 50 predated
+ledger §56, which quotes `S1.T1.B3.EP.E01` twice as evidence and so adds two one-digit-book
+detections to its own file. Notices **0**. Tests **111**.
+
+END OF ENTRY 57
 
 ===============================================================
 

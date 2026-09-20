@@ -724,12 +724,20 @@ def containment_notices(data, path=BOOK_FIXTURE):
     return notices
 
 
-def _band(corridor="U1", weather="W0", fx="FX0", tri="T1"):
+def _band(corridor="U1", weather="W0", fx="FX0", tri="T1", exceptions=()):
     return {"trilogy_id": tri, "escalation_permissions": {
         "corridor": {"min": "U1", "max": corridor},
         "weather": {"min": "W0", "max": weather},
         "fx": {"min": "FX0", "max": fx},
-        "exceptions": [], "basis": "derived"}}
+        "exceptions": list(exceptions), "basis": "derived"}}
+
+
+def _trilogy_cap(tri):
+    """The live trilogy container's max per axis, for tests that must track it."""
+    with open(vc.TRILOGY_CONTEXTS[tri], encoding="utf-8") as fh:
+        c = json.load(fh)
+    return {ax: (vc.container_band(c, ax) or {}).get("max")
+            for ax in ("corridor", "weather", "fx")}
 
 
 class BookEnvelopeIsRequired(unittest.TestCase):
@@ -799,26 +807,55 @@ class TrilogyContainmentIsANoticeNotAViolation(unittest.TestCase):
     """
 
     def test_a_fitting_envelope_produces_no_notice(self):
-        self.assertEqual(containment_notices(_band("U5", "W3", "FX2")), [])
+        cap = _trilogy_cap("T1")
+        self.assertEqual(
+            containment_notices(_band(cap["corridor"], cap["weather"], "FX3")), [])
 
     def test_a_breaching_envelope_produces_a_notice(self):
-        out = containment_notices(_band("U6", "W3", "FX2"))
+        out = containment_notices(_band("U7", "W0", "FX0"))
         self.assertEqual([n.check for n in out], ["CHK_CONTAINMENT"])
-        self.assertEqual(out[0].token, "U6")
+        self.assertEqual(out[0].token, "U7")
 
-    def test_each_axis_is_reported_separately(self):
-        out = containment_notices(_band("U6", "W4", "FX3", tri="T2"))
-        self.assertEqual(len(out), 3)
+    def test_two_breached_axes_are_reported_separately(self):
+        out = containment_notices(_band("U7", "W4", "FX0"))
+        self.assertEqual(len(out), 2, "corridor and weather, each on its own line")
 
-    def test_the_live_breach_count_is_thirteen(self):
-        """B04 fx; B05-B06 all three; B07-B09 corridor and weather."""
+    def test_fx_is_never_a_breach(self):
+        """`default_vfx_ceiling` is a DEFAULT, not a ceiling. Ruling of 2026-09-20.
+
+        Treating it as one produced three spurious notices (B04, B05, B06) before
+        the trilogy envelopes were derived. Ledger section 57.
+        """
+        out = containment_notices(_band("U1", "W0", "FX3", tri="T1"))
+        self.assertEqual(out, [], "exceeding a default is not a breach")
+        self.assertIsNone(vc.container_band({"era_envelope": {}}, "fx"))
+
+    def test_the_live_breach_count_is_zero(self):
+        """Was 13. Both layers are now derived by the same rollup.
+
+        A book cannot exceed a container computed from itself, so any breach here
+        means one of the two layers was hand-edited out of agreement.
+        """
         import glob as _glob
         total = []
         for f in sorted(_glob.glob(os.path.join(vc.REPO, "book_context", "*.json"))):
             with open(f, encoding="utf-8") as fh:
                 vc.check_trilogy_containment(f, json.load(fh), VOCAB, total)
-        self.assertEqual(len(total), 13)
-        self.assertEqual({n.check for n in total}, {"CHK_CONTAINMENT"})
+        self.assertEqual([n.detail for n in total], [])
+
+    def test_every_book_band_is_inside_its_derived_trilogy_band(self):
+        """The rollup's defining property, asserted directly rather than inferred."""
+        import glob as _glob
+        for f in sorted(_glob.glob(os.path.join(vc.REPO, "book_context", "*.json"))):
+            with open(f, encoding="utf-8") as fh:
+                d = json.load(fh)
+            cap = _trilogy_cap(d["trilogy_id"])
+            for ax in ("corridor", "weather"):
+                order = [v.upper() for v in VOCAB[vc.BAND_AXIS_VOCAB[ax]]]
+                self.assertLessEqual(
+                    order.index(d["escalation_permissions"][ax]["max"]),
+                    order.index(cap[ax]),
+                    f"{os.path.basename(f)} {ax} exceeds its own trilogy rollup")
 
     def test_breaches_do_not_reach_the_violation_list(self):
         """A notice must never change the exit code."""

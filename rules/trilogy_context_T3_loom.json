@@ -12,11 +12,28 @@
       "H2",
       "H3",
       "H4"
-    ]
+    ],
+    "default_vfx_ceiling_is_a_default_not_a_ceiling": "There is no trilogy fx_max. `default_vfx_ceiling` is a DEFAULT: the FX level to assume when nothing says otherwise. Exceeding it is NOT a breach and is not reported as one. The fx band derived from this trilogy's books is FX2-FX3, recorded here for reference only.",
+    "fx_band_derived_from_books": {
+      "min": "FX2",
+      "max": "FX3"
+    }
   },
   "environment_envelope": {
-    "weather_max": "W3",
-    "corridor_max": "U5"
+    "corridor": {
+      "min": "U3",
+      "max": "U6"
+    },
+    "weather": {
+      "min": "W2",
+      "max": "W4"
+    },
+    "exceptions": [],
+    "basis": "derived",
+    "derivation": "Union of the three book envelopes beneath this trilogy (B07, B08, B09), each itself a union of its three act bands: min of mins, max of maxes, per axis. No judgement was applied to any value. Regenerate rather than hand-edit.",
+    "soft_ceiling": "SOFT. Ruled 2026-09-20, GATE_RULINGS_2026-09-20.md Ruling 5: a trilogy ceiling is a tripwire, not a wall. Specific events may run briefly over or under it, but every breach must be DECLARED in `exceptions` above. An undeclared breach is a violation; a declared one is a notice.",
+    "supersedes": "Replaces scalar weather_max/corridor_max, which read W3/U5 in all three trilogies alongside an unfilled TODO reading \"Populate trilogy-specific ceilings and exceptions.\" They were SKELETON DEFAULTS, never populated - not author-set ceilings. Ledger section 57.",
+    "source": "book_context/ rolled up 2026-09-20"
   },
   "hard_constraints": [
     "MT!=VT!=LT",
@@ -31,5 +48,5 @@
       "Do not give everyone an epilogue card."
     ]
   },
-  "TODO": "Populate trilogy-specific ceilings and exceptions."
+  "_todo_closed": "The TODO \"Populate trilogy-specific ceilings and exceptions\" is closed 2026-09-20: the ceilings are derived from the books beneath this trilogy and the exceptions list is populated from theirs. Ledger section 57."
 }

@@ -615,7 +615,18 @@ file it names. No fix has been applied; two of the five need a ruling before one
   now reads 73 `Technarc`, 0 `Technarch` outside `CLAUDE.md` and `recovery/`, which
   quote the retired spelling as evidence. Ledger §16.1 records what changed and why the
   `RexID.md` naming-variance entry reads better afterwards.
-- **Trilogy envelopes contradict the escalation model. REOPENED 2026-09-20.** The
+- ~~**Trilogy envelopes contradict the escalation model.**~~ **RESOLVED 2026-09-20 —
+  the trilogy layer is now derived too, and the contradiction dissolved rather than being
+  adjudicated.** The trilogy scalars were **skeleton defaults**, not author-set ceilings:
+  all three files carried identical `W3`/`U5` beside an unfilled `TODO` reading *"Populate
+  trilogy-specific ceilings and exceptions"*. So there were never two authored layers
+  disagreeing — one was filled and one still held its placeholder. `environment_envelope`
+  now carries bands rolled up from the nine books, the 13 breach notices cleared **by
+  construction**, and `fx` is no longer checked as a ceiling because
+  `default_vfx_ceiling` is a **default**. Ledger §57. The reopening text below is kept as
+  the record of what was found, including what it got wrong:
+
+  **Reopened 2026-09-20, then closed the same day.** The
   2026-09-19 entry below marked this resolved. It was not: the per-act bands were *added*
   and the trilogy scalars were never reconciled to them. Deriving the book layer put both
   in one cascade and exposed **13 axis-breaches across six of the nine books**. All three

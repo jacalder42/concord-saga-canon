@@ -630,14 +630,31 @@ def check_book_envelope(path, data, out):
             "derived block cannot be told from a hand-set one."))
 
 
+def container_band(container, axis):
+    """The trilogy's band for an axis, or None if that axis has no ceiling.
+
+    `fx` deliberately returns None. There is no trilogy `fx_max`: the era envelope
+    carries `default_vfx_ceiling`, which is a DEFAULT - the level to assume when
+    nothing says otherwise - and exceeding a default is not a breach. Treating it as
+    one produced three spurious notices before 2026-09-20. Ledger section 57.
+    """
+    if axis == "fx":
+        return None
+    band = container.get("environment_envelope", {}).get(axis)
+    return band if isinstance(band, dict) else None
+
+
 def check_trilogy_containment(path, data, vocab, notices):
     """Does a book's derived envelope fit inside its trilogy container?
 
-    Reported as NOTICES, never violations. Six of the nine books breach their
-    container as of 2026-09-20, and whether the trilogy scalars give way or the act
-    bands do is an OPEN author question - the same treatment the `EP`-slot question
-    gets in the milestone grid. This check exists so the breach cannot go quiet
-    again, not to decide it. Ledger section 53 part 2.
+    Since 2026-09-20 both layers are derived by the same rollup, so a book cannot
+    exceed a container computed from itself and this should be silent. It is kept
+    as a ratchet: if either layer is later hand-edited out of agreement, the
+    disagreement surfaces instead of sitting in the data.
+
+    Reported as NOTICES. Under Ruling 5 a trilogy ceiling is soft, so exceeding it
+    is not by itself an error - `check_declared_exceptions` is what decides whether
+    a breach is declared. Ledger section 53 part 2, section 57.
     """
     if not rel(path).startswith(BOOK_CONTEXT_DIR):
         return
@@ -650,28 +667,24 @@ def check_trilogy_containment(path, data, vocab, notices):
             container = json.load(fh)
     except (OSError, json.JSONDecodeError):
         return                      # the trilogy file has its own checks
-    caps = {
-        "corridor": container.get("environment_envelope", {}).get("corridor_max"),
-        "weather": container.get("environment_envelope", {}).get("weather_max"),
-        "fx": container.get("era_envelope", {}).get("default_vfx_ceiling"),
-    }
     for axis, dim in BAND_AXIS_VOCAB.items():
-        cap = caps.get(axis)
+        cap_band = container_band(container, axis)
         band = ep.get(axis)
-        if not isinstance(band, dict) or not isinstance(cap, str):
+        if cap_band is None or not isinstance(band, dict):
             continue
         order = [v.upper() for v in vocab[dim]]
-        hi = band.get("max")
-        if not isinstance(hi, str) or hi.upper() not in order or cap.upper() not in order:
+        hi, cap = band.get("max"), cap_band.get("max")
+        if not isinstance(hi, str) or not isinstance(cap, str):
+            continue
+        if hi.upper() not in order or cap.upper() not in order:
             continue
         if order.index(hi.upper()) > order.index(cap.upper()):
             notices.append(Violation(
                 "CHK_CONTAINMENT", rel(path), None, hi,
-                f"{axis}.max {hi} exceeds the {tri} container's "
-                f"{'default_vfx_ceiling' if axis == 'fx' else axis + '_max'} {cap}. "
-                f"The book band is derived from its acts; the trilogy scalar predates "
-                f"them and was never reconciled. OPEN author question, reported as a "
-                f"notice. See CLAUDE.md section 9.1."))
+                f"{axis}.max {hi} exceeds the {tri} container's {axis}.max {cap}. "
+                f"Both layers are derived by the same rollup, so this should be "
+                f"impossible - it means one of them was hand-edited. Ruling 5 makes "
+                f"the ceiling soft, so see CHK_DECLARED for whether it is declared."))
 
 
 def check_json(path, vocab, out):
