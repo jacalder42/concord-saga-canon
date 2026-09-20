@@ -5076,4 +5076,62 @@ END OF ENTRY 54
 
 ===============================================================
 
+===============================================================
+
+# 55. Five author rulings — 2026-09-20
+
+`recovery/GATE_RULINGS_2026-09-20.md`, committed verbatim. Continues the four gates of
+2026-09-19. Each closes a question `CLAUDE.md` records as open.
+
+| # | Ruling | Closes |
+| --- | --- | --- |
+| R5 | Trilogy ceilings are **soft**; every breach must be **declared** | §9.1 trilogy contradiction, ledger §53 §2 |
+| R6 | `PR` and `EP` sit **outside** the act model; 27 acts stands | §4 *"Does `EP` go in the act slot?"* |
+| R7 | Pressure is calibrated **per trilogy** | §8.0 pressure provisionality, ledger §43 |
+| R8 | Location assignments **derived now**, provisional **in the field** | §8.0 locations blocker, R1 qualification |
+| R9 | POV rotation **derived** as an initial proposal; weights authored | §8.0 POV allocation |
+
+## 1. The common move
+
+Four of the five replace *leave it empty until ruled* with **derive it and mark it
+provisional**. That is a change of default, and it is the reason this queue exists: the
+material to derive from was already in the repository, and the containers were empty
+because emptiness had been read as the safe choice.
+
+It is not always the safe choice. An empty field cannot be checked, cannot be cited, and
+cannot be corrected — it only looks conservative. A derived field marked provisional
+carries its own uncertainty and can be regenerated when its source changes.
+
+**What did not move**: `title`, `pov_targets` weights, and B01's `entry_state`. Those
+require authorial statement and no derivation can supply them.
+
+## 2. R5 reframes the §53 §2 finding rather than deciding it
+
+§53 §2 asked which layer was wrong, the act bands or the trilogy scalars. R5's answer is
+that a band which may deliberately be crossed is not contradicted by crossing it — what
+matters is whether the crossing is **declared**. Undeclared is a violation; declared is a
+notice.
+
+This does not by itself legitimize the 13 breaches. It sets the rule under which the next
+entry's derivation decides their fate.
+
+## 3. R6 unblocks five milestone rows
+
+The `EP`-slot question has blocked `M10`, `M11`, `M23`, `M35` and `M36` since the grid
+loaded (§41, §42). R6 answers it by rejecting the framing: the slot is not an *act* slot
+but a **structural-position** slot, of which `A1`–`A3` are three values and `PR`/`EP` are
+two more. 27 acts remains the cap because a prologue is not an act.
+
+This sits well with the source asymmetry in §27.7 — prologue inside ACT I, epilogues
+outside the acts — without needing it resolved: both get a position.
+
+## 4. Verification
+
+No substrate file touched. Canon-scope **0**, all-scope **35**, 100 tests, **18 notices**
+— unchanged, as a rulings-only commit should be.
+
+END OF ENTRY 55
+
+===============================================================
+
 END RECOVERY LEDGER
