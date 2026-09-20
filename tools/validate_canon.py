@@ -34,6 +34,10 @@ CHK_ENVELOPE     Every `book_context` file carries a band-shaped
 CHK_CONTAINMENT  A book's derived envelope is compared against its trilogy container.
                  Reported as NOTICES: six of nine books breach as of 2026-09-20, and
                  which layer gives way is an open author question, not a format error.
+CHK_GRID_THREAD  Every milestone row names a thread from `controlled_vocab.threads`.
+                 `UNSCORED` is a member, so an unsettled row states that it is
+                 unsettled; an EMPTY cell is a violation, because it cannot be told
+                 apart from an oversight.
 CHK_VT_CAP       `VT` Glimpses are capped at 10-12 across all nine books
                  (`supplement_system.constraints`). Exceeding the maximum is a
                  violation; being under the minimum is not, since the saga is
@@ -474,6 +478,27 @@ def check_milestone_grid(path, rules, vocab, out, notices):
             out.append(Violation(
                 "CHK_GRID_TARGET", rel(path), lineno, act,
                 f"{mid} target_act expects one of {', '.join(sorted(acts))}"))
+
+    # --- thread must be a member of the reconciled vocabulary ------------
+    # Ruling 7 of 2026-09-20. `UNSCORED` is a MEMBER, not a gap: a row whose thread the
+    # author has not settled says so explicitly rather than leaving an empty cell, the
+    # same posture Ruling 8 takes for provisional locations. An empty cell is a
+    # violation precisely because it is indistinguishable from an oversight.
+    threads = {t.upper() for t in vocab.get("threads", [])}
+    if threads and "thread" in idx:
+        for lineno, row in enumerate(data, 2):
+            th = cell(row, "thread")
+            if not th:
+                out.append(Violation(
+                    "CHK_GRID_THREAD", rel(path), lineno, "",
+                    f"{cell(row, 'milestone_id')} thread is empty; use UNSCORED when "
+                    f"the thread is not yet settled, so an unsettled row cannot be "
+                    f"mistaken for an overlooked one"))
+            elif th.upper() not in threads:
+                out.append(Violation(
+                    "CHK_GRID_THREAD", rel(path), lineno, th,
+                    f"{cell(row, 'milestone_id')} thread expects one of "
+                    f"{', '.join(sorted(vocab['threads']))}"))
 
     # --- status vocabulary -------------------------------------------------
     allowed = {v.upper() for v in vocab.get("milestone_status", [])}

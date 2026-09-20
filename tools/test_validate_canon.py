@@ -569,7 +569,8 @@ LIVE_GRID = os.path.join(
     os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
     "grids", "milestones_payoffs.csv")
 GRID_HEADER = ",".join(RULES["milestone_grid"]["columns"]) + "\n"
-GRID_ROW = ("M01,MT,LitRPG Fan,a milestone,T1,B01,A1,E05,2,3,,MED,Y,,,,,proposed,note\n")
+GRID_ROW = ("M01,MT,LitRPG Fan,a milestone,T1,B01,A1,E05,mt,2,3,,MED,Y,,,,,"
+            "proposed,note\n")
 
 
 def grid_problems(content):
@@ -618,14 +619,15 @@ class MilestoneGridRatchet(unittest.TestCase):
 
     # --- required_setups ------------------------------------------------
     def test_dangling_required_setup_is_flagged(self):
-        row = GRID_ROW.replace(",MED,Y", ",MED,Y").replace("E05,2,3,,", "E05,2,3,M99,")
+        row = GRID_ROW.replace("E05,mt,2,3,,", "E05,mt,2,3,M99,")
         out, _ = grid_problems(GRID_HEADER + row)
         bad = [p for p in out if p.check == "CHK_GRID_SETUPS"]
         self.assertTrue(bad)
         self.assertEqual(bad[0].token, "M99")
 
     def test_resolving_required_setup_passes(self):
-        second = GRID_ROW.replace("M01,", "M02,", 1).replace("E05,2,3,,", "E05,2,3,M01,")
+        second = GRID_ROW.replace("M01,", "M02,", 1).replace("E05,mt,2,3,,",
+                                                             "E05,mt,2,3,M01,")
         out, _ = grid_problems(GRID_HEADER + GRID_ROW + second)
         self.assertEqual([p for p in out if p.check == "CHK_GRID_SETUPS"], [])
 
@@ -674,6 +676,55 @@ class MilestoneGridRatchet(unittest.TestCase):
     def test_a_fourth_act_is_still_a_violation(self):
         out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace(",A1,", ",A4,"))
         self.assertTrue([p for p in out if p.check == "CHK_GRID_TARGET"])
+
+    # --- thread, Ruling 7 (2026-09-20) ------------------------------------
+    def test_a_valid_thread_passes(self):
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW)
+        self.assertEqual([p for p in out if p.check == "CHK_GRID_THREAD"], [])
+
+    def test_unscored_is_a_member_not_a_gap(self):
+        """An unsettled row must be able to SAY it is unsettled."""
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace(",mt,", ",UNSCORED,"))
+        self.assertEqual([p for p in out if p.check == "CHK_GRID_THREAD"], [])
+
+    def test_an_empty_thread_is_a_violation(self):
+        """The whole point of UNSCORED: an empty cell cannot be told from an oversight."""
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace(",mt,", ",,"))
+        bad = [p for p in out if p.check == "CHK_GRID_THREAD"]
+        self.assertTrue(bad)
+        self.assertIn("UNSCORED", bad[0].detail)
+
+    def test_an_unknown_thread_is_a_violation(self):
+        out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace(",mt,", ",veil,"))
+        self.assertTrue([p for p in out if p.check == "CHK_GRID_THREAD"])
+
+    def test_veil_was_renamed_to_world(self):
+        """Ledger 43 proposed `veil`; it collides with T1's name. Ruling 7 took `world`."""
+        self.assertIn("world", VOCAB["threads"])
+        self.assertNotIn("veil", VOCAB["threads"])
+
+    def test_institutions_split_into_named_factions(self):
+        """Grouping them could not separate B08's Technarc collapse from its neighbours."""
+        for t in ("dominion", "technarc", "choirless"):
+            self.assertIn(t, VOCAB["threads"])
+        self.assertNotIn("institutions", VOCAB["threads"])
+
+    def test_every_live_row_names_a_thread(self):
+        with open(LIVE_GRID, encoding="utf-8") as fh:
+            out, _ = grid_problems(fh.read())
+        self.assertEqual([p for p in out if p.check == "CHK_GRID_THREAD"], [])
+
+    def test_the_pressure_columns_are_thread_scoped(self):
+        """Ruled: world pressure should not affect romance. The name says whose it is."""
+        cols = RULES["milestone_grid"]["columns"]
+        self.assertIn("thread_pressure_before", cols)
+        self.assertIn("thread_pressure_after", cols)
+        self.assertNotIn("pressure_before", cols)
+
+    def test_the_scale_is_not_saga_absolute(self):
+        scale = RULES["milestone_grid"]["pressure_scale"]
+        self.assertTrue(scale["levels_extensible"])
+        self.assertIn("PER TRILOGY", scale["calibration"])
 
     def test_the_live_grid_raises_no_ep_notices(self):
         """Was 5. The five EP rows validate as ordinary rows now."""

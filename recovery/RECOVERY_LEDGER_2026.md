@@ -5761,4 +5761,128 @@ END OF ENTRY 63
 
 ===============================================================
 
+===============================================================
+
+# 64. `thread` lands; pressure becomes thread-scoped — 2026-09-20
+
+Five answers from the open-items review, applied together because they are one design.
+
+## 1. The ruling that decides the shape
+
+> *"World pressure should not effect romance."*
+
+That settles what §43 §2 could only observe. The column was recording two quantities at
+once, and the evidence was five rows opening **below** the previous row's close — `M04`,
+`M07`, `M09`, `M17`, `M18`. `M07`, the Caro–Elisabet bond, opens at 3 when `M06` closed at
+4. A single world scale cannot do that. Read against its own thread, it is ordinary.
+
+So `pressure_before` / `pressure_after` become **`thread_pressure_before` /
+`thread_pressure_after`**: each row's pressure measures **its own thread**.
+
+**The rename states intent; it does not certify the 36 values.** They were scored before
+the column existed, so their provenance is mixed — some world readings, some thread
+readings. `_pressure_note` says so in the schema, and every row remains `proposed`. Rows
+carrying a non-`world` thread need re-scoring. **Renaming without that caveat would have
+been the exact error the proposal warned about in its own §1** — making the documentation
+definite and the data false.
+
+## 2. The thread vocabulary, reconciled
+
+Two lists were on file. Ledger §43 §2: `veil · mt · tahl · silence_hope · institutions ·
+filaments · caro_elisabet`. The open-items proposal §2: the POV baton leads plus the
+faction lines. **Ruled: reconcile.** The union, with three changes:
+
+1. **`veil` → `world`.** `veil` collides with T1's name, and the thread is the world's
+   condition, not the trilogy's.
+2. **`institutions` splits** into `dominion`, `technarc`, `choirless`. Grouping them
+   cannot separate B08's Technarc collapse from its neighbours, and **resolution is the
+   entire purpose of the column** — the B07/B08 pair is the case that motivated it.
+3. **`seraphine`, `baz`, `kade` added.** §43's list omitted all three POV leads.
+
+**`mt` is kept distinct from `tahl`**, deliberately. The channel's arc — anonymous, named,
+passed to Kade, renamed `LT` — outlives the person carrying it, and `M23`/`M35` are
+channel events, not Tahl events.
+
+Twelve threads plus `UNSCORED`.
+
+## 3. Assignment: 17 derived, 19 explicitly `UNSCORED`
+
+A thread is assigned only where the row's own description names **exactly one**. Rows
+naming several stay `UNSCORED` — they are the ambiguous cases the author must settle, and
+guessing would bury the ambiguity:
+
+    M11  tahl + baz          M12  mt + tahl        M15  kade + filaments
+    M23  mt + kade           M35  mt + kade
+
+**`UNSCORED` is a vocabulary member, not an empty cell.** `CHK_GRID_THREAD` makes an
+*empty* thread a violation, precisely because an empty cell cannot be told apart from an
+oversight — the same posture Ruling 8 took for provisional locations, and the same lesson
+as §61's six empty location lists.
+
+## 4. The scale is flexible, and T3 runs backwards
+
+> *"the intent is to be flexible and allow escalation within a trilogy not be defined by
+> an overly restrictive system. If needed increase the number of levels or redefine by
+> each trilogy, etc."*
+
+`milestone_grid.pressure_scale` records: default 5 levels, **per-trilogy calibration**,
+**levels extensible**, no fixed ceiling. Widening the scale or rebasing a trilogy needs no
+further ruling.
+
+Two measured facts are recorded with it, because they constrain any future anchoring:
+
+- **Only T2 is compressed.** It uses 4 and 5 across three books. T1 spans 1–5; T3 spans
+  1–5 (distinct 1, 3, 4, 5). The case for rescaling is one trilogy strong.
+- **T3 descends.** T1 and T2 rise; T3 **opens at its maximum** (B07 is `5→5` throughout)
+  and **ends at its minimum** after the Mending. So an anchor must define 1 as the
+  trilogy's **minimum** and 5 as its **maximum**, never as "opening" and "peak" — for T3
+  the opening *is* the peak, and the opening-baseline form inverts the scale. The
+  proposal's §1 used exactly that wording.
+
+**On the B06/B07 flatness** (the open-items §1 claim, and the point the author found
+unclear without context): under per-trilogy calibration B06 is T2's top and B07 is T3's
+top, so **both still score 5**. The numbers do not separate; only their meaning does.
+Separating B07 from B08 — both T3, both at the ceiling — was always the `thread` column's
+job, not the anchor's. Recorded so the anchoring work is not expected to do it.
+
+## 5. Two grids, two quantities
+
+Ruled: keep both, and score a quantity in exactly one of them. `grid_purposes` in
+`canon_rules.json` records the split.
+
+`milestones_payoffs.csv` holds **narrative** pressure per thread. `reader_pressure.csv`
+holds **reader-facing** intensity per cohort — its own columns already say so
+(`reader_group`, `pressure_state`, `intensity_1_5`, `episode_range`), and both
+`canon/editorial_lenses.md` and `rules/validation_checks.json` already point at it.
+
+The 2026-09-19 draft framed these as alternatives. They are not: threading fixes *whose*
+pressure a milestone records; the reader grid answers a question the milestone grid never
+asks. A quiet scene can be the hardest to read.
+
+## 6. The `channel` backfill is DEFERRED, not done
+
+The proposal's §3 would have written `NONE` into 23 rows and closed the item.
+
+**Ruled: not yet.** *"narrative plot and milestones need to be developed before this
+matters, and they will change this."*
+
+That is the right call and §43 §3 supports it: the two cases — a milestone that genuinely
+touches no Thread, versus one whose thread the `channel` column cannot express — *"are not
+currently distinguishable."* The `thread` column now expresses the second case, so the
+question is better posed than it was, but 23 rows of `NONE` would still be 23 editorial
+assertions dressed as a mechanical fill. **The proposal listed it as needing no author
+input; it needs 23 such inputs.** Left open.
+
+## 7. Verification
+
+Canon-scope **0**. Notices **0**. Tests **127** (was 118), nine added: a valid thread
+passes, `UNSCORED` passes, an **empty** thread fails and the message names `UNSCORED`, an
+unknown thread fails, `veil` is gone and `world` present, `institutions` is gone and the
+three factions present, every live row names a thread, the pressure columns are
+thread-scoped, and the scale is not saga-absolute.
+
+END OF ENTRY 64
+
+===============================================================
+
 END RECOVERY LEDGER

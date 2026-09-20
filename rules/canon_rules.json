@@ -95,6 +95,21 @@
       "ruled",
       "migrated",
       "retired"
+    ],
+    "threads": [
+      "world",
+      "seraphine",
+      "baz",
+      "tahl",
+      "kade",
+      "mt",
+      "silence_hope",
+      "caro_elisabet",
+      "filaments",
+      "dominion",
+      "technarc",
+      "choirless",
+      "UNSCORED"
     ]
   },
   "systems": {
@@ -245,8 +260,9 @@
       "target_book",
       "target_act",
       "target_episode_or_range",
-      "pressure_before",
-      "pressure_after",
+      "thread",
+      "thread_pressure_before",
+      "thread_pressure_after",
       "required_setups",
       "breadcrumb_density",
       "requires_packet",
@@ -270,6 +286,22 @@
       "EP"
     ],
     "target_book_pattern": "B01..B09 - two digits, per CLAUDE.md section 3. B1 is the old form and is wrong.",
-    "_act_note": "A1-A3 are the three acts. Every book has exactly three, and 27 acts remains the cap. PR and EP are STRUCTURAL POSITIONS OUTSIDE the act model, not additional acts - a prologue or epilogue occupies this slot without being counted as an act. Ruled 2026-09-20, GATE_RULINGS_2026-09-20.md Ruling 6. This supersedes the previous note, which called EP an invalid act and reported the five EP rows as notices; under Ruling 6 that framing was wrong."
+    "_act_note": "A1-A3 are the three acts. Every book has exactly three, and 27 acts remains the cap. PR and EP are STRUCTURAL POSITIONS OUTSIDE the act model, not additional acts - a prologue or epilogue occupies this slot without being counted as an act. Ruled 2026-09-20, GATE_RULINGS_2026-09-20.md Ruling 6. This supersedes the previous note, which called EP an invalid act and reported the five EP rows as notices; under Ruling 6 that framing was wrong.",
+    "_thread_note": "RECONCILED 2026-09-20 (Ruling 7) from two lists that were on file: ledger 43 section 2 proposed veil/mt/tahl/silence_hope/institutions/filaments/caro_elisabet; the 09-20 open-items proposal section 2 proposed the POV baton leads plus the faction lines. The union is taken, with three changes. (1) `veil` becomes `world` - `veil` collides with T1's name, and the thread is the world's condition, not the trilogy. (2) `institutions` splits into `dominion`, `technarc` and `choirless`: grouping them cannot distinguish B08's Technarc collapse from its neighbours, and resolution is the whole point of the column. (3) The POV leads `seraphine`, `baz` and `kade` are added; ledger 43's list omitted them. `mt` is KEPT as distinct from `tahl`: the channel's own arc - anonymous, named, passed to Kade, renamed LT - outlives the person carrying it. PROVISIONAL.",
+    "_pressure_note": "RENAMED 2026-09-20 from pressure_before/pressure_after. Ruled: \"World pressure should not effect romance.\" Each row's pressure measures ITS OWN thread, so a romance milestone is scored on the romance thread and a world milestone on the world thread. This is what ledger 43 section 2 found the column already doing inconsistently: five rows open BELOW the previous row's close (M04, M07, M09, M17, M18), which is impossible for a single world scale and ordinary once each row is read against its own thread. WARNING, and it is the reason every row is still `proposed`: the 36 existing values were scored BEFORE this column existed, so their provenance is MIXED - some are world readings, some thread readings. The rename states the intended meaning; it does not certify the values. Rows carrying a non-`world` thread need re-scoring.",
+    "pressure_scale": {
+      "default_levels": 5,
+      "_ruling": "Ruled 2026-09-20: \"the intent is to be flexible and allow escalation within a trilogy not be defined by an overly restrictive system. If needed increase the number of levels or redefine by each trilogy, etc.\"",
+      "calibration": "PER TRILOGY (Ruling 7 of 2026-09-20). A 5 in Veil does not denote the same magnitude as a 5 in Loom. The scale is NOT saga-absolute and must not be compared across trilogies without calibration.",
+      "levels_extensible": true,
+      "_extensible_note": "The ceiling is not fixed at 5. T2 currently uses only 4 and 5 across three books, which is compression, not escalation; widening the scale or rebasing T2 is permitted and needs no further ruling. T1 already spans 1-5 and T3 spans 1-5 (distinct 1,3,4,5), so T2 is the only compressed trilogy.",
+      "_direction_note": "Trilogies do not all run the same way. T1 and T2 RISE; T3 FALLS - it opens at its maximum in B07 and ends at its minimum after the Mending. Any per-trilogy anchoring must define 1 as the trilogy's MINIMUM and 5 as its MAXIMUM, never as \"opening\" and \"peak\": for T3 the opening IS the peak, and the opening-baseline form would invert the scale."
+    }
+  },
+  "grid_purposes": {
+    "_status": "Recorded 2026-09-20 so two grids cannot end up scoring the same quantity twice. Ledger section 64.",
+    "grids/milestones_payoffs.csv": "NARRATIVE pressure, per thread. `thread_pressure_before/after` measure the thread named in that row's `thread` column - what is happening in the story. Calibrated per trilogy, extensible (see milestone_grid.pressure_scale).",
+    "grids/reader_pressure.csv": "READER-FACING intensity, per cohort. Its own columns say so: reader_group, pressure_state, intensity_1_5, over an episode_range. This is how hard the READER is being squeezed, which is a different quantity from how bad things are in the story, and the two diverge - a quiet scene can be the most intense to read. Header-only; canon/editorial_lenses.md and rules/validation_checks.json both already point at it.",
+    "_why_both": "The 2026-09-19 derivation draft framed these as alternatives - make pressure per-thread OR split the axis into a reader grid. They are not alternatives. Threading fixes WHOSE pressure a milestone records; the reader grid answers a question the milestone grid never asks. Ruled 2026-09-20: keep both, and score a quantity in exactly one of them."
   }
 }
