@@ -124,14 +124,14 @@ Marrakesh should feel like a real city inhabited by people, not an “emotional 
 
 Recovery produced an important correction:
 
-**Kade Harper's character sheet gives his origin as New Orleans, not Santa Fe.**
+**CORRECTION 2026-09-20: Kade Harper's current Tier-1 and the Dec. 10 Character Vault place his origin in Bristol, UK. New Orleans is his later saga migration / relationship ecosystem; Santa Fe is event geography, not his hometown.**
 
 Santa Fe is repeatedly flagged in later structural memory as a **pressure zone/collapse location**, including the Book 6 rupture architecture, but it is not recovered as Kade's hometown or foundational personal ecosystem.
 
 Therefore:
 **Do not invent Santa Fe family/friends to explain Kade.**
 
-Kade's personal place ecosystem remains primarily NOLA:
+Kade's upbringing/origin ecosystem is Bristol. His later saga relationship ecosystem becomes strongly New Orleans-based:
 - Lacuna;
 - Trip/Velvet Vein;
 - Filament youth;
