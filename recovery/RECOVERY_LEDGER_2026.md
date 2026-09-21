@@ -6052,4 +6052,92 @@ END OF ENTRY 66
 
 ===============================================================
 
+===============================================================
+
+# 67. Mara Niht recovered — and the source body cannot live here — 2026-09-21
+
+The author supplied the material and ruled the role: *"She falls into a similar role as
+Trip (just in a more limited scope)."*
+
+Distillation at `recovery/MARA_NIHT_RECOVERY_2026-09-21.md`. This entry records the two
+findings that matter beyond her own row.
+
+## 1. The source contains no saga material at all
+
+`Bubble Grunge Lyrics`, 429 turns, 108,378 words. Measured across the whole file:
+
+    Mara 283 · Niht 175 · Iceland 72 · Reykjavík 5
+    Elisabet 0 · Concord 0 · Velvet Vein 0 · Harpa 0 · Trip 0
+
+**Every saga-side fact about her is authorial, not recovered.** The Elisabet connection,
+the Velvet Vein bridge, the Harpa role, the Trip-analogous function — none is in the
+source. §66 anticipated the shape of this but not its completeness.
+
+The Iceland coding is substantial and genuinely corroborates the Elisabet decision —
+`ElisabetID.md` gives **Elisabet Arnardóttir**, and PASS2 says Mara Niht *"links
+Elisabet's pre-saga Icelandic life to the living cultural world of the saga."* **But
+corroboration is not derivation.** The source shows why the decision reads well; it did
+not supply it. Her row says so, so a later pass cannot mistake the ruling for a find.
+
+## 2. The body is recovered and is NOT in this repository
+
+**513 lyric blocks.** `CLAUDE.md` §1: *"No prose, scene text, or dialogue is stored here.
+If a task would put narrative prose in this repo, stop and say so instead."*
+
+So the stop happened. The 680 KB `.md` and 1.7 MB `.json` are not committed.
+
+**§1 and §7 genuinely conflict here**, and this is the first material where both bite:
+§7 calls recovered source irreplaceable and says to commit it before transforming, *"so
+the raw form survives in history."* §1 forbids exactly this content. §1 instructs a stop,
+so the stop wins — **but the §7 risk is unmet and real: the author's copies are the only
+ones.** Three options are put to the author in the recovery document's §5; none is taken
+here.
+
+The `.json` carries a `workspace_account_id`, deliberately reproduced nowhere.
+
+**One incidental find for work-queue item 6.** This export **retains its conversation
+id**. §8 item 6 records that sanitization stripped every id from the 21 exports, *"so the
+exports cannot be mined for more"* — this file demonstrates an export path that keeps
+them.
+
+## 3. A correction to the recovery record
+
+The manifest names the source lead as `Develop Singer Style`. The material arrived as
+`Bubble Grunge Lyrics`. Either the lead was wrong or `Develop Singer Style` is a
+**different, still-unrecovered** conversation. **Not resolved.** Recorded so item 6 does
+not close a target on a name that does not match.
+
+## 4. Promoted, with the analogy marked as an analogy
+
+Both gates cleared — integration ruled 2026-09-20 (§66), body recovered 2026-09-21 — so
+she moves from the hold list to the registry as **G08**. Registry **57**, held **10**.
+
+Her `function` is **inferred by analogy and labelled as such**. The author ruled a
+*resemblance* to Trip and a *narrower scope*; that is not a field-by-field copy, so Trip's
+function line is quoted as the thing being resembled rather than transcribed into hers.
+
+**`range` is the same shape**: the bound is ruled — narrower than Trip's *"saga-recurring
+as place logic permits"* — while the exact extent is not.
+
+**Non-resonance is inferred, not ruled.** Trip's guardrail reads *"non-resonant; not
+Filament leadership"*, and the analogy suggests the same. Her row says **confirm before
+use**. Resonance status is on the `DO NOT LOCK` list, and an analogy is not a ruling —
+this is precisely the seam where an inference would otherwise harden into canon unnoticed.
+
+The whole `DO NOT LOCK` list survives recovery intact. Two entries are now *informed*:
+**style** (the source gives a genre and a voice, which is an artist's style, not the
+saga's field) and **nationality** (Iceland coding is aesthetic — the source itself says
+*"content palette (urban, not Iceland)"*).
+
+## 5. Verification
+
+Registry **57**, retired **31**, held **10**. Ids unique · no name in both registry and
+alias file · no `HOLD` in the registry. Canon-scope **0**, notices **0**, tests **127**.
+
+No lyric text entered the repository.
+
+END OF ENTRY 67
+
+===============================================================
+
 END RECOVERY LEDGER

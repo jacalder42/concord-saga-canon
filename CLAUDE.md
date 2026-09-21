@@ -303,8 +303,16 @@ Never decide, invent, or quietly resolve:
   own canon into the same bucket as a Notion page.** Small while she is the only case;
   real if more cross-project integration follows. Ledger §66 §5.
 
-  Her **writings must not land in this repository** when recovered — §1's no-prose rule
-  covers lyrics and poetry. Only structured references. Ledger §66 §4.
+  **The body arrived 2026-09-21 and is NOT stored here.** 513 lyric blocks, 108,378
+  words; §1's no-prose rule covers lyrics, so the stop it instructs is what happened.
+  Distillation at `recovery/MARA_NIHT_RECOVERY_2026-09-21.md`; she is promoted to the
+  cast registry as `G08`. Ledger §67.
+
+  **§1 and §7 collide on this file and the collision is unresolved.** §7 calls recovered
+  source irreplaceable and says to commit it before transforming; §1 forbids the content.
+  §1 instructs a stop, so the stop won — but **the author's copies are the only ones that
+  exist.** Three options are put to the author in the recovery document §5. Until one is
+  taken, this material is outside version control.
 - **E19 and beyond.** E19 is named but never built. Do not generate, draft, or outline
   it. The prohibition stands until James lifts it.
 
