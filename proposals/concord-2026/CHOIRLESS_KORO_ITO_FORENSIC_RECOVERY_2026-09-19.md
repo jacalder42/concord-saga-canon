@@ -1,5 +1,8 @@
 # Concord 2026 — Choirless / Ito Masayuki Forensic Recovery & Editorial Resolution
 
+> **RECOVERY CORRECTION — 2026-09-20**  
+> Later full-source audit (Jan. 4 account-export source) plus current Tier-1 establishes the role split as: **Ito Masayuki = public-facing populist fear amplifier / emotional ignition; Saeko Morita = Choirless ideological engineer / serenity-coercion architect / doctrinal stabilizer.** Any passages below that make Ito the primary doctrinal engineer or Saeko the public/populist face are superseded as role assignments. Preserve this file as historical recovery provenance; use current Tier-1 and `recovery/ACCOUNT_EXPORT_CHARACTER_VAULT_AUDIT_PASS3_ANTAGONISTS_2026-09-20.md` for migration.
+
 Status: EDITORIAL RECOMMENDATION / PROPOSAL — NONCANONICAL UNTIL AUTHOR PROMOTION
 Date: 2026-09-19
 Scope: Recover historical Choirless architecture, resolve Ito Masayuki identity/function, and separate Choirless from Saeko's movement, Dominion, Technarc, and Brightbreak.
