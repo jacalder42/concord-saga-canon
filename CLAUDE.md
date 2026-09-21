@@ -271,10 +271,7 @@ Never decide, invent, or quietly resolve:
     character in B01–B03, and may not be named before the B03 epilogue.
     `proposals/concord-2026/B03_B04_HANDOFF_RECONCILIATION_2026-09-19.md`. **Caro is
     not addressed and stays open.**
-  - *Does the Caro–Elisabet romance exist in Veil?* **High-confidence recovered, not
-    ruled** — "Veil seeds attraction",
-    `proposals/concord-2026/ROMANCE_RELATIONSHIP_RECONCILIATION_2026-09-19.md` §2,
-    which is marked NON-CANONICAL. Needs promotion.
+  - *Does the Caro–Elisabet romance exist?* **Strongly source-established historical canon; exact temporal implementation remains open/current-author-unruled.** Dec. 9 Art Canon directly labels them "Romantic Canon Pair" / each other's romantasy axis, and the backstory source independently gives Elisabet a slow-burning love arc with Caro and no pre-saga connection. See `recovery/ACCOUNT_EXPORT_DEC09_BACKSTORY_ART_CANON_CROSSCHECK_2026-09-20.md` and `proposals/concord-2026/ROMANCE_RELATIONSHIP_RECONCILIATION_2026-09-19.md` §2. Do not infer exact Veil episode, kiss, heat, exclusivity, or end-state timing without reconciliation/current ruling.
   - *Does Veil point at Santa Fe?* **Untouched.**
 
   **There is a third draft, found 2026-09-19.** The three `ACT * SUMMARY — VEIL I` Notion
