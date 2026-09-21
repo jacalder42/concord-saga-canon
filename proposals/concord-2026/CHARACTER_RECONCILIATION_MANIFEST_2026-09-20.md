@@ -364,8 +364,9 @@ Approval: [ ]
 
 ### Saeko Morita
 Status: KEEP.
-Function: populist anti-resonance civic/political face; safety/restriction legitimacy.
-Guardrail: not synonymous with Choirless; not generic villain.
+Function: ideological engineer of Choirless; serenity-coercion architect; turns calm/silence into a doctrine of care and stabilizes erasure logic.
+Guardrail: not the populist demagogue; not synonymous with Choirless as a whole; not generic villain.
+Recovery correction 2026-09-20: September role description was inverted with Ito. Jan. 4 full source + current Tier-1 control.
 Ending: OPEN.
 Approval: [ ]
 
@@ -378,11 +379,12 @@ Ending: OPEN.
 Approval: [ ]
 
 ### Ito Masayuki
-Recovered identity: resolves older “Ito.”
-Status: KEEP / PRIMARY HUMAN FACE OF CHOIRLESS.
+Recovered identity: resolves older “Ito”; historical Koro Ito retired.
+Status: KEEP / PUBLIC-FACING FEAR AMPLIFIER.
 Range: proto-language/network B4–B5; first overt Choirless violence B6; spread B7; peak B8; Mending opposition B9.
-Doctrine: “emotion is entropy.”
-Function: erasure; serious causal/moral arithmetic, not mystical sermonizing.
+Function: populist anti-resonance antagonist; weaponizes fear/grievance and gives extremism public permission; popularizes rather than designs Choirless doctrine.
+Guardrail: not the Choirless doctrinal engineer; not Virelli-style Order as Mercy; not a Technarc planner.
+Recovery correction 2026-09-20: September role description was inverted/blurry against Saeko. Jan. 4 full source + current Tier-1 control.
 Ending: OPEN.
 Approval: [ ]
 
@@ -512,7 +514,7 @@ Approval: [ ]
 
 ### Santa Fe
 Status: NO RECURRING PLACE ANCHOR PROMOTED.
-Correction: Kade origin is NOLA, not Santa Fe.
+Correction 2026-09-20: Kade origin is Bristol, UK; New Orleans is later saga migration/relationship geography; Santa Fe is event geography, not hometown.
 Use as event geography unless stronger source recovered.
 Approval: [ ]
 
