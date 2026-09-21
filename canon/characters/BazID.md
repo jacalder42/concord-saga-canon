@@ -39,10 +39,10 @@
 - **Regulation style:** observation → verification → articulation → release; does not perform
 
 ## VIII. Trilogy Anchor Facts (Identity-Relevant)
-- **Veil:** primary truth engine and POV anchor; exposes hidden systems and institutional contradictions
-- **Neon:** absence (or diminished centrality) creates ethical vacuum; truth lineage pressure transfers down the chain
-- **Loom:** truth becomes responsibility and record; witness function shifts toward memory and continuity
-- **Post-Mending:** civic witness persists as record-keeper / legacy pressure (no metaphysical authority)
+- **Veil:** primary truth engine and POV anchor; exposes hidden systems and institutional contradictions; **dies in Book 3**
+- **Neon:** Baz is absent as a living actor; his death creates an ethical/emotional vacuum and truth-lineage pressure transfers down the chain
+- **Loom:** Baz does **not** return as an Echo or living record-keeper; only ordinary human memory, documents, consequences, and other characters' grief may carry his legacy
+- **Post-Mending:** no living or metaphysical Baz presence; legacy only
 
 ## IX. MT / Truth Lineage Notes (Identity-Relevant)
 - **Truth lineage:** Baz establishes the human-scale witness cadence later carried by Tahl (MT origin voice) and inherited imperfectly by Kade
