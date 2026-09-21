@@ -476,7 +476,7 @@ Approval: [ ]
 
 ### Mara Niht
 Status: KEEP NAME / RECOVER MORE.
-Source lead: historical ChatGPT conversation “Develop Singer Style,” conversation ID 6a982376-6858-83ea-95e3-b32e8897ec5f.
+Source lead: historical ChatGPT conversation “Develop Singer Style,” conversation ID 6a982376-6858-83ea-95e3-b32e8897ec5f. **WRONG - corrected 2026-09-21.** That conversation was recovered and its id matches exactly, but it is a DIFFERENT music project: Eli Stone, a male baritone literary-song catalog, with 0 hits for "Mara" and 0 for "Niht". Mara Niht's actual source is "Bubble Grunge Lyrics", id 6961c2b0-b8dc-832f-a94c-dcddc5718ae9, recovered 2026-09-21. See recovery/MARA_NIHT_RECOVERY_2026-09-21.md and recovery/ELI_STONE_PROJECT_2026-09-21.md. The original lead is kept above as the provenance record of what was believed.
 Recovered body: NOT YET AVAILABLE.
 Reserved function proposal: Reykjavík/global-music cultural slot; possible later Velvet Vein bridge.
 DO NOT LOCK: age, nationality, style, instrument, exact relationship to Elisabet, Resonance status, first appearance, Harpa role.

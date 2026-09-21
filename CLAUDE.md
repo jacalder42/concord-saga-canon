@@ -308,6 +308,13 @@ Never decide, invent, or quietly resolve:
   Distillation at `recovery/MARA_NIHT_RECOVERY_2026-09-21.md`; she is promoted to the
   cast registry as `G08`. Ledger §67.
 
+  **A second music project exists and is NOT integrated.** `Eli Stone` — male baritone,
+  literary-song catalog — came in with the misattributed source lead (§68). It has no cast
+  row, no character file and no manifest entry, only a provenance record. **Whether it is
+  also an integration candidate is an open author question**; Mara Niht's precedent raises
+  it and does not answer it. If yes, the cross-project tier question above needs a rule
+  rather than a note.
+
   **§1 and §7 collide on this file and the collision is unresolved.** §7 calls recovered
   source irreplaceable and says to commit it before transforming; §1 forbids the content.
   §1 instructs a stop, so the stop won — but **the author's copies are the only ones that
@@ -635,13 +642,19 @@ the envelope**. What remains: item 1 is ruled (merge, §6.1) but not performed o
    Framework`. Added 2026-09-20 (§66): **`Develop Singer Style`**, holding Mara Niht's
    music profile and writings.
 
-   **`Develop Singer Style` is the strongest of the three**, and the only one whose
-   existence rests on more than inference: the author has confirmed the material was in
-   the large backup, and a search of all 21 exports returns **zero hits** on `Mara`,
-   `Niht`, `Velvet Vein`, `Harpa`, `singer`, `songwrit` and `lyric`. So for this one item
-   the §8 item-6 ambiguity is already resolved — it is **exported but not into this
-   repository**, not *missing*. The other two are inferred from references inside the
-   exports.
+   ~~**`Develop Singer Style` is the strongest of the three.**~~ **RECOVERED 2026-09-21,
+   and it was the wrong conversation.** Its id matched the manifest exactly, but it holds
+   a **different music project** — `Eli Stone`, a male baritone literary-song catalog,
+   with **0 hits for `Mara` or `Niht`**. Mara Niht's real source is `Bubble Grunge
+   Lyrics`, also recovered. **Both are closed; neither is outstanding**, so the live
+   targets are back to the two found 2026-09-19. Ledger §68;
+   `recovery/ELI_STONE_PROJECT_2026-09-21.md`.
+
+   **The lesson is worth more than the target was.** The bad lead carried a full
+   conversation id — the strongest provenance this project has, and precisely what a
+   recovery pass trusts most, since §8 item 6 records that the 21 exports lost their ids.
+   Recovering it *looked* like success. Only the term counts showed it was the wrong
+   project. **Check that a recovered source names the character it was recovered for.**
 
    None is among the 21 exports. Sanitization stripped every conversation ID, so the
    exports cannot be mined for more

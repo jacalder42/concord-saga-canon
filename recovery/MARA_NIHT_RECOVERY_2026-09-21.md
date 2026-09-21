@@ -80,14 +80,25 @@ life to the living cultural world of the saga."* Source and ruling converge — 
 convergence is **corroboration, not derivation**. The author decided it; the source did
 not supply it.
 
-## 4. A correction to the recovery record
+## 4. The manifest's source lead is wrong — RESOLVED 2026-09-21
 
-The manifest gives the source lead as the conversation **`Develop Singer Style`**. The
-material arrived as **`Bubble Grunge Lyrics`**.
+The manifest gives the source lead as **`Develop Singer Style`**, conversation id
+`6a982376-6858-83ea-95e3-b32e8897ec5f`. The material arrived as **`Bubble Grunge
+Lyrics`**, id `6961c2b0-…`.
 
-Either the lead was wrong, or `Develop Singer Style` is a *different, still-unrecovered*
-conversation. **Not resolved here.** Recorded so work-queue item 6 does not mark the
-target closed on the strength of a name that does not match. Ledger §67.
+**`Develop Singer Style` was then supplied, and the id matches the manifest exactly — but
+the conversation is a different music project altogether.** It contains **0 hits for
+`Mara` and 0 for `Niht`**. It develops **Eli Stone**, a *male baritone* singer-songwriter
+building a catalog from classic-literature scenes; album *False Witness*. See
+`recovery/ELI_STONE_PROJECT_2026-09-21.md`.
+
+So of the two readings offered on 2026-09-20 — *the lead was wrong*, or *a different
+conversation is still unrecovered* — **the first is correct.** The conversation the
+manifest names exists, is recovered, and is not hers.
+
+**Mara Niht's only source is `Bubble Grunge Lyrics`.** The two conversations do not
+overlap: `Bubble Grunge Lyrics` never says `Eli Stone`, and `Develop Singer Style` never
+says `Mara`. Ledger §68.
 
 ## 5. The source body is NOT in this repository, deliberately
 

@@ -6107,6 +6107,10 @@ The manifest names the source lead as `Develop Singer Style`. The material arriv
 **different, still-unrecovered** conversation. **Not resolved.** Recorded so item 6 does
 not close a target on a name that does not match.
 
+> **RESOLVED 2026-09-21, §68 — the lead was wrong.** `Develop Singer Style` was supplied;
+> its id matches the manifest exactly, and it is a **different music project** (Eli Stone,
+> male baritone, literary-song catalog) with **0 hits for `Mara` or `Niht`**.
+
 ## 4. Promoted, with the analogy marked as an analogy
 
 Both gates cleared — integration ruled 2026-09-20 (§66), body recovered 2026-09-21 — so
@@ -6137,6 +6141,74 @@ alias file · no `HOLD` in the registry. Canon-scope **0**, notices **0**, tests
 No lyric text entered the repository.
 
 END OF ENTRY 67
+
+===============================================================
+
+===============================================================
+
+# 68. The manifest pointed at the wrong conversation — 2026-09-21
+
+`Develop Singer Style` was supplied, and it answers the question §67 §3 left open.
+
+## 1. The id matches and the conversation is not hers
+
+The manifest §8 gives Mara Niht's source lead as *"historical ChatGPT conversation
+'Develop Singer Style,' conversation ID `6a982376-6858-83ea-95e3-b32e8897ec5f`."*
+
+**The id matches exactly.** The conversation is a **different music project**:
+
+- **Eli Stone**, a *male baritone* singer-songwriter; album *False Witness*.
+- A catalog built from **classic-literature scenes** — Gatsby, Macbeth, Dorian Gray, Anna
+  Karenina, the Odyssey, Moby-Dick — written so the songs do not obviously tie to their
+  sources.
+- **0 hits for `Mara`. 0 for `Niht`.**
+
+So of the two readings offered on 2026-09-20 — the lead was wrong, or a different
+conversation is still unrecovered — **the first is correct**, and the target is closed
+rather than outstanding.
+
+**Both conversations are now recovered and neither names the other.** `Bubble Grunge
+Lyrics` (Jan, 429 turns, female-led bubble grunge) never says `Eli Stone`; `Develop Singer
+Style` (Sept, 28 turns, male baritone) never says `Mara`. Mara Niht's **only** source is
+`Bubble Grunge Lyrics`.
+
+## 2. Why the misattribution is worth a ledger entry
+
+It was **not** a vague pointer. It carried a full conversation id, which is the strongest
+form of provenance this project has — and §8 item 6 records that the 21 sanitized exports
+lost their ids entirely, so an id is precisely what a recovery pass would trust most.
+
+**A precise citation was confidently wrong.** Recovering it looked like success: a named
+conversation, an exact id, a real file. Only the term counts showed it was the wrong
+project. Had the name matched loosely — two singer-development chats — it could have been
+filed as hers without anyone checking whether she appears in it.
+
+The manifest line is **annotated, not deleted**: the original lead stays as the record of
+what was believed, with the correction beside it.
+
+## 3. Eli Stone is recorded, not integrated
+
+`recovery/ELI_STONE_PROJECT_2026-09-21.md`. **No ruling touches this project**, so there
+is no cast row, no character file and no manifest entry — only a provenance record so the
+same id is not chased twice.
+
+**The open question is put to the author and not answered**: Mara Niht was integrated as a
+cross-project import; **Eli Stone is a second project of the same kind.** Whether it is
+also an integration candidate is a §4 decision. If it is, the cross-project tier question
+(§66 §5) stops being a one-off and needs a rule.
+
+**Its body is not stored either** — 28 lyric blocks, same §1 ground as Mara Niht's.
+
+One incidental confirmation: the source floats **`Calder Vane`** as an artist name and
+rejects it as too close to the author's own. `Calder` is the author, not a project — which
+explains the *"Calder engine"* and *"Calder Voice"* labels in `Bubble Grunge Lyrics`.
+
+## 4. Verification
+
+Canon-scope **0**, notices **0**, tests **127**. No lyric text entered the repository. No
+cast row was added or changed by this entry.
+
+END OF ENTRY 68
 
 ===============================================================
 
