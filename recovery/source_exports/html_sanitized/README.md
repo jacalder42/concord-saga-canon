@@ -1,6 +1,34 @@
 # Sanitized Chat HTML Source Exports
 
-Status: NON-CANONICAL RECOVERY SOURCE ARCHIVE
+Status: **LOSSY HISTORICAL DERIVATIVE — NOT AN ORIGINAL**
+Re-designated 2026-09-21, `recovery/GATE_RULINGS_2026-09-21.md` Ruling 10.
+
+> ## Correction, 2026-09-21 — read this before using these files
+>
+> **These are not complete copies of their sources, and this README used to imply they
+> were.** The wording below — *"the source conversation text was not summarized or
+> intentionally edited"* — is true about the **splitting** step it describes, and was read
+> more broadly than it can bear.
+>
+> **Measured:** all 21 files together hold **25,952 words**. A single conversation from the
+> 2026-09-15 account export is **108,378 words** — four times this entire archive.
+>
+> **What it did keep.** `Saga structural archive` was tested against what `CLAUDE.md` §3
+> cites it for: **all 18 episode shells `S1.T1.B3.A3.E01`–`E18` are present**, as are the
+> four `S1.T1.B3.EP.E01`–`E04` epilogue shells. The archive **retained the structured
+> artifacts** and appears to have lost conversational context around them. That is why
+> extraction from it worked.
+>
+> So conclusions drawn from these files are **unaudited, not discredited.** The way to
+> settle which is to re-run extraction against the full export in `sources/`.
+>
+> **This directory is not deleted, and must not be.** Earlier conclusions were drawn from
+> it; removing it would make those conclusions unauditable. It is superseded as a *source*,
+> retained as a *record*.
+>
+> **The authoritative originals are the account export**, `sources/chatgpt_export_2026-09/`
+> (`exported: 2026-09-15`). `CLAUDE.md` §7 previously stated no export path existed; that
+> was wrong and is rewritten.
 
 These files are sanitized copies of the complete-webpage HTML exports supplied during the 2026 Concord recovery effort.
 
@@ -10,6 +38,10 @@ The raw saved ChatGPT HTML contains substantial application chrome, scripts, bui
 
 Do **not** treat sanitization as editorial revision of the conversation. It is a security/archival cleanup step.
 
+> **Annotated 2026-09-21.** Accurate about *intent*, and it does not establish
+> *completeness* — see the correction at the top. Whatever the cause, the result retains a
+> small fraction of the source text.
+
 Original raw exports remain external source artifacts. Their SHA-256 hashes are recorded below for provenance.
 
 ## Split-file convention
@@ -17,6 +49,10 @@ Original raw exports remain external source artifacts. Their SHA-256 hashes are 
 Some sanitized conversations are stored as `__part01.html`, `__part02.html`, etc. This was done only to keep repository/connector writes reliable for large exports. Splits occur at whole conversation-turn boundaries; the source conversation text was not summarized or intentionally edited to create the parts.
 
 When a conversation is split, read the numbered parts in ascending order as one historical source artifact.
+
+> **Annotated 2026-09-21.** The claim above is scoped to the splitting step — parts were
+> not edited *to create the parts*. It is **not** a statement that each part holds all of
+> its source.
 
 ## Files supplied / recovered
 

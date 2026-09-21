@@ -984,5 +984,55 @@ class DeclaredExceptionsMakeASoftCeilingCheckable(unittest.TestCase):
             self.assertIn(key, exc[0], "Ruling 5 names all five fields")
 
 
+
+# --------------------------------------------------------------------------- #
+# Ruling 10: prose lives in sources/ and manuscript/, and is never validated
+# --------------------------------------------------------------------------- #
+
+class ProseDirectoriesStayOutOfScope(unittest.TestCase):
+    """Ruling 10 permits prose in two directories and requires both stay unscanned.
+
+    The exclusion must hold in BOTH scopes. If `sources/` were ever scanned, every
+    committed conversation would be parsed for SIDs and vocabulary, canon-scope would
+    stop meaning what it means, and the ceiling would move for reasons that have
+    nothing to do with canon. Ledger section 70.
+    """
+
+    def test_prose_dirs_are_declared(self):
+        self.assertEqual(vc.PROSE_DIRS, ["sources", "manuscript"])
+
+    def test_prose_dirs_are_not_substrate(self):
+        for d in vc.PROSE_DIRS:
+            self.assertNotIn(d, vc.SUBSTRATE_DIRS)
+
+    def test_prose_dirs_are_not_meta(self):
+        """Meta scope is still scope: --all would parse them too."""
+        for d in vc.PROSE_DIRS:
+            self.assertNotIn(d, vc.META_DIRS)
+
+    def test_no_scanned_file_comes_from_a_prose_dir(self):
+        """The behavioural check, not just the declaration."""
+        for include_meta in (False, True):
+            for path in vc.iter_files(include_meta):
+                top = vc.rel(path).split(os.sep)[0]
+                self.assertNotIn(
+                    top, vc.PROSE_DIRS,
+                    f"{vc.rel(path)} was scanned; Ruling 10 excludes {top}/")
+
+    def test_a_planted_prose_file_is_not_scanned(self):
+        """Prove it against a real file rather than trusting the directory list."""
+        d = os.path.join(vc.REPO, "sources")
+        if not os.path.isdir(d):
+            self.skipTest("sources/ not present")
+        probe = os.path.join(d, "_scope_probe.md")
+        with open(probe, "w", encoding="utf-8") as fh:
+            fh.write("S1.T1.B3.A3.E01 would be a violation if this were scanned.\n")
+        try:
+            for include_meta in (False, True):
+                self.assertNotIn(probe, list(vc.iter_files(include_meta)))
+        finally:
+            os.unlink(probe)
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

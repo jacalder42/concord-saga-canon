@@ -22,9 +22,31 @@ Non-prose canon substrate for the Concord Saga, a nine-book serial.
 | `recovery/` | **Originals.** Ledgers, migration audits, checkpoints, and the sanitized source exports — never pruned or altered in place |
 | `tools/` | Validation scripts. `validate_canon.py` checks the substrate against `rules/canon_rules.json`; `test_validate_canon.py` is its self-test |
 | `reports/` | Generated validation reports — do not hand-edit, regenerate (see `reports/README.md`) |
+| `sources/` | **Supplied source material, verbatim and append-only.** Prose permitted; outside validation (Ruling 10) |
+| `manuscript/` | **Authored narrative prose.** Never tool-rewritten without instruction; outside validation (Ruling 10) |
 
-**No prose, scene text, or dialogue is stored here.** If a task would put
-narrative prose in this repo, stop and say so instead.
+**No prose, scene text, dialogue or lyrics in the SUBSTRATE** — `rules/`, `canon/`,
+`grids/`, `book_context/`, `act_overlays/`, `templates/`. A task that would put narrative
+prose in those directories stops and says so.
+
+**Scoped, not lifted, 2026-09-21** — `recovery/GATE_RULINGS_2026-09-21.md` **Ruling 10**.
+Prose is permitted in exactly two places, each with its own rules and its own README:
+
+| Folder | Holds |
+| --- | --- |
+| `sources/` | Supplied source material, **verbatim, never edited**, append-only |
+| `manuscript/` | **Authored** narrative prose; never rewritten by a tool without explicit instruction |
+
+**Location is not authority.** Nothing in `sources/` or `manuscript/` is canon by virtue of
+being in the repository. **Canon is what the substrate says.** The old rule used *absence*
+to stop prose being mistaken for canon; this one says it outright, because absence stopped
+working the moment the sources themselves were prose.
+
+Both directories are **outside substrate validation** in either scope, so canon-scope 0
+keeps meaning what it means. `PROSE_DIRS` in `tools/validate_canon.py` states the exclusion
+and five tests enforce it, including one that plants a file and proves it is not scanned.
+
+**This did not authorize writing any prose.** `E19` and beyond remain prohibited (§4).
 
 ### 1.0 `recovery/` holds originals, `proposals/` holds distilled versions
 
@@ -471,16 +493,51 @@ Prohibited — see §4.
 
 ---
 
-## 7. Source constraint
+## 7. Sources — re-exportable, and committed for auditability
 
-All Concord Saga source conversations live in a single **ChatGPT Business workspace**.
-Business workspaces have no data export and no working public share links; both routes
-were tested and closed. Recovery runs through the browser-console export script against
-the logged-in session, or manual re-save, or copy-paste.
+**Rewritten 2026-09-21 (Ruling 10). The previous text was wrong**, and is quoted in §7.1
+below because several documents reasoned from it.
 
-This means: **source conversations are one-way storage and are not reliably
-re-retrievable.** Treat anything recovered from them as irreplaceable. Commit recovered
-material before transforming it, so the raw form survives in history.
+**A complete account export exists and has been run.** The supplied `.json` files carry
+`exported: 2026-09-15T16:57:09.617Z`, an account id and the native conversation object.
+So sources are **re-exportable**, not one-way storage.
+
+The operative rules:
+
+- **The export is the authoritative original.** Not the sanitized HTML archive — see §7.2.
+- **Commit source material before transforming it**, so the raw form survives in history.
+  The reason is now **auditability**, not scarcity: an extraction claim has to be checkable
+  against what it was extracted from.
+- Sources live in `sources/`, verbatim and append-only (§1).
+- **Commit both `.md` and `.json`.** The markdown does not merely flatten the JSON, it
+  **discards part of it**: measured on one conversation, the JSON carries 678 nodes
+  including **229 system messages and 2 tool messages**, and the markdown renders **zero**
+  of either.
+
+### 7.1 What this section used to say
+
+> *"Business workspaces have no data export and no working public share links; both routes
+> were tested and closed … source conversations are one-way storage and are not reliably
+> re-retrievable."*
+
+Kept as the record, because it shaped decisions — most consequentially the recommendation
+to hold source bodies outside the repository, which produced the §1/§7 conflict that
+Ruling 10 closes.
+
+### 7.2 `recovery/source_exports/html_sanitized/` is a lossy derivative
+
+**Not an original.** All 21 files together are **25,952 words**; a single supplied
+conversation is **108,378**. Its README's *"not summarized or intentionally edited"* cannot
+be read as a claim of completeness.
+
+**But it is not empty of what it is cited for**, and that distinction is load-bearing:
+`Saga structural archive` was tested against §3's citation of it and **all 18 episode
+shells `S1.T1.B3.A3.E01`–`E18` are present**, plus the four epilogue shells. The archive
+kept the structured artifacts and appears to have lost conversational context around them.
+
+So conclusions drawn from it are **unaudited, not discredited.** Re-running extraction
+against full sources is how to settle which. **Do not delete the directory** — earlier
+conclusions rest on it, and deleting it would make them unauditable.
 
 ---
 

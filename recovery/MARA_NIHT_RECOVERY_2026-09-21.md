@@ -135,3 +135,22 @@ material**, authored outside the saga and integrated by ruling. Tier D would fla
 into the same bucket as a Notion page.
 
 Open question, raised in ledger §66 §5 and unresolved. Recorded, not answered.
+
+---
+
+> ## CLOSED 2026-09-21 — Ruling 10
+>
+> The §1/§7 conflict this document records as unresolved is **settled**. The prose rule
+> is **scoped to the substrate**, not lifted: source bodies belong in `sources/`,
+> verbatim and append-only, outside substrate validation.
+>
+> `recovery/GATE_RULINGS_2026-09-21.md`. The reasoning below is kept as the record of
+> why the conflict existed and what it cost while it stood.
+>
+> **Still outstanding:** the bodies are not yet committed. This session holds 7
+> conversations; the account export is 72. Until the export is supplied, the ruling has
+> a home for the material but the material is not in it. Ledger §70.
+>
+> **Unchanged by the ruling:** her source contains zero occurrences of `Concord`,
+> `Elisabet`, `Velvet Vein` or `Harpa`. Her saga integration is **authorial decision,
+> not recovery**, and storing the body does not alter that.

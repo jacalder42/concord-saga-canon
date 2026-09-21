@@ -83,6 +83,12 @@ SUBSTRATE_DIRS = [
 META_DIRS = ["recovery", "proposals"]
 META_FILES = ["CLAUDE.md", "README.md"]
 
+# Ruling 10 (2026-09-21) permits prose in exactly two directories, and requires that
+# neither be validated. They are listed here so the exclusion is a stated decision
+# rather than an accident of what SUBSTRATE_DIRS happens to omit - a later edit that
+# adds either one fails `ProseDirectoriesStayOutOfScope`.
+PROSE_DIRS = ["sources", "manuscript"]
+
 SCANNED_SUFFIXES = (".md", ".json", ".csv")
 
 # ECID field name -> controlled_vocab key. Fields absent here (POV) are free text.

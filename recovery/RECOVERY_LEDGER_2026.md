@@ -6294,4 +6294,103 @@ END OF ENTRY 69
 
 ===============================================================
 
+===============================================================
+
+# 70. Ruling 10 — the prose rule is scoped; the export is not here yet — 2026-09-21
+
+`recovery/GATE_RULINGS_2026-09-21.md`, adopted from `PROSE_RULE_RULING_2026-09-21.md`.
+Four load-bearing claims were checked first; **three confirmed, one refined, one
+unverifiable.**
+
+## 1. What changed
+
+Prose is forbidden in the **substrate** and permitted in **`sources/`** (verbatim,
+append-only) and **`manuscript/`** (authored, never tool-rewritten). Both sit outside
+validation in either scope.
+
+The old rule used **absence** to stop prose being mistaken for canon. That held until the
+sources themselves were prose, at which point §1 and §7 contradicted each other and three
+recovery documents had to record the conflict as unresolved. The new rule states the
+distinction — *location is not authority* — instead of enforcing it by exclusion.
+
+`PROSE_DIRS` names the exclusion in the validator so it is a **decision rather than an
+accident of what `SUBSTRATE_DIRS` omits**, and five tests hold it, including one that
+plants a file in `sources/` and proves it is not scanned. Tests **127 → 132**.
+
+## 2. Confirmed — §7 was wrong
+
+§7 said Business workspaces have *"no data export … both routes were tested and closed"*
+and that sources are *"one-way storage and not reliably re-retrievable."*
+
+The supplied `.json` files carry **`exported: 2026-09-15T16:57:09.617Z`**, an account id
+and the native conversation object. An export exists and has been run. §7 is rewritten,
+with the old text kept in §7.1 — several documents reasoned from it, most consequentially
+the recommendation to hold source bodies outside the repository, which is what produced
+the conflict Ruling 10 closes.
+
+## 3. Confirmed, and stronger than the proposal claimed
+
+The proposal argued for committing both formats because *"the `.json` preserves turn
+structure the markdown flattens."* Measured, it is worse than flattening:
+
+| | `.md` | `.json` |
+| --- | --- | --- |
+| structure | linear headings | native message tree, **678 nodes** |
+| user | 216 | 216 |
+| assistant | 213 | 230 |
+| **system** | **0** | **229** |
+| tool | 0 | 2 |
+
+**The markdown renders no system messages at all.** Committing only the `.md` would
+discard 229 messages per conversation — precisely the material recording how each
+conversation was configured. "Both formats" is not redundancy.
+
+## 4. Refined — the archive is lossy, but one implication was wrong
+
+The whole 21-file sanitized archive is **25,952 words**; one supplied conversation is
+**108,378**. It is plainly a small fraction of its sources, and its README's *"not
+summarized or intentionally edited"* cannot bear the weight of meaning complete.
+
+**But the retention percentages could not be verified here, and the conclusion drawn from
+them overreached.** `Saga structural archive` was tested against what `CLAUDE.md` §3 cites
+it for: **all 18 episode shells `S1.T1.B3.A3.E01`–`E18` are present**, plus the four
+epilogue shells.
+
+So the archive **kept the structured artifacts** and lost conversational context around
+them. That is why extraction from it worked, and it means prior conclusions are
+**unaudited, not discredited** — a materially different claim from "five documents reasoned
+from 20% copies." Re-running extraction against full sources is how to settle which.
+
+The README is corrected and the directory re-designated a **lossy historical derivative**.
+**Not deleted**, per the proposal and for the stated reason: conclusions rest on it, and
+deleting it would make them unauditable.
+
+## 5. Unverifiable here — and it blocks the next step
+
+The proposal reasons from **72 conversations**. **This session holds 7.**
+
+    /root/.claude/uploads/  ->  7 conversations (16 files)
+    /mnt/user-data/         ->  empty
+    sources/                ->  created, EMPTY
+
+**Ruling 10 gives the material a home. The material is not in it.** No claim about the
+72-conversation corpus is made or relied on anywhere above; every figure quoted comes from
+files actually in hand.
+
+So the task shift is **half-actionable**: the policy is in place, the directories exist,
+the validator holds the line — and the assessment of the full exports cannot begin until
+the export is supplied.
+
+## 6. Verification
+
+Canon-scope **0**. Notices **0**. Tests **132**. All-scope **60**, the rise entirely from
+this entry and the new documents quoting one-digit SIDs as evidence, per §56 §2.
+
+**No prose entered the substrate, and `sources/` is empty**, so nothing has yet been
+stored under the new permission.
+
+END OF ENTRY 70
+
+===============================================================
+
 END RECOVERY LEDGER

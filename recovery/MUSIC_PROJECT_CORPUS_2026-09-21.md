@@ -87,3 +87,22 @@ from outside, with no file here.** Not resolved. Flagged for the author.
 Calder Base", Thinker base with Harmonizer/Promoter past phases and a Rebel active phase.
 It is a document about the author's creative process, **not a character**, and is not
 canon. Noted only so it is not mistaken for a character sheet on a later pass.
+
+---
+
+> ## CLOSED 2026-09-21 — Ruling 10
+>
+> The §1/§7 conflict this document records as unresolved is **settled**. The prose rule
+> is **scoped to the substrate**, not lifted: source bodies belong in `sources/`,
+> verbatim and append-only, outside substrate validation.
+>
+> `recovery/GATE_RULINGS_2026-09-21.md`. The reasoning below is kept as the record of
+> why the conflict existed and what it cost while it stood.
+>
+> **Still outstanding:** the bodies are not yet committed. This session holds 7
+> conversations; the account export is 72. Until the export is supplied, the ruling has
+> a home for the material but the material is not in it. Ledger §70.
+>
+> **Unchanged by the ruling:** the Elias blocks are still the repository's own files,
+> and the songs are still *"narrative adjacent, but not in world"*. Storing the
+> conversations makes those findings **checkable**; it does not change them.
