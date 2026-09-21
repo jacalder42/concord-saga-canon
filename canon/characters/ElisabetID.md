@@ -38,7 +38,7 @@
 - **Glacier mapping / environmental monitoring:** slow catastrophe rendered legible
 - **Storm shelter protocols:** preparation as comfort and safety
 - **Public presentation freeze (early career):** clarity preferred over performative speech
-- **Mentor loss:** mentor dies due to environmental or systemic failure; Elisabet’s analysis was correct but arrived too late
+- **System-failure disillusionment:** bureaucratic/institutional delay during crisis shows that correct analysis is insufficient if action arrives too late; reinforces decisive clarity without requiring an invented mentor death
 
 ## VIII. Psychological Architecture (Identity Loop)
 - **Core wound:** confusion or delay leads to irreversible harm
