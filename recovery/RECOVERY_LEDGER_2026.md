@@ -6212,4 +6212,86 @@ END OF ENTRY 68
 
 ===============================================================
 
+===============================================================
+
+# 69. Five more music conversations — one touches canon, and adds none — 2026-09-21
+
+Index at `recovery/MUSIC_PROJECT_CORPUS_2026-09-21.md`, now covering all **seven**
+music-project conversations supplied.
+
+## 1. The result
+
+Of the five new ones, **four contain no Concord content at all** — a band OS
+(`Loose Change Parade`), an artist-concept chat, a yacht-rock song review, and an
+**architectural walkthrough score for a middle school in North Little Rock**, which is
+unrelated to the saga entirely.
+
+The fifth, `Elias Ward Songwriting Prep`, opens with **four Tier-1 Elias canon blocks** —
+POV, Identity v1.1, EBCI, Appearance. That looks like a Tier-1 recovery. **It is not.**
+
+## 2. The blocks are the repository's own files, verified word-for-word
+
+| Block | Repo file | Result |
+| --- | --- | --- |
+| POV | `canon/pov/elias_ward_pov.md` | ratio **1.000** |
+| Identity v1.1 | `canon/characters/EliasID.md` | **0.999**, 0 of 66 segments missing |
+| EBCI | `canon/characters/EliasEBCI.md` | **563 words to 563, zero word-level opcodes** |
+| Appearance | `canon/characters/EliasAppearance.md` | ratio **1.000** |
+
+The sub-1.000 figures are punctuation and bullet glyphs. Stripped of markdown, the EBCI
+comparison returns **no differences at all**.
+
+**A negative finding, and worth the check.** §68's lesson was *check that a recovered
+source names the character it was recovered for*; this is its complement — **check that
+recovered canon is not canon you already have.** A conversation that opens with four
+Tier-1 blocks is exactly the shape that gets filed as a find. Nothing needed recovering,
+and nothing was created.
+
+It also establishes something useful in the other direction: the songwriting work was
+**canon-grounded**, not drifting. The assistant held position until released, then worked
+from the repository's own canon.
+
+## 3. The author ruled the songs' status inside the conversation
+
+> *"Music should be narrative adjacent, but not in world. They can stand-alone without the
+> story."*
+
+So Elias's songs are **not in-world artifacts and are not canon.** Nothing is migrated —
+the material is derived *from* canon, and migrating it would invert the dependency.
+
+**The contrast with Mara Niht is the point.** She was integrated as a *character* (§66);
+Elias's songs are explicitly *not* integrated as *work*. Cross-project material can cross
+in one direction without the other following, and these two cases now bracket the range.
+
+## 4. Two flags
+
+**`Elias Ward` was on a real artist-name candidate list.** `Artist Concept Development`
+has it at #2 beside `Calder Rowe` and `Jonah Black`. **Not chosen** — one occurrence, no
+development. Recorded so it is not revived later without anyone noticing it is a Concord
+antagonist's name.
+
+**A Concord system this repository does not have.** `Song Review and Evaluation` cites
+*"your Romance System (S4–S6 energy)"*. The repository's romance ladder is `HEAT`,
+`H0`–`H4`: five levels, `H`-prefixed. `S4`–`S6` implies **six or more levels and a
+different prefix**, so it is not a rename of `HEAT`.
+
+Either a separate system exists outside this repository, or the reference is loose. This
+is the same shape as the Silence-and-Hope gap (work-queue item 9b): **something referred
+to as canon from outside, with no file here.** Not resolved; flagged.
+
+## 5. Also noted
+
+`Artist Identity and Lyrics` builds its band OS on a **PCM profile of the author** — "The
+Calder Base". It is a document about the author's creative process, **not a character**,
+and is not canon. Recorded only so a later pass does not mistake it for a character sheet.
+
+## 6. Verification
+
+Canon-scope **0**, notices **0**, tests **127**. **No lyric text entered the repository**,
+and **no canon file was changed** — this entry only compares and indexes.
+
+END OF ENTRY 69
+
+===============================================================
+
 END RECOVERY LEDGER

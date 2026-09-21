@@ -308,6 +308,20 @@ Never decide, invent, or quietly resolve:
   Distillation at `recovery/MARA_NIHT_RECOVERY_2026-09-21.md`; she is promoted to the
   cast registry as `G08`. Ledger §67.
 
+  **Seven music conversations are now indexed** at
+  `recovery/MUSIC_PROJECT_CORPUS_2026-09-21.md` — read it before chasing any of them
+  again. **Only one touches Concord canon, and it adds none**: `Elias Ward Songwriting
+  Prep` opens with four Tier-1 Elias blocks that are **the repository's own files**,
+  verified word-for-word (EBCI: 563 words to 563, zero differences). The author ruled
+  inside it that the songs are *"narrative adjacent, but not in world"*, so they are not
+  canon and nothing is migrated. Ledger §69.
+
+  **Two flags from that corpus.** `Elias Ward` appears on a real artist-name candidate
+  list (not chosen) — do not revive it without noticing it is a Concord antagonist's name.
+  And a *"Romance System (S4–S6)"* is cited as canon, while this repository's romance
+  ladder is `HEAT` `H0`–`H4` — different prefix, more levels, **not a rename**. Same shape
+  as the Silence-and-Hope gap: named as canon from outside, no file here.
+
   **A second music project exists and is NOT integrated.** `Eli Stone` — male baritone,
   literary-song catalog — came in with the misattributed source lead (§68). It has no cast
   row, no character file and no manifest entry, only a provenance record. **Whether it is
