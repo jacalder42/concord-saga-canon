@@ -426,7 +426,7 @@ Mirror Seraphine's overload through a different coping system.
 - Lucien repeatedly checks patterns/measurements.
 - Contradictory results undermine his defense.
 - Under mounting strain, the misalignment spikes and the faint southwest bias from Episode 4 reasserts itself; Lucien still does not name or interpret the direction.
-- The recurrence now reads as a breadcrumb rather than a continuation of the first event, and it feeds directly toward the coming dual collapse.
+- The recurrence now reads as a breadcrumb rather than a continuation of the first event, and it feeds toward the coming dual collapse.
 - He becomes more rigid as certainty decreases.
 - Ordinary interruption reveals how far inside the problem he has gone.
 - He still avoids asking for help.
