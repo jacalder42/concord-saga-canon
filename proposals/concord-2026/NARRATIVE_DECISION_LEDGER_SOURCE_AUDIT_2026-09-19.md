@@ -82,6 +82,8 @@ The pasted `SAGA BREADCRUMB LAYER v1.0 — PART I` contains ten Veil → Neon co
 
 ## ND-002 — B03 Act III has a locked causal chain substantially richer than the current macro summary
 
+> **ND-002 RECONCILIATION ANNOTATION — 2026-09-22:** The recovered B3.A3.E17 anchor saying it must mirror the line “from Book 1” is best read as a likely archival slip for **Act I**, not evidence that the explicit line belongs in B01. The same explicit line/title occurs at B3.A1.E17, creating an E17 Act-I → Act-III internal Book 3 rhyme. This is a **high-confidence reconciliation inference from episode numbering, not an explicit recovered author correction**. B01 retains only the earlier subtle unnamed southwest directional breadcrumbs; do not restore the explicit “Everything Curves Southwest” line to B01.
+
 **Classification:** COMPRESSED  
 **Source:** `Saga structural archive__part01.html`, User Turn 5  
 **Authority:** B
