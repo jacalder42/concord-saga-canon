@@ -109,7 +109,7 @@ The authoritative structural archive additionally locks the following:
 - the Slip must feel like over-clarity/pressure collapse, not magic;
 - the aftermath must **not grant new powers**;
 - “Writing Begins” must carry proto-MT cadence but no publication;
-- the closing Santa Fe turn must mirror **“Everything curves southwest”** from Book 1;
+- PROVENANCE ONLY — superseded by ND-002 reconciliation annotation above: the recovered wording says the closing Santa Fe turn must mirror **“Everything curves southwest”** “from Book 1”; current reconciliation reads “from Book 1” as the archival slip and keeps the explicit phrase within B03, while B01 retains only unnamed directional breadcrumbs;
 - the book closes in calm-before-collapse rather than spectacle.
 
 **Recommended migration:** the Nine-Book Authority Layer can remain macro, but these constraints need a B03 act-level canonical layer before episode regeneration.
