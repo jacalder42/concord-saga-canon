@@ -206,7 +206,7 @@ Important version note:
 - an earlier exported Book1 Act1 Beats document ends at E15 and describes E15 as the Act I finale
 - the later Episode Expansion conversation extends Act I with E16 and explicitly closes the act there
 
-Current recommendation: treat E16 as the later accepted Act I close; retain the earlier E15-only artifact unchanged in source archive for provenance.
+**SUPERSEDED 2026-09-22:** This recommendation is retained only as a record of the earlier recovery state. Cross-check against the same-day Trilogy Act-Level Beat Backup and later structural reconciliation establishes the B01 E16 `Everything Curves Southwest` placement as cross-book contamination from B03 Act I. Current B01 v4.1a preserves only subtle unnamed directional breadcrumbs at E4 and E11; the explicit phrase remains B03 material. Retain the old E16 source packet unchanged as provenance, not governing canon.
 
 ## Book 1 Act II
 Status: PARTIAL EPISODE EXPANSION / STOPPING POINT NOW VERIFIED
