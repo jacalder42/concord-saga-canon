@@ -252,7 +252,6 @@ Make Lucien's second event harder to dismiss.
 
 ### Beats
 - Another structural/perceptual misalignment produces bodily disorientation.
-- The same barely registered southwest bias recurs, still unnamed and unexplained.
 - An ordinary worker notices he has gone pale.
 - Lucien verifies surfaces/measurements/sightlines.
 - His original ordinary task remains visible.
@@ -426,6 +425,8 @@ Mirror Seraphine's overload through a different coping system.
 ### Beats
 - Lucien repeatedly checks patterns/measurements.
 - Contradictory results undermine his defense.
+- Under mounting strain, the misalignment spikes and the faint southwest bias from Episode 4 reasserts itself; Lucien still does not name or interpret the direction.
+- The recurrence now reads as a breadcrumb rather than a continuation of the first event, and it feeds directly toward the coming dual collapse.
 - He becomes more rigid as certainty decreases.
 - Ordinary interruption reveals how far inside the problem he has gone.
 - He still avoids asking for help.
@@ -1562,7 +1563,7 @@ These are texture/function restorations, not extra episodes.
 
 # 12. PROMOTION STATUS
 
-This document is the consolidated B01 v4.1 candidate.
+This document is the consolidated B01 v4.1a candidate.
 
 It is ready for:
 1. author review;
@@ -1578,7 +1579,7 @@ Do **not** yet:
 - resolve open geography by invention.
 
 If author/editor review returns no structural objection, the next promotion step is:
-**author/editor review v4.1 → resolve only material objections → lock narrative order → perform EBCI expansion in controlled acts.**
+**author/editor review v4.1a → resolve only material objections → lock narrative order → perform EBCI expansion in controlled acts.**
 
 END BOOK 1 REVISED BEAT BIBLE v4.1a
 
