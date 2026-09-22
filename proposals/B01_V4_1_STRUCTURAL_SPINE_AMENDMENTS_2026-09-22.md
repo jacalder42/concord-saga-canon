@@ -25,10 +25,10 @@ the line/function belongs to **Book 3 Act I close**, where southwest directional
 
 Therefore:
 
-**DO NOT restore southwest directionality to Book 1.**
+**SUPERSEDED BY v4.1a:** do not restore the explicit line/payoff “Everything Curves Southwest” to Book 1, but DO preserve the December breadcrumb layer's two subtle, unnamed southwest perceptual biases in B1 Lucien misalignments. The earlier blanket prohibition below was over-broad.
 
 The December high-level B01 spine remains authoritative for the seven macro jobs per act.
-The contaminated E16 expansion does not.
+The contaminated E16 expansion does not. See v4.1a for the corrected graduated B1 → B2 → B3 directional breadcrumb.
 
 This is an important correction to the prior comparison audit.
 
