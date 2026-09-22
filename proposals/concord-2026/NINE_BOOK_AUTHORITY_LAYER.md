@@ -29,7 +29,8 @@ RECOVERED BEAT CANON:
 7. Close: Pulse destabilizes square; Lucien calls Baz.
 
 RECONCILIATION NOTE:
-- Later detailed Episode Expansion extends the accepted Act I through E16, `Everything Curves Southwest`; preserve as later accepted refinement rather than rewriting the older macro allocation.
+- **SUPERSEDED 2026-09-22 — preserve this older wording for provenance only.** The statement below incorrectly treated the B01 E16 `Everything Curves Southwest` line as an accepted refinement. Cross-check against the same-day Trilogy Act-Level Beat Backup places the explicit `Everything curves southwest` close in **B03 Act I**, while B01's act-level beats carry no explicit southwest line. Current B01 v4.1a therefore treats the old E16 wording as cross-book contamination, not governing canon. B01 uses only a graduated unnamed directional breadcrumb: first faint bias at E4, second faint recurrence at E11, with no naming or interpretation. The explicit phrase remains reserved for B03 Act I.
+- PROVENANCE — superseded wording: “Later detailed Episode Expansion extends the accepted Act I through E16, `Everything Curves Southwest`; preserve as later accepted refinement rather than rewriting the older macro allocation.”
 
 ### Act II — Patterns Emerge
 RECOVERED BEAT CANON:
