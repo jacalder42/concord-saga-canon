@@ -20,7 +20,7 @@ Keep **directed Resonance action** separate: a character may attempt a bounded i
 ### E15 in context — recommended staging contract
 
 1. **On-page first:** a working Square and a real interruption with consequences for a performer, vendors, witnesses and responders. Sound and crowd reactions must be situated in actual activity; pigeon flight may be ordinary startle.
-2. **Second trace:** a low audible thrum may precede the amp pop and seem to outlast amplified output. Two recordings are a *later-investigation support*, not the shock beat's centerpiece. They document one imperfectly shared acoustic observation, not a second independent physical anomaly or a signature of Resonance.
+2. **Second trace:** a low audible thrum may precede the amp pop; the full-export beat then has a heartbeat of quiet, with ambient sound and possibly a similar hum returning later. Do not make the hum continuous through the cutout. Two recordings are a *later-investigation support*, not the shock beat's centerpiece. They document one imperfectly shared acoustic observation, not a second independent physical anomaly or a signature of Resonance.
 3. **Causality:** privately test ordinary amplifier/feedback and another ordinary sound source before declaring amp and thrum linked. They can have **different causes**. E15 succeeds as a public event with disputed cause under the author ruling; no character gains new power from intense feelings.
 4. **E16/E17 transition:** cleanup and inconsistent reports expand the burden beyond one Square incident. Lucien calls Baz because normal escalation and his own model are insufficient, not because Baz has a perfectly matched waveform.
 
