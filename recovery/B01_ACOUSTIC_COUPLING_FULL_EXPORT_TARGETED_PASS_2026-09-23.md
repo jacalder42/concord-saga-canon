@@ -1,0 +1,35 @@
+# Full-export targeted recovery — audible hum and material coupling
+
+**Date:** 2026-09-23  
+**Status:** FORENSIC SEARCH RESULT / NON-CANONICAL. Continuation of [ambient-event ontology and E15 case review](B01_AMBIENT_EVENT_ONTOLOGY_AND_E15_PHYSICAL_CASE_REVIEW_2026-09-23.md). No physics or scene detail promoted. Source is the author-provided full conversation TAR `source_downloads/Story Development/2025-11-01__Concord_Saga_CSVs__6906955c.tar`, not only sanitized exports.
+
+## Scope
+
+Inspected **all 72 Markdown conversations** in the 164 MB TAR via conceptual searches for coupling, acoustic vibration, frequency, sound pressure, microphone, amplifier, feedback, field, air, ambient and related wording. Narrow matches were checked in surrounding full-export text, particularly the Nov. 8 Resonance options, Nov. 21 Notion blueprint, Nov. 27 Narrative Structure, Dec. 1 Worldbuilding, Dec. 5 VFX, Dec. 7 Beat Bible recovery and Dec. 8 Episode Expansion conversations. Paired JSON exists; this pass searched the Markdown renderings of those included conversations, not every external attachment or other unexported chat. Dates and line numbers identify this TAR's retrieval copy, not immutable canon IDs.
+
+## Chronological leads and limits
+
+| Full export and locator | What the historical text actually offers | Disposition for current B01 |
+| --- | --- | --- |
+| **Nov. 8 `Resonance_system_options` ~2230–2270** | “Group Phase Phenomena” posits aligned Intent, collective interference and an audible chord-like hum; “Mass Static” associates collective overload with sonic booms/psychic feedback. Uses emotion-as-frequency tables. | **RECOVERED exploratory concept / NOT A MECHANISM.** No vibrating object, air-work source, threshold, measurement or conservation accounting. The sonic boom scale and frequency/color ontology conflict with B01's low-amplitude restraint. It does show earlier interest in group-produced sound, not permission to canonize it. |
+| **Nov. 21 `Concord_Saga_Notion_Blueprint` ~144880, ~187603, ~216283** | “Sound must feel physical, pressure-based”; an editorial trigger→channel→sensory-tell rubric; later sound-based interfaces/resonance ribs. | **RECOVERED editorial/era-mixed material.** A mandate to feel physical is not a transducer. The sound interfaces belong to later tech layers and cannot carry VT or explain E15. |
+| **Nov. 27 `Narrative_Structure` ~213625–213695** | A Santa Fe grocery-store microphone captures an air hum among three feeds during **Neon Act II**, followed by Tahl's worldwide MT stream. | **RECOVERED LATER-ERA OBJECTIVE SOUND IDEA / B01 LEAKAGE.** Supports the general possibility that ordinary microphones can record ordinary acoustic consequences in a later design; it does not establish E15's source, Book 1 public reach or global MT. |
+| **Dec. 1 `Worldbuilding` ~125375 and other conductivity passages** | Explicitly calls crowds “not material” even while metaphorically treating them as emotional super-conductors; material hierarchy versions change order (glass/metal etc.). | **RECOVERED SUPPORT FOR AXIS SPLIT**: group synchrony and a material interface are different. The contradictory ranking is not a quantitative coupling law. |
+| **Dec. 5 `Visual_and_VFX` ~37120–37153** | Filament-object VFX guidance says a low hum comes from the **environment**, not the ritual item, along with audible breath synchrony. Elsewhere sound is said to conduct emotion fastest. | **RECOVERED VFX / NOT B01 ACOUSTIC LAW.** “Environment” is a staging instruction, not an identified vibrating source. Directly borrowing this for a Square amp would create exactly the unlocated magical hum under audit. |
+| **Dec. 7 `Beat_bible_recovery_process` ~6345–6392** | A microphone captures a low hum at a **Loom** multi-POV “Second Hum” node activation. | **RECOVERED LATER-ERA IDEA / NOT B01.** An objective recording can occur in the saga without supplying Veil-era conditions or permission. |
+| **Dec. 8 `Episode_expansion_process` ~4239–4410** | Old E13 → current E15 begins with a jittery hum; street musician amp pops/cuts out; brief quiet; ordinary sound later returns and hum resettles. It calls the amp the “match” for an outward wave. | **RECOVERED SCENE SEQUENCE; causal claim unproven.** The literal wave/color/corridor and magic stone-memory are superseded/unsupported. The old scene provides no amp inspection, raw recording, pressure source or physical transducer. |
+
+Other microphone/sound hits are ordinary voice recording, obsolete proto-saga science, sensor arrays in later eras or prose/music metaphor. “Resonance transducer” in Nov. 27 `Narrative_Structure` ~35602 refers to **Seraphine's Loom ascension role**, not a B01 device. Nov. 21 “microphone arrays for resonance hum” appears in a later mixed-technology worldbuilding layer and specifies no coupling. Do not use the word “transducer” in an unrelated era as retroactive proof of E15 physics.
+
+## Answer to the targeted question
+
+**No source examined here gives an operational Book 1 law for local collective pressure → physical vibration of air or amp components.** Earlier material supports subjective/field hum motifs, later-era microphone-recordable acoustic phenomena and possible collective interaction. Those facts do not determine whether E15's hum is objective, where acoustic energy originates, whether the amp is cause or casualty, or how a local field crosses into its circuitry.
+
+The chronology does **not** demonstrate a deliberate author rejection of every audible Veil hum; Dec. 8 still uses one. It does demonstrate that named physical terms often describe cinematic results without a tested medium, and that later apparently decisive recordings are chronologically unusable as B01 proof. The no-hit is bounded by the 72 included Markdown conversation renderings and the terms/context checked, not a claim about all possible unwritten or external source material.
+
+## Recommendation
+
+1. Preserve the recovered E15 **pre-pop hum → amp pop → brief quiet → later sound return** sequence as the strongest source lead; leave the two recordings a new, fallible proposal, not recovered fact.
+2. For *causal* EBCI, choose **one** objective pressure response and a privately specified physical interface, source/input, ordinary alternative, cost/residue and footprint. If this cannot be done, keep the amp/sound ordinary and the event's underlying Resonance cause OPEN rather than asserting an acoustic force law.
+3. Avoid importing Nov. 8 emotion-frequency mathematics, the later Neon/Loom recorded hums, or Dec. 5 “environment emits hum” as Book 1's missing transducer.
+4. The next best work is author/editor adjudication of the two-account ontology and E15 causal partition in the [case review](B01_AMBIENT_EVENT_ONTOLOGY_AND_E15_PHYSICAL_CASE_REVIEW_2026-09-23.md), followed by **one conditional material-interface design** only if authorized. Further broad sound-keyword searches have diminishing value; a specific newly supplied archived conversation could reopen recovery.
