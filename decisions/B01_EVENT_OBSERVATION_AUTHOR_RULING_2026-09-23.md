@@ -19,6 +19,8 @@
 
 **Epistemic distinction:** D1/D5/D6 are accepted constraints on story function and release; D2/D4 authorize development and testing of candidates, **not** elevation of the proposed recordings or windows into final scene canon. Neither the underlying Resonance cause nor a completed eight-question event contract was supplied in the author response.
 
+**Source-timing clarification (2026-09-23):** a subsequent direct reread of Dec. 8 old E13 finds a preexisting hum, the amp pop, a heartbeat of quiet and only later resettling of sound/hum. The accepted D2 direction is a *trial of acoustic evidence*, not approval of an uninterrupted hum across the cutout. The [corrected candidate card](../proposals/B01_E15_TWO_RECORDING_ACOUSTIC_TRACE_FOR_REVIEW_2026-09-23.md) controls that scene-level detail.
+
 ## Numbering/order exception uncovered after the recommendation
 
 The [integrated B01](../proposals/B01_REVISED_BEAT_BIBLE_V4_1B_INTEGRATED_2026-09-22.md) has two inversions:
