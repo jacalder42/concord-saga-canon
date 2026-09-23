@@ -1,0 +1,63 @@
+# B01 event-evidence mechanics ledger — pre-EBCI review
+
+**Date:** 2026-09-23  
+**Status:** PROPOSAL / DIAGNOSTIC LEDGER — NON-CANONICAL. Companion to [B01 integrated architecture](B01_REVISED_BEAT_BIBLE_V4_1B_INTEGRATED_2026-09-22.md), [integrated systems gate](../reports/B01_INTEGRATED_SYSTEMS_STRESS_AND_EBCI_READINESS_2026-09-23.md), [physics audit](../reports/MECHANICA_RESONANCE_SYSTEMS_INTEGRITY_AUDIT_2026-09-23.md) and [VFX audit](../reports/VFX_SENSORY_GRAMMAR_INTEGRITY_AUDIT_2026-09-23.md). No episode order, protected function or rule file changed. No EBCI begun.
+
+## What this ledger can and cannot settle
+
+The beat bible establishes **human consequences, recurrence and selected observation limits**. It does **not** identify a complete objective substrate for its local pressure events. Never treat the story-job word “pulse,” a perception of wrong angles, a hum, quiet, or accumulated *human* memory as a ready-made force law. The ledger separates:
+
+- **GIVEN** — an action/observation/guardrail explicitly in the integrated architecture;
+- **RECOVERED RULE** — human-scale costs, material coupling and no tech-carried Resonance, subject to the pending physics/VFX decisions;
+- **PROPOSED TEST** — a question or conservative way to constrain prose, not an event that already happened;
+- **OPEN** — physical trigger/effect, instrument specification or causal link not recoverable from the current B01 architecture.
+
+An anomaly does not have to appear in every beat. For genuine Resonance-influenced actions, privately answer **what changed, why this place and time, what anyone did, what constrained it, immediate cost, lingering residue, what another observer could document or misread**. For ordinary fear, illness, exhaustion or care, do not invent a Resonance cost to satisfy a template.
+
+## Event / evidence sequence
+
+| B01 locus | GIVEN: human and observable baseline | OPEN objective event / evidence | Minimum test before prose; protected limit |
+| --- | --- | --- | --- |
+| **Prologue → E01–02 swamp** | Silence/Hope register strain but cannot simply intervene. Seraphine reaches a sick child; does what is reasonably available; child dies; she stays with family. Perceptual wrongness is *subtle*. | The child's condition, local care chain, which observation if any differs from ordinary illness/environment, who else can corroborate it. | Establish medical/care failure separately from putative anomaly. A residual item can be an ordinary documented discrepancy **only if one is chosen**; grief is not physical proof or cause of death. No Shard/Mending-site exposition, prophecy or no-cost repair. |
+| **E04–05 Lucien line/misalignment** | Ordinary professional assignment; one line/angle appears wrong and normality returns; second encounter brings bodily disorientation, physical checking and possible bystander noticing pallor. E05 explicitly bars objective floating geometry. | Exact reference surface/sightline/instrument and result of recheck, whether another observer or device disagrees, immediate bodily aftereffect. | Record what Lucien *measured* versus what he *saw*; an instrument can remain normal while his experience is real. E04 southwest bias remains faint private perception, not a mapped vector or a new location law. |
+| **E07–08 crowd/Square recurrence** | Ordinary reasons bring workers, tourists and others to Jackson Square; crowd impatience/misreading escalates without puppet behavior; a repeat appears in a different circumstance; Seraphine de-escalates through ordinary skill with at most subtle permitted Mechanica. | Whether anything non-social changes physically; which independent sightings/timestamps make two occasions comparable; mundane light/sound sources. | First record crowd action and social contagion; if an objective anomaly is claimed, specify carrier and corroboration. No automatic red-fear color, mind reading or full civic stabilization. |
+| **E13 dual collapse → E15 first Square civic event → E16–17** | Two individuals use concrete mutual grounding and earn trust, neither fixes the other. E15 brings a larger Square event shared by multiple observers, potential local tech malfunction, conflicting testimony and practical aftermath; E16 adds cleanup, commerce and imperfect comparison. | What occurs at the Square **independent of Seraphine/Lucien perception**; event footprint, start/stop, device symptom, material/service trace, exposure of nonparticipants and who documents it. | Give E15 one bounded public corroboration whose *existence* is hard to dismiss but whose cause is disputed. Relationship alignment is not its cause or cure. E16 should trace at least one specific prior consequence, not repeat awe. Do not name a formal Pulse or imply global confirmation. |
+| **E20 neighborhood spike → E25 pattern → E27 warning → E29 retreat** | Baz reads testimony/sequence, Lucien recurrence, Seraphine lived human pressure. Imperfect evidence supports a limited working model. Trio predicts a near-term window and explicitly defines failure; Marigny withdrawal is later vindicated. | Named comparable variable(s), timestamp/source quality, false positives or missing events, forecast window and what observation would disprove it. | Prediction must be falsifiable at **local scope** without explaining the physics. Later evidence validates *retreat* without proving the zone itself was a formal corridor or requiring a boost power from restraint. |
+| **E32 anticipation → E33 pulse strikes → E34–35 bodily/community aftermath** | Prediction partly right; expression/scale surprise; uneven adaptation; technology degrades; Seraphine helps individuals; Lucien cannot command structure; Baz records hit/miss. E34 demands food/water/shower/sleep before debrief; E35 care helps but does not reverse event. | Which earlier variable predicted E33, how observed event departs from expectation, one specific instrument/network/service symptom, nonparticipant impact, recovery interval. | Separate actual event from preparation, interpretation and medical/social recovery. A charged device with failed network is not the same as lost grid supply. Keep E32→33→34 uninterrupted; no breath-controlled city-scale cancellation or exposition during acute care. |
+| **E38–41 cross-system consequences** | Scattered reports overlap prior unresolved incidents. Routes, schedules, closures, messaging, crowd management and care strain; injuries, lost items and separated people persist. “Hum” remains ambiguous. | Which disruptions are truly co-temporal, what staff/service backlog persists, whether a hum has an independent acoustic source, how records disagree. | Use **distinct material failure chains** rather than repeating E15/E33 as unnamed surges. Do not read weather index, corridor class or public mood as an all-purpose failure explanation. |
+| **E43 grounding fails / E44 wonder** | Community care practices help people but do not stop larger pattern. An ordinary-place encounter with strangeness is small, beautiful, possibly uncertain, and *not* danger, clue or team mobilization. | No extra mechanical effect is required in E44. E43's larger event remains independently specified in its own card. | Care's benefit can be observable in attention, choice and logistics, not a repaired site. If E44 remains an uncertain perception or prose metaphor, do not force residue or forensic reporting merely to “prove” it. |
+| **E45 rebound → E46 wide quiet** | E45 stronger recurrence defeats Lucien's spatial model from *his POV*, not objective impossible geometry. Seraphine anchors him, Baz attends consequences. E46 is partly literal social quiet, partly POV; ordinary sounds return one by one. | Distinguish E45 outside witnesses/material consequence from Lucien's internal misalignment; E46 which sounds ceased because people/ordinary devices stopped versus what only a focalizer registered. | Two locally plausible observations may be incompatible *to Lucien* without asserting folded topology. Neither care nor silence is a universal stabilizer. E46 needs no added spectacle or system lecture. |
+| **E47 Square memory → E48 predicted quiet event** | Square's “memory” is human routine, memorial, rumor and changed habits. Team identifies a still-incomplete systemic **local** recurrence, predicts another observation window. E48 arrives near expectation, differs from E33, team observes more than intervenes; material records/damage and changed habits remain; global scope unconfirmed. | Which prior variables predict E48; objective event discriminant from E33 beyond mood or lower FX; which measurement remains imperfect; concrete persistent local trace and record custody. | Do not turn stone/water into playback devices, claim complete control, release MT, introduce LT geometry or certify worldwide reach. “Systemic” is their bounded model, not the narrator declaring solved metaphysics. |
+
+### Mandatory observation key (editorial, not an in-world code)
+
+- **OBJ:** ordinary publicly accessible physical consequence (injury, disrupted routine, equipment symptom, altered material/record); the cause may remain contested.
+- **ATT:** attuned impression with range, fatigue and false positives, if attunement is permitted by reviewed physics.
+- **POV:** sincere focalized perception not independently verified; Lucien's angles are the explicit example.
+- **MET:** prose figure or social memory. “The Square remembers” remains MET until a separate physical memory law is *actually ruled*.
+
+An E44 wonder can end as POV/MET. Every **claimed objective event** should offer at least one OBJ trace or credible documented absence; recording an OBJ trace is not recording Resonance itself.
+
+## Small author/editor decision docket
+
+| ID | Decision before controlled EBCI | Conservative holding position |
+| --- | --- | --- |
+| **B1-E1** | For E15 and E33, what is the *minimum one objectively shared and persistent effect* at each event? What is demonstrably different between the two? | Do not script precise VFX or causality; retain shared disturbance, local aftermath and unresolved cause. |
+| **B1-E2** | What site/medium makes those observations local without “the crowd caused it” or a formal B01 Shard/corridor? | Use only verified site conditions, no universal coupling law beyond current reviewed constraints. |
+| **B1-E3** | Which observations, timestamps and error window underpin E27/E33 and E47/E48 predictions, and what would count as a miss? | Working local model and partial accuracy only; no exact numerical prophecy. |
+| **B1-E4** | What equipment symptom is objective, who diagnoses it, and what grid/network/device alternatives remain? | Device failure is a *casualty*, never digital Resonance or a broadcast. |
+| **B1-E5** | What can attunement infer in B01 and how does a POV/camera error get recorded? | Perceptual uncertainty is allowed; no telepathy, exact emotion reading or impossible objective geometry. |
+| **B1-E6** | Who responds to and records the Square/aftermath; what medical and civic access does each character really have? | Ordinary workers and witnesses with bounded roles, unnamed until recurrence warrants a specific face. |
+| **B1-E7** | Can E44 remain unverified wonder rather than an event contract requiring a trace? | **Recommend yes**, provided prose never presents it as a mechanically established action. |
+
+## Example of acceptable *drafting form*, not proposed canon
+
+A future private episode card can say: `[Named ordinary fixture/material] has [specific reproducible symptom] during [bounded interval]; [witness A] sees it, [device or worker B] records only [partial trace]; characters offer competing explanations; [person] pays [cost]; [repair/log] remains.` Each bracket is **OPEN until recovered or ruled**. This template creates no fixture, force, measurement or color by itself.
+
+## Sequence and approval
+
+1. Resolve B1-E1/E3/E4 and the essential physics/VFX rulings in the [integrated gate](../reports/B01_INTEGRATED_SYSTEMS_STRESS_AND_EBCI_READINESS_2026-09-23.md). B1-E2/E5/E6 can be specified only to the degree a selected event needs; B1-E7 may be affirmed as an exclusion.
+2. Populate **two worked cards**—E15 and E33—from author/editor-approved objective effects and compare E48 as an inversion. If one card still cannot answer cause → medium → effect → interpretation → cost, remain on hold.
+3. Leave ordinary non-anomaly Life/Reward scenes free of this ledger. After approval, link the cards to appropriate future packets; do not rewrite the locked beat order or `Mechanica-v4.md` merely to fill blanks.
+
+**Gate remains HOLD for Resonance-event EBCI; narrative architecture unchanged.**
