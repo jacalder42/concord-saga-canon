@@ -6393,4 +6393,78 @@ END OF ENTRY 70
 
 ===============================================================
 
+===============================================================
+
+# 71. Amendment 1 to Ruling 10 — strip workspace ids — 2026-09-23
+
+Ruled 2026-09-21: *"strip workspace ids"*, answering the question put before any source
+was committed. Recorded in `recovery/GATE_RULINGS_2026-09-21.md`, **Amendment 1**.
+
+## 1. The carve-out, and why it does not hollow out Ruling 10
+
+Ruling 10 stores sources *"verbatim, never edited."* This is the **one** permitted
+deviation: `workspace_account_id` is replaced with the literal `REDACTED` before a file
+ever enters `sources/`.
+
+An archive with one **declared, uniform, mechanically verifiable** redaction is still an
+archive. An archive with undeclared edits is not. Three conditions hold the distinction:
+the redaction is named in the ruling, in `sources/README.md` and **in the file itself**
+(the key is kept, only its value replaced, so a reader sees that redaction happened); it
+is surgical; and `MANIFEST.csv` carries the SHA-256 of **both** the original and the
+stored file.
+
+## 2. Scope, measured before writing the tool
+
+- `workspace_account_id` is a **single top-level key** per `.json`, **one distinct value**
+  across all files.
+- **The `.md` files do not contain it at all.** They are stored byte-identical.
+- `real_author` holds only `tool:web` / `tool:web.run`; `owner` is null. Neither is
+  personal; neither is touched.
+
+## 3. `tools/ingest_sources.py`
+
+Copies, redacts, verifies and manifests in one pass. Standard library only, so it runs on
+the author's machine.
+
+**The substitution is text-level, not a re-serialisation.** Loading and re-dumping the
+JSON would reformat every line — a far larger edit than the redaction it is meant to make,
+and one that would destroy any claim to verbatim storage. The tool substitutes the value
+in place and leaves every other byte alone.
+
+It aborts rather than storing a file when the redaction would change anything else, when a
+`.md` unexpectedly contains the key, or when an existing stored file differs
+(`sources/` is append-only; `--force` is required to override).
+
+## 4. Proven, not asserted
+
+Run against the 7 conversations in hand:
+
+- **All 7 `.md` files byte-identical** to their originals.
+- Each `.json`: **exactly one** occurrence replaced, **28-byte** size delta.
+- **The reversal test.** Substituting the original value back into the stored file yields
+  a file **byte-identical to the original**, for both JSONs.
+
+That last check is the whole proof, and it is `O(n)`: if putting the value back reproduces
+the original exactly, the redaction changed that value and **provably nothing else**. A
+`difflib` comparison was attempted first and is quadratic — it did not finish on a 1.7 MB
+file. A `cmp -l` byte count was also tried and is **actively misleading here**: because the
+redaction shortens the file by 28 bytes, every subsequent byte is offset and `cmp` reports
+~1.5 million "differing bytes" for a one-value change.
+
+## 5. Order matters, and getting it wrong is unrecoverable
+
+**Redaction happens before the first commit, never after.** Committing raw files and
+stripping them later does not remove the value — it stays in git history permanently, and
+removing it then means rewriting published history, which §2 forbids. The tool exists so
+the redacted form is what gets committed in the first place.
+
+## 6. Still outstanding
+
+**`sources/` holds only its README.** The 144 files are not committed. The ruling, the
+carve-out and the tool are all in place; the material is not.
+
+END OF ENTRY 71
+
+===============================================================
+
 END RECOVERY LEDGER

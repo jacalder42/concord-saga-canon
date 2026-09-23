@@ -139,3 +139,54 @@ Canon-scope 0 stays the ceiling. Derived containers stay derived. Nothing is pru
 edited in place. Mara Niht's separate finding stands: her source contains zero occurrences
 of `Concord`, `Elisabet`, `Velvet Vein` or `Harpa`, so her saga integration is **authorial
 decision, not recovery**. Storing the body changes nothing about that.
+
+---
+
+# AMENDMENT 1 — strip workspace ids
+
+**Ruled 2026-09-21:** *"strip workspace ids"*, in answer to the question raised before any
+source was committed.
+
+## The ruling
+
+`workspace_account_id` is **removed from every `.json` before it enters `sources/`**. Its
+value is replaced with the literal `REDACTED`.
+
+This is the **only** permitted deviation from verbatim storage. Any further redaction
+needs its own amendment.
+
+## Why this is a narrow carve-out and not a hole in Ruling 10
+
+Ruling 10 says *"verbatim, never edited … a source archive that edits its sources is not an
+archive."* That is still the rule. An archive with **one declared, uniform, mechanically
+verifiable redaction** is still an archive; an archive with undeclared edits is not. Three
+conditions keep the distinction real:
+
+1. **Declared.** Named here, named in `sources/README.md`, and visible in the file itself —
+   the key is kept and its value replaced, rather than the key being deleted. A reader sees
+   that a redaction happened.
+2. **Surgical.** The replacement is a **text-level substitution of that value only**. The
+   files are not re-serialised, so every other byte is unchanged. Re-formatting the JSON
+   would be a far larger edit than the redaction itself.
+3. **Verifiable.** `MANIFEST.csv` records the SHA-256 of **both** the original file and the
+   stored file, plus the redaction applied. Anyone holding the export can confirm that the
+   stored file differs from the original in exactly one value.
+
+## Scope, measured
+
+- `workspace_account_id` is a **single top-level key** per `.json`, one distinct value
+  across all files.
+- **The `.md` files do not contain it at all**, so they are stored byte-identical and their
+  two hashes match.
+- `real_author` holds only `tool:web` / `tool:web.run`; `owner` is null. Neither is
+  personal and neither is touched.
+
+## The ingest order matters, and getting it wrong is not recoverable
+
+**Redaction happens BEFORE the first commit, never after.** Committing raw files and
+stripping them later does not remove the value — it stays in git history permanently, and
+removing it then requires rewriting published history, which §2 forbids.
+
+`tools/ingest_sources.py` performs the copy, the redaction, the verification and the
+manifest in one pass, so the redacted form is what gets committed in the first place.
+

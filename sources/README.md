@@ -42,6 +42,24 @@ re-export.
 Account export run **2026-09-15** (`exported: 2026-09-15T16:57:09.617Z`). This supersedes
 `CLAUDE.md` §7's earlier statement that no export path existed.
 
+## One permitted redaction — Amendment 1
+
+`workspace_account_id` is replaced with the literal `REDACTED` before a file enters this
+directory. **This is the only deviation from verbatim storage**; anything further needs its
+own amendment.
+
+The key is **kept** and only its value replaced, so the redaction is visible in the file
+rather than inferred from its absence. It is a **text-level substitution**, not a
+re-serialisation — every other byte survives. Verified by reversal: putting the original
+value back yields a byte-identical file.
+
+The `.md` files never contained it and are stored byte-identical.
+
+**Redaction happens before the first commit, never after** — a value committed raw stays in
+git history permanently. `tools/ingest_sources.py` does the copy, redaction, verification
+and manifest in one pass.
+
 `MANIFEST.csv` records, per conversation: filename, conversation id, created date, turn
-count, word count and SHA-256. **The manifest is the audit surface** — a file whose hash
+count, word count, and the SHA-256 of **both the original and the stored file**, plus any
+redaction applied. **The manifest is the audit surface** — a file whose hash
 does not match its manifest row has been altered, which rule 2 forbids.
