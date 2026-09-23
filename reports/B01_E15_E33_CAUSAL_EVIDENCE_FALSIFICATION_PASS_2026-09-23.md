@@ -34,7 +34,7 @@ The [full-export event provenance](../recovery/B01_PULSE_EVENT_FULL_EXPORT_PROVE
 
 **B1 use:** E15 foregrounds people, interruption and contradictory hearing; E16 records livelihood/repair/witness consequence; Baz may compare the files at E19/E25 after an ordinary consent/custody path. S02 precedes E15 and cannot report it. No exact frequency, shared citywide waveform or public metaphysical certainty.
 
-## E33 — bounded window shudder and the missing technology casualty
+## E33 — bounded window shudder and scaled technology behavior
 
 | Contract field | Supported or ruled | Gap / test |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ The [full-export event provenance](../recovery/B01_PULSE_EVENT_FULL_EXPORT_PROVE
 | Medium / coupling | Ordinary candidates: pressure differences, acoustic excitation or structural vibration transmitted through framing; weather, traffic, building equipment and crowd contact are alternatives. | No historical source establishes Resonance→air→pane or Resonance→frame→pane transfer, threshold, energy/cost or propagation distance. Glass conductivity metaphor is insufficient. |
 | Character action/cost | Seraphine aids reachable individuals; Lucien cannot command event; Baz records hits and misses; E34–35 bodily and practical aftermath (**CURRENT**). | Separate ordinary rescue fatigue/injury from Resonance-influenced action cost. Do not credit care with stopping pane vibration. |
 | Residue / independent check | Witness accounts, unedited video and a later building inspection could test whether panes moved or glass/seals were damaged (**PROPOSAL**). | Site, witness independence, repair/inspection result and ordinary comparison windows **OPEN**. A video proves motion at most, not cause. |
-| **Technology requirement** | Integrated E33 says **“Technology degrades as consequence.”** The author ruling omits the optional lamp by default. | **UNFILLED CURRENT BEAT:** choose one explicit ordinary device/service casualty and its diagnostic chain, or seek a documented amendment to remove/qualify that line. Windows alone do not discharge this requirement. Do not relabel a witness's intact phone video as degradation. |
+| **Technology behavior** | Integrated E33 says **“Technology degrades as consequence.”** Author clarification: degradation is **scaled**, and does not require failure. The optional lamp remains omitted by default. | **OPEN SPECIFICATION, not a missing-failure gate:** decide whether the effect is slight lag, distortion, intermittent readings, lost precision or another bounded quality change. Choose a mundane comparator and identify who notices. It may remain operational and preserve evidence. A completely unaffected witness phone does not itself count as degradation. |
 
 ### Competing hypotheses, with observations that matter
 
@@ -52,7 +52,7 @@ The [full-export event provenance](../recovery/B01_PULSE_EVENT_FULL_EXPORT_PROVE
 | Wind/air pressure | Compare meteorological conditions, sheltered vs exposed sides and timing. A local gust may explain a subset. | Ordinary candidate; no exact data recovered. |
 | Structure-borne vibration / sound | Look for transit, trucks, machinery, music, building systems, motion in non-glass parts, timing lag through the structure. | Ordinary candidate; source/site unselected. |
 | Human impact or flawed observation | Inspect contact points/recordings and independent indoor versus outdoor testimony. | May explain isolated panes; a broad claim needs stronger evidence. |
-| Resonance-coupled local material effect | Privately specify physical medium, energy/input, site selectivity, event duration, technology casualty, limit, cost and a prediction distinguishable from alternatives. | **OPEN**, no quantitative law recovered. |
+| Resonance-coupled local material effect | Privately specify physical medium, energy/input, site selectivity, event duration, scaled technology effect if one is causally linked, limit, cost and a prediction distinguishable from alternatives. | **OPEN**, no quantitative law recovered. |
 
 **Minimum falsifier for the primary observable:** if independent witnesses or footage cannot verify movement, downgrade to uncertain perception; if ordinary site inspection and event timing explain the motion, it remains a documented disturbance, not proven Resonance. Even a genuinely unusual movement does not license impossible topology. E33 must still pay **partial forecast success with an expressive miss**, followed by E34 care before theory.
 
@@ -76,7 +76,7 @@ The [full-export event provenance](../recovery/B01_PULSE_EVENT_FULL_EXPORT_PROVE
 ## Release result and next smallest decisions
 
 - **E15 objective contract:** amp interruption is a viable recoverable public anchor; two sound recordings are a newly authorized candidate for testing, with custody and mundane-source controls missing. **Causal Resonance model: HOLD.**
-- **E33 objective contract:** window motion is a viable recoverable candidate, with footprint and material coupling missing. **Technology degradation is not yet assigned to a concrete casualty. Causal Resonance model: HOLD.**
+- **E33 objective contract:** window motion is a viable recoverable candidate, with footprint and material coupling missing. **The degree and observation of technology degradation are open; failure is not required. Causal Resonance model: HOLD for the missing material coupling and cost.**
 - **E48:** protected quiet prediction/inversion has a criteria-based positive trace requirement, but no approved trace or forecast data. **Event contract: HOLD.**
 
-The first productive author/editor decisions are: (1) E15 choose concrete recorder owners/positions and whether original files survive; (2) E33 choose site and technology casualty or amend that beat; (3) E48 select a non-repetitive positive observable once prior evidence is resolved. Then adjudicate the private coupling and cost separately. No amendments to `rules/Mechanica-v4.md`, `rules/Resonance-v1.md` or the integrated beat bible follow from this diagnostic.
+The first productive author/editor decisions are: (1) E15 choose concrete recorder owners/positions and whether original files survive; (2) E33 choose site and a scaled observable technology change, which may be minor and need not entail failure; (3) E48 select a non-repetitive positive observable once prior evidence is resolved. Then adjudicate the private coupling and cost separately. No amendments to `rules/Mechanica-v4.md`, `rules/Resonance-v1.md` or the integrated beat bible follow from this diagnostic.
