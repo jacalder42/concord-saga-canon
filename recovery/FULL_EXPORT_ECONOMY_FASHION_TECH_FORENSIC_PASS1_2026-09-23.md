@@ -57,6 +57,20 @@ Nov. 30 “Project review and guidance” explicitly inventories preexisting AR,
 
 **Disposition:** Technology and communications = **substantially RECOVERED but incompletely reconciled**. The current production B01 baseline still needs AR/holochat prevalence by city/class, routine electricity/network reliability, affordable devices, evidence preservation and MT's first actual hardware. Prevent B01 anomalous tech failures from becoming routine.
 
+## Further full-thread check: the Nov. 30 material continued
+
+A second targeted reading of the same **original** `Project_review_and_guidance` Markdown corrects any impression that development stopped at a first attire bible:
+
+- ~4990–5420: separate **storage/recording/dead-drop evidence** and **translation/localization** light bibles. These are recovered source material, not merely proposed next steps.
+- ~7365–7621: **Uniforms / Professional Attire Bible**, prompted by the author at ~7353; workwear and social role legibility are more developed than the initial pass stated.
+- ~7790–8145: the author says “Proceed” and receives an in-chat **Track-1 Tech + Fashion Pack** compiling weather, AR/holochat, information ecology, travel, power, recording, translation, symbols, attire and uniforms. This is a compressed contemporary reference to mine, subject to later rulings.
+- ~8147–8414: after another “Proceed,” a **Weapons / Tools Palette Bible** is developed. It remains to be checked against the Sept. 2026 [combat recovery](COMBAT_CONFLICT_RECOVERY_2026-09-19.md) and [character systems matrix](CHARACTER_SYSTEMS_RECOVERY_MATRIX_PASS1_2026-09-22.md).
+- ~10367–10477: the author asks **what context systems remain**. The response names palette, weather operations, standard kits, economy/barter/resource flow, civic/social order, resopunk infrastructure, and fabric/material addendum. This is the thread's explicit contemporaneous gap list, not evidence that none has been developed elsewhere.
+- ~10517–11015: the author supplies VFX text and clarifies at ~10922 that the **Hybrid VFX Canon** was the latest of the pasted visual sources. The recompiled slab follows. This is an important provenance note for the [VFX audit](../reports/VFX_SENSORY_GRAMMAR_INTEGRITY_AUDIT_2026-09-23.md), which did not cite this full-export interaction. Later physics and author rulings still govern contradictory literal effects.
+
+**Revised status:** Tech/communications, information preservation, translation, travel, fashion and weapons have **deep historical source text**. The current repo's lack of dedicated distilled files is a migration/reconciliation deficit. Power/charging is similarly developed. Economy beyond power, civic order and practical weather operations were explicitly named as remaining work at that point.
+
+---
 ## Corrected priority order
 
 1. **Tech, power and MT integration pass:** extract Nov. 30 turns and compare Nov. 23→29→30→Dec. 1/6→current; separate network failure from power failure and Resonance; identify approval boundaries. Keep v1 VT imprint SUPERSEDED.
