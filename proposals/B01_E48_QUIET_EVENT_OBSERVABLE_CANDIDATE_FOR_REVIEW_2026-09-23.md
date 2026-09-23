@@ -7,7 +7,11 @@
 
 The [Dec. 8 full-export event pass](../recovery/B01_PULSE_EVENT_FULL_EXPORT_PROVENANCE_PASS_2026-09-23.md) recovers old E41's **row of apartment lights flickering**, a watch check and a quiet contrast with prior event spectacle. It also contains exact-to-the-second prediction, briefly U6/FX2–FX3, rhythmic citywide geometry and an implied agent. Those latter assertions are **SUPERSEDED or unsupported for current B01**. The [integrated E48](B01_REVISED_BEAT_BIBLE_V4_1B_INTEGRATED_2026-09-22.md) asks for an event close to expectation, uncertain timing/expression, observation more than intervention, imperfect measurement, changed routines and still-fragmented public vocabulary. The old lights are a **RECOVERED PROP**, not an approved E48 physical law or specified location.
 
-## Leading candidate: bounded light fluctuation
+## Context review update — 2026-09-23
+
+The later [episode-context review](../reports/B01_EVENT_MECHANICS_EPISODE_CONTEXT_RECOMMENDATIONS_2026-09-23.md) re-ranks this recovered light image as a **conditional backup**, because E15 already includes an amp and E33 retains scaled technology behavior. The author-approved E48 requirement remains a quiet, positive, independently checkable observation; no different specific physical effect has yet been recovered or approved. The detailed light card below is retained for comparison, not promoted into E48 canon.
+
+## Historical candidate: bounded light fluctuation
 
 During a previously declared *local* observation window, a **small bounded group of ordinary building lights visibly varies in brightness or briefly flickers and returns to service**. This revisits the recovered old E41 image without converting it into an orderly citywide cascade. A person at a different vantage, or an ordinary independently kept recording or electrical observation, can corroborate **that the light changed**, with uncertainty about the source and precise timing. A shared circuit, building control, voltage dip, visual occlusion, camera exposure behavior or unrelated fixture problem could account for it. A film alone may misrepresent flicker; direct witness and device/fixture comparison matter.
 
