@@ -68,7 +68,7 @@ A **city bible records what may happen there**, not a guarantee that a milestone
 **Inference from the mapping:** the sense of a three-book endgame is likely caused by an under-represented Loom event spine and an over-represented final-site itinerary. The evidence does **not** prove the missing events must be invented: B7/B8 have historically developed local crises and human choices that have not been admitted to the 36-row milestone grid. Recover what survives before proposing new incidents.
 
 
-## 6. B7/B8 event substrate to mine before adding final-site beats
+## 5. B7/B8 event substrate to mine before adding final-site beats
 
 These are **historical source occurrences or later macro functions**, not newly approved milestones. They are candidates for the *non-finale* spine. “Place unknown” is an information gap, not an invitation to put every scene in the swamp.
 
@@ -85,7 +85,7 @@ These are **historical source occurrences or later macro functions**, not newly 
 
 **Promotion test:** a candidate earns a B7/B8 milestone only when it has (1) a distinct site or distributed evidence protocol, (2) physically present people, (3) an action/constraint that changes access, trust, resources or relationships, (4) consequences carried to the next book, and (5) no duplication of B9 Mending/siege payoff. The shortlist is intentionally uneven; the goal is **distinct causal events**, not equal event counts per book.
 
-## 5. Next pass and record shape
+## 6. Next pass and record shape
 
 Build **two linked registers**, not a single geography-only sheet:
 
