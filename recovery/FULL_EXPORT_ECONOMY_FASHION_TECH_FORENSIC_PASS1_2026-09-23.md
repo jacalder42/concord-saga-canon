@@ -2,7 +2,7 @@
 
 **Date:** 2026-09-23  
 **Status:** RECOVERY / NON-CANONICAL; source excerpts and current disposition remain separate.  
-**Archive:** `2025-11-01__Concord_Saga_CSVs__6906955c.tar` (author supplied; available in the project files). See [archive inventory](CONCORD_TAR_FORENSIC_INVENTORY_2026-09-20.md).
+**Archive:** `2025-11-01__Concord_Saga_CSVs__6906955c.tar` (author supplied; available in the project files). The separate project-file archive inventory is `CONCORD_TAR_FORENSIC_INVENTORY_2026-09-20.md`; the [Phase 1A account-export audit](ACCOUNT_EXPORT_PHASE1A_AUDIT_2026-09-20.md) also verifies direct use of the original TAR.
 
 ## Access verification and limits
 
