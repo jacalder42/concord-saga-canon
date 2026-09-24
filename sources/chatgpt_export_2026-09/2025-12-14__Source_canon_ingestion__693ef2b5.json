@@ -1,0 +1,293 @@
+{
+  "exported": "2026-09-15T17:00:45.998Z",
+  "workspace_account_id": "REDACTED",
+  "id": "693ef2b5-33a4-832c-8b43-76494fb3d7c1",
+  "title": "Source canon ingestion",
+  "create_time": "2025-12-14T17:24:06.345005Z",
+  "update_time": "2025-12-14T17:24:11.244826Z",
+  "archived": false,
+  "turn_count": 2,
+  "word_count": 197,
+  "conversation": {
+    "title": "Source canon ingestion",
+    "create_time": 1765733046.345005,
+    "update_time": 1765733051.269174,
+    "moderation_results": [],
+    "plugin_ids": null,
+    "conversation_id": "693ef2b5-33a4-832c-8b43-76494fb3d7c1",
+    "conversation_template_id": null,
+    "gizmo_id": null,
+    "gizmo_type": null,
+    "is_archived": false,
+    "is_starred": null,
+    "safe_urls": [
+      "https://docs.google.com/spreadsheets/d/1HmkfBJulhu50S6L9wuRsaVC9VL1LpbxpmgRzn33SxsQ/edit?gid=676408861#gid=676408861",
+      "https://github.com/my_company/my-private-repo/blob/main/examples/README.md",
+      "https://github.com/some_company/some-private-repo/blob/main/examples/README.md",
+      "https://www.notion.so/9162f50b62b080124ca4db47ba6f2e54",
+      "https://docs.google.com/document/d/1WF0NB9fnxhDPEi_arGSp18Kev9KXdoX-IePIE8KJgCQ/edit?tab=t.0#heading=h.e3mmf6q9l82j",
+      "https://www.openai.com",
+      "https://docs.google.com/document/d/1WF0NB9fnxhDPEi_arGSp18Kev9KXdoX-IePIE8KJgCQ"
+    ],
+    "blocked_urls": [],
+    "default_model_slug": "gpt-5-2",
+    "atlas_mode_enabled": null,
+    "conversation_origin": null,
+    "is_read_only": null,
+    "voice": null,
+    "async_status": null,
+    "disabled_tool_ids": [],
+    "is_temporary_chat": false,
+    "is_do_not_remember": false,
+    "memory_scope": "global_enabled",
+    "context_scopes": null,
+    "sugar_item_id": null,
+    "sugar_item_visible": false,
+    "pinned_time": null,
+    "is_study_mode": false,
+    "owner": null,
+    "mapping": {
+      "client-created-root": {
+        "id": "client-created-root",
+        "message": null,
+        "parent": null,
+        "children": [
+          "c1e0a845-2ae1-4d22-92a4-7b1826038f34"
+        ]
+      },
+      "c1e0a845-2ae1-4d22-92a4-7b1826038f34": {
+        "id": "c1e0a845-2ae1-4d22-92a4-7b1826038f34",
+        "message": {
+          "id": "c1e0a845-2ae1-4d22-92a4-7b1826038f34",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": null,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 0,
+          "metadata": {
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "client-created-root",
+        "children": [
+          "9616dc25-8bd8-486f-ada3-f25c8a7a9c01"
+        ]
+      },
+      "9616dc25-8bd8-486f-ada3-f25c8a7a9c01": {
+        "id": "9616dc25-8bd8-486f-ada3-f25c8a7a9c01",
+        "message": {
+          "id": "9616dc25-8bd8-486f-ada3-f25c8a7a9c01",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": null,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "is_contextual_answers_system_message": true,
+            "contextual_answers_message_type": "identity_prompt",
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "c1e0a845-2ae1-4d22-92a4-7b1826038f34",
+        "children": [
+          "0ad64988-ef5d-4f78-9096-2b287fc90016"
+        ]
+      },
+      "0ad64988-ef5d-4f78-9096-2b287fc90016": {
+        "id": "0ad64988-ef5d-4f78-9096-2b287fc90016",
+        "message": {
+          "id": "0ad64988-ef5d-4f78-9096-2b287fc90016",
+          "author": {
+            "role": "user",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765733045.367,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are acting as a **Source Canon Ingestion Tool**, not a writer or editor. Your task is to ingest one or more attached TXT files containing raw, unstructured source material and consolidate them into clean **FULL SOURCE CANON Markdown files**. STRICT RULES: - Do NOT invent new facts - Do NOT summarize unless explicitly instructed - Preserve contradictions and uncertainty - Remove duplicated content across files - Maintain original meaning and intent - Organize information into the provided template - Do not output until explicitly instructed I will attach the TXT files next."
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "developer_mode_connector_ids": [],
+            "selected_sources": [],
+            "selected_github_repos": [],
+            "serialization_metadata": {
+              "custom_symbol_offsets": []
+            },
+            "request_id": "5c7e30ca-5f2c-4a69-921f-f0a250faf862",
+            "message_source": null,
+            "turn_exchange_id": "52554e34-58eb-4203-b908-cd979b8aebc1",
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "9616dc25-8bd8-486f-ada3-f25c8a7a9c01",
+        "children": [
+          "17b8dec5-8138-4c25-b88b-6c2deee5fad4"
+        ]
+      },
+      "17b8dec5-8138-4c25-b88b-6c2deee5fad4": {
+        "id": "17b8dec5-8138-4c25-b88b-6c2deee5fad4",
+        "message": {
+          "id": "17b8dec5-8138-4c25-b88b-6c2deee5fad4",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765733046.1150682,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "is_contextual_answers_system_message": true,
+            "is_visually_hidden_from_conversation": true,
+            "command": "prompt",
+            "contextual_answers_message_type": "sources_and_filters_prompt",
+            "request_id": "5c7e30ca-5f2c-4a69-921f-f0a250faf862",
+            "message_type": "next",
+            "model_slug": "gpt-5-2",
+            "default_model_slug": "gpt-5-2",
+            "parent_id": "0ad64988-ef5d-4f78-9096-2b287fc90016",
+            "turn_exchange_id": "52554e34-58eb-4203-b908-cd979b8aebc1",
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "0ad64988-ef5d-4f78-9096-2b287fc90016",
+        "children": [
+          "f26dce5a-5f54-4f3c-9b91-18a3593030eb"
+        ]
+      },
+      "f26dce5a-5f54-4f3c-9b91-18a3593030eb": {
+        "id": "f26dce5a-5f54-4f3c-9b91-18a3593030eb",
+        "message": {
+          "id": "f26dce5a-5f54-4f3c-9b91-18a3593030eb",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765733046.5311804,
+          "update_time": null,
+          "content": {
+            "content_type": "model_editable_context",
+            "model_set_context": "",
+            "repository": null,
+            "repo_summary": null,
+            "structured_context": null
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "request_id": "5c7e30ca-5f2c-4a69-921f-f0a250faf862",
+            "message_type": "next",
+            "model_slug": "gpt-5-2",
+            "default_model_slug": "gpt-5-2",
+            "parent_id": "17b8dec5-8138-4c25-b88b-6c2deee5fad4",
+            "turn_exchange_id": "52554e34-58eb-4203-b908-cd979b8aebc1",
+            "model_switcher_deny": [],
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "17b8dec5-8138-4c25-b88b-6c2deee5fad4",
+        "children": [
+          "d0eafe2c-1380-4709-b83c-ec544043e534"
+        ]
+      },
+      "d0eafe2c-1380-4709-b83c-ec544043e534": {
+        "id": "d0eafe2c-1380-4709-b83c-ec544043e534",
+        "message": {
+          "id": "d0eafe2c-1380-4709-b83c-ec544043e534",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765733046.194077,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Understood.  \n\nI am now in **Source Canon Ingestion Tool mode** and will **not** write, edit, summarize, reconcile, or infer beyond the source material.\n\n### I will:\n- Ingest the attached TXT file(s) exactly as provided  \n- Preserve **all facts, contradictions, ambiguities, and uncertainties**  \n- **Remove duplicate content across files** without altering meaning  \n- **Not invent, resolve, or reinterpret** anything  \n- Organize material **only** into the **provided template** (once you supply it, if not already)  \n- Produce **FULL SOURCE CANON Markdown** suitable for downstream canon locking  \n- **Not output anything** until you explicitly instruct me to do so\n\nPlease attach the TXT file(s) when ready."
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 1,
+          "metadata": {
+            "finish_details": {
+              "type": "stop",
+              "stop_tokens": [
+                200002
+              ]
+            },
+            "is_complete": true,
+            "citations": [],
+            "content_references": [],
+            "request_id": "5c7e30ca-5f2c-4a69-921f-f0a250faf862",
+            "message_type": "next",
+            "model_slug": "gpt-5-2",
+            "default_model_slug": "gpt-5-2",
+            "parent_id": "f26dce5a-5f54-4f3c-9b91-18a3593030eb",
+            "turn_exchange_id": "52554e34-58eb-4203-b908-cd979b8aebc1",
+            "model_switcher_deny": [],
+            "can_save": true
+          },
+          "recipient": "all",
+          "channel": "final"
+        },
+        "parent": "f26dce5a-5f54-4f3c-9b91-18a3593030eb",
+        "children": []
+      }
+    },
+    "current_node": "d0eafe2c-1380-4709-b83c-ec544043e534",
+    "context_truncation_continuation": null
+  }
+}

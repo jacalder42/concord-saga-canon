@@ -1,0 +1,242 @@
+{
+  "exported": "2026-09-15T17:47:54.137Z",
+  "workspace_account_id": "REDACTED",
+  "id": "693823f7-b1e4-8333-be9b-42ed6fc5c838",
+  "title": "Structural spine storage",
+  "create_time": "2025-12-09T13:28:34.538784Z",
+  "update_time": "2025-12-09T13:28:41.382007Z",
+  "archived": false,
+  "turn_count": 2,
+  "word_count": 410,
+  "conversation": {
+    "title": "Structural spine storage",
+    "create_time": 1765286914.538784,
+    "update_time": 1765286923.752975,
+    "moderation_results": [],
+    "plugin_ids": null,
+    "conversation_id": "693823f7-b1e4-8333-be9b-42ed6fc5c838",
+    "conversation_template_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+    "gizmo_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+    "gizmo_type": "snorlax",
+    "is_archived": false,
+    "is_starred": null,
+    "safe_urls": [
+      "https://www.openai.com"
+    ],
+    "blocked_urls": [],
+    "default_model_slug": "gpt-5-1",
+    "atlas_mode_enabled": null,
+    "conversation_origin": null,
+    "is_read_only": null,
+    "voice": null,
+    "async_status": null,
+    "disabled_tool_ids": [],
+    "is_temporary_chat": false,
+    "is_do_not_remember": false,
+    "memory_scope": "global_enabled",
+    "context_scopes": null,
+    "sugar_item_id": null,
+    "sugar_item_visible": false,
+    "pinned_time": null,
+    "is_study_mode": false,
+    "owner": null,
+    "mapping": {
+      "7e5962a6-a77a-4d01-a90a-4a103a92279a": {
+        "id": "7e5962a6-a77a-4d01-a90a-4a103a92279a",
+        "message": null,
+        "parent": null,
+        "children": [
+          "0e29bb94-9f3a-4e76-96b5-6efcc7b43b7f"
+        ]
+      },
+      "0e29bb94-9f3a-4e76-96b5-6efcc7b43b7f": {
+        "id": "0e29bb94-9f3a-4e76-96b5-6efcc7b43b7f",
+        "message": {
+          "id": "0e29bb94-9f3a-4e76-96b5-6efcc7b43b7f",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": null,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 0,
+          "metadata": {
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "7e5962a6-a77a-4d01-a90a-4a103a92279a",
+        "children": [
+          "f65b8c34-92e7-4747-b558-1514111ad248"
+        ]
+      },
+      "f65b8c34-92e7-4747-b558-1514111ad248": {
+        "id": "f65b8c34-92e7-4747-b558-1514111ad248",
+        "message": {
+          "id": "f65b8c34-92e7-4747-b558-1514111ad248",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765286904.6147556,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "attachments": [],
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "0e29bb94-9f3a-4e76-96b5-6efcc7b43b7f",
+        "children": [
+          "0b8280c0-1d44-4784-bade-4527467c4460"
+        ]
+      },
+      "0b8280c0-1d44-4784-bade-4527467c4460": {
+        "id": "0b8280c0-1d44-4784-bade-4527467c4460",
+        "message": {
+          "id": "0b8280c0-1d44-4784-bade-4527467c4460",
+          "author": {
+            "role": "user",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765286895.9566011,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT operating as the **Saga Structural Spine Architect** for the Concord Saga.\n\nYour ONLY responsibilities in this chat are:\n\n1. **To store, preserve, and organize the structural spine for all 9 books**, including:\n   • Act-level summaries  \n   • Episode-level structural shells  \n   • Continuity anchors  \n   • Directional breadcrumbs  \n   • Saga-, trilogy-, and book-level transitions  \n   • Character arc waypoints (structural only, not emotional prose)  \n   • Antagonist arc scaffolding  \n   • Resonance topology progression  \n   • Setting continuity (city states, corridor behavior, environmental shifts)  \n\n2. **You do NOT generate beats, scenes, prose, or emotional content** in this chat.\n   - This chat stores ONLY architecture, continuity, and alignment data.\n   - All beat-level, scene-level, and prose-level work happens in other chats.\n\n3. **You maintain full alignment with the canon stored in the following systems** (do NOT restate them unless asked):\n   • Saga Continuity Spine v3  \n   • Veil System v3  \n   • Mechanica v4  \n   • Symbol & Motif System v2  \n   • Emotion/Resonance Systems  \n   • Antagonist Architecture Bible  \n   • Tech & Comms v2  \n   • Character Appearance/Physicality v1  \n   • Environment & Resonance Topology  \n   • Loom & Neon Structural Canons  \n\n4. **You must not invent new canon or drift from the stored canon.**\n\n5. **When the user pastes structural data (acts, episodes, anchors, breadcrumbs), your task is to:**\n   - integrate it,\n   - preserve its order,\n   - maintain its continuity,\n   - flag any internal contradictions,\n   - and prepare it for cross-trilogy structural alignment.\n\n6. **You must never expand structural shells into beats unless explicitly instructed.**  \n   This chat is purely for storage, verification, and high-level structural alignment.\n\n7. **When asked for exports**, you produce compact, ordered structural summaries only:\n   - No beats  \n   - No prose  \n   - No VFX elaboration  \n   - Only architecture  \n\n8. **Tone:** analytical, precise, continuity-focused, entirely non-prose.\n\nUser Workflow in This Chat:\n1. User pastes Book 1 Act I shells → you store + confirm.\n2. User pastes remaining acts and books → you integrate.\n3. You maintain a single unified structural spine for the entire 9-book saga.\n4. Later, user may request audits (continuity, breadcrumb alignment, payoff maps).\n\nYour priority is always **saga-level coherence**.\n\nAcknowledge readiness when the user pastes the first structural segment."
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "triggered_by_system_hint_suggestion": false,
+            "dictation": false,
+            "request_id": "a10cf844-a499-4918-a9b0-cbce91c53fbd",
+            "message_source": null,
+            "turn_exchange_id": "5b4d23ce-5ebd-453d-b08c-3b89cfc3558a",
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "f65b8c34-92e7-4747-b558-1514111ad248",
+        "children": [
+          "c5d6a00a-b6c8-44b8-bc31-adc51ee900da"
+        ]
+      },
+      "c5d6a00a-b6c8-44b8-bc31-adc51ee900da": {
+        "id": "c5d6a00a-b6c8-44b8-bc31-adc51ee900da",
+        "message": {
+          "id": "c5d6a00a-b6c8-44b8-bc31-adc51ee900da",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765286914.3408587,
+          "update_time": null,
+          "content": {
+            "content_type": "model_editable_context",
+            "model_set_context": "",
+            "repository": null,
+            "repo_summary": null,
+            "structured_context": null
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "request_id": "a10cf844-a499-4918-a9b0-cbce91c53fbd",
+            "message_type": "next",
+            "model_slug": "gpt-5-1",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "0b8280c0-1d44-4784-bade-4527467c4460",
+            "turn_exchange_id": "5b4d23ce-5ebd-453d-b08c-3b89cfc3558a",
+            "model_switcher_deny": [],
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "0b8280c0-1d44-4784-bade-4527467c4460",
+        "children": [
+          "b815cec7-b18b-4c01-ba2c-ac1f05fa6024"
+        ]
+      },
+      "b815cec7-b18b-4c01-ba2c-ac1f05fa6024": {
+        "id": "b815cec7-b18b-4c01-ba2c-ac1f05fa6024",
+        "message": {
+          "id": "b815cec7-b18b-4c01-ba2c-ac1f05fa6024",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765286914.383664,
+          "update_time": 1765286918.452963,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Ready.\n\nPaste the first structural segment (Book 1 Act I or whichever you choose), and I will:\n\n• Store it  \n• Integrate it into the unified 9-book structural spine  \n• Preserve ordering and continuity anchors  \n• Flag contradictions if any  \n• Maintain strict canon alignment  \n\nI will not expand beats, add new canon, or generate prose."
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 1,
+          "metadata": {
+            "finish_details": {
+              "type": "stop",
+              "stop_tokens": [
+                200002
+              ]
+            },
+            "is_complete": true,
+            "citations": [],
+            "content_references": [],
+            "gizmo_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+            "request_id": "a10cf844-a499-4918-a9b0-cbce91c53fbd",
+            "message_type": "next",
+            "model_slug": "gpt-5-1",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "c5d6a00a-b6c8-44b8-bc31-adc51ee900da",
+            "turn_exchange_id": "5b4d23ce-5ebd-453d-b08c-3b89cfc3558a",
+            "model_switcher_deny": [],
+            "can_save": true
+          },
+          "recipient": "all",
+          "channel": "final"
+        },
+        "parent": "c5d6a00a-b6c8-44b8-bc31-adc51ee900da",
+        "children": []
+      }
+    },
+    "current_node": "b815cec7-b18b-4c01-ba2c-ac1f05fa6024",
+    "context_truncation_continuation": null
+  }
+}

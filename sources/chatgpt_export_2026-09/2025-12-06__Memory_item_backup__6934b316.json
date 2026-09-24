@@ -1,0 +1,242 @@
+{
+  "exported": "2026-09-15T17:48:49.113Z",
+  "workspace_account_id": "REDACTED",
+  "id": "6934b316-8760-8325-9f2f-54e52d15238c",
+  "title": "Memory item backup",
+  "create_time": "2025-12-06T22:50:07.647861Z",
+  "update_time": "2025-12-06T22:50:26.863435Z",
+  "archived": false,
+  "turn_count": 2,
+  "word_count": 635,
+  "conversation": {
+    "title": "Memory item backup",
+    "create_time": 1765061407.647861,
+    "update_time": 1765061428.355691,
+    "moderation_results": [],
+    "plugin_ids": null,
+    "conversation_id": "6934b316-8760-8325-9f2f-54e52d15238c",
+    "conversation_template_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+    "gizmo_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+    "gizmo_type": "snorlax",
+    "is_archived": false,
+    "is_starred": null,
+    "safe_urls": [
+      "https://www.openai.com"
+    ],
+    "blocked_urls": [],
+    "default_model_slug": "gpt-5-1",
+    "atlas_mode_enabled": null,
+    "conversation_origin": null,
+    "is_read_only": null,
+    "voice": null,
+    "async_status": null,
+    "disabled_tool_ids": [],
+    "is_temporary_chat": false,
+    "is_do_not_remember": false,
+    "memory_scope": "global_enabled",
+    "context_scopes": null,
+    "sugar_item_id": null,
+    "sugar_item_visible": false,
+    "pinned_time": null,
+    "is_study_mode": false,
+    "owner": null,
+    "mapping": {
+      "dd7c2c4e-ba88-4919-895b-88f89af964bd": {
+        "id": "dd7c2c4e-ba88-4919-895b-88f89af964bd",
+        "message": null,
+        "parent": null,
+        "children": [
+          "d97e23ec-9931-49ee-9b1e-c8f3a15a6d16"
+        ]
+      },
+      "d97e23ec-9931-49ee-9b1e-c8f3a15a6d16": {
+        "id": "d97e23ec-9931-49ee-9b1e-c8f3a15a6d16",
+        "message": {
+          "id": "d97e23ec-9931-49ee-9b1e-c8f3a15a6d16",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": null,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 0,
+          "metadata": {
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "dd7c2c4e-ba88-4919-895b-88f89af964bd",
+        "children": [
+          "1b037bbf-d061-479a-8af8-f7ffde1b63aa"
+        ]
+      },
+      "1b037bbf-d061-479a-8af8-f7ffde1b63aa": {
+        "id": "1b037bbf-d061-479a-8af8-f7ffde1b63aa",
+        "message": {
+          "id": "1b037bbf-d061-479a-8af8-f7ffde1b63aa",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765061398.9336352,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "attachments": [],
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "d97e23ec-9931-49ee-9b1e-c8f3a15a6d16",
+        "children": [
+          "2eb6c906-b028-43a6-91a3-d77557195544"
+        ]
+      },
+      "2eb6c906-b028-43a6-91a3-d77557195544": {
+        "id": "2eb6c906-b028-43a6-91a3-d77557195544",
+        "message": {
+          "id": "2eb6c906-b028-43a6-91a3-d77557195544",
+          "author": {
+            "role": "user",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765061396.7683759,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Paste this memory item for backup:\n\nBeat ID Augmentation System — Memory Edition v1.2 (Compressed)"
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "triggered_by_system_hint_suggestion": false,
+            "dictation": false,
+            "request_id": "1b6bdb87-5a32-4bf8-b50d-70bf5b97ec4f",
+            "message_source": null,
+            "turn_exchange_id": "284fa7c6-d287-46b8-a5aa-621cc6f20794",
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "1b037bbf-d061-479a-8af8-f7ffde1b63aa",
+        "children": [
+          "d3332efd-7a91-49fc-97dd-45ccf98d8208"
+        ]
+      },
+      "d3332efd-7a91-49fc-97dd-45ccf98d8208": {
+        "id": "d3332efd-7a91-49fc-97dd-45ccf98d8208",
+        "message": {
+          "id": "d3332efd-7a91-49fc-97dd-45ccf98d8208",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765061407.5164993,
+          "update_time": null,
+          "content": {
+            "content_type": "model_editable_context",
+            "model_set_context": "",
+            "repository": null,
+            "repo_summary": null,
+            "structured_context": null
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "request_id": "1b6bdb87-5a32-4bf8-b50d-70bf5b97ec4f",
+            "message_type": "next",
+            "model_slug": "gpt-5-1",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "2eb6c906-b028-43a6-91a3-d77557195544",
+            "turn_exchange_id": "284fa7c6-d287-46b8-a5aa-621cc6f20794",
+            "model_switcher_deny": [],
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "2eb6c906-b028-43a6-91a3-d77557195544",
+        "children": [
+          "91fbf794-7f0b-4ccf-9f2e-b208453f9567"
+        ]
+      },
+      "91fbf794-7f0b-4ccf-9f2e-b208453f9567": {
+        "id": "91fbf794-7f0b-4ccf-9f2e-b208453f9567",
+        "message": {
+          "id": "91fbf794-7f0b-4ccf-9f2e-b208453f9567",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765061407.546492,
+          "update_time": 1765061426.073449,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here is the **full backup paste** of the memory item exactly as saved, with no alterations:\n\n---\n\n**Beat ID Augmentation System — Memory Edition v1.2 (Compressed)**\n\n**1. Purpose:**  \nUnifies SID + ECID + BID into drafting rules controlling POV voice, environment, resonance, mechanics, emotion, humor, mode, and payoff structure.\n\n---\n\n### **MODULE 1 — POV VOICE ENGINE**\n- **Seraphine:** breath/light; empathic filter; stabilizing; prismatic post-Mending.  \n- **Lucien:** structure/lines; restraint; negative space; care-as-discipline.  \n- **Caro:** triage humor; calibration; emotional modulation.  \n- **Elisabet:** clarity/precision; navigation metaphors; emotion-as-data.  \n- **Kade:** voltage/kinetic; grief→certainty→fracture→accountability.  \n- **Tahl:** analytic/snark→urgency; VT-thinning; no resurrection tone.  \n**Support:** Lacuna (ritual/odds), Trip (hospitality/velvet snark), Rex (diagnostic), Elders (lineage), civic anchors (grounded clarity).  \n**Channel voices:** VT (intimate/pressure/no slang), MT (tech distortion), LT (prismatic; ascendants only).\n\n---\n\n### **MODULE 2 — ENVIRONMENT ENGINE**\n- **City dialects:** NOLA (humidity/bloom), Vienna (geometry/brittle), Singapore (fractal/synthetic), Marrakesh (prismatic/heat), Reykjavik (cold clarity), Tokyo (crowd geometry).  \n- **Corridors U1–U7:** safe → static → pressure → memory → bloom → shard-laced → quiet-veil.  \n- **Weather W0–W4:** Clear→Haze→Squall→Gale→Landfall; drives distortion + RO cost.  \n- **Modifiers:** humidity amplifies empathy; metal amplifies grid; water amplifies reflections; crowds amplify emotional bleed.\n\n---\n\n### **MODULE 3 — MODE/HEAT/FX/RES ENGINE**\n- **Modes:** ROM (slow/sensory), HUM (fast/meta), ACT (short/physical), SCI (analytic), CIV/INT/HOR/SLICE contextual.  \n- **Heat H0–H4:** spark→proximity→urgency→sensuality→mythic; each requires emotional pivot.  \n- **FX:** FX0 none → FX1 subtle → FX2 strong → FX3 mythic; escalation must follow emotional/environmental triggers.  \n- **Resonance:** CALM→BLOOM→SHARD→RUPTURE→NODE→VT→LT; strict channel rules.\n\n---\n\n### **MODULE 4 — ACTION/MECHANICS ENGINE (Mechanica v4)**\n- **Action cadence:** sensory-first; decision chain; short syntax.  \n- **RP = Will × Emotion × Intent** (visible proxy = Energy × Emotion × Intent).  \n- **Boosts:** ≤20% without collapse; costs mandatory (strain/dizziness/emotional backlash).  \n- **RO modifiers:** U6–U7, W3–W4, and emotional spikes raise cost. Characters modify RP curve (Seraphine stabilizes, Lucien aligns, Caro smooths, Kade destabilizes).\n\n---\n\n### **MODULE 5 — ROMANCE/EMOTION ENGINE**\n- **Heat ladder:** emotional depth precedes physical; each scene pivots relationship trajectory.  \n- **Relationship motion:** micro-sync, tension, emotional undressing, near-touch, intimacy, aftermath.  \n- **Emotion physics:** emotional amplitude modulates resonance and FX.\n\n---\n\n### **MODULE 6 — HUMOR ENGINE**\n- **POV humor:** Tahl dry/meta; Caro triage; Kade voltage gallows; Trip opulent snark.  \n- **Constraints:** no HUM in RUPTURE unless coping; humor must maintain emotional truth.\n\n---\n\n### **MODULE 7 — LOGIC & CONTINUITY ENGINE**\n- **Character logic:** arcs must move in allowed directions; no abrupt reversals; forbidden behaviors enforced (e.g., no Lucien impulsivity, no Tahl resurrection).  \n- **Resonance logic:** resonance ≠ magic; effects follow emotion + environment + Intent.  \n- **Channel separation:** MT ≠ VT ≠ LT; VT limited to metaphysicals; LT post-Mending only.  \n- **Environment:** weather affects FX; corridors match emotional pressure.\n\n---\n\n### **MODULE 8 — ANTAGONIST PRESSURE ENGINE**\n- **Types:** Institutional, Ideological, Technarch, Collapse, Interpersonal (Elias).  \n- **Effects:** constrains choices; raises emotional amplitude; modifies cadence (Choirless = flat; Hardliners = cold).  \n- **Faction modifiers:** Dominions (surveillance/politeness-weapon), Technarch (precision dread), Choirless (erasure), Brightbreak (grief exploitation), Metas (void/instability).\n\n---\n\n### **MODULE 9 — PAYOFF ENGINE**\n- **Payoffs:** PLOT, CHAR, ROMP, HUMP, LORE, HORP.  \n- **Audience tuning:** HH (sensual/emotional), LR (mechanics), HFN (lore), CR (balanced romance+plot), CWB (clarity/humor/pace).  \n- **Synthesis:** each beat integrates POV, mode, environment, resonance, mechanics, emotion, pressure, audience.\n\n---\n\n### **MODULE 10 — OUTPUT TEMPLATE (Condensed)**\n**BEAT ID:**  \nPOV / MODE / ENV / CORRIDOR / WEATHER / RES / HEAT / FX  \nPAYOFF + AUDIENCE  \n**VOICE:** POV + mode overrides  \n**ENV:** city dialect + corridor + weather  \n**RES/FX:** allowed distortion  \n**ACTION/MECH:** RP/RO + boost cost  \n**EMOTION:** heat or emotional shift  \n**PRESSURE:** faction/collapse modifier  \n**PAYOFF:** required change  \n**STYLE:** cadence rules.\n\n---\n\nIf you want, I can also package this into:\n\n✅ a TXT file  \n✅ a condensed micro-memory version  \n✅ a crosswalk diagram for beat packet generation  \n\nJust tell me."
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 1,
+          "metadata": {
+            "finish_details": {
+              "type": "stop",
+              "stop_tokens": [
+                200002
+              ]
+            },
+            "is_complete": true,
+            "citations": [],
+            "content_references": [],
+            "gizmo_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+            "request_id": "1b6bdb87-5a32-4bf8-b50d-70bf5b97ec4f",
+            "message_type": "next",
+            "model_slug": "gpt-5-1",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "d3332efd-7a91-49fc-97dd-45ccf98d8208",
+            "turn_exchange_id": "284fa7c6-d287-46b8-a5aa-621cc6f20794",
+            "model_switcher_deny": [],
+            "can_save": true
+          },
+          "recipient": "all",
+          "channel": "final"
+        },
+        "parent": "d3332efd-7a91-49fc-97dd-45ccf98d8208",
+        "children": []
+      }
+    },
+    "current_node": "91fbf794-7f0b-4ccf-9f2e-b208453f9567",
+    "context_truncation_continuation": null
+  }
+}

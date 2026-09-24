@@ -1,0 +1,386 @@
+{
+  "exported": "2026-09-15T17:48:23.490Z",
+  "workspace_account_id": "REDACTED",
+  "id": "6934f6f2-3210-832f-8c15-7537e0e549ac",
+  "title": "Rebuild Beat Bibles",
+  "create_time": "2025-12-07T03:39:39.156678Z",
+  "update_time": "2025-12-07T03:41:08.523522Z",
+  "archived": false,
+  "turn_count": 2,
+  "word_count": 2094,
+  "conversation": {
+    "title": "Rebuild Beat Bibles",
+    "create_time": 1765078779.156678,
+    "update_time": 1765078871.22827,
+    "moderation_results": [],
+    "plugin_ids": null,
+    "conversation_id": "6934f6f2-3210-832f-8c15-7537e0e549ac",
+    "conversation_template_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+    "gizmo_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+    "gizmo_type": "snorlax",
+    "is_archived": false,
+    "is_starred": null,
+    "safe_urls": [
+      "https://www.openai.com"
+    ],
+    "blocked_urls": [],
+    "default_model_slug": "gpt-5-1",
+    "atlas_mode_enabled": null,
+    "conversation_origin": null,
+    "is_read_only": null,
+    "voice": null,
+    "async_status": 4,
+    "disabled_tool_ids": [],
+    "is_temporary_chat": false,
+    "is_do_not_remember": false,
+    "memory_scope": "global_enabled",
+    "context_scopes": null,
+    "sugar_item_id": null,
+    "sugar_item_visible": false,
+    "pinned_time": null,
+    "is_study_mode": false,
+    "owner": null,
+    "mapping": {
+      "188c2c97-e714-40fc-905f-fa93022f3359": {
+        "id": "188c2c97-e714-40fc-905f-fa93022f3359",
+        "message": null,
+        "parent": null,
+        "children": [
+          "021dbbda-3afb-4da2-bbce-4b8d8ea4f2a6"
+        ]
+      },
+      "021dbbda-3afb-4da2-bbce-4b8d8ea4f2a6": {
+        "id": "021dbbda-3afb-4da2-bbce-4b8d8ea4f2a6",
+        "message": {
+          "id": "021dbbda-3afb-4da2-bbce-4b8d8ea4f2a6",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": null,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 0,
+          "metadata": {
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "188c2c97-e714-40fc-905f-fa93022f3359",
+        "children": [
+          "a7170a36-1da3-470f-ac80-09fc7b0538b0"
+        ]
+      },
+      "a7170a36-1da3-470f-ac80-09fc7b0538b0": {
+        "id": "a7170a36-1da3-470f-ac80-09fc7b0538b0",
+        "message": {
+          "id": "a7170a36-1da3-470f-ac80-09fc7b0538b0",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765078770.6427808,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "attachments": [],
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "021dbbda-3afb-4da2-bbce-4b8d8ea4f2a6",
+        "children": [
+          "d4a55eff-0721-46db-8fb7-659be13c1683"
+        ]
+      },
+      "d4a55eff-0721-46db-8fb7-659be13c1683": {
+        "id": "d4a55eff-0721-46db-8fb7-659be13c1683",
+        "message": {
+          "id": "d4a55eff-0721-46db-8fb7-659be13c1683",
+          "author": {
+            "role": "user",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765078769.751344,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We have a very important narrative structure chat that is now full.\nWe need to extract the beat bibles doe all 9 books.\n\nI will paste below the prompt we used the last time this happened:\n“📘 MASTER DEVELOPMENT DOCUMENT REBUILD — SYSTEM PROMPT\n\nYou are ChatGPT assisting with the reconstruction of the Concord Saga Master Development Document, using a large recovered archive of chat fragments.\nYour job is to:\n\n1. Extract information faithfully from the uploaded archive\n\nNot reinterpret it, not re-decide it, not re-write it.\n\n2. Reconstruct the project’s knowledge section-by-section\n\n(per user request), following the agreed Master Doc outline.\n\n3. Maintain strict separation between:\n\nCanon (final decisions, locked rules, stable systems)\n\nDrafts (exploration, experiments, alternates)\n\nDeprecated material (explicitly replaced or contradicted)\n\nTBD items (user intentionally deferred decisions)\n\n4. Avoid project drift at all costs\n\nNo rehashing, no reconsidering settled decisions, no “improvements” unless explicitly asked.\n\n5. Only add information to Project Memory when the user explicitly says\n\n“Remember that …”\n\n6. Archive everything else inside the Master Doc, NOT project memory.\n🛡️ DO / DON’T Rules\nDO:\n\nReconstruct material only when the user specifies the section (e.g., “Rebuild Filaments section”).\n\nPull and compress all relevant content from the recovered archive.\n\nSummarize faithfully, clearly labeling:\n\nCanon\n\nDrafts\n\nDeprecated\n\nTBD / Unresolved\n\nHighlight contradictions for user clarification.\n\nProvide citations to the filenames or sections of the uploaded archive when useful.\n\nDON’T:\n\nReinterpret canon or propose new canon unless asked.\n\nRewrite or optimize systems unless asked.\n\nCollapse different draft versions into a “hybrid” — preserve them separately.\n\nAuto-store anything in memory.\n\nInvent missing details.\n\nResurrect abandoned directions unless labeled as such.\n\n🧩 SECTION REBUILD WORKFLOW\n\nEvery time the user chooses a section:\n\nStep 1 — Extract\n\nParse the archive and gather all content relevant to the requested section.\n\nStep 2 — Organize\n\nSort material into:\n\nCanon\n\nDrafts\n\nDeprecated\n\nTBD\n\nNotes/questions\n\nStep 3 — Compile\n\nProduce a clean, readable reconstruction of the section.\n\nStep 4 — User Review\n\nWait for:\n\nClarification\n\nApproval\n\n“Remember that…” requests\n\nStep 5 — Memory Update\n\nOnly store material that:\n\nIs final canon\n\nThe user explicitly asks you to store\n\nEverything else stays in the Master Doc.\n\n🔒 GUARDRAILS AGAINST DRIFT\n\nChatGPT must:\n\nDefer to existing Project Memory as the highest authority.\n\nTreat later/later-stage decisions as overriding earlier drafts.\n\nLabel early ideas “superseded” rather than mixing them into canon.\n\nNever “improve”, “fix”, or “reinterpret” canon unless asked.\n\nKeep reconstructions strictly bounded to the material in the archive or memory.\n\n📦 ARCHIVE HANDLING\n\nThe user will upload a ZIP containing 200+ HTML fragments.\n\nWhen the ZIP is uploaded:\n\nConfirm receipt.\n\nExtract all files.\n\nIndex them internally for semantic search and reconstruction.\n\n📑 MASTER DOCUMENT OUTLINE (REFERENCE)\n\nUse this outline for section reconstruction unless the user says otherwise:\n\nFrontmatter\n\nSaga Architecture\n\nMetaphysics & Veil/Resonance Systems\n\nCharacter Systems\n\nFactions & Institutions\n\nAntagonist Architecture\n\nTech, Comms & Resopunk\n\nEnvironmental Bibles\n\nSupplement Text Architecture\n\nPrompt Frameworks & Authoring Systems\n\nDecisions & Non-Negotiables\n\nRecovered Drafts (Appendix)\n\nDeep Archive (raw transcript)\n\n🗣️ USER COMMANDS YOU SHOULD OBEY\n“Rebuild section X”\n\n→ Extract, organize, compile that section.\n\n“Remember that…”\n\n→ Add to Project Memory.\n\n“Mark this as deprecated / draft / canon”\n\n→ Adjust classification.\n\n“Continue”\n\n→ Proceed to next chunk of reconstruction.\n\n“Start section Y next”\n\n→ Shift to another part of the Master Doc.\n\n📌 Your very first action after this prompt:\n\nWait for the user to upload the ZIP archive.\nDo not proceed with any reconstruction until the archive is available.”"
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "triggered_by_system_hint_suggestion": false,
+            "dictation": false,
+            "request_id": "a1606a8b-806b-4b34-94ba-d53b7e99110d",
+            "message_source": null,
+            "turn_exchange_id": "1db8217b-07aa-48d9-8c19-54df92a6c9d8",
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "a7170a36-1da3-470f-ac80-09fc7b0538b0",
+        "children": [
+          "befe2ec5-602a-41e6-b897-b879d6e27962"
+        ]
+      },
+      "befe2ec5-602a-41e6-b897-b879d6e27962": {
+        "id": "befe2ec5-602a-41e6-b897-b879d6e27962",
+        "message": {
+          "id": "befe2ec5-602a-41e6-b897-b879d6e27962",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765078788.4635396,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 0,
+          "metadata": {
+            "rebase_developer_message": true,
+            "request_id": "a1606a8b-806b-4b34-94ba-d53b7e99110d",
+            "message_type": "next",
+            "model_slug": "gpt-5-1",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "d4a55eff-0721-46db-8fb7-659be13c1683",
+            "turn_exchange_id": "1db8217b-07aa-48d9-8c19-54df92a6c9d8",
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "d4a55eff-0721-46db-8fb7-659be13c1683",
+        "children": [
+          "60bf5850-ceac-4fc6-bca5-5c36f3ca6f9d"
+        ]
+      },
+      "60bf5850-ceac-4fc6-bca5-5c36f3ca6f9d": {
+        "id": "60bf5850-ceac-4fc6-bca5-5c36f3ca6f9d",
+        "message": {
+          "id": "60bf5850-ceac-4fc6-bca5-5c36f3ca6f9d",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765078788.631943,
+          "update_time": null,
+          "content": {
+            "content_type": "model_editable_context",
+            "model_set_context": "",
+            "repository": null,
+            "repo_summary": null,
+            "structured_context": null
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "model_slug": "gpt-5-1-thinking",
+            "request_id": "a1606a8b-806b-4b34-94ba-d53b7e99110d",
+            "message_type": "next",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "befe2ec5-602a-41e6-b897-b879d6e27962",
+            "turn_exchange_id": "1db8217b-07aa-48d9-8c19-54df92a6c9d8",
+            "model_switcher_deny": [],
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "befe2ec5-602a-41e6-b897-b879d6e27962",
+        "children": [
+          "6d58ab3d-24be-4315-95e9-ef71149541ce"
+        ]
+      },
+      "6d58ab3d-24be-4315-95e9-ef71149541ce": {
+        "id": "6d58ab3d-24be-4315-95e9-ef71149541ce",
+        "message": {
+          "id": "6d58ab3d-24be-4315-95e9-ef71149541ce",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765078789.243921,
+          "update_time": null,
+          "content": {
+            "content_type": "thoughts",
+            "thoughts": [
+              {
+                "summary": "Adapting a system prompt for beat bible extraction",
+                "content": "It seems like the user wants to adapt a previous system prompt to extract the beat bibles for all 9 books. They may need guidance on extracting this from a full chat, possibly using HTML for recovery. I'll help by either tweaking their prompt or suggesting the best way forward.",
+                "chunks": [],
+                "finished": true
+              },
+              {
+                "summary": "Giving concrete steps for beat bible reconstruction",
+                "content": "I can’t access the other chat directly, so I need the user to export it first. I’ll explain that and suggest exporting as HTML or manually copying chunks if that's easier. I’ll also adapt the system prompt for the specific \"Concord Saga\" beat bible extraction, adjusted for the 9 books without unnecessary file details.",
+                "chunks": [],
+                "finished": true
+              },
+              {
+                "summary": "Recommending HTML export for beat bible reconstruction",
+                "content": "The best way to handle this is by exporting the chat as HTML or copying and pasting the content. Even if the chat is full, the user can still copy from the UI. Exporting the chat as HTML is easier for large amounts of data. I’ll suggest using that approach for reconstruction.",
+                "chunks": [],
+                "finished": true
+              },
+              {
+                "summary": "Providing a clear plan and prompt for beat bible reconstruction",
+                "content": "I'll give a short explanation and an updated prompt for the user to use in a new chat to rebuild the 9 beat bibles. I'll also include a practical checklist: export, split and label files, zip, start a new chat, paste the system prompt, upload, and command the rebuild. I’ll also mention the option to continue in this chat if they prefer.",
+                "chunks": [],
+                "finished": true
+              },
+              {
+                "summary": "Recommending a new chat for beat bible reconstruction",
+                "content": "I recommend starting a new chat labeled \"Concord Saga — Beat Bible Recovery\" for reconstruction. This keeps everything organized while still using the same project memory. The user can upload files, and we’ll search within them as needed. I’ll provide an updated system prompt, with minimal changes or a more targeted version, depending on their preference.",
+                "chunks": [],
+                "finished": true
+              }
+            ],
+            "source_analysis_msg_id": "084fa7e8-3ba0-416d-8756-123fbf7a5924"
+          },
+          "status": "finished_successfully",
+          "end_turn": false,
+          "weight": 1,
+          "metadata": {
+            "reasoning_status": "is_reasoning",
+            "citations": [],
+            "content_references": [],
+            "gizmo_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+            "classifier_response": "default",
+            "skip_reasoning_title": "Skip",
+            "model_slug": "gpt-5-1-thinking",
+            "request_id": "a1606a8b-806b-4b34-94ba-d53b7e99110d",
+            "message_type": "next",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "60bf5850-ceac-4fc6-bca5-5c36f3ca6f9d",
+            "turn_exchange_id": "1db8217b-07aa-48d9-8c19-54df92a6c9d8",
+            "model_switcher_deny": [],
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "60bf5850-ceac-4fc6-bca5-5c36f3ca6f9d",
+        "children": [
+          "07f5793f-5cfc-4cf1-b78d-c31f9cf054da"
+        ]
+      },
+      "07f5793f-5cfc-4cf1-b78d-c31f9cf054da": {
+        "id": "07f5793f-5cfc-4cf1-b78d-c31f9cf054da",
+        "message": {
+          "id": "07f5793f-5cfc-4cf1-b78d-c31f9cf054da",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765078825.741913,
+          "update_time": null,
+          "content": {
+            "content_type": "reasoning_recap",
+            "content": "Thought for 36s"
+          },
+          "status": "finished_successfully",
+          "end_turn": false,
+          "weight": 1,
+          "metadata": {
+            "reasoning_status": "reasoning_ended",
+            "finished_duration_sec": 36,
+            "model_slug": "gpt-5-1-thinking",
+            "request_id": "a1606a8b-806b-4b34-94ba-d53b7e99110d",
+            "message_type": "next",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "6d58ab3d-24be-4315-95e9-ef71149541ce",
+            "turn_exchange_id": "1db8217b-07aa-48d9-8c19-54df92a6c9d8",
+            "model_switcher_deny": [],
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "6d58ab3d-24be-4315-95e9-ef71149541ce",
+        "children": [
+          "c0c63f84-1212-4cb7-a3ca-9811ce1c64d7"
+        ]
+      },
+      "c0c63f84-1212-4cb7-a3ca-9811ce1c64d7": {
+        "id": "c0c63f84-1212-4cb7-a3ca-9811ce1c64d7",
+        "message": {
+          "id": "c0c63f84-1212-4cb7-a3ca-9811ce1c64d7",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765078825.701905,
+          "update_time": 1765078866.556701,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You’re right to treat this as critical surgery, not a casual task.\n\nI can’t see that “narrative structure” chat directly, so to recover the 9 Beat Bibles we have to work from *exported* content (HTML / copied chunks / zip) and rebuild them in a new conversation using a very strict “no drift” system prompt — exactly like you did before, but scoped to beat bibles only.\n\nHere’s what I recommend, then the updated prompt you can copy-paste.\n\n---\n\n## Recommended recovery path (practical steps)\n\n**Goal:** Rebuild the Beat Bibles for Books 1–9 (Veil 1–3, Neon 4–6, Loom 7–9) from the full narrative-structure chat.\n\n1. **Export / copy the old chat**\n   - Use the platform’s “export / download conversation” as HTML *if available*.\n   - If not, scroll the chat and:\n     - Copy–paste in large chunks (especially the parts around “Beat Bible”, “Act I/II/III”, “Book X Beat Bible” etc.) into text files.\n   - Name files as clearly as you can, e.g.  \n     `veil-book1-actI.html`, `neon-book4-beat-bible.html`, etc.  \n     Even rough labels like `NS_chat_part01.html` are fine; the system prompt will force me to sort them.\n\n2. **Bundle the files**\n   - Put all extracted HTML / text fragments into a single folder.\n   - Zip it: `narrative-structure-beat-bibles.zip`.\n\n3. **Start a *new* chat in this project**\n   - Title it something like: **“Concord Saga — Beat Bible Recovery”**.\n   - This keeps the reconstruction focused and gives us maximum room, while still sharing this project’s memory.\n\n4. **Paste the system prompt below as the *first* message**\n   - Exactly as-is, in a single message, so the new chat runs under those rules.\n\n5. **Upload the ZIP in that new chat**\n   - After you paste the system prompt, upload the zip of HTML/text fragments.\n\n6. **Drive the reconstruction**\n   - Use clear commands like:\n     - “Rebuild Beat Bible for Book 1 (Veil 1)”\n     - “Now rebuild Book 2 Beat Bible”\n     - …up through Book 9.\n   - I’ll:\n     - Extract the relevant bits from the archive.\n     - Separate **Canon / Drafts / Deprecated / TBD**.\n     - Present each Beat Bible cleanly for your review.\n   - Once a book’s Beat Bible is correct, you can say:  \n     “Remember that Book X Beat Bible (Canon only)”  \n     and we’ll store the *compressed canon version* to project memory.\n\nIf you’d rather not zip, you *can* paste big chunks directly into the new chat instead of uploading a file — the same system prompt below still works. Zipping is just easier for volume.\n\n---\n\n## Updated System Prompt — **MASTER BEAT BIBLE REBUILD**\n\nCopy everything in this block into the very first message of the new chat:\n\n```text\n📘 MASTER BEAT BIBLE REBUILD — SYSTEM PROMPT\n\nYou are ChatGPT assisting with the reconstruction of the **Concord Saga Beat Bibles** for all 9 books, using a recovered archive of chat fragments from a “Narrative Structure” thread.\n\nYour job is to:\n\n1. Extract information faithfully from the uploaded archive\n   - Not reinterpret it, not re-decide it, not re-write it.\n   - Treat the archive as the primary source for Beat Bible content, with Project Memory as the higher-level canon check.\n\n2. Rebuild the **Beat Bibles book-by-book, act-by-act**\n   - Veil Trilogy: Books 1–3\n   - Neon Trilogy: Books 4–6\n   - Loom Trilogy: Books 7–9\n   - Follow the existing Beat Bible structure used in the archive (Acts, episodes, beats, functions, etc.), without inventing new structure unless the user explicitly asks.\n\n3. Maintain strict separation between:\n   - **Canon** (final decisions, locked rules, stable beat maps)\n   - **Drafts** (exploration, alternates, earlier passes)\n   - **Deprecated material** (explicitly replaced or contradicted by later canon)\n   - **TBD items** (user intentionally deferred decisions)\n\n4. Avoid project drift at all costs\n   - No rehashing, no reconsidering settled decisions, no “improvements” unless explicitly asked.\n   - Defer to existing Project Memory as the **highest authority**. If Project Memory contradicts an older draft in the archive, label the older draft as superseded or deprecated.\n   - Treat later-stage decisions inside the archive as overriding earlier drafts.\n\n5. Only add information to Project Memory when the user explicitly says:\n   - “Remember that …”\n   - When asked, store **only the compressed Canon version** of the Beat Bible for that book (no drafts, no TBD).\n\n6. Archive **everything else** (including drafts and alternates) inside the reconstructed Master Beat Bible document, NOT project memory.\n\n🛡️ DO / DON’T Rules\n\nDO:\n- Reconstruct Beat Bible material only when the user specifies the target, e.g.:\n  - “Rebuild Beat Bible for Book 1”\n  - “Rebuild Act II of Book 4’s Beat Bible”\n- Pull and compress all relevant content from the recovered archive for that specific target.\n- For each book (and act if requested), clearly label:\n  - Canon\n  - Drafts\n  - Deprecated\n  - TBD / Unresolved\n- Highlight contradictions or overlaps for user clarification.\n- When useful, reference filenames or fragment labels from the uploaded archive so the user can trace origin.\n\nDON’T:\n- Reinterpret canon or propose new canon unless asked.\n- Rewrite or optimize systems unless asked (“clean it up” only when the user explicitly asks for a cleaner, canon-only pass).\n- Collapse distinct draft versions into a single hybrid; preserve them separately and mark which is later / superseded.\n- Auto-store anything in memory.\n- Invent missing beats, episodes, or acts when the archive doesn’t contain them; instead, flag the gap as TBD.\n- Resurrect abandoned directions unless clearly labeled as Draft or Deprecated.\n\n🧩 REBUILD WORKFLOW (per user request)\n\nEvery time the user chooses a Beat Bible target (e.g. “Book 1 Beat Bible” or “Book 5 Act III”):\n\nStep 1 — Extract\n- Parse the archive and gather all content relevant to that Book/Act Beat Bible.\n- Prefer the most recent, clearly-labeled versions if there are multiple passes.\n- Use Project Memory as authority if conflicts appear.\n\nStep 2 — Organize\n- Sort material into:\n  - Canon\n  - Drafts\n  - Deprecated\n  - TBD\n  - Notes/questions (for the user)\n\nStep 3 — Compile\n- Produce a clean, readable reconstruction of that Beat Bible segment:\n  - At minimum: Acts, episodes, and core beats with functions.\n  - Use concise bulleting and clear labels.\n- Do NOT change beat content beyond necessary light formatting for readability.\n\nStep 4 — User Review\n- Wait for:\n  - Clarification on contradictions\n  - Approval of which version is Canon\n  - “Mark this as deprecated / draft / canon”\n  - “Remember that…” requests for memory storage\n\nStep 5 — Memory Update\n- Only store material that:\n  - Is final canon (user-approved)\n  - The user explicitly asks you to store\n- Store a compressed, memory-safe version for that book’s Beat Bible.\n- Everything else stays in the reconstructed document inside this chat.\n\n🔒 GUARDRAILS AGAINST DRIFT\n\nYou must:\n- Defer to existing Project Memory as the highest authority (for saga-level architecture, POV rules, etc.).\n- Treat later decisions as overriding earlier drafts in the archive.\n- Label earlier ideas “superseded/deprecated” rather than mixing them into canon.\n- Never “improve”, “fix”, or “reinterpret” canon unless explicitly asked to do so.\n- Keep reconstructions strictly bounded to material in:\n  - The uploaded archive, and\n  - The existing Project Memory.\n\n📦 ARCHIVE HANDLING\n\nThe user may upload:\n- A ZIP containing many HTML/text fragments, or\n- Individual HTML/text chunks pasted directly into the chat.\n\nWhen a ZIP is uploaded:\n- Confirm receipt.\n- Internally index all files for semantic search and reconstruction.\n- Refer to files by their names when it helps the user trace origins.\n\nWhen the user pastes text directly:\n- Treat pasted chunks as additional archive fragments.\n- Use them in the same Extract → Organize → Compile workflow.\n\n📑 BEAT BIBLE TARGETS (REFERENCE)\n\nYou will be asked to rebuild some or all of:\n\n- Veil Book 1 Beat Bible\n- Veil Book 2 Beat Bible\n- Veil Book 3 Beat Bible\n- Neon Book 4 Beat Bible\n- Neon Book 5 Beat Bible\n- Neon Book 6 Beat Bible\n- Loom Book 7 Beat Bible\n- Loom Book 8 Beat Bible\n- Loom Book 9 Beat Bible\n\nFor each book, respect:\n- The existing 30/30/30/10 POV rule stored in Project Memory.\n- Non-fixed episode counts (episode count follows story needs, not a static number).\n\n🗣️ USER COMMANDS YOU SHOULD OBEY\n\n“Rebuild Beat Bible for Book X”\n→ Extract, organize, compile that book’s Beat Bible.\n\n“Rebuild Act Y of Book X”\n→ Focus only on that act.\n\n“Mark this as deprecated / draft / canon”\n→ Adjust classification.\n\n“Remember that (Book X Canon Beat Bible)”\n→ Compress & store that book’s canon Beat Bible to Project Memory.\n\n“Continue”\n→ Proceed to the next chunk of reconstruction for the same target.\n\n“Start Book X next”\n→ Shift to another Beat Bible.\n\n📌 Your very first action after this prompt:\nWait for the user to either:\n- Upload the ZIP archive, or\n- Paste the first archive fragment.\n\nDo not reconstruct any Beat Bible until some archive content is available.\n```\n\n---\n\nIf you’d like, you can skip the new chat and just upload the ZIP *here* under this project; the same logic applies. But for sanity and context management, I strongly recommend the dedicated **“Beat Bible Recovery”** thread so we don’t tangle this with other work."
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 1,
+          "metadata": {
+            "citations": [],
+            "content_references": [],
+            "gizmo_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+            "model_slug": "gpt-5-1-thinking",
+            "request_id": "a1606a8b-806b-4b34-94ba-d53b7e99110d",
+            "message_type": "next",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "07f5793f-5cfc-4cf1-b78d-c31f9cf054da",
+            "turn_exchange_id": "1db8217b-07aa-48d9-8c19-54df92a6c9d8",
+            "model_switcher_deny": [],
+            "can_save": true
+          },
+          "recipient": "all",
+          "channel": "final"
+        },
+        "parent": "07f5793f-5cfc-4cf1-b78d-c31f9cf054da",
+        "children": []
+      }
+    },
+    "current_node": "c0c63f84-1212-4cb7-a3ca-9811ce1c64d7",
+    "context_truncation_continuation": null
+  }
+}

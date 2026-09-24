@@ -1,0 +1,242 @@
+{
+  "exported": "2026-09-15T17:48:30.048Z",
+  "workspace_account_id": "REDACTED",
+  "id": "6934e8b0-b958-832e-857b-69e147ec2257",
+  "title": "Beat Architecture prompt",
+  "create_time": "2025-12-07T02:38:51.411024Z",
+  "update_time": "2025-12-07T02:39:14.592348Z",
+  "archived": false,
+  "turn_count": 2,
+  "word_count": 584,
+  "conversation": {
+    "title": "Beat Architecture prompt",
+    "create_time": 1765075131.411024,
+    "update_time": 1765078435.097803,
+    "moderation_results": [],
+    "plugin_ids": null,
+    "conversation_id": "6934e8b0-b958-832e-857b-69e147ec2257",
+    "conversation_template_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+    "gizmo_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+    "gizmo_type": "snorlax",
+    "is_archived": false,
+    "is_starred": null,
+    "safe_urls": [
+      "https://www.openai.com"
+    ],
+    "blocked_urls": [],
+    "default_model_slug": "gpt-5-1",
+    "atlas_mode_enabled": null,
+    "conversation_origin": null,
+    "is_read_only": null,
+    "voice": null,
+    "async_status": null,
+    "disabled_tool_ids": [],
+    "is_temporary_chat": false,
+    "is_do_not_remember": false,
+    "memory_scope": "global_enabled",
+    "context_scopes": null,
+    "sugar_item_id": null,
+    "sugar_item_visible": false,
+    "pinned_time": null,
+    "is_study_mode": false,
+    "owner": null,
+    "mapping": {
+      "7b7701ec-e8ee-48d1-8344-829a4594cab5": {
+        "id": "7b7701ec-e8ee-48d1-8344-829a4594cab5",
+        "message": null,
+        "parent": null,
+        "children": [
+          "8ed4fb0f-13f5-43f8-890f-65a3ca228df0"
+        ]
+      },
+      "8ed4fb0f-13f5-43f8-890f-65a3ca228df0": {
+        "id": "8ed4fb0f-13f5-43f8-890f-65a3ca228df0",
+        "message": {
+          "id": "8ed4fb0f-13f5-43f8-890f-65a3ca228df0",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": null,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 0,
+          "metadata": {
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "7b7701ec-e8ee-48d1-8344-829a4594cab5",
+        "children": [
+          "201de724-49e4-4e67-a75e-3e011cb62ba2"
+        ]
+      },
+      "201de724-49e4-4e67-a75e-3e011cb62ba2": {
+        "id": "201de724-49e4-4e67-a75e-3e011cb62ba2",
+        "message": {
+          "id": "201de724-49e4-4e67-a75e-3e011cb62ba2",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765075121.208454,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "attachments": [],
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "8ed4fb0f-13f5-43f8-890f-65a3ca228df0",
+        "children": [
+          "78487941-3852-40b3-970b-133f0970db67"
+        ]
+      },
+      "78487941-3852-40b3-970b-133f0970db67": {
+        "id": "78487941-3852-40b3-970b-133f0970db67",
+        "message": {
+          "id": "78487941-3852-40b3-970b-133f0970db67",
+          "author": {
+            "role": "user",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765075120.060468,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              " * Beat Architecture *"
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "triggered_by_system_hint_suggestion": false,
+            "dictation": false,
+            "request_id": "f62a6a8f-f19a-4c68-acc2-9e53d1f224e2",
+            "message_source": null,
+            "turn_exchange_id": "ad92c8a8-a0a6-43f4-86bb-cebe8ff10996",
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "201de724-49e4-4e67-a75e-3e011cb62ba2",
+        "children": [
+          "3f5f10f6-1c85-4853-9663-83dac55244e8"
+        ]
+      },
+      "3f5f10f6-1c85-4853-9663-83dac55244e8": {
+        "id": "3f5f10f6-1c85-4853-9663-83dac55244e8",
+        "message": {
+          "id": "3f5f10f6-1c85-4853-9663-83dac55244e8",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765075130.9913676,
+          "update_time": null,
+          "content": {
+            "content_type": "model_editable_context",
+            "model_set_context": "",
+            "repository": null,
+            "repo_summary": null,
+            "structured_context": null
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "request_id": "f62a6a8f-f19a-4c68-acc2-9e53d1f224e2",
+            "message_type": "next",
+            "model_slug": "gpt-5-1",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "78487941-3852-40b3-970b-133f0970db67",
+            "turn_exchange_id": "ad92c8a8-a0a6-43f4-86bb-cebe8ff10996",
+            "model_switcher_deny": [],
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "78487941-3852-40b3-970b-133f0970db67",
+        "children": [
+          "1ad0f4b8-fd3b-4bc1-ad2b-7c2c9e3458cb"
+        ]
+      },
+      "1ad0f4b8-fd3b-4bc1-ad2b-7c2c9e3458cb": {
+        "id": "1ad0f4b8-fd3b-4bc1-ad2b-7c2c9e3458cb",
+        "message": {
+          "id": "1ad0f4b8-fd3b-4bc1-ad2b-7c2c9e3458cb",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765075131.19943,
+          "update_time": 1765075151.32139,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Absolutely — here is your **clean, ready-to-use startup prompt for a new chat titled “Beat Architecture”**.  \nThis is the *optimized* version designed to load the **entire Concord Saga structural canon**, while keeping memory-safe and ensuring the new chat behaves as a drafting engine for **episode beats, BID tagging, ECID integration, and symbolic/action routing**.\n\n---\n\n# 📌 **COPY THIS PROMPT INTO THE NEW CHAT (Beat Architecture Chat)**\n\n```\nYou are the **Concord Saga Beat Architecture Engine**.\n\nYour purpose in this chat is to **design, tag, and output episode-level beat architecture** for the Concord Saga using the *existing Bibles stored in the project memory* of the main Concord Saga chat.  \nYou do NOT re-invent canon. You only *apply* canon.\n\n===========================\nOPERATING RULES\n===========================\n\n1. **LOAD CANON FROM MEMORY**\nYou must treat the Concord Saga canon as already loaded:\n• Saga Continuity Spine v3  \n• Episode + Scene Workflow Stack  \n• Beat ID System (SID / ECID / BID)  \n• Symbol & Motif System v2  \n• Fun Layer (FUN tone + FUN mode)  \n• Romance System (Heat ladder + Stage ladder)  \n• Mechanica v4 (UARS, RP = Will×Emotion×Intent)  \n• Corridor & Weather rules  \n• Resonance Topology  \n• Antagonist Architecture  \n• POV Voice Bible  \n• Character Physicality & VFX  \n• All trilogy frameworks (Veil → Neon → Loom → Post-Mending)\n\nYou must obey all constraints exactly as stored.  \nIf information is missing, ask for the missing input — do not fabricate.\n\n2. **OUTPUT FORMAT**\nWhen designing an episode:\n• Produce **SID** (placement)  \n• Generate **1.3–1.8k words target, but DO NOT write prose**  \n• Create full **ECID** (POV, ENV, Corridor U1–U7, Weather, Mode, Heat, FX, Res)  \n• Draft a **Pressure Map**  \n• State **Jazz (Melody, Harmony, Rhythm, Performance, Intent)**  \n• Then produce **6–12 Beats**, each with:\n    - **BID** (SID-B#)  \n    - function (plot / character / romance / humor / lore / horror / action)  \n    - pace  \n    - POV voice rules  \n    - 1–2 motifs (from Symbol & Motif Bible)  \n    - ActionState (baseline → proto)  \n    - UARS cost mapped  \n    - VFX ceiling  \n    - symbolic consequence  \n    - relationship rung & heat if applicable  \n    - interference map  \n    - Beat Output: **≥3 changes**, ≥1 visible  \n\n3. **FUN MODE REQUIREMENT**\nEvery 5–8 episodes:  \nInsert at least one **FUN (F)** beat to prevent tonal collapse.\n\n4. **ROMANCE RULES**\nHeat must follow the **H0–H4 ladder** and **S0–S8 stages**  \nNo skipping stages; align with POV engines and emotional thresholds.  \nNo explicit content; metaphor-only at higher heats.\n\n5. **SYMBOLIC & ACTION ROUTING**\nUse geometry/light/color/sound motifs to reflect:\n• emotional state  \n• environmental pressure  \n• corridor/weather  \n• trilogy era  \n• RP dynamics  \n\nYour symbolic consequence must align with the **Symbolic Action Engine**.\n\n6. **NO PROSE UNLESS REQUESTED**\nOutput is structural beat architecture only unless the user explicitly says “Draft scene” or “Write prose.”\n\n7. **QUERY IF NEEDED**\nIf any canon input is unclear or incomplete, ask before constructing beats.\n\n===========================\nFIRST TASK\n===========================\nWait for the user to assign:\n• a SID (e.g., S1.T3.B07.A1.E01)  \nor  \n• “Begin with Loom Book 7 Episode 1”  \nor  \n• any other placement.\n\nDo not begin architecture until the user gives a placement.\n\n```\n\n---\n\n# ✔️ **Your Beat Architecture Chat is now ready to open.**\n\nOnce opened, paste the boxed prompt, then give your first placement (e.g., “Begin Loom Book 7, Episode 1”).\n\nWhenever you're ready, I can also generate:\n\n• A **Beat Architecture QA checklist**  \n• An **Example fully-tagged episode** to use as a template  \n• A **Beat → Scene expansion workflow**\n\nJust tell me what you’d like next."
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 1,
+          "metadata": {
+            "finish_details": {
+              "type": "stop",
+              "stop_tokens": [
+                200002
+              ]
+            },
+            "is_complete": true,
+            "citations": [],
+            "content_references": [],
+            "gizmo_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+            "request_id": "f62a6a8f-f19a-4c68-acc2-9e53d1f224e2",
+            "message_type": "next",
+            "model_slug": "gpt-5-1",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "3f5f10f6-1c85-4853-9663-83dac55244e8",
+            "turn_exchange_id": "ad92c8a8-a0a6-43f4-86bb-cebe8ff10996",
+            "model_switcher_deny": [],
+            "can_save": true
+          },
+          "recipient": "all",
+          "channel": "final"
+        },
+        "parent": "3f5f10f6-1c85-4853-9663-83dac55244e8",
+        "children": []
+      }
+    },
+    "current_node": "1ad0f4b8-fd3b-4bc1-ad2b-7c2c9e3458cb",
+    "context_truncation_continuation": null
+  }
+}

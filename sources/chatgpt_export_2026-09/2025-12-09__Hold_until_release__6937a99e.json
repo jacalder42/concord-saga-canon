@@ -1,0 +1,242 @@
+{
+  "exported": "2026-09-15T17:48:00.889Z",
+  "workspace_account_id": "REDACTED",
+  "id": "6937a99e-e3c0-832e-bcce-40ad7f5f262f",
+  "title": "Hold until release",
+  "create_time": "2025-12-09T04:46:32.756275Z",
+  "update_time": "2025-12-09T04:46:39.596594Z",
+  "archived": false,
+  "turn_count": 2,
+  "word_count": 312,
+  "conversation": {
+    "title": "Hold until release",
+    "create_time": 1765255592.756275,
+    "update_time": 1765255600.598632,
+    "moderation_results": [],
+    "plugin_ids": null,
+    "conversation_id": "6937a99e-e3c0-832e-bcce-40ad7f5f262f",
+    "conversation_template_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+    "gizmo_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+    "gizmo_type": "snorlax",
+    "is_archived": false,
+    "is_starred": null,
+    "safe_urls": [
+      "https://www.openai.com"
+    ],
+    "blocked_urls": [],
+    "default_model_slug": "gpt-5-1",
+    "atlas_mode_enabled": null,
+    "conversation_origin": null,
+    "is_read_only": null,
+    "voice": null,
+    "async_status": null,
+    "disabled_tool_ids": [],
+    "is_temporary_chat": false,
+    "is_do_not_remember": false,
+    "memory_scope": "global_enabled",
+    "context_scopes": null,
+    "sugar_item_id": null,
+    "sugar_item_visible": false,
+    "pinned_time": null,
+    "is_study_mode": false,
+    "owner": null,
+    "mapping": {
+      "3d6c6af8-35b1-4422-aa6b-33c4e5fd7281": {
+        "id": "3d6c6af8-35b1-4422-aa6b-33c4e5fd7281",
+        "message": null,
+        "parent": null,
+        "children": [
+          "4e982127-e48f-45b2-bc41-cb9347bbcfff"
+        ]
+      },
+      "4e982127-e48f-45b2-bc41-cb9347bbcfff": {
+        "id": "4e982127-e48f-45b2-bc41-cb9347bbcfff",
+        "message": {
+          "id": "4e982127-e48f-45b2-bc41-cb9347bbcfff",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": null,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 0,
+          "metadata": {
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "3d6c6af8-35b1-4422-aa6b-33c4e5fd7281",
+        "children": [
+          "726fff50-f6bd-4911-9f5a-195e5c50916b"
+        ]
+      },
+      "726fff50-f6bd-4911-9f5a-195e5c50916b": {
+        "id": "726fff50-f6bd-4911-9f5a-195e5c50916b",
+        "message": {
+          "id": "726fff50-f6bd-4911-9f5a-195e5c50916b",
+          "author": {
+            "role": "system",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765255583.4457407,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              ""
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "attachments": [],
+            "is_visually_hidden_from_conversation": true,
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "4e982127-e48f-45b2-bc41-cb9347bbcfff",
+        "children": [
+          "92dc1fee-233d-44d0-8161-386b69cdea11"
+        ]
+      },
+      "92dc1fee-233d-44d0-8161-386b69cdea11": {
+        "id": "92dc1fee-233d-44d0-8161-386b69cdea11",
+        "message": {
+          "id": "92dc1fee-233d-44d0-8161-386b69cdea11",
+          "author": {
+            "role": "user",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765255580.537681,
+          "update_time": null,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Hold until released\n\n============================================================\nBOOK 1 — VEIL: THE FIRST THREAD\nEPISODE BIBLE (BACKUP EXPORT)\n============================================================\n\nACT I — THE CHILD IN THE SWAMP (EP01–EP15)\n\nEP01 — “Prologue: Silence & Hope”\nEP02 — “The Child in the Swamp”\nEP03 — “After the Loss”\nEP04 — “Lucien’s First Flicker”\nEP05 — “Angles Gone Wrong”\nEP06 — “Civic Disturbance”\nEP07 — “Pressure in the Square”\nEP08 — “Filament Footprint”\nEP09 — “The Elders Stir”\nEP10 — “Dual Collapse Begins”\nEP11 — “Seraphine Breaks”\nEP12 — “Lucien Fails to Hold”\nEP13 — “Pulse in the Square”\nEP14 — “The Call for Help”\nEP15 — “Act I Close — Arrival”\n\n------------------------------------------------------------\n\nACT II — PATTERNS EMERGE (EP16–EP30)\n\nEP16 — “Baz in NOLA”\nEP17 — “Context Sharpens”\nEP18 — “Spike in the Neighborhood”\nEP19 — “Block-Wide Ripple”\nEP20 — “The Circle Gathers”\nEP21 — “City as Organism”\nEP22 — “Dominion Pressure”\nEP23 — “Technarch Eyes Open”\nEP24 — “Fracture Between Two”\nEP25 — “Repair Attempt”\nEP26 — “Cycle Noticed”\nEP27 — “Accelerating Rhythm”\nEP28 — “Act II Close — It’s Increasing”\nEP29 — “The Coming Curve”\nEP30 — “Pressure Mounts”\n\n------------------------------------------------------------\n\nACT III — THE VEIL BREATHES (EP31–EP45)\n\nEP31 — “Long Hum Begins”\nEP32 — “Hum Across Districts”\nEP33 — “Hum Becomes Pattern”\nEP34 — “Civic Gathering Fails”\nEP35 — “Rebound”\nEP36 — “Filament Grounding Fails”\nEP37 — “Collapse Echo”\nEP38 — “Lucien’s Worst Flicker”\nEP39 — “Approach of Fracture”\nEP40 — “Conflict of Responsibility”\nEP41 — “Choosing Who to Save”\nEP42 — “Systemic Pattern”\nEP43 — “Pulse Again”\nEP44 — “Predicted Moment”\nEP45 — “Book Close — Quiet Pulse”"
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "triggered_by_system_hint_suggestion": false,
+            "dictation": false,
+            "request_id": "b2666413-15f0-419f-8560-39a62b412e58",
+            "message_source": null,
+            "turn_exchange_id": "31c577c1-ca2c-4db6-b35a-62c7be65923f",
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "726fff50-f6bd-4911-9f5a-195e5c50916b",
+        "children": [
+          "c16a5ef1-05b2-47a8-8100-ce324a0f6b81"
+        ]
+      },
+      "c16a5ef1-05b2-47a8-8100-ce324a0f6b81": {
+        "id": "c16a5ef1-05b2-47a8-8100-ce324a0f6b81",
+        "message": {
+          "id": "c16a5ef1-05b2-47a8-8100-ce324a0f6b81",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765255592.3054507,
+          "update_time": null,
+          "content": {
+            "content_type": "model_editable_context",
+            "model_set_context": "",
+            "repository": null,
+            "repo_summary": null,
+            "structured_context": null
+          },
+          "status": "finished_successfully",
+          "end_turn": null,
+          "weight": 1,
+          "metadata": {
+            "request_id": "b2666413-15f0-419f-8560-39a62b412e58",
+            "message_type": "next",
+            "model_slug": "gpt-5-1",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "92dc1fee-233d-44d0-8161-386b69cdea11",
+            "turn_exchange_id": "31c577c1-ca2c-4db6-b35a-62c7be65923f",
+            "model_switcher_deny": [],
+            "can_save": false
+          },
+          "recipient": "all",
+          "channel": null
+        },
+        "parent": "92dc1fee-233d-44d0-8161-386b69cdea11",
+        "children": [
+          "57bd053e-04d1-496c-b914-db3a06183f1d"
+        ]
+      },
+      "57bd053e-04d1-496c-b914-db3a06183f1d": {
+        "id": "57bd053e-04d1-496c-b914-db3a06183f1d",
+        "message": {
+          "id": "57bd053e-04d1-496c-b914-db3a06183f1d",
+          "author": {
+            "role": "assistant",
+            "name": null,
+            "metadata": {}
+          },
+          "create_time": 1765255592.438247,
+          "update_time": 1765255597.874653,
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Holding position exactly as requested.\n\nI will not analyze, revise, expand, tag, interpret, or continue this list until you **explicitly say “Release”**.\n\nYour **BOOK 1 — VEIL Episode Bible (Backup Export)** is now buffered and stable in working memory for this chat only.\n\nAwaiting your release signal."
+            ]
+          },
+          "status": "finished_successfully",
+          "end_turn": true,
+          "weight": 1,
+          "metadata": {
+            "finish_details": {
+              "type": "stop",
+              "stop_tokens": [
+                200002
+              ]
+            },
+            "is_complete": true,
+            "citations": [],
+            "content_references": [],
+            "gizmo_id": "g-p-6905fa71336c81918ea94e176f59a6aa",
+            "request_id": "b2666413-15f0-419f-8560-39a62b412e58",
+            "message_type": "next",
+            "model_slug": "gpt-5-1",
+            "default_model_slug": "gpt-5-1",
+            "parent_id": "c16a5ef1-05b2-47a8-8100-ce324a0f6b81",
+            "turn_exchange_id": "31c577c1-ca2c-4db6-b35a-62c7be65923f",
+            "model_switcher_deny": [],
+            "can_save": true
+          },
+          "recipient": "all",
+          "channel": "final"
+        },
+        "parent": "c16a5ef1-05b2-47a8-8100-ce324a0f6b81",
+        "children": []
+      }
+    },
+    "current_node": "57bd053e-04d1-496c-b914-db3a06183f1d",
+    "context_truncation_continuation": null
+  }
+}
