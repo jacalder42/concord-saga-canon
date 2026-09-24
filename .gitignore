@@ -1,2 +1,13 @@
 __pycache__/
 *.py[cod]
+
+# Account export exclusions - Ruling 10, sources/README.md "Exclusions".
+# Recorded in sources/chatgpt_export_2026-09/MANIFEST.csv with hash and reason.
+# Exclusion, never redaction: a redacted file would silently break the manifest
+# promise that every committed file matches its hash exactly.
+sources/chatgpt_export_2026-09/2025-11-17__Chat_export_options__691a9879.json
+sources/chatgpt_export_2026-09/2025-12-31__Archetype_Test_Insightful_or_BS__69559fa4.md
+sources/chatgpt_export_2026-09/2025-12-31__Archetype_Test_Insightful_or_BS__69559fa4.json
+sources/chatgpt_export_2026-09/2026-09-14__Review_Project_Status__6aa7fe7e.json
+sources/chatgpt_export_2026-09/2026-09-14__Story_Summary_Writing__6aa7578e.md
+sources/chatgpt_export_2026-09/2026-09-14__Story_Summary_Writing__6aa7578e.json

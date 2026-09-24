@@ -63,3 +63,49 @@ and manifest in one pass.
 count, word count, and the SHA-256 of **both the original and the stored file**, plus any
 redaction applied. **The manifest is the audit surface** — a file whose hash
 does not match its manifest row has been altered, which rule 2 forbids.
+
+## Exclusions
+
+The account export holds **72 conversations, 7,479,895 words**. **70 are committed; 138
+files, 7,363,532 words.**
+
+**Excluded material is recorded, not hidden.** Every excluded file keeps its row in
+`MANIFEST.csv` with its SHA-256 and the reason, so the gap is visible and auditable
+against the author's original TAR.
+
+**Exclusion, never redaction.** Rule 1 promises that every committed file matches its
+manifest hash exactly. A redacted file would break that promise silently. Leaving a file
+out keeps it intact.
+
+| Conversation | Excluded | Reason |
+| --- | --- | --- |
+| `2025-11-17__Chat_export_options` | `.json` only | signed `auth.openai.com` session access token (expired 2025-11-26), organization id, work-domain email |
+| `2026-09-14__Review_Project_Status` | `.json` only | third-party professional contact details from work documents; 92 signed file URLs; user ids. The `.md` is clean |
+| `2025-12-31__Archetype_Test_Insightful_or_BS` | both | personal self-assessment material; not saga work |
+| `2026-09-14__Story_Summary_Writing` | both | a separate story project, stated in-conversation as "not concord saga" |
+
+The six filenames are also listed in `.gitignore`, so they cannot be added by accident.
+
+**One reviewed allowance.** `2025-12-01__Worldbuilding.json` contains a token-shaped
+string inside a public DeviantArt image URL: an image-CDN token with no expiry and no
+account scope. `tools/verify_sources.py` allowlists it by **file and pattern together**,
+never by pattern alone.
+
+**Not in this export.** `Bubble Grunge Lyrics` (Mara Niht) and `Develop Singer Style`
+(Eli Stone) were supplied separately and are not among the 72. They would be committed
+under their own directory with their own manifest.
+
+## Verification
+
+```sh
+python3 tools/verify_sources.py
+```
+
+Checks that every committed file is present and matches its manifest hash, that no
+excluded or unlisted file is present, and that no forbidden pattern — session tokens,
+signed URLs, auth ids, the known third-party work contact — appears in any committed
+file. Exits non-zero on any failure.
+
+Proven by deliberate breakage on 2026-09-23: one byte edited, an excluded token-bearing
+file added, a committed file removed and an unlisted file added each produce exit 1.
+The clean set produces exit 0.
