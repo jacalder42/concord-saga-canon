@@ -6631,4 +6631,71 @@ END OF ENTRY 73
 
 ===============================================================
 
+===============================================================
+
+# 74. First survey of the export — two targets close empty, the Book 1 packets are found — 2026-09-24
+
+The first search of the corpus committed in §73. Full findings at
+`recovery/ACCOUNT_EXPORT_FIRST_SURVEY_2026-09-24.md`. **Nothing migrated, nothing ruled.**
+
+## 1. Both live targets of §8 item 6 are resolved, and neither holds canon
+
+- **`Spine Architect chat`** is `2025-12-09__Structural_spine_storage__693823f7` —
+  **2 turns, 410 words.** The startup prompt appointing it owner of the nine-book
+  structural spine, and the reply *"Ready. Paste the first structural segment…"*. **Nothing
+  was ever pasted.** The queue's description of it was accurate about its charter and wrong
+  about its contents; the claim traces to `Character Vault Chat` **routing** continuity
+  storage there, which is not a record that anything arrived.
+- **`Saga Visual Bible Framework`** — **2 turns, 1,070 words**, a Workflow/Pipeline/Schema
+  stamped *"Ready for population after the Faction Bible is completed."* The framework, not
+  the Visual Bible.
+
+**This is exactly the distinction item 6 was raised to make** — *"until this runs, 'not
+exported' and 'does not exist' cannot be told apart."* Both were exported; both are empty.
+Item 6's remaining value is the inventory, not these two.
+
+## 2. `Archive Veil Book 1` holds E00–E17
+
+**18 distinct packets**, full ECID headers plus `PRESSURE MAP`, `EPISODE JAZZ`, `BEATS` and
+`EXIT CONDITION`. The repository held **E16–E18 only**, so **E00–E15 are recovered** and
+item 7's ten-month-old prediction — *"this is where the E00–E15 packets are expected to
+be"* — is confirmed.
+
+`EPISODE 3` is pasted twice and is **not a version conflict**: identical bodies, a
+truncation query between them, then *"archived verbatim with no truncation."*
+
+## 3. Five things the packets bear on, none of them resolved here
+
+1. **The prologue's act slot is `A0`** — a fourth form, after `A1`+`E00`, Ruling 6's `PR`,
+   and the export layer's beat-1-inside-ACT-I. It is the only one implying a zeroth act,
+   which the three-act cap forbids, so it most likely reads as Ruling 6's position marker
+   under another letter. **That inference is the author's.**
+2. **The `B01.A1` band is breached on all three axes** — `U7` and `FX3` at E00, `W3` at E13
+   and E14, against `U1–U4` / `W0–W2` / `FX0–FX2`. That band is one of only **three**
+   marked `basis: observed`, and it was observed from E16–E18 **while sixteen episodes of
+   the same act were unexported**. E14's own note calls **FX3** the *"Act-level limit"*.
+   The FX ceiling has already moved once on exactly this evidence (§18, FX1 → FX2). Whether
+   the prologue breaches `A1` at all depends on item 1, so **the two are put together.**
+3. **§3's continuous-numbering ruling is corroborated at source** — `E16` is `A1`, `E17` is
+   `A2`, no restart, in an artifact predating the ruling by ten months.
+4. **§4.1's vocabulary findings are confirmed as input data** — arrow forms throughout,
+   `Mode` carrying two to four values (`CIV`, `ACT`, `INT`, `SCI`, `HOR`, `HORP`, `LORE`),
+   and a `-TINT`/`-LACED` resonance family larger than the three tokens §4.1 adjudicated.
+   The §1.5 mapping applies unchanged; `HOR`/`HORP` and the multi-value shape are not
+   covered by it.
+5. **The first Silence-and-Hope material in any export** — the `E00` packet gives them a
+   contrast pair (containment against warm modulation), calls them *"metaphysical roles,
+   not beings"*, and has them choose not to intervene. **A beat outline, not a character
+   file**, and Tier D. Item 9b's gap is no longer total; item 9b is not closed.
+
+## 4. Verification
+
+Canon-scope **0**; notices **0**; tests **132**. All-scope rises, entirely from this entry
+and the survey quoting **one-digit book** SIDs and `A0` as evidence — the condition §3's
+scope warning and §56 §2 both describe, not new defects.
+
+END OF ENTRY 74
+
+===============================================================
+
 END RECOVERY LEDGER
