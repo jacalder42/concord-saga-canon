@@ -5,6 +5,17 @@
 `Archive Veil Book 1` target in item 7. **Nothing is migrated and nothing is ruled** —
 findings are observational, per §4.
 
+> **CORRECTED the same day, before anything was built on it.** This document was written
+> without accounting for the **2026-09-20 forensic audits** in this same directory
+> (`ACCOUNT_EXPORT_B01_ACT1/ACT2/ACT3_EPISODE_FORENSIC_AUDIT_2026-09-20.md`), which had
+> already recovered Book 1's episode packets — **E00–E42, all three acts** — from
+> `2025-12-08__Episode_expansion_process__6936cb32`.
+>
+> **§3 as first written claimed the packets as a find. They were already found.** What is
+> actually new is narrower and, as it turns out, sharper: `Archive Veil Book 1` is an
+> **independent second witness** that no prior pass had used, and **it disagrees with the
+> first**. §3 is rewritten below; §4.6 is corrected. §1, §2 and §4.1 stand unchanged.
+
 **The question item 6 was raised to settle** was *"until this runs, 'not exported' and 'does
 not exist' cannot be told apart."* For all three targets it can now be told apart, and the
 answers are not the ones the queue assumed.
@@ -48,24 +59,84 @@ still buys is the inventory itself — 70 conversations, 7,363,532 words — not
 
 ---
 
-## 3. `Archive Veil Book 1` — **the packets are here**
+## 3. `Archive Veil Book 1` — **a second witness, and it disagrees with the first**
 
 `2025-12-09__Archive_Veil_Book_1__6938278b`. **40 turns, 10,121 words.**
 
-Work-queue item 7 predicted this: *"this is where the E00–E15 packets are expected to be."*
-**They are.** The conversation is a paste-and-acknowledge archive: the user pastes a full
-structured episode packet, the assistant confirms it archived verbatim and states the
-running order.
+The conversation is a paste-and-acknowledge archive: the user pastes a full structured
+episode packet, the assistant confirms it archived verbatim and states the running order.
+**18 distinct packets, `E00` through `E17`.**
 
-**18 distinct packets, `E00` through `E17`.** The repository holds packets for **E16–E18
-only** (`CLAUDE.md` §6), from the sanitized derivative. So **E00–E15 are recovered**, and
-E16–E17 arrive a second time from a second source.
+**Work-queue item 7 is already satisfied, and not by this conversation.** Item 7 reads
+*"Archive Veil Book 1 first — this is where the E00–E15 packets are expected to be."* The
+packets were recovered on **2026-09-20** from a **different** conversation,
+`2025-12-08__Episode_expansion_process__6936cb32`, and far more completely: **E00–E42,
+Book 1's three acts**, in the three `ACCOUNT_EXPORT_B01_ACT*_EPISODE_FORENSIC_AUDIT`
+files. The prediction was right about the material and wrong about its address.
+
+**`CLAUDE.md` §6's *"the repository holds packets for E16–E18 only"* is stale**, and so
+are items 7 and 8 as written. §6 warns of exactly this: *"Verify with `git` before trusting
+this section; it dates quickly."*
+
+**What is new is that `Archive Veil Book 1` has never been used as a source.** It is cited
+as a *target* in the ledger, `NOTION_RECOVERY_2026-09-19.md`,
+`NARRATIVE_BUILD_PRIORITIES_2026-09-19.md` and `CLAUDE.md`, and read by none of them. So
+Book 1 Act I now has **two independent witnesses one day apart** — and they do not agree.
 
 `EPISODE 3` is pasted **twice**. The two are **not a version conflict**: the packet bodies
 are identical and the difference is entirely in the assistant's reply — the first flags a
 possible truncation of the `EXIT CONDITION`, the user re-pastes, the second confirms
 *"archived verbatim with no truncation."* Recorded because it is also evidence the archive
 was checked for truncation at the time.
+
+### The two witnesses disagree on titles, on segmentation, and on where Act I ends
+
+| Slot | `Episode expansion process` — **2025-12-08** | `Archive Veil Book 1` — **2025-12-09** |
+| --- | --- | --- |
+| E00 | **The Conversation in the Sky** | **PROLOGUE: SILENCE & HOPE** |
+| E01 | The Sick Child | THE CHILD IN THE SWAMP (Part I) |
+| E02 | Too Late | THE CHILD IN THE SWAMP (Part II) |
+| E03 | The First Echo | THE WALK BACK (Aftermath) |
+| E04 | A Line Out of Place | LUCIEN'S FIRST FLICKER (Part I) |
+| E05 | The Misalignment | LUCIEN'S FIRST FLICKER (Part II) |
+| E06 | Crowd on Edge | FIRST CIVIC DISTURBANCE (Part I) |
+| E07 | Instability in the Square | FIRST CIVIC DISTURBANCE (Part II) |
+| E08 | Whispers of the Filament | FILAMENT FOOTPRINT (Part I) |
+| E09 | Rootkeeper's Glance | FILAMENT FOOTPRINT (Part II) |
+| E10 | Seraphine Strains | DUAL COLLAPSE BEGINS (Part I) |
+| E11 | Lucien Unravels | DUAL COLLAPSE BEGINS (Part II) |
+| E12 | The Dual Collapse | DUAL COLLAPSE BEGINS (Part III) |
+| E13 | A Pulse Over Jackson Square | ACT I CLOSE (Part I) |
+| E14 | Lines Breaking Apart | ACT I CLOSE (Part II) |
+| E15 | Baz, We Need You | ACT I CLOSE (Part III) |
+| **E16** | **Baz Arrives in NOLA — ACT II** | **ACT I CLOSE (Final) — ACT I** |
+| E17 | The Situation Briefing — ACT II | ACT II OPENING (Part I) — `A2` |
+
+**Three distinct disagreements, in rising order of consequence.**
+
+1. **Naming convention.** The 12-08 source gives every episode a dramatic title; the 12-09
+   source names them **structurally**, by the event they belong to and their part number.
+   Cosmetic on its own.
+2. **The prologue title, and it inverts the usual tiebreak.** `CLAUDE.md` §3 rules the
+   prologue is **`The Conversation in the Sky`** and that `Silence & Hope` is superseded.
+   The ruled title is in the **earlier** artifact; the **later** one carries the retired
+   form. Every other dating argument in this project has favoured the later artifact —
+   §27.6 declares the `ACT * SUMMARY` pages superseded on exactly that reasoning. **Here
+   the ruling and the recency heuristic point opposite ways**, and the ruling has already
+   been made, so the heuristic is what fails. Worth recording because it is the first case
+   that shows the heuristic is not load-bearing on its own.
+3. **The act boundary differs by one episode, and this one matters.** The 12-08 source ends
+   Act I at **E15** and opens Act II at **E16 "Baz Arrives in NOLA"**. The 12-09 source
+   runs Act I through **E16 "ACT I CLOSE (Final)"** and opens Act II at **E17**. Its SIDs
+   say so outright: `S1.T1.B1.A1.E16` against the audit's placement of E16 in Act II.
+
+   Narratively they are compatible — both close Act I on Baz being summoned and open Act II
+   on his arrival; they differ on which side of the line the arrival sits. **But the act
+   slot is part of the SID**, so the two sources assign `E16` different identifiers, and
+   any migration writes one of them into canon. This is the Book 1 Act I analogue of
+   *which Veil draft is canon* (§4), at one episode's granularity.
+
+**None of this is resolved here.** Both readings are recorded with their dates and sources.
 
 ### The packets carry a full ECID header
 
@@ -179,8 +250,14 @@ name resonance as a consequence of human feeling, and has them **choose not to i
 directly**, which the packet calls the saga's moral architecture.
 
 **This is a beat outline, not a character file**, and it is Tier D. It does not close item
-9b, whose located source is still Notion's `08.10` and `08.11`. It does mean the gap is no
-longer total, and it is the first Silence-and-Hope material found in any export.
+9b, whose located source is still Notion's `08.10` and `08.11`.
+
+**Corrected:** this is **not** the first Silence-and-Hope material found in an export. The
+2026-09-20 Act I audit covers the same prologue from the 12-08 source, and §22's *"the 21
+exports hold essentially nothing"* was a finding about the **sanitized derivative**, not
+about the account export. What this adds is a **second** rendering of the prologue, under
+the retired title, with the same containment/modulation contrast — corroboration, not
+discovery.
 
 ---
 

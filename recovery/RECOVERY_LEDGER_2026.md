@@ -6688,11 +6688,53 @@ truncation query between them, then *"archived verbatim with no truncation."*
    not beings"*, and has them choose not to intervene. **A beat outline, not a character
    file**, and Tier D. Item 9b's gap is no longer total; item 9b is not closed.
 
-## 4. Verification
+## 4. Corrected within the hour — §2 was a re-discovery, and the correction is the better finding
 
-Canon-scope **0**; notices **0**; tests **132**. All-scope rises, entirely from this entry
-and the survey quoting **one-digit book** SIDs and `A0` as evidence — the condition §3's
-scope warning and §56 §2 both describe, not new defects.
+The survey was written **without accounting for the 2026-09-20 forensic audits in this same
+directory.** `ACCOUNT_EXPORT_B01_ACT1/ACT2/ACT3_EPISODE_FORENSIC_AUDIT_2026-09-20.md` had
+already recovered Book 1's packets — **E00–E42, all three acts** — from
+`2025-12-08__Episode_expansion_process__6936cb32`. **§2 above claimed as a find what was
+found four days earlier, more completely, from a different source.**
+
+**Item 7's prediction was right about the material and wrong about its address.** It named
+`Archive Veil Book 1`; the packets came from `Episode expansion process`. Item 7 and item 8
+are satisfied in substance, and **`CLAUDE.md` §6's *"packets for E16–E18 only"* is stale** —
+which §6 itself warns of.
+
+**What survives is sharper than what was claimed.** `Archive Veil Book 1` has been cited as
+a *target* in four places and **read by none of them**, so Book 1 Act I now has **two
+independent witnesses, one day apart, that disagree**:
+
+| | `Episode expansion process` 12-08 | `Archive Veil Book 1` 12-09 |
+| --- | --- | --- |
+| Titles | dramatic — *The Sick Child*, *Too Late* | structural — *THE CHILD IN THE SWAMP (Part I/II)* |
+| Prologue | **The Conversation in the Sky** — the ruled title | **Silence & Hope** — the retired title |
+| Act I ends | **E15**, Act II opens *Baz Arrives in NOLA* at E16 | **E16** (`S1.T1.B1.A1.E16`), Act II opens at E17 |
+
+1. **The prologue title inverts this project's usual tiebreak.** §3's ruled title sits in
+   the **earlier** artifact and the retired one in the **later**. §27.6 declared the
+   `ACT * SUMMARY` pages superseded precisely on "later artifact wins". **Here the ruling
+   and the recency heuristic point opposite ways** — the ruling stands, so the heuristic is
+   what fails. First case showing it is not load-bearing alone, which bears directly on
+   §26.12's open question about what rule decides between conflicting recovered versions.
+2. **The act boundary differs by one episode, and the act slot is part of the SID.** The
+   two sources give `E16` different identifiers. Narratively compatible — both close Act I
+   on Baz being summoned and open Act II on his arrival — but a migration writes one of
+   them into canon. **This is *which Veil draft is canon* at one episode's granularity.**
+
+Also corrected: §3's claim that the `E00` packet is the first Silence-and-Hope material in
+any export. It is the **second**; the 12-08 prologue is in the Act I audit. §22's *"the 21
+exports hold essentially nothing"* was about the **sanitized derivative**, not the account
+export.
+
+**Unaffected by the correction:** the two empty item-6 targets (§1), and `A0`, which appears
+nowhere in the repository outside this entry and the survey.
+
+## 5. Verification
+
+Canon-scope **0**; notices **0**; tests **132**; verifier **PASS** at 138. All-scope rises,
+entirely from this entry and the survey quoting **one-digit book** SIDs and `A0` as
+evidence — the condition §3's scope warning and §56 §2 both describe, not new defects.
 
 END OF ENTRY 74
 
