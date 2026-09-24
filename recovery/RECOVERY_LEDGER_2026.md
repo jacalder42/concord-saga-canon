@@ -6545,13 +6545,89 @@ Run in this session, on the tooling commit:
 - All six excluded filenames present in `.gitignore`, **exactly once each**.
 - The identifier's value appears **nowhere** in the tree, including this entry.
 
-## 6. Still outstanding
+## 6. The ingest followed the same day
 
-**`sources/` still holds only its README.** This entry lands the pipeline; the material
-needs the author's machine, where the export is. Commit B is the ingest itself — 138 files
-under `sources/chatgpt_export_2026-09/`, 68 `.json` reading `REDACTED`.
+**Superseded within hours.** This section read *"`sources/` still holds only its README"*;
+the ingest ran on 2026-09-24 and it no longer does. **§73 records it**, including the
+end-of-line defect that made the first attempt non-verbatim.
 
 END OF ENTRY 72
+
+===============================================================
+
+===============================================================
+
+# 73. The account export is committed — and the eol trap it walked into — 2026-09-24
+
+**138 files under `sources/chatgpt_export_2026-09/`**, from 70 of the 72 exported
+conversations, run from the author's machine with `tools/ingest_export.ps1 -AllowPublic`.
+The pipeline behaved exactly as §72 describes: 144 copied, 6 excluded, 68 redacted, 139
+paths staged and **nothing outside `sources/`**.
+
+Commits `3eece5c` (the export), `963ce04` (`.gitattributes`), `de5722b` (the repair).
+
+## 1. The first commit was not verbatim, and the check that should have caught it passed
+
+`core.autocrlf` is **true** on the ingesting machine. **20 of the 70 committed `.md` files
+carried mixed line endings**, and git converted their `CRLF` to `LF` on the way into the
+blob. Every one is *smaller* than its `md_bytes` row by less than its line count —
+`Lucien_canon_workflow` lost **93 bytes across 222 lines**, `Project_memory` **3,513**. The
+`.json` files hold no raw `CR` bytes, so all **68 of 68** redactions were byte-exact; the
+damage was confined to markdown.
+
+**The failure mode is the finding, not the byte count.** The conversion happens between the
+working tree and the blob, so the ingesting machine still held the original bytes:
+`verify_sources.py` run *there* hashed the originals and printed `PASS`. Run against a fresh
+checkout in the same hour it printed **20 hash mismatches**. The archive verified correctly
+**only on the machine that made it** — the one place the check cannot tell you anything.
+
+This is the second time in two days that a check passed by looking at the wrong copy; §71's
+`cmp -l` reading was the first. **A verification that runs only where the artifact was
+produced is not a verification.** MANIFEST.csv caught it the moment it was read anywhere
+else, which is precisely what an audit surface is for.
+
+## 2. The fix is a rule, not a repair
+
+`.gitattributes` marks **`sources/** -text`**, disabling eol conversion in both directions
+regardless of the committing platform's `core.autocrlf`. The 20 blobs were then re-committed
+from the originals, guarded by running `verify_sources.py` on the author's machine **first**
+— a `PASS` there proves the working copies are still untouched, and re-committing rewritten
+files would have stored the wrong bytes twice over.
+
+Two files rode along and are now pinned: `sources/README.md` and `MANIFEST.csv` flipped to
+`CRLF` under the new rule, since `-text` stores whatever the working tree holds. Both are
+**authored here, not received**, so they carry `text eol=lf` and cannot drift with the
+committing platform. Their content was verified byte-identical across the flip.
+
+## 3. Verified, on a checkout that is not the one that made it
+
+- `verify_sources.py` — **PASS**, 138 present, 6 excluded, 0 unlisted, every hash matched.
+- The identifier's value — **absent from the entire tree**, by `git grep`.
+- `"workspace_account_id": "REDACTED"` — **68 files**, matching the 68 committed `.json`.
+- Canon-scope **0**; self-tests **132**, all passing.
+
+## 4. Three defects in `ingest_export.ps1`, recorded not fixed
+
+1. **`-DryRun` leaves its copies in place**, so the real run that follows always aborts on a
+   dirty tree. Hit on the first attempt. The fix is for the dry run to clean up after itself,
+   or for the preflight to exempt untracked files under the destination — **not** to relax
+   the clean-tree check.
+2. **`Set-Content -Encoding UTF8` writes a BOM** in Windows PowerShell 5.1, so `3eece5c`'s
+   subject line opens with an invisible `U+FEFF`. Not worth rewriting published history.
+3. **`git push`'s ordinary stderr renders as a PowerShell error record.** The push had
+   succeeded; the red text was noise. A caller who trusts the colour would have pushed twice.
+
+## 5. What this unlocks
+
+`CLAUDE.md` §8 item 6 — *"until this runs, 'not exported' and 'does not exist' cannot be told
+apart"* — **is now runnable against real sources.** The two live targets, `Spine Architect
+chat` and `Saga Visual Bible Framework`, can be searched for rather than reasoned about, and
+every extraction claim resting on the 25,952-word sanitized derivative (§7.2) can be re-run
+against the **7,363,532 words** now in hand.
+
+**None of that is done.** The material is stored and auditable; it is not yet read.
+
+END OF ENTRY 73
 
 ===============================================================
 

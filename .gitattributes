@@ -1,6 +1,6 @@
 # sources/ is verbatim and append-only -- Ruling 10, sources/README.md rule 1.
 #
-# Git must never transform anything under it. An end-of-line conversion is
+# Git must never transform the supplied files. An end-of-line conversion is
 # silent, lossy and invisible on the machine that performs it: the working copy
 # keeps the original bytes, so a local verify passes, while the committed blob
 # differs and every other checkout fails its manifest hash. That happened on
@@ -9,3 +9,8 @@
 # -text disables eol conversion in both directions, whatever core.autocrlf is
 # set to on the machine doing the commit.
 sources/** -text
+
+# The two files we author rather than receive are ordinary text, pinned to LF so
+# they do not pick up the committing platform's endings under the rule above.
+sources/README.md                          text eol=lf
+sources/chatgpt_export_2026-09/MANIFEST.csv text eol=lf
