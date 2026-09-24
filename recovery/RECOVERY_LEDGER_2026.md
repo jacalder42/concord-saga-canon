@@ -6740,4 +6740,95 @@ END OF ENTRY 74
 
 ===============================================================
 
+===============================================================
+
+# 75. Editorial review of the 2026-09-20 → 24 work — 2026-09-24
+
+Full review at `reports/EDITORIAL_REVIEW_OF_RECENT_WORK_2026-09-24.md`. Occasioned by §74
+§4: a survey re-derived findings the 09-20 audits already held. That was a reading failure
+**and a symptom** — a session that follows `CLAUDE.md` faithfully can still miss four days
+and 180 commits, because the working agreement no longer describes the repository.
+
+## 1. The body of work is sound, and its discipline is better than this ledger's
+
+Eight phases in four days: 24 export audits and **E00–E42 episode audits for Books 1–3**;
+the B01 beat bible from v1 to the integrated v4.1b; Mechanica/Resonance, Conflict and VFX
+integrity audits each with a paired proposal; lived-world baselines; the B01 event-mechanics
+chain ending in **author ruling D1–D7**; the saga anchor register; all 36 milestones
+reviewed; and the Loom carry-forward passes.
+
+**The habit worth copying:** both author rulings state their own *scope of acceptance*.
+`B01_EVENT_OBSERVATION_AUTHOR_RULING` says outright it "does not claim the author reviewed
+each prior source line." That is what stops an "Agreed" becoming approval of everything
+upstream of it, and this ledger has no equivalent convention.
+
+## 2. Verified mechanically, from a clean checkout
+
+Every testable claim in `FULL_EXPORT_ALL_SYSTEMS_STATE_REVIEW_2026-09-23` holds: the stale
+`Mortal Technology` labels, five header-only grids, four `source_canon/` subdirectories
+holding only READMEs, TODO scaffolding in the trilogy cards. One correction of emphasis —
+`VT_RULES.md` is **not** stale, it already carries its retirement note.
+
+## 3. Three governance defects, none of which an audit can see about itself
+
+1. **`Technarch` has re-entered a fifth time, by a new route.** §16.1 and §9.1 name two
+   routes, merges and verbatim heading copies. This is neither: it is **sustained analytical
+   writing adopting the sources' spelling**. `canon/` **0** and `rules/` **0**, so canon
+   scope is clean — but `proposals/` is **17** against §9.1's recorded 6, and in `reports/`
+   the retired spelling **outnumbers** the canonical one **23 to 13**. Only **2 of 29**
+   occurrences in the 09-2x layer sit near a supersession marker, so these are not the
+   annotated quotations §9.1 describes.
+
+   **The prescribed mitigation has failed five times.** §9.1 also asserts the validator
+   cannot catch this. **True of the current validator, false as a limit** — a retired-terms
+   check is structurally identical to `CHK_VOCAB`.
+2. **`reports/` has been repurposed and its README now contradicts its contents.** Both
+   `CLAUDE.md` §1 and `reports/README.md` call it generated artifacts, *"do not hand-edit,
+   regenerate."* **34 files; 2 are generated.** The other 32 are hand-authored editorial
+   reports including the week's two most load-bearing documents. The two real generated
+   files are **stale** — they record 27 canon-scope and 61 all-scope violations against a
+   current **0**. This wants a ruling, not a cleanup: the repository otherwise keeps a clean
+   four-way separation of evidence, argument, verdict and generated fact.
+3. **`decisions/` is undocumented.** It holds the two author rulings — the highest-authority
+   artifacts of the week — and appears in no table or index in `CLAUDE.md`. That is exactly
+   the failure that occasioned this review.
+
+## 4. `CLAUDE.md` is now the repository's least current document
+
+§6 is stale on packets (E00–E42 recovered, not E16–E18). §8 item 6's three targets are
+**all resolved**. Item 7 is satisfied, from a different conversation than it names. §8.0's
+"three layers missing" is overtaken. §9.1's counts are wrong. §1's table calls `reports/`
+generated and omits `decisions/`.
+
+§6 carries its own *"verify with `git`"* warning and that warning worked. **§8's queue
+carries none, and §8 is where the misdirection happened.**
+
+**Recommended: one consolidation pass on the *state* sections only** — §1's table, §6, §8's
+queue, §9.1's counts. §3's conventions and §4's open-author-question list are current,
+carefully built, and should not be touched.
+
+## 5. Two tooling items offered, not begun
+
+`CHK_RETIRED_TERMS`, reading a `retired_terms` map from `canon_rules.json` — violation in
+canon scope, notice elsewhere, with a quotation-suppression marker so annotated cases stay
+legal and an explicit exemption for `MT_RULES.md`, which §4 **holds**.
+
+And the **provisional exception manifest** that `B01_EVENT_OBSERVATION_AUTHOR_RULING` §4
+requires and that does not exist: the E37/E36-with-S05 and E44/E43 inversions are a live
+trap for any automated pass, and the ruling anticipated the trap without the artifact being
+built.
+
+## 6. One corroboration worth recording
+
+`PRE_EBCI_SYSTEMS_AUDITS_REVIEW` recommends treating `FX2` as a **presentation default, not
+a ceiling**. The validator already implements exactly that, independently and for its own
+reason: `container_band()` returns `None` for `fx`, so `CHK_CONTAINMENT` never checks it as
+a ceiling, because `default_vfx_ceiling` is a default (§57). Two lines of reasoning five
+days apart, same conclusion, same axis — worth having when FX is next argued against the
+recovered `E14` note calling **FX3** the "Act-level limit" (§74 §3).
+
+END OF ENTRY 75
+
+===============================================================
+
 END RECOVERY LEDGER
