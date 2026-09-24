@@ -71,3 +71,7 @@ Then compare Concord at **the same observation granularity**, preserving B01's l
 ## Review gate
 
 This is a recoverable **index to an earlier comparison**, not independent proof about published novels. Author/editor may use the five patterns as questions for Loom design. Do not claim per-book event totals, infer empty middle sections from missing tags, or milestone-map based on the incidence table. To publish numerical peer benchmarks, obtain source text/verified chapter notes and complete the measurement pass above.
+
+## Subsequent source-gated chapter scans (2026-09-24)
+
+The subsequent [DCC 1 chapter-summary scan](DCC1_COMPLETE_CHAPTER_SUMMARY_EVENT_REGISTER_PASS1_2026-09-24.md) records **34 numbered-chapter candidates plus one epilogue setup**, while the [ACOMAF chapter-summary scan](ACOMAF_COMPLETE_CHAPTER_SUMMARY_EVENT_REGISTER_PASS1_2026-09-24.md) records **45 candidates**. These are **counts of editorial candidates recovered from two differently detailed secondary summaries**, not verified novel event totals and not a comparable density ratio. [The source gate](COMPARATIVE_SERIES_CHAPTER_PILOT_AND_SOURCE_GATE_2026-09-24.md) also records that the earlier twelve-chapter Rivers estimate conflicts with a fourteen-chapter secondary study guide. This pass 1 decile recode remains a coarse orientation; see the later documents for boundary decisions and source quality.
