@@ -39,14 +39,15 @@ re-export.
 
 ## `chatgpt_export_2026-09/`
 
-Account export run **2026-09-15** (`exported: 2026-09-15T16:57:09.617Z`). This supersedes
+Account export run **2026-09-15**. Each `.json` records its own `exported` timestamp;
+across the 72 conversations they run from `16:46:23Z` to `18:22:17Z`. This supersedes
 `CLAUDE.md` §7's earlier statement that no export path existed.
 
 ## One permitted redaction — Amendment 1
 
-`workspace_account_id` is replaced with the literal `REDACTED` before a file enters this
-directory. **This is the only deviation from verbatim storage**; anything further needs its
-own amendment.
+The **value** of `workspace_account_id` is replaced with the literal `REDACTED` before a
+file enters this directory. **This is the only deviation from verbatim storage**; anything
+further needs its own amendment.
 
 The key is **kept** and only its value replaced, so the redaction is visible in the file
 rather than inferred from its absence. It is a **text-level substitution**, not a
@@ -56,26 +57,35 @@ value back yields a byte-identical file.
 The `.md` files never contained it and are stored byte-identical.
 
 **Redaction happens before the first commit, never after** — a value committed raw stays in
-git history permanently. `tools/ingest_sources.py` does the copy, redaction, verification
-and manifest in one pass.
+git history permanently.
 
-`MANIFEST.csv` records, per conversation: filename, conversation id, created date, turn
-count, word count, and the SHA-256 of **both the original and the stored file**, plus any
-redaction applied. **The manifest is the audit surface** — a file whose hash
-does not match its manifest row has been altered, which rule 2 forbids.
+**Tooling.** `tools/ingest_export.ps1` runs the whole ingest; the substitution itself is
+`tools/redact_export_ids.py`. Its output is **byte-identical** to the original Amendment 1
+tool, `tools/ingest_sources.py`, on all 68 committed `.json` files — checked by running both
+and comparing hashes. `ingest_sources.py` is retired: it applied the redaction correctly but
+had no exclusions, no forbidden-content scan and no public-repository gate, and it wrote a
+manifest in a different schema that would have overwritten this one.
+
+`MANIFEST.csv` records, per conversation: conversation id, created date, turn count, word
+count, the SHA-256 of the `.md`, and **both** SHA-256s for the `.json` —
+`json_sha256_exported` (as exported) and `json_sha256_committed` (after redaction) — so every
+stored file traces byte-for-byte to the original. **The manifest is the audit surface** — a
+file whose hash does not match its row has been altered, which rule 2 forbids.
+
+The identifier's value appears nowhere in this repository, including in the tools that
+check for it: `tools/verify_sources.py` holds only its SHA-256.
 
 ## Exclusions
 
-The account export holds **72 conversations, 7,479,895 words**. **70 are committed; 138
+The account export holds **72 conversations, 7,479,895 words**. **70 are committed: 138
 files, 7,363,532 words.**
 
 **Excluded material is recorded, not hidden.** Every excluded file keeps its row in
-`MANIFEST.csv` with its SHA-256 and the reason, so the gap is visible and auditable
-against the author's original TAR.
+`MANIFEST.csv` with its hash and the reason, so the gap is visible and auditable against
+the author's original TAR.
 
-**Exclusion, never redaction.** Rule 1 promises that every committed file matches its
-manifest hash exactly. A redacted file would break that promise silently. Leaving a file
-out keeps it intact.
+**Material that should not be here is left out whole, never edited down.** Amendment 1's
+redaction is the single exception, and it is specified to the byte.
 
 | Conversation | Excluded | Reason |
 | --- | --- | --- |
@@ -86,14 +96,14 @@ out keeps it intact.
 
 The six filenames are also listed in `.gitignore`, so they cannot be added by accident.
 
-**One reviewed allowance.** `2025-12-01__Worldbuilding.json` contains a token-shaped
-string inside a public DeviantArt image URL: an image-CDN token with no expiry and no
-account scope. `tools/verify_sources.py` allowlists it by **file and pattern together**,
-never by pattern alone.
+**One reviewed allowance.** `2025-12-01__Worldbuilding.json` contains a token-shaped string
+inside a public DeviantArt image URL: an image-CDN token with no expiry and no account
+scope. `tools/verify_sources.py` allowlists it by **file and pattern together**, never by
+pattern alone.
 
-**Not in this export.** `Bubble Grunge Lyrics` (Mara Niht) and `Develop Singer Style`
-(Eli Stone) were supplied separately and are not among the 72. They would be committed
-under their own directory with their own manifest.
+**Not in this export.** `Bubble Grunge Lyrics` (Mara Niht) and `Develop Singer Style` (Eli
+Stone) were supplied separately and are not among the 72. They would be committed under
+their own directory with their own manifest.
 
 ## Verification
 
@@ -101,11 +111,19 @@ under their own directory with their own manifest.
 python3 tools/verify_sources.py
 ```
 
-Checks that every committed file is present and matches its manifest hash, that no
-excluded or unlisted file is present, and that no forbidden pattern — session tokens,
-signed URLs, auth ids, the known third-party work contact — appears in any committed
-file. Exits non-zero on any failure.
+Checks that every committed file is present and matches its committed manifest hash, that
+no excluded or unlisted file is present, and that no forbidden content appears in any
+committed file: session tokens, signed URLs, auth and organization ids, the known
+third-party work contact, a `workspace_account_id` whose value is anything other than
+`REDACTED`, or the identifier's value anywhere (matched by hash). Exits non-zero on any
+failure.
 
-Proven by deliberate breakage on 2026-09-23: one byte edited, an excluded token-bearing
-file added, a committed file removed and an unlisted file added each produce exit 1.
-The clean set produces exit 0.
+Proven by deliberate breakage on 2026-09-24. Each of these exits 1: verifying before
+redaction, a byte edited in a committed file, an unredacted `.json`, the excluded
+token-bearing file added, the identifier's value hidden in a `.md`, and a committed file
+removed. The clean set exits 0, and re-running the redaction is a no-op.
+
+`tools/ingest_export.ps1` was run end to end against the live repository with `-NoPush`. It
+detected the repository as public and refused without `-AllowPublic`. With it, it committed
+138 files with 68 keys reading `REDACTED` and the identifier's value in none. The result
+verified clean at canon-scope 0.

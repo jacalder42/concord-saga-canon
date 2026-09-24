@@ -190,3 +190,5 @@ removing it then requires rewriting published history, which §2 forbids.
 `tools/ingest_sources.py` performs the copy, the redaction, the verification and the
 manifest in one pass, so the redacted form is what gets committed in the first place.
 
+> **Superseded 2026-09-24** by `tools/redact_export_ids.py` (byte-identical output) run from `tools/ingest_export.ps1`; see `sources/README.md`.
+

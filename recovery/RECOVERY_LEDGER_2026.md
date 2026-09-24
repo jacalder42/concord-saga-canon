@@ -6423,6 +6423,8 @@ stored file.
 
 ## 3. `tools/ingest_sources.py`
 
+> **Superseded 2026-09-24** by `tools/redact_export_ids.py` (byte-identical output) run from `tools/ingest_export.ps1`; see `sources/README.md`.
+
 Copies, redacts, verifies and manifests in one pass. Standard library only, so it runs on
 the author's machine.
 
@@ -6464,6 +6466,92 @@ the redacted form is what gets committed in the first place.
 carve-out and the tool are all in place; the material is not.
 
 END OF ENTRY 71
+
+===============================================================
+
+===============================================================
+
+# 72. Two ingest pipelines reconciled into one — 2026-09-24
+
+Instructed 2026-09-24. The repository held **two ingest pipelines that could not both
+stand**, and neither could complete an ingest on its own.
+
+## 1. Why they could not both stand
+
+| Pipeline | Had | Lacked |
+| --- | --- | --- |
+| `tools/ingest_sources.py` (§71, Amendment 1's tool) | the redaction, correctly — key kept, value `REDACTED` | exclusions, forbidden-content scan, public-repository gate; and it wrote its own `MANIFEST.csv` **in a different schema**, which would have overwritten the reviewed one |
+| `tools/ingest_export.ps1` + `tools/verify_sources.py` | exclusions, hashing, forbidden-content scan | any redaction at all — they **aborted** on `workspace_account_id` rather than applying Amendment 1 |
+
+So one tool could redact but would have committed the token-bearing `.json` and both
+personal conversations; the other would refuse to commit anything at all. **Running either
+alone produces a wrong result, and running both produces a manifest collision.**
+
+`sources/README.md` had drifted with them: it permitted Amendment 1's redaction in one
+section and stated *"Exclusion, never redaction"* two sections later. Both sentences were
+true of one tool each, which is exactly how the contradiction survived review.
+
+## 2. The reconciliation keeps the mechanism and discards neither safety layer
+
+`tools/redact_export_ids.py` carries Amendment 1's substitution forward unchanged: the key
+is kept, the value becomes the literal `REDACTED`, the edit is text-level rather than a
+re-serialisation, and every other byte survives. It is keyed to `MANIFEST.csv`, which now
+records **two** hashes per `.json` — `json_sha256_exported` and `json_sha256_committed` —
+so every stored file traces byte-for-byte back to the original export. A file matching
+neither hash is refused rather than guessed at, and a file already matching the committed
+hash is left alone, so re-running is a no-op.
+
+**Byte-identity checked: 68 of 68.** Its output equals `tools/ingest_sources.py`'s on every
+committed `.json`, verified by running both tools and comparing hashes. That check and the
+end-to-end `-NoPush` run were performed **against a clone of `main` at `5e78cf2`, not in
+this session** — the export files are not here — and are recorded on that basis.
+
+`tools/ingest_sources.py` is **retired by `git rm`**, not deleted as recovered material:
+it was tooling, its redaction lives on byte-identical, and §71 and
+`GATE_RULINGS_2026-09-21.md` both keep their descriptions of it with a supersession line
+added beneath. The bodies are unchanged; they are records of what was decided.
+
+**The ruling is unchanged. Only the tooling is consolidated.** Amendment 1 said strip the
+workspace ids before the first commit; it still says that, and the same substitution still
+performs it.
+
+## 3. What else the supplied files correct
+
+- **The README contradiction is gone.** Redaction is now stated once, as the single
+  permitted deviation from verbatim storage, specified to the byte.
+- **The export timestamp is a range, not a point.** `16:46:23Z` to `18:22:17Z` across the
+  72 conversations. The old README quoted one conversation's stamp as if it were the
+  export's.
+- **The verifier now fails an unredacted file** rather than ignoring the key — the gap
+  flagged 2026-09-23, where `FORBIDDEN` omitted `workspace_account_id` entirely and
+  Amendment 1 was therefore unenforced. It also holds the identifier's **SHA-256 only**,
+  never its value, and hash-matches every UUID in every committed file, so the value
+  cannot re-enter through a `.md` either.
+
+## 4. The repository is public, and publishing is the author's decision
+
+Confirmed 2026-09-24 against the GitHub API: `private: false`, `visibility: public`. This
+**reverses the state recorded 2026-09-21**, when the repository was private. The ingest
+script detects visibility by attempting an anonymous read and **refuses to commit to a
+public repository without `-AllowPublic`**, so publishing the export is an explicit act
+each time rather than a default. The author has taken that decision.
+
+## 5. Verification
+
+Run in this session, on the tooling commit:
+
+- Canon-scope **0**; validator clean before and after.
+- Self-tests **132**, all passing.
+- All six excluded filenames present in `.gitignore`, **exactly once each**.
+- The identifier's value appears **nowhere** in the tree, including this entry.
+
+## 6. Still outstanding
+
+**`sources/` still holds only its README.** This entry lands the pipeline; the material
+needs the author's machine, where the export is. Commit B is the ingest itself — 138 files
+under `sources/chatgpt_export_2026-09/`, 68 `.json` reading `REDACTED`.
+
+END OF ENTRY 72
 
 ===============================================================
 

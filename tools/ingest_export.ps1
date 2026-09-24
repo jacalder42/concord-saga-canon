@@ -11,23 +11,28 @@
        sources/chatgpt_export_2026-09/   (the music\ subfolder and the .tar are
        deliberately not copied -- they are supplied separately)
     3. delete the six excluded files BEFORE anything is staged
-    4. scan for workspace_account_id BEFORE anything is staged
+    4. redact workspace_account_id -- Ruling 10 Amendment 1, the ONE declared
+       transformation: the value becomes REDACTED, the key is kept -- via
+       tools/redact_export_ids.py, keyed to the manifest's exported and
+       committed hashes; then confirm no unredacted value remains
     5. run tools/verify_sources.py and require exit 0
-    6. only then: git add / commit / push
+    6. refuse to commit to a PUBLIC repository unless -AllowPublic was given
+    7. only then: git add / commit / push
 
   Any failed check aborts before the first git add. Nothing reaches history
   unless every check passed -- a value committed raw stays in git history
   permanently, so the abort is the safe side of every uncertainty.
 
 .EXAMPLE
-  powershell -ExecutionPolicy Bypass -File tools\ingest_export.ps1 -DryRun
-  powershell -ExecutionPolicy Bypass -File tools\ingest_export.ps1
+  powershell -ExecutionPolicy Bypass -File tools\ingest_export.ps1 -Src <export folder> -DryRun
+  powershell -ExecutionPolicy Bypass -File tools\ingest_export.ps1 -Src <export folder> -AllowPublic
 #>
 [CmdletBinding()]
 param(
   # Folder holding the loose export files (NOT the .tar -- the files are already
   # extracted beside it, and the .tar is misnamed after one focused conversation).
-  [string] $Src = "C:\Users\jamey\OneDrive\Desktop\ChatGPT Backup 26-0915\concord_saga",
+  [Parameter(Mandatory = $true)]
+  [string] $Src,
 
   # MANIFEST.csv as supplied.
   [string] $Manifest = "$env:USERPROFILE\Downloads\MANIFEST.csv",
@@ -39,7 +44,11 @@ param(
   [switch] $DryRun,
 
   # Commit but do not push.
-  [switch] $NoPush
+  [switch] $NoPush,
+
+  # Required to commit when the repository is PUBLIC. Publishing the export is a
+  # deliberate choice, never a default.
+  [switch] $AllowPublic
 )
 
 $ErrorActionPreference = 'Stop'
@@ -79,8 +88,15 @@ visible and auditable against the original TAR. Exclusion, never redaction: a
 redacted file would silently break the manifest's promise that every committed
 file matches its hash exactly.
 
+One declared transformation, per Ruling 10 Amendment 1: the value of
+workspace_account_id is replaced with REDACTED in each .json (key kept) by
+tools/redact_export_ids.py. MANIFEST.csv records both the exported and the
+committed hash, so every committed .json still traces byte-for-byte to the
+original export.
+
 Verified with tools/verify_sources.py before this commit: every committed file
-present and hash-matched, no excluded, unlisted or forbidden content.
+present and hash-matched, no excluded, unlisted or forbidden content, and no
+workspace identifier.
 '@
 
 # ------------------------------------------------------------------ locate ---
@@ -112,10 +128,12 @@ Ok "git and $Py found"
 
 if (-not (Test-Path -LiteralPath $Src))      { Fail "source folder not found: $Src" }
 if (-not (Test-Path -LiteralPath $Manifest)) { Fail "MANIFEST.csv not found: $Manifest" }
-if (-not (Test-Path -LiteralPath (Join-Path $Repo 'tools\verify_sources.py'))) {
-  Fail "tools\verify_sources.py not found under $Repo -- is this the right clone?"
+foreach ($t in 'tools\verify_sources.py','tools\redact_export_ids.py') {
+  if (-not (Test-Path -LiteralPath (Join-Path $Repo $t))) {
+    Fail "$t not found under $Repo -- commit the updated tools first."
+  }
 }
-Ok "source, manifest and verifier all present"
+Ok "source, manifest, verifier and redaction tool all present"
 
 Push-Location $Repo
 try {
@@ -132,6 +150,20 @@ try {
   git pull --ff-only 2>&1 | ForEach-Object { Say "        $_" }
   if ($LASTEXITCODE -ne 0) { Fail "git pull failed. Resolve, then re-run." }
   Ok "up to date with origin/$branch"
+
+  # Visibility: try the remote with every credential source disabled. If that
+  # succeeds, anyone can read it -- the repository is public.
+  $url = (git remote get-url origin).Trim()
+  if ($url -match '^git@github\.com:(.+)$') { $url = "https://github.com/$($Matches[1])" }
+  $env:GIT_TERMINAL_PROMPT = '0'
+  $env:GCM_INTERACTIVE     = 'never'
+  git -c credential.helper= ls-remote --heads $url 2>$null | Out-Null
+  $Public = ($LASTEXITCODE -eq 0)
+  if ($Public) {
+    Write-Host "  NOTE  repository is PUBLIC -- a commit here publishes the export" -ForegroundColor Yellow
+  } else {
+    Ok "repository is private (anonymous read refused)"
+  }
 } finally { Pop-Location }
 
 # ------------------------------------------------------------- 2. copy ------
@@ -176,23 +208,21 @@ Say "        removed $removed of 6; $($after.Count) file(s) remain; expected $Ex
 if ($removed -ne 6) { Fail "expected to remove 6 excluded files, removed $removed." }
 Ok "exclusions applied"
 
-# -------------------------------------------- 4. workspace_account_id scan --
+# ------------------------------------ 4. redact workspace_account_id ------
 Say ""
-Say "4. Scan for workspace_account_id (before anything is staged)"
+Say "4. Redact workspace_account_id (Amendment 1, the one declared transformation)"
 
-$hits = @(Select-String -Path (Join-Path $Dest '*.json') -Pattern 'workspace_account_id' `
-            -SimpleMatch -List -ErrorAction SilentlyContinue)
+& $Py (Join-Path $Repo 'tools\redact_export_ids.py') $Dest 2>&1 | ForEach-Object { Say "        $_" }
+if ($LASTEXITCODE -ne 0) { Fail "redact_export_ids.py exited $LASTEXITCODE -- see above. Nothing is guessed." }
+
+$hits = @(Select-String -Path (Join-Path $Dest '*.json') `
+            -Pattern '"workspace_account_id"\s*:\s*"(?!REDACTED")' `
+            -List -ErrorAction SilentlyContinue)
 if ($hits.Count) {
-  Say ""
   $hits | ForEach-Object { Say "        $($_.Filename)" }
-  Say ""
-  Say "  Amendment 1 says this key is stripped before the FIRST commit, never"
-  Say "  after -- a value committed raw stays in git history permanently."
-  Say "  But the manifest hashes cover the files as exported, so redacting them"
-  Say "  here would make every one of those rows fail verification."
-  Fail "$($hits.Count) file(s) carry workspace_account_id. That collision is a ruling, not a script decision -- send me this list."
+  Fail "$($hits.Count) file(s) still carry an unredacted workspace_account_id."
 }
-Ok "0 occurrences"
+Ok "redacted; no unredacted value remains"
 
 # ---------------------------------------------------------- 5. verify -------
 Say ""
@@ -200,7 +230,7 @@ Say "5. Verify against the manifest"
 
 Push-Location $Repo
 try {
-  & $Py 'tools\verify_sources.py' 2>&1 | ForEach-Object { Say "        $_" }
+  & $Py (Join-Path $Repo 'tools\verify_sources.py') 2>&1 | ForEach-Object { Say "        $_" }
   $rc = $LASTEXITCODE
 } finally { Pop-Location }
 if ($rc -ne 0) { Fail "verify_sources.py exited $rc." }
@@ -212,9 +242,15 @@ if ($DryRun) {
   exit 0
 }
 
-# ------------------------------------------------------ 6. commit and push --
+# ---------------------------------------------------- 6. visibility gate ----
+if ($Public -and -not $AllowPublic) {
+  Fail "the repository is PUBLIC. Committing publishes the export. Re-run with -AllowPublic if that is intended."
+}
+if ($Public) { Write-Host "  NOTE  -AllowPublic given: publishing to a public repository" -ForegroundColor Yellow }
+
+# ------------------------------------------------------ 7. commit and push --
 Say ""
-Say "6. Commit and push"
+Say "7. Commit and push"
 
 Push-Location $Repo
 try {

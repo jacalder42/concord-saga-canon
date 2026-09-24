@@ -4,12 +4,19 @@
 Ruling 10 (2026-09-21): sources/ is verbatim and append-only. The manifest is the
 audit surface -- a file whose hash does not match its row has been altered.
 
+One declared transformation is applied before commit (Ruling 10 Amendment 1):
+tools/redact_export_ids.py replaces the value of workspace_account_id with the
+literal REDACTED in each .json. The key is kept, so the redaction is visible.
+The manifest records both hashes; this tool checks json_sha256_committed, and
+json_sha256_exported keeps the chain back to the author's original TAR.
+
 Checks, all of which must pass:
   1. every file the manifest marks for commit is present
   2. every present file's SHA-256 matches its manifest row
   3. no excluded file is present
   4. no unlisted file is present
-  5. no forbidden pattern appears in any committed file, except the allowlisted
+  5. no forbidden pattern appears in any committed file -- including the
+     workspace identifier, so an unredacted .json fails -- except the allowlisted
      public image token in Worldbuilding.json
 
 Exits non-zero on any failure, so it can gate a commit or a CI step.
@@ -34,7 +41,14 @@ FORBIDDEN = {
     "auth user id": r"user-[A-Za-z0-9]{20,}",
     "organization id": r"org-[A-Za-z0-9]{20,}",
     "third-party work contact": r"truengineering|taggarch|501-993-7149",
+    # Amendment 1 keeps the key; any value other than REDACTED is a leak.
+    "unredacted workspace id": r'"workspace_account_id"\s*:\s*"(?!REDACTED")',
 }
+
+# The identifier's VALUE is checked by hash, so this public file never carries it.
+# Any UUID in a committed file whose SHA-256 equals this is the workspace id.
+WORKSPACE_ID_SHA256 = "93e2017edd915287f39819669815d8bc93a5907d58d86259877586aa2794cd4f"
+UUID = re.compile(r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}")
 
 # One known, reviewed exception: a public DeviantArt/Wix image-CDN token inside an
 # image URL (iss urn:app:..., aud urn:service:image.operations, no expiry, no
@@ -65,7 +79,7 @@ def main(root):
         md, js = r["stem"] + ".md", r["stem"] + ".json"
         status = r["status"]
         if status == "COMMIT_BOTH":
-            expected[md], expected[js] = r["md_sha256"], r["json_sha256"]
+            expected[md], expected[js] = r["md_sha256"], r["json_sha256_committed"]
         elif status == "COMMIT_MD_ONLY":
             expected[md] = r["md_sha256"]
             excluded.add(js)
@@ -99,6 +113,9 @@ def main(root):
             n = len(rx.findall(text))
             if n:
                 failures.append(f"forbidden     {name}: {label} x{n}")
+        seen = {u for u in UUID.findall(text)}
+        if any(hashlib.sha256(u.encode()).hexdigest() == WORKSPACE_ID_SHA256 for u in seen):
+            failures.append(f"forbidden     {name}: workspace identifier value")
 
     committed = len(set(expected) & present)
     print(f"manifest rows {len(rows)} | expected files {len(expected)} | "
