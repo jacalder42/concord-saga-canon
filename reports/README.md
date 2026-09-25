@@ -1,6 +1,27 @@
-# Validation Reports
+# reports/
 
-Generated artifacts. **Do not hand-edit** — regenerate instead:
+**Redefined 2026-09-25 (ledger 76).** This directory holds two kinds of file, and the
+rule differs by kind. The earlier definition — *generated artifacts, do not hand-edit* —
+described only the first kind, while 32 of 34 files were the second. A session obeying it
+would have refused to write here, or "regenerated" an editorial report out of existence.
+
+| Kind | Files | Rule |
+| --- | --- | --- |
+| **Generated validation reports** | `VALIDATION_BASELINE_*.md` only | Never hand-edit. Regenerate with the commands below. |
+| **Authored editorial reports** | everything else | Audits, stress tests, reviews and source checks. Written by hand, revisable like `proposals/`, **non-canonical**. Each opens with a `Status:` line. Findings bind nothing until a ruling in `decisions/` adopts them. |
+
+Authored reports are scanned in all-scope (`--all`) since 2026-09-25, so retired names in
+them surface as `CHK_RETIRED_TERMS` notices.
+
+**Where a new analysis goes.** Evidence recovered from sources → `recovery/`. A proposed
+architecture, card set or reconciliation someone might adopt → `proposals/`. An assessment
+of existing work (audit, stress test, review) → here. An author ruling → `decisions/`.
+
+---
+
+## Generated validation reports
+
+Do not hand-edit — regenerate:
 
 ```sh
 python3 tools/validate_canon.py --report reports/VALIDATION_BASELINE_<date>.md
@@ -10,7 +31,10 @@ python3 tools/validate_canon.py --all --report reports/VALIDATION_BASELINE_ALL_<
 The validator reports violations and never fixes them. It exits non-zero whenever any
 violation is found, so it is safe to wire into a pre-commit hook or CI step.
 
-## Baseline, 2026-09-19 (regenerated after the 2026-09-18 rulings)
+### History — baseline, 2026-09-19 (regenerated after the 2026-09-18 rulings)
+
+> Historical record. Current figures come from running the validator, not from this
+> section: canon scope 0, 144 self-tests as of 2026-09-25.
 
 Two reports, because scope changes the answer.
 

@@ -1,0 +1,59 @@
+# decisions/
+
+**Author rulings. The highest-authority documents in the repository after `canon/` and
+`rules/` themselves.** Created 2026-09-25 (ledger 76); the directory existed from
+2026-09-23 but was undocumented, so a session following `CLAUDE.md` would not know to look
+here.
+
+## Authority
+
+A ruling here **overrides any interpretation in `proposals/`, `recovery/` or `reports/`
+within its stated scope — and only within it.** It does not by itself edit `canon/`,
+`rules/` or the grids; migrating a ruling into the substrate is separate work, done and
+recorded in the ledger.
+
+## Every ruling states its scope of acceptance
+
+The convention the 2026-09-23 rulings established is **permanent**. An author reply such
+as *"Agreed"* accepts the specific recommendations put to the author — not every source
+line, candidate detail or proposal those recommendations cite. So each ruling records:
+
+1. **What was accepted**, item by item.
+2. **What remains unapproved** beside each item.
+3. **The decision chain** — the proposals and docket the author was responding to.
+4. **The author's words**, quoted, when the acceptance was conversational.
+
+This is what stops *proposal → conversational agreement → accidental wholesale
+canonization*. A ruling that cannot fill in column 2 is not ready to be written.
+
+## Naming
+
+`{SCOPE}_{TOPIC}_AUTHOR_RULING_{YYYY-MM-DD}.md`. Machine-readable companions a ruling
+requires sit beside it and name the ruling they serve
+(`B01_SEQUENCE_EXCEPTIONS_PROVISIONAL.json`).
+
+## Index
+
+### In this directory
+
+| File | Rules on |
+| --- | --- |
+| `B01_EVENT_OBSERVATION_AUTHOR_RULING_2026-09-23.md` | B01 event observations D1–D7; holds event EBCI; the two sequence inversions |
+| `B01_SEQUENCE_EXCEPTIONS_PROVISIONAL.json` | Machine-readable hold for those inversions (companion, not a ruling) |
+| `B05_TECHNICAL_EVIDENCE_FUNCTION_AUTHOR_RULING_2026-09-23.md` | B05 fallible technical evidence / institutional concealment as story function |
+
+### Earlier rulings, which stay in `recovery/`
+
+These predate this directory. They are **not moved**: `recovery/` holds originals and is
+never altered in place, and many documents link to these paths.
+
+| File | Rules on |
+| --- | --- |
+| `recovery/CANON_DECISIONS_2026-09-18.md` | Vocabulary collision, SID format, `BT` beat IDs, `LOAD` axis, source tiers, Act I status |
+| `recovery/GATE_RULINGS_2026-09-19.md` | Gate rulings incl. Amendment 1 (`Foix` retired, `Bastien "Baz" Arnaud`) |
+| `recovery/GATE_RULINGS_2026-09-20.md` | Ruling 5 (soft ceilings), Ruling 6 (`PR`/`EP` positions), derived layers |
+| `recovery/GATE_RULINGS_2026-09-21.md` | Ruling 10 (prose scoped to `sources/` and `manuscript/`) and its amendment |
+| `recovery/CHANNEL_NAMES_RULING_2026-09-19.md` | MT / VT / LT are three Threads |
+| `recovery/BAZ_DEATH_TIMING_RULING_2026-09-19.md` | Baz dies at the end of B03 |
+
+New rulings go **here**, not in `recovery/`.
