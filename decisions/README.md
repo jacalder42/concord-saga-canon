@@ -50,9 +50,9 @@ never altered in place, and many documents link to these paths.
 | File | Rules on |
 | --- | --- |
 | `recovery/CANON_DECISIONS_2026-09-18.md` | Vocabulary collision, SID format, `BT` beat IDs, `LOAD` axis, source tiers, Act I status |
-| `recovery/GATE_RULINGS_2026-09-19.md` | Gate rulings incl. Amendment 1 (`Foix` retired, `Bastien "Baz" Arnaud`) |
-| `recovery/GATE_RULINGS_2026-09-20.md` | Ruling 5 (soft ceilings), Ruling 6 (`PR`/`EP` positions), derived layers |
-| `recovery/GATE_RULINGS_2026-09-21.md` | Ruling 10 (prose scoped to `sources/` and `manuscript/`) and its amendment |
+| `recovery/GATE_RULINGS_2026-09-19.md` | Rulings 1–4 (location taxonomy, `Corridor`, character manifest, branch merge); Amendment 1 (`Foix` retired, `Bastien "Baz" Arnaud`) |
+| `recovery/GATE_RULINGS_2026-09-20.md` | Rulings 5–9: soft trilogy ceilings, `PR`/`EP` outside the act model, per-trilogy pressure, derived locations, derived POV rotation |
+| `recovery/GATE_RULINGS_2026-09-21.md` | Ruling 10: prose scoped to `sources/` and `manuscript/` (its redaction Amendment 1 is specified in `sources/README.md`) |
 | `recovery/CHANNEL_NAMES_RULING_2026-09-19.md` | MT / VT / LT are three Threads |
 | `recovery/BAZ_DEATH_TIMING_RULING_2026-09-19.md` | Baz dies at the end of B03 |
 
