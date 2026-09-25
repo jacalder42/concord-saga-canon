@@ -7317,4 +7317,82 @@ END OF ENTRY 81
 
 ===============================================================
 
+===============================================================
+
+# 82. B01 census Pass 3 — the E45/E48 merge test, and it removes a candidate — 2026-09-25
+
+`CLAUDE.md` §9 item 3, continuing §81. Proposal at
+`proposals/B01_EVENT_CENSUS_PASS3_45B_E48_MERGE_TEST_AND_KIND_TAGS_2026-09-25.md`. **Nothing
+promoted, created or counted as settled; no beat, episode function, supplement or the locked
+order touched; no cause assigned; no EBCI.**
+
+## 1. The one test that needed neither source recovery nor a held ruling
+
+§81 identified `B1-45B` against `E48` as resolvable by reading the two v4.1b beats side by
+side. It is.
+
+**E45's structural aftermath is a decision.** The trio argues with three named positions —
+Baz on what they are justified in saying, Seraphine on who gets abandoned when responsibility
+becomes everywhere, Lucien on when refusing to extrapolate becomes its own error — and
+*"they agree to widen inquiry, not certainty."*
+
+**E48 does not re-decide it.** It has *"Baz argues investigation must widen"* and *"trio
+chooses to continue,"* with *"global extent remains unconfirmed"* — **the same posture, not
+an escalation.**
+
+**So `B1-45B` stands as a tier-C candidate and E48's continuation is its tier-D receipt**,
+doing exactly the receipt's job: letting the reader test that the E45 commitment survived
+the book's final event.
+
+**E48 is not diminished** — its own candidate is the quiet predicted pulse, *"close enough to
+expectation to falsify 'random'"*, untouched. What is declined is counting its continued
+inquiry as a second commitment.
+
+**The finding stays reversible.** It rests on E48 giving Baz an *argument* rather than the
+trio a *new decision*. If a revision has E48 settle something E45 left open — a destination,
+a receiver, an accepted cost — the test re-runs.
+
+## 2. The direction of travel is worth recording
+
+Cards Pass 1's net was *"one E40 gathering candidate and two E45 candidates."* After this
+test the E45 pair is **one candidate plus one receipt**.
+
+**This pass removes a candidate rather than adding one.** A census under pressure to reach a
+range drifts the other way, and the queue item says *"no target count"* precisely to stop
+that. Worth noting as evidence the instruction is holding.
+
+## 3. Kind tags across all 48 slots close measurement (c)
+
+§81 found (c) computable only for the carded windows and noted that tagging *"classifies what
+changes, not why"* — no causal decision, no held ruling. Done, as a proposal, so the author
+decides by seeing the result rather than authorizing blind.
+
+Among the **28** candidate slots: **evidential 10, relational 4, civic 4, institutional 3,
+physical 3, perceptual 2, decisional 1, care 1.**
+
+**Only 3 of 28 candidate slots are `physical`** — E33, E45, E48. The book's changes are
+overwhelmingly evidential, relational, civic and institutional. **That is the Book 1
+public/local/no-combat/low-amplitude constraint holding**, and it is the strongest available
+answer to the standing worry that B1 leans on pulse set pieces.
+
+`evidential` at 10 of 28 is the largest kind, concentrated at E16, E20, E25, E27, E35, E39,
+E47 — worth checking in item 4 for whether they escalate or restate, which Pass 1 already
+asks of the E25/E27 and E39/E47 pairs.
+
+**A counting note, recorded because it nearly shipped wrong.** The mix table was first
+hand-tallied and was wrong by one on `evidential` — 10/9 against the true 11/10. It is now
+a machine recount of the tag column. Small, but this ledger has twice before recorded a
+figure measured the convenient way (§74 §4, §78 §4), and the pattern is the point.
+
+## 4. Verification
+
+Canon scope **0**; self-tests **144**; source verifier **PASS** at 138.
+
+Unchanged: E23, E38 and E40 need source work before another editorial pass adds value;
+`B1-45A`'s causal contract stays gated by **D5**; measurement (a) stays uncomputed.
+
+END OF ENTRY 82
+
+===============================================================
+
 END RECOVERY LEDGER
