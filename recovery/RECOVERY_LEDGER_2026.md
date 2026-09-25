@@ -7550,4 +7550,93 @@ END OF ENTRY 84
 
 ===============================================================
 
+===============================================================
+
+# 85. Saga structural pass 1 — resolution, the nine-book map, and B08 — 2026-09-25
+
+`CLAUDE.md` §9 step 1. Proposal at
+`proposals/SAGA_STRUCTURAL_PASS1_RESOLUTION_MAP_AND_B08_2026-09-25.md`. **No milestone, grid
+value, book context, act overlay or episode changed; no event placed, promoted or retired;
+no author question answered; no EBCI.**
+
+Also recorded: **navigation manifests are deferred** until Veil EBCI is built, possibly later
+— author, 2026-09-25, answering §84 §3. `CLAUDE.md` §9 says so.
+
+## 1. The nine books do not exist at the same resolution
+
+B01 has **14** episode/beat-level documents; B02 and B03 have **3** each; **B04–B09 have
+none** — three to five milestone rows per book plus pool candidates. And the B04–B09 book
+contexts are `_basis: derived` *"from grids/milestones_payoffs.csv"*, so they **cannot
+corroborate the grid** — using them would count the same 36 rows twice.
+
+**So any nine-book density comparison would find Veil dense and Neon/Loom sparse purely
+because more of Veil has been written down.** Same class of error as §83's v3/v4.1b split.
+The saga pass therefore works at the **one resolution all nine share — milestone rows plus
+pool candidates**. Veil's episode detail waits for the trilogy audit, where it can be
+compared with itself.
+
+## 2. What the shared-resolution map shows
+
+- **The three tier-A anchors sit in each trilogy's closing book** — B03 Warehouse, B06
+  Santa Fe, B09 Mending — and **both trilogy handoffs are in `EP` positions.** The
+  three-by-three skeleton is sound.
+- **Promises are end-weighted within books:** five of nine — B03, B05, B06, B08, B09 — carry
+  no Act 1 milestone. Shape, not defect; the grid lists promises, not plot.
+- **Thread pressure is unusable as a rhythm signal after B04 Act 3.** Of the seventeen rows
+  M16–M32, sixteen end at 5; eleven score 5→5 consecutively. The 09-23 review already said
+  so. **A first draft of this finding said "seventeen consecutive" by conflating the span
+  with the run; corrected by script before commit.** Fourth figure this session caught
+  that way, and the check is now habit rather than luck.
+
+## 3. B08 is squeezed, not empty
+
+Eight pool candidates attach to B08. **Four collide with B07** (011, 012, 015, 016, flagged
+duplicate or alternate), **one with B09** (020, the chamber), **one is warned against
+repeating B07** (019), and **one is a proposal with no recovered incident** (018).
+
+**Only POOL-017 — Choirless coercive quieting of a community — is B08-native, supported by the
+author-pasted December macro, and free of any duplicate flag.** It is also the only one that
+cannot steal B09's ending, since it concerns coercion rather than access to Honey Island.
+
+**This reframes the instruction.** *"Strengthen B07–B08 without stealing B09's ending"* is at
+least as much **disentangling B07 from B08** as finding new B08 material. B07 is the richest
+book in the pool — eight candidates — partly because it stands on B08's ground. Proposed:
+adjudicate the four collisions first (the pool's own step 3), and treat POOL-017 as the
+leading B08 turn candidate **for the author's consideration only**.
+
+## 4. Milestone decision #1 is narrower than the packet put it
+
+The packet asked whether Tahl is first named in the **B3 epilogue or B4**, crediting B4 to *"an
+earlier same-day explicit ruling"* and assigning Claude the source check. Done.
+
+**The only verbatim author utterance** (`VEIL_STRUCTURE_2026-09-19.md`): *"Tahl isn't named
+until Book 3 … his remorse in B4 is his protagonist arc beginning."* **The B03-epilogue rule
+has no quoted source** — it is a paraphrase in the handoff's list, already recorded in §26.6
+as a lock living only in a proposal.
+
+They do not conflict. **B4 rests on reading "remorse in B4" as "named in B4"**; no author
+sentence names B4 as the point of first naming. **The live question is "the B3 epilogue, or
+earlier in Book 3?"** — B4 stays open only if the author meant *"until"* as a bare floor.
+
+## 5. What the saga pass can judge now
+
+Anchors, pool, milestone architecture and trilogy transitions — **yes**, pending the five
+decisions. Causal dependencies, character and place recurrence, antagonist pressure and
+Mechanica escalation — **partly**. Rhythm and density — **only coarsely**. Thread pressure,
+and Life/Reward, wonder, fun, romance, heat and humour — **not yet**: they need rescoring or
+episode-grain data that only B01 has. The pass says at which later step each becomes
+judgeable rather than faking a nine-book reading from B01.
+
+## 6. Verification
+
+Canon scope **0**; self-tests **144**; source verifier **PASS** at 138.
+
+**Next, unblocked:** adjudicate the four B07/B08 pool collisions, and the packet's remaining
+Claude-checkable items. **Blocked on the author:** the five milestone decisions, open since
+2026-09-23.
+
+END OF ENTRY 85
+
+===============================================================
+
 END RECOVERY LEDGER

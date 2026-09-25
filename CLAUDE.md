@@ -270,6 +270,8 @@ judgments are provisional until the levels above them are settled.
    voice, exit state. **Never feed raw EBCI, canon or recovery material to prose generation.**
 
 **Do not create an `ebci/` directory yet** — it would signal that EBCI is the active layer.
+**Navigation manifests are deferred** until Veil EBCI is built, possibly later — author,
+2026-09-25. §8 stays the only current-state record; reading lists live in the map below.
 
 **Completed 2026-09-25, and what each is still subject to:**
 - Governance consolidation (§76–§79). Retired-term sweeps complete.
