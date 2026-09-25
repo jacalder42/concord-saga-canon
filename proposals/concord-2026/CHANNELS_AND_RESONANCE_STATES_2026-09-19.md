@@ -71,6 +71,16 @@ legible without renaming anything:
 }
 ```
 
+> **The channel labels in the block above are retired; the grouping it proposes is not.**
+> `Mortal Technology`, `Veil-Touch` and `Luminous Thread` were superseded by the channel
+> ruling of the same day (`recovery/CHANNEL_NAMES_RULING_2026-09-19.md`): the three channels
+> are **MissingThread**, **VeilThread** and **LuminousThread**. The quotation at the top of
+> this document is accurate — `rules/Channels/CHANNELS_OVERVIEW.md` does still carry the old
+> labels — but **applying this JSON as written would put retired names into
+> `rules/canon_rules.json`**, where `CHK_RETIRED_TERMS` reports them as a violation and CI
+> fails. Substitute the current names if the `res_states_kind` grouping is adopted; the
+> proposal's argument does not depend on the labels. Annotated 2026-09-25, ledger §78.
+
 The flat list stays, so nothing that reads it breaks. The grouping is additive and
 carries the distinction into the data rather than leaving it in prose.
 

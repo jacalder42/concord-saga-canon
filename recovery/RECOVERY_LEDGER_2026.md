@@ -6995,4 +6995,106 @@ END OF ENTRY 77
 
 ===============================================================
 
+===============================================================
+
+# 78. The remaining retired terms reviewed — and almost none of them were drift — 2026-09-25
+
+§77 swept `Technarch` and one-digit `B1`. This pass applies the same method to everything
+left in `proposals/` and `reports/`: **56 occurrences across five terms**, each read in
+context before anything changed.
+
+## 1. The result is the opposite of §77
+
+**Zero text corrections were warranted.** One annotation was.
+
+| Term | In scope | Own-voice drift | Disposition |
+| --- | --- | --- | --- |
+| `Foix` → Arnaud | 35 | **0** | provenance, rename records, annotated strikethroughs |
+| `Veil-Touch` → VeilThread | 7 | **0** | quotations of the stale rule file, or "retired" statements |
+| `Koro Ito` → Ito Masayuki | 5 | **0** | quoted memory export, annotated supersession |
+| `Kade Rios`, `Caro Gauthier` | 0 | — | present only in the 09-24 editorial review |
+| `Technarch` (residue) | 9 | **0** | the three protected quotations, five annotated, one CSV cell |
+
+**This is a finding, not a null result.** §77 corrected 32 occurrences because sustained
+analytical writing had adopted the sources' faction spelling. The character and channel
+names show **no such drift at all**: the 2026-09-19/20 passes handled them correctly, and
+every survivor is doing a job.
+
+Representative: *"historical **Foix** references remain valid provenance and must not be
+rewritten inside archived source evidence"*; *"**Superseded 2026-09-19:** James ruled that
+the names in `canon/characters/` are final"*; *"`rules/Channels/CHANNELS_OVERVIEW.md` still
+calls MT 'Mortal Technology' and VT 'Veil-Touch,' despite current channel rulings"*. Each
+**names the retired form in order to retire it.** Correcting any of them would delete the
+record that the rename happened.
+
+**So `CHK_RETIRED_TERMS`' notice count is not a defect backlog.** After §77, the notices in
+`proposals/` and `reports/` are almost entirely the audit trail working as designed. The
+number will not go to zero and should not.
+
+## 2. The one thing worth acting on
+
+`proposals/concord-2026/CHANNELS_AND_RESONANCE_STATES_2026-09-19.md` proposes a `json` block
+for `rules/canon_rules.json` carrying `"MT": "Mortal Technology …"`, `"VT": "Veil-Touch …"`
+and `"LT": "Luminous Thread …"` — written the **same day** the channel ruling retired all
+three labels.
+
+The document is not wrong about anything: its quotation of `CHANNELS_OVERVIEW.md` is
+accurate, that file does still carry the old labels, and the proposal's real subject is the
+`res_states_kind` grouping, which the labels do not affect. But **applying the block as
+written would put retired names into canon scope**, where `CHK_RETIRED_TERMS` makes them a
+violation and CI fails.
+
+**Annotated, not rewritten.** Rewriting would misreport what was proposed on 2026-09-19;
+the note says the grouping stands, the labels do not, and names the current forms. Same
+reasoning as §77 §3 for the recovered spine proposal.
+
+## 3. Deliberately untouched
+
+`Mortal Technology` — **9 occurrences in scope and not in `retired_terms` at all**, because
+`CLAUDE.md` §3 and §4 **hold** it rather than retiring it: the MT-versus-infrastructure
+question is open, and `rules/Channels/MT_RULES.md` must keep its name until it is ruled. The
+check correctly says nothing about them.
+
+`recovery/` — 252 notices, never edited in place. `decisions/` — 2 notices, author rulings.
+
+`reports/EDITORIAL_REVIEW_OF_RECENT_WORK_2026-09-24.md` — 12 notices across five terms,
+because §5 of that document **lists the retired terms as the specification for the check
+that now reports them**. Rewriting it would delete the specification.
+
+## 4. Verification, and a correction to §77's figures
+
+| | HEAD after §77 | After §78 |
+| --- | --- | --- |
+| All-scope violations | 108 | **112** |
+| All-scope notices | 346 | **357** |
+| Canon scope | 0 | **0** |
+| Self-tests | 144 | **144** |
+| Source verifier | PASS | **PASS** |
+
+**Both figures rise, and that is correct behaviour.** Nothing was corrected. The annotation
+and this entry **name retired terms in order to discuss them**, and the paragraph below
+**quotes four malformed SIDs in order to explain them** — so all-scope gains 11 notices and
+4 violations from this entry alone. A pass that reviews malformed names and identifiers
+necessarily adds both. **Judge the sweep by the classification, not by the counter**; the
+counter that matters is canon scope, which is **0**.
+
+**§77's reported figures were measured too early and understate the committed state.** It
+reported 104 violations and 333 notices; the true post-commit figures are **108 and 346**.
+The gap is **§77's own ledger entry**, which quotes `S1.T1.B3.A3.E14`, `S1.T1.B1.A1.E01`,
+`S1.T1.B1.A1.E01-B01` and `S1.T3.B09.A4.E16` as the evidence for what it decided — exactly
+**+4** malformed SIDs — and names five retired terms, **+13** notices. The measurement was
+taken after the file edits and before the ledger was written.
+
+**The §77 comparison it drew is still sound**, because both its before and after figures
+excluded its own entry: the 32-notice fall from 365 to 333 is a like-for-like measure of the
+corrections. What was wrong was calling 333 the committed state. **Measure after writing the
+ledger, not before** — the ledger is inside all-scope.
+
+**No canon mechanics, episode order or EBCI status touched. The E19/EBCI ruling is not in
+this change.** `CLAUDE.md` §9 item 1 is now complete.
+
+END OF ENTRY 78
+
+===============================================================
+
 END RECOVERY LEDGER
