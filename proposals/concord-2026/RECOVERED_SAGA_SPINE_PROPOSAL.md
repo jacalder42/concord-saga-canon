@@ -154,6 +154,12 @@ Episode context/condition block carrying fields such as:
 Beat address beneath an episode, e.g.:
 `S1.T1.B1.A1.E01-B01`
 
+> **The SID and BID examples above are recovered pre-ruling forms, left as found.**
+> Both are superseded: books are two digits (`S1.T1.B01.A1.E01`) and beat IDs use
+> `BT` (`S1.T1.B01.A1.E01-BT01`) — `CLAUDE.md` §3, `recovery/CANON_DECISIONS_2026-09-18.md`
+> §2 and §2.3. They are evidence of what the recovered material used, not a format to
+> copy. Annotated 2026-09-25, ledger §77.
+
 This interpretation is supported by the later Episode Expansion Engine and Book 1 expanded beats. Any older conflicting expansion of the acronyms should be treated as version history until deliberate reconciliation.
 
 ---

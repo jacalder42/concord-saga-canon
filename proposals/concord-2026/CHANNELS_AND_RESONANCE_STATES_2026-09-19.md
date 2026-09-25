@@ -40,7 +40,7 @@ already expressed, in two different places:
 | Concept | Where it lives now | Example |
 | --- | --- | --- |
 | Which channel a text uses | `grids/supplement_deployment.csv` → `channel_MT_VT_LT`; `grids/milestones_payoffs.csv` → `channel` | a Chronicle piece runs on `MT` |
-| Whether the field made channel contact | ECID `RES` | `S1.T1.B3.A3.E14` records `VT` |
+| Whether the field made channel contact | ECID `RES` | `S1.T1.B03.A3.E14` records `VT` |
 
 The ECID has no channel field and does not need one: at episode level, channel contact
 *is* the state. A supplement needs a channel field because a supplement is a text

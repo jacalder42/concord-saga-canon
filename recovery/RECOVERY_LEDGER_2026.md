@@ -6903,4 +6903,96 @@ END OF ENTRY 76
 
 ===============================================================
 
+===============================================================
+
+# 77. Own-voice retired names swept from proposals/ and reports/ — 2026-09-25
+
+Completes the one item §76 left open in `CLAUDE.md` §9 item 1. `CHK_RETIRED_TERMS` notices
+were used **as leads, not as a replacement list**: every occurrence was read in context and
+classified before anything changed.
+
+## 1. What changed
+
+| | Count |
+| --- | --- |
+| `Technarch` → `Technarc`, own voice | **32** across 13 files |
+| `S1.T1.B3.A3.E14` → `S1.T1.B03.A3.E14`, own-voice example | **1** |
+| `B7-nn` / `B8-nn` → `B07-nn` / `B08-nn`, row handles | **22** in one file |
+| Annotation instead of edit | **1** file |
+
+The handles are in `reports/B07_B08_PLACE_EVENT_PRESENCE_LEDGER_PASS1_2026-09-23.md`, which
+coined them itself while its own title reads `B07–B08`. **Nothing outside that file cites
+them**, checked before renaming, so no cross-reference breaks.
+
+## 2. What was deliberately preserved — 16 `Technarch` remain in scope
+
+**Quotations of a source, verbatim.** Three spans were protected by name during the sweep:
+the Dec 8 macro's *"Technarch response collapses; disinformation surges,"* the milestone
+row wording *"Technarch collapses in B8,"* and — a different case — `bystander and
+Technarch` in `MECHANICA_RESONANCE_SYSTEMS_INTEGRITY_AUDIT` §28, which **records the literal
+strings that were searched**. Correcting that one would falsify a method record, not a
+faction name.
+
+**Already-annotated quotations** in `proposals/concord-2026/`: the `LOCATIONS_COMBAT_ANTAGONISTS_PRIMER_REVIEW`
+and `EDITORIAL_CASTING_RESOLUTION_SINGAPORE` blocks that carry *"Retired spelling retained
+above, deliberately,"* and the `location_places_PROVISIONAL` CSV row, whose cell already
+reads `Technarc towers district` and quotes the source's `Technarch towers` beside it.
+
+**`reports/EDITORIAL_REVIEW_OF_RECENT_WORK_2026-09-24.md`, 7 occurrences.** The retired
+spelling **is that document's subject** — it is the record of the fifth re-entry this sweep
+corrects. Rewriting it would delete the finding.
+
+## 3. Annotated rather than rewritten
+
+`proposals/concord-2026/RECOVERED_SAGA_SPINE_PROPOSAL.md` gives `S1.T1.B1.A1.E01` and
+`S1.T1.B1.A1.E01-B01` as its SID and BID examples. Both are pre-ruling forms, and the
+document's own closing line treats acronym expansion as **version history**. Correcting the
+book digit alone would have produced `S1.T1.B01.A1.E01-B01` — a corrected SID wearing a
+retired beat suffix, which is worse than either form. It carries a note naming both current
+forms instead.
+
+## 4. Left alone, and why
+
+**`reports/VALIDATION_BASELINE_ALL_2026-09-19.md` — 37 of the 105 SID violations.** A
+**generated** artifact whose content *is* the list of malformed SIDs it detected. Hand-editing
+it would falsify a report; `reports/README.md` forbids it. It regenerates.
+
+**`reports/README.md` — 3 hits.** It quotes the malformed forms while explaining them,
+including the sentence noting the milestone CSVs' hits sit in a free-text `notes` column
+citing a recovered packet.
+
+**`recovery/` — 252 notices, untouched.** Out of this item's scope, and `recovery/` is never
+edited in place.
+
+**Other retired terms are out of scope and remain**: 38 `Foix`, 8 `Veil-Touch`, 8 `Koro Ito`,
+1 `Kade Rios`, 1 `Caro Gauthier` in `proposals/` and `reports/`. §9 item 1 names `Technarch`
+and one-digit `B1` only. **Recorded here as the next sweep's leads**, and the `Foix` figure
+is the largest single block left.
+
+**`S1.T3.B09.A4.E16`** appears in `reports/README.md` and the baseline as a **ruled-out**
+act form (ledger §25: Book 9 has three acts). Not one-digit, not in scope, already explained
+where it appears.
+
+## 5. Before and after
+
+| | Before | After |
+| --- | --- | --- |
+| All-scope notices | 365 | **333** |
+| — `proposals/` | 65 | **53** |
+| — `reports/` | 39 | **19** |
+| — `recovery/` (out of scope) | 252 | 252 |
+| All-scope `CHK_SID_FORMAT` violations | 105 in 18 files | **104 in 17 files** |
+| Canon scope | 0 | **0** |
+| Self-tests | 144 | **144** |
+| Source verifier | PASS | **PASS** |
+
+The 32-notice fall equals the 32 corrections exactly: 12 in `proposals/`, 20 in `reports/`.
+
+**No canon mechanics, episode order or EBCI status was touched.** The E19/EBCI ruling is
+deliberately **not** in this change.
+
+END OF ENTRY 77
+
+===============================================================
+
 END RECOVERY LEDGER

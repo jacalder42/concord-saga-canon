@@ -56,7 +56,7 @@ The **meta bystander→operative transfer rule is not a B01 blocker** because B0
 
 **Metadata/production housekeeping:** In the integrated bible the printed headings E37 precedes E36 and E44 precedes E43. Its rule says narrative order is locked. A downstream parser or editor must follow the approved reading sequence, **not silently sort by heading number**. Clarify whether the headings are labels to correct in place or the file order represents the intended interleave. This is a numbering/manifest issue, not evidence that the narrative must be rearranged.
 
-**Can remain open beyond B01:** meta capture/transfer, exact Technarch harness, wider Neon/Loom fracture ceiling, post-Mending echo-node sensory budget, and complete C-ladder redesign (if C codes are omitted). Do not use their absence as a reason to change the B01 spine.
+**Can remain open beyond B01:** meta capture/transfer, exact Technarc harness, wider Neon/Loom fracture ceiling, post-Mending echo-node sensory budget, and complete C-ladder redesign (if C codes are omitted). Do not use their absence as a reason to change the B01 spine.
 
 ## EBCI entry contract — proposed, not an episode packet
 

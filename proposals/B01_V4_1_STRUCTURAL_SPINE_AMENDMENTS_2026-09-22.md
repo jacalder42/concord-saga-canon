@@ -379,7 +379,7 @@ v4 numbering is retained here for provenance; permanent renumbering waits until 
 1. Baz arrives/world context — YES.
 2. neighborhood spike — YES.
 3. Filament/community city-breathing-wrong — YES.
-4. Dominion/Technarch pressure — YES.
+4. Dominion/Technarc pressure — YES.
 5. S/L fracture & repair — YES.
 6. pulses form cycle — YES.
 7. pattern accelerating — **RESTORED by A.**

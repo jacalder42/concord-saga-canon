@@ -29,7 +29,7 @@ The **route access** choice connects ordinary measurable consequences directly t
 
 ## What would falsify or shrink the forecast
 
-If the physical route changes track ordinary weather/congestion/maintenance and unaffected local controls show no anomalous material change, publish a safety alert without a Resonance conclusion. If a report's clock is only the upload time, do not call it synchronized with distant events. If selective reporting makes Santa Fe the apparent center, Elisabet must revise the map. If a Technarch classification improves predictive accuracy, characters can contest its ethics while acknowledging its useful observations; if it fails, they must correct the public claim. If no independent Santa Fe physical trace can be supplied, **Claim B remains a character hypothesis**, even if the author-pasted B5 macro later stages destabilization.
+If the physical route changes track ordinary weather/congestion/maintenance and unaffected local controls show no anomalous material change, publish a safety alert without a Resonance conclusion. If a report's clock is only the upload time, do not call it synchronized with distant events. If selective reporting makes Santa Fe the apparent center, Elisabet must revise the map. If a Technarc classification improves predictive accuracy, characters can contest its ethics while acknowledging its useful observations; if it fails, they must correct the public claim. If no independent Santa Fe physical trace can be supplied, **Claim B remains a character hypothesis**, even if the author-pasted B5 macro later stages destabilization.
 
 ## Character/POV and pressure check
 

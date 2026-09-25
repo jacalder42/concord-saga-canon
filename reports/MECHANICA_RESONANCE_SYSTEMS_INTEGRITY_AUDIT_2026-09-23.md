@@ -6,7 +6,7 @@
 
 ## Executive finding
 
-The earlier **manufactured-meta battery/reactor** concept is **RECOVERED**. A complete **bystander/crowd → meta → operative boost** loop is **PARTIALLY RECOVERED as author intent but still unverified as an operational rule**. Storage, zero usable Intent, pressure accumulation, leakage, Technarch weaponization and catastrophic failure recur in independent November 2025 material. No examined source specifies a working collection law, transfer interface, recipient limits, or accounting of source and recipient costs. In fact, a November 26 tech bible calls the *Meta Harness* armor that **traps rather than controls** meta energy and says tech cannot amplify Resonance. This is evidence of a genuine unresolved design conflict, not proof that transfer is impossible or that it works.
+The earlier **manufactured-meta battery/reactor** concept is **RECOVERED**. A complete **bystander/crowd → meta → operative boost** loop is **PARTIALLY RECOVERED as author intent but still unverified as an operational rule**. Storage, zero usable Intent, pressure accumulation, leakage, Technarc weaponization and catastrophic failure recur in independent November 2025 material. No examined source specifies a working collection law, transfer interface, recipient limits, or accounting of source and recipient costs. In fact, a November 26 tech bible calls the *Meta Harness* armor that **traps rather than controls** meta energy and says tech cannot amplify Resonance. This is evidence of a genuine unresolved design conflict, not proof that transfer is impossible or that it works.
 
 The strongest recoverable general model is bounded human action under Will/energy, emotion, Intent, skill, pressure and environmental conditions, with visible cost. The formulation “emotion supplies pressure; Intent direction; Will capacity; environment coupling” is a **PROPOSAL** consistent with several sources, not a verbatim settled equation. Mechanica's memory-inflated synthesis must not override later explicit author rulings.
 
@@ -27,9 +27,9 @@ The strongest recoverable general model is bounded human action under Will/energ
 
 **Search coverage and limit:** Searched GitHub beyond the minimum source list for battery, reservoir, siphon, transfer, bystander and Technarch, inspected the two previous forensic passes, queried/fetched historical Notion mechanics and tech pages, and checked the prior conversation-context record (November 15 and 24, December 1 and 5). The indexed sanitized export searches recorded in pass 3 covered Narrative Structure, Phase 1A and B1 Act I. This is not an exhaustive review of every unindexed pre-November chat or attachment. Personal-context snippets are leads to corroborate, not a verbatim primary transcript.
 
-## Technarch / manufactured-meta finding
+## Technarc / manufactured-meta finding
 
-**RECOVERED:** Technarch hardliners alter human subjects into resonance-saturated biological reactors/batteries; they cannot intentionally direct or safely expend stored load, react to surrounding emotional fields, leak, disrupt technology and can catastrophically fail. A November 24 description explicitly says the human subjects can be voluntary or coerced. The later [faction file](../canon/factions/Manufactured_Metas.md) instead permits biological, cybernetic or hybrid *artificial constructs*, and says they simulate resonance “without emotion or Intent.” That ontology and the extent of remaining feeling/agency require reconciliation. The prohibition on granting them usable Intent or ascension is CURRENT in [canon rules](../rules/canon_rules.json) and in the author's December rulings.
+**RECOVERED:** Technarc hardliners alter human subjects into resonance-saturated biological reactors/batteries; they cannot intentionally direct or safely expend stored load, react to surrounding emotional fields, leak, disrupt technology and can catastrophically fail. A November 24 description explicitly says the human subjects can be voluntary or coerced. The later [faction file](../canon/factions/Manufactured_Metas.md) instead permits biological, cybernetic or hybrid *artificial constructs*, and says they simulate resonance “without emotion or Intent.” That ontology and the extent of remaining feeling/agency require reconciliation. The prohibition on granting them usable Intent or ascension is CURRENT in [canon rules](../rules/canon_rules.json) and in the author's December rulings.
 
 **AUTHOR-RECALLED / PROPOSAL, NOT RECOVERED INTERFACE:** Metas collect ambient/bystander load and factions draw on them to boost personnel. Earlier conversation-context summaries use “reservoir,” “power amplifier” and “faction reliance,” but neither these summaries nor the retrieved Notion pages define a functioning handoff. A phrase such as “designed for weaponization” can mean containment, denial, overload or transfer. It cannot settle the latter.
 
@@ -84,7 +84,7 @@ Distinguish **objective change** (e.g., a measurable light flicker, acoustic pha
 
 ## Decisions for author + Claude/editor review
 
-1. Is controlled extraction from a manufactured meta an intended active capability, a failed Technarch goal, or an abandoned concept? The recollected strategic loop is insufficient to settle operational physics.
+1. Is controlled extraction from a manufactured meta an intended active capability, a failed Technarc goal, or an abandoned concept? The recollected strategic loop is insufficient to settle operational physics.
 2. Are every meta's origins altered human subjects, or do later artificial/hybrid cases exist? What residual awareness and consent history survive?
 3. Which parts of the November tech-amplification disagreement are permitted: sensor gain, environmental instability, capture/storage, direct recipient boosting?
 4. What does the legacy U1–U7 scale measure, if anything, after the 09-19 corridor ruling? Should those identifiers be quarantined pending provenance?
