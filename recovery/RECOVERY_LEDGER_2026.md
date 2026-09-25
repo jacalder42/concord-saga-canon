@@ -7239,4 +7239,82 @@ END OF ENTRY 80
 
 ===============================================================
 
+===============================================================
+
+# 81. B01 event census Pass 2 — tier mapping and the measurements Pass 1 asked for — 2026-09-25
+
+`CLAUDE.md` §9 item 3. Proposal at
+`proposals/B01_EVENT_CENSUS_PASS2_TIER_MAPPING_AND_MEASUREMENTS_2026-09-25.md`. **No event
+created, promoted, merged or counted as settled; no episode function, supplement or the
+locked order touched; no EBCI.**
+
+## 1. Two letter schemes were colliding
+
+§9 item 3 says *"C events separated from D receipts"* — the **tier** grammar, where **C** is
+a local event and **D** a receipt. Census Pass 1's ledger uses its own **C/Q/L**, where
+**C** is a *candidate-bearing slot*, not an event, and **L** silently contains what the tier
+grammar calls **D**.
+
+**So `C` meant two different things across two live documents.** This repository has been
+bitten by exactly this before — the retired `D=Notion / E=assistant / F=memory` lettering
+against the A–E source tiers (§5). **Proposed: never write a bare letter** — `slot-C/Q/L`
+for census rows, `tier-C/D` for events.
+
+The restatement matters: the task is to find which changes inside the 48 slots are
+**tier-C local events** and which are **tier-D receipts attached to them**, not to count
+slots. **"22 events" is not a reading of this census**, and a bare number travels further
+than its caveat.
+
+## 2. Three of the five requested measurements are computable; two must not be
+
+Pass 1's gate 3 asked for five. Computed by reparsing its 48-row ledger (22 slot-C, 6
+slot-Q, 20 slot-L, verified):
+
+- **(d) Longest run without a changed option: 4** — E41–E44 — and **never more than 2
+  consecutive slots with neither slot-C nor slot-Q.** There is no dead stretch in the book.
+- **(e) Consequence screen time: 83%** of the 28 candidate-bearing slots have receipt space
+  within two episodes. The five without are E07, E15, E23, E47, E48 — and **E47/E48 are an
+  artifact of the book ending**, not a finding. The real observation is three interior runs
+  of three consecutive candidate slots: **E07–E09, E15–E17, E23–E25**. Observations for the
+  rhythm pass, **not defects**: E15–E17 is the civic disturbance into the comparative reports
+  into the call to Baz, deliberately dense.
+- **(c) Kind mix: partial.** Only the four carded windows carry kind tags. Tagging the other
+  44 is cheap and needs no causal decision — it classifies *what* changes, not *why* — so it
+  is the one unblocked input.
+
+**Not computable, and deliberately left so:** **(a) distinct causal changes** requires the
+boundary adjudication now in progress, and arithmetic on slots is what the cards document
+explicitly warns against; **(b) events with physical Resonance** is gated by **author ruling
+D5**, so counting them would presume rulings not yet made.
+
+## 3. The measurements survive the held order question
+
+Pass 1 cautions *"plot a timeline only after the two unresolved order exceptions are
+decided."* Recomputed under **both** numeric order and the file order ruling D7 describes
+(E37 before E36, E44 before E43), all three measurements are **identical**.
+
+**So the rhythm pass (item 4) can use them today.** What still needs D7 is any measure of
+**prose position or density along the body**, which is what the caution is actually about.
+
+## 4. The four windows are not advanced, and that is correct
+
+Cards Pass 1 left one E40 candidate, two E45 candidates, and six shells needing decisions.
+Every one turns on a source reading not yet done or a ruling explicitly held. **Advancing
+them by editorial judgement would be inventing the answer** — the failure §4 exists to
+prevent.
+
+**One resolvable test is available now and needs neither source nor ruling:** `B1-45B`
+against **E48**. Both are commitments to continued inquiry, and the census already flags E48
+as *"separate continued inquiry only if an independently new commitment follows."* A
+side-by-side read of the two v4.1b beats settles whether that is one commitment or two.
+
+## 5. Verification
+
+Canon scope **0**; self-tests **144**; source verifier **PASS** at 138. Measurements are
+reproducible by reparsing census Pass 1 and recomputing under both orders.
+
+END OF ENTRY 81
+
+===============================================================
+
 END RECOVERY LEDGER
