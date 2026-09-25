@@ -1,0 +1,23 @@
+name: validate
+
+# Runs the three repository checks on every push and pull request.
+# Standard library only: no dependencies to install. Added 2026-09-25, ledger 76.
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validator self-tests
+        run: python3 tools/test_validate_canon.py
+      - name: Canon substrate validation (must be 0 violations)
+        run: python3 tools/validate_canon.py --quiet
+      - name: Source manifest verification
+        run: python3 tools/verify_sources.py
