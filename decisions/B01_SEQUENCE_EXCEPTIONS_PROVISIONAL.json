@@ -1,0 +1,30 @@
+{
+  "_what": "Provisional exception manifest required by decisions/B01_EVENT_OBSERVATION_AUTHOR_RULING_2026-09-23.md, 'Precise next work' item 4 and D7. Machine-readable record of two ranges in the integrated B01 beat bible where file order and numeric order disagree. It records the hold; it chooses NEITHER order.",
+  "_status": "HELD - no order is authorised. Created 2026-09-25, ledger 76. Superseded by the author/editor architecture decision that resolves both ranges and S05 placement together.",
+  "_rule_for_tooling": "Any read-only analysis that needs B01 episode sequence must not sort by numeric heading and must not trust file order inside these ranges. Read this manifest first; where status is HELD, report both orders or treat the range as unordered.",
+  "source": "proposals/B01_REVISED_BEAT_BIBLE_V4_1B_INTEGRATED_2026-09-22.md",
+  "ruling": "decisions/B01_EVENT_OBSERVATION_AUTHOR_RULING_2026-09-23.md",
+  "exceptions": [
+    {
+      "id": "B01-SEQ-1",
+      "episodes": ["E36", "E37"],
+      "also_affects": ["S05"],
+      "file_order": ["S05 (Placement: after Episode 36)", "E37 BAZ AND LUCIEN, OFF THE CLOCK", "E36 THE CITY REACTS — ACT II CLOSE"],
+      "summary_table_order": ["E36 THE CITY REACTS — ACT II CLOSE", "E37 BAZ AND LUCIEN, OFF THE CLOCK"],
+      "source_lines": {"S05_placement": 981, "E37_heading": 998, "E36_heading": 1017},
+      "why_not_a_label_swap": "Swapping heading numbers while keeping body order puts the declared Act II close after the off-clock episode and puts S05 before the newly labelled E36; moving blocks to numeric order changes reading order.",
+      "status": "HELD"
+    },
+    {
+      "id": "B01-SEQ-2",
+      "episodes": ["E43", "E44"],
+      "also_affects": [],
+      "file_order": ["E44 SOMETHING STRANGE THAT DOESN'T HURT", "E43 WHEN GROUNDING FAILS"],
+      "summary_table_order": ["E43 WHEN GROUNDING FAILS", "E44 SOMETHING STRANGE THAT DOESN'T HURT"],
+      "source_lines": {"E44_heading": 1133, "E43_heading": 1157},
+      "why_not_a_label_swap": "Either order changes the emotional interpretation of wonder relative to failed stabilisation.",
+      "status": "HELD"
+    }
+  ],
+  "_source_lines_note": "Line numbers are as of commit ed8273f4 and go stale if the source is edited; the headings are the durable anchor."
+}
