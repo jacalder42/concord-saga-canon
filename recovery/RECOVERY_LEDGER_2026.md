@@ -6831,4 +6831,76 @@ END OF ENTRY 75
 
 ===============================================================
 
+# 76. Governance consolidation pass — 2026-09-25
+
+The first of the consolidation steps the author adopted on 2026-09-25, after a
+repository-wide review and a parallel external one agreed: **consolidate and selectively
+promote before any further archaeology or episode generation.** This entry acts on §75,
+whose three governance defects and two offered tooling items had gone unaddressed through
+twelve further commits. **Nothing ruled, nothing migrated, no canon content changed.**
+
+## 1. `CHK_RETIRED_TERMS` — the manual grep becomes a check
+
+`rules/canon_rules.json` gains a `retired_terms` block (six names, each with canonical form
+and ruling; additions only). The validator reports a match as a **violation in canon
+scope** and a **notice in all-scope**. Case-insensitive, whole-word; exceptions pinned to
+file, term and line substring. **`Mortal Technology` is deliberately not listed** — held,
+not retired (§20).
+
+`reports/` and `decisions/` joined all-scope. They had been scanned in **neither** scope,
+which is how `Technarch` in `reports/` went 23 → 30 after §75 counted it.
+
+## 2. The first run found three misses from the §20 VeilThread pass
+
+That pass grepped case-sensitively for `Veil-Touch`. Three headings set in capitals kept
+the retired name, and §20 and CLAUDE.md have reported the rules layer clean since:
+
+| File | Was | Now |
+| --- | --- | --- |
+| `rules/Mechanica-v4.md` §38 | `VT — VEIL-TOUCH` | `VT — VEILTHREAD` |
+| `rules/Channels/VT_RULES.md` line 1 | `# VT — VEIL-TOUCH RULES` | `# VT — VEILTHREAD RULES` |
+| `rules/Channels/CHANNELS_OVERVIEW.md` §4 | `VT — VEIL-TOUCH (WHAT IT IS)` | `VT — VEILTHREAD (WHAT IT IS)` |
+
+Name changes under the existing ruling; no mechanic touched. Mechanica §37 `MT — MORTAL
+TECHNOLOGY` is left as is.
+
+## 3. Documents
+
+- **`CLAUDE.md` rewritten**, 883 → 262 lines, rules only. Old version archived verbatim at
+  `recovery/CLAUDE_MD_ARCHIVE_2026-09-21.md`; pre-2026-09-25 citations of "CLAUDE.md §N"
+  refer to it.
+- **`decisions/README.md`** — authority rule (a ruling overrides proposal/recovery/report
+  interpretations within its stated scope, only there), the scope-of-acceptance convention
+  made permanent, and an index including the six earlier rulings that stay in `recovery/`.
+- **`reports/README.md`** — two kinds: generated `VALIDATION_BASELINE_*`, authored everything
+  else. Nothing moved; links preserved.
+- **`decisions/B01_SEQUENCE_EXCEPTIONS_PROVISIONAL.json`** — the manifest the 09-23 ruling
+  item 4 requires. Both inversions, both orders, marked `HELD`. Chooses no order.
+- **`README.md`** replaced; it still described a starter template.
+- **`.github/workflows/validate.yml`** — the three checks on every push.
+
+## 4. Recorded, not resolved
+
+1. **E19 gate.** The prohibition (archive §4) was written against the 18-episode Act I
+   numbering. B01 v4.1b has 48 episodes and review packets now reach E45. No ruling records
+   whether the EBCI hold replaced the gate. **Author question.**
+2. **`canon_rules.json` `_naming_note` says `Mortal Technology` is retired**; §20 and the
+   channel ruling hold it open. Contradiction recorded in CLAUDE.md §4.1; the note is not
+   edited.
+3. **Branches.** `claude/gifted-goodall-st4n7r` (1 unique commit, an older
+   `narrative-audit-framework-v1.md`) and `proposal/concord-2026-reconciliation` declared
+   archival in CLAUDE.md §8. Neither deleted.
+4. **Remaining sweep**, queued as CLAUDE.md §9 item 1: own-voice `Technarch` and one-digit
+   `B1` labels in `proposals/` and `reports/`. Quotations stay. Now counted by the
+   validator rather than remembered.
+
+## 5. Verification
+
+Canon scope **0**; self-tests **132 → 144**; verifier **PASS** at 138. All-scope notices
+**351**, all `CHK_RETIRED_TERMS`, all outside the substrate.
+
+END OF ENTRY 76
+
+===============================================================
+
 END RECOVERY LEDGER
