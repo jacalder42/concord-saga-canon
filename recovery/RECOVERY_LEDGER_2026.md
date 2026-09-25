@@ -7412,4 +7412,89 @@ END OF ENTRY 82
 
 ===============================================================
 
+===============================================================
+
+# 83. B01 whole-book rhythm pass — the book needs nothing added — 2026-09-25
+
+`CLAUDE.md` §9 item 4. Report at `reports/B01_WHOLE_BOOK_RHYTHM_PASS_2026-09-25.md`.
+**No beat, episode function, supplement, order or classification changed; no event promoted
+or counted; no cause assigned; no EBCI.**
+
+**A reconciliation, not a fresh ECG.** Three rhythm reports already existed, all dated
+2026-09-21, analysing **v4** — they predate v4.1b, ruling D1–D7 and the census. Re-running
+them would duplicate good work.
+
+## 1. The two numbering spaces, and the map
+
+**The 09-21 reports are written in v3 episode numbers; the census, the cards and v4.1b are
+not.** The deep matrix's middle-density warning about *"E16–E22"* is **v4.1b E20, E22, E23,
+E24, E25, E27, E29**; its austere sequence *"E33→E36"* is **v4.1b E45→E48**.
+
+**Applying an ECG finding to the same-numbered v4.1b slot gets the wrong episode every time
+after E02**, and no document said so while both live in the same directory.
+
+The map is recoverable from v4.1b's own headers (`## 45. THE REBOUND / v3 E33 | source E38`).
+Extracted and **machine-verified: 36 pairs, zero mismatches**, with the 12 unmapped slots
+exactly the Life/Reward layer. **Cite the v3 number when quoting a 09-21 report** — the
+cheapest defect prevention available.
+
+## 2. v4.1b implemented the ECG's headline recommendation, guardrail and all
+
+Deep matrix Pass 2 called **positive anticipation** the book's *"missing category"* and
+proposed seeding a Velvet Vein event, paying it later, under a *"critical guardrail: do not
+automatically attack or destroy the event."*
+
+v4.1b has the whole chain: **E06** seeds the room, **E28 (LR08)** *"create positive
+anticipation"*, **E31 (LR09)** *"actually pay the promised pleasant night"* — and E31 carries
+**"HARD GUARDRAIL — Do not attack the event."** The guardrail survived into the architecture
+nearly verbatim.
+
+Also closed: the three-layer ECG's **47 → 48** count correction propagated. And the
+middle-density run it feared **no longer exists as a run** — LR06, LR07 and LR08 interleave
+among those seven episodes.
+
+## 3. What the census data adds
+
+- **All 12 Life/Reward episodes are census slot-L.** Not one is candidate-bearing; the census
+  reached that independently of the layer's design.
+- **Eight *causal-spine* episodes are also slot-L** — E06, E10, E19, E22, E32, E38, E41,
+  E46 — three marked PROTECTED or ABSOLUTELY PROTECTED. **So 20 of 48 episodes carry
+  lived/negative-space work and only 12 are the LR layer.** Any compression treating "the LR
+  episodes" as the book's slack would cut the wrong twelve.
+- **Every dense run is immediately relieved.** The three runs of three consecutive candidate
+  slots — E07–E09, E15–E17, E23–E25 — are each followed straight away by lived space (E10,
+  LR05, LR07). **The book never sustains a fourth.** With the longest slot-L run at 2, the
+  alternation is tight in both directions: no dense stretch, no dead stretch.
+- **The austere sequence is design, not drift.** Pass 2's longest no-candidate run, E41–E44,
+  is *after the breaking* → exhaustion humour → grounding fails → *something strange that
+  doesn't hurt*, landing on the Rebound — exactly what the three-layer ECG described in v3
+  numbering, verifiable in the current architecture.
+
+## 4. Finding
+
+**The book's rhythm needs no addition.** Every ECG-identified gap v4.1b could close is
+closed; reward, wonder, anticipation, humour and recovery all have dedicated slots with
+guardrails. The one place worth a *reading* pass is the **evidential cluster** at E16, E20,
+E25, E27, E35, E39, E47 — where escalation is most likely to flatten into restatement, and
+where Pass 1's split/merge tests already point.
+
+## 5. Deliberately not measured
+
+**Romance, character load and location recurrence** need a per-episode presence-and-place
+table that does not exist — the same gap §80 found in the cast registry, where 26 of 57 rows
+have an empty `range`. Deep matrix Pass 2 reports these for v4 and those findings stand; this
+pass does not restate them as if re-verified. **Threat** is not measured because it depends on
+causal questions **D5** holds. **No prose-position measure** is attempted, because that needs
+the order decision **D7** holds; everything above is order-invariant.
+
+## 6. Verification
+
+Canon scope **0**; self-tests **144**; source verifier **PASS** at 138. The v3 map is
+machine-verified against the bible; the rest is reproducible from census Pass 1 and Pass 3's
+tag table.
+
+END OF ENTRY 83
+
+===============================================================
+
 END RECOVERY LEDGER
