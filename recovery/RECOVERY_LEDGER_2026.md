@@ -7097,4 +7097,63 @@ END OF ENTRY 78
 
 ===============================================================
 
+===============================================================
+
+# 79. The E19 rule is superseded by the EBCI hold — 2026-09-25
+
+Ruled 2026-09-25, in the author's words: *"e19 rule is superceded by ebci"*. Recorded at
+`decisions/B01_E19_EBCI_GATE_AUTHOR_RULING_2026-09-25.md`.
+
+## 1. What it settles
+
+The question `CLAUDE.md` §4.1 carried as *"not recorded anywhere"*. The archive's §4 rule —
+*"E19 is named but never built. Do not generate, draft, or outline it. The prohibition
+stands until James lifts it"* — was written against an **18-episode Act I**. B01 v4.1b is a
+prologue plus **48 episodes**, so `E19` had stopped denoting the first unbuilt episode of
+anything, and it was unclear whether the old rule still bound alongside the EBCI hold.
+
+It does not. **One gate replaces two.**
+
+## 2. Supersession is not release, and that is the whole point
+
+**The set of episodes that may be generated today is unchanged: none.** Before the ruling a
+session faced two prohibitions on building B01 episodes; it now faces one, **and that one is
+still shut** — `B01_EVENT_OBSERVATION_AUTHOR_RULING_2026-09-23.md` §5, *"Continue to hold
+event EBCI … do not begin the deferred expansion by implication,"* and `CLAUDE.md` §9 item 5,
+**"Release B01 to EBCI — author gate."**
+
+**"E19 is unblocked" is the misreading the ruling document exists to prevent.** `E19` has no
+privileged status now. It is one of 48 episodes behind a single hold, rather than the first
+episode behind two.
+
+This is why the ruling was written as a *narrowing*, not a *lifting*: a four-word author
+reply retiring a prohibition is exactly the shape that, recorded carelessly, becomes
+accidental permission. The `decisions/` convention — accepted in column 1, **not** accepted
+in column 2 — is what stops it, and column 2 here is long.
+
+## 3. Scope
+
+**B01 only.** The hold it defers to is B01-scoped. B02–B09 remain governed by §9 item 6,
+*"No B02–B09 episode expansion yet,"* untouched. Also untouched: the two sequence inversions
+in `B01_SEQUENCE_EXCEPTIONS_PROVISIONAL.json`, D1–D7 of the 09-23 ruling, and every other
+open question in §4.1.
+
+## 4. Migration
+
+`CLAUDE.md` §4.1 loses the E19 row — the question is answered. §8 records the single-gate
+state and says in its own text that supersession is not release. `decisions/README.md`
+indexes the ruling. **The archive keeps its original prohibition verbatim**: `recovery/` is
+never altered in place, and the superseded rule is the record of what was superseded.
+
+## 5. Verification
+
+Canon scope **0**; self-tests **144**; source verifier **PASS** at 138. All-scope figures
+rise again from this entry quoting the retired rule, as §78 §4 describes.
+
+**No episode content was generated, drafted or outlined.**
+
+END OF ENTRY 79
+
+===============================================================
+
 END RECOVERY LEDGER

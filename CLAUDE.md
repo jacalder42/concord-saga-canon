@@ -119,7 +119,6 @@ Each line points at where the evidence is. Ledger § numbers are in
 
 | Question | Where |
 | --- | --- |
-| **E19 gate.** The old rule forbade building E19+ under the 18-episode Act I numbering. B01 v4.1b is 48 episodes and work now runs to E45 as review packets. Is the gate replaced by the EBCI hold? Not recorded anywhere | archive §4; this file §8 |
 | **B01 EBCI release** — held by the 09-23 ruling | `decisions/B01_EVENT_OBSERVATION_AUTHOR_RULING_2026-09-23.md` |
 | **B01 sequence inversions** E36/E37 + S05 and E43/E44 — one architecture decision | `decisions/B01_SEQUENCE_EXCEPTIONS_PROVISIONAL.json` |
 | **Which Veil draft is canon**, now including the one-episode Act I boundary disagreement (E15 vs E16) between two witnesses; Caro in B01–B02; Santa Fe | ledger §26.9, §27.6, §74 §4 |
@@ -206,10 +205,16 @@ do not promote or downgrade `seraphine_full.md`.
 > Verify with `git log` and the tools before trusting this; it dates quickly.
 
 - **Validation:** canon scope **0** violations; **144** self-tests; source verifier PASS at
-  138 files. All-scope carries ~350 `CHK_RETIRED_TERMS` notices, mostly quotation in
-  `recovery/`, some drift in `proposals/` and `reports/`.
+  138 files. All-scope carries **357** `CHK_RETIRED_TERMS` notices and 112 `CHK_SID_FORMAT`
+  violations. **Neither is a defect backlog**: after the 2026-09-25 sweeps (ledger §77, §78)
+  the survivors are provenance, quotation and annotated supersession — documents naming a
+  retired form in order to retire it. Both counts rise whenever a pass discusses them.
+  Canon scope is the number that matters.
 - **B01:** integrated architecture `proposals/B01_REVISED_BEAT_BIBLE_V4_1B_INTEGRATED_2026-09-22.md`
-  — prologue, 48 narrative episodes, 6 supplements, narrative order locked. **EBCI held.**
+  — prologue, 48 narrative episodes, 6 supplements, narrative order locked. **EBCI held —
+  and it is now the only gate**: the standalone E19+ prohibition is superseded, ruled
+  2026-09-25 (`decisions/B01_E19_EBCI_GATE_AUTHOR_RULING_2026-09-25.md`). **Supersession is
+  not release**; no episode may be generated.
   Event census and E23/E38/E40/E45 cards in progress (`proposals/B01_*_2026-09-24/25.md`).
 - **Recovered episode material:** B01–B03, E00–E42 per book (`recovery/ACCOUNT_EXPORT_B0*_ACT*_EPISODE_FORENSIC_AUDIT_2026-09-20.md`).
 - **Substrate:** 2 of 7 grids populated (`milestones_payoffs` 36 rows, all `proposed`;
