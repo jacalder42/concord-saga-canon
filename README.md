@@ -1,22 +1,50 @@
-# Concord Saga Canon (Starter Template)
+# Concord Saga Canon
 
-This repository is intended to store **non-prose** canon substrate for the Concord Saga:
-- **/rules**: JSON rules, invariants, validation checks, trilogy envelopes
-- **/canon**: Markdown canon explanations (tier-1 cards, codex, trilogy summaries)
-- **/grids**: CSV grids (structure + telemetry)
-- **/book_context**: per-book JSON context (skeletons initially)
-- **/act_overlays**: per-act JSON overlays (skeletons initially)
-- **/templates**: reusable templates for audits and bundles (generated artifacts should NOT be edited directly)
+Canon substrate and source record for the **Concord Saga**, a nine-book serial in three
+trilogies — **Veil** (B01–B03), **Neon** (B04–B06), **Loom** (B07–B09).
 
-## Workflow
-1. Update source files in /rules, /canon, /grids.
-2. Generate compiled artifacts (Act Prose Bundles, Milestone Packets) into /templates or a separate /compiled folder.
-3. **Do not** store prose, scene text, or dialogue here.
+This repository holds the saga's rules, canon cards, structural grids and per-book and
+per-act contexts, together with the original development conversations they were
+recovered from and the analysis that connects the two. It holds **no narrative prose
+outside `sources/` and `manuscript/`**.
 
-## Naming Conventions
-- Book IDs: `B01`..`B09`
-- Trilogy IDs: `T1` Veil, `T2` Neon, `T3` Loom
-- Acts: `A1`..`A3`
-- SIDs: `S1.T{trilogy}.B{book}.A{act}.E{episode}` (episodes live in grids, not filenames)
+## Layout
 
-> NOTE: This is a starter scaffold. Replace TODO blocks deliberately; avoid freehand drift.
+| Folder | Holds |
+| --- | --- |
+| `canon/` | Character, faction and POV cards; codex; trilogy summaries |
+| `rules/` | `canon_rules.json`, saga and trilogy contexts, Mechanica, Resonance, system docs |
+| `grids/` | CSV structure and telemetry grids |
+| `book_context/`, `act_overlays/` | Per-book and per-act JSON contexts |
+| `decisions/` | Author rulings, each stating exactly what it accepted |
+| `proposals/` | Working architectures and reconciliations (non-canonical) |
+| `reports/` | Editorial audits and reviews; generated validation baselines |
+| `recovery/` | Forensic audits, ledgers and archived originals |
+| `sources/` | The original development export, verbatim |
+| `manuscript/` | Authored prose (empty until production) |
+| `tools/` | Validator, self-tests, source verifier |
+
+**Canon is what `canon/`, `rules/` and the grids say.** Everything else is evidence,
+analysis or proposal until a ruling in `decisions/` adopts it and it is migrated.
+
+## Identifiers
+
+`S1.T{1-3}.B{01-09}.{A1|A2|A3|PR|EP}.E{00-99}` — two-digit books, episodes numbered
+continuously across a book, prologue `E00`. Beats are `{SID}-BT{nn}`.
+
+## Checks
+
+```sh
+python3 tools/validate_canon.py          # canon substrate; exits non-zero on any violation
+python3 tools/test_validate_canon.py     # validator self-tests
+python3 tools/verify_sources.py          # sources/ against its manifest
+```
+
+All three run in CI on every push.
+
+## Working in this repository
+
+Read [`CLAUDE.md`](CLAUDE.md) first — the working agreement for anyone (human or
+assistant) editing here. The running history is `recovery/RECOVERY_LEDGER_2026.md`.
+
+Copyright © 2025–2026. All rights reserved. See `LICENSE.txt`.
