@@ -1034,5 +1034,85 @@ class ProseDirectoriesStayOutOfScope(unittest.TestCase):
             os.unlink(probe)
 
 
+
+class TestRetiredTerms(unittest.TestCase):
+    """CHK_RETIRED_TERMS — added 2026-09-25, ledger 76.
+
+    The defect class it guards recurred five times under a manual grep, and the
+    first live run found three capitalised headings the 2026-09-19 VeilThread
+    sweep had missed because that grep was case-sensitive.
+    """
+
+    TERMS, ALLOW = vc.compile_retired_terms(RULES)
+
+    def run_check(self, text, relpath="canon/fixture.md", canon=True, allow=None):
+        out, notes = [], []
+        path = os.path.join(vc.REPO, relpath)
+        vc.check_retired_terms(path, text, self.TERMS,
+                               self.ALLOW if allow is None else allow,
+                               canon, out, notes)
+        return out, notes
+
+    def test_terms_come_from_the_rules_file(self):
+        retired = {t["retired"] for t, _ in self.TERMS}
+        self.assertIn("Technarch", retired)
+        self.assertIn("Veil-Touch", retired)
+
+    def test_held_mt_name_is_not_retired(self):
+        retired = {t["retired"] for t, _ in self.TERMS}
+        self.assertNotIn("Mortal Technology", retired)
+        out, _ = self.run_check("MT — Mortal Technology")
+        self.assertEqual(out, [])
+
+    def test_canon_scope_occurrence_is_a_violation(self):
+        out, notes = self.run_check("The Technarch towers loom.")
+        self.assertEqual(len(out), 1)
+        self.assertEqual(notes, [])
+
+    def test_all_scope_occurrence_is_a_notice(self):
+        out, notes = self.run_check("Source says Technarch.",
+                                    relpath="reports/x.md", canon=False)
+        self.assertEqual(out, [])
+        self.assertEqual(len(notes), 1)
+
+    def test_capitalised_heading_is_caught(self):
+        out, _ = self.run_check("## 38. VT — VEIL-TOUCH")
+        self.assertEqual(len(out), 1)
+
+    def test_canonical_spelling_passes(self):
+        out, _ = self.run_check("Technarc, VeilThread, Kade Harper, Bastien Arnaud.")
+        self.assertEqual(out, [])
+
+    def test_whole_word_only(self):
+        out, _ = self.run_check("Technarchitecture is not a faction.")
+        self.assertEqual(out, [])
+
+    def test_allowlist_is_pinned_to_its_line(self):
+        allow = [{"path": "canon/fixture.md", "term": "Technarch",
+                  "line_contains": "Source reads"}]
+        out, _ = self.run_check("Source reads Technarch\nTechnarch again",
+                                allow=allow)
+        self.assertEqual([v.line for v in out], [2])
+
+    def test_rules_file_is_exempt(self):
+        out, _ = self.run_check("Technarch", relpath="rules/canon_rules.json")
+        self.assertEqual(out, [])
+
+    def test_scope_classifier(self):
+        self.assertTrue(vc.is_canon_scope(os.path.join(vc.REPO, "rules", "x.md")))
+        self.assertFalse(vc.is_canon_scope(os.path.join(vc.REPO, "reports", "x.md")))
+
+    def test_reports_and_decisions_are_in_all_scope(self):
+        self.assertIn("reports", vc.META_DIRS)
+        self.assertIn("decisions", vc.META_DIRS)
+
+    def test_live_canon_scope_is_clean(self):
+        hits = []
+        for path in vc.iter_files(False):
+            with open(path, encoding="utf-8", errors="replace") as fh:
+                vc.check_retired_terms(path, fh.read(), self.TERMS, self.ALLOW,
+                                       vc.is_canon_scope(path), hits, [])
+        self.assertEqual([str(h) for h in hits], [])
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

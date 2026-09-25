@@ -38,6 +38,11 @@ CHK_GRID_THREAD  Every milestone row names a thread from `controlled_vocab.threa
                  `UNSCORED` is a member, so an unsettled row states that it is
                  unsettled; an EMPTY cell is a violation, because it cannot be told
                  apart from an oversight.
+CHK_RETIRED_TERMS  Names retired by ruling (`retired_terms` in canon_rules.json) are
+                 a violation in canon scope and a notice in all-scope, where quoting
+                 them as evidence is legitimate. Case-insensitive and whole-word, so
+                 a capitalised heading is caught. Pinned exceptions live in
+                 `retired_terms.allowlist`. Added 2026-09-25, ledger 76.
 CHK_VT_CAP       `VT` Glimpses are capped at 10-12 across all nine books
                  (`supplement_system.constraints`). Exceeding the maximum is a
                  violation; being under the minimum is not, since the saga is
@@ -48,7 +53,7 @@ Scope
 By default the canon substrate is scanned: rules/, canon/, grids/, book_context/,
 act_overlays/, templates/, source_canon/.
 
-`recovery/`, `proposals/` and `CLAUDE.md` are excluded by default because they are
+`recovery/`, `proposals/`, `reports/`, `decisions/` and `CLAUDE.md` are excluded by default because they are
 meta-documentation that deliberately quotes malformed identifiers while documenting
 them — a checker that flags a memo for quoting the error it describes is reporting
 noise, not defects. Pass --all to include them; the report records both figures.
@@ -80,7 +85,10 @@ SUBSTRATE_DIRS = [
     "rules", "canon", "grids", "book_context",
     "act_overlays", "templates", "source_canon",
 ]
-META_DIRS = ["recovery", "proposals"]
+# reports/ and decisions/ joined all-scope 2026-09-25 (ledger 76). Before that they
+# were scanned in NEITHER scope, which is how retired names re-entered reports/
+# unseen: 23 then 30 Technarch occurrences with no check able to count them.
+META_DIRS = ["recovery", "proposals", "reports", "decisions"]
 META_FILES = ["CLAUDE.md", "README.md"]
 
 # Ruling 10 (2026-09-21) permits prose in exactly two directories, and requires that
@@ -832,6 +840,45 @@ def check_trilogy_containment(path, data, vocab, notices):
                 f"the ceiling soft, so see CHK_DECLARED for whether it is declared."))
 
 
+RULES_FILE_REL = "rules/canon_rules.json"
+
+
+def compile_retired_terms(rules):
+    """Return [(term_dict, compiled_regex)] and the allowlist from the rules file."""
+    block = rules.get("retired_terms", {})
+    terms = [(t, re.compile(t["pattern"], re.IGNORECASE))
+             for t in block.get("terms", [])]
+    return terms, block.get("allowlist", [])
+
+
+def check_retired_terms(path, text, terms, allowlist, canon_scope, out, notices):
+    """CHK_RETIRED_TERMS. Violation in canon scope, notice elsewhere.
+
+    The rules file itself is skipped: it names every retired term by design.
+    An allowlist entry exempts one term on lines of one file containing a pinned
+    substring, so a NEW occurrence elsewhere in the same file is still caught.
+    """
+    rp = rel(path).replace(os.sep, "/")
+    if rp == RULES_FILE_REL:
+        return
+    for lineno, line in enumerate(text.splitlines(), 1):
+        for term, rx in terms:
+            for m in rx.finditer(line):
+                if any(a["path"] == rp and a["term"] == term["retired"]
+                       and a.get("line_contains", "") in line for a in allowlist):
+                    continue
+                v = Violation(
+                    "CHK_RETIRED_TERMS", rp, lineno, m.group(0),
+                    f"retired name; canonical form is {term['canonical']} "
+                    f"({term['ruling']})")
+                (out if canon_scope else notices).append(v)
+
+
+def is_canon_scope(path):
+    top = rel(path).replace(os.sep, "/").split("/", 1)[0]
+    return top in SUBSTRATE_DIRS or top == "README.md"
+
+
 def check_json(path, vocab, out):
     try:
         with open(path, encoding="utf-8") as fh:
@@ -944,12 +991,17 @@ def main():
         for alias in aliases:
             alias_map[alias.upper()] = canonical.upper()
 
+    retired, retired_allow = compile_retired_terms(rules)
+
     violations = []
     notices = []
     vt_rows = []
     scanned = 0
     for path in iter_files(args.all):
         scanned += 1
+        with open(path, encoding="utf-8", errors="replace") as fh:
+            check_retired_terms(path, fh.read(), retired, retired_allow,
+                                is_canon_scope(path), violations, notices)
         if path.endswith(".csv"):
             check_csv(path, sidfmt, ecid_fields, vocab, supp, alias_map,
                       violations, vt_rows, optional_fields, notices)

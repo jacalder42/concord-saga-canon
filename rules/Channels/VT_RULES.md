@@ -1,4 +1,4 @@
-# VT — VEIL-TOUCH RULES
+# VT — VEILTHREAD RULES
 Status: Authoritative Canon
 Source: Project Memory + Mechanica v4 + Resonance v1
 Phase: Phase 1A Migration

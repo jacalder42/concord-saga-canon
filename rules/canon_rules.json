@@ -303,5 +303,60 @@
     "grids/milestones_payoffs.csv": "NARRATIVE pressure, per thread. `thread_pressure_before/after` measure the thread named in that row's `thread` column - what is happening in the story. Calibrated per trilogy, extensible (see milestone_grid.pressure_scale).",
     "grids/reader_pressure.csv": "READER-FACING intensity, per cohort. Its own columns say so: reader_group, pressure_state, intensity_1_5, over an episode_range. This is how hard the READER is being squeezed, which is a different quantity from how bad things are in the story, and the two diverge - a quiet scene can be the most intense to read. Header-only; canon/editorial_lenses.md and rules/validation_checks.json both already point at it.",
     "_why_both": "The 2026-09-19 derivation draft framed these as alternatives - make pressure per-thread OR split the axis into a reader grid. They are not alternatives. Threading fixes WHOSE pressure a milestone records; the reader grid answers a question the milestone grid never asks. Ruled 2026-09-20: keep both, and score a quantity in exactly one of them."
+  },
+  "retired_terms": {
+    "_note": "Names retired by ruling. tools/validate_canon.py CHK_RETIRED_TERMS reports any match as a VIOLATION in canon scope and a NOTICE in all-scope (recovery/, proposals/, reports/, decisions/, CLAUDE.md), where quoting a retired name as evidence is legitimate. Matching is case-insensitive and whole-word, so capitalised headings are caught. Added 2026-09-25, ledger 76. Mortal Technology is deliberately ABSENT: the MT reconciliation is open, so that name is held, not retired.",
+    "terms": [
+      {
+        "retired": "Technarch",
+        "canonical": "Technarc",
+        "pattern": "\\bTechnarch\\b",
+        "ruling": "recovery/CANON_DECISIONS_2026-09-18.md §6.4"
+      },
+      {
+        "retired": "Veil-Touch",
+        "canonical": "VeilThread",
+        "pattern": "\\bVeil[- ]Touch\\b",
+        "ruling": "recovery/CHANNEL_NAMES_RULING_2026-09-19.md"
+      },
+      {
+        "retired": "Kade Rios",
+        "canonical": "Kade Harper",
+        "pattern": "\\bKade Rios\\b",
+        "ruling": "2026-09-19: canon/characters/ names are final (CLAUDE.md §3)"
+      },
+      {
+        "retired": "Caro Gauthier",
+        "canonical": "Carolina \"Caro\" Alvarez",
+        "pattern": "\\bCaro Gauthier\\b",
+        "ruling": "2026-09-19: canon/characters/ names are final (CLAUDE.md §3)"
+      },
+      {
+        "retired": "Koro Ito",
+        "canonical": "Ito Masayuki",
+        "pattern": "\\bKoro Ito\\b",
+        "ruling": "2026-09-19: canon/characters/ names are final (CLAUDE.md §3)"
+      },
+      {
+        "retired": "Foix",
+        "canonical": "Arnaud",
+        "pattern": "\\bFoix\\b",
+        "ruling": "recovery/GATE_RULINGS_2026-09-19.md Amendment 1"
+      }
+    ],
+    "allowlist": [
+      {
+        "path": "rules/Channels/VT_RULES.md",
+        "term": "Veil-Touch",
+        "line_contains": "is retired",
+        "reason": "Annotation naming the retired form in order to retire it."
+      },
+      {
+        "path": "grids/locations_registry.csv",
+        "term": "Technarch",
+        "line_contains": "Source reads",
+        "reason": "Verbatim source quotation, annotated as such in the row."
+      }
+    ]
   }
 }

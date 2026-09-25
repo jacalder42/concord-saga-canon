@@ -51,7 +51,7 @@ Under pressure, MT degrades as a consequence of resonance, not as a carrier of i
 
 ---
 
-## 4. VT — VEIL-TOUCH (WHAT IT IS)
+## 4. VT — VEILTHREAD (WHAT IT IS)
 
 VT is metaphysical boundary contact:
 - intimate
