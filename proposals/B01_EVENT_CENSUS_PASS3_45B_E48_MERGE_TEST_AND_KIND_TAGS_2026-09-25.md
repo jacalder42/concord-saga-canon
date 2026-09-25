@@ -3,8 +3,8 @@
 **Date:** 2026-09-25
 **Status:** PROPOSAL / NON-CANONICAL DIAGNOSTIC. **No event is promoted, created or counted
 as settled; no episode function, beat, supplement or the locked order is altered; no cause
-is assigned; no EBCI.** The merge test below **reduces** a candidate count by one rather
-than adding to it.
+is assigned; no EBCI.** The merge test below **changes no candidate count** — it classifies
+E48's continued-inquiry wording, nothing more.
 
 **Work-queue item:** `CLAUDE.md` §9 item 3.
 **Continues:** [census Pass 1](B01_NARRATIVE_CHANGE_CENSUS_AND_UNFILLED_TIMELINE_FUNCTIONS_PASS1_2026-09-24.md) ·
@@ -40,7 +40,7 @@ held ruling** — only the two v4.1b beats read side by side. Both are quoted be
 > **Baz argues investigation must widen.** … Global extent remains unconfirmed. **Trio
 > chooses to continue.**
 
-### Finding — one commitment, not two
+### Finding — E48's continued-inquiry wording is a receipt of `B1-45B`
 
 **E45 resolves a scope argument; E48 does not re-decide it.**
 
@@ -50,14 +50,20 @@ held ruling** — only the two v4.1b beats read side by side. Both are quoted be
 | What changes | The team accepts an investigative obligation beyond the local model | Nothing in scope changes; the E45 posture holds under the book's final event |
 | Scope claimed | *"widen inquiry, not certainty"*; explicitly avoids a global claim | *"global extent remains unconfirmed"* — **the same posture, not an escalation** |
 
-**So `B1-45B` stands as a tier-C candidate, and E48's continuation is its tier-D receipt.**
-It lets the reader test that the E45 commitment survived contact with the final event —
-which is precisely the receipt's job in the tier grammar: *"keep the receipt attached to its
-event; do not inflate each into a milestone."*
+**`E45` keeps both candidates. `B1-45A` and `B1-45B` remain two E45 candidates**, `45B`
+conditional exactly as cards Pass 1 left it. **What this test classifies is E48's
+continued-inquiry *wording*** — *"Baz argues investigation must widen"* and *"trio chooses to
+continue"* — as a **tier-D receipt of `B1-45B`**, not a second inquiry decision.
 
-**This does not diminish E48.** Its own candidate is the **quiet predicted pulse** — *"event
-arrives close enough to expectation to falsify 'random'"* — untouched by this test. What is
-declined is counting E48's *continuation of inquiry* as a second commitment.
+**E48 keeps its own candidate.** The **quiet predicted pulse** — *"event arrives close enough
+to expectation to falsify 'random'"* — is a separate matter and is untouched here.
+
+**What a receipt does and does not assert.** In the tier grammar a receipt *"lets the reader
+test a higher-level claim"*; it is not evidence the claim is true. **E48 does not show that
+the widened inquiry was acted on** — no destination, receiver, report or accepted cost
+appears in its beats. It shows only that the E45 posture is still the trio's posture at the
+book's end. **Do not read E48 as a payoff of `B1-45B`.** Whether `B1-45B`'s obligation is
+ever carried is open, and is part of what makes it conditional.
 
 **One caution that keeps this reversible.** The reading rests on E48 giving Baz an *argument*
 rather than the trio a *new decision*. If a later revision has E48 settle something E45 left
@@ -65,15 +71,18 @@ open — a named destination, a receiver for a report, an accepted cost — the 
 re-run. **The finding is about the beats as currently written, not about the episodes
 forever.**
 
-### Net effect on the four windows
+### Net effect on the four windows — unchanged
 
-Cards Pass 1's net: *"one E40 gathering candidate and two E45 candidates."* After this test
-the E45 pair is **one candidate plus one receipt**, so the defensible position is **one E40
-candidate and one E45 candidate (`B1-45A`), with `B1-45B` retained as a tier-C candidate
-whose carried obligation is now shown to be received at E48 rather than re-decided.**
+Cards Pass 1's net stands: **one E40 gathering candidate and two E45 candidates.** This test
+changes **no candidate count**. What it settles is a classification question one step away —
+that E48's continued-inquiry wording belongs to `B1-45B` as a receipt rather than standing as
+an independent inquiry decision of its own.
 
-**Stated plainly: this pass removes a candidate rather than adding one.** That direction is
-worth noting, because a census under pressure to reach a range tends to drift the other way.
+**Corrected 2026-09-25**, from an earlier version of this section that said the E45 pair
+became *"one candidate plus one receipt"* and that the pass *"removes a candidate."* Both
+were wrong: they demoted `B1-45B`, which stays, and they attached the receipt label to the
+wrong thing — the receipt is **E48's wording**, not `B1-45B`. Recorded rather than deleted,
+per §7 of the working agreement.
 
 ---
 
@@ -131,10 +140,21 @@ showing the result rather than asking for authorization blind.
 
 **Two observations for the rhythm pass, neither a defect.**
 
-1. **Only 3 of 28 candidate slots are `physical`** — E33, E45, E48. The book's changes are
-   overwhelmingly **evidential, relational, civic and institutional**. That is the Book 1
-   *public/local/no-combat/low-amplitude* constraint holding, and it is the strongest
-   available answer to the recurring worry that B1 leans on pulse set pieces.
+1. **3 of 28 candidate slots carry `physical` as their primary tag** — E33, E45, E48 — while
+   the rest are predominantly evidential, relational, civic and institutional.
+
+   **Read this narrowly.** Each slot gets **one primary tag**, chosen for what principally
+   changes there. The figure is therefore **not** a count of Resonance occurrences, **not** a
+   count of episodes in which something physical happens, and **not** an adjudicated event
+   total. A slot tagged `civic` or `evidential` may well contain a physical manifestation —
+   E15 is the obvious case — and a `physical` slot may contain several changes of other
+   kinds. Multi-kind slots are the norm, not the exception.
+
+   What it supports, and only this: **the primary changes across B1's candidate slots are
+   mostly not physical.** That is consistent with the Book 1 public/local/no-combat/
+   low-amplitude constraint. It is a shape observation about tagging, not evidence about how
+   many physical events the book contains — which measurement (b) cannot answer anyway while
+   **D5** holds.
 2. **`evidential` at 10 of 28 is the largest single kind**, concentrated at E16, E20, E25,
    E27, E35, E39, E47. Worth a look during item 4 for whether they *escalate* or *restate* —
    Pass 1 already asks this of the E25/E27 and E39/E47 pairs.
@@ -158,5 +178,7 @@ stay so until boundary review completes.
 
 It promotes, creates or counts no event as settled; assigns no cause; fills none of the eight
 placeholders; changes no beat, episode function, supplement or the locked order; and does not
-touch EBCI. It publishes no event total. Its one substantive finding **reduces** the
-candidate set by reclassifying E48's continued inquiry as a receipt of E45's decision.
+touch EBCI. It publishes no event total and **changes no candidate count**: `B1-45A` and
+`B1-45B` remain two E45 candidates and E48 keeps its predicted-pulse candidate. Its one
+substantive finding classifies **E48's continued-inquiry wording** as a receipt of
+`B1-45B` — which **does not** establish that the widened inquiry was acted on.
