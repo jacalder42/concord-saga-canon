@@ -7156,4 +7156,87 @@ END OF ENTRY 79
 
 ===============================================================
 
+===============================================================
+
+# 80. Secondary and tertiary cast reconciliation, Pass 4 — 2026-09-25
+
+`CLAUDE.md` §9 item 2. Proposal at
+`proposals/SECONDARY_TERTIARY_CAST_RECONCILIATION_PASS4_2026-09-25.md`. **Nothing renamed,
+nothing promoted, no episode function or B01 order touched, no EBCI.**
+
+## 1. Four Pass 1–3 actions have closed since 2026-09-19
+
+Mara Niht's source is recovered (§67); her B01 scene question is answered by v4.1b, which
+maps *"v3 E08 | source E08; unnamed local → Mara/M"* and gives her a civilian Life Packet;
+her Filament source is substantially recovered. Only *"recover former Mara Nichols"* is
+still open.
+
+**One conclusion is qualified rather than closed.** PASS2 §80's *"Mara Niht links Elisabet's
+pre-saga Icelandic life to the living cultural world of the saga"* is **authorial design
+intent, not recovered fact**: her source has **zero** occurrences of `Concord`, `Elisabet`,
+`Velvet Vein` or `Harpa`, and its Iceland coding is explicitly aesthetic — *"content palette
+(urban, not Iceland)"*. Corroboration, not derivation.
+
+## 2. The two-Mara hazard is real, not yet live, and cheapest to settle now
+
+The 2026-09-19 ruling protects both `Mara / M` and `Mara Niht`. **Pass 4 does not reopen
+it.** What the ruling could not have addressed, because she had no recovered source then, is
+that **both are New Orleans characters** — the Filament in the community web, the musician
+*"visiting"* the Velvet Vein, which is a public venue a community organizer can walk into.
+
+**It is not a live problem.** All 15 `Mara` mentions in v4.1b are A01; Mara Niht is absent
+from B01 and her **first appearance is on the `DO NOT LOCK` list**. So it becomes real the
+moment she is placed — which makes a decision taken now free and one taken later a scene
+edit.
+
+**Proposed: a register rule, not a rename.** The recovered material already separates them —
+the Filament bible states call signs *"are anonymous single letters used inside Filament
+channels and are not public branding,"* so she is **`Mara` in neighbourhood and civic
+registers and `M` inside Filament channels**, while the musician is **`Mara Niht` in full,
+never bare `Mara`**. No name changes, no beats touched.
+
+## 3. The sharpest collision in the cast was never named
+
+**`Ren`.** **A09 Ren Bellande** (Filament; helper → direct action → coercion) against
+**C02 Caldas Ren** (Dominion; surveillance → intimidation). A given name against a surname,
+**across opposing factions**, both `KEEP`, and **Passes 1–3 did not list it** — their
+collision set named Mara, Halley, Harrow, Arnaud, Nguyen, Baptiste and Reyes.
+
+Cheap to fix: A09's status is **already `REBUILD / RENAME / MERGE`** while C02 is plain
+`KEEP`, so renaming A09's given name resolves it without touching the Dominion layer.
+
+Every other token collision pairs a kept character against a **retired** alias and holds
+while the retirement does. Two are worth writing down: **`Baptiste` is shared by two kept
+characters** (Roland, Anaïs) with family intent nowhere stated, and **`Harlow` is a
+single-word name one character from the retired `Harrow`**.
+
+**A reference gap, not a duplicate:** the 09-24 carriers document uses a bare `Sparrow` as a
+Loom carrier without a `cast_id`, while **A03 Jae "Sparrow" Nguyen** ranges `B1–late
+Neon/Loom`. Probably the same person; unstated, it is how a duplicate support role gets
+created.
+
+## 4. Recurrence, and a limit on how far it can be stated
+
+The place overlay's B1 foreground (Mara/M, Arianna, Sparrow lightly, Mme Rosette, Rootkeeper)
+and the measured v4.1b footprint agree: **seven of 57 registry characters carry B01** — Mara/M
+15 mentions, Trip 14, Broussard 7, Virelli 5, Rosette 3, Rootkeeper 2, Arianna 1, Naima 1.
+B01 is deliberately thin, per the overlay's *"do not seed the entire later Filament ensemble
+in B1."*
+
+**But the registry cannot answer this saga-wide.** 26 of 57 rows have an **empty `range`**:
+all 7 of bundle D, 7 of 8 in G, 6 of 11 in F, 3 of 5 in C, 2 of 3 in E — against **0 of 12 in
+A**. Recurrence is answerable for the Filament and NOLA-civic layers and **not** for the
+institutional, antagonist or media layers. Filling those is a mechanical follow-up.
+
+## 5. Verification
+
+Canon scope **0**; self-tests **144**; source verifier **PASS** at 138.
+
+Six decisions are put to the author, and **none of them blocks §9 item 3 or item 4** — the
+B01 event census and the whole-book rhythm pass can proceed with the cast as it stands.
+
+END OF ENTRY 80
+
+===============================================================
+
 END RECOVERY LEDGER
