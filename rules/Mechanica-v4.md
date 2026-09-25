@@ -746,7 +746,7 @@ Under pressure, MT:
 
 ---
 
-## 38. VT — VEIL-TOUCH
+## 38. VT — VEILTHREAD
 
 VT is metaphysical.
 It is:
