@@ -7472,8 +7472,9 @@ among those seven episodes.
 
 ## 4. Finding
 
-**The book's rhythm needs no addition.** Every ECG-identified gap v4.1b could close is
-closed; reward, wonder, anticipation, humour and recovery all have dedicated slots with
+**On its own terms, the book's rhythm needs no addition** — a book-internal judgment,
+provisional on the saga and Veil trilogy passes (qualified in §84). Every ECG-identified gap
+v4.1b could close is closed; reward, wonder, anticipation, humour and recovery all have dedicated slots with
 guardrails. The one place worth a *reading* pass is the **evidential cluster** at E16, E20,
 E25, E27, E35, E39, E47 — where escalation is most likely to flatten into restatement, and
 where Pass 1's split/merge tests already point.
@@ -7494,6 +7495,58 @@ machine-verified against the bible; the rest is reproducible from census Pass 1 
 tag table.
 
 END OF ENTRY 83
+
+===============================================================
+
+===============================================================
+
+# 84. Work queue reordered: saga first, then Veil, then B01 EBCI — 2026-09-25
+
+Author direction, verbatim: *"I think our next tasks are going to be saga wide milestones,
+rhythm, balancing, etc then we will work on episodes for B2 and B3 to complete the trilogy,
+then we will work on EBCI for B1 and develop packets for sudowrite etc."* Forwarded with it:
+a ChatGPT review proposing the same order in more detail. **A work-order decision, not a
+canon one**, so it is recorded in `CLAUDE.md` §9 and here rather than in `decisions/`.
+
+## 1. The new order
+
+**Saga structural pass (active) → lock saga architecture → B02/B03 episode architecture →
+Veil trilogy audit → B01 EBCI (author gate) → Sudowrite packet.** Hierarchy: saga → trilogy
+→ book → episode → EBCI → prose.
+
+**Provenance of the steps.** Saga pass, B02/B03, B01 EBCI and Sudowrite are **the author's
+words**. *Lock saga architecture* (step 2), *Veil trilogy audit* (step 4), *Sudowrite packet
+as a smaller derived interface, never raw EBCI*, and *no `ebci/` directory yet* come from the
+**forwarded review**; adopted here as sound process, and **the author may strike any of
+them**.
+
+## 2. What it changes
+
+- **B02/B03 episode architecture is now queued**, replacing §9's former *"no B02–B09 episode
+  expansion yet"* **for those two books only**. B04–B09 remain unexpanded. **Architecture is
+  not EBCI**: the B01 hold stands and still gates only B01.
+- **The B01 rhythm pass (§83) is qualified as book-internal.** The review's point is correct
+  and the pass should have said it: a book can pace well on its own and still repeat the
+  saga's escalation shape. *"Needs nothing added"* now reads *"needs nothing added for its
+  own sake."* Qualified in the report, in §83 and in `CLAUDE.md` §8.
+- **The saga pass starts as a reconciliation.** Event tiers and the unslotted pool, the
+  M01–M36 review and adjudication, the anchor register, the place/antagonist transition map,
+  the carry-forward checks and the B07/B08/Loom ledgers already exist. `CLAUDE.md` §9's
+  reading map now lists them. Same lesson as §74 §4 and §83: read before generating.
+
+## 3. Not adopted — the manifest set
+
+The review also proposes a `manifests/` directory of eleven navigation files, including a
+`CURRENT_STATE.md`. **Not built**, pending the author's choice; the reasoning is put to him
+separately. In brief: `CURRENT_STATE.md` would duplicate `CLAUDE.md` §8, and this repository's
+most expensive recurring failure has been **navigation documents going stale** — §8's queue
+fell 180 commits behind, and the v3/v4.1b numbering split went unstated for four days.
+
+## 4. Verification
+
+Canon scope **0**; self-tests **144**; source verifier **PASS** at 138.
+
+END OF ENTRY 84
 
 ===============================================================
 

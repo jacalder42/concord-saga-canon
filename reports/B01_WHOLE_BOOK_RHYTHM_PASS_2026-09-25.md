@@ -5,7 +5,14 @@
 or classification is changed. No event is promoted or counted. No cause is assigned. No
 EBCI.** Recommends nothing be added to the book.
 
-**Work-queue item:** `CLAUDE.md` §9 item 4 — *"one B01 whole-book rhythm pass — events,
+> **Scope, added the same day (ledger §84).** This is a **book-internal** judgment: it shows
+> B01 works on its own terms. It is **not** the final rhythm verdict. The author has placed a
+> saga-wide structural pass and a Veil trilogy audit ahead of B01 EBCI, and either may show
+> that B01 needs a small adjustment because of what B02, B03 or the saga's escalation shape
+> requires — not because B01 is deficient in isolation. Read "needs nothing added" below as
+> *"needs nothing added for its own sake."*
+
+**Work-queue item:** `CLAUDE.md` §9 item 4 at the time; now superseded by the reordered queue — *"one B01 whole-book rhythm pass — events,
 Life/Reward, location recurrence, rewards, anticipation, romance, humour, wonder, threat,
 recovery, character load."*
 
@@ -178,7 +185,8 @@ order-invariant.
 
 ## 5. Findings and recommendations
 
-1. **The book's rhythm needs no addition.** Every ECG-identified gap that v4.1b could close
+1. **On its own terms, the book's rhythm needs no addition** — provisional on the saga and
+   trilogy passes. Every ECG-identified gap that v4.1b could close
    is closed; alternation is tight in both directions; reward, wonder, anticipation, humour
    and recovery all have dedicated slots with guardrails.
 2. **[P] Cite v3 numbers when quoting the 09-21 reports** (§1). The single cheapest defect

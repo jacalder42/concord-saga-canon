@@ -215,7 +215,8 @@ do not promote or downgrade `seraphine_full.md`.
   and it is now the only gate**: the standalone E19+ prohibition is superseded, ruled
   2026-09-25 (`decisions/B01_E19_EBCI_GATE_AUTHOR_RULING_2026-09-25.md`). **Supersession is
   not release**; no episode may be generated.
-  Event census and E23/E38/E40/E45 cards in progress (`proposals/B01_*_2026-09-24/25.md`).
+  Census Passes 1–3 and the rhythm pass are done (ledger §81–§83); the rhythm pass is a
+  **book-internal** judgment, provisional on the saga and Veil trilogy passes.
 - **Recovered episode material:** B01–B03, E00–E42 per book (`recovery/ACCOUNT_EXPORT_B0*_ACT*_EPISODE_FORENSIC_AUDIT_2026-09-20.md`).
 - **Substrate:** 2 of 7 grids populated (`milestones_payoffs` 36 rows, all `proposed`;
   `locations_registry` 31). `episode_beats`, `breadcrumbs`, `reaction_modifiers`,
@@ -236,23 +237,49 @@ do not promote or downgrade `seraphine_full.md`.
 
 ## 9. Work queue and reading map
 
-Working order adopted 2026-09-25; the author confirmed step 1. Consolidation and
-selective promotion, not another archaeological sweep and not mass episode generation.
+**Reordered 2026-09-25 by author direction** (ledger §84): *"our next tasks are going to be
+saga wide milestones, rhythm, balancing, etc then we will work on episodes for B2 and B3 to
+complete the trilogy, then we will work on EBCI for B1 and develop packets for sudowrite."*
 
-1. **Governance consolidation** — this rewrite, `CHK_RETIRED_TERMS`, CI, the `decisions/`
-   and `reports/` docs, the sequence manifest (ledger §76). Remaining: sweep own-voice
-   `Technarch` and one-digit `B1` out of `proposals/` and `reports/` (quotations stay).
-2. **Secondary/tertiary cast reconciliation** — especially v4.1b's `Mara/M` slot against
-   the recovered Mara Niht; remove duplicate support roles and names; map recurring faces
-   to places and books. May change supporting-cast identity; preserves episode function.
-3. **Complete the B01 event census** — before/action/after cards, C events separated from
-   D receipts, no target count; resolve E23/E38/E40/E45.
-4. **One B01 whole-book rhythm pass** — events, Life/Reward, location recurrence, rewards,
-   anticipation, romance, humour, wonder, threat, recovery, character load.
-5. **Release B01 to EBCI** — author gate.
-6. **In parallel:** grow the unslotted saga event pool, B07/B08 first. No B02–B09 episode
-   expansion yet. **Manufactured-meta transfer loop must be settled before any Neon
-   combat/meta episode work.**
+**The hierarchy: saga → trilogy → book → episode → EBCI → prose.** Work flows down it.
+A book that paces well on its own can still repeat the saga's escalation shape, so book-level
+judgments are provisional until the levels above them are settled.
+
+1. **Saga-wide structural pass — ACTIVE.** Anchors and book turns; the unslotted event pool;
+   milestone/payoff architecture; causal dependencies and carry-forward; nine-book rhythm and
+   density; Life/Reward balance; threat/recovery distribution; wonder, fun, romance, heat,
+   humour; character bandwidth and recurrence; place recurrence; antagonist/faction pressure;
+   Mechanica/Resonance escalation; reveals, mysteries, anticipation and payoffs; trilogy
+   transitions. **Especially: strengthen B07–B08 without stealing B09's ending** — B08 still
+   has no recovered independent non-finale turn. **Starts as a reconciliation**: a large body
+   of 09-19 → 09-24 saga work exists (reading map below). Read it before generating.
+2. **Lock saga architecture enough for downstream work** — major obligations, turns,
+   escalation curves and protected negative space stable enough that expanding one book
+   cannot consume another's material. Not every event needs exact placement.
+3. **Complete Veil at episode-architecture level** — B02 and B03 to a resolution comparable
+   with B01 v4.1b. **Architecture, not EBCI.** B04–B09: no episode expansion yet.
+4. **Veil trilogy audit** — with B01–B03 visible at episode resolution: cross-book pacing,
+   breadcrumbs, entrances/exits, relationship arcs, Mechanica exposure, locations, Baz's B03
+   endpoint, the B03→B04 handoff, and whether B01 carries anything B02/B03 should own.
+5. **B01 EBCI — author gate.** The hold in `decisions/B01_EVENT_OBSERVATION_AUTHOR_RULING_2026-09-23.md`
+   stands and is the only gate (`decisions/B01_E19_EBCI_GATE_AUTHOR_RULING_2026-09-25.md`).
+   Packets are generated against a known trilogy future, not only a known B01 future.
+6. **Sudowrite production packet** — a deliberately **smaller, derived** prose-facing interface
+   built *from* EBCI: intent, beats, POV state, setting, character and relationship state,
+   pressure, Mechanica constraints, breadcrumbs, continuity obligations, protected reveals,
+   voice, exit state. **Never feed raw EBCI, canon or recovery material to prose generation.**
+
+**Do not create an `ebci/` directory yet** — it would signal that EBCI is the active layer.
+
+**Completed 2026-09-25, and what each is still subject to:**
+- Governance consolidation (§76–§79). Retired-term sweeps complete.
+- Cast reconciliation Pass 4 (§80) — six author decisions open; none blocks the above.
+- B01 event census Passes 2–3 (§81–§82). E23/E38/E40 need source reading; `B1-45A` gated by D5.
+- B01 rhythm pass (§83) — **book-internal**. It shows B01 works on its own terms and is
+  provisional on steps 1 and 4.
+
+**Standing constraints:** the manufactured-meta transfer loop must be settled before any Neon
+combat/meta episode work; D5 holds causal physics; D7 holds the two B01 sequence inversions.
 
 **Reading map — start here, not everywhere.**
 
@@ -263,5 +290,8 @@ selective promotion, not another archaeological sweep and not mass episode gener
 | Cast reconciliation | `proposals/concord-2026/SECONDARY_TERTIARY_CHARACTER_AUDIT_PASS1–3`, `recovery/MARA_NIHT_RECOVERY_2026-09-21.md` |
 | Mechanics / Resonance | `rules/Mechanica-v4.md`, `rules/Resonance-v1.md`, `reports/MECHANICA_RESONANCE_SYSTEMS_INTEGRITY_AUDIT_2026-09-23.md` |
 | Saga events / milestones | event tiers + pool proposal, `grids/milestones_payoffs.csv`, `proposals/MILESTONE_GATE_AUTHOR_EDITOR_DECISION_PACKET_2026-09-23.md` |
+| **Saga structural pass (step 1)** | `proposals/SAGA_EVENT_TIERS_AND_UNSLOTTED_POOL_PASS1_2026-09-23.md`; `reports/M01_M36_MILESTONE_DESCRIPTION_AND_DEPENDENCY_REVIEW_2026-09-23.md` and the `M01_M36_*` adjudication/overlay; `recovery/SAGA_RESONANCE_EVENT_ANCHOR_REGISTER_PASS3_2026-09-23.md`; `proposals/SAGA_PLACE_PRESENCE_ANTAGONIST_TRANSITION_MAP_PASS1_2026-09-23.md`; the B03→B07 carry-forward and B07/B08/Loom ledgers; `recovery/SAGA_TIMELINE_2026-09-19.md`; `rules/saga_context_S1.json` |
+| **Veil completion (step 3)** | `recovery/VEIL_TRILOGY_RECONCILIATION_MAP_2026-09-20.md`; `recovery/B02_` and `B03_RECONCILIATION_MAP_2026-09-20.md`; the B02/B03 `ACCOUNT_EXPORT_*_EPISODE_FORENSIC_AUDIT_2026-09-20.md` files; B01 v4.1b as the reference model |
+| Citing a 09-21 B01 ECG report | Its episode numbers are **v3**; map to v4.1b first — `reports/B01_WHOLE_BOOK_RHYTHM_PASS_2026-09-25.md` §1 |
 | What happened recently | the last five ledger entries, `git log --since` |
 | Anything touching sources | `sources/README.md`, ledger §70–§74 |
