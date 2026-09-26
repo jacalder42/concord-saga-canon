@@ -65,7 +65,7 @@ corrections are set out, as the author asked, in
 | 3 | Brightbreak's lineage: the Neon Rebellion's splinters, or a separate network? | *"some yes, others dissolve or stay independent"* | **RULED** | **Some** Neon Rebellion splinters become Brightbreak; **others dissolve or stay independent.** The author's November splinter design and Brightbreak meet here. The "civilian mutual-aid network" variant is not the lineage |
 | 4 | Does Lacuna nudge Kade to post to MT, and did he think it was private? | *"yes and yes at first"* | **RULED** | **Lacuna nudges Kade to post.** **Kade thought MT was private at first** (the Veil static). This supersedes `MDR` 11347's *"Kade does not think MT is semi-private."* |
 | 5 | What makes Kade attack Rex? | *"fear he will kill Elias"* | **RULED** | **Kade attacks Rex out of fear that Rex will kill the downed Elias.** The assistant's *"If Rex reaches her, the world ends"* is **not** the motive |
-| 6 | Does a "Solace" lead the Choirless? | *"yes that would be acceptable"* | **ACCEPTABLE**: permitted, not required | The author recalls **a dedicated conversation**; a search is running |
+| 6 | Does a "Solace" lead the Choirless? | *"yes that would be acceptable"* | **ACCEPTABLE**: permitted, not required | The author recalls **a dedicated conversation**. **Search result:** no earlier conversation. Solace began on 11-27 as a Brightbreak / Elias name; the first Choirless Solace is an 11-30 assistant card, sixteen minutes before *"originally a Choirless persona."* The development the author likely recalls is `NS` ~145335–146240 ([Solace recovery](../recovery/SOLACE_CHOIRLESS_SOURCE_RECOVERY_2026-09-26.md)) |
 
 ### Consequences for today's cards
 

@@ -8558,4 +8558,39 @@ END OF ENTRY 101
 
 ===============================================================
 
+# 102. Solace: no earlier dedicated conversation; chronology corrected — 2026-09-26
+
+**Asked:** the author recalled *"a dedicated conversation"* about a Solace-led Choirless.
+`recovery/SOLACE_CHOIRLESS_SOURCE_RECOVERY_2026-09-26.md`.
+
+**Found** (verified against `.json` timestamps and speaker headers):
+
+- **No capitalised "Solace" exists before 2025-11-27.**
+- Solace first appears at 11-27 15:46 as an assistant **Brightbreak** code name (`NS` 3979). It
+  becomes Elias's nickname at the author's request (16:01).
+- The first **Choirless** Solace is an assistant voice card at 11-30 06:00 (Concord_Saga_review
+  5208). The author pasted it at 06:03 as *"not canon yet."* At 06:19 he said *"originally a
+  Choirless persona,"* and at 06:23 *"Choirless could still be led by a Solace character."*
+- The development he likely recalls is `NS` ~145335–146240: a masked **title**, *"Silence is
+  mercy,"* *"the inverse of Tahl."* It is assistant material, accepted with "Proceed" only.
+
+**Correction:** the Elias recovery's §3.9 quotes the author accurately but implies a chronology
+the record does not support. This entry corrects it; the file is not edited.
+
+**Tensions if Solace is used:**
+
+- The pastoral version duplicates Saeko (*"coercion disguised as care"*).
+- The canon Choirless has no leader and is fragmented in Loom (*"no longer need a name"*).
+- The micro-bible's *"track the swamp node"* conflicts with the site secret.
+- The B06 "Solace cult" (Dec 8 assistant backup) has an ambiguous owner.
+
+**Open for the author:** whether `NS` ~145335 is the conversation he recalls; a masked title or a
+public voice; a fragmented or unified remnant.
+
+**Pending:** the Tahl death-specifics search.
+
+END OF ENTRY 102
+
+===============================================================
+
 END RECOVERY LEDGER
