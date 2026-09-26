@@ -79,6 +79,13 @@ book's emotional core, not only a stop on the route.
 | **F2. A consequence, not an origin** | Evidence that Santa Fe is a **wound**, not the **tear**, and that the tear began *"where it began"* | **Produces B08's close directly**, from the author's 11-22 words; turns the search from a hunt into a return to where Seraphine was first met | Needs fallible evidence (the B05 function, Elisabet's method) that can be read wrong |
 | **F3. Something to carry** | A record, reading or person the crew needs later | Gives B09 a concrete tool | Risks becoming a MacGuffin; a pre-Mending "node key" is ruled out |
 
+> **Author, the same day:** *"I think your recommendation is right for the general public, but
+> our other protagonists know that there are other wounds at the Mound City, Serpent Mound, etc
+> sites that they must travel to."* Santa Fe is **one wound on a circuit**, not the search's
+> only stop. See the [ruling's second follow-up](../decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md).
+> F2 stands as the **public** reading. The crew's own reading includes the other wounds they
+> still have to reach.
+
 **Recommendation (not adopted): F2 with F1.** The scar shows the old way failing (doubt) and shows
 that it is not the source (direction). The close follows from the finding, and the answer stays
 reserved.

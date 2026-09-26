@@ -112,8 +112,43 @@ after; where is B09's *"escape from another location."* **The author's words, ve
 | **B09's escape location** | **Serpent Mound** | Who is escaped from, and how; whether Serpent Mound is also visited in B08 |
 
 **The Loom route is now fixed at its ends:** New Orleans (B07) → Santa Fe (B08 anchor) → Serpent
-Mound (B09 opening escape) → the NOLA feint → Honey Island (B09 Act III). **St. Louis / Mound
-City is unused** and stays available.
+Mound (B09 opening escape) → the NOLA feint → Honey Island (B09 Act III).
+
+*Corrected the same day:* this line first said St. Louis / Mound City was unused. **The author's
+second follow-up (below) puts Mound City on the protagonists' route.**
+
+### Second follow-up — the wounds
+
+**The author, verbatim**, on the B08 card's recommended finding (Santa Fe as *"a wound, not the
+origin,"* pointing back to Louisiana):
+
+> I think your recommendation is right for the general public, but our other protagonists know
+> that there are other wounds at the Mound City, Serpent Mound, etc sites that they must travel
+> to.
+
+| Point | Ruled | Not ruled |
+| --- | --- | --- |
+| **Multiple wounds** | **The protagonists know there are other wounds, at Mound City, Serpent Mound and others (*"etc"*), and they must travel to them.** Santa Fe is one wound among several on their route | Which others (*"etc"*); the order; **why they must go** (to learn, to stabilise, because the Mending needs them, Silence and Hope's coaching); what they do at each |
+| **The card's recommendation** | Accepted as **"right for the general public"** | How far the public and the protagonists' understanding differ (below) |
+
+**"For the general public" — two readings, not chosen:**
+
+1. **The public and the protagonists know different things.** The public learns (or is told) that
+   Santa Fe is a wound, not the origin, and that it points back to Louisiana. The protagonists
+   know it is one of several wounds they must visit. This fits the site secret, since the public
+   story is less precise than the crew's.
+2. **The recommendation is right in general,** with the protagonists' circuit of wounds added.
+
+**Consequences:**
+
+- The Loom route runs through **several wounds**: Santa Fe (B08 anchor), **Mound City**, and
+  **Serpent Mound** (where B09 opens with an escape), possibly others, before the NOLA feint and
+  Honey Island.
+- B08's close, *"learning it may be back in Louisiana,"* now sits inside a circuit that is **not
+  yet finished**. B09 still opens at Serpent Mound. How the two fit (whether Louisiana is known
+  before the circuit ends) is **open**.
+- This matches the author's 2025-11-28 question: *"Do our Santa Fe, St. Louis, and Serpent Mound
+  locations become places that our protagonists go to learn more about the Veil"* (`NS` ~56926).
 
 ## What this ruling does not change
 

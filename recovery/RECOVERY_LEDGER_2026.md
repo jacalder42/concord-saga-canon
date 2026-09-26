@@ -8368,4 +8368,29 @@ END OF ENTRY 97
 
 ===============================================================
 
+# 98. Correction to §97: Mound City is on the route — the protagonists travel a circuit of wounds — 2026-09-26
+
+**What was wrong.** §97 and the Loom ruling's follow-up said *"St. Louis / Mound City is unused."*
+The author: *"I think your recommendation is right for the general public, but our other
+protagonists know that there are other wounds at the Mound City, Serpent Mound, etc sites that
+they must travel to."*
+
+**What replaced it.** A second follow-up in `decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md`:
+
+- **Ruled:** the protagonists know of several wounds and must travel to them: Mound City, Serpent
+  Mound, and others (*"etc"*). Santa Fe is one wound on that circuit.
+- **Accepted:** the B08 card's F2 finding ("a wound, not the origin") as *"right for the general
+  public."* Two readings of that phrase are recorded: public knowledge that differs from the
+  crew's, or right in general with the circuit added.
+- **Open:** which other wounds; their order; why the crew must go; how B08's *"may be back in
+  Louisiana"* fits a circuit still unfinished when B09 opens at Serpent Mound.
+
+The B08 card carries a note. §97's line is not edited; this entry corrects it.
+
+**Pending:** the Elias / Kade / Lacuna export search the author asked for in the same message.
+
+END OF ENTRY 98
+
+===============================================================
+
 END RECOVERY LEDGER
