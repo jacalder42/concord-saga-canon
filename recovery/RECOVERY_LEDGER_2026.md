@@ -8437,4 +8437,66 @@ END OF ENTRY 99
 
 ===============================================================
 
+# 100. Elias, Kade and Lacuna recovered from the export — 2026-09-26
+
+**Status:** recovery. `recovery/ELIAS_KADE_LACUNA_SOURCE_RECOVERY_2026-09-26.md`. No card, ruling or
+grid change.
+
+**Asked:** the author: *"there are several conversations about Elias and his motivations, how he
+manipulates others (especially Kade), how Lacuna mistrusts him … how Kade gets wound up,
+manipulated, and starts to question Brightbreak."*
+
+**Method:** three read-only search agents, split by conversation. Every author quotation was
+verified with its speaker header. One agent line reference was wrong ("black light brigade" is at
+`PC` 59273, not 59267); corrected.
+
+**Findings:**
+
+1. **Kade's radicalisation predates Elias.** In November 2025 the author designed a Kade-led Neon
+   Rebellion splinter that *"chase[s] our protagonists in the end game"* (`MDR` 10134). Elias
+   began as the *"devil on his shoulder"* role (`NS` 3747). Brightbreak took the splinter's slot.
+   No repo document had traced this.
+2. **Strongly accepted Elias material:**
+   - "Elias Canon v2" (*"Perfect, proceed"*): not possessive; *"predatory empathy"*; separates Kade
+     from Lacuna because *"Grounded Kade cannot be radicalized"*; *"the illusion of being valued,
+     not the reality of being loved."*
+   - The authorisation model: *"Kade to authorize his story without realizing it."*
+   - Brightbreak's structure (*"Lock A/A"*).
+   - The Kade Bible (*"Save Kade Bible"*).
+3. **The Tier-1 Elias cards contradict the author:**
+   - EBCI gives Elias a Veil and a Neon presence, against *"no presence in Veil, no named presence
+     in Neon"*;
+   - ID says New Orleans *"pre-Neon"*, against his arriving for MT after the Brightbreak handle's
+     loss;
+   - the ID and POV cards have Lacuna *"barely register"*, against *"settling influence"* and the
+     link being revealed *"when he starts to undermine Lacuna."*
+
+   Corrections are proposed, **not applied** (Tier-1).
+4. **The finale choreography has been consistent since November 2025:**
+   1. Elias attacks first.
+   2. Rex knocks him down.
+   3. Kade, having tried to stop Elias, fears Rex will kill him and attacks Rex (*"save" Elias,
+      representation of himself*).
+   4. The echo, with Silence's boost.
+   5. Kade talks down Brightbreak and stands with Rex, with the Choirless unresolved.
+   6. *"Tahl then aids Rex."*
+
+   The assistant's *"If Rex reaches her, the world ends"* is a second motive, recorded.
+5. **Doubt:** in every author statement Kade breaks only at the echo. The one pre-echo doubt beat
+   is the author's *"tell him to stop, wait, and let him try to talk with Rex."* READING: B08's
+   complicity is the natural first doubt, which must stay a doubt.
+
+**Supports today's cards:** B08 complicity-as-authorisation is directly sourced. The author once
+floated that Lacuna nudges Kade to post to MT, which bears on the B07 card.
+
+**Recorded, not resolved:** Elias named in B06 or not; Brightbreak as the Neon Rebellion's
+splinter or a civilian network; whether Kade thought MT was private; the attack motive; a
+"Solace" leading the Choirless; Elias's surname (Ward is locked) and age.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 100
+
+===============================================================
+
 END RECOVERY LEDGER
