@@ -35,12 +35,12 @@ from an earlier reconstruction or this card · **OPEN** no answer.
 | 1 | An anomaly at the Warehouse is under way, and **Baz is investigating it** | **RULED** (as *"the event Baz was investigating"*) · **RECALLED** (*"Baz goes to investigate a resonance event at the Warehouse"*) | 09-26 ruling #2; 09-19 recollection |
 | 2 | **Tahl posts the coordinates of that event** | **RULED** | 09-26 ruling #2 |
 | 3 | The post is **anonymous** when it appears | Follows from **RULED** naming: Tahl is not named until the B3 epilogue | 09-26 ruling #1 |
-| 4 | **More people go to the site** because of the post | **HYPOTHESIS** — the author's *"perhaps"* | 09-26 ruling #2 |
-| 5 | Authorities contain the zone rather than evacuate it | **PROPOSAL**, mechanism A — *"supported in principle; exact delay not recovered"* | Warehouse recovery |
-| 6 | Technarc retrieval agents hold the site for evidence | **RECOVERED as an action**; its effect on Baz is unresolved (mechanism B) | Warehouse recovery |
-| 7 | **An antagonist intervenes** — who and how, unspecified | **RECALLED** | 09-19 recollection |
+| 4 | **More people go to the site** because of the post | **HYPOTHESIS** — the author's *"perhaps"*. Strengthened, not ruled: the epilogue's reports mention *"unexpected bystanders hampering efforts"* (hedged) | 09-26 ruling #2; Warehouse answers #1 |
+| 5 | Authorities contain the zone rather than evacuate it | **PROPOSAL**, mechanism A — *"supported in principle; exact delay not recovered"*. **DELEGATED, adopted as working assumption:** Dominion's perimeter, the **expected** presence | Warehouse recovery; Warehouse answers #3–4 |
+| 6 | Technarc retrieval agents hold the site for evidence | **RECOVERED as an action**; its effect on Baz is unresolved (mechanism B). **DELEGATED, adopted as working assumption:** the **unexpected** presence | Warehouse recovery; Warehouse answers #3–4 |
+| 7 | **An antagonist intervenes** — who and how, unspecified | **RECALLED.** **DELEGATED, adopted as working assumption:** Technarc, whose unexpected presence is the intervention; it delays and does not cause | 09-19 recollection; Warehouse answers #3 |
 | 8 | The Rupture exceeds Han Wei's predictive model | **RECOVERED** — *"Han Wei material says he fails to predict the Warehouse Rupture"* | Warehouse recovery |
-| 9 | **Evacuation takes too long** | **HYPOTHESIS** (*"perhaps … it taking too long for Baz to evacuate the location"*) | 09-26 ruling #2 |
+| 9 | **Evacuation takes too long** | **HYPOTHESIS** (*"perhaps … it taking too long for Baz to evacuate the location"*). The reports' *"hampering efforts"* gives the crowd → delay edge an on-page form (hedged) | 09-26 ruling #2; Warehouse answers #1 |
 | 10 | Rupture → shockwave → **partial collapse** | **RECOVERED** — Nov B3 bible A3 E11–E13 | primary-source verification, Finding A |
 | 11 | **Baz frees a child and is crushed** | **RECOVERED** and **RECALLED** | Nov B3 bible; 09-19 recollection |
 | 12 | Baz dies **at the end of B03**; the rest of the cast learns **at the start of B04** | **RULED** | Baz death timing ruling |
@@ -165,18 +165,30 @@ recollection and that boundary.
 **Link 2, a detail the ruling leaves open:** did Tahl know Baz was investigating? The ruling
 says the post was of *"the event Baz was investigating"*. That need not mean Tahl knew Baz was
 there. **Whether he knew is what his remorse is about**, and it is the author's to decide.
+**Answered 2026-09-26: he did not know** ([author answers](../decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md)).
 
 ---
 
-## 6. For the author
+## 6. For the author — answered 2026-09-26
+
+The four questions below were answered the same day. The answers and their scope are in the
+[author answers](../decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md). In short:
 
 1. **The Act III post:** on the page, visible only through its effect, or learned only in the
-   epilogue?
-2. **Did Tahl know Baz was there?**
-3. **Link 7:** Technarc retrieval, Dominion at the perimeter, both, or someone else?
-4. **Mechanisms A and B:** keep both alongside the crowd, one, or neither?
+   epilogue? → **A visible supplemental text or effect-only; the author is open between those
+   two.** The aftermath is visible in the epilogue, hedged: Tahl reads reports of unexpected
+   bystanders hampering efforts and a first responder dying (examples, *"or etc."*). Whether
+   that responder is Baz, unnamed, or a second death is recorded both ways.
+2. **Did Tahl know Baz was there?** → **RULED: no.** He may not learn Baz's name until much
+   later (hedged).
+3. **Link 7:** Technarc retrieval, Dominion at the perimeter, both, or someone else? →
+   **DELEGATED.** Working assumption: Dominion **expected** at the perimeter, Technarc **not
+   expected**, and Technarc is the intervening antagonist.
+4. **Mechanisms A and B:** keep both alongside the crowd, one, or neither? → **DELEGATED.**
+   Working assumption: **both**, alongside the crowd. Mechanism C stays off.
 
-**None blocks the B6 and B8 cards,** which come next.
+The delegated answers are PROPOSALS the author can override, not rulings. **None blocks the B6
+and B8 cards,** which come next.
 
 ## 7. What this card does not do
 

@@ -43,6 +43,8 @@ requires sit beside it and name the ruling they serve
 | `B05_TECHNICAL_EVIDENCE_FUNCTION_AUTHOR_RULING_2026-09-23.md` | B05 fallible technical evidence / institutional concealment as story function |
 | `B01_E19_EBCI_GATE_AUTHOR_RULING_2026-09-25.md` | Retires the standalone E19+ prohibition; the B01 EBCI hold becomes the single gate, and stays shut |
 | `SAGA_MILESTONE_GATE_AUTHOR_RULING_2026-09-26.md` | The five milestone-gate decisions: Tahl named in B3 epilogue; Tahl posted the coordinates; LT is Seraphine reaching out to survivors. Riot/meta/Colorstorm and B08's opening are **leans only** |
+| `LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md` | Amends Mechanica §39: Kade has LT access (a floor, not the full list). B09 epilogue scene: Lacuna and Kade under the night sky, closing on LT reaching out, Möbius with the B01 prologue |
+| `B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md` | Tahl did not know Baz was there. Post staging narrowed to supplemental text or effect-only. Epilogue aftermath via reports (hedged). Links 5–7 **delegated**: working assumption only |
 
 ### Earlier rulings, which stay in `recovery/`
 

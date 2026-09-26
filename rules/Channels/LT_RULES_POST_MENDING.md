@@ -25,6 +25,9 @@ LT is a different channel entirely.
 LT is perceivable only by:
 - ascendants
 - post-Mending anchors
+- Kade, by named exception (Mechanica §39, amended 2026-09-26 by author ruling —
+  `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`). Whether other
+  protagonist survivors have access, and what "post-Mending anchors" covers, is open.
 
 Civilians do not perceive LT directly.
 

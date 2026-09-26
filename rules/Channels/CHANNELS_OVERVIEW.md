@@ -80,7 +80,8 @@ LT is:
 - gentle
 - filtrating
 
-LT is perceivable only by ascendants.
+LT is accessible to ascendants and, by named exception, to Kade (Mechanica §39, amended
+2026-09-26 by author ruling; whether other protagonist survivors have access is open).
 
 LT does not override agency.
 LT does not coerce.
@@ -111,7 +112,7 @@ They experience only calmer stability and clearer emotional ecology.
 ### Post-Mending
 - MT stabilizes (culturally deemphasized)
 - VT remains distinct
-- LT exists as ascendant-only prismatic channel
+- LT exists as a prismatic channel for ascendants, with Kade as a named exception (§5)
 
 ---
 

@@ -7840,4 +7840,88 @@ END OF ENTRY 88
 
 ===============================================================
 
+# 89. Mechanica §39 amended for Kade; B09 epilogue scene; Warehouse answers — 2026-09-26
+
+**Status:** records two author rulings and the rule edits one of them instructs. No episode,
+grid row or EBCI status changes.
+
+## 1. What the author said
+
+> Amend 39 to allow at least Kade access. There should be an epilogue scene worked out with
+> Lacuna and Kade talking while looking at the night sky and closing with a prompt from LT
+> reaching out. (Mobius with B1 prologue Conversation in the stars)
+
+and, answering the Warehouse card's §6 (§88):
+
+> 1. I am open to it being a visible supplemental text, or only seen via effect. I think the
+>    aftermath is visible in the epilogue. Tahl seeing reports about unexpected bystanders
+>    hampering efforts and a first responder perishing, or etc.
+> 2. No, Tahl may well not even know Baz's name until much later.
+> 3. Which ever fits the saga better, perhaps Dominion was expected to be present, but Technarc
+>    were not…
+> 4. Whatever serves the saga best
+
+## 2. LT access — §87's conflict resolved for Kade
+
+The author chose **reading 1 of §87 (amend §39)**. `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`.
+
+- **`rules/Mechanica-v4.md` §39:** *"Is perceivable only by ascendants"* → *"Is accessible to
+  ascendants and, by named exception, to Kade,"* with a dated note quoting the author and
+  keeping the old wording.
+- **Consequential edits** so the substrate does not contradict itself: Mechanica §33
+  (*"Ascendant-only perception"*), `rules/Channels/CHANNELS_OVERVIEW.md` §5 and §6,
+  `rules/Channels/LT_RULES_POST_MENDING.md` §2. Each now points at §39 and adds nothing.
+- **Not changed:** §37 (*"MT cannot … access VT or LT"*). Kade's access is personal, not via MT.
+- **Reading 3 (widen "ascendant") was never available.** `KadeID.md` says Kade *"does not
+  ascend."* Recorded so a later pass does not re-propose it.
+- **Open:** "at least" sets a floor, so other survivors' access is still open. It is also open
+  what access consists of, and whether an LT **"prompt"** fits `LT_RULES_POST_MENDING.md`'s
+  *"never presents as a voice, command, or instruction"* and *"LT never interacts directly with
+  MT."* A prompt felt as presence fits; one shown on a screen does not.
+
+## 3. The B09 epilogue scene
+
+**Ruled:** Lacuna and Kade talk under the night sky; the scene closes on LT reaching out; it is a
+Möbius with the B01 prologue. It fits answer 5 (§86) if the LT prompt is Seraphine's reach
+received through Kade's access. That reading is natural but not stated, and it is not recorded as
+ruled. The author wrote *"Conversation in the stars"*. That is treated as a paraphrase, and the
+prologue's title, *The Conversation in the Sky*, is unchanged. The ruling offers three mirror
+readings against the prologue's Möbius seed (*"distance, constraint and incomplete
+communication"*), each marked as a reading. **No scene text is written.**
+
+## 4. Warehouse answers
+
+`decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`; card §1 and §6 updated.
+
+- **RULED: Tahl did not know Baz was there.** His remorse is for a consequence he did not
+  foresee. Hedged: he may learn Baz's name much later than the cast learns of the death (B04).
+- **Post staging narrowed** to a visible supplemental text or effect-only. Learning of it only
+  in the epilogue is no longer among the options.
+- **Epilogue aftermath (hedged):** Tahl reads reports of unexpected bystanders hampering
+  efforts. This gives links 4 and 9 an on-page form without ruling them.
+  **"A first responder perishing" is recorded two ways:** Baz reported unnamed (he is an
+  investigator by role but acts as a rescuer), or a second death no source contains. Not chosen.
+- **Answers 3–4 were delegated.** Working assumption, marked PROPOSAL and overridable: **both**
+  mechanisms alongside the crowd. **Dominion is expected** (the perimeter, mechanism A).
+  **Technarc is not expected** (the retrieval, mechanism B) and is the link-7 intervention. Its
+  unsanctioned presence gives a concealment motive that feeds the 09-23 B05 function. C stays
+  off. **"Expected by whom"** is open: the public, Baz or Tahl.
+
+## 5. Delegation is recorded as delegation
+
+The author twice asked for "whatever fits the saga." §4 of the working agreement still applies:
+the answer is a **recommendation adopted as a working assumption**, with its reasons written
+down, and it reverts cleanly if the author overrides it. It is not a ruling, and no other
+document depends on it yet.
+
+## 6. Verification
+
+Canon scope **0** (the §39 edit is in canon scope); self-tests **144**; source verifier **PASS**
+at 138. All-scope: 112 `CHK_SID_FORMAT`, unchanged, and 356 notices. The one new *"B1"* is
+in the author's verbatim quote and is kept as evidence.
+
+END OF ENTRY 89
+
+===============================================================
+
 END RECOVERY LEDGER

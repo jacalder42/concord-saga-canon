@@ -663,7 +663,7 @@ Resonance states describe the condition of the emotional field.
 
 ### LT
 - Post-Mending prismatic filtration
-- Ascendant-only perception
+- Perception limited to ascendants and the exception in §39 (amended 2026-09-26)
 - Gentle, non-coercive presence
 
 ---
@@ -772,11 +772,21 @@ It is:
 - Gentle
 
 LT:
-- Is perceivable only by ascendants
+- Is accessible to ascendants and, by named exception, to Kade
 - Does not override human agency
 - Cannot be used coercively
 
 Civilians perceive only calm or clarity.
+
+> **Amended 2026-09-26 by author ruling**
+> (`decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`). The author:
+> *"Amend 39 to allow at least Kade access."* The line previously read *"Is perceivable only
+> by ascendants."* Kade is the **minimum**, not the whole list: whether other protagonist
+> survivors have access is open. Kade does not ascend (`canon/characters/KadeID.md`); this
+> is an exception to the ascendant rule, not a change to who ascends. What access consists of
+> (perception, use, one- or two-way) is not ruled. The other LT rules on this page are
+> unchanged.
+
 ## 40. POST-MENDING MECHANICAL SHIFT
 
 The Mending permanently alters how resonance behaves.
