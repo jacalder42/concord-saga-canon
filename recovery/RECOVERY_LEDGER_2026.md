@@ -8499,4 +8499,63 @@ END OF ENTRY 100
 
 ===============================================================
 
+# 101. Wounds, hard cap, and Elias answered; Elias card corrections specified — 2026-09-26
+
+**Status:** records an author ruling and a proposal. No card, rule or grid change.
+
+## 1. Wounds
+
+`decisions/LOOM_WOUNDS_AND_ELIAS_AUTHOR_ANSWERS_2026-09-26.md` §1:
+
+- **Repair is stabilisation** (ruled). Mechanica §35 applies; a stabilised scar is still a scar
+  (§34); D5 holds.
+- **Silence and Hope guide the crew to reinstate the hard cap. Seraphine grows to question it and
+  begins the potential of a breathing veil** (ruled). *"there should be quite a bit of conversation
+  on this idea"* is read as an in-story direction.
+- The crew stabilises Santa Fe (lean).
+- The author does not clearly recall the specifics of Tahl's death; a search is running.
+
+## 2. Elias
+
+`decisions/LOOM_WOUNDS_AND_ELIAS_AUTHOR_ANSWERS_2026-09-26.md` §2. Ruled:
+
+- **Handle only in Neon**, as foreshadowing; naming is too soon. This supersedes *"Perhaps named
+  in 6"* and the accepted Visibility Rule's B6 naming.
+- **Some Neon Rebellion splinters become Brightbreak; others dissolve or stay independent.**
+- **Lacuna nudges Kade to post, and Kade thought MT was private at first.** This supersedes
+  `MDR` 11347.
+- **Kade attacks Rex from fear that Rex will kill Elias.** The assistant's *"If Rex reaches her,
+  the world ends"* is not the motive.
+- **A Solace-led Choirless is acceptable.** The author recalls a dedicated conversation; a search
+  is running.
+
+## 3. Card corrections, specified, not applied
+
+The author said *"give me specifics before doing so."*
+`proposals/ELIAS_CARD_CORRECTIONS_PROPOSAL_2026-09-26.md` gives exact current and proposed text.
+
+**Required (the cards contradict the author):**
+
+- E1: EBCI Veil → no presence.
+- E2: EBCI Neon → the handle only; no Kade.
+- E3: ID New Orleans move. Option (a), late Neon for MT, is recommended; option (b) keeps an early
+  stint and adds a return. The conflict with the chosen Dec 9 backstory (a move at about 20) is
+  the author's to decide.
+- E4: ID §XI Lacuna → the obstacle he underestimates. The misreading is kept.
+- E5: POV "barely registers" → registers as an obstacle.
+
+**Recommended:** E6 the core imprint line; E7 naming the Rex near-kill finale; E8 "attention, not
+affection" and authorisation.
+
+**Related:** E9 Brightbreak lineage; E10 Kade and Lacuna MT posting lines.
+
+**Also:** the B07 card has a note (Lacuna prompts the posting; open whether the anchor post is
+hers or his).
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 101
+
+===============================================================
+
 END RECOVERY LEDGER

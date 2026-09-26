@@ -41,6 +41,16 @@ New Orleans"*.
 
 ---
 
+> **Author answers, 2026-09-26 ([ruling](../decisions/LOOM_WOUNDS_AND_ELIAS_AUTHOR_ANSWERS_2026-09-26.md) §2):**
+>
+> - **Lacuna nudges Kade to post**, and **Kade thinks MT is private at first.** Link 5 therefore
+>   starts with Lacuna, and Lacuna starts the voice Elias later captures.
+> - **Elias is unnamed in Neon** (handle only); link 4 is his first sight of Kade.
+> - **Some Neon Rebellion splinters become Brightbreak**; others dissolve or stay independent (link
+>   7).
+>
+> Open: whether the anchor post (link 8) is one Lacuna prompts, or a later one of Kade's own.
+
 ## 1. The chain
 
 | # | Link | Status | Source |
