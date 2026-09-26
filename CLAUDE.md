@@ -231,8 +231,9 @@ do not promote or downgrade `seraphine_full.md`.
   **The five milestone-gate decisions are answered** (2026-09-26,
   `decisions/SAGA_MILESTONE_GATE_AUTHOR_RULING_2026-09-26.md`) — three ruled, two leans.
   Next per the packet: B3/B6/B8 event cards, then a proposed grid **copy**; the live grid
-  is untouched until that copy is approved. **B3 Warehouse card done and answered**
-  (`decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`); B6 and B8 cards next.
+  is untouched until that copy is approved. **All three cards done** (2026-09-26): B3 Warehouse
+  (answered, `decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`); B6 Santa Fe and B8 storm
+  wall (`proposals/B06_*`, `proposals/B08_*`, ledger §91), each with author questions open.
 - **Mechanica §39 amended 2026-09-26** by author instruction: Kade has LT access
   (`decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`).
 - **Branches:** `main` is live. `claude/gifted-goodall-st4n7r` and

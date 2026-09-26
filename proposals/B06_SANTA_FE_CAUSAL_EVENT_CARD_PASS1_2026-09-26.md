@@ -1,0 +1,226 @@
+# B06 Santa Fe — causal event card, Pass 1
+
+**Date:** 2026-09-26
+**Status:** PROPOSAL / NON-CANONICAL EVENT CARD. **No episode, beat, grid row, rule or EBCI
+status is changed. No Resonance mechanism is supplied** — D5 holds causal physics, as the
+[B01 observation ruling](../decisions/B01_EVENT_OBSERVATION_AUTHOR_RULING_2026-09-23.md)
+requires for any event card. Nothing marked HYPOTHESIS, PROPOSAL or READING is promoted.
+
+**Why this card:** the [milestone packet](MILESTONE_GATE_AUTHOR_EDITOR_DECISION_PACKET_2026-09-23.md)
+lists B3, B6 and B8 event cards as the step before a proposed grid copy. The
+[B3 Warehouse card](B03_WAREHOUSE_CAUSAL_EVENT_CARD_PASS1_2026-09-26.md) is done and
+[answered](../decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md). This is the second.
+
+**Handle:** `POOL-008` · **Tier:** A, with C components · **Kind:** physical, human,
+informational, institutional · **Placement:** B06; tear at the Act I close, fracture and Tahl's
+death in Act II (RECOVERED, author-pasted). **Milestones touched:** M20 (Tahl dies), M21, M22,
+M23 — read, not edited.
+
+**Sources:**
+- **Author-pasted Neon master**, twice: `sources/…/2025-12-08__Trilogy_Act-Level_Beat_Backup__693652b8.md`,
+  USER turns at ~ll. 317–446 (B5 ~380–398, B6 ~402–437) and ~1070–1246 (consolidated, with
+  provisional EP ranges). The strongest source for sequence.
+- **Tier-1 cards:** `canon/characters/TahlID.md` §IX; `TahlEBCI.md` (channels, Neon, failure
+  conditions, hard constraints); `KadeEBCI.md`.
+- **Prior analysis:** [B06 meta-failure vs Santa Fe separation](../reports/B06_META_FAILURE_VS_SANTA_FE_TEAR_CAUSAL_SEPARATION_2026-09-23.md);
+  [pool](SAGA_EVENT_TIERS_AND_UNSLOTTED_POOL_PASS1_2026-09-23.md) POOL-007/008/009;
+  [milestone overlay](M01_M36_SIDE_BY_SIDE_MILESTONE_WORDING_OVERLAY_2026-09-23.md) M20–M23;
+  [B05 route-access warning model v2](B05_SANTA_FE_ROUTE_ACCESS_WARNING_MODEL_V2_2026-09-23.md);
+  [B05 geography reconciliation](../reports/B05_SANTA_FE_VIENNA_NOLA_EVENT_GEOGRAPHY_RECONCILIATION_2026-09-23.md);
+  ND-030 in the [narrative decision audit](concord-2026/NARRATIVE_DECISION_LEDGER_SOURCE_AUDIT_2026-09-19.md).
+- **Tier D texture, not evidence:** the assistant-written "Santa Fe Scar" location bible,
+  `2025-12-01__Worldbuilding__692dc2fb.md` ~ll. 16885–17060 (ASSISTANT turn from l. 16875).
+
+**Status key:** **TIER-1** stated on a `canon/characters/` card · **RECOVERED** in the
+author-pasted macro · **RECOVERED (D)** in an assistant draft only · **PROPOSAL** from earlier
+analysis or this card · **READING** an observation this card makes from sources · **OPEN**.
+**No 2026 author ruling bears directly on B06.**
+
+---
+
+## 1. The chain, link by link
+
+| # | Link | Status | Source |
+| --- | --- | --- | --- |
+| 1 | Drift maps converge on Santa Fe, repeatedly | **RECOVERED** — B5 A2 | Neon master |
+| 2 | Filaments warn Santa Fe is reaching fracture threshold | **RECOVERED** — B5 A3 | Neon master |
+| 3 | Tahl delivers his hardest MT truth message yet | **RECOVERED** — B5 A3, the beat **before** link 2. Its content, and whether it concerns Santa Fe, are **OPEN** | Neon master |
+| 4 | **B5 close:** Santa Fe corridor destabilizes; collapse imminent | **RECOVERED** | Neon master |
+| 5 | B6 opens: Santa Fe instability rising; AR fails across multiple cities; storms escalate, drift turns violent | **RECOVERED**. AR failure is multi-city, not Santa Fe-specific. Mechanica §23: *"technology is a casualty, not a carrier"* | Neon master |
+| 6 | **Filament warnings go unheeded** | **RECOVERED**. Who failed to heed them, and what they would have done, is **OPEN** | Neon master |
+| 7 | Manufactured-meta failures begin | **RECOVERED**. **Not a cause of the tear**: they precede it, and no causal edge is shown (separation report) | Neon master |
+| 8 | **B6 Act I close:** the Santa Fe corridor begins tearing | **RECOVERED** | Neon master |
+| 9 | **Act II:** the corridor fractures; storms make landfall (*"at swarm level"* in the consolidated version) | **RECOVERED** | Neon master |
+| 10 | Filaments fight to stabilize survivors | **RECOVERED** | Neon master |
+| 11 | **Tahl is at the rupture** | **TIER-1** — *"dies at Santa Fe rupture (Book 6)"*. Why he is there is **OPEN** | TahlID §IX; TahlEBCI |
+| 12 | **Tahl enters full VT slip** (*"Silence's Intent spark"*) | **RECOVERED**. TahlEBCI: VT access is *"partial, accidental … triggered by cumulative pressure + proximity"* | Neon master; TahlEBCI |
+| 13 | **Tahl dies; MT goes silent** | **RECOVERED** (both pastes) + **TIER-1:** *"VT contact occurs late and is fatal"*; *"cannot survive prolonged VT exposure"*; death is *"not punishment, not destiny, not sacrifice chosen knowingly … systemic consequence"* | Neon master; TahlEBCI; ND-030 |
+| 14 | Choirless violence begins in the aftermath | **RECOVERED** | Neon master |
+| 15 | Act II close: *"world reels; emotional silence spreads"* | **RECOVERED** | Neon master |
+| 16 | Act III: Rex and Filament teams extract survivors; **Kade rises as new MT voice-in-absence** | **RECOVERED**; M23 places the handoff in B6 EP | Neon master; grid M23 |
+| 17 | Santa Fe becomes a lasting **scar** | **TIER-1 by implication** (the cards say *rupture*, and Mechanica §34 defines Rupture as *"permanent scar creation"*) · **RECOVERED (D)** as "Santa Fe Scar" | TahlID; Mechanica §34; Dec 1 bible |
+
+**What the chain is made of.** The sequence (links 1–10, 14–16) is author-pasted and consistent
+across both pastes. **Tahl's death (11–13) is fixed more firmly than anything on the Warehouse
+card had been before its rulings**: Tier-1 cards give its place, its trigger and its nature.
+What is open is the physical event itself, and why Tahl is there.
+
+---
+
+## 2. Findings
+
+### A. Tahl's death is VT exposure, not a crush — per his own cards
+
+The grid's M20 note still cites *"shielding a child on a collapsing transit platform"* (older
+Notion, NOLA). The overlay already retires that geography. **The Tier-1 cards go further than the
+overlay did:** *"VT contact occurs late and is fatal,"* *"cannot survive prolonged VT exposure,"*
+and his VT access is *"triggered by cumulative pressure + proximity."* Read together, **he dies of
+prolonged VT contact at the rupture**, which his pressure and his proximity bring on. The overlay
+left *"exact injury and VT link"* open. **The link is not open on the cards. Whether a material
+injury also occurs is.**
+
+This also separates the two deaths cleanly. **Baz is crushed** freeing a child (a material
+death, B03). **Tahl is taken by VT** at a rupture (a metaphysical-systemic death, B06). The
+retired transit-platform scene would have had both men die of a collapse while shielding a child.
+**READING:** retiring it removes a duplication as well as a stale geography.
+
+### B. Why is Tahl at Santa Fe? — the Warehouse mirror
+
+The cards put him **at** the rupture (*"proximity"*). No source says why. **READING:** that is the
+structural inverse of the Warehouse. In B03 his post sent **other people** to a site that then
+ruptured, and he was not there. In B06 **he** is at the site. His arc runs from a
+**consequence at a distance** (B03), through remorse (B04) and his *"hardest MT truth message"*
+(B05), to **consequence in person** (B06). Whether he goes to Santa Fe to report, to warn, to
+help evacuate, or for a reason tied to his B04 remorse is **the author's**. The answer decides
+whether link 6 (*"warnings go unheeded"*) is also his failure.
+
+### C. Two books hold the same threat — the escalation needs distinct states
+
+Santa Fe is flagged in B5 A2, warned in B5 A3, *"collapse imminent"* at the **B5 close**, *"instability
+rising"* at the **B6 opening**, *"begins tearing"* at the **B6 Act I close**, and *"fractures"* in
+**Act II**. That is six steps across two books. The consolidated paste allots B6 Act I sixteen
+episode slots between *"collapse imminent"* and *"begins tearing"*.
+
+**The risk:** B6 Act I restates B5's close unless each step is a **different observable state**.
+The words do not settle it. *"Destabilizes"* and *"tear"* are not Mechanica terms. *"Fracture"* and
+*"Rupture"* are rungs 3 and 4 of §34's shard ladder, and the Tier-1 cards say *rupture*.
+**PROPOSAL for the author:** map the six steps onto defined states. A possible map: B5 close =
+sustained Ghostwave-class instability; Act I close = Fracture (*"persistent break,
+environmental deformation"*); Act II = Rupture (*"total failure, violent discharge, permanent
+scar"*). The map is offered, not adopted. D5 still holds what physically changes at each rung.
+
+### D. A Tier-1 conflict on Tahl's Echo — recorded, not resolved
+
+`TahlEBCI.md` restricts Tahl's Echo: appearances limited to *"clarity thresholds, Intent-aligned
+moments; penultimate chapter only (Book 9)"*; *"Echo has no agency, only guidance."* The grid has
+**M22** (Echo caught in VT, **B6 A3**), **M27** (Echo shows Intent, *"an agent again"*, **B7 A3**)
+and **M36** (Echo dissolves, **B9 EP**). The Dec 1 draft adds a first Echo flicker in Loom at
+Santa Fe. **Each conflicts with the card's "penultimate chapter only".** M27's "agent again"
+also conflicts with *"no agency."* The milestone review hedged M27's agency but did not cite
+the card.
+
+Two readings, for the author. Neither is chosen here:
+
+1. **The card governs appearances on the page.** M22 is an off-page state (the Echo persists), not
+   an appearance. M27 and M36 must move to, or merge into, the B9 penultimate chapter.
+2. **The card is older than the grid rows,** and the grid's Echo arc supersedes it. The card needs
+   amending.
+
+This matters for B6 only as far as M22 does: **does the Echo's persistence show on the page in
+B6 A3, or not?**
+
+### E. The Warehouse ruling now has a deadline
+
+The [Warehouse ruling](../decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md) records, hedged,
+that Tahl *"may well not even know Baz's name until much later."* **Tahl dies in B6 Act II.**
+Afterwards his Echo *"has no agency"*, and on reading 1 of finding D it appears only in B9's
+penultimate chapter. So "much later" means **before B06 Act II**, or **never in life**. If never,
+the recognition is either the Echo's, which finding D constrains, or the reader's alone.
+**The author's to choose.** It is flagged because it is easy to lose.
+
+### F. "MT goes silent" is temporary, and consistent with 09-26
+
+MT's silence at Tahl's death (link 13) is followed in Act III by Kade rising as *"voice-in-absence,"*
+and M23 hands MT to Kade in the B6 epilogue. The 09-26 addendum rules that MT continues past the
+Mending with a new role for Kade. **The silence is a gap in authorship, not the end of the
+channel.** Whether it is only that, or also a technical outage (Mechanica: MT *"distorts,
+degrades, fails"* under pressure), is **OPEN**. The two readings would stage very differently.
+
+### G. Santa Fe is the second tier-A scar; it must differ in kind
+
+The Warehouse (B03) and Santa Fe (B06) are both ruptures that leave scars, and both kill a member
+of the truth lineage (*Baz → Tahl → Kade*). The carry-forward check already warns against the
+Warehouse scar producing a repeat collapse in B07. **PROPOSAL:** the difference should be in kind,
+not only in scale. The Warehouse is one building, a crowd drawn in, one material death and one
+anonymous post. Santa Fe is a city corridor, a warned population that did not leave, a
+metaphysical death, and a public voice that goes silent. The sources already support that
+contrast. The card flags it so staging does not blur it.
+
+---
+
+## 3. Physical event fields — mostly open, deliberately
+
+| Field | State |
+| --- | --- |
+| Initial conditions | **RECOVERED:** repeated drift convergence (B5 A2); threshold warning (B5 A3); *"collapse imminent"* (B5 close). **Why Santa Fe** is **OPEN**. The Dec 1 draft's desert, canyon and "ancient strain" texture is Tier D |
+| Medium / coupling | **OPEN.** D5 withholds a mechanism. The Dec 1 draft's *"horizontal rip fractures"* and *"sand-pressure waves"* are candidate imagery, not physics |
+| Objective change | **RECOVERED at macro level:** tear → fracture → landfall storms; survivors needing stabilization and extraction. Structures, routes and casualties are **OPEN** |
+| Interpretation / rival reading | **OPEN.** Rival readings to keep alive: ordinary infrastructure failure under storm load; institutional (Technarc) deployment worsening a local site (separation report, candidate 3); no link between the AR failures and the tear |
+| Limits | **OPEN.** Footprint (downtown, rail corridor, outskirts) and duration are not recovered. The Dec 1 draft's districts (Canyon Road, Museum Hill, Rail Yard/Guadalupe) are Tier D candidates |
+| Cost | **TIER-1:** Tahl's death. **RECOVERED:** survivors needing rescue; Choirless violence; *"emotional silence spreads."* Seraphine near-break, Caro regulating her, Lucien dissociating (Act II beats) are character costs, not physics |
+| Durable evidence | **TIER-1 by implication:** a scar. What a second observer could measure is **OPEN**, as is who holds records of it. The B05 route-access model's custody rules would carry forward |
+
+---
+
+## 4. Typed edges
+
+| From → to | Edge | Certainty |
+| --- | --- | --- |
+| B5 links 1–4 → link 8 tear | **precedes**; a warning that comes true is not a cause | RECOVERED |
+| Link 6 unheeded warnings → link 10 survivors needing rescue | **consequence**, if the warnings concerned evacuation | PROPOSAL |
+| Link 7 meta failures ↔ link 8 tear | **chronological only**; no causal edge shown | RECOVERED (separation report) |
+| Link 11 proximity + pressure → link 12 VT slip | **triggers** | TIER-1 (TahlEBCI) |
+| Link 12 VT slip → link 13 death | **requires**: prolonged VT exposure is fatal | TIER-1 |
+| Link 12 slip ↔ M21 Silence and Hope's first choice | **coincides** (*"Silence's Intent spark"*); whether either causes the other is not stated | RECOVERED; mechanism OPEN |
+| Link 13 → link 16 Kade's voice | **enables**; the absence creates the role | RECOVERED |
+| Link 13 → POOL-009 funeral (B7) | **requires** | RECOVERED (pool) |
+| B03 Warehouse → link 11 | **READING, not an edge:** the B03 consequence at a distance, mirrored by consequence in person | READING |
+
+---
+
+## 5. What would move the open links
+
+**Link 11, why Tahl is there:** does he go to report, to warn, to evacuate, to follow the
+Filament warning, or because of what B03 taught him? Does anyone know he is there? The answer
+decides link 6 and finding B.
+
+**Link 6, the unheeded warnings:** whose warnings, to whom, through what channel? Are Tahl's
+MT messages among them? If so, B5's *"hardest MT truth message"* becomes the warning B6 ignores.
+
+**Links 8–9, the physical event:** which defined state each step reaches (finding C), and at
+least one objective change a second observer could record. D5 governs.
+
+**Link 13's material side:** is there an injury as well as VT exposure, or does he die with his
+body unhurt? Either is consistent with the cards. They would stage very differently.
+
+---
+
+## 6. For the author
+
+1. **Why is Tahl at Santa Fe,** and were the unheeded warnings (link 6) his?
+2. **Does the escalation map onto Mechanica's ladder?** Is the B6 event a Rupture, as the Tier-1
+   cards say, and what separates B5's close from B6's Act I close?
+3. **Tahl's Echo (finding D):** does `TahlEBCI.md`'s *"penultimate chapter only"* govern, or do
+   the grid's M22/M27/M36 supersede it?
+4. **Tahl and Baz's name (finding E):** does he learn it before he dies?
+5. **M20's act:** the packet recommended correcting B6 A3 → **A2**. Both author-pasted versions
+   agree on A2. Confirm, so the proposed grid copy can carry it.
+
+**None blocks the B8 card**, which comes next.
+
+## 7. What this card does not do
+
+It places no episode, writes no beat, edits no grid row (M20–M23 are read, not changed),
+supplies no Resonance mechanism, adopts no Tier D district or imagery, and does not touch EBCI.
+It does not resolve the Echo conflict or the ladder mapping. Every READING, PROPOSAL and OPEN
+remains one.

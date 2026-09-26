@@ -7953,4 +7953,66 @@ END OF ENTRY 90
 
 ===============================================================
 
+# 91. B6 Santa Fe and B8 storm-wall event cards, Pass 1 — 2026-09-26
+
+**Status:** two PROPOSAL cards. No episode, grid row, rule or EBCI status changes. With the B3
+card (§88), this completes the three cards the milestone packet requires before a proposed grid
+copy. The author's answers to the questions below gate that copy.
+
+## 1. B6 Santa Fe (`proposals/B06_SANTA_FE_CAUSAL_EVENT_CARD_PASS1_2026-09-26.md`)
+
+A 17-link chain drawn from the author-pasted Neon master (both pastes agree) and the Tier-1
+Tahl cards. Findings:
+
+- **Tahl's death is prolonged VT contact at the rupture, per his own cards.** `TahlEBCI.md`:
+  *"VT contact occurs late and is fatal"*; *"cannot survive prolonged VT exposure"*; VT access
+  is *"triggered by cumulative pressure + proximity"*; `TahlID.md`: *"dies at Santa Fe rupture."*
+  The milestone overlay had left *"exact injury and VT link"* open. The link is not open on the
+  cards; only a material injury is. Retiring the NOLA transit-platform scene also removes a
+  duplicate of Baz's crush death.
+- **Why Tahl is at Santa Fe is unsourced.** READING: it inverts the Warehouse, a consequence at
+  a distance in B03 and in person in B06.
+- **The Santa Fe threat runs six steps over two books.** B5's close (*"collapse imminent"*) and
+  B6 Act I's close (*"begins tearing"*) need distinct observable states. A mapping onto
+  Mechanica §34's ladder is offered, not adopted.
+- **Tier-1 conflict found:** `TahlEBCI.md` limits Echo appearances to *"penultimate chapter only
+  (Book 9)"* with *"no agency, only guidance"*. Grid M22 (B6), M27 (B7, *"an agent again"*) and
+  M36 (B9 EP) contradict it. The milestone review had not cited the card. Two readings recorded.
+- **The Warehouse ruling's "much later" has a deadline:** Tahl dies in B6 Act II.
+- M20's A3 → A2 correction: both author pastes agree on A2. Put to the author to confirm.
+
+## 2. B8 storm wall (`proposals/B08_STORM_WALL_OPENING_EVENT_CARD_PASS1_2026-09-26.md`)
+
+The packet's minimum scene card for a literal opening, following the author's 09-26 lean.
+Findings:
+
+- **Mechanica §31 constrains it.** *"Crowd density"* escalates weather, so the siege feeds the
+  W4 storm. *"Sudden calm is suspicious,"* so an opening is by rule suspect. That favours a
+  bounded, costly, short opening.
+- **READING:** the opening arrives as Kade reaches his *"misinterpretation threshold"* (B8 A3.4),
+  so Brightbreak could credit it to him. That would give POOL-018 its missing concrete incident
+  and give B9's Brightbreak zenith a cause. **Not proposed:** that Kade causes it.
+- **B8 A3 and B9 A1–A2 restage three beats:** the convoy splits three times, the siege forms
+  twice, and the approach to the chamber happens twice. B9 opens with a *"retreat from NOLA"*
+  after B8 has ended at the swamp. Three readings are recorded: seen-not-entered,
+  forward-team-through, and move-the-opening. The last goes against the author's lean.
+- The Dec 7 **assistant** draft had the wall *forming* at the B8 close. The Dec 8 author paste
+  has it *opening*, and the author paste governs.
+
+## 3. Found in passing: the Loom master's B9 epilogue
+
+The same author-pasted file (~ll. 707–712; again at ~1438) carries a **B9 epilogue, "three days after"**: a
+holochat check-in; Kade writes the first post-Mending MT message; Lacuna presses *"post/enter"*;
+*"they look up at sky — stars 'twinkling in conversation'"*; *"Kade receives LT handshake request
+(Tahl's triangle symbol)."* This bears directly on the 09-26 epilogue ruling: the timeskip, a
+device-borne prompt, and whose reach it is (Tahl's symbol against answer 5's Seraphine). It is
+**not analysed here.** It goes into the export search the author requested next, which records
+it against the rulings.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 91
+
+===============================================================
+
 END RECOVERY LEDGER
