@@ -9474,4 +9474,46 @@ END OF ENTRY 123
 
 ===============================================================
 
+# 124. Hope, Lacuna–Kade and M54 answered — 2026-09-26
+
+`decisions/HOPE_LACUNA_KADE_AND_M54_AUTHOR_ANSWERS_2026-09-26.md`. The author, verbatim: *"1. Yes
+primarily will they won't they, can lean romantic but mostly smolder. No hard boundaries. Biggest
+payoff should be in epilogue, not locked to hand holding. 2. Depends on context not important enough
+to resolve prior to the rest of neon locking. 3. What is your recommendation? Hope: 1- yes 2- yes 3-
+silence stays to power Tahl 4- that would be acceptable 5- wherever best serves the overall saga 6-
+guiding role toward Caro makes sense, similar to Lucien and Silence"*.
+
+**Hope, ruled:**
+
+- The 11-18 Hope Bible stands, bar its origin line.
+- Her early acts toward Tahl are involuntary; M21 stands.
+- **She goes before Silence because Silence stays to power Tahl.**
+- **She guides Caro before the Mending**, as the author's parallel has Silence guide Lucien. With
+  Mira guiding Seraphine, each person who takes a Mending role has a guide beforehand (an
+  observation).
+- **Acceptable:** a last act toward Tahl's echo.
+- **DELEGATED:** her first cry. Working assumption: **Tahl's funeral, the opening of B07**, where the
+  Notion block's *"Black Parade"* and *"death ritual"* lines converge.
+
+**Lacuna–Kade, ruled:**
+
+- Will-they/won't-they; it can lean romantic, mostly smoulder; **no hard boundaries**.
+- The **biggest payoff comes in the B09 epilogue**, not limited to holding hands.
+- This supersedes the 12-04 hand-holding limit.
+- It **conflicts with `canon/pov/lacuna_pov.md`** (line 215 *"not romantic"*; a hard *"Forbidden …
+  confession or payoff"* list). Specific edits are **proposed, not applied**.
+
+**M54:**
+
+- The first-crack question is **deferred** until the rest of Neon is locked; a note is prepended
+  (additive).
+- **Recommended:** remove the M07 setup (a false prerequisite that distorts the derived hooks).
+  Awaiting a ruling.
+
+**Checks:** canon scope 0; 144 self-tests; derive check clean; sources unchanged.
+
+END OF ENTRY 124
+
+===============================================================
+
 END RECOVERY LEDGER
