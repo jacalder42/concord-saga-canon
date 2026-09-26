@@ -126,3 +126,10 @@ are substrate, so they are **flagged, not edited**. Two points need an answer:
 2. Does the B02 brush breach B02's envelope, and so need its own declared exception? Its placement is
    open, so this can wait.
 
+**Answered the same day.** The author: *"yes, reword it"*. The reason now reads *"First VT brush
+Tahl notices in the Veil trilogy"* in all three files. Nothing else changed: the value is still W4,
+the scope is still brief, and the SID is unchanged. The old wording survives in two places. The
+envelope's 09-19 source, `proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md`, is dated
+provenance, so it is not edited. The validator self-test fixture is test data, not a claim. Question
+2 (a B02 exception) still waits on the brush's placement. Ledger §130.
+

@@ -9723,4 +9723,34 @@ END OF ENTRY 129
 
 ===============================================================
 
+# 130. B03 A3 envelope exception reason reworded for two VT brushes — 2026-09-26
+
+**The author:** *"yes, reword it"*. This answers the flag in §129 and in the decision's §5
+(`decisions/MAIN_CAST_LOCATION_AUTHOR_ANSWERS_2026-09-26.md`).
+
+**Changed:** the W4 weather exception at S1.T1.B03.A3.E14. Its `reason` was *"First and only VT
+brush in the Veil trilogy"*. It now reads *"First VT brush Tahl notices in the Veil trilogy"*. The
+change is in:
+
+- `act_overlays/act_overlay_S1_T1_B03_A3.json`, where it is observed;
+- `book_context/book_context_B03.json` and `rules/trilogy_context_T1_veil.json`, which are derived.
+  No tool regenerates the envelope blocks, so these were edited by hand to match.
+
+Nothing else in the exception changed: the value is still W4, the scope is still brief, and the SID
+is unchanged.
+
+**Not changed:**
+
+- `proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md`, the envelope's dated source,
+  which is provenance;
+- the fixture in `tools/test_validate_canon.py`, which is test data.
+
+Whether the B02 brush needs its own exception waits on its placement.
+
+**Checks:** canon scope 0; 144 self-tests; no drift in the book contexts.
+
+END OF ENTRY 130
+
+===============================================================
+
 END RECOVERY LEDGER
