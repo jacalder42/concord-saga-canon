@@ -8690,4 +8690,30 @@ END OF ENTRY 104
 
 ===============================================================
 
+# 105. Correction to §104: Lacuna inspires; Elias politicises from B07 Act III — 2026-09-26
+
+**What was wrong.** §104 recorded *"Lacuna prompts the B07 anchor post"* as ruled, from the
+author's one-word answer *"Lacuna."* That over-read it.
+
+**The author:** *"Lacuna's involvement with Kade and his posting is one of inspiration, the
+splintering and politicized posts is later Elias manipulations. I think Kade is mostly influenced by
+Lacuna in B7, until Elias begins to subvert in act3 etc."*
+
+**What replaced it** (`decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md` §5):
+
+- **Ruled:** Lacuna's part is inspiration; the politicised posts are Elias's.
+- **Lean:** Kade is mostly Lacuna's in B07 until Elias subverts him in Act III.
+- **Reading:** the B07 anchor post and the NOLA break fall in B07 Act III.
+- The B07 card, CLAUDE.md, the decisions index and the wounds ruling are corrected.
+- LacunaEBCI's *"Nudges Kade to post"* (E10) is inspiration, and stands.
+
+**Lesson:** a one-word answer to an either/or question confirms the choice named, not the
+elaboration attached to it. Record the choice, and ask before adding consequences.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 105
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -70,7 +70,7 @@ corrections are set out, as the author asked, in
 ### Consequences for today's cards
 
 - **B07** (`proposals/B07_FUNERAL_POST_AND_NOLA_BREAK_EVENT_CARD_PASS1_2026-09-26.md`):
-  1. Lacuna prompts Kade's first posting.
+  1. Lacuna prompts Kade's first posting: *inspiration* (author redirect, `ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md` §5).
   2. Kade thinks the channel is private.
   3. He learns people are reading and *"takes over"* (author 11-18).
   4. Elias arrives for MT and finds Kade.

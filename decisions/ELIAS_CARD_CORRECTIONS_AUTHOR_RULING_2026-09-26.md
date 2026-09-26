@@ -60,7 +60,7 @@ failure-condition lines. These are consistent with the author.
 
 | Question put | Answer | Status |
 | --- | --- | --- |
-| Is the B07 anchor post one Lacuna prompts, or a later one of Kade's own? | **Lacuna** | **RULED:** **Lacuna prompts the anchor post.** She starts the voice Elias captures, and her prompt is part of the break that follows. This sharpens the foreshadowed argument and her own share of what happens |
+| Is the B07 anchor post one Lacuna prompts, or a later one of Kade's own? | **Lacuna** | ~~Lacuna prompts the anchor post~~. **Corrected by the author the same day** (§5): Lacuna's part is **inspiration**. The splintering, politicised posts are **Elias's later manipulations**. That over-reading of a one-word answer is withdrawn |
 | Which wounds, in what order? | In the earlier chats: *"basically the US sites developed in addition to Santa Fe and Louisiana"* | **Recovery search running**. The sites are to be taken from the source |
 | How does the crew know the wound structure? | *"should be described in earlier chats"* | **Recovery search running**. Also see §4: Tahl's message is now one ruled source |
 | The hard cap and the breathing veil (ledger §101) | *"sounds good in general."* *"there should be quite a bit of conversation"* meant **earlier chats to recover** | The 09-26 ruling's reading (on-page debate) is corrected. **Recovery search running** |
@@ -107,6 +107,37 @@ failure-condition lines. These are consistent with the author.
   Their order is open.
 
 ---
+
+## 5. Author redirect, the same day — Lacuna inspires; Elias politicises
+
+**The author, verbatim:**
+
+> Quick redirect: Lacuna's involvement with Kade and his posting is one of inspiration, the
+> splintering and politicized posts is later Elias manipulations.
+>
+> I think Kade is mostly influenced by Lacuna in B7, until Elias begins to subvert in act3 etc
+
+| Point | Ruled | Status |
+| --- | --- | --- |
+| Lacuna and Kade's posting | **Inspiration.** She inspires and nudges his early posting (consistent with E10) | **RULED** |
+| The splintering, politicised posts | **Elias's later manipulations** | **RULED** |
+| Who shapes Kade in B07 | **Mostly Lacuna, until Elias begins to subvert him in Act III** | **LEAN** (*"I think … etc"*) |
+| §2's "Lacuna prompts the anchor post" | **Withdrawn.** It over-read the one-word answer *"Lacuna"* | Correction |
+
+**Consequences (not new rulings):**
+
+- **B07's anchor becomes a late-book event.** The anchor post that moves people is amplified by
+  Elias (C2). Politicised posting is Elias's work, and his subversion begins in **Act III**. So
+  the post and the New Orleans break (C1) plausibly fall in **B07 Act III**, the first fruit of
+  Elias's influence. **Placement READING, not ruled.**
+- **B07 Acts I–II are Lacuna's.** The funeral she leads, Kade's rise as a voice she inspires and
+  grounds, and Elias present but not yet shaping him. (He sees Kade at the funeral, per the
+  author; seeing him is not yet influencing him.)
+- **The end-of-B07 argument with Lacuna follows naturally.** Elias's Act III subversion produces
+  the politicised post; Lacuna sees it; the argument foreshadows the B08 split.
+- **Unchanged:** `LacunaEBCI.md`'s E10 line (*"Nudges Kade to post"*) is inspiration and stands.
+  The Elias cards' *"undermining her is where the reader first links Elias to Brightbreak"* now
+  has its natural place: B07 Act III.
 
 ## What this ruling does not change
 

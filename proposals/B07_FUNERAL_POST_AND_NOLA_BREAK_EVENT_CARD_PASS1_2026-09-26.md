@@ -49,7 +49,16 @@ New Orleans"*.
 > - **Some Neon Rebellion splinters become Brightbreak**; others dissolve or stay independent (link
 >   7).
 >
-> **Ruled later the same day** ([ruling](../decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md) §2): **Lacuna prompts the anchor post** (link 8). Her prompt is part of the break that follows.
+> **Author redirect, later the same day** ([ruling](../decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md) §5):
+>
+> - **Lacuna's part in Kade's posting is inspiration.**
+> - **The splintering, politicised posts are Elias's later manipulations.**
+> - **Kade is mostly influenced by Lacuna in B07, until Elias begins to subvert him in Act III**
+>   (a lean).
+>
+> An earlier note here, *"Lacuna prompts the anchor post,"* is withdrawn. **Consequence (a
+> reading):** the anchor post (link 8) and the break (link 9) fall in **B07 Act III**.
+> Acts I–II are the funeral and Kade's Lacuna-inspired rise.
 
 ## 1. The chain
 
