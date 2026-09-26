@@ -8991,4 +8991,55 @@ END OF ENTRY 112
 
 ===============================================================
 
+# 113. Proposed milestone grid copy — 2026-09-26
+
+**The author:** *"Then proceed with the proposed grid copy."* This meets the decision packet's
+release criterion: answers 1–5, then the B3/B6/B8 cards, then a copy with original and revised
+wording side by side.
+
+**Written:**
+
+- `proposals/milestones_payoffs_PROPOSED_COPY_2026-09-26.csv`, in the **live schema**, so it can
+  replace the live grid on approval. It passes `check_milestone_grid` with **0 violations**. Each
+  row's notes give its change, basis and authority, and keep the live note (*"Was: …"*).
+- `proposals/MILESTONE_GRID_PROPOSED_COPY_REVIEW_2026-09-26.md`, the side-by-side review.
+
+**Shape:**
+
+- **53 rows**: 36 carried (M29 retired) and **17 new** (M37–M53).
+- **Proposed statuses:** 20 `ruled`, where every element of the description is ruled; 32
+  `proposed`; 1 `retired`.
+- **Veil:** M11 becomes Tahl's coordinates post (B03 A3, before the Warehouse). M12 moves to the
+  **B03 epilogue**.
+- **Neon:**
+  - M20 is Tahl's death at the **end of B06**.
+  - New M38 is the Santa Fe escalation.
+  - M21 gets the author's 11-23 *"first act of agency"* source.
+  - New M37 (Baz's name) and M39 (Tahl's last message).
+- **Loom** is rebuilt on the ruled spine:
+  - B07: the funeral, Elias, Kade's post and the New Orleans break, the departure, the
+    foreshadowed split.
+  - B08: the split, Santa Fe, Kade's complicity, Mound City, Serpent Mound, the fleeting opening.
+  - B09: the NOLA feint, the factions learn the site in A3, the Elias/Rex/Kade flare, the Mending
+    in the 12-07 order, MT continuing, the night-sky LT handshake.
+- **B08 now has four turns.** The site secret holds in every row. M52 puts Loom's most protected
+  beat in the grid.
+
+**Carried, not resolved:**
+
+- M38/M20: a Rupture in B06 Act II against a death at the end of B06.
+- M15: a B04 public Kade voice against his post-Tahl grief diary.
+- M26: the review's objection against the corrected cards' *"only worldwide channel."*
+- M31/M48: the end-of-B08 sequence (deferred by the author).
+- M32, M36, M51, and the M21/M22 merge.
+
+**Not done:** thread pressure is not recalibrated (a separate pass after approval). No episode
+slots; the live grid, rules and validator are unchanged.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 113
+
+===============================================================
+
 END RECOVERY LEDGER

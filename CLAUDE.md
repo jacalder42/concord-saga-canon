@@ -238,7 +238,7 @@ do not promote or downgrade `seraphine_full.md`.
   (answered, `decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`); B6 Santa Fe and B8 storm
   wall (`proposals/B06_*`, `proposals/B08_*`, ledger §91), answered 09-26 with items still open
   (`decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`). **Loom:** spine and anchors
-  ruled; B07 and B08 anchor cards written (ledger §97). **Next: a proposed grid copy.**
+  ruled; B07 and B08 anchor cards written (ledger §97). **Proposed grid copy written 2026-09-26** (`proposals/milestones_payoffs_PROPOSED_COPY_2026-09-26.csv`, review in `proposals/MILESTONE_GRID_PROPOSED_COPY_REVIEW_2026-09-26.md`; ledger §113): 53 rows, 17 new, M29 retired, Loom rebuilt on the spine. **Awaiting author approval; the live grid is untouched.**
 - **`LT_RULES_POST_MENDING.md` §6** has a named exception for the B9 epilogue handshake,
   enabled by Tahl's echo (2026-09-26).
 - **Elias Tier-1 cards corrected 2026-09-26** (E1–E10, author-approved;
