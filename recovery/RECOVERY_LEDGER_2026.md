@@ -9787,4 +9787,49 @@ END OF ENTRY 131
 
 ===============================================================
 
+# 132. ChatGPT's editorial route interpretation, Pass 1, received and reviewed — 2026-09-26
+
+**Received:** `proposals/EDITORIAL_ROUTE_INTERPRETATION_PASS1_2026-09-26.md`. ChatGPT wrote it in
+commit `28d23c0`, against the brief in §131. It is a new file, **and the only file changed**; the
+ledger, `CLAUDE.md`, the grid and the rulings are untouched. The brief's §0 guard held.
+
+**What it proposes**, all as DESIGN:
+
+- **Routes by character.** The main cast is kept in character-owned theaters: Lucien in Vienna in
+  B04; Caro in Chicago in B05; Elisabet in Reykjavík in B04–B06; Rex in Detroit, then Singapore; Tahl
+  itinerant, narrowing toward the Southwest.
+- **B06 → B07.** Staggered arrivals at the funeral after an interval of several days. Only Tahl's
+  body comes from Santa Fe.
+- **B08.** No Reykjavík round trip for Caro and Elisabet.
+- **B09.** Lacuna carries the NOLA feint.
+- **Questions.** Fourteen, ranked, with Q13 (the Santa Fe placement) and Q14 (the warning's
+  originator) correctly held open.
+
+**Reviewed:** `reports/EDITORIAL_ROUTE_INTERPRETATION_PASS1_REVIEW_2026-09-26.md`.
+
+- **Compliance:** met.
+- **Six errors or mislabels:**
+  - Seraphine's B01 swamp visit is misread as her origin and marked FIXED.
+  - Rex's NOLA lean is dropped without being named.
+  - Two claimed author clarifications are not recorded in the repository, one of them a governance
+    statement.
+  - Tahl's Vienna has no source tie.
+  - The epilogue rooftop is marked FIXED; it is recovered and approved, not ruled.
+  - Kade's absence from Veil is marked FIXED; no ruling says so.
+- **Gaps:**
+  - Conflict #6 (Baz's B01 arrival) is not addressed.
+  - Conflict #4 (Lucien and the Riot) is not addressed.
+  - Elias is not routed.
+  - The B04–B06 theaters are not tested against the POV budget.
+- **Supersessions to flag.** Adopting it would supersede one approved placement (the B08 Reykjavík
+  observatory) and two leans (Caro in NOLA in B06; Rex in NOLA in Neon). Each needs a ruling.
+- **Four questions** are added to ChatGPT's fourteen.
+
+**Not changed:** the proposal, and every ruling, grid row, card and context. **Checks:** canon
+scope 0.
+
+END OF ENTRY 132
+
+===============================================================
+
 END RECOVERY LEDGER
