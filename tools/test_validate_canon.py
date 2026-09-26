@@ -762,9 +762,12 @@ class MilestoneGridRatchet(unittest.TestCase):
             rows = list(_csv.DictReader(fh))
         ruled = sorted((r["milestone_id"] for r in rows if r["status"] == "ruled"),
                        key=lambda m: int(m[1:]))
+        # The approved 20, plus M05 and M16, ruled by the author's answers of
+        # 2026-09-26 (decisions/NEON_DESIGN_ROWS_AUTHOR_ANSWERS_2026-09-26.md).
         self.assertEqual(ruled, [
-            "M11", "M12", "M20", "M28", "M33", "M35", "M37", "M39", "M40", "M41",
-            "M42", "M43", "M44", "M46", "M47", "M48", "M49", "M50", "M52", "M53"])
+            "M05", "M11", "M12", "M16", "M20", "M28", "M33", "M35", "M37", "M39",
+            "M40", "M41", "M42", "M43", "M44", "M46", "M47", "M48", "M49", "M50",
+            "M52", "M53"])
         # Retirements need an explicit ruling. M29: the approved copy. M15, M19, M22:
         # the author's clarification of 2026-09-26 (items 3-5), recorded in
         # decisions/NEON_MILESTONE_ARCHITECTURE_AUTHOR_RULING_2026-09-26.md.

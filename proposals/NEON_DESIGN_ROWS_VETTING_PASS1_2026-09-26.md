@@ -291,3 +291,16 @@ Clear the M07 setup.
 
 No grid row, card, rule or book context. Every suggested wording is a proposal. The rows stay
 `proposed`, and the 20 `ruled` rows are untouched.
+
+## 5. Author answers (added the same day)
+
+Questions 1–6 are answered in
+[`decisions/NEON_DESIGN_ROWS_AUTHOR_ANSWERS_2026-09-26.md`](../decisions/NEON_DESIGN_ROWS_AUTHOR_ANSWERS_2026-09-26.md):
+
+- **M05 and M16 ruled.**
+- **M13 and M14** carry the names.
+- **M57** timing delegated to B05 Act III.
+- **Rex** *"possibly both"* Singapore and Detroit.
+
+**Questions 7–11 are still open.**
+

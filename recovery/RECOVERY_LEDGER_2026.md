@@ -9364,4 +9364,37 @@ END OF ENTRY 120
 
 ===============================================================
 
+# 121. Neon design rows: answers 1–6 applied; M05 and M16 ruled — 2026-09-26
+
+**The author, verbatim:** *"1 he rejects them, but he returns to Vienna in grief while his
+relationship with Seraphine is strained, not because the Dominion requests it. Yes he returns to
+Nola before reconnection with Seraphine. 2 whichever timing best fits the saga. 3 yes, 4 name them,
+5 B04, yes. Neon Riot would be an acceptable alternate name. 6 possibly both"*.
+
+Recorded in `decisions/NEON_DESIGN_ROWS_AUTHOR_ANSWERS_2026-09-26.md`.
+
+**Grid** (`grids/milestones_payoffs.csv`; each old description is kept in the row's notes):
+
+- **M05 → `ruled`.** Lucien rejects the Dominion's demand, goes back to Vienna in grief (not at
+  their request), and returns to New Orleans before reconnecting with Seraphine.
+- **M16 → `ruled`.** The Riot of Light, B04 Act III; alternate name *Neon Riot*. The approved B05
+  Act III Riot is superseded as its placement.
+- **M13 and M14**, reworded with the names (Protocol 9 / Han Wei; Ito / Saeko); still `proposed`.
+- **M57**, reworded to follow M05. Its timing was **DELEGATED**: B05 **A3**, the approved placement,
+  kept apart from M56 in A2. Still `proposed`.
+- **M17, M18, M21, M23, M54, M55, M56:** a vetting note is **prepended** to each (additive); nothing
+  else changes. Rex *"possibly both"* is recorded as a lean on M17.
+- **Result:** 22 `ruled`, 31 `proposed`, 4 `retired`.
+
+**The ratchet test** adds M05 and M16 to its ruled list, citing the ruling. B05's book context was
+regenerated with the tool (M57 moved acts).
+
+**Open:** vetting questions 7–11; the suggested wordings for M17, M18, M21, M55 and M56.
+
+**Checks:** canon scope 0; 144 self-tests; derive check clean; sources unchanged.
+
+END OF ENTRY 121
+
+===============================================================
+
 END RECOVERY LEDGER
