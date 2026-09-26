@@ -52,7 +52,7 @@ This is the key distinction missing from the recent compressed saga.
 | first credible outside-NOLA confirmation | **Marrakesh — LIVED remotely observed / REMOTE to NOLA** | local caller/contact; Naima is strongest recurring anchor candidate but caller identity not proven | **D/R function** |
 | comparison/model building | NOLA — POV/open scene ownership | Baz compares Marrakesh notes/timestamps to NOLA observations | **D** |
 | later distributed reports / near-synchrony hypothesis | multiple cities — REMOTE | Filament messages/reports; Baz distinguishes checked evidence from network belief | **D** |
-| Vienna character state | Vienna | separate repo planning note explicitly uses “where Lucien is in Book 2” as example of character-location state | **H strong lead; exact episode/POV not yet recovered** |
+| Lucien B02 location | **NOLA D/H stronger** | recovered Veil structure says **B02 A1 Lucien arrives in NOLA**; Marrakesh evidence packet places him in NOLA during the call. A separate planning note's phrase “where Lucien is in Book 2” does **not** name Vienna and cannot override these sources | **CORRECTED: do not infer B02 Vienna** |
 | Caro/Elisabet | site open | B02 expansion gives negative evidence on exact romance timing | **?** |
 
 ## Interpretation
@@ -71,8 +71,8 @@ The B02 Marrakesh event does **not** require spending flex POV on Naima. Options
 
 Current evidence most strongly supports #2 while protecting Naima for recurrence.
 
-### Lucien/Vienna
-A current planning artifact explicitly cites **Lucien in Book 2** as the example of a character-location state. This is stronger than environment-only evidence but weaker than a recovered episode assignment. Treat **Lucien physically in Vienna during some B02 window** as a high-priority source-recovery target, not yet a lock.
+### Lucien/Vienna — correction after source test
+Pass 2 found stronger evidence against the initial inference. `VEIL_STRUCTURE_2026-09-19.md` says **B02 A1: Lucien arrives in NOLA**, and the B02 Marrakesh packet places him in NOLA during that cross-city investigation. The planning note used in Pass 1 says only “where Lucien is in Book 2”; it does not say Vienna. Therefore **no B02 Vienna attendance is currently established**. Vienna remains Lucien's origin/institutional ecosystem and may reach him through history, records, people or later travel.
 
 # 3. B03 — The Fracture Point
 
@@ -219,7 +219,7 @@ This could naturally approach the historical target without designing to the per
 
 # 9. High-priority forensic questions — Pass 2
 
-1. **Lucien B02:** recover exact evidence for “Lucien is in Vienna in Book 2”: duration, scene functions, return, POV.
+1. **Lucien B02:** **resolved against current inference** — stronger recovered structure has him arriving in NOLA in A1; search only for any later B02 return to Vienna if independently evidenced.
 2. **B04 Vienna:** does Lucien physically return after learning of Baz's death, or does Vienna reach him through records/people?
 3. **Rex B04–B06:** recover book-specific Singapore attendance and whether manufactured-meta scenes are Rex POV, victim POV, institutional view or reports.
 4. **Elisabet B04–B06:** recover actual Reykjavík/field chronology independently of Caro romance summaries.
