@@ -9397,4 +9397,44 @@ END OF ENTRY 121
 
 ===============================================================
 
+# 122. Neon design rows: answers 7–11 applied; M21 ruled (Silence) — 2026-09-26
+
+**The author, verbatim:** *"7 Silence. Earlier chats should have more on Hope's path / 8 possibly B6
+epilogue as foreshadowing for his character, otherwise with Lacuna is fine / 9 I lean Chicago.
+(Previous chats had flatten the saga location environments and much of our recent with ChatGPT was
+reinstating those locations) / 10 I do not recall where m55 happens in the saga timeline / 11 I lean
+toward B5 being the declaration, romantic focus in Veil is Seraphine and Lucien, Caro and Elisabet in
+Neon, and Lacuna and Kade in Loom"*.
+
+Recorded in `decisions/NEON_DESIGN_ROWS_AUTHOR_ANSWERS_2026-09-26.md` §3.
+
+**Grid:**
+
+- **M21 → `ruled`.** Silence collects Tahl's echo: **Silence's** first act of agency, and the first
+  crack in the cycle of hard-cap veils; non-identifiable until the B09 flare.
+- **M23**, reworded as a lean: possibly the B06 epilogue as foreshadowing, otherwise from Lacuna's
+  nudge.
+- **M56**, reworded as a lean: the B05 **declaration**.
+- **M54** and **M55**: a note only.
+  - M54: the Chicago lean. The first-crack-or-lesson question is still open, and the M07 setup is
+    not removed without a ruling.
+  - M55: the author does not recall it; it is a design row, and its placement is open.
+- **Result:** 23 `ruled`, 30 `proposed`, 4 `retired`. The ratchet adds M21.
+
+**Recorded beyond the rows:**
+
+- **Romantic focus by trilogy:** Veil Seraphine–Lucien; Neon Caro–Elisabet; Loom Lacuna–Kade. Read
+  as consistent with the canon will-they/won't-they and *"no payoff outside of holding hands in the
+  epilogue"* (`Critics_Table` 2927); the author is asked to confirm.
+- **Earlier chats flattened locations.** Approved routes from earlier chats (e.g. Layer 5) may
+  reflect that flattening. Conflicts with reinstated locations go to the author.
+
+**Launched:** a recovery search for **Hope's path** (answer 7).
+
+**Checks:** canon scope 0; 144 self-tests; derive check clean; sources unchanged.
+
+END OF ENTRY 122
+
+===============================================================
+
 END RECOVERY LEDGER

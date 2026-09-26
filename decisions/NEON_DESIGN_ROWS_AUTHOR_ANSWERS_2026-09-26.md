@@ -3,8 +3,7 @@
 **Date:** 2026-09-26
 **Status:** CURRENT AUTHOR RULING for the items marked **RULED** below. One item is **DELEGATED**
 (a working assumption the author may override), and one is a **LEAN**. Questions 7–11 of the
-[vetting pass](../proposals/NEON_DESIGN_ROWS_VETTING_PASS1_2026-09-26.md) §4 are **unanswered** and
-stay open.
+[vetting pass](../proposals/NEON_DESIGN_ROWS_VETTING_PASS1_2026-09-26.md) §4 were answered later the same day (§3).
 
 **The author's words, verbatim:**
 
@@ -60,6 +59,54 @@ for most of Book 4 and early Book 5, they admit:"*).
 - **M05:** the Vienna interval's length and content.
 - **M17:** Rex's Singapore-to-Detroit timing.
 - **M16:** the Riot's physical Resonance effects, which need their own event card (D5).
+
+## 3. Answers 7–11, the same day
+
+**The author's words, verbatim:**
+
+> 7 Silence. Earlier chats should have more on Hope's path
+> 8 possibly B6 epilogue as foreshadowing for his character, otherwise with Lacuna is fine
+> 9 I lean Chicago. (Previous chats had flatten the saga location environments and much of our
+> recent with ChatGPT was reinstating those locations)
+> 10 I do not recall where m55 happens in the saga timeline
+> 11 I lean toward B5 being the declaration, romantic focus in Veil is Seraphine and Lucien, Caro and
+> Elisabet in Neon, and Lacuna and Kade in Loom
+
+| # | Row | Answer | Status | Grid |
+| --- | --- | --- | --- | --- |
+| 7 | **M21** | **Silence**: the first act of agency is Silence's | **RULED** | Reworded; **`ruled`**. The 11-23 *"their first act of agency"* is narrowed to Silence. **Task:** recover Hope's path from the earlier chats (running) |
+| 8 | **M23** | Possibly the **B06 epilogue, as foreshadowing** of his character; **otherwise with Lacuna** is fine | **LEAN** (either placement acceptable) | Reworded to carry both; stays `proposed` |
+| 9 | **M54** | **Chicago** | **LEAN** | A note only. **Still open:** is B05 Caro's first crack, or the delegation lesson itself (`CaroID` puts delegation in Loom)? |
+| 10 | **M55** | *"I do not recall where m55 happens"* | **No answer.** M55 is ChatGPT's design row | A note: its B05 A3 placement has only weak support (Layer 6). It is tied to the Santa Fe adjudication (M38/M20) |
+| 11 | **M56** | **B05 is the declaration** | **LEAN** | Reworded as a declaration; stays `proposed` |
+
+### Two statements that reach beyond the rows
+
+**Romantic focus by trilogy** (stated without hedge):
+
+- **Veil:** Seraphine and Lucien.
+- **Neon:** Caro and Elisabet.
+- **Loom:** Lacuna and Kade.
+
+**READING, for the author to confirm:** Loom's focus is the **will-they / won't-they** that canon
+already sets out:
+
+- `canon/pov/lacuna_pov.md`: *"In-saga status: not romantic, not resolved"*, with *"will-they /
+  won't-they potential intentionally seeded (Loom-forward)"*.
+- The author, 12-04 (`Critics_Table` 2927): *"Kade <> Lacuna is our will they / won't they
+  relationship, full of hints and innuendo but no payoff outside of holding hands in the epilogue."*
+- The author, 11-27 (`NS` 7416): *"Kade <> Lacuna is all potential and insinuation, no romantic
+  payoff."*
+
+Read that way, the new statement names Loom's focus without adding a payoff. **Nothing in canon
+changes.**
+
+**Locations were flattened in earlier chats.** The author: *"Previous chats had flatten the saga
+location environments and much of our recent with ChatGPT was reinstating those locations."* So an
+**approved location route from an earlier chat may itself reflect that flattening**. The 11-27 Layer
+5 map is an example: *"Caro → New Orleans → Santa Fe closure"*, *"Elisabet → Vienna → St. Louis →
+Santa Fe map"*. It stays approved (Tier B). Where the geography recovery reinstates a location, as
+with Chicago here, **the conflict is for the author**; neither side wins by default.
 
 ## What this ruling does not change
 
