@@ -8067,4 +8067,71 @@ END OF ENTRY 92
 
 ===============================================================
 
+# 93. Author answers on B06, B08 and the B09 epilogue; `LT_RULES` §6 exception — 2026-09-26
+
+**Status:** records one author-answer document and the rule edit it instructs.
+`decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md` quotes the author verbatim and
+sorts each answer into ruled, recalled, lean or accepted.
+
+## Ruled
+
+- **Tahl's Echo appears once in an identifiable capacity to the cast.** Other echo moments may
+  or may not be his. This answers §91's TahlEBCI-versus-grid conflict in substance.
+- **Tahl learns Baz's name from a news report, before he dies**, and learns why Baz mattered
+  from the protagonists. This closes the name question left by the Warehouse ruling (§89).
+- **Tahl's echo is the LT conduit** that makes LT *"more tangible than VT was."* It reconciles
+  the locked 2025 triangle with the 09-26 "Seraphine reaches out" (§92): the trio reach; the echo
+  carries it to Kade.
+- **Kade's post-Mending role:** Elisabet, Rex and Kade stitch society back together, and Kade
+  focuses on those involved with the rebellion. *Accord* or *Concord* for what grows out of it;
+  the name is open. This answers the 09-26 addendum's *"new role … for Kade."*
+
+## Accepted, recalled, lean
+
+- **Accepted as intent:** the Santa Fe ladder mapping (§91): B5 close = Ghostwave-class;
+  B6 A1 close = Fracture; B6 A2 = Rupture.
+- **Accepted:** an exception in `LT_RULES` §6 for the epilogue handshake, enabled by Tahl's
+  echo. **Applied.** The general rule stands, and §2, §4 and Mechanica §37 were read against it.
+- **Recalled:** Neon pulls at least Tahl, maybe a core group, to the Southwest. The warnings come
+  from VT. **Tahl's soul is caught / collected by Silence.** Mechanica §38 means a VT warning
+  reaches the public only through a person; Tahl or the Filaments as relay is not chosen.
+- **Adopted as working answer:** **Elias claims the B8 opening for Kade**, whether or not Kade
+  caused it. The author leaves the cause open. The packet's and KadeID's guardrails would apply
+  if it was Kade.
+- **Leans:** M20 at the **very end of B06 A2**, with the start of A3 still possible and a
+  decision expected during Neon episode mapping. **The packet's "A3 → A2" correction is
+  therefore not confirmed.** The epilogue timeskip leans to **a few days**. Mending-site material
+  goes in "Act III", the opening "perhaps at the very end of Act II".
+
+## Direction
+
+*"We need to spend a good bit of time developing Loom … it has been spreading thin."* Added to
+CLAUDE.md §9 step 1.
+
+## Open, put to the author
+
+1. **Which book's "Act III / end of Act II"?** B09 is the better textual fit, and it would move
+   the opening out of B08 (close to the B8 card's reading 3). B08 is the other reading.
+   **Nothing is moved until answered.**
+2. **Which Echo moment is Tahl's one identifiable appearance?** The B09 penultimate-chapter flare
+   is the natural candidate (TahlEBCI; Loom master). The epilogue triangle and M36's farewell
+   would then need to be something other than appearances.
+3. **"More tangible than VT"** against `LT_RULES`' soft language and §4 (*"cannot transmit
+   information"*). This bears on the held Post-Mending era file.
+4. **An observation on the name:** *Concord* is already the protagonists' in-world group
+   (`LacunaID.md`) and the saga's title.
+
+## Where it was applied
+
+- The B6 and B8 cards (§6 and §4 marked answered).
+- The Warehouse and LT/epilogue rulings (dated follow-up notes).
+- The decisions index; CLAUDE.md §4.1, §8 and §9.
+- **The grid is untouched.** These answers go into the proposed grid copy, which is next.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 93
+
+===============================================================
+
 END RECOVERY LEDGER

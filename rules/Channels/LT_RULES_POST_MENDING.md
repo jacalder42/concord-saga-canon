@@ -102,6 +102,13 @@ MT may appear:
 This is a byproduct of environmental filtration,
 not LT influence on technology.
 
+**Named exception (author ruling 2026-09-26,
+`decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md` §3.1):** the Book 9 epilogue
+LT handshake reaches Kade's device as a message request. **Tahl's echo enables it**, acting as
+the conduit on Kade's side. The exception belongs to the echo. It does not let LT ride MT
+hardware in general, and the rule above stands for every other case. The author: *"the LT rule
+was generalized. The intent is that Tahl's echo/soul is what enables the handshake to occur."*
+
 ---
 
 ## 7. FAILURE & MISUSE

@@ -147,6 +147,19 @@ the timeskip, who reaches out, and the device. See
 [`recovery/B09_EPILOGUE_KADE_LACUNA_SOURCE_RECOVERY_2026-09-26.md`](../recovery/B09_EPILOGUE_KADE_LACUNA_SOURCE_RECOVERY_2026-09-26.md).
 **This note changes nothing ruled above.**
 
+**Answered later the same day**
+([`B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`](B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md) §3):
+
+- **Timeskip:** a few days (lean).
+- **Who reaches out:** Tahl's echo is the conduit, so the trio reach and the echo carries it
+  (ruled).
+- **The device:** `LT_RULES` §6 gains a named exception for the handshake, enabled by Tahl's
+  echo.
+- **Kade's role:** reintegrating the rebellion's people, alongside Elisabet and Rex (ruled).
+
+Two open items in §3 above are now closed: whether the prompt arrives through a device, and
+what it is. It is a message request enabled by the echo.
+
 ## What this ruling does not change
 
 The grid (`milestones_payoffs.csv` M35 stays superseded as recorded 2026-09-26); `MT_RULES.md`

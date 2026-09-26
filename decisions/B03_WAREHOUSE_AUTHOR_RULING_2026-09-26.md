@@ -134,6 +134,13 @@ recommendation yet.
 
 ---
 
+## Later the same day
+
+**When Tahl learns Baz's name is now ruled.** He learns it **from a news report, before he dies
+in B06**, and learns **why Baz mattered from the protagonists**
+([`B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`](B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md) §1.4).
+The report's date and outlet are open, and so is whether it is one of the epilogue reports in §1.
+
 ## What this ruling does not change
 
 The Warehouse's physical fields (card §3) stay open; **D5 holds causal physics**. No episode is

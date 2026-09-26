@@ -171,7 +171,19 @@ factions conclude (finding B is a candidate).
 
 ---
 
-## 4. For the author
+## 4. For the author — answered 2026-09-26
+
+Answered the same day. Answers and scope are in
+[`decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`](../decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md) §2:
+
+- **Elias claims the opening for Kade**, whether or not Kade caused it (finding B, adopted; the
+  cause is left open).
+- **Loom needs substantial development.**
+- Mending-site material belongs in Act III, the opening perhaps at the very end of Act II (a
+  lean). **Which book is not stated** (ruling §2.2). Finding C is **not** resolved until it is.
+
+The original questions:
+
 
 1. **Finding C: seen-not-entered, forward-team-through, or move the opening?** This is the
    question that keeps B8 from taking B9's ending.

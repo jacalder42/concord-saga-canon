@@ -126,9 +126,10 @@ Each line points at where the evidence is. Ledger § numbers are in
 | **`MT` vs the infrastructure layer** (options A/B/C). Do not rename `MT_RULES.md` until ruled. Note: `canon_rules.json` `_naming_note` calls Mortal Technology retired; the rulings hold it open — contradiction recorded, not resolved | `recovery/CHANNEL_NAMES_RULING_2026-09-19.md` §2; ledger §20 |
 | **Post-Mending `res_states`** (the `LT` omission); Post-Mending era file held | ledger §18; `proposals/concord-2026/CHANNELS_AND_RESONANCE_STATES_2026-09-19.md` §4 |
 | **Closed vs spaced** `LuminousThread` / `MissingThread` | ledger §20 |
-| **Book 9 epilogue** — timeskip. **Ruled 2026-09-26:** LT is the epilogue's final beat, Seraphine reaching out to survivors; **MT continues** under a new MT-initialled name (*MendedThread*, *MortalThreads* are examples, not a choice) with a new role for it and for Kade — role unspecified. M35's wording is superseded. **Also ruled:** a Lacuna–Kade night-sky scene closing on an LT prompt, Möbius with the B01 prologue. **Recovered 09-26:** it is the author's own locked 2025-11-29 design. Every author statement from 11-30 on puts it **days** after the Mending (6–12 months came from an assistant page). In that design the reach is **Tahl's triangle** on Kade's **device**. Timeskip, who reaches out, and the device vs `LT_RULES` §6 are put to the author | ledger §27.3, §89, §92; `recovery/B09_EPILOGUE_KADE_LACUNA_SOURCE_RECOVERY_2026-09-26.md`; `decisions/SAGA_MILESTONE_GATE_AUTHOR_RULING_2026-09-26.md`; `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md` |
-| **LT access beyond Kade.** §39 **amended 2026-09-26**: Kade has access, by named exception ("at least Kade"). Still open: other protagonist survivors, what access consists of, and whether an LT "prompt" squares with `LT_RULES_POST_MENDING.md` (*"never … a voice, command, or instruction"*) | `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`; ledger §89 |
-| **B03 Warehouse** — which of the two post stagings (supplemental text or effect-only); whether the reported dead first responder is Baz or a second death; when Tahl learns Baz's name. Links 5–7 are **delegated** to a working assumption the author may override | `decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`; ledger §89 |
+| **Book 9 epilogue** — timeskip. **Ruled 2026-09-26:** LT is the epilogue's final beat, Seraphine reaching out to survivors; **MT continues** under a new MT-initialled name (*MendedThread*, *MortalThreads* are examples, not a choice) with a new role for it and for Kade — role unspecified. M35's wording is superseded. **Also ruled:** a Lacuna–Kade night-sky scene closing on an LT prompt, Möbius with the B01 prologue. **Recovered 09-26:** it is the author's own locked 2025-11-29 design. **Answered 09-26:** the timeskip leans to **a few days**. **Tahl's echo is the conduit** for the trio's reach, ruled. The handshake reaches Kade's device through a **`LT_RULES` §6 exception**. **Kade reintegrates the rebellion's people** alongside Elisabet and Rex, ruled. Still open: the timeskip (a lean, not ruled); the entity's name (*Accord* / *Concord*); whether the epilogue triangle counts as Tahl's one identifiable Echo appearance | ledger §27.3, §89, §92, §93; `decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`; `recovery/B09_EPILOGUE_KADE_LACUNA_SOURCE_RECOVERY_2026-09-26.md`; `decisions/SAGA_MILESTONE_GATE_AUTHOR_RULING_2026-09-26.md`; `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md` |
+| **LT access beyond Kade.** §39 **amended 2026-09-26**: Kade has access, by named exception ("at least Kade"). Still open: other protagonist survivors; what access consists of (KadeEBCI's *"(no agency)"*); the author's *"more tangible than VT"* against `LT_RULES`' softer language | `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`; ledger §89 |
+| **B03 Warehouse** — which of the two post stagings (supplemental text or effect-only); whether the reported dead first responder is Baz or a second death. (Tahl learns Baz's name from a news report before B06, ruled 09-26.) Links 5–7 are **delegated** to a working assumption the author may override | `decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`; ledger §89, §93 |
+| **B06 / B08 remaining** — M20's act (lean: the very end of B06 A2; may wait for Neon episode mapping); which Echo moment is Tahl's one identifiable appearance, and what that makes of M27/M36 and the epilogue triangle; **which book's "Act III / end of Act II"** the author meant for Mending-site material and the storm-wall opening (B09 is the better textual fit); whether Kade actually caused the opening | `decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`; ledger §93 |
 | **Four author locks living only in proposals** (Baz death timing, Baz name, Tahl B01–B03 absence, VT contact ladder) — unmigrated. Tahl's **naming in the B3 epilogue** now has an author source (2026-09-26); *"not a primary character in B01–B03"* is still paraphrase | ledger §26.6 |
 | **Which of two conflicting recovered versions wins** (ND-045 proposes a rule; ledger §74 §4 shows recency alone fails) | ledger §26.12 |
 | **Cross-project provenance** (Mara Niht's tier; whether Eli Stone integrates; where Mara's lyric corpus is kept) | ledger §66–§69; `recovery/MARA_NIHT_RECOVERY_2026-09-21.md` §5 |
@@ -233,7 +234,11 @@ do not promote or downgrade `seraphine_full.md`.
   Next per the packet: B3/B6/B8 event cards, then a proposed grid **copy**; the live grid
   is untouched until that copy is approved. **All three cards done** (2026-09-26): B3 Warehouse
   (answered, `decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`); B6 Santa Fe and B8 storm
-  wall (`proposals/B06_*`, `proposals/B08_*`, ledger §91), each with author questions open.
+  wall (`proposals/B06_*`, `proposals/B08_*`, ledger §91), answered 09-26 with items still open
+  (`decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`). **Next: a proposed grid
+  copy.**
+- **`LT_RULES_POST_MENDING.md` §6** has a named exception for the B9 epilogue handshake,
+  enabled by Tahl's echo (2026-09-26).
 - **Mechanica §39 amended 2026-09-26** by author instruction: Kade has LT access
   (`decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`).
 - **Branches:** `main` is live. `claude/gifted-goodall-st4n7r` and
@@ -261,7 +266,9 @@ judgments are provisional until the levels above them are settled.
    humour; character bandwidth and recurrence; place recurrence; antagonist/faction pressure;
    Mechanica/Resonance escalation; reveals, mysteries, anticipation and payoffs; trilogy
    transitions. **Especially: strengthen B07–B08 without stealing B09's ending** — B08 still
-   has no recovered independent non-finale turn. **Starts as a reconciliation**: a large body
+   has no recovered independent non-finale turn. **Author, 2026-09-26:** *"we need to spend a
+   good bit of time developing Loom. We essentially figured out the last couple episodes and it
+   has been spreading thin."* **Starts as a reconciliation**: a large body
    of 09-19 → 09-24 saga work exists (reading map below). Read it before generating.
 2. **Lock saga architecture enough for downstream work** — major obligations, turns,
    escalation curves and protected negative space stable enough that expanding one book

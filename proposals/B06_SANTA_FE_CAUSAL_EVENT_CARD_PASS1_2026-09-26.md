@@ -205,7 +205,22 @@ body unhurt? Either is consistent with the cards. They would stage very differen
 
 ---
 
-## 6. For the author
+## 6. For the author — answered 2026-09-26
+
+Answered the same day. Answers and scope are in
+[`decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`](../decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md) §1. In short:
+
+1. Neon pulls at least Tahl, maybe a core group, to the Southwest (recalled intent). The
+   warnings come from VT (recalled intent).
+2. The ladder mapping matches intent.
+3. Tahl's Echo appears **once** in an identifiable capacity to the cast. Other echoes may or may
+   not be his (ruled). Tahl's soul is caught / collected by Silence (recalled).
+4. Yes: he learns Baz's name from a news report, and why Baz mattered from the protagonists
+   (ruled).
+5. **Not confirmed.** End of A2 or start of A3; lean: the very end of A2.
+
+The original questions:
+
 
 1. **Why is Tahl at Santa Fe,** and were the unheeded warnings (link 6) his?
 2. **Does the escalation map onto Mechanica's ladder?** Is the B6 event a Rupture, as the Tier-1
