@@ -7710,4 +7710,67 @@ END OF ENTRY 86
 
 ===============================================================
 
+===============================================================
+
+# 87. MT continues after the Mending; LT access conflicts with Mechanica §39 — 2026-09-26
+
+Addendum to `decisions/SAGA_MILESTONE_GATE_AUTHOR_RULING_2026-09-26.md`. The author, verbatim:
+*"MT after mending = MendedThread, MortalThreads, etc same initials, but embracing a new role
+for it and for Kade"* and *"I think the protagonist survivors are able to use LT much like
+Tahl and VT."*
+
+## 1. MT survives, and M35 is now superseded twice over
+
+**MT continues past the Mending** under a new MT-initialled name, with a new role for the
+channel and for Kade. This answers the half of §27.3 that asked whether *"MT→LT completes"* in
+the Book 9 epilogue: **it does not, because MT does not become LT.** *MendedThread* and
+*MortalThreads* are examples, **not a choice**, and the new role is not specified.
+
+M35 read *"MT is renamed LT; Kade's stewardship completes."* That is now superseded on LT's
+identity (§86) and on MT's fate (here).
+
+## 2. My §86 said the LT answer matched Mechanica. With the addendum, it does not
+
+§86 recorded answer 5 as agreeing with `Mechanica-v4.md` §39: *"LT … is perceivable only by
+ascendants … civilians perceive only calm or clarity."* **That was true of answer 5 on its
+own.** The addendum says the **non-ascended** protagonist survivors can **use** LT, the way
+Tahl used VT. **The two statements now conflict.** The agreement holds only for ordinary
+civilians.
+
+**Not resolved.** Mechanica is authoritative until its line-by-line review, and §4 of the
+working agreement forbids picking a winner. The ruling puts three readings to the author:
+**amend §39** so named survivors have access, as VT admits Tahl; **reception, not access**,
+where §39 stands and survivors experience LT only through an ascendant reaching them; or
+**widen "ascendant,"** which touches the trio question in §27.2. Reception fits the author's
+words least well, since *"use LT much like Tahl and VT"* implies the survivor acts.
+
+**The author's analogy carries structure worth keeping visible.** VT is the channel between
+Silence and Hope that a mortal, Tahl, reached although it was not built for him. Read the same
+way, LT is the channel the ascended trio occupy that the surviving protagonists can reach. The
+symmetry is the author's. Whether §39 is amended to carry it is his call.
+
+## 3. The pattern from §86, again, one day later
+
+§86 noted that the packet's LT options omitted the Mechanica reading because they came from a
+single source layer. **The same thing happened in reverse here:** I read the answer through
+Mechanica and called it a match, and the author's next message showed that §39 is itself one
+layer of the intent. **A match with the rule file is evidence, not confirmation**, while the
+rule file is still awaiting its own review.
+
+## 4. Propagation
+
+`CLAUDE.md` §4.1: the Book 9 epilogue row records MT's continuation and supersedes M35. A new
+row carries the §39 tension and its three readings. **Unchanged:** the grid, `Mechanica-v4.md`,
+`MT_RULES.md` (still held on the infrastructure question), and the closed-vs-spaced naming
+question. *MendedThread* is written closed in the author's message, which is evidence, not a
+ruling.
+
+## 5. Verification
+
+Canon scope **0**; self-tests **144**; source verifier **PASS** at 138.
+
+END OF ENTRY 87
+
+===============================================================
+
 END RECOVERY LEDGER

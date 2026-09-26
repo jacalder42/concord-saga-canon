@@ -111,3 +111,58 @@ original and revised wording side by side.** Step one is now done.
 **Not unlocked:** any edit to the live grid, the B01 order or EBCI. M35's row stays as written
 in `grids/milestones_payoffs.csv` until a proposed copy is reviewed and approved. **Leans 3
 and 4 do not change any row's status.**
+
+---
+
+## Addendum, 2026-09-26 — MT after the Mending, and who can use LT
+
+**The author's words, verbatim, extending answer 5:**
+
+> MT after mending = MendedThread, MortalThreads, etc same initials, but embracing a new role
+> for it and for Kade
+>
+> I think the protagonist survivors are able to use LT much like Tahl and VT
+
+| Point | Ruled | Not ruled |
+| --- | --- | --- |
+| **MT after the Mending** | **RULED: MT continues past the Mending.** It keeps the initials **MT** under a new name and takes on **a new role, for the channel and for Kade.** This answers the part of ledger §27.3 that asked whether MT survives | **The name.** *MendedThread* and *MortalThreads* are examples ("etc"), **not a choice.** **The new role**, for MT and for Kade, is not specified |
+| **Who can use LT** | **Author intent, hedged ("I think"): the protagonist survivors can use LT much as Tahl used VT** | Who counts as a "protagonist survivor"; what "use" means; whether it is two-way; **how it squares with Mechanica §39** (below) |
+
+### This corrects part of how answer 5 was recorded
+
+Answer 5 was recorded as fitting Mechanica §39: *LT is perceivable only by ascendants,
+and civilians perceive only calm or clarity.* **The addendum changes that.** On the author's
+stated intent, the non-ascended protagonist survivors can **use** LT. §39 says only ascendants
+can **perceive** it. **The addendum and §39 now disagree.**
+
+Recorded, not resolved: §4 of the working agreement says not to pick a winner, and
+`Mechanica-v4.md` is authoritative until its line-by-line review. **Three readings, for the
+author:**
+
+1. **Amend §39.** LT access extends to named protagonist survivors, the way VT admits Tahl as
+   an exception. §39's *"civilians perceive only calm or clarity"* still holds for everyone
+   else.
+2. **Reception, not access.** The survivors experience LT through an ascendant reaching them,
+   as Seraphine does in answer 5, without independent access. §39 stands as written. This fits
+   the ruling less well: "use LT much like Tahl and VT" implies the survivor acts.
+3. **Widen "ascendant."** The Mending changes some survivors enough to count. That touches
+   who ascends, which ledger §27.2 records as the trio.
+
+**The author's analogy is itself informative.** VT is *"the private channel between Silence
+and Hope that Tahl discovers."* Tahl is a mortal who reached a channel not built for him.
+Read the same way, LT is a channel the ascended trio occupy that the surviving protagonists
+can reach. That symmetry is the author's, not an addition here. **Whether §39 gets amended to
+carry it is the author's decision.**
+
+### What is superseded, and what is not
+
+- The **decisions/README** index line for this ruling and ledger §86 describe answer 5 as
+  *matching* Mechanica. That remains true of answer 5 alone. **With the addendum, the match
+  holds only for civilians.**
+- **M35 stays superseded** on LT's identity, and now on MT's too: MT does not become LT. It
+  continues under an MT-initialled name.
+- **Unchanged:** the grid, `Mechanica-v4.md`, `MT_RULES.md` (still held pending the MT
+  infrastructure question), and the closed-vs-spaced naming question. *MendedThread* is
+  written closed in the author's message, which is evidence for that question, not a ruling
+  on it.
+
