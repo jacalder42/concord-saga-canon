@@ -8915,4 +8915,40 @@ END OF ENTRY 110
 
 ===============================================================
 
+# 111. Mira and Silence and Hope's age ruled — 2026-09-26
+
+`decisions/MIRA_AND_SILENCE_HOPE_ORIGIN_AUTHOR_RULING_2026-09-26.md`. The author answered §110's
+questions: *"1- B 2- yes 3- guide to Seraphine before the Mending 4- Silence and Hope are much older
+than the hard-cap. They've gone there many cycles of replacing it."*
+
+**Ruled:**
+
+- **Mira is a previous Seraphine-type who helped Silence and Hope make the current hard cap.**
+  Hypothesis A (the B01 child) is not taken; the child stays unnamed.
+- **Only Seraphine perceives her.** Tahl's echo remains the only one identifiable to the cast.
+- **Her function is "guide to Seraphine before the Mending."** Lucien and Caro remain the guides;
+  Tahl's echo remains the conduit.
+- **Silence and Hope are much older than the hard cap** and have replaced it over many cycles. Item 4
+  was not asked. It settles contradiction 3 of the hard-cap recovery (§107): the *"cycle of hard cap
+  veils"* side stands.
+
+**Superseded:** the ChatGPT *Character Ascension Canon v1* line *"Silence and Hope are ancient
+metaphysical constructs created by the original hard-cap Veil"* (`PC` 182257; saved to project
+memory on a weak *"Proceed"*; repeated in `2025-12-03__Project_memory`). Checking it showed that the
+Notion VT section (`NB` 29565) says **the VeilThread**, not Silence and Hope, was created by the
+original hard-cap Veil. That is not contradicted, but it is flagged: which cap is "original" across
+many cycles is open.
+
+**Open:** Mira's fate at the Mending; when and how she appears; Silence and Hope's nature (M21's
+held *"constructs built without agency"*); earlier cycles; a cast registry entry for Mira.
+
+**Also:** a pointer added to the chain ruling §4; the decisions index and the CLAUDE.md §4.1 Loom
+row updated. No card, registry row, rule file or grid row changed.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 111
+
+===============================================================
+
 END RECOVERY LEDGER

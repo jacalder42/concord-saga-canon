@@ -153,6 +153,9 @@ The **"Guide"** word is used in different senses.
   Ren and local Reykjavík), and `cast_registry.csv` lists *"portions of Mira"* under Arianna. The
   flattening probably happened through that consolidation, **which conflated two Miras.** A source
   recovery of the echo-guide Mira can be run if wanted.
+- **Answered the same day** ([Mira ruling](MIRA_AND_SILENCE_HOPE_ORIGIN_AUTHOR_RULING_2026-09-26.md)):
+  Mira is a previous Seraphine-type who helped make the current hard cap, perceived only by
+  Seraphine, and her function is *"guide to Seraphine before the Mending."*
 
 ## What this ruling does not change
 
