@@ -9676,4 +9676,51 @@ END OF ENTRY 128
 
 ===============================================================
 
+# 129. Main-cast locations: follow-up answers; M09 reworded for two VT brushes — 2026-09-26
+
+**The author:** *"1 before B01 but only visible after E03, 2 keep as visit, 3 starts in Detroit with
+an eventual trip to Singapore, 4 yes"*. These answer the four follow-ups in
+`decisions/MAIN_CAST_LOCATION_AUTHOR_ANSWERS_2026-09-26.md` §4. They are recorded in its new §5.
+
+**Ruled:**
+
+- **Lucien** is sent from Vienna before B01 begins, and is first seen after E03. This matches
+  v4.1b, where he first appears at E04. Conflict #1 is resolved.
+- **Elisabet**'s E23 entrance stays a visit; she arrives to stay late in B01 or in B02.
+- **Rex** starts in Detroit, and makes an eventual trip to Singapore whose timing is open. RexID
+  stands, and #20 is resolved.
+- **Tahl's two VT brushes** are confirmed, and #18 is resolved:
+  - in B02, Silence and Hope notice it and Tahl does not;
+  - in B03, Tahl notices.
+
+**Applied (the author approved the rewording; each change keeps the old text):**
+
+- `grids/milestones_payoffs.csv` M09: the description now reads *"first noticed"* and names the B02
+  brush. The note records the author's answer and the old description. The status stays `proposed`.
+- `proposals/B02_EPISODE_ARCHITECTURE_PASS2_2026-09-26.md`: the *"no B02 Tahl VT contact"*
+  safeguard is replaced by the B02 brush.
+- `proposals/B03_EPISODE_ARCHITECTURE_PASS2_2026-09-26.md`: *"first/only"* now reads *"first …
+  he notices"*. It states the same claim.
+
+**Corrections:**
+
+- The location register (`recovery/MAIN_CAST_LOCATION_REGISTERS_PASS1_2026-09-26.md` #1) says
+  *"NOLA from E03 (v4.1b …)"*. That is v3 numbering; in v4.1b Lucien first appears at E04. The file
+  is not edited; the correction is recorded here and in the decision's §5.
+- Entry 128 and the decision's §1 repeat the same number. The decision's §5 corrects it.
+
+**Flagged, not edited:**
+
+- The W4 exception at B03 A3 E14 still gives its reason as *"First and only VT brush in the Veil
+  trilogy"*. The string is in `act_overlays/act_overlay_S1_T1_B03_A3.json`, and is derived into
+  `book_context/book_context_B03.json` and `rules/trilogy_context_T1_veil.json`. It is substrate, and
+  it was not in the question put.
+- Whether the B02 brush needs its own envelope exception.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged; book contexts show no drift.
+
+END OF ENTRY 129
+
+===============================================================
+
 END RECOVERY LEDGER

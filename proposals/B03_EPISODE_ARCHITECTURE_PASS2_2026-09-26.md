@@ -84,7 +84,7 @@ POV distribution remains diagnostic. Baz and Seraphine must feel dominant; Lucie
 **Working 2–3 units; exact unit convention remains governed separately**
 
 1. **Aftermath / remorse:** anonymous MT author reviews mortal reports. His accurate post changed behavior; he did not know Baz was there. Unexpected bystanders/hampered response/dead rescuer become ethical weight, not false sole culpability.
-2. **Reveal + brush:** disengaging from feeds/screens and looking outward/upward, the narrative names **Tahl Morgan** and gives him the first/only Veil-era VT brush. Bounded accidental contact; no device transmission, dialogue, prophecy, power or Intent spark.
+2. **Reveal + brush:** disengaging from feeds/screens and looking outward/upward, the narrative names **Tahl Morgan** and gives him the first Veil-era VT brush he notices (an earlier B02 brush went unnoticed by him, though Silence and Hope noticed it; author, 2026-09-26, `decisions/MAIN_CAST_LOCATION_AUTHOR_ANSWERS_2026-09-26.md` §5; this read "the first/only Veil-era VT brush" until then). Bounded accidental contact; no device transmission, dialogue, prophecy, power or Intent spark.
 3. **Ethical return / horizon:** Tahl publishes only what mortal evidence supports. Southwest/Santa Fe remains direction/problem. The epilogue ends quieter than Warehouse.
 
 ## Relationship state at B03 close

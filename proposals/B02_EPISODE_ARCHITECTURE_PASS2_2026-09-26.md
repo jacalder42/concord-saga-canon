@@ -107,7 +107,7 @@ They are **not** a standing team. A one-scene civilian remains preferable when b
 
 - Lucien physically in NOLA; no B02 Vienna trip.
 - Marrakesh is lived place, not signal source.
-- No named Tahl POV; no B02 Tahl VT contact.
+- No named Tahl POV. **One B02 VT brush that Tahl does not notice; Silence and Hope do** (author, 2026-09-26, `decisions/MAIN_CAST_LOCATION_AUTHOR_ANSWERS_2026-09-26.md` §5). Its episode is open. *This line read "no B02 Tahl VT contact" until 2026-09-26.*
 - MT remains mortal media.
 - No perfect global synchronization by default.
 - Drift is working model, not ontology.

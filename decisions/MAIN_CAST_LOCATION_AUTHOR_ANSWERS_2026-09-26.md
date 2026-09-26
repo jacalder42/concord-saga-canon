@@ -3,7 +3,7 @@
 **Date:** 2026-09-26
 **Status:** CURRENT AUTHOR RULING for the items marked **RULED**. Items marked **LEAN** are the
 author's direction, not ruled canon. Items marked **DELEGATED** are left to narrative fit, and
-**OPEN** items are still unanswered. **Four follow-up questions** are in §4.
+**OPEN** items are still unanswered. **Four follow-up questions** are in §4; **the author answered them the same day (§5)**.
 
 **Questions put:** the handoff summary in
 [`recovery/MAIN_CAST_LOCATION_REGISTERS_PASS1_2026-09-26.md`](../recovery/MAIN_CAST_LOCATION_REGISTERS_PASS1_2026-09-26.md)
@@ -97,3 +97,32 @@ The other unknowns in the register's §2 are not addressed and stay open: Caro i
 4. **Tahl's two brushes.** If you confirm them, M09's *"first and only Veil-era VT brush"* needs
    rewording (for example, *the first brush Tahl notices*), and the B02 pass's *"no B02 Tahl VT
    contact"* needs revising. May both be changed?
+
+---
+
+## 5. Follow-up answers (2026-09-26)
+
+**The author's words, verbatim:**
+
+> 1 before B01 but only visible after E03, 2 keep as visit, 3 starts in Detroit with an eventual
+> trip to Singapore, 4 yes
+
+| Q | Answer | Status | Consequence |
+| --- | --- | --- | --- |
+| 1 | Lucien is **sent before B01 begins**, and is **not visible on the page until after E03** | **RULED** | It matches the locked v4.1b, where Lucien first appears in episode 4, *A LINE OUT OF PLACE* (v3 E03). **Correction:** §1 and §4 Q1 above say "NOLA from E03", repeating the location register. That is v3 numbering; in v4.1b it is E04. **#1 is resolved:** `NB`'s *"Remote in Vienna until B02 A1"* is superseded, and the Pass2 line (*"Lucien is remote in Vienna"*) is stale. Neither file is edited. There is no on-page Vienna in B01. Who sends him, and under what cover, is still open (#2) |
+| 2 | **Keep E23 as a visit** | **RULED** | Elisabet's v4.1b entrance at E23 stays as a research **visit** to New Orleans. She **arrives to stay** late in B01 or in B02 (§1). v4.1b is not edited. **Reading, not ruled:** the E30 recurrence (*"present for an independently plausible reason; exact B1 travel/presence reason remains OPEN"*) falls before Act III, so it is either part of the E23 visit or a second one. Which is open |
+| 3 | Rex **starts in Detroit**, with an **eventual trip to Singapore** | **RULED** (Detroit start; Singapore trip). **Timing of the trip OPEN** | **RexID stands** (*"Singapore → Detroit directionality now locked as current canon"*); the card is not edited. **#20 is resolved.** §1's lean *"Brought to Nola from Singapore"* is superseded as to origin: Singapore is a later trip, not his starting point. **Reading, not ruled:** he reaches NOLA from Detroit. The NOLA and Atlanta legs stay a **LEAN**, and so does the earlier idea of timing the Singapore trip to Lucien's return to NOLA. `NS`'s Singapore placement in B04 (#19) is no longer a starting point; whether it is the eventual trip is open |
+| 4 | **Yes**: the two brushes are confirmed, and the rewording is approved | **RULED** | **Two Veil-era VT brushes.** In B02, Tahl does not notice but Silence and Hope do. In B03, Tahl notices. **#18 is resolved.** Applied, each keeping its old text: grid **M09**'s description (*"first noticed"*, with the B02 brush named; the old wording is kept in the notes); `proposals/B02_EPISODE_ARCHITECTURE_PASS2_2026-09-26.md`'s safeguard; and the same *"first/only"* line in `proposals/B03_EPISODE_ARCHITECTURE_PASS2_2026-09-26.md`, which states the same claim. The B02 brush's episode and act are open |
+
+### Not changed, pending the author
+
+The same claim survives as the **`reason` string of the B03 A3 weather exception** (W4, E14), *"First and
+only VT brush in the Veil trilogy"*. It appears in `act_overlays/act_overlay_S1_T1_B03_A3.json`, where
+it is observed, and is copied into `book_context/book_context_B03.json` and
+`rules/trilogy_context_T1_veil.json`, which are derived. These were not in the question put, and they
+are substrate, so they are **flagged, not edited**. Two points need an answer:
+
+1. May the reason read *"First VT brush Tahl notices in the Veil trilogy"*?
+2. Does the B02 brush breach B02's envelope, and so need its own declared exception? Its placement is
+   open, so this can wait.
+
