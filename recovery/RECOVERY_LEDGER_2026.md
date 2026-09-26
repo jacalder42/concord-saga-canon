@@ -9042,4 +9042,40 @@ END OF ENTRY 113
 
 ===============================================================
 
+# 114. Milestone grid copy approved and live — 2026-09-26
+
+**The author:** *"Accept whole grid, keep the 20."*
+
+`decisions/MILESTONE_GRID_COPY_APPROVAL_AUTHOR_RULING_2026-09-26.md`.
+
+**Applied:** `grids/milestones_payoffs.csv` is replaced by
+`proposals/milestones_payoffs_PROPOSED_COPY_2026-09-26.csv`, byte for byte (§113). The copy stays in
+`proposals/` as provenance.
+
+- **53 rows**: 20 `ruled`, 32 `proposed`, 1 `retired` (M29).
+- **Ruled:** M11, M12, M20, M28, M33, M35, M37, M39, M40–M44, M46–M50, M52, M53.
+- **The review's conflicts stay in the rows' notes**: M38/M20, M15, M26, M31/M48 (deferred), M32,
+  M36, M21/M22.
+- **M51** is approved as wording and stays `proposed`.
+
+**Also updated:**
+
+- `rules/canon_rules.json` `milestone_grid._status`, which said *"all 36 rows are 'proposed'"*.
+- The decisions index.
+- CLAUDE.md §4.1, the B06/B08 row: M20's act is ruled.
+- CLAUDE.md §8 and §9: B08's turns, the grid's state, and next steps.
+- **Two ratchet self-tests** in `tools/test_validate_canon.py` pinned the old grid (36 rows, all
+  `proposed`; EP rows M10, M11, M23, M35, M36) and failed, as designed. They now pin the approved
+  state: 53 rows, exactly these 20 `ruled`, M29 `retired`; EP rows M12, M39, M23, M35, M53, M36.
+  Still 144 tests.
+
+**Next:** thread-pressure recalibration (per thread, per trilogy; new rows are blank); then the
+book, act and episode milestones that B08's end sequence waits on.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 114
+
+===============================================================
+
 END RECOVERY LEDGER

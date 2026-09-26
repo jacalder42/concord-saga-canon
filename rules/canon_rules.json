@@ -244,7 +244,7 @@
     "source": "HYBRID RESONANCE GEOGRAPHY SYSTEM (Notion, 2025-11-27), recovered at recovery/LOCATIONS_RECOVERY_2026-09-19.md"
   },
   "milestone_grid": {
-    "_status": "Schema for grids/milestones_payoffs.csv, populated 2026-09-20 (ledger 41). The status column exists so the grid can be live without being settled: all 36 rows are 'proposed'.",
+    "_status": "Schema for grids/milestones_payoffs.csv, populated 2026-09-20 (ledger 41). The status column exists so the grid can be live without being settled: all 36 rows are 'proposed'. Replaced 2026-09-26 by author approval (decisions/MILESTONE_GRID_COPY_APPROVAL_AUTHOR_RULING_2026-09-26.md): 53 rows, 20 'ruled', 32 'proposed', 1 'retired'.",
     "status_meanings": {
       "proposed": "Loaded and checkable, but not settled. No author ruling promotes it.",
       "ruled": "Author has ruled on this milestone.",

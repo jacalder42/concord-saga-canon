@@ -733,26 +733,42 @@ class MilestoneGridRatchet(unittest.TestCase):
         self.assertEqual([n for n in notices if n.token == "EP"], [])
         self.assertEqual(out, [], "the whole grid must pass, EP rows included")
 
-    def test_the_five_ep_rows_are_still_there(self):
-        """Clearing the notices must not have come from losing the rows."""
+    def test_the_ep_rows_are_still_there(self):
+        """Clearing the notices must not have come from losing the rows.
+
+        Was M10, M11, M23, M35, M36. The approved copy of 2026-09-26 moved M10 and
+        M11 into B03 A3 and added M12 (B03 EP), M39 (B06 EP) and M53 (B09 EP);
+        decisions/MILESTONE_GRID_COPY_APPROVAL_AUTHOR_RULING_2026-09-26.md.
+        """
         import csv as _csv
         with open(LIVE_GRID, encoding="utf-8") as fh:
             rows = list(_csv.DictReader(fh))
         ep = [r["milestone_id"] for r in rows if r["target_act"] == "EP"]
-        self.assertEqual(ep, ["M10", "M11", "M23", "M35", "M36"])
+        self.assertEqual(ep, ["M12", "M39", "M23", "M35", "M53", "M36"])
 
     # --- status ----------------------------------------------------------
     def test_unknown_status_is_flagged(self):
         out, _ = grid_problems(GRID_HEADER + GRID_ROW.replace(",proposed,", ",settled,"))
         self.assertTrue([p for p in out if p.check == "CHK_GRID_STATUS"])
 
-    def test_every_live_row_is_still_proposed(self):
+    def test_only_the_approved_rows_are_ruled(self):
+        """Was: every row proposed (36). The author approved the copy on 2026-09-26
+        ("Accept whole grid, keep the 20"); only those 20 may carry `ruled`, and M29
+        is the one retirement. Any other promotion is a change someone made.
+        """
         import csv as _csv
         with open(LIVE_GRID, encoding="utf-8") as fh:
             rows = list(_csv.DictReader(fh))
-        self.assertEqual(len(rows), 36)
-        self.assertEqual({r["status"] for r in rows}, {"proposed"},
-                         "loading the grid must not promote anything to ruled")
+        self.assertEqual(len(rows), 53)
+        ruled = sorted((r["milestone_id"] for r in rows if r["status"] == "ruled"),
+                       key=lambda m: int(m[1:]))
+        self.assertEqual(ruled, [
+            "M11", "M12", "M20", "M28", "M33", "M35", "M37", "M39", "M40", "M41",
+            "M42", "M43", "M44", "M46", "M47", "M48", "M49", "M50", "M52", "M53"])
+        self.assertEqual([r["milestone_id"] for r in rows if r["status"] == "retired"],
+                         ["M29"])
+        self.assertEqual(
+            {r["status"] for r in rows}, {"proposed", "ruled", "retired"})
 
 
 # --------------------------------------------------------------------------- #
