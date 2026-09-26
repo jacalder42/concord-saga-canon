@@ -136,6 +136,17 @@ prophecy montage"*) is a plausible standard for its mirror. That is a suggestion
 
 ---
 
+## Source note, added the same day
+
+The export search the author asked for found that **this scene is his own 2025-11-29 design,
+locked in *Narrative Structure*** (*"Lock it and proceed"*), recalled by him on 12-07 and pasted
+on 12-08 as *"EPILOGUE — THREE DAYS AFTER."* In that design the reach is **Tahl's triangle** on a
+**message request prompt on Kade's device**. The accepted 11-30 skeleton adds: *"Tahl is the
+conduit on Kade's side; Seraphine/Lucien/Caro on the other."* That bears on three items in §3:
+the timeskip, who reaches out, and the device. See
+[`recovery/B09_EPILOGUE_KADE_LACUNA_SOURCE_RECOVERY_2026-09-26.md`](../recovery/B09_EPILOGUE_KADE_LACUNA_SOURCE_RECOVERY_2026-09-26.md).
+**This note changes nothing ruled above.**
+
 ## What this ruling does not change
 
 The grid (`milestones_payoffs.csv` M35 stays superseded as recorded 2026-09-26); `MT_RULES.md`

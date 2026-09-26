@@ -8015,4 +8015,56 @@ END OF ENTRY 91
 
 ===============================================================
 
+# 92. The B09 epilogue's source conversations recovered — 2026-09-26
+
+**Status:** recovery. No ruling, substrate or episode change.
+`recovery/B09_EPILOGUE_KADE_LACUNA_SOURCE_RECOVERY_2026-09-26.md`.
+
+**Asked:** the author: *"check exports for previous conversations about B9 aftermath with Kade
+and Lacuna, I know there was a lengthy discussion about the aftermath in general and that
+conversation specifically."*
+
+**Found:**
+
+- **The specific conversation:** `2025-11-27__Narrative_Structure__69286516.md`, 2025-11-29/30.
+  The author designed the epilogue turn by turn: Lacuna presses post; the stars *"twinkling like
+  they're talking"*; a *"message request prompt"* showing only **Tahl's triangle**; a
+  *"conversation in the stars"* breadcrumb for the Möbius. He locked it with *"Lock it and
+  proceed"* (~88183) and accepted a days-after skeleton on 11-30 (~113672).
+- **His recollection:** `2025-12-07__Beat_bible_recovery_process__69350113.md` l. 9755 matches
+  the design point for point, and says *"we settled on the couple days later version."*
+- **The general aftermath:** `2025-12-01__Worldbuilding__692dc2fb.md` ~96782–109420, the
+  assistant-built POST-MENDING CANON v1 and PART V. The author steered: not utopian, *"connected
+  via emotion,"* and the epilogue *"already beat locked."*
+- **Earlier:** 11-15, the first epilogue proposal (LT as a notification, *"someone out there wants
+  to talk"*) and the only author statement on Kade's post-Mending role (an **"Accord"**,
+  hedged). 11-16: *"the stars are talking"* **is** Silence and Hope on VT, the prologue half of
+  the Möbius.
+
+**Corrections to the record:**
+
+1. The 09-26 epilogue ruling **restates a locked 2025 design**; it is not a new invention.
+2. `EXPORTED_CHAT_FORENSIC_PASS1.md` §6 and the 09-15 B9 endgame checkpoint say the epilogue's
+   choreography *"remain[s] unrecovered."* **It is recovered** (Narrative Structure
+   ~87561–88184, ~113472–113760). Those files are not edited; this entry is the correction.
+3. **§27 §3's "6–12 months" timeskip came from an assistant-generated Notion page** the author
+   answered only with *"Proceed."* Every author statement from 11-30 on says days.
+
+**Three tensions with 09-26, put to the author and not resolved:** (a) the timeskip; (b) who
+reaches out, Tahl's triangle (2025) or Seraphine (09-26), which the accepted 11-30 skeleton
+reconciles (*"Tahl is the conduit on Kade's side; Seraphine/Lucien/Caro on the other"*); (c) the
+prompt appears on **Kade's device** in every 2025 version, against `LT_RULES_POST_MENDING.md` §6.
+That conflict is between the author's locked design and an assistant-built rule file.
+
+**Method:** a background search agent located the passages. Every author quotation in the
+recovery document was then checked against the `.md` export in this session, as were the
+assistant citations it relies on. One agent claim needed a correction: the *"Lock it and
+proceed"* turn is at ~88183, not 88181.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 92
+
+===============================================================
+
 END RECOVERY LEDGER
