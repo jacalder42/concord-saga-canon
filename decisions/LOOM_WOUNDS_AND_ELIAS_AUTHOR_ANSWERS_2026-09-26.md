@@ -36,7 +36,7 @@ corrections are set out, as the author asked, in
 | --- | --- | --- | --- |
 | 1 | What is "repair" of a wound before the Mending? | **Stabilisation.** It is not erasure of a scar | **RULED** |
 | 2 | Is the circuit Silence and Hope's hard-cap method, or Seraphine's "another option"? | **Silence and Hope are guiding the crew to reinstate the hard cap.** Seraphine **grows to question** that being the only option, and **begins the potential of a breathing veil** | **RULED** |
-| 2 | — | *"there should be quite a bit of conversation on this idea"* | **Author direction**, read as: the breathing-veil idea is argued out at length on the page. (If it instead means earlier chats hold such conversations, a search can find them) |
+| 2 | — | *"there should be quite a bit of conversation on this idea"* | **Corrected the same day:** the author meant **earlier chats to look for and recover**, not on-page debate ([ruling](ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md) §2). A recovery search is running |
 | 3 | Does the crew stabilise the Santa Fe wound, where Tahl died? | *"I think yes"* | **LEAN** |
 | 3 | — | *"I do not clearly recall the specifics of Tahl's death"* | A recovery search is running (ledger §101) |
 

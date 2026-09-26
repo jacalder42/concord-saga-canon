@@ -167,7 +167,7 @@ He does **not** think about Kade’s long-term survival.
 ---
 
 ### Lacuna
-In Elias POV, Lacuna barely registers.
+In Elias POV, Lacuna registers as an obstacle to momentum — the settling influence he must work around and undermine. He does not see her as dangerous in herself. *(Corrected 2026-09-26 (author ruling 2026-09-26, `decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md`); previously "Lacuna barely registers.")*
 
 When she does:
 - she is background

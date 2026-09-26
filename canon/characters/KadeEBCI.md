@@ -59,6 +59,7 @@ Presence of Seraphine, Caro, Elisabet, or Lucien is required to prevent collapse
 - Functions as emotional amplification and distribution
 - Converts felt truth into mass narrative
 - Does not verify; it *moves*
+- Begins as a grief diary in MT comments he believes is private (Veil static); learns he is read, and takes over the platform *(author ruling 2026-09-26)*
 
 **VT (VeilThread)**
 - No intentional access

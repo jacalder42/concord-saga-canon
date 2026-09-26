@@ -24,7 +24,7 @@ This positions Elias as someone who:
 ## III. Geographic Origin
 - **Birthplace / Childhood:** East Beach area, Ocean Springs, Mississippi
 - **Environmental Imprint:** Gulf Coast fragility — storms, flooding, insurance failures, slow institutional abandonment
-- **Early Adulthood Relocation:** New Orleans (pre-Neon)
+- **Relocation:** New Orleans, late Neon — drawn by MT after the troubles took his Brightbreak following *(corrected 2026-09-26 (author ruling 2026-09-26, `decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md`); previously "Early Adulthood Relocation: New Orleans (pre-Neon)")*
 
 The Gulf Coast teaches Elias that:
 - disaster is cyclical
@@ -94,6 +94,7 @@ His work is:
 - **Self-Justifying Frame:** “I’m getting the hard stuff done, even if it isn’t pretty.”
 - **Moral Logic:** effectiveness = responsibility
 - **Blind Spot:** confuses control with care
+- **Core Imprint:** "People need something to believe in more than they need the truth." Stories are the vehicle he uses
 
 Elias does not think of himself as cruel.  
 He thinks of himself as **necessary**.
@@ -142,11 +143,13 @@ He seeks Kade after Tahl’s funeral because he realizes:
 
 ---
 
-## XI. Relationship to Lacuna (Blind Spot)
+## XI. Relationship to Lacuna (the Obstacle He Underestimates)
 Elias reads Lacuna as:
-- atmospheric
-- background
-- calming but non-essential
+- the settling influence on Kade
+- the thing keeping Kade from being the livewire he needs
+- calming, and therefore an obstacle to momentum
+
+*Corrected 2026-09-26 (author ruling 2026-09-26, `decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md`). Previously headed "(Blind Spot)" and read her as "atmospheric / background / calming but non-essential."*
 
 He interprets her influence as:
 - emotional drag
@@ -156,6 +159,9 @@ He interprets her influence as:
 He does not perceive her as structural.
 
 This misreading is one of his most consequential errors.
+
+He works to separate Kade from her: grounded Kade cannot be radicalized.
+Undermining her is where the reader first links Elias to Brightbreak.
 
 ---
 
@@ -170,7 +176,7 @@ Elias is not loyal to it.
 ---
 
 ## XIII. Trilogy Anchor Facts (Identity-Relevant)
-- **Loom:** Elias manipulates collapse dynamics through Brightbreak; nearly succeeds in weaponizing Kade
+- **Loom:** Elias manipulates collapse dynamics through Brightbreak; nearly succeeds in weaponizing Kade. At the Book 9 climax Elias attacks Rex first and is knocked down; Kade, fearing Rex will kill Elias, attacks Rex — and Tahl's echo stops him
 - **Failure Point:** Tahl’s echo interrupts Elias’s final leverage moment
 - **Post-Mending:** Brightbreak dissolves completely; no myth, no martyrdom
 

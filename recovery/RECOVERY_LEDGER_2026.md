@@ -8637,4 +8637,57 @@ END OF ENTRY 103
 
 ===============================================================
 
+# 104. Elias card corrections applied; Lacuna, Solace and Tahl answers — 2026-09-26
+
+**Status:** records an author ruling and the Tier-1 card edits it approves.
+`decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md`.
+
+## 1. Applied (the author: "looks good, proceed")
+
+E1–E10 from `proposals/ELIAS_CARD_CORRECTIONS_PROPOSAL_2026-09-26.md`, with E3 as option (a):
+
+- **EliasEBCI:** Veil none; Neon handle only; attention, not affection; authorisation; Lacuna
+  targeted.
+- **EliasID:** New Orleans in late Neon, for MT; the core imprint; Lacuna as the obstacle he
+  underestimates; the finale named.
+- **POV card:** Lacuna registers as an obstacle.
+- **Brightbreak:** absorbs some Neon Rebellion splinters.
+- **KadeEBCI and LacunaEBCI:** the private-diary MT start; Lacuna nudges him to post.
+
+Each edited line keeps its old wording in a dated note.
+
+## 2. Ruled
+
+- **Lacuna prompts the B07 anchor post.**
+- **Solace:** `NS` ~145335–146240 is the conversation the author recalled. Solace is a **masked
+  title or removed**. A Solace event is **POOL-033, optional**. The Choirless stay **fragmented**.
+- **Tahl dies at the end of B06.** This supersedes the Act II lean and the packet's A3 → A2
+  correction. **He glimpses the wound pattern.** **The B06 epilogue carries his message to the
+  group about it**, and it is his last message, superseding *"No farewell post."*
+- **Task:** resolve Tahl's death specifics.
+
+## 3. Corrected
+
+§101 read *"there should be quite a bit of conversation on this idea"* as an on-page direction. The
+author meant **earlier chats to recover**. The 09-26 wounds ruling carries a note.
+
+## 4. Searches launched
+
+- The hard cap against the breathing veil.
+- The US wound sites, their order, and the crew's understanding.
+
+The author says both are in the earlier chats.
+
+## 5. Consistency notes
+
+- **Tahl's posthumous message is mortal communication, not an Echo appearance.** Its delivery
+  must not be VT. Its recipients ("the group"), content and delivery are open.
+- The B06 epilogue now carries this message and M23's MT handoff; their order is open.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 104
+
+===============================================================
+
 END RECOVERY LEDGER

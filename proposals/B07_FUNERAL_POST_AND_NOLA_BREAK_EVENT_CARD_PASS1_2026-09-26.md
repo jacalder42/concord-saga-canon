@@ -49,7 +49,7 @@ New Orleans"*.
 > - **Some Neon Rebellion splinters become Brightbreak**; others dissolve or stay independent (link
 >   7).
 >
-> Open: whether the anchor post (link 8) is one Lacuna prompts, or a later one of Kade's own.
+> **Ruled later the same day** ([ruling](../decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md) §2): **Lacuna prompts the anchor post** (link 8). Her prompt is part of the break that follows.
 
 ## 1. The chain
 

@@ -83,6 +83,9 @@ He **narrows perceived options** until one remains.
 - Reinforces urgency over restraint
 - Frames hesitation as betrayal of audience trust
 - Encourages speech before processing
+- Not possessive: weaponizes attention, not affection
+- Lets Kade's misreading of intimacy stand; gives the illusion of being valued, not the reality of being loved
+- Wants Kade to authorize his story without realizing it
 
 **EBCI Effect**
 - Raises narrative runaway risk
@@ -93,6 +96,7 @@ He **narrows perceived options** until one remains.
 
 ### With Lacuna (COUNTERFORCE)
 - Elias misreads Lacuna as emotional drag
+- Targets her as the settling influence; works to separate Kade from her (grounded Kade cannot be radicalized)
 - Fails to account for her stabilizing field
 - Interprets her presence as loss of reach
 
@@ -129,14 +133,15 @@ He **narrows perceived options** until one remains.
 ## TRILOGY-SPECIFIC OPERATION
 
 ### VEIL
-- Minimal presence
-- Observational phase
-- Pattern recognition only
+- No presence
 
 ### NEON
-- Peripheral engagement
-- Early testing of amplification logic
-- Identifies Kade as future vector
+- Unnamed: present only as the Brightbreak online handle (foreshadowing)
+- The handle gains influence, then loses it as comms and MT infrastructure fail
+- Late Neon: goes to New Orleans to reach MT, the last broadly working channel
+- Has not identified Kade; that happens at Tahl's funeral (Book 7)
+
+*Corrected 2026-09-26 (author ruling 2026-09-26, `decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md`). Previously: Veil "Minimal presence / Observational phase / Pattern recognition only"; Neon "Peripheral engagement / Early testing of amplification logic / Identifies Kade as future vector."*
 
 ### LOOM
 - Full activation

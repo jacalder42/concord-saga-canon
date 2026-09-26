@@ -62,6 +62,15 @@ analysis or this card · **READING** an observation this card makes from sources
 > - **The author's own cause statement:** *"We know it was caused by the VT link."*
 >
 > Direction only, not ruled.
+>
+> **Ruled later the same day** ([ruling](../decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md) §4):
+>
+> - **Tahl dies at the end of Book 6.** The funeral parade opens B7. This supersedes the Act II
+>   lean and the packet's A3 → A2 correction.
+> - **Tahl glimpses the wound pattern.**
+> - **The B6 epilogue contains his message to the group about the wound pattern**, delivered after
+>   his death. It is his last message, superseding the staging's *"No farewell post."*
+> - **The specifics of his death are unresolved and are a task.**
 
 ## 1. The chain, link by link
 

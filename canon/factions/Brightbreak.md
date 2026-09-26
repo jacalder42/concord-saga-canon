@@ -72,6 +72,7 @@ The handle becomes a meme **without him**.
 - No doctrine, only tone
 - Followers disagree on what Brightbreak “means”
 - Contradiction strengthens it rather than weakening it
+- Absorbs some Neon Rebellion splinters; others dissolve or stay independent *(author ruling 2026-09-26)*
 
 The movement is **larger than Elias**, but he learns to steer it.
 
