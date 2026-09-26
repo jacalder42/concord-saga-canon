@@ -51,7 +51,7 @@ as the direct answer to the question put. No grid row, episode or EBCI status ch
 | Why is Tahl at Santa Fe? | Neon pulls **at least Tahl, possibly a core portion of the group, to the Southwest**; that pull is a notable section of the trilogy | **RECALLED intent** | Who else goes; what "pulls" is (story, VT, evidence); when the move happens |
 | Were the unheeded warnings his? | The warnings were **from VT** | **RECALLED intent** | Who receives them and how they reach the public (§1.1) |
 | Tahl's Echo: does TahlEBCI's "penultimate chapter only" govern? | **Tahl's Echo appears once in a named or identifiable capacity to the cast.** Other echo moments may or may not be his | **RULED** in substance (stated without hedge) | Which appearance is the one (§1.2) |
-| — (new) | **Tahl's soul is caught / collected by Silence** | **RECALLED** (*"my recollection"*) | How; whether this is M22's *"caught in VT"* |
+| — (new) | **Tahl's soul is caught / collected by Silence** | **RECALLED** (*"my recollection"*). It matches the author's own 2025-11-13 words, *"Tahl dies, Silence grieves and collects him"* (`Prompt_crafting_types` ~53372) | How; whether this is M22's *"caught in VT"* |
 | Does Tahl learn Baz's name before he dies? | **Yes. From a news report.** He learns **why Baz mattered from the protagonists** | **RULED** | When in B04–B06; which protagonists |
 | Does the escalation map onto Mechanica's ladder? | *"The mapping proposed matches intent"* | **ACCEPTED as intent** (*"I believe"*): B5 close = sustained Ghostwave-class instability; B6 Act I close = **Fracture**; B6 Act II = **Rupture** | What physically changes at each rung (D5) |
 | M20: Tahl's death in Act II? | **Not certain.** End of Act II or start of Act III; possibly not decidable until full Neon episode mapping | **LEAN: the very end of Act II** | The act. **The packet's "A3 → A2" correction is not confirmed** (§1.3) |
@@ -260,8 +260,12 @@ closes) fits *"fleeting"* best. B09 still has to earn entry.
 ### 4.3 The Echo
 
 **The flare** (B09 penultimate chapter; `TahlEBCI.md`; Loom master B09 A3.3) **is Tahl's one
-identifiable appearance, and Rex knows it.** Rex is present at A3.2 (*"Rex intervenes"*), just
-before the flare.
+identifiable appearance, and Rex knows it.** *Corrected the same day:* this line first cited the
+pasted A3.2 *"Kade nearly kills Elias; Rex intervenes"* to place Rex at the flare. That line is an
+assistant transposition. The author's ruling is that **Kade nearly kills Rex**
+(`recovery/B09_ENDGAME_MENDING_ECHO_RECOVERY_2026-09-19.md` §4, §12; `NS` ~8344). Rex is the
+near-victim, which is why he knows the flare. The Dec 8 "Loom master" is assistant output
+([Loom pass §1](../proposals/LOOM_STRUCTURAL_PASS1_B07_B09_2026-09-26.md)).
 
 **Consequences for the proposed grid copy:**
 
