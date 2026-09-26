@@ -7773,4 +7773,71 @@ END OF ENTRY 87
 
 ===============================================================
 
+===============================================================
+
+# 88. B03 Warehouse causal event card, Pass 1 — 2026-09-26
+
+Proposal at `proposals/B03_WAREHOUSE_CAUSAL_EVENT_CARD_PASS1_2026-09-26.md`. The first of the
+three event cards the milestone packet places between the author's answers and a proposed grid
+copy. **No episode, beat, grid row, rule or EBCI status changed; no Resonance mechanism
+supplied.**
+
+## 1. The chain, with every link's status
+
+Fifteen links, from Baz investigating to the lasting scar. **Five are ruled outright; a sixth
+follows from a ruling; two are the author's own hypotheses** (the crowd drawn by the post, and
+the slowed evacuation). The physical core — Rupture, partial collapse, Baz freeing a child and
+being crushed — is **recovered** from the November B3 bible. It is **not mechanized**, and D5
+keeps it that way.
+
+## 2. The author's answer fills the gap the leading reconstruction left
+
+The 09-19 recovery's best candidate was **containment plus evidence retrieval**: authorities
+seal rather than evacuate, and Technarc agents obstruct exit. Its stated weakness: *"exact delay
+not recovered."* **It explained why people were not evacuated. It did not explain why so many
+were there.**
+
+**The author's hypothesis answers exactly that.** The post draws people in; the perimeter and
+retrieval slow their exit; the Rupture outruns Han Wei's model. **Compatible and additive, not
+competing**, and together they keep the 09-19 constraint that *"no individual needs to murder
+him."* **Compatible is not decided**; the card adopts none of the three mechanisms.
+
+The recovery's older idea, that Tahl's publication worked **through institutions**, is kept as
+an alternative. The author's stated consequence runs **through the public**. The recovery's best
+line survives and is sharper for it: *"MT was right about the danger, but being right changed
+the board."*
+
+## 3. The two rulings interlock
+
+**The main structural finding.** The B03 reconciliation map has one Tahl publication, in the
+epilogue, **after** the Warehouse. **Ruling #2 implies an earlier post**: to draw people to the
+site, the coordinates must go up **before** the Rupture. **Ruling #1 makes that post anonymous**
+when it appears. So an anonymous Act III post becomes the thing the epilogue reveals Tahl wrote,
+and his B4 remorse follows from it. **Reveal and remorse become causally tight rather than
+adjacent**, and that follows from the author's two answers, not from invention.
+
+The B03 map therefore needs an **Act III posting beat**. How the reader meets it — on the page,
+only through its effect, or only in the epilogue — is the author's staging choice.
+
+## 4. Kept off the card, and left open
+
+**Mechanism C** — Dominion extracting Lucien during the crisis — stays off. Its actors are
+recovered but its Warehouse link is not, and it may conflict with the cast learning of Baz's
+death in B04.
+
+Four questions for the author, none blocking the B6 and B8 cards: how the Act III post is
+staged; **whether Tahl knew Baz was there** (the ruling says the post was of *"the event Baz was
+investigating,"* which need not mean Tahl knew — and whether he knew is what his remorse is
+about); which antagonist intervenes; and whether containment and retrieval stand alongside the
+crowd.
+
+## 5. Verification
+
+Canon scope **0**; self-tests **144**; source verifier **PASS** at 138. A first draft said "six
+links are ruled"; five are ruled outright and link 3 follows from one. Corrected before commit.
+
+END OF ENTRY 88
+
+===============================================================
+
 END RECOVERY LEDGER
