@@ -9321,4 +9321,47 @@ END OF ENTRY 119
 
 ===============================================================
 
+# 120. Neon design rows vetted, Pass 1 — 2026-09-26
+
+`proposals/NEON_DESIGN_ROWS_VETTING_PASS1_2026-09-26.md`. The author: *"Start vetting the Neon
+design rows."* Twelve rows were vetted: M05, M13, M14, M16, M17, M18, M21, M23, M54, M55, M56 and
+M57. Three read-only research passes were run; Claude re-checked each key quote and its speaker, and
+corrected three line references.
+
+**Findings:**
+
+- **ChatGPT's recovery missed approved Neon material**, and several design choices depart from it:
+  - the `MDR` Neon act bibles (*"Approve and save Book 4 Act iii"*, 17205, and others);
+  - the Notion Book 4/5 bibles (*"Proceed"*);
+  - the 11-27 location map (*"Proceed"*, `NS` 110083).
+  - **M05**: approved *"committing to NOLA"*.
+  - **M57**: approved in B05 **Act III**.
+  - **M54**: approved route *"Caro → New Orleans → Santa Fe"*.
+  - **M55**: approved *"Elisabet → Vienna → St. Louis"*.
+  - **M16**: a Riot of Light is approved in **both** B04 A3 and B05 A3.
+- **M21 is author-sourced** (`PC` 53373; `PC` 158951; `NB` 89177). ChatGPT dropped the author's
+  *"their first act of agency"* and *"first crack in the cycle of hard cap veils"*.
+- **Saeko is not superseded** (M14). Only her 11-21 public-face assignment is; the Jan 4 role split
+  (Ito amplifies; Saeko engineers doctrine) is current.
+- **Conflicts:**
+  - **M23** against the ruled Lacuna nudge at the funeral (ordering);
+  - **M54** against CaroID, which puts delegation in **Loom**; M54's M07 setup is also an error;
+  - **M55**'s notes against the open warning-origin question and `MDR` 8356 (Elisabet's
+    sensitivity);
+  - **M18**'s note against the ruled Brightbreak lineage.
+- **Recommendations:**
+  - Ready as worded: **M16** and **M55**.
+  - Revise: M13, M14, M17, M18, M21, M56 and M57.
+  - Hold: **M05**, **M23** and **M54**.
+- Eleven questions are put to the author (§4).
+
+**No grid row is changed.** Each suggested wording rewrites existing text, so it waits for the
+author (the additive/destructive rule).
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 120
+
+===============================================================
+
 END RECOVERY LEDGER
