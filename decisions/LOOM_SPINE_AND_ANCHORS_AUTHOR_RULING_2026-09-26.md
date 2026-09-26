@@ -95,6 +95,26 @@ Carried from pass §6, now with the author's answers:
   - **Kade nearly kills Rex and Tahl's flare** (B09, penultimate chapter).
 - M24–M27, M30, M35 and M36 are as recorded in the pass and the 09-26 rulings.
 
+## Follow-up, the same day
+
+**Questions put:** which thin place hosts B08's finding; does B07 open at the funeral or just
+after; where is B09's *"escape from another location."* **The author's words, verbatim:**
+
+> Santa Fe,
+> Book 7 opens with funeral (lacuna prominent)
+> Serpent Mound
+> then proceed with the event cards
+
+| Point | Ruled | Not ruled |
+| --- | --- | --- |
+| **B08's thin place** | **Santa Fe**: the B06 rupture site and Tahl's death place, now a scar | What is found; the cost; how it points to Louisiana |
+| **B07's opening** | **At Tahl's funeral, with Lacuna prominent.** The author's own words match: Lacuna *"is introduced as the leader of Tahl's second line … She is who understands immediately how to extend Kade's impact and keeps him grounded until Elias fractures that"* (`2025-11-30__Concord_Saga_review__692bb4af.md` ~1618, USER) | Whether the funeral is a jazz-funeral second line on the page, or only its framing |
+| **B09's escape location** | **Serpent Mound** | Who is escaped from, and how; whether Serpent Mound is also visited in B08 |
+
+**The Loom route is now fixed at its ends:** New Orleans (B07) → Santa Fe (B08 anchor) → Serpent
+Mound (B09 opening escape) → the NOLA feint → Honey Island (B09 Act III). **St. Louis / Mound
+City is unused** and stays available.
+
 ## What this ruling does not change
 
 The live grid; the protected B09 finale and epilogue; the site-secret constraint; the B06 and

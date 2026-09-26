@@ -130,7 +130,7 @@ Each line points at where the evidence is. Ledger § numbers are in
 | **LT access beyond Kade.** §39 **amended 2026-09-26**: Kade has access, by named exception ("at least Kade"). Still open: other protagonist survivors; what access consists of (KadeEBCI's *"(no agency)"*); the author's *"more tangible than VT"* against `LT_RULES`' softer language | `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`; ledger §89 |
 | **B03 Warehouse** — which of the two post stagings (supplemental text or effect-only); whether the reported dead first responder is Baz or a second death. (Tahl learns Baz's name from a news report before B06, ruled 09-26.) Links 5–7 are **delegated** to a working assumption the author may override | `decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`; ledger §89, §93 |
 | **B06 / B08 remaining** — M20's act (lean: the very end of B06 A2; may wait for Neon episode mapping); M36's farewell against the single identifiable Echo (the B09 flare, known by Rex — ruled 09-26); whether Kade actually caused the B08 opening; where Elias is when he claims it; how the factions learn of the site in B09 A3 | `decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`; ledger §93 |
-| **Loom details after the spine ruling** (09-26: the 11-28 plan is the spine; B07 = Kade's post + NOLA breaks; B08 = thin-place finding + Kade's complicity; Lacuna split foreshadowed end B07, made at start B08). Still open: **which thin place**; B07 opening at the funeral or just after; B09's *"escape from another location"*; each anchor's event card | `decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md`; ledger §96 |
+| **Loom details after the spine ruling** (09-26: the 11-28 plan is the spine; B07 = Kade's post + NOLA breaks; B08 = thin-place finding + Kade's complicity; Lacuna split foreshadowed end B07, made at start B08). Follow-up ruled: thin place **Santa Fe**; B07 opens **at the funeral, Lacuna prominent**; B09 escape at **Serpent Mound**. Event cards written (`proposals/B07_FUNERAL_POST_*`, `proposals/B08_SANTA_FE_FINDING_*`). Still open, per the cards: Kade's post content, where NOLA breaks, civic or scar, post/break order; the Santa Fe finding and its cost; how the crew learns "Louisiana"; the form and victims of Kade's complicity | `decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md`; ledger §96, §97 |
 | **Four author locks living only in proposals** (Baz death timing, Baz name, Tahl B01–B03 absence, VT contact ladder) — unmigrated. Tahl's **naming in the B3 epilogue** now has an author source (2026-09-26); *"not a primary character in B01–B03"* is still paraphrase | ledger §26.6 |
 | **Which of two conflicting recovered versions wins** (ND-045 proposes a rule; ledger §74 §4 shows recency alone fails) | ledger §26.12 |
 | **Cross-project provenance** (Mara Niht's tier; whether Eli Stone integrates; where Mara's lyric corpus is kept) | ledger §66–§69; `recovery/MARA_NIHT_RECOVERY_2026-09-21.md` §5 |
@@ -236,8 +236,8 @@ do not promote or downgrade `seraphine_full.md`.
   is untouched until that copy is approved. **All three cards done** (2026-09-26): B3 Warehouse
   (answered, `decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`); B6 Santa Fe and B8 storm
   wall (`proposals/B06_*`, `proposals/B08_*`, ledger §91), answered 09-26 with items still open
-  (`decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`). **Next: a proposed grid
-  copy.**
+  (`decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`). **Loom:** spine and anchors
+  ruled; B07 and B08 anchor cards written (ledger §97). **Next: a proposed grid copy.**
 - **`LT_RULES_POST_MENDING.md` §6** has a named exception for the B9 epilogue handshake,
   enabled by Tahl's echo (2026-09-26).
 - **Mechanica §39 amended 2026-09-26** by author instruction: Kade has LT access

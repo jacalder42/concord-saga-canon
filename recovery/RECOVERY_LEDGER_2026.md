@@ -8317,4 +8317,55 @@ END OF ENTRY 96
 
 ===============================================================
 
+# 97. Loom follow-up ruled; B07 and B08 anchor event cards — 2026-09-26
+
+**Author:** *"Santa Fe, / Book 7 opens with funeral (lacuna prominent) / Serpent Mound / then
+proceed with the event cards."* Recorded as a follow-up in
+`decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md`:
+
+- B08's thin place is **Santa Fe**.
+- B07 opens **at Tahl's funeral, with Lacuna prominent**. This matches the author's 2025-11-30
+  statement that Lacuna *"is introduced as the leader of Tahl's second line"*
+  (`Concord_Saga_review` ~1618).
+- B09's escape is at **Serpent Mound**.
+
+The route is fixed at its ends: NOLA → Santa Fe → Serpent Mound → the NOLA feint → Honey Island.
+St. Louis / Mound City is unused.
+
+## B07 card
+
+`proposals/B07_FUNERAL_POST_AND_NOLA_BREAK_EVENT_CARD_PASS1_2026-09-26.md`. The 12-link chain
+starts from the funeral, Lacuna's framing and Elias seeing Kade (author).
+
+- **Recommends a civic break, not a structural one.** Compared with B03 and B06 it differs in
+  kind: a named, public voice; a mobilised following rather than onlookers; a district's order
+  breaking rather than a building.
+- **Location:** Uptown recommended.
+- **Flag:** the user-pasted NOLA palette's Loom entry *"Warehouse → Resonance Tear Opening"*
+  collides with B08's search for the tear. The Warehouse can only be a symptom.
+- **Flag:** Tremé as *"Riot of Light Ground Zero"* risks repeating B04's riot.
+- **The post/break order** is set out as two readings, direct or shared accountability.
+- **Elias:** *"wants reach, fame, influence"*; needs *"the livewire version of Kade"* (author
+  12-15, verified).
+
+## B08 card
+
+`proposals/B08_SANTA_FE_FINDING_AND_KADE_COMPLICITY_EVENT_CARD_PASS1_2026-09-26.md`.
+
+- **Search strand:** Santa Fe is where Tahl died and where *"Silence grieves and collects him"*
+  (author 11-13). No identifiable Echo there. Seraphine's answer is reserved for the end, so Santa
+  Fe can give doubt, not the answer. Recommended finding: the scar is a wound, not the origin,
+  combined with the old way failing (F2+F1). Recommended pointer to Louisiana: the finding plus
+  Elias's reported "Kade miracle" (reading 2). The site secret holds.
+- **Fall strand:** complicity as **authorisation, not a strike**. This keeps the Rex near-kill
+  intact and makes a rising line: the B07 post → B08 permission → B09 attempted authorisation
+  (EliasEBCI). Victims (the Choirless, a shelter, or bystanders) are open. The crew learns of it
+  through MT.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 97
+
+===============================================================
+
 END RECOVERY LEDGER
