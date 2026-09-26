@@ -9887,4 +9887,51 @@ END OF ENTRY 133
 
 ===============================================================
 
+# 134. Pressure pass 1: source validation of the seven candidates and six checks — 2026-09-26
+
+**Received from ChatGPT:** `proposals/GEOGRAPHY_INFORMED_SAGA_THREAD_PRESSURE_PASS1_2026-09-26.md`,
+commit `2fc6c8b`. It is a new file and **the only file changed**. It ends with a Claude validation
+brief (§13).
+
+**The author:** Claude should *"take the next turn now, source-testing those seven candidates and
+checking the B04/B05/B07/B08/B09 structural assumptions without changing the live milestone grid.
+After that comes back, I should interpret the findings before we ask you to adjudicate anything."*
+
+**Written:** `reports/PRESSURE_PASS1_CANDIDATE_SOURCE_VALIDATION_2026-09-26.md`. Four read-only
+research passes produced it, and Claude verified about twenty key quotes against the export.
+
+**Findings:**
+
+- **No new grid row is supported.**
+  - P-CE1 is REDUNDANT with M56.
+  - P-A1 is REDUNDANT with M17.
+  - P-K2's chain is carried by M39 → M28 → M45 → M47. The B07 decision beat is IMPLIED.
+  - P-H1 is REDUNDANT with M28 and M33 and the cost ruling. It is NEW DESIGN as a milestone.
+  - P-T1 is mostly REDUNDANT with M12 and M37, and RECOVERED for publication. Correction is NEW
+    DESIGN.
+  - P-K1's "not purely local" is an **Act I** result. The real A3 threshold, drift plus No Reset, is
+    RECOVERED but in no row.
+  - P-RX1 is RECOVERED function for episode architecture.
+- **B04 and B05 survive if unnamed recovered functions are named:**
+  - the meta incidents, the Filament fracture, Seraphine's public exposure and civic protection;
+  - **Kade's approved B05 public rise**, which is in tension with the ruled succession.
+- **The grid stacks M54, M55 and M57 in B05 A3.**
+- **B07 A2 and the three wounds have recovered places but no named local people or dated decisions.**
+  The recovered bibles reuse one template at every wound. What distinguishes the sites is the
+  Alignment Chain's *breaks / turns / aligns*.
+- **Rex:** the author's own *"Rex answers the call and protects her"* (PC 44156) and the ruled M05
+  fissure solve his engagement with Seraphine. **His route from Detroit to NOLA is unsourced**, because
+  every recovered arrival has him a serving Technarc employee. No Detroit scene exists in the export.
+- **B09 A2 tone:** the pass's low-pressure basin runs against the author's *"book 9 is supposed to be
+  a culmination of chaos"* (NS 55367).
+- **Relation to earlier work:** this narrows ChatGPT's earlier Pass 4
+  (`reports/CANDIDATE_MILESTONE_SOURCE_TEST_PASS4_2026-09-26.md`). Pass 4 predates M17, M56 and M57.
+
+**Next:** the author interprets the findings, then adjudicates. **Not changed:** the grid, every
+ruling, card, context and proposal, including the pressure pass. **Checks:** canon scope 0.
+
+END OF ENTRY 134
+
+===============================================================
+
 END RECOVERY LEDGER
