@@ -8875,4 +8875,44 @@ END OF ENTRY 109
 
 ===============================================================
 
+# 110. The echo-guide Mira recovered — 2026-09-26
+
+`recovery/MIRA_ECHO_GUIDE_SOURCE_RECOVERY_2026-09-26.md`. Author quotations and the flattening were
+verified.
+
+**Found:**
+
+- **"Mira" names at least five figures.** The echo guide is the **author's own idea**, 11-13: *"a
+  ghost in the machine time character that begins to seed Seraphine's Luminous Thread transition"*
+  (`PC` 39413).
+- **Her role was locked on 11-13** (*"Lock it. Highest of fives"*): Seraphine's *"soft guide and
+  confidant through the transformation."* **Her nature was never settled.** Of the five offered
+  options, no author choice was found.
+- **She was flattened in stages:** merged with Mira Quon; split in two; demoted to a Filament elder
+  (**"Mira Tremeaux" first appears 11-24**); retconned into a memory-anchor. **The author accepted the
+  retcon on 11-27** (*"Integrate proposals and proceed"*), right after asking *"Did we lose Mira as an
+  echo … ?"*. His 09-26 ruling reverses that acceptance.
+- **The repo's 09-19 cast resolution conflated all the Miras into one and retired "Mira
+  Tremeaux"**, without citing the 11-13 lock.
+- **The "one echo only" rule used to flatten her was the assistant's.** Today's ruled rule is
+  narrower (Tahl identifiable once); an echo perceived only by Seraphine does not breach it.
+
+**The author's two hypotheses (the B01 child; a past Seraphine-type who helped make the hard cap)
+have no source.** The child is a boy in the author's early prose ("Little Gauthier") and unnamed in
+the beat work; the child's B01 E03 echo exists but is not a guide. Hypothesis B fits the author's
+*"Mira merges back with architecture"* and *"cycle of hard cap veils,"* but only as a reading.
+
+**Open for the author:**
+
+- Keep her?
+- If so, what is she: the child, a past Seraphine-type, or other?
+- Perceived only by Seraphine?
+- What is her function called, now that Lucien and Caro are "the guides"?
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 110
+
+===============================================================
+
 END RECOVERY LEDGER
