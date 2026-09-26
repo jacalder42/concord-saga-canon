@@ -8593,4 +8593,48 @@ END OF ENTRY 102
 
 ===============================================================
 
+# 103. Tahl's death recovered from the export — 2026-09-26
+
+**Asked:** the author: *"I do not clearly recall the specifics of Tahl's death."*
+`recovery/TAHL_DEATH_SOURCE_RECOVERY_2026-09-26.md`. Author quotations and the key staging lines
+were verified.
+
+**The author fixed five things:**
+
+1. **Late Book 6:** *"end of Book 6"*; *"I thought it was act III."*
+2. **Cause:** *"We know it was caused by the VT link."*
+3. **Silence collects him,** and Silence gains Intent at that collection.
+4. **The jazz-funeral second line** opens Book 7.
+5. **He and Kade *"never met."***
+
+**Everything else is assistant material in at least six stagings.** The best-attested is `NS`
+149826–150210 (a B6 Act III sequence), answered *"This direction is good"*:
+
+1. He goes to Santa Fe against Elisabet's warning, to witness from the centre.
+2. VT slip → *"MT goes black. Tahl dies in Santa Fe."*
+3. *"No farewell post."*
+4. Elisabet's maps then show *"all roads now converge on Louisiana's swamp."*
+
+This answers the B6 card's link 11 as accepted direction; the card carries a note.
+
+**Unravel hypothesis:** no source has Tahl learning of the wounds. The closest is Elisabet's
+post-death mapping (knowledge that is hers). A line has Tahl *"briefly"* perceive VT's structure;
+an art constraint says he *"cannot … map."* A combined reading is offered, not adopted.
+
+**M20:** the author's own words lean later than today's lean (end of Act II); still open for Neon
+mapping.
+
+**Open for the author:**
+
+- Is the Act III staging the one he remembers?
+- Which act?
+- Does Tahl glimpse the wound structure, does Elisabet map it, or both?
+- A last post, or none?
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 103
+
+===============================================================
+
 END RECOVERY LEDGER

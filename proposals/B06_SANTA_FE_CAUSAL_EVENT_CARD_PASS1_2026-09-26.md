@@ -51,6 +51,18 @@ analysis or this card · **READING** an observation this card makes from sources
 > that knowledge is gained. See the [Loom ruling's third follow-up](../decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md).
 > A hypothesis only.
 
+> **Source recovery, 2026-09-26** ([Tahl death recovery](../recovery/TAHL_DEATH_SOURCE_RECOVERY_2026-09-26.md)):
+>
+> - **The best-attested staging** (`NS` 149826–150210, answered *"This direction is good"*) is a
+>   Book 6 **Act III** sequence.
+> - **It answers link 11:** Tahl goes to Santa Fe against Elisabet's warning, *"I can't keep
+>   reporting from the edges if the center is about to fail."*
+> - The rest of the sequence: VT slip → *"MT goes black. Tahl dies in Santa Fe"* → *"No farewell
+>   post."* Afterwards Elisabet's maps show *"all roads now converge on Louisiana's swamp."*
+> - **The author's own cause statement:** *"We know it was caused by the VT link."*
+>
+> Direction only, not ruled.
+
 ## 1. The chain, link by link
 
 | # | Link | Status | Source |
