@@ -42,6 +42,7 @@ requires sit beside it and name the ruling they serve
 | `B01_SEQUENCE_EXCEPTIONS_PROVISIONAL.json` | Machine-readable hold for those inversions (companion, not a ruling) |
 | `B05_TECHNICAL_EVIDENCE_FUNCTION_AUTHOR_RULING_2026-09-23.md` | B05 fallible technical evidence / institutional concealment as story function |
 | `B01_E19_EBCI_GATE_AUTHOR_RULING_2026-09-25.md` | Retires the standalone E19+ prohibition; the B01 EBCI hold becomes the single gate, and stays shut |
+| `SAGA_MILESTONE_GATE_AUTHOR_RULING_2026-09-26.md` | The five milestone-gate decisions: Tahl named in B3 epilogue; Tahl posted the coordinates; LT is Seraphine reaching out to survivors. Riot/meta/Colorstorm and B08's opening are **leans only** |
 
 ### Earlier rulings, which stay in `recovery/`
 

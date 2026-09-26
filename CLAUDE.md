@@ -126,8 +126,8 @@ Each line points at where the evidence is. Ledger § numbers are in
 | **`MT` vs the infrastructure layer** (options A/B/C). Do not rename `MT_RULES.md` until ruled. Note: `canon_rules.json` `_naming_note` calls Mortal Technology retired; the rulings hold it open — contradiction recorded, not resolved | `recovery/CHANNEL_NAMES_RULING_2026-09-19.md` §2; ledger §20 |
 | **Post-Mending `res_states`** (the `LT` omission); Post-Mending era file held | ledger §18; `proposals/concord-2026/CHANNELS_AND_RESONANCE_STATES_2026-09-19.md` §4 |
 | **Closed vs spaced** `LuminousThread` / `MissingThread` | ledger §20 |
-| **Book 9 epilogue** — timeskip; whether `MT`→`LT` completes there | ledger §27.3 |
-| **Four author locks living only in proposals** (Baz death timing, Baz name, Tahl B01–B03 absence, VT contact ladder) — unmigrated | ledger §26.6 |
+| **Book 9 epilogue** — timeskip; what becomes of MT and Kade's stewardship. **LT's identity is ruled** (2026-09-26): the epilogue's final beat, Seraphine reaching out to survivors — **not** MT renamed. M35's wording is superseded on that point | ledger §27.3; `decisions/SAGA_MILESTONE_GATE_AUTHOR_RULING_2026-09-26.md` |
+| **Four author locks living only in proposals** (Baz death timing, Baz name, Tahl B01–B03 absence, VT contact ladder) — unmigrated. Tahl's **naming in the B3 epilogue** now has an author source (2026-09-26); *"not a primary character in B01–B03"* is still paraphrase | ledger §26.6 |
 | **Which of two conflicting recovered versions wins** (ND-045 proposes a rule; ledger §74 §4 shows recency alone fails) | ledger §26.12 |
 | **Cross-project provenance** (Mara Niht's tier; whether Eli Stone integrates; where Mara's lyric corpus is kept) | ledger §66–§69; `recovery/MARA_NIHT_RECOVERY_2026-09-21.md` §5 |
 | **`source_canon/` authority** — §5 | — |
@@ -225,7 +225,11 @@ do not promote or downgrade `seraphine_full.md`.
 - **Saga structure:** event tiers A–D and the unslotted pool
   (`proposals/SAGA_EVENT_TIERS_AND_UNSLOTTED_POOL_PASS1_2026-09-23.md`). The 36-milestone
   grid is a candidate set, not the saga skeleton. B08 has no recovered independent
-  non-finale turn.
+  non-finale turn; POOL-017 is the leading candidate (saga pass 1, ledger §85).
+  **The five milestone-gate decisions are answered** (2026-09-26,
+  `decisions/SAGA_MILESTONE_GATE_AUTHOR_RULING_2026-09-26.md`) — three ruled, two leans.
+  Next per the packet: B3/B6/B8 event cards, then a proposed grid **copy**; the live grid
+  is untouched until that copy is approved.
 - **Branches:** `main` is live. `claude/gifted-goodall-st4n7r` and
   `proposal/concord-2026-reconciliation` are **archival** — do not merge. The former's only
   unique change is an older `narrative-audit-framework-v1.md`; salvage concepts from it,

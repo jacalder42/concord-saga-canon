@@ -7639,4 +7639,75 @@ END OF ENTRY 85
 
 ===============================================================
 
+===============================================================
+
+# 86. The five milestone-gate decisions answered — 2026-09-26
+
+Ruling at `decisions/SAGA_MILESTONE_GATE_AUTHOR_RULING_2026-09-26.md`. **Three ruled, two
+leans.** No grid row, episode, rule file or EBCI status changed.
+
+The author, verbatim: *"1. B3 epilogue · 2. Tahl posted the coordinates of the event Baz was
+investigating. Perhaps causing more people to go there and it taking too long for Baz to
+evacuate the location. · 3. Soft lean toward yes as events · 4. i lean actual opening · 5. We
+originally discussed LT being the final thing in the epilogue where Seraphine reaches out to
+the survivors."*
+
+## 1. What is ruled
+
+- **Tahl is named in the B3 epilogue.** This closes the question §85 narrowed. It also gives
+  one of §26.6's *"four locks living only in proposals"* its first author source: the
+  handoff's unquoted paraphrase now has the author's words behind it.
+- **Tahl posted the coordinates of the event Baz was investigating.** He exposed a location
+  and made it public. That is the packet's option A, and it rules out option B: **Tahl's post
+  does not cause the Rupture.** The crowd-and-slowed-evacuation chain carries the author's
+  **"perhaps"** and is **not ruled**. It is the leading hypothesis the Warehouse causal card
+  must test. Nothing says Tahl knew Baz was there, and *"Baz does not work directly with
+  Tahl"* stands.
+- **LT is the final beat of the Book 9 epilogue: Seraphine reaching out to the survivors.**
+
+## 2. The LT answer took neither offered option, and it matches Mechanica
+
+The packet offered two options: **A**, LT as a distinct public channel identity, and **B**, an
+MT rebrand. The answer is neither. **`Mechanica-v4.md` §39 already says what the author
+recalled:** *"LT … is perceivable only by ascendants … Civilians perceive only calm or
+clarity."* Seraphine is one of the trio who ascend. So the ruling and the rule file agree.
+
+**The disagreement is with M35**: *"MT is renamed LT; Kade's stewardship completes,"* noted as
+*"A rename, not a channel conversion"* from Notion B9 E20. **That wording is superseded on
+LT's identity.** LT is not MT renamed and it is not Kade's. What becomes of MT and of Kade's
+stewardship after the Mending is a **separate, open question**, and so is what survivors
+actually perceive. Mechanica says *calm or clarity*, not a readable message.
+
+**Worth recording as a pattern:** the packet's options were built from the grid and Notion,
+and neither carried the Mechanica constraint. The rule file held the answer all along. When
+an option set is derived from one source layer, it can omit the reading another layer already
+fixes.
+
+## 3. Leans are recorded so they are not promoted
+
+**Lean 3** keeps the Riot of Light, first public meta and NOLA Colorstorm **as events** in the
+search. It does **not** revive the wording claims the review flagged: *"first global"* (M19)
+and *"first public"* (M17) still need evidence.
+
+**Lean 4** favours an **objective** storm opening at B08's end. The packet's minimum scene card
+for a literal opening is still owed, and POOL-020's duplicate risk with B9 is unresolved.
+
+## 4. Propagation
+
+`CLAUDE.md` §4.1: the Book 9 epilogue row now records LT's ruled identity. The §26.6 row notes
+that Tahl's naming has an author source. §8 records that the gate is answered and what comes
+next. Saga pass 1 §6 is annotated as answered. `decisions/README.md` indexes the ruling.
+**The live grid is untouched.** M35 keeps its wording until a proposed copy is reviewed.
+
+**Next, per the packet's release criterion:** B3, B6 and B8 event cards, then a proposed grid
+copy with original and revised wording side by side.
+
+## 5. Verification
+
+Canon scope **0**; self-tests **144**; source verifier **PASS** at 138.
+
+END OF ENTRY 86
+
+===============================================================
+
 END RECOVERY LEDGER

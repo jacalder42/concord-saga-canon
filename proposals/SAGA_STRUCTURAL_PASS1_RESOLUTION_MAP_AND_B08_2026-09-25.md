@@ -199,7 +199,11 @@ they become judgeable, and not to fake a nine-book reading from B01 alone.
 
 ## 6. The five author decisions, shortest form, with #1 revised
 
-These have been open since 2026-09-23 and gate the milestone layer.
+These had been open since 2026-09-23 and gate the milestone layer.
+
+> **Answered 2026-09-26** — `decisions/SAGA_MILESTONE_GATE_AUTHOR_RULING_2026-09-26.md`.
+> #1, #2's first sentence and #5 are ruled; #3 and #4 are **leans**. The list below is the
+> record of what was asked.
 
 1. **Tahl's naming: the B3 epilogue, or earlier in Book 3?** *(Revised by §4 — "B4" has no
    supporting author sentence.)* B4 remorse arc stands either way.
