@@ -1,6 +1,67 @@
 # Neon Milestone Architecture — Author Ruling — 2026-09-26
 
-**Status:** AUTHOR RULING / LIVE GRID PROMOTION  
+**Status:** AMENDED 2026-09-26 by the author's clarification (below). **Only the items marked
+RULED in §0 are author rulings.** The rest of this document, written by the ChatGPT session, is
+**approved design direction for continued development, not ruled canon**. It was first recorded
+as *"AUTHOR RULING / LIVE GRID PROMOTION"*.
+
+## 0. Author clarification, 2026-09-26 (recorded by Claude)
+
+**The author's words, verbatim:**
+
+> 1 yes approved, 2 add them, 3 yes.
+>
+> […] Treat the recent ChatGPT Neon work as approved for continued design/reconciliation, but not as
+> blanket author rulings where my specific ruling was not recorded. "Proceed" authorized ChatGPT to
+> continue developing the architecture; it should not have converted every resulting design choice
+> into ruled canon.
+>
+> 1. Preserve the research and proposal documents. Do not discard the Neon work.
+> 2. Roll back or downgrade any newly "ruled" material that lacks a specific prior author ruling,
+>    while preserving previously established rulings.
+> 3. M15: retire the premature B04 Kade milestone. Kade's meaningful MT succession follows Tahl's death.
+> 4. M19: remove Colorstorm from saga-milestone status, but retain Colorstorm as a named B05 New
+>    Orleans event-condition for further development. It does not automatically cause or gate Santa Fe.
+> 5. M22: merging the non-identifiable Tahl echo material into M21 is acceptable if it does not alter
+>    the established rule that there is only one identifiable Tahl flare later in B09.
+> 6. Lucien returning to Vienna in B04 is the preferred current design direction, but record it as
+>    design/proposal rather than recovered canon or author ruling until we explicitly lock it.
+> 7. Chicago is likewise a design opportunity for Caro, not recovered attendance. Keep it proposed.
+> 8. Do not resolve the Santa Fe Act II/Act III conflict yet. Preserve the previously accepted
+>    escalation ladder and flag the exact rupture/death placement for adjudication.
+> 9. Do not lock Tahl as the originator of the Santa Fe warning yet. Preserve the Tahl/Filament
+>    transmission question as open.
+> 10. Do not add new ruled claims to M20, M37, or M39 beyond what was already explicitly ruled.
+>     Additional material can remain proposed until reviewed.
+>
+> For the storyline labels, do not expand the validator vocabulary merely to accommodate ChatGPT's
+> new rows. Use existing valid thread/storyline labels where they accurately apply; otherwise leave
+> the assignment proposed/unassigned until we review the taxonomy.
+
+**Reading.** The first line answers the review's three questions (*"approved"*, *"add them"*,
+*"yes"*). The detailed instructions that follow narrow all three, and they govern:
+
+- *"approved"* means approved **for continued design**;
+- *"add them"* gives way to *"do not expand the validator vocabulary"*;
+- *"yes"* on M38 gives way to *"Do not resolve the Santa Fe Act II/Act III conflict yet."*
+
+| Item | Status | Grid consequence |
+| --- | --- | --- |
+| **M15 retired**; Kade's meaningful MT succession follows Tahl's death | **RULED** | `retired` |
+| **M19** off saga-milestone status; the **Colorstorm is kept** as a named B05 New Orleans event-condition; it does not automatically cause or gate Santa Fe | **RULED** | `retired`; M38's M19 setup removed |
+| **M22 merged into M21**, on condition that there is still one identifiable Tahl flare, in B09 | **RULED** (conditional) | M22 `retired`; M21 `proposed` (its "Silence preserves" wording is recalled, not ruled) |
+| **Lucien's B04 Vienna return** (M05) | **Preferred design direction**, not ruled | M05 `proposed`; trilogy corrected to `T2` |
+| **Caro's Chicago** (M54) | **Design opportunity**, not recovered attendance | `proposed` |
+| **Santa Fe Rupture/death placement** (M38 against M20) | **OPEN, flagged for adjudication**; the accepted ladder (Rupture in B06 Act II) is preserved | M38 reverted to the approved wording, `proposed` |
+| **Who originates or relays the VT warning** | **OPEN** (Tahl or Filaments) | Not locked in any row |
+| **M20, M37, M39** | Ruled wording restored; ChatGPT's additions kept in the notes **as proposed** | `ruled`, as approved |
+| M13, M14, M16, M17, M18, M21, M23, M55, M56, M57 | Design wording, `proposed` | `proposed` |
+| **Threads** `caro`, `elisabet`, `seraphine_lucien` | **Not added.** M56 keeps `caro_elisabet`. M54, M55 and M57 are `UNSCORED` pending taxonomy review | — |
+
+**Everything below this section is ChatGPT's original text, kept for the record.** Where it says
+"ruling", read "design direction" unless §0 marks the item RULED.
+
+---
 **Scope:** B04–B06 milestone architecture, relationship turns, and Colorstorm disposition.  
 **Does not authorize:** EBCI, prose, unresolved event physics, manufactured-meta transfer mechanics, exact episode staging, or source_canon changes.
 

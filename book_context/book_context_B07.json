@@ -22,8 +22,8 @@
   },
   "entry_state": {
     "_basis": "derived",
-    "_derivation": "DERIVED 2026-09-26: B07 entry state inherits B06 active exit locks after Neon milestone promotion.",
-    "_status": "mixed - inherited from grid rows",
+    "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py: a book's entry state is the preceding book's exit state, so this cites B06's exit_state_locks rather than restating them.",
+    "_status": "mixed - inherited from the grid rows",
     "inherits_from": "B06",
     "carried_in_locks": [
       "M17",
@@ -39,8 +39,8 @@
   "exit_state_locks": [
     {
       "_basis": "derived",
-      "_derivation": "DERIVED 2026-09-26 from grids/milestones_payoffs.csv after atomic Neon promotion. Active milestones landing in this book are exit locks. Retired rows are excluded. Structural coordinates only; descriptions/status live in the grid.",
-      "_status": "mixed - inherit status from grid rows"
+      "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py from grids/milestones_payoffs.csv: the active (not retired) milestones landing in this book are what it locks on exit. Structural coordinates only; descriptions and statuses live in the grid. Regenerate with the tool, never by hand.",
+      "_status": "mixed - each lock inherits its row's status in the grid"
     },
     {
       "milestone": "M40",
@@ -133,11 +133,47 @@
   "continuity_hooks": [
     {
       "_basis": "derived",
-      "_derivation": "DERIVED 2026-09-26 from active grids/milestones_payoffs.csv required_setups after Neon atomic promotion. Retired rows are excluded. Milestone IDs are cited rather than descriptions.",
+      "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py from grids/milestones_payoffs.csv required_setups between active rows. A cross-book dependency is a continuity hook. Milestone IDs are cited, not described.",
       "_counts": {
         "owes_forward": 6,
         "collects": 7
       }
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M43",
+      "required_by": "M44",
+      "in_book": "B08"
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M28",
+      "required_by": "M45",
+      "in_book": "B08"
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M41",
+      "required_by": "M52",
+      "in_book": "B09"
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M49",
+      "required_by": "M33",
+      "in_book": "B09"
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M26",
+      "required_by": "M35",
+      "in_book": "B09"
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M40",
+      "required_by": "M53",
+      "in_book": "B09"
     },
     {
       "kind": "collects",
@@ -180,42 +216,6 @@
       "milestone": "M28",
       "requires": "M39",
       "from_book": "B06"
-    },
-    {
-      "kind": "owes_forward",
-      "milestone": "M43",
-      "required_by": "M44",
-      "in_book": "B08"
-    },
-    {
-      "kind": "owes_forward",
-      "milestone": "M28",
-      "required_by": "M45",
-      "in_book": "B08"
-    },
-    {
-      "kind": "owes_forward",
-      "milestone": "M41",
-      "required_by": "M52",
-      "in_book": "B09"
-    },
-    {
-      "kind": "owes_forward",
-      "milestone": "M49",
-      "required_by": "M33",
-      "in_book": "B09"
-    },
-    {
-      "kind": "owes_forward",
-      "milestone": "M26",
-      "required_by": "M35",
-      "in_book": "B09"
-    },
-    {
-      "kind": "owes_forward",
-      "milestone": "M40",
-      "required_by": "M53",
-      "in_book": "B09"
     }
   ]
 }

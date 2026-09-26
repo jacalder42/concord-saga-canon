@@ -29,8 +29,8 @@
   "exit_state_locks": [
     {
       "_basis": "derived",
-      "_derivation": "DERIVED 2026-09-20 from grids/milestones_payoffs.csv: the milestones landing in this book are what it locks on exit. Structural coordinates only (milestone, act, episode); the grid holds the descriptions. All 36 rows are status `proposed`, so every lock here inherits that status. Regenerate rather than hand-edit. Ledger section 59.",
-      "_status": "proposed - inherited from the grid rows"
+      "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py from grids/milestones_payoffs.csv: the active (not retired) milestones landing in this book are what it locks on exit. Structural coordinates only; descriptions and statuses live in the grid. Regenerate with the tool, never by hand.",
+      "_status": "mixed - each lock inherits its row's status in the grid"
     },
     {
       "milestone": "M01",
@@ -95,9 +95,9 @@
   "continuity_hooks": [
     {
       "_basis": "derived",
-      "_derivation": "DERIVED 2026-09-20 from grids/milestones_payoffs.csv `required_setups`, which encodes 54 dependency edges, 33 of them cross-book, with zero dangling and zero backward references. A cross-book dependency IS a continuity hook. Regenerate rather than hand-edit: if the grid changes, this block is stale. Milestone IDs are cited rather than described - the grid holds the descriptions, and duplicating them here would create a second copy to drift. Ledger section 59.",
+      "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py from grids/milestones_payoffs.csv required_setups between active rows. A cross-book dependency is a continuity hook. Milestone IDs are cited, not described.",
       "_counts": {
-        "owes_forward": 6,
+        "owes_forward": 4,
         "collects": 0
       }
     },
@@ -116,26 +116,14 @@
     {
       "kind": "owes_forward",
       "milestone": "M02",
-      "required_by": "M15",
-      "in_book": "B04"
-    },
-    {
-      "kind": "owes_forward",
-      "milestone": "M02",
       "required_by": "M18",
       "in_book": "B05"
     },
     {
       "kind": "owes_forward",
       "milestone": "M03",
-      "required_by": "M29",
-      "in_book": "B08"
-    },
-    {
-      "kind": "owes_forward",
-      "milestone": "M03",
-      "required_by": "M33",
-      "in_book": "B09"
+      "required_by": "M49",
+      "in_book": "B07"
     }
   ]
 }

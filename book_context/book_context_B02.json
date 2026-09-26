@@ -22,8 +22,8 @@
   },
   "entry_state": {
     "_basis": "derived",
-    "_derivation": "DERIVED 2026-09-20: a book's entry state is the preceding book's exit state. B0N entry = B0N-1 exit, so this cites BB01's exit_state_locks rather than restating them - one source, not two. Structural coordinates only; the grid holds the descriptions. Inherits status `proposed` from those grid rows. Regenerate rather than hand-edit. Ledger section 60.",
-    "_status": "proposed - inherited from the grid rows",
+    "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py: a book's entry state is the preceding book's exit state, so this cites B01's exit_state_locks rather than restating them.",
+    "_status": "mixed - inherited from the grid rows",
     "inherits_from": "B01",
     "carried_in_locks": [
       "M01",
@@ -36,16 +36,12 @@
   "exit_state_locks": [
     {
       "_basis": "derived",
-      "_derivation": "DERIVED 2026-09-20 from grids/milestones_payoffs.csv: the milestones landing in this book are what it locks on exit. Structural coordinates only (milestone, act, episode); the grid holds the descriptions. All 36 rows are status `proposed`, so every lock here inherits that status. Regenerate rather than hand-edit. Ledger section 59.",
-      "_status": "proposed - inherited from the grid rows"
+      "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py from grids/milestones_payoffs.csv: the active (not retired) milestones landing in this book are what it locks on exit. Structural coordinates only; descriptions and statuses live in the grid. Regenerate with the tool, never by hand.",
+      "_status": "mixed - each lock inherits its row's status in the grid"
     },
     {
       "milestone": "M04",
       "act": "A1"
-    },
-    {
-      "milestone": "M05",
-      "act": "A2"
     },
     {
       "milestone": "M06",
@@ -97,11 +93,23 @@
   "continuity_hooks": [
     {
       "_basis": "derived",
-      "_derivation": "DERIVED 2026-09-20 from grids/milestones_payoffs.csv `required_setups`, which encodes 54 dependency edges, 33 of them cross-book, with zero dangling and zero backward references. A cross-book dependency IS a continuity hook. Regenerate rather than hand-edit: if the grid changes, this block is stale. Milestone IDs are cited rather than described - the grid holds the descriptions, and duplicating them here would create a second copy to drift. Ledger section 59.",
+      "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py from grids/milestones_payoffs.csv required_setups between active rows. A cross-book dependency is a continuity hook. Milestone IDs are cited, not described.",
       "_counts": {
-        "owes_forward": 6,
+        "owes_forward": 7,
         "collects": 2
       }
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M04",
+      "required_by": "M11",
+      "in_book": "B03"
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M06",
+      "required_by": "M08",
+      "in_book": "B03"
     },
     {
       "kind": "owes_forward",
@@ -113,18 +121,6 @@
       "kind": "owes_forward",
       "milestone": "M04",
       "required_by": "M12",
-      "in_book": "B04"
-    },
-    {
-      "kind": "owes_forward",
-      "milestone": "M05",
-      "required_by": "M33",
-      "in_book": "B09"
-    },
-    {
-      "kind": "owes_forward",
-      "milestone": "M06",
-      "required_by": "M08",
       "in_book": "B03"
     },
     {
@@ -135,8 +131,14 @@
     },
     {
       "kind": "owes_forward",
-      "milestone": "M06",
-      "required_by": "M19",
+      "milestone": "M07",
+      "required_by": "M54",
+      "in_book": "B05"
+    },
+    {
+      "kind": "owes_forward",
+      "milestone": "M07",
+      "required_by": "M56",
       "in_book": "B05"
     },
     {

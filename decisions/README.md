@@ -54,6 +54,7 @@ requires sit beside it and name the ruling they serve
 | `MILESTONE_GRID_COPY_APPROVAL_AUTHOR_RULING_2026-09-26.md` | **The proposed grid copy replaces `grids/milestones_payoffs.csv`**: 53 rows (17 new, M29 retired), **20 `ruled`**, 32 `proposed`. The review's conflicts stay in the rows' notes; thread pressure is not yet recalibrated |
 | `SAGA_CAST_SEPARATION_AND_GLOBAL_THEATERS_AUTHOR_RULING_2026-09-26.md` | **Primary-cast separation is intentional saga architecture**; main-cast itinerary is not the world map; global theaters may carry independent characters, institutions, consequences and information; reunion/convergence must be earned. No specific itinerary or POV is assigned |
 | `POV_DISTRIBUTION_TARGETS_AND_TRILOGY_BATON_AUTHOR_RULING_2026-09-26.md` | Restores **~30/30/30/10 as soft editorial POV targets**: trilogy lead (Baz/Tahl/Kade), Seraphine, secondary-protagonist pool, flex. Story ownership outranks arithmetic; no mechanical rotation or exact quota |
+| `NEON_MILESTONE_ARCHITECTURE_AUTHOR_RULING_2026-09-26.md` | **Amended by the author's clarification (§0).** RULED: M15 retired (Kade's MT succession follows Tahl's death); M19 off milestone status, **Colorstorm kept** as a B05 New Orleans event-condition; M22 merged into M21 (one identifiable flare, B09). **Design, not ruled:** Lucien's B04 Vienna return, Caro's Chicago, M54–M57. **Open:** Santa Fe Rupture/death placement; who originates the VT warning. *"Proceed" authorizes design, not rulings* |
 
 
 ### Earlier rulings, which stay in `recovery/`

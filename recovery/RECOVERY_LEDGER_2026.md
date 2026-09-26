@@ -9200,4 +9200,73 @@ END OF ENTRY 117
 
 ===============================================================
 
+# 118. ChatGPT Neon work: author clarification applied; grid and contexts repaired — 2026-09-26
+
+**The author** answered the review (§117): *"1 yes approved, 2 add them, 3 yes."* Then, in detail:
+**"Proceed" authorized continued design, not blanket rulings.** The research is kept, and newly
+"ruled" material without a specific prior ruling is downgraded. The full text and the item-by-item
+table are in `decisions/NEON_MILESTONE_ARCHITECTURE_AUTHOR_RULING_2026-09-26.md` §0. The detailed
+instructions govern where they narrow the first line.
+
+**Ruled:**
+
+- **M15** retired. Kade's meaningful MT succession follows Tahl's death.
+- **M19** off milestone status. The **Colorstorm is kept** as a named B05 New Orleans
+  event-condition; it does not cause or gate Santa Fe.
+- **M22** merged into **M21**, provided there is still one identifiable Tahl flare, in B09.
+
+**Kept as design, `proposed`:**
+
+- M05, Lucien's B04 Vienna return (the preferred direction);
+- M54, Caro's Chicago (a design opportunity);
+- M13, M14, M16, M17, M18, M21, M23, M55, M56, M57.
+
+**Open:**
+
+- the Santa Fe Rupture/death placement (M38 against M20), flagged; the accepted ladder is kept;
+- who originates or relays the VT warning.
+
+**Grid repairs** (`grids/milestones_payoffs.csv`):
+
+- Nine promotions reverted to `proposed`: M05, M18, M21, M23, M38, M54–M57.
+- **M20, M37 and M39** have their approved wording and targets back. ChatGPT's additions are kept
+  in the notes as proposed.
+- **M38** is back to the approved wording; its M19 setup is removed.
+- **M05** `target_trilogy` `T1-T2` → `T2`.
+- **Threads:** the vocabulary is not expanded. M56 keeps `caro_elisabet`. M54, M55 and M57 →
+  `UNSCORED`, with ChatGPT's labels kept in the notes.
+- **Result:** 57 rows. **The same 20 `ruled`**, 33 `proposed`, 4 `retired`.
+
+**The ratchet test** keeps its exact 20-row `ruled` lock unchanged. It was changed only where
+rulings justify it:
+
+- the retired set is now M15, M19, M22 and M29;
+- the fixed row count gives way to a stricter rule: **rows beyond the approved M01–M53 must be
+  `proposed`**, and no approved row may be dropped.
+
+Still 144 tests.
+
+**Book contexts:**
+
+- **New `tools/derive_book_context.py`** rebuilds `exit_state_locks`, `entry_state` and
+  `continuity_hooks` from the grid, and leaves every other key untouched. `--check` reports drift.
+- **All nine were rebuilt.** B02 no longer carries M05; B03 now carries M11 and M12. **B01 was
+  stale too**, still citing the retired M29 and M15 (Claude's own omission, from `929e91c`).
+- **M37** has no `target_book` (its ruled range is B04–B06), so it lands in no book's locks. The
+  tool reports it.
+
+**Governance (CLAUDE.md §2, §4):**
+
+- **This ledger is append-only and must never be rewritten from a partial fetch**; check that the
+  ledger diff is additions only.
+- *"Proceed"* authorizes design, not rulings.
+- The derive tool is added to the pre-commit list.
+
+**Checks:** canon scope **0**; **144** self-tests pass; the derive check shows no drift; sources
+unchanged.
+
+END OF ENTRY 118
+
+===============================================================
+
 END RECOVERY LEDGER

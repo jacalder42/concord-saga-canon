@@ -753,20 +753,33 @@ class MilestoneGridRatchet(unittest.TestCase):
 
     def test_only_the_approved_rows_are_ruled(self):
         """Was: every row proposed (36). The author approved the copy on 2026-09-26
-        ("Accept whole grid, keep the 20"); only those 20 may carry `ruled`, and M29
-        is the one retirement. Any other promotion is a change someone made.
+        ("Accept whole grid, keep the 20"); only those 20 may carry `ruled`. Any other
+        promotion is a change someone made. Tightened after the ChatGPT session of the
+        same day promoted nine rows without a recorded ruling (ledger 117-118).
         """
         import csv as _csv
         with open(LIVE_GRID, encoding="utf-8") as fh:
             rows = list(_csv.DictReader(fh))
-        self.assertEqual(len(rows), 53)
         ruled = sorted((r["milestone_id"] for r in rows if r["status"] == "ruled"),
                        key=lambda m: int(m[1:]))
         self.assertEqual(ruled, [
             "M11", "M12", "M20", "M28", "M33", "M35", "M37", "M39", "M40", "M41",
             "M42", "M43", "M44", "M46", "M47", "M48", "M49", "M50", "M52", "M53"])
-        self.assertEqual([r["milestone_id"] for r in rows if r["status"] == "retired"],
-                         ["M29"])
+        # Retirements need an explicit ruling. M29: the approved copy. M15, M19, M22:
+        # the author's clarification of 2026-09-26 (items 3-5), recorded in
+        # decisions/NEON_MILESTONE_ARCHITECTURE_AUTHOR_RULING_2026-09-26.md.
+        retired = sorted((r["milestone_id"] for r in rows if r["status"] == "retired"),
+                         key=lambda m: int(m[1:]))
+        self.assertEqual(retired, ["M15", "M19", "M22", "M29"])
+        # Rows added after the approved 53 (M01-M53) may exist only as `proposed`:
+        # adding a row is design work, promoting it is the author's.
+        approved = {f"M{n:02d}" for n in range(1, 54)}
+        added = {r["milestone_id"]: r["status"] for r in rows
+                 if r["milestone_id"] not in approved}
+        self.assertEqual({s for s in added.values()} - {"proposed"}, set(),
+                         f"rows beyond the approved copy must stay proposed: {added}")
+        self.assertTrue(approved <= {r["milestone_id"] for r in rows},
+                        "no approved row may be dropped")
         self.assertEqual(
             {r["status"] for r in rows}, {"proposed", "ruled", "retired"})
 

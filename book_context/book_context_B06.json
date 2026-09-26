@@ -22,33 +22,31 @@
   },
   "entry_state": {
     "_basis": "derived",
-    "_derivation": "DERIVED 2026-09-26: B06 entry state inherits B05 active exit locks after Neon milestone promotion.",
-    "_status": "mixed - inherited from grid rows",
+    "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py: a book's entry state is the preceding book's exit state, so this cites B05's exit_state_locks rather than restating them.",
+    "_status": "mixed - inherited from the grid rows",
     "inherits_from": "B05",
     "carried_in_locks": [
-      "M37",
       "M18",
       "M54",
       "M55",
-      "M56"
+      "M56",
+      "M57"
     ],
-    "world": "DERIVED: the world as B05 leaves it. See book_context_B05.json exit_state_locks: M37, M18, M54, M55, M56.",
+    "world": "DERIVED: the world as B05 leaves it. See book_context_B05.json exit_state_locks: M18, M54, M55, M56, M57.",
     "key_character_states": "DERIVED: as B05 leaves them. Character-level state is not carried in the milestone grid, which records events rather than per-character condition. What IS derivable is cited above; per-character detail needs either a character-arc layer (none exists yet - CLAUDE.md section 8.0 lists character arcs as genuinely unstructured) or an author pass. Not invented here."
   },
   "exit_state_locks": [
     {
       "_basis": "derived",
-      "_derivation": "DERIVED 2026-09-26 from grids/milestones_payoffs.csv after atomic Neon promotion. Active milestones landing in this book are exit locks. Retired rows are excluded. Structural coordinates only; descriptions/status live in the grid.",
-      "_status": "mixed - inherit status from grid rows"
+      "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py from grids/milestones_payoffs.csv: the active (not retired) milestones landing in this book are what it locks on exit. Structural coordinates only; descriptions and statuses live in the grid. Regenerate with the tool, never by hand.",
+      "_status": "mixed - each lock inherits its row's status in the grid"
     },
     {
       "milestone": "M17",
       "act": "A1"
     },
     {
-      "milestone": "M38",
-      "act": "A3",
-      "episode": "B05 A3-B06 A3"
+      "milestone": "M38"
     },
     {
       "milestone": "M20",
@@ -109,35 +107,11 @@
   "continuity_hooks": [
     {
       "_basis": "derived",
-      "_derivation": "DERIVED 2026-09-26 from active grids/milestones_payoffs.csv required_setups after Neon atomic promotion. Retired rows are excluded. Milestone IDs are cited rather than descriptions.",
+      "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py from grids/milestones_payoffs.csv required_setups between active rows. A cross-book dependency is a continuity hook. Milestone IDs are cited, not described.",
       "_counts": {
         "owes_forward": 12,
-        "collects": 4
+        "collects": 3
       }
-    },
-    {
-      "kind": "collects",
-      "milestone": "M17",
-      "requires": "M13",
-      "from_book": "B04"
-    },
-    {
-      "kind": "collects",
-      "milestone": "M38",
-      "requires": "M55",
-      "from_book": "B05"
-    },
-    {
-      "kind": "collects",
-      "milestone": "M20",
-      "requires": "M12",
-      "from_book": "B03"
-    },
-    {
-      "kind": "collects",
-      "milestone": "M21",
-      "requires": "M09",
-      "from_book": "B03"
     },
     {
       "kind": "owes_forward",
@@ -210,6 +184,24 @@
       "milestone": "M21",
       "required_by": "M36",
       "in_book": "B09"
+    },
+    {
+      "kind": "collects",
+      "milestone": "M17",
+      "requires": "M13",
+      "from_book": "B04"
+    },
+    {
+      "kind": "collects",
+      "milestone": "M20",
+      "requires": "M12",
+      "from_book": "B03"
+    },
+    {
+      "kind": "collects",
+      "milestone": "M21",
+      "requires": "M09",
+      "from_book": "B03"
     }
   ]
 }

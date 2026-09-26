@@ -60,12 +60,18 @@ manages this repository without his input at every step.
 - **No push credentials?** Commit locally and hand the author a patch series
   (`git format-patch origin/main`) to apply with `git am`. Do not ask for a token in chat.
 - **Never delete recovered source material.** Flag empty or broken files in the ledger.
+- **`recovery/RECOVERY_LEDGER_2026.md` is append-only.** Add a new entry before `END RECOVERY
+  LEDGER`; never rewrite, reflow or replace the file, and **never write it back from a partial
+  fetch** (a truncated read, an API excerpt, a web view). On 2026-09-26 a whole-file write from a
+  partial view deleted §1–§114; it was restored from git (ledger §117). Before committing, check
+  that the diff to the ledger is additions only.
 - **Run before every commit that touches the substrate:**
 
   ```sh
   python3 tools/validate_canon.py          # canon scope; must exit 0
   python3 tools/test_validate_canon.py     # self-tests; must pass
   python3 tools/verify_sources.py          # if sources/ changed
+  python3 tools/derive_book_context.py     # if the milestone grid changed; --check to test
   ```
 
   CI runs the same three on every push (`.github/workflows/validate.yml`).
@@ -109,7 +115,8 @@ between conflicting sources (record both readings and where each came from); and
 promote assistant-generated material to canon.
 
 **An author "Agreed" accepts the specific recommendations put to him, not everything they
-cite.** Record every acceptance as a ruling in `decisions/` that states what was accepted
+cite.** **"Proceed" authorizes continued design, not rulings** (author, 2026-09-26): design
+choices made while proceeding stay `proposed` until the author rules on them specifically. Record every acceptance as a ruling in `decisions/` that states what was accepted
 and what was not (`decisions/README.md`).
 
 ### 4.1 Open author questions
@@ -129,7 +136,7 @@ Each line points at where the evidence is. Ledger § numbers are in
 | **Book 9 epilogue** — timeskip. **Ruled 2026-09-26:** LT is the epilogue's final beat, Seraphine reaching out to survivors; **MT continues** under a new MT-initialled name (*MendedThread*, *MortalThreads* are examples, not a choice) with a new role for it and for Kade — role unspecified. M35's wording is superseded. **Also ruled:** a Lacuna–Kade night-sky scene closing on an LT prompt, Möbius with the B01 prologue. **Recovered 09-26:** it is the author's own locked 2025-11-29 design. **Answered 09-26:** the timeskip leans to **a few days**. **Tahl's echo is the conduit** for the trio's reach, ruled. The handshake reaches Kade's device through a **`LT_RULES` §6 exception**. **Kade reintegrates the rebellion's people** alongside Elisabet and Rex, ruled. Still open: the timeskip (a lean, not ruled); the entity's name (*Accord* / *Concord*); the epilogue triangle is **implied**, not an appearance (ruled) | ledger §27.3, §89, §92, §93; `decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`; `recovery/B09_EPILOGUE_KADE_LACUNA_SOURCE_RECOVERY_2026-09-26.md`; `decisions/SAGA_MILESTONE_GATE_AUTHOR_RULING_2026-09-26.md`; `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md` |
 | **LT access beyond Kade.** §39 **amended 2026-09-26**: Kade has access, by named exception ("at least Kade"). Still open: other protagonist survivors; what access consists of (KadeEBCI's *"(no agency)"*); the author's *"more tangible than VT"* against `LT_RULES`' softer language | `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`; ledger §89 |
 | **B03 Warehouse** — which of the two post stagings (supplemental text or effect-only); whether the reported dead first responder is Baz or a second death. (Tahl learns Baz's name from a news report before B06, ruled 09-26.) Links 5–7 are **delegated** to a working assumption the author may override | `decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`; ledger §89, §93 |
-| **B06 / B08 remaining** — M20's act is **ruled: the end of B06** (it conflicts with the accepted ladder's Act II Rupture, grid M38); M36's farewell against the single identifiable Echo (the B09 flare, known by Rex — ruled 09-26); whether Kade actually caused the B08 opening; where Elias is when he claims it; how the factions learn of the site in B09 A3 | `decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`; ledger §93 |
+| **B06 / B08 remaining** — M20's act is **ruled: the end of B06**; **the Santa Fe Rupture/death placement is flagged for adjudication** against the accepted ladder's Act II Rupture (grid M38; the author, 2026-09-26: *"Do not resolve … yet"*); **who originates or relays the VT warning stays open** (Tahl or Filaments); M36's farewell against the single identifiable Echo (the B09 flare, known by Rex — ruled 09-26); whether Kade actually caused the B08 opening; where Elias is when he claims it; how the factions learn of the site in B09 A3 | `decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`; ledger §93 |
 | **Loom details after the spine ruling** (09-26: the 11-28 plan is the spine; B07 = Kade's post + NOLA breaks; B08 = thin-place finding + Kade's complicity; Lacuna split foreshadowed end B07, made at start B08). Follow-up ruled: thin place **Santa Fe**; B07 opens **at the funeral, Lacuna prominent**; B09 escape at **Serpent Mound**. **The factions and others think it leads back to Louisiana (perhaps via the storm-wall opening); the primary protagonists know there are multiple wounds and Honey Island must be repaired last** (ruled 09-26). *Maybe* getting that knowledge unravels Tahl (hypothesis). **Repair = stabilisation; the circuit is Silence and Hope's hard-cap plan, and Seraphine grows to question it and begins the breathing-veil potential** (ruled 09-26); the crew stabilises Santa Fe (lean). **Wound sites recovered** (`recovery/LOOM_WOUND_SITES_SOURCE_RECOVERY_2026-09-26.md`): the author-saved **Alignment Chain**, Santa Fe → Mound City → Serpent Mound → Honey Island (the original Tear). It matches the ruled route; stabilisation and the hard-cap link are new 09-26 material, not recovered. **Hard cap / breathing veil recovered** (`recovery/HARD_CAP_BREATHING_VEIL_SOURCE_RECOVERY_2026-09-26.md`): the author's Nov 13–15 design, with a **locked Finale Phase Map**: Loom (Seraphine), Two Anchors (Lucien, Caro), Guide (Tahl/VT); Silence and Hope disperse into the structure; the answer is reserved for the very end. **Ruled 09-26:** four wounds; Mound City in B08 after Santa Fe; Serpent Mound continuous across B08/B09; Tahl's message = the shape, the chain = the particulars; Seraphine's doubt grows from becoming the Loom; **cost: Seraphine thinks only her; Lucien and Caro realise at the Mending they must become the guides as Silence and Hope give themselves to the Loom** (`decisions/LOOM_CHAIN_KNOWLEDGE_AND_MENDING_COST_AUTHOR_RULING_2026-09-26.md`, which also explains map vs 12-07). **Follow-up ruled:** where the map and 12-07 conflict, **12-07 wins** (Silence powers Tahl's echo; one-at-a-time order with Elisabet's goodbye); **Lucien and Caro are the guides, Tahl the conduit**. B08's end sequence is **deferred** until book/act/episode milestones are extrapolated. **Mira** is not Mira Tremeaux (recovered: `recovery/MIRA_ECHO_GUIDE_SOURCE_RECOVERY_2026-09-26.md`). **Ruled 09-26:** she is **a previous Seraphine-type who helped Silence and Hope make the current hard cap**, perceived **only by Seraphine**, and her function is **guide to Seraphine before the Mending**. **Silence and Hope are much older than the hard cap** and have replaced it over many cycles (`decisions/MIRA_AND_SILENCE_HOPE_ORIGIN_AUTHOR_RULING_2026-09-26.md`). **Follow-up ruled:** Mira guides Seraphine to consider more than recreating the hard cap; her echo is **released during the Mending**; Silence and Hope are **metaphysical constructs without a clear beginning**; **every earlier cycle required a Mira / Seraphine, and the Loom is powered by a soul**; Mira is in `canon/cast_registry.csv` (`L01`). Open: when she appears; VT's origin; Mechanica has no statement on what powers the Loom. Tahl's message in the B06 epilogue is one ruled source of the crew's knowledge. **Lacuna inspires Kade's posting; the splintering, politicised posts are Elias's later manipulations; Kade is mostly Lacuna's in B07 until Elias subverts him in Act III** (09-26; the anchor post and NOLA break read as B07 Act III). Event cards written (`proposals/B07_FUNERAL_POST_*`, `proposals/B08_SANTA_FE_FINDING_*`). Still open, per the cards: Kade's post content, where NOLA breaks, civic or scar, post/break order; the Santa Fe finding and its cost; how the crew learns "Louisiana"; the form and victims of Kade's complicity | `decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md`; ledger §96, §97 |
 | **Tahl's death specifics** — never resolved (author, 09-26: *"should be on our list of tasks"*). Ruled: **end of B06**; he glimpses the wound pattern; **the B06 epilogue carries his message to the group** about it (his last message). Open: the staging, its delivery (mortal, not VT), recipients, content, order against M23's handoff | `decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md` §4; `recovery/TAHL_DEATH_SOURCE_RECOVERY_2026-09-26.md`; ledger §104 |
 | **Four author locks living only in proposals** (Baz death timing, Baz name, Tahl B01–B03 absence, VT contact ladder) — unmigrated. Tahl's **naming in the B3 epilogue** now has an author source (2026-09-26); *"not a primary character in B01–B03"* is still paraphrase | ledger §26.6 |
@@ -209,7 +216,11 @@ do not promote or downgrade `seraphine_full.md`.
 
 > Verify with `git log` and the tools before trusting this; it dates quickly.
 
-- **2026-09-26, after a ChatGPT session:** the live grid **fails 4 checks and 4 self-tests** (M05 `T1-T2`; unknown threads on M54, M55, M57; 29 `ruled` rows against 20 approved). The Neon milestone ruling records no author words. It is held for the author (`reports/CHATGPT_SESSION_REVIEW_2026-09-26.md`, ledger §117). The ledger, truncated by that session, is restored.
+- **2026-09-26, after a ChatGPT session** (`reports/CHATGPT_SESSION_REVIEW_2026-09-26.md`,
+  ledger §117–§118): the ledger it truncated is restored. On the author's clarification, its
+  unratified promotions are back to `proposed`. The grid is **57 rows: the same 20 `ruled`, 33
+  `proposed`, 4 `retired`** (M15, M19, M22, M29). The Neon work is kept as design. All checks
+  pass. Book contexts are regenerated by `tools/derive_book_context.py`.
 - **Validation:** canon scope **0** violations; **144** self-tests; source verifier PASS at
   138 files. All-scope carries **357** `CHK_RETIRED_TERMS` notices and 112 `CHK_SID_FORMAT`
   violations. **Neither is a defect backlog**: after the 2026-09-25 sweeps (ledger §77, §78)
@@ -224,7 +235,7 @@ do not promote or downgrade `seraphine_full.md`.
   Census Passes 1–3 and the rhythm pass are done (ledger §81–§83); the rhythm pass is a
   **book-internal** judgment, provisional on the saga and Veil trilogy passes.
 - **Recovered episode material:** B01–B03, E00–E42 per book (`recovery/ACCOUNT_EXPORT_B0*_ACT*_EPISODE_FORENSIC_AUDIT_2026-09-20.md`).
-- **Substrate:** 2 of 7 grids populated (`milestones_payoffs` 53 rows, 20 `ruled`, since 2026-09-26;
+- **Substrate:** 2 of 7 grids populated (`milestones_payoffs` 57 rows, 20 `ruled`, since 2026-09-26;
   `locations_registry` 31). `episode_beats`, `breadcrumbs`, `reaction_modifiers`,
   `reader_pressure`, `supplement_deployment` are header-only. Book contexts and act overlays
   carry 108 `TODO`s; act overlays' `act_thesis` and `deltas` are unfilled.
