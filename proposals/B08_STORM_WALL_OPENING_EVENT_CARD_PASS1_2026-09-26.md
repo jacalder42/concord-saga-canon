@@ -181,6 +181,10 @@ Answered the same day. Answers and scope are in
 - **Loom needs substantial development.**
 - Mending-site material belongs in Act III, the opening perhaps at the very end of Act II (a
   lean). **Which book is not stated** (ruling §2.2). Finding C is **not** resolved until it is.
+- **Follow-up (ruling §4):** the opening **can be in B08, possibly fleeting**. The factions do
+  **not know the swamp is the Mending site until B09 Act III**, so there is no book-long siege. Finding C
+  moves toward reading 1 (seen, not entered). The siege beats in B08 A3 and B09 A1–A2 conflict
+  with the constraint and are listed for Loom development (ruling §4.1).
 
 The original questions:
 

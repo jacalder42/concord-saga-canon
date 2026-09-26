@@ -8134,4 +8134,44 @@ END OF ENTRY 93
 
 ===============================================================
 
+# 94. Follow-up: the B08 opening stays; factions learn the site only in B09 Act III; the flare is Tahl's one appearance — 2026-09-26
+
+**Status:** records the author's answers to the two questions §93 left open. They are appended
+as §4 of `decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`.
+
+**The author:** *"the stone wall opening can be in b8 and it could even be fleeting. I was
+thinking the antagonist factions should not know the swamp is the mending site until b9 act iii.
+We can't have an entire book of them laying siege on the mending site."* · *"flare is known (by
+Rex), triangle is implied."*
+
+- **The B08 storm-wall opening may stay in B08, possibly fleeting.** §93's question 1 is answered
+  for B08; moving the opening to B09 falls away.
+- **The factions do not learn the swamp is the Mending site until B09 Act III.** This is the
+  author's intent, and it is now a governing constraint on Loom development (CLAUDE.md §9 step 1).
+  **Eight or more pasted beats conflict with it**:
+  - B07: factions converging (A2.8, A3.8); Kade's MT pointing toward the swamp (A3.3); the
+    Choirless intercepting (A3.6).
+  - B08: Brightbreak shadowing Kade (A1.5); perimeter sightings (A1.7); siege lines (A3.1).
+  - B09: a perimeter breach (A1.7); **all of B09 Act II, "The Siege of the Swamp."**
+  
+  They are listed in the ruling's §4.1 for rework; none is rewritten. The protagonists' own
+  knowledge fits the constraint if it stays private.
+- **Reading offered, not adopted:** the protagonists' candidate-site chain (NOLA → Santa Fe → Mound
+  City → St. Louis → Serpent Mound; POOL-015) gives the factions somewhere else to look through
+  B07–B08.
+- **READING:** Elias claiming the opening for Kade can be the factions' misreading. They hear of a
+  miracle, not a site. Where Elias is when he makes the claim is open.
+- **Tahl's one identifiable Echo appearance is the B09 flare, and Rex knows it.** The epilogue
+  triangle is implied. For the grid copy: M22 and M27 are not identifiable; **M36's identifiable
+  farewell conflicts** and must become implied, merge into the flare, or retire.
+
+This also resolves §93's question 2, and the B8 card's finding C leans to reading 1 (seen, not
+entered).
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 94
+
+===============================================================
+
 END RECOVERY LEDGER

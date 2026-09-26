@@ -1,7 +1,7 @@
 # B06 Santa Fe, B08 storm wall, B09 epilogue — author answers
 
 **Date:** 2026-09-26
-**Status:** CURRENT AUTHOR RULING for the items marked **RULED** in the tables below. Items the author hedged are recorded as
+**Status:** CURRENT AUTHOR RULING for the items marked **RULED** in the tables below, including the same-day follow-up in §4. Items the author hedged are recorded as
 **RECALLED** (*"my recollection"*, *"I believe … original intent"*) or **LEAN**, and do not
 settle their rows. **One rule file is amended** (`rules/Channels/LT_RULES_POST_MENDING.md` §6),
 as the direct answer to the question put. No grid row, episode or EBCI status changes.
@@ -77,6 +77,7 @@ This answers the B6 card's finding D. It reads closest to that finding's reading
 restriction governs **identifiable** appearances, and the grid's other Echo moments (M22 B6,
 M27 B7) become echoes that **may or may not be Tahl's** to the cast. Two items remain open:
 
+- **Answered in §4:** the B09 flare, which Rex recognises. The triangle is implied.
 - **Which appearance is the one?** `TahlEBCI.md` and the author-pasted Loom master both put an
   **Echo flare in B09's penultimate chapter**, stopping Kade's collapse. That is the natural
   candidate.
@@ -128,6 +129,9 @@ still apply: the packet's *"no emotional alignment key granting free passage"*, 
 that respects both. That is flagged, not ruled out.
 
 ### 2.2 "Act III … the very end of Act II" — which book?
+
+**Answered in §4:** the opening can stay in **B08**, possibly fleeting. The factions do not learn
+the swamp is the Mending site until **B09 Act III**. The readings below are kept for the record.
 
 The answer names acts but not a book. Two readings. **This document does not choose:**
 
@@ -191,6 +195,84 @@ title. Naming what grows out of the reconstruction *Concord* would make the saga
 thing its survivors build. *Accord* avoids the collision. **The author's choice.**
 
 ---
+
+## 4. Follow-up answers, the same day
+
+**The author's words, verbatim**, answering the two questions this document left open (§2.2 and
+§1.2):
+
+> 1- the stone wall opening can be in b8 and it could even be fleeting. I was thinking the
+> antagonist factions should not know the swamp is the mending site until b9 act iii.
+> We can't have an entire book of them laying siege on the mending site.
+> 2- flare is known (by Rex), triangle is implied
+
+*"Stone wall"* is read as *storm wall*, the only wall the question concerned.
+
+| Point | Answer | Status | Not settled |
+| --- | --- | --- | --- |
+| Where the storm-wall opening goes | **It can be in B08, and may be fleeting** | **RULED as permitted** (*"can be"*). §2.2's reading 1 (moving the opening to B09) **falls away** | Its exact slot in B08; how brief |
+| When the antagonist factions learn the swamp is the Mending site | **Not until B09 Act III** | **Author intent** (*"I was thinking"*), with a firm reason: *"We can't have an entire book of them laying siege on the mending site."* Recorded as the governing constraint for Loom development | Which factions count; how they learn in B09 A3 |
+| Tahl's one identifiable Echo appearance | **The B09 flare. Rex knows it is Tahl** | **RULED** | Whether anyone besides Rex recognises it |
+| The epilogue triangle | **Implied**, not an appearance | **RULED** | — |
+
+### 4.1 The siege moves to B09 Act III, and much of the pasted Loom master conflicts
+
+**No book-long siege** is ruled out plainly. The factions not knowing until B09 Act III is the
+author's stated intent. Together they conflict with these beats in the author-pasted Loom master
+(`2025-12-08__Trilogy_Act-Level_Beat_Backup__693652b8.md`, ~ll. 584–712). The beats are listed
+so Loom development can rework them, not rewritten here:
+
+| Beat | Conflict |
+| --- | --- |
+| B07 A2.8 *"All factions converge toward swamp"* · A3.8 *"all forces move toward swamp simultaneously"* | Factions head for the site two books early |
+| B07 A3.3 *"Kade's MT signal becomes directional — points toward swamp"* | A **public** MT pointer to the swamp tells everyone. The 09-23 source test's "information becoming directional" reading does not by itself keep the site secret |
+| B07 A3.6 *"Choirless mobilize to intercept Mending attempt"* | Presupposes they know where |
+| B08 A1.5 *"Kade becomes unwilling beacon; Brightbreak shadows him"* | Shadowing Kade leads them to the site, unless he is not there or they lose him |
+| B08 A1.7 *"Choirless sightings increase near swamp perimeter"* | Presence at the site |
+| B08 A3.1 *"Siege lines form around swamp; multi-faction tension peaks"* | **A siege in B08** |
+| B09 A1.7 *"Choirless attempt first breach of swamp perimeter"* | Before Act III |
+| **B09 Act II, "THE SIEGE OF THE SWAMP"**: A2.1 *"Multi-faction siege forms around swamp"*, A2.7 rear guard *"hold collapsing perimeter"* | **The whole act.** The siege must start in Act III |
+
+**Fits the constraint as pasted:** protagonist-side knowledge (B07 A1 close *"confirmation: swamp is
+potential Mending point"*; A2 close *"Mending location locked"*; B08 A2 close *"swamp confirmed
+as only viable Mending site"*), provided it stays private. B09 A3.1, *"Brightbreak vs Choirless
+chaos ignites at perimeter,"* fits it.
+
+**A resource already in the sources, offered as a reading, not adopted:** B07 and B08 send the
+protagonists through **other candidate sites**: the node chain NOLA → Santa Fe → Mound City (B07
+A1.7), St. Louis → Serpent Mound (A2.5), Mound City → Serpent Mound (B08 A2.1); POOL-015. While
+the factions do not know, those candidates are where they can be looking. That would give B07–B08
+antagonist pressure without a siege, and could help the thin Loom middle. **The author's to
+decide.**
+
+### 4.2 The B08 opening, Elias and the secret
+
+A fleeting B08 opening is consistent with the constraint only if it **does not tell the factions
+what the swamp is**. Elias claims the opening for Kade (§2.1). **READING:** that claim can be the
+reason the factions misread it. They hear of a Kade miracle, not a Mending site. That fits the B8
+card's finding B, and it keeps Elias's claim from giving the secret away. Where Elias is when he
+makes the claim, and what he saw, are **open**. If he witnessed it at the swamp, he knows
+something is there.
+
+The B8 card's reading 1 in finding C (**seen, not entered**: the opening shows the chamber and
+closes) fits *"fleeting"* best. B09 still has to earn entry.
+
+### 4.3 The Echo
+
+**The flare** (B09 penultimate chapter; `TahlEBCI.md`; Loom master B09 A3.3) **is Tahl's one
+identifiable appearance, and Rex knows it.** Rex is present at A3.2 (*"Rex intervenes"*), just
+before the flare.
+
+**Consequences for the proposed grid copy:**
+
+- **M22** (Echo caught in VT, B6): not identifiable to the cast. Read with the recalled *"Tahl's
+  soul is caught/collected by Silence."*
+- **M27** (Echo shows Intent, B7): not identifiable; may or may not be Tahl.
+- **M36** (*"Tahl's Echo dissolves: 'Be kind for me'"*, B9 EP): an identifiable farewell would be
+  a second appearance. It must become implied, merge into the flare, or retire. **Flagged for the
+  grid copy.**
+- **The epilogue triangle** is implied. Kade may read it as Tahl, but it is not an appearance.
+  That is consistent with the conduit ruling (§3).
 
 ## What this document does not change
 
