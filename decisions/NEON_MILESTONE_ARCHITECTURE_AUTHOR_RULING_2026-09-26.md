@@ -58,6 +58,8 @@ as *"AUTHOR RULING / LIVE GRID PROMOTION"*.
 | M13, M14, M16, M17, M18, M21, M23, M55, M56, M57 | Design wording, `proposed` | `proposed` |
 | **Threads** `caro`, `elisabet`, `seraphine_lucien` | **Not added.** M56 keeps `caro_elisabet`. M54, M55 and M57 are `UNSCORED` pending taxonomy review | — |
 
+**Refined the same day** ([`ASSISTANT_CHANGE_AUTHORITY_AND_PROCEED_AUTHOR_RULING_2026-09-26.md`](ASSISTANT_CHANGE_AUTHORITY_AND_PROCEED_AUTHOR_RULING_2026-09-26.md)): the author approves **the majority** of these changes and wants them **vetted and validated**, not lost. M54–M57 are kept. *"Proceed"* approves the immediately preceding proposal.
+
 **Everything below this section is ChatGPT's original text, kept for the record.** Where it says
 "ruling", read "design direction" unless §0 marks the item RULED.
 

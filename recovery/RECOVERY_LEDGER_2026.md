@@ -9269,4 +9269,56 @@ END OF ENTRY 118
 
 ===============================================================
 
+# 119. "Proceed", additive against destructive changes, and the four Neon rows — 2026-09-26
+
+**The author, verbatim:** *"Keep the four rows; I approve of the majority of ChatGPT's proposed
+changes and don't want to lose them, we just to vet and validate them. In general my use of
+"Proceed" means I approves the immediately preceding proposed development or changes. ChatGPT has
+been instructed that additive modifications to the repo are approved but destructive ones need
+specific rulings from me."*
+
+Recorded in `decisions/ASSISTANT_CHANGE_AUTHORITY_AND_PROCEED_AUTHOR_RULING_2026-09-26.md`.
+
+**Ruled:**
+
+1. **M54–M57 stay.** The majority of the Neon changes are approved in direction and await vetting.
+   They are already `proposed`, and the ratchet requires that; no grid change.
+2. **"Proceed" approves the immediately preceding proposal.** It is an approval, not the "weak
+   acceptance" the 09-26 recovery documents recorded. It is Tier B.
+3. **Additive changes are approved; destructive changes need a specific ruling**, for every
+   assistant.
+
+**READING, recorded for correction:** promotion to `ruled`, retirement, and rewriting ruled rows
+are destructive changes to canon state, so they still need a specific ruling. That reconciles
+today's words with the earlier *"it should not have converted every resulting design choice into
+ruled canon."*
+
+**Re-weighted:** ten "Proceed" answers cited in the 09-26 documents (table in the ruling, §3).
+Four are superseded in part by later rulings:
+
+- Bible #7's creation line;
+- Solace v1;
+- the Brightbreak mutual-aid lineage;
+- the Mira retcon.
+
+The rest become approved (Tier B). Recovery files are not edited.
+
+**CLAUDE.md:**
+
+- §2 gains the additive/destructive rule.
+- §4's "Proceed" line is replaced.
+- §5 Tier B names "Proceed" approvals.
+- §8's stale 53-row line is corrected, and the notice count is now 356.
+
+**Follow-ups:**
+
+- Vet and validate the Neon design rows: M05, M13, M14, M16–M18, M21, M23, M54–M57.
+- Sweep documents written before 09-26 for "Proceed" classed as weak.
+
+**Checks:** canon scope 0; 144 self-tests; derive check clean; sources unchanged.
+
+END OF ENTRY 119
+
+===============================================================
+
 END RECOVERY LEDGER
