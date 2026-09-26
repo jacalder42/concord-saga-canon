@@ -8393,4 +8393,48 @@ END OF ENTRY 98
 
 ===============================================================
 
+# 99. Who believes what: the factions think Louisiana; the crew knows the wounds, Honey Island last — 2026-09-26
+
+**The author:** *"the antagonist factions and others think it leads back to Louisiana (perhaps the
+opening in the storm wall, makes this think this), but our primary protagonists know that there
+are multiple wounds and that the Honey Swamp one must be repaired last. (Maybe getting that
+information is what unravels Tahl)."* This is the third follow-up in
+`decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md`.
+
+**Ruled:**
+
+- The factions and others believe it leads back to Louisiana.
+- The primary protagonists know there are several wounds and **the Honey Island wound must be
+  repaired last.**
+
+This settles §98's two readings (the first applies) and refines the spine: B08's *"may be back in
+Louisiana"* is the factions' conclusion.
+
+**Hypotheses:**
+
+- The storm-wall opening is what makes the factions think it.
+- Getting the information is what unravels Tahl.
+
+**Consequences:**
+
+- The NOLA feint gains its engine: the factions are in the right state, at the wrong place.
+- The crew's circuit is **repair**: Santa Fe → Mound City → Serpent Mound → (others?) → Honey
+  Island last.
+- Tahl's fatal VT contact at the Santa Fe rupture may be where the wound structure is learned.
+  How the crew then has the knowledge is open.
+
+**Flagged:**
+
+- Pre-Mending "repair" against Mechanica §34 (a Rupture is a permanent scar), §35
+  (stabilisation's four requirements) and §7.4 (nodes only after the Mending); D5 holds.
+- Whether the circuit is Silence and Hope's hard-cap method or where Seraphine's *"another option"*
+  diverges; the answer stays reserved for the end.
+- The B08 and B06 cards carry notes.
+
+**Pending:** the Elias / Kade / Lacuna export search.
+
+END OF ENTRY 99
+
+===============================================================
+
 END RECOVERY LEDGER

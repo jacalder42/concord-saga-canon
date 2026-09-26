@@ -45,6 +45,12 @@ analysis or this card · **READING** an observation this card makes from sources
 
 ---
 
+> **Loom link, 2026-09-26 (author hypothesis):** *"(Maybe getting that information is what
+> unravels Tahl)."* The information is that there are multiple wounds and the Honey Island wound
+> must be repaired last. If so, Tahl's fatal VT contact at the rupture (links 12–13) is where
+> that knowledge is gained. See the [Loom ruling's third follow-up](../decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md).
+> A hypothesis only.
+
 ## 1. The chain, link by link
 
 | # | Link | Status | Source |

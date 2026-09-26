@@ -101,6 +101,14 @@ reserved.
 
 ### A.5 How the crew learns "back in Louisiana"
 
+> **Superseded in part, 2026-09-26 (ruling, third follow-up):** *"the antagonist factions and
+> others think it leads back to Louisiana (perhaps the opening in the storm wall, makes this think
+> this), but our primary protagonists know that there are multiple wounds and that the Honey Swamp
+> one must be repaired last."* **"Back in Louisiana" is the factions' conclusion, not the crew's
+> discovery.** The crew already knows the circuit, and that Santa Fe is a wound to **repair**.
+> The readings below are kept for the record. Reading 2's mechanism (Elias's claimed miracle
+> reaching the public) now serves the **factions'** inference.
+
 The crew is at Santa Fe. The storm wall is at Honey Island. **Three readings, not chosen:**
 
 1. **The finding alone** (F2) points them back, and the book ends there. The fleeting opening is

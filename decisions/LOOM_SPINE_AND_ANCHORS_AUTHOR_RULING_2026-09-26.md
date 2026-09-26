@@ -150,6 +150,59 @@ origin,"* pointing back to Louisiana):
 - This matches the author's 2025-11-28 question: *"Do our Santa Fe, St. Louis, and Serpent Mound
   locations become places that our protagonists go to learn more about the Veil"* (`NS` ~56926).
 
+### Third follow-up — who believes what, and the order of repair
+
+**The author, verbatim**, clarifying "right for the general public":
+
+> the antagonist factions and others think it leads back to Louisiana (perhaps the opening in the
+> storm wall, makes this think this), but our primary protagonists know that there are multiple
+> wounds and that the Honey Swamp one must be repaired last. (Maybe getting that information is
+> what unravels Tahl)
+
+| Point | Ruled | Status | Not ruled |
+| --- | --- | --- | --- |
+| **What the factions and others believe** | **They think it leads back to Louisiana** | **RULED** | Exactly what "it" is to them (the answer, the tear, the protagonists' goal) |
+| **What makes them think so** | **Perhaps the storm-wall opening** | **HYPOTHESIS** (*"perhaps"*) | Whether other evidence contributes |
+| **What the primary protagonists know** | **There are multiple wounds, and the Honey Island Swamp wound must be repaired last** | **RULED** | Who counts as "primary protagonists"; how they learn it; what repair consists of (below) |
+| **Tahl** | **Getting that information may be what unravels Tahl** | **HYPOTHESIS** (*"Maybe"*) | Whether, how, and how the knowledge survives his death |
+
+**This resolves the second follow-up's first reading:** the public, the factions and the
+protagonists know different things. **It also refines the spine.** The 11-28 plan's B08 close,
+*"learning it may be back in Louisiana,"* becomes **what the factions and others conclude.** The
+protagonists already know more: a circuit of wounds, with Honey Island last.
+
+**What this does to Loom's structure (consequences, not new rulings):**
+
+- **The NOLA feint gains its engine.** The factions believe Louisiana, so a feint in New
+  Orleans works. They are looking in the right state and the wrong place, which fits the site
+  secret (they learn it is the swamp only in B09 A3).
+- **Elias's claim and the factions' inference can both happen.** The opening reads as a Kade
+  miracle (Elias's spin) and as a pointer to Louisiana (the factions' inference). Neither tells
+  them it is the Mending site.
+- **The protagonists' circuit is repair work, not only a search.** Santa Fe (B08), Mound City,
+  Serpent Mound (B09's opening escape), possibly others, then Honey Island last (B09 A3, the
+  Mending).
+- **Tahl's death may carry Loom's premise.** If getting the knowledge unravels him, his fatal VT
+  contact at the Santa Fe rupture (Tier-1: *"VT contact occurs late and is fatal"*) is the moment
+  the wound structure is learned. This fits the recalled intent that B6's warnings came from VT,
+  and his death stays *"not sacrifice chosen knowingly."* **How the protagonists then have the
+  knowledge is open.** Candidates: something Tahl passes on before he dies (MT; the Dec 1
+  assistant bible has his *"MT last post comes from the Scar boundary"*, Tier D); Silence, who
+  *"grieves and collects him"*; or Silence and Hope's coaching.
+
+**Flagged against the rules, not resolved:**
+
+- **"Repair" before the Mending.** Mechanica §34 defines Rupture as *"permanent scar creation"*;
+  §35 says stabilisation *"requires: Empathy, Intent clarity, Structural support, Grounding
+  rituals"*; §7.4 reserves Echo Nodes for after the Mending. Repairing a wound before the Mending
+  therefore needs defining. It could be **stabilisation under §35**, which would suit the trio's
+  functions, rather than erasing a scar. **D5 holds the physics.**
+- **The hard cap.** Silence and Hope coach *"the old way, a hard cap"* (author 11-13). Whether
+  the wound circuit is their method, the crew's, or where the two diverge (Seraphine's
+  *"another option"*) is **open**, and it bears on the reserved ending.
+- **Santa Fe was Tahl's death place** (B6). If the crew repairs it in B08, they repair the wound
+  that killed him. Recorded as a reading.
+
 ## What this ruling does not change
 
 The live grid; the protected B09 finale and epilogue; the site-secret constraint; the B06 and
