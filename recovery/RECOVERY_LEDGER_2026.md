@@ -9753,4 +9753,38 @@ END OF ENTRY 130
 
 ===============================================================
 
+# 131. Brief for a ChatGPT editorial route interpretation pass — 2026-09-26
+
+**The author:** *"This feels like an appropriate time for a ChatGPT interpretation pass"*.
+
+**Written:** `proposals/CHATGPT_EDITORIAL_ROUTE_INTERPRETATION_BRIEF_2026-09-26.md`, which is new. It
+is the editorial step that the location forensics (§127) stopped short of: where the main cast
+**should** be, now that the author has answered the conflicts (§128–§130).
+
+**What it asks for**, as one new proposal file:
+
+- a recommended route for each character;
+- the seven missing journeys, the end of B06 → the B07 funeral first;
+- a map of each book's theaters;
+- which little-used ties to activate;
+- what to salvage from the flattened sources;
+- ranked questions for the author.
+
+**What it fixes in place:** every ruling and lean from §128–§130 and the earlier rulings, with the
+Santa Fe Rupture/death placement and the originator of the warning **held open**.
+
+**Guards, after the ledger truncation (§117):**
+
+- ChatGPT writes **one new file only** and modifies no existing file, the ledger and `CLAUDE.md`
+  included.
+- If it cannot write the file safely, it returns the document in chat.
+- It rules on nothing, and marks every recommendation as a proposal.
+- Claude reviews the result and records it here.
+
+**Not changed:** nothing else. **Checks:** canon scope 0.
+
+END OF ENTRY 131
+
+===============================================================
+
 END RECOVERY LEDGER
