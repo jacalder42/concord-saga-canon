@@ -69,8 +69,12 @@ Presence of Seraphine, Caro, Elisabet, or Lucien is required to prevent collapse
   - language acceleration
 
 **LT**
-- Not accessible
-- Receives prismatic handshake only in epilogue (no agency)
+- Accessible, by named exception — author ruling 2026-09-26, Mechanica §39 amended
+  (`decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`). Previously: "Not
+  accessible." What access consists of (perception, use, one- or two-way) is open
+- Receives prismatic handshake only in epilogue (no agency) — the handshake is the LT reach
+  that closes the ruled B09 epilogue scene with Lacuna. "(no agency)" is retained until what
+  access consists of is ruled
 
 **Hard Separation Rule**
 MT ≠ VT ≠ LT at all times.

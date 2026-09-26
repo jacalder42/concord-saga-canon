@@ -42,13 +42,14 @@ contradicted a Tier-1 card. The amendment makes Kade an exception to the ascenda
 leaves the question of who ascends where it was (ledger §27.2).
 
 **Consequential edits, made so the substrate does not contradict itself.** Three other rule
-lines restated the old §39. Each now points to the amendment and says no more than the ruling:
+lines and one Tier-1 card line restated the old §39. Each now points to the amendment and says no more than the ruling:
 
 | File | Was | Now |
 | --- | --- | --- |
 | `Mechanica-v4.md` §33 (channel language) | *"Ascendant-only perception"* | Limited to ascendants and the §39 exception |
 | `rules/Channels/CHANNELS_OVERVIEW.md` §5, §6 | *"perceivable only by ascendants"*; *"ascendant-only prismatic channel"* | Ascendants, and Kade by named exception |
 | `rules/Channels/LT_RULES_POST_MENDING.md` §2 | ascendants; post-Mending anchors | Kade added by named exception. What "post-Mending anchors" covers was already undefined and stays open |
+| `canon/characters/KadeEBCI.md`, LT block *(added in a follow-up commit the same day; the first commit missed it)* | *"Not accessible"*; *"Receives prismatic handshake only in epilogue (no agency)"* | Accessible by named exception. The handshake line is kept; it is the LT reach that closes the epilogue scene. *"(no agency)"* is retained until what access consists of is ruled |
 
 **Not changed:** `Mechanica-v4.md` §37, *"MT cannot … access VT or LT."* Kade's access is
 personal. Nothing in the ruling routes it through MT, so §37 does not conflict.
@@ -89,6 +90,13 @@ them:
   built for him. Kade, a mortal, is given access to LT. `BazID.md` records the truth lineage
   **Baz → Tahl → Kade**; the epilogue gives its last member the channel contact his predecessor
   had. That connection is an observation from the cards, not an addition to the ruling.
+- **The scene was already implied by Kade's card.** `KadeEBCI.md` said Kade *"receives
+  prismatic handshake only in epilogue."* The ruled scene gives that handshake a setting and a
+  witness. The 09-26 ruling adds access; the card's epilogue handshake predates it.
+- **Lacuna's own card answers part of "does she perceive it":** `LacunaEBCI.md` gives her LT as
+  *"not accessible; post-Mending clarity hum only; no agency."* The ruling does not change that.
+  In the scene she would feel the clarity civilians feel, not the reach itself, unless the
+  author later extends access past Kade.
 - **Lacuna and Kade:** `LacunaID.md` makes her a *"stabilizing force for Concord, especially for
   Kade, during collapse."* `LacunaEBCI.md` records *"romantic potential [that] increases emotional
   charge but does not resolve it."* Whether the epilogue resolves that potential is **not
@@ -122,7 +130,7 @@ prophecy montage"*) is a plausible standard for its mirror. That is a suggestion
 | --- | --- |
 | **What "a prompt from LT" is** | `LT_RULES_POST_MENDING.md` says LT never presents as a voice, command or instruction and cannot transmit information. A **prompt** read as a **reaching-out felt as presence or invitation** fits those rules. A prompt read as a **message or instruction** does not. The author's word is kept; which sense is meant is open |
 | **Whether the prompt arrives through a device** | `LT_RULES_POST_MENDING.md` §6: *"LT never interacts directly with MT."* VT *"never travels digitally."* If the scene shows the prompt on a screen, it conflicts with both. If it is perceived directly, it does not. Open |
-| **Other survivors' access** | "At least Kade." Lacuna's own access in the scene is not ruled |
+| **Other survivors' access** | "At least Kade." Lacuna's card currently says *"not accessible; clarity hum only"* (§2); extending access to her would need a ruling |
 | **Timeskip** | Still open (ledger §27.3) |
 | **Slot** | Epilogue episode number, and its order relative to the MT-continuation material, are not placed |
 

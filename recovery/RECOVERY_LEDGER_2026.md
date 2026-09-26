@@ -7924,4 +7924,33 @@ END OF ENTRY 89
 
 ===============================================================
 
+# 90. Correction to §89: the §39 amendment missed Kade's Tier-1 card — 2026-09-26
+
+**What was wrong.** §89 amended Mechanica §39 and three rule lines so that Kade has LT access,
+and said the substrate no longer contradicted itself. It still did. `canon/characters/KadeEBCI.md`
+said, under LT: *"Not accessible"*; *"Receives prismatic handshake only in epilogue (no agency)."*
+The search for the old wording covered `rules/` and the word "ascendant"; the card says neither.
+Found while building the B6 card, on reading Tahl's and Kade's EBCI channel blocks.
+
+**What replaced it.** KadeEBCI's LT block now says Kade has access by named exception, cites
+the ruling, and keeps the old wording. The **handshake line is kept**: it is the LT reach that
+closes the ruled epilogue scene. *"(no agency)"* is retained until the author rules what access
+consists of. The ruling's table of follow-on edits now lists this edit and says it was added in
+a follow-up commit.
+
+**What the card adds to the ruling.** Kade's card already had an **epilogue handshake**. The
+Lacuna–Kade scene gives that handshake a setting and a witness. It is not a new invention.
+`LacunaEBCI.md` gives Lacuna *"not accessible; post-Mending clarity hum only"* for LT. That is
+unchanged, and it partly answers the ruling's question of what Lacuna perceives in the scene.
+`TahlEBCI.md` (*"Inaccessible; Echo may interface lightly post-death only"*) is unchanged.
+
+**Lesson.** When a rule is amended, search the substrate for the concept (here, per-character LT
+blocks), not only for the old sentence.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 90
+
+===============================================================
+
 END RECOVERY LEDGER
