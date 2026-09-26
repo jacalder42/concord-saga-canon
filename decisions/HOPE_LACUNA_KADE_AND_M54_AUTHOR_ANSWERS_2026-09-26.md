@@ -129,3 +129,26 @@ with the Elias corrections.
 - **M54: the M07 setup is removed** from `grids/milestones_payoffs.csv`. The row's notes record the
   old value. The derived book contexts are regenerated with the tool.
 
+## 5. Follow-up: approved notes, and M54's direction
+
+**The author, verbatim:**
+
+> approve the M17, M18 and M55 notes
+> Consider M54 as Caro's first crack and when Hope connects with her
+
+| Row | Change | Status |
+| --- | --- | --- |
+| **M17** | The vetting pass's suggested note is applied: B06 A1 is a design payoff; Singapore is a design candidate; the approved public meta incidents stand; this is a local legitimacy break, not the first public failure | **Note APPROVED**. The row stays `proposed` |
+| **M18** | The suggested note is applied: splinters pass through the Neon Rebellion into Brightbreak; B05 A2 consolidates the B04 A3 crack | **Note APPROVED**. The row stays `proposed` |
+| **M55** | The suggested note is applied: the recommendation rests on mortal evidence; the warning's origin and Elisabet's sensitivity stay open | **Note APPROVED**. The row stays `proposed` |
+| **M54** | **Caro's first crack** (the delegation lesson stays in Loom, per `CaroID`), and **where Hope first connects with her**, the start of Hope's guidance of Caro (§1, item 6) | **AUTHOR DIRECTION** (*"Consider"*), so the row is reworded and stays `proposed` |
+
+Each approved note replaces ChatGPT's note at the front of the row's notes. The earlier text is kept
+after it.
+
+**A consistency point (READING):** M54 sits in **B05**. Hope's first emotional agency comes after
+Tahl's death at the end of **B06** (the Hope Bible; M21). Hope's connection with Caro in B05 is
+therefore **involuntary** on Hope's side. That matches the ruling that her early acts are
+involuntary (§1, item 2). How Caro experiences the connection, and whether she perceives Hope at
+all, is **open**.
+

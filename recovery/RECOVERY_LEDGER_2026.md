@@ -9541,4 +9541,29 @@ END OF ENTRY 125
 
 ===============================================================
 
+# 126. M17, M18 and M55 notes approved; M54 is Caro's first crack and Hope's first connection — 2026-09-26
+
+**The author, verbatim:** *"approve the M17, M18 and M55 notes / Consider M54 as Caro's first crack and
+when Hope connects with her"*. Recorded in `decisions/HOPE_LACUNA_KADE_AND_M54_AUTHOR_ANSWERS_2026-09-26.md`
+§5.
+
+**Grid:**
+
+- **M17, M18, M55:** the vetting pass's suggested notes are applied at the front of each row's notes;
+  the earlier notes are kept after them. The rows stay `proposed`.
+- **M54**, reworded:
+  - it is Caro's **first crack**; the delegation lesson stays in Loom, per `CaroID`;
+  - it is **where Hope first connects with her**, the start of Hope's guidance of Caro.
+  - It stays `proposed` (the author's *"Consider"*; Chicago is still a lean).
+
+**READING:** B05 comes before Hope's first emotional agency (after Tahl's death in B06), so the
+connection is involuntary on Hope's side. That is consistent with the ruling on her early acts. How
+Caro experiences it is open.
+
+**Checks:** canon scope 0; 144 self-tests; derive check clean; sources unchanged.
+
+END OF ENTRY 126
+
+===============================================================
+
 END RECOVERY LEDGER
