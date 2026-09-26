@@ -8760,4 +8760,53 @@ END OF ENTRY 106
 
 ===============================================================
 
+# 107. The hard cap and the breathing veil recovered — 2026-09-26
+
+`recovery/HARD_CAP_BREATHING_VEIL_SOURCE_RECOVERY_2026-09-26.md`. Verified against the export; two
+agent line references corrected (`PC` 27473, 27745).
+
+**Found — the author's own design, 13–15 November 2025 (`PC`), two locks, none of it in the repo:**
+
+- **The breathing veil:** the old veil *"was too rigid … blocking"*; the new one *"breathes, it
+  filters … the n95 mask for the world"*, with empathy as the filter (50415). Empathy is *"a word
+  of power"*, withheld until the greatest moment (19155).
+- **Silence and Hope's error:** they *"thought that only Seraphine had to ascend … the veil that
+  breathes required more. It required guides"* (91822). Their old logic: *"One Loom, one Thread,
+  one Ascendant."*
+- **Locked (*"Lock it. Highest of fives"*, 51477):** Seraphine becomes the Breath of the Veil;
+  Mira is her soft guide; Lucien's final test is to Listen.
+- **Locked Finale Phase Map (*"Lock"*, 93904):**
+  - the old metaphysicals believe the hard cap is the only way;
+  - Seraphine *"feels (not knows yet)"*;
+  - **A Loom (Seraphine) / Two Anchors (Lucien, Caro) / A Guide (Tahl/VT)**;
+  - Silence and Hope disperse into the membrane's *"scaffolding, its laws."*
+- **Saving Tahl's echo is Silence and Hope's first act of agency, *"the first crack in the cycle of
+  hard cap veils"*** (author, `NB` 89177).
+
+**Against the 09-26 rulings:**
+
+- The coaching plan and Seraphine's growing doubt match.
+- The answer stays reserved for the very end.
+- Tahl / VT as the locked **Guide** matches the ruled LT conduit.
+
+**Correction:** the wounds ruling's §1 line *"It grows wound by wound"* was an inference with no
+source. It is now marked so. The sources tie her doubt to intuition and to becoming the Loom, not to
+the nodes. No source ties the node circuit to the cap either (§106).
+
+**Bears on a standing task:** *"who performs the Mending — five named human functions, of whom the
+trio ascends"* (CLAUDE.md §4.1) should be re-read against the locked map.
+
+**Open for the author:**
+
+- Does the locked map still stand against the 12-07 ascension order?
+- Does her doubt grow from the circuit or from becoming the Loom?
+- The cost: only her, or the guides as well?
+- Mira: the locked guide, or the retired "Mira Tremeaux"?
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 107
+
+===============================================================
+
 END RECOVERY LEDGER

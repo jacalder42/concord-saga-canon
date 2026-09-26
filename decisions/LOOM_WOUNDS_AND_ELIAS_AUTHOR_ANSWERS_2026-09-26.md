@@ -47,7 +47,7 @@ corrections are set out, as the author asked, in
   reinstated, and where Seraphine instead begins the breathing veil. This fits the author's 11-13
   engine: Silence and Hope coach *"the old way, a hard cap"*, and *"at the final moment, Seraphine
   truely understands the answer."*
-- **Seraphine's doubt runs the length of the circuit.** It grows wound by wound. The **answer**
+- **Seraphine's doubt runs the length of the circuit.** *("It grows wound by wound" was an inference with no source, flagged in the [hard-cap recovery](../recovery/HARD_CAP_BREATHING_VEIL_SOURCE_RECOVERY_2026-09-26.md) §3. The sources tie her doubt to intuition and to being "drawn into becoming the Loom", not to the node visits.)* The **answer**
   stays reserved for the end; the **potential** begins earlier. The B08 card's F1 ("the old way
   fails") becomes one stage of that growing doubt.
 - **Mechanica fit:** stabilisation is §35 (*"Empathy, Intent clarity, Structural support,
