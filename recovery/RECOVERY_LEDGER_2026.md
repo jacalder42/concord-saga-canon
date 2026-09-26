@@ -8716,4 +8716,48 @@ END OF ENTRY 105
 
 ===============================================================
 
+# 106. Loom wound sites recovered: the Alignment Chain — 2026-09-26
+
+`recovery/LOOM_WOUND_SITES_SOURCE_RECOVERY_2026-09-26.md`. Verified against the export.
+
+**Found:** the author saved (*"Proceed with save,"* `WB` 128752, 12-03) a four-node **Alignment
+Chain**: Santa Fe Scar ("The Break") → Mound City / St. Louis ("The Direction") → Serpent Mound
+("The Alignment") → Honey Island ("The Convergence / The Mending").
+
+- **Honey Island is last because it is the original Tear.** Approved on 11-22: *"First the swamp
+  ending is approved"*; *"Antagonists ALL assume … NOLA. They are wrong."*
+- **The 11-30 Loom Endgame Card** (*"Confirm"*) is the source of `canon/trilogy_loom.md`'s Key
+  Locations line, which already matches the ruled route.
+- **The author curbed the secondary US nodes** (12-03: *"adding new information vs compiling"*).
+
+**Source weight:**
+
+- **No source has the crew stabilising a site, or ties Silence and Hope's hard cap to the nodes.**
+  Both are new 09-26 author material.
+- In the sources the crew discovers the swamp endpoint late.
+- The author's 11-28 lean had the sites work through MT and supplements. His 2026 rulings have the
+  crew travel; those govern.
+
+**Reconciliation offered (reading):** Tahl's B06-epilogue message gives the crew the pattern; the
+chain gives the particulars. The sources' discovery beats become confirmation beats.
+
+**Site-secret risks** in the accepted cards: B08's *"all factions converging on the swamp"* and
+Serpent Mound's *"multiple factions converge."* Framing that fits the rulings: the factions read the
+vectors as Louisiana / New Orleans.
+
+**Open for the author:**
+
+- Are these all the wounds, or does "etc" add others?
+- Is Mound City in B08, after Santa Fe?
+- Is Serpent Mound one continuous event across the B08/B09 break?
+- Does the knowledge split (Tahl gives the shape, the chain the particulars) match his intent?
+
+**Pending:** the hard-cap / breathing-veil search.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 106
+
+===============================================================
+
 END RECOVERY LEDGER
