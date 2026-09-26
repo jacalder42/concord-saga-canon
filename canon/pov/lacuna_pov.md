@@ -212,7 +212,7 @@ It is a **boundary violation she pays for**.
 - Mutual trust grows through reliability, not confession
 
 ### Kade (UPDATED RELATIONSHIP CONSTRAINT)
-**In-saga status:** not romantic, not resolved.  
+**In-saga status:** will-they / won’t-they; can lean romantic, mostly smoulder; unresolved until the Book 9 epilogue, which holds its biggest payoff *(corrected 2026-09-26 (author ruling 2026-09-26, `decisions/HOPE_LACUNA_KADE_AND_M54_AUTHOR_ANSWERS_2026-09-26.md` §2); previously "not romantic, not resolved.")*  
 **Reader experience:** will-they / won’t-they potential intentionally seeded (Loom-forward).
 
 Lacuna with Kade is:
@@ -227,9 +227,9 @@ Allowed in POV:
 - thoughts she redirects
 - the cost of staying close
 
-Forbidden in POV (within this saga):
+Avoid in POV before the Book 9 epilogue (guidance, not hard boundaries) *(corrected 2026-09-26 (author ruling 2026-09-26, `decisions/HOPE_LACUNA_KADE_AND_M54_AUTHOR_ANSWERS_2026-09-26.md` §2); previously "Forbidden in POV (within this saga):")*:
 - explicit romance framing
-- confession or payoff
+- confession or payoff (reserved for the Book 9 epilogue)
 - sexualized interiority
 - exclusivity language
 - “he is the answer” narration
@@ -237,7 +237,7 @@ Forbidden in POV (within this saga):
 Their tension must feel:
 - possible
 - dangerous
-- unfinished
+- unfinished until the epilogue
 
 ---
 

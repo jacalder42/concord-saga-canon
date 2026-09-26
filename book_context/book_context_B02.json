@@ -95,7 +95,7 @@
       "_basis": "derived",
       "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py from grids/milestones_payoffs.csv required_setups between active rows. A cross-book dependency is a continuity hook. Milestone IDs are cited, not described.",
       "_counts": {
-        "owes_forward": 7,
+        "owes_forward": 6,
         "collects": 2
       }
     },
@@ -128,12 +128,6 @@
       "milestone": "M06",
       "required_by": "M14",
       "in_book": "B04"
-    },
-    {
-      "kind": "owes_forward",
-      "milestone": "M07",
-      "required_by": "M54",
-      "in_book": "B05"
     },
     {
       "kind": "owes_forward",

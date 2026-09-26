@@ -9516,4 +9516,29 @@ END OF ENTRY 124
 
 ===============================================================
 
+# 125. Lacuna POV card corrected; M54's M07 setup removed — 2026-09-26
+
+**The author, verbatim:** *"1 yes apply, 2 yes remove M07"*. Recorded in
+`decisions/HOPE_LACUNA_KADE_AND_M54_AUTHOR_ANSWERS_2026-09-26.md` §4.
+
+**`canon/pov/lacuna_pov.md`**, the Kade section:
+
+- The status line now reads *will-they / won't-they; can lean romantic, mostly smoulder;
+  unresolved until the Book 9 epilogue, which holds its biggest payoff*.
+- The *"Forbidden in POV (within this saga)"* list becomes *"Avoid in POV before the Book 9 epilogue
+  (guidance, not hard boundaries)"*.
+- *"confession or payoff"* is marked as reserved for the epilogue.
+- *"unfinished"* becomes *"unfinished until the epilogue"*.
+- The old wording is kept in dated notes.
+
+**`grids/milestones_payoffs.csv`:** M54's `required_setups` `M07` is removed; the notes record the
+old value. The book contexts are regenerated with `tools/derive_book_context.py` (B02 no longer owes
+M54; B05 no longer collects M07).
+
+**Checks:** canon scope 0; 144 self-tests; derive check clean; sources unchanged.
+
+END OF ENTRY 125
+
+===============================================================
+
 END RECOVERY LEDGER

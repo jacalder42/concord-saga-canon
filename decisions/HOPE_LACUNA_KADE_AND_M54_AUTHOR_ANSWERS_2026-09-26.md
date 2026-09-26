@@ -2,8 +2,7 @@
 
 **Date:** 2026-09-26
 **Status:** CURRENT AUTHOR RULING for the items marked **RULED**. Two items are **DELEGATED** or
-answered as **ACCEPTABLE**; one is **DEFERRED**; one card change is **PROPOSED**, awaiting approval.
-**No card, rule or grid row is changed**, apart from one note prepended to M54 (additive).
+answered as **ACCEPTABLE**; one is **DEFERRED**; one card change was proposed and then **approved and applied** (§4).
 
 **Questions put:** the Hope recovery §5
 ([`recovery/HOPE_PATH_SOURCE_RECOVERY_2026-09-26.md`](../recovery/HOPE_PATH_SOURCE_RECOVERY_2026-09-26.md)),
@@ -83,7 +82,7 @@ holding hands.**
   narration"*
 - and *"Their tension must feel: possible / dangerous / unfinished"*.
 
-### 2.1 PROPOSED card edits, awaiting the author's approval (not applied)
+### 2.1 Card edits: APPROVED and applied (*"1 yes apply"*, 2026-09-26)
 
 | Line | Now | Proposed |
 | --- | --- | --- |
@@ -101,7 +100,7 @@ with the Elias corrections.
 | # | Question put | Answer | Status |
 | --- | --- | --- | --- |
 | 2 | Is B05 Caro's **first crack**, or the **delegation lesson** itself (`CaroID` puts it in Loom)? | *"Depends on context not important enough to resolve prior to the rest of neon locking."* | **DEFERRED** until the rest of Neon is locked. A note is prepended to M54 |
-| 3 | Remove M54's **M07** setup? | *"What is your recommendation?"* | **Recommendation below. Not applied**: removing a dependency needs the author's ruling |
+| 3 | Remove M54's **M07** setup? | *"What is your recommendation?"* | **RULED: removed** (*"2 yes remove M07"*, 2026-09-26) |
 
 **Recommendation: remove M07 from M54's setups.**
 
@@ -120,3 +119,13 @@ with the Elias corrections.
 - **No rule, and no grid row** except the additive note on M54.
 - **M21 and M33 stand as ruled.**
 - **The Hope recovery file is not edited**; this ruling is its correction layer.
+
+## 4. Follow-up, the same day
+
+**The author, verbatim:** *"1 yes apply, 2 yes remove M07"*.
+
+- **`canon/pov/lacuna_pov.md`: the §2.1 edits are applied.** The old wording is kept in dated notes
+  on the status line and the list heading.
+- **M54: the M07 setup is removed** from `grids/milestones_payoffs.csv`. The row's notes record the
+  old value. The derived book contexts are regenerated with the tool.
+
