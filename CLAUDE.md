@@ -209,6 +209,7 @@ do not promote or downgrade `seraphine_full.md`.
 
 > Verify with `git log` and the tools before trusting this; it dates quickly.
 
+- **2026-09-26, after a ChatGPT session:** the live grid **fails 4 checks and 4 self-tests** (M05 `T1-T2`; unknown threads on M54, M55, M57; 29 `ruled` rows against 20 approved). The Neon milestone ruling records no author words. It is held for the author (`reports/CHATGPT_SESSION_REVIEW_2026-09-26.md`, ledger §117). The ledger, truncated by that session, is restored.
 - **Validation:** canon scope **0** violations; **144** self-tests; source verifier PASS at
   138 files. All-scope carries **357** `CHK_RETIRED_TERMS` notices and 112 `CHK_SID_FORMAT`
   violations. **Neither is a defect backlog**: after the 2026-09-25 sweeps (ledger §77, §78)
