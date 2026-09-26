@@ -10008,4 +10008,36 @@ END OF ENTRY 136
 
 ===============================================================
 
+# 137. Rex entry Pass 2 addendum received and checked — 2026-09-26
+
+**Received:** `proposals/REX_TAN_ENTRY_DECISION_INTEGRATION_PASS2_2026-09-26.md`, commit `6d593ea`.
+It is DESIGN, a new file, and the only file changed. It applies §136
+(`decisions/REX_TAN_ENTRY_AUTHOR_ANSWERS_2026-09-26.md`) to the Pass 1 proposal. Pass 1 is not
+edited.
+
+**Checked against the decision:** consistent.
+
+- **Q1.** It closes the *"outside contractor"* option. The pressure on Rex's sign-off in A2 comes
+  from the NOLA client or authority, not a Technarc supervisor. *"Stays despite orders"* becomes
+  resistance to a client. Shun is named only as a candidate connection.
+- **Q2.** It keeps the Veil scene's book, place and mode open. It notes that a Veil scene set
+  directly in Detroit could make the B04 A1 Detroit scene optional. The introduction stays in B04.
+- **Q3.** The decisive engagement with Seraphine comes after Lucien leaves in B04 A2. A first
+  physical crossing may happen in A1, but without the trust beat.
+
+It holds open:
+
+- B05;
+- the NOLA client;
+- the meta incident, which stays gated by the transfer-loop constraint;
+- the Riot's event physics.
+
+It promotes nothing and asks for no grid row. The validator raises no notice.
+
+**Not changed:** everything else. **Checks:** canon scope 0.
+
+END OF ENTRY 137
+
+===============================================================
+
 END RECOVERY LEDGER
