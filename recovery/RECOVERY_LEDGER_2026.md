@@ -9566,4 +9566,58 @@ END OF ENTRY 126
 
 ===============================================================
 
+# 127. Main cast physical presence forensics, Pass 1 — 2026-09-26
+
+**The author:** *"Proceed with location reconciliation"*, with ChatGPT's brief *"CONCORD SAGA — MAIN
+CAST PHYSICAL PRESENCE FORENSIC MATRIX"* (source-first; *"follow the people, not the cities"*; no
+itinerary design). The same message restates the governance rule: *"Proceed" means I agree with the
+proposed development or changes. When your updates to the repo means existing material is going to
+be deleted, replaced, etc notify me for direction before information is lost.* That matches
+CLAUDE.md §2 and §4.
+
+**Written** (all new files; additive):
+
+- `recovery/MAIN_CAST_PRESENCE_MATRIX_PASS1_2026-09-26.md`: the book-level and 27-act matrices.
+  - Nine principals, plus a limited row for Elias.
+  - Codes R / A / A-w / A-s / P(L) / H / P / RR / ? / —.
+- `recovery/MAIN_CAST_ROUTE_LEDGER_PASS1_2026-09-26.md`: a route per character, with sources.
+- `recovery/MAIN_CAST_LOCATION_REGISTERS_PASS1_2026-09-26.md`:
+  - 27 contradictions (18 for the author);
+  - the unknowns and seven missing journeys;
+  - the absence register;
+  - flattening signs and little-used ties;
+  - the eight-point handoff.
+
+**Method:** four read-only research passes worked from one brief. Claude verified the key quotes and
+speakers; a few line references were corrected by one to three lines.
+
+**Main findings:**
+
+- **Ruled presence is sparse:** Baz at the Warehouse; Tahl at Santa Fe; Lucien's B04 Vienna return;
+  the B07 funeral; B09 A3.
+- **New sources the repo had not recorded:**
+  - the 11-21 "Character Location Arcs" put **Caro in Marrakesh in B01–B03** (A-w);
+  - an approved **B08 Reykjavík observatory** for Elisabet and Caro;
+  - BB's **Honey Island Veil variant**, in which Baz dies at *"The Rupture at Honey Island"* (H,
+    flattened);
+  - the approved NS B03 *"Lucien flees NOLA"*;
+  - Kade at the **Santa Fe outskirts** (A) against *"from afar"* (A, later);
+  - the author: Lacuna *"introduced as the leader of Tahl's second line"*, against her canon-card
+    Veil presence.
+- **The repo contradicts itself:**
+  - `recovery/B02_B06_THEATER_POV_FORENSIC_PASS2` §1 (*"Lucien is remote in Vienna"* in B01) is
+    stale against the locked v4.1b. It is recorded, not edited.
+- **No source gives Tahl a physical home base** while he posts. Every NOLA placement for him is stale
+  or unapproved.
+- **The worst travel problem:** the end of B06 at Santa Fe → the NOLA funeral at the start of B07.
+
+**Not changed:** no canon, rule, grid row or book context. **The open itinerary is not solved**, as
+the brief directs; the editorial route pass is a separate step.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 127
+
+===============================================================
+
 END RECOVERY LEDGER
