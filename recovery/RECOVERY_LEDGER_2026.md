@@ -9934,4 +9934,46 @@ END OF ENTRY 134
 
 ===============================================================
 
+# 135. Rex Tan B04 cast-entry proposal received and reviewed — 2026-09-26
+
+**Received:** `proposals/REX_TAN_B04_CAST_ENTRY_CHAIN_PASS1_2026-09-26.md`, commit `216a18d`. It is a
+new file and the only file changed.
+
+**What it proposes**, as DESIGN:
+
+- **B04 A1:** a brief Detroit scene (GLUIS, Marcus). An independent NOLA assessment job brings Rex
+  south. **This mechanism is new design.**
+- **Late A1:** he arrives in NOLA at a manufactured-meta incident.
+- **Early A2:** his decisive engagement with Seraphine, built on a safety halt and a smaller shared
+  rescue.
+- **A2:** he stays on a refused sign-off and a follow-through obligation.
+- **A3:** he tests routes and limits at the Riot of Light.
+- **Seeds:** Singapore in B06 (M17).
+
+**Reviewed:** `reports/REX_TAN_B04_CAST_ENTRY_PASS1_REVIEW_2026-09-26.md`. **Verdict: sound, and
+inside its authority.**
+
+- Its claims match RexID §IX–§X, RexEBCI §VII, the cast registry and the Neon answers.
+- It solves the Detroit-to-NOLA blocker from §134 without reviving the serving-employee arrival.
+- It respects the constraint on manufactured-meta transfer mechanics.
+
+**Tensions:**
+
+- The canon cards give Rex a **Veil phase** (RexID §X; RexEBCI 136), while his first on-page
+  appearance is in B04.
+- The author's idea of engagement timed to the fissure (PC 44156) is not ordered against Lucien's
+  B04 A2 departure.
+- Elisabet at the Riot conflicts with the unapproved Reykjavík-late design in the route
+  interpretation.
+- The registry's *"loyal engineer"* arc reads as pre-saga.
+
+**Three questions** are for the author's interpretation: Rex's Technarc relationship; his Veil phase;
+the engagement timing.
+
+**Not changed:** the proposal, the grid, every card and every ruling. **Checks:** canon scope 0.
+
+END OF ENTRY 135
+
+===============================================================
+
 END RECOVERY LEDGER
