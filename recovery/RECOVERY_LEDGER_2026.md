@@ -9437,4 +9437,41 @@ END OF ENTRY 122
 
 ===============================================================
 
+# 123. Hope's path recovered — 2026-09-26
+
+`recovery/HOPE_PATH_SOURCE_RECOVERY_2026-09-26.md`. Asked by the author's answer 7: *"Earlier chats
+should have more on Hope's path."* The key quotes and speakers were re-checked; three line ranges were
+corrected.
+
+**Found:**
+
+- **An approved Hope Bible v1** (`MDR` 14802–15181, *"Approve and save Hope Bible"*, 15189, 11-18),
+  never before recovered. Its key points:
+  - Hope is the buffer: *"empathy without agency"*.
+  - At Tahl's death *"Silence shelters the Echo; / Hope **nurtures** it"*: her first **emotional
+    agency, not Intent**.
+  - *"Hope breaks before Silence does."*
+  - Her Intent comes at her dissolution, as acceptance.
+  - *"Hope dies with peace."*
+  - Its origin line (*"formed by the hard-cap Veil"*) is superseded by the 09-26 ruling.
+- **The author's own words:** Hope is emotion, love and humour, where Silence is facts and history.
+  She *"flails about chasing each new fissure"*; she thaws *"more quickly than Silence"*; she sends
+  memes and cat videos in VT; *maybe* she notices Tahl first and leaves him breadcrumbs. *"Caro
+  becomes Hope."*
+- **It fits the M21 ruling:** Silence collects the echo, and Hope nurtures it afterwards. It fits the
+  12-07 order (Hope before Silence). **Why** Hope goes first is not sourced.
+
+**Tension, for the author:** Hope's late-Veil *"proto-agency"* (the approved skill tree), and the B06
+epilogue's *"Hope and Silence cross the threshold into agency"*, sit against Silence alone making the
+first act of agency. They reconcile if Hope's early acts are involuntary. **Also flagged:**
+`CaroEBCI` and `ElisabetEBCI` both use the end state *"Hope-with-Intent"*, probably the ordinary word.
+
+Six questions are put to the author (§5).
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 123
+
+===============================================================
+
 END RECOVERY LEDGER
