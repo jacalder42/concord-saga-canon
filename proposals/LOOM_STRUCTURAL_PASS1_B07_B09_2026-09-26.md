@@ -278,7 +278,17 @@ would do.
 
 ---
 
-## 8. For the author
+## 8. For the author — answered 2026-09-26
+
+**Answered** ([ruling](../decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md)):
+
+1. **Yes**, the 11-28 plan is the spine.
+2. **C1 + C2.**
+3. **A1 + A2.** Which thin place is open.
+4. **Foreshadowing** (an argument?) at the end of B07; the **split** at the beginning of B08.
+
+The original questions:
+
 
 1. **Is the 11-28 plan still Loom's spine?** If yes, the rest of this pass follows from it.
 2. **B07's catalyst:** C1 (NOLA breaks), C2 (Kade's voice moves people), C3 (a local systems

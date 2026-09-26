@@ -1,0 +1,102 @@
+# Loom spine and book anchors — author ruling
+
+**Date:** 2026-09-26
+**Status:** CURRENT AUTHOR RULING on the four questions in §8 of the
+[Loom structural pass](../proposals/LOOM_STRUCTURAL_PASS1_B07_B09_2026-09-26.md). **No grid row,
+episode, rule file or EBCI status is changed.** The grid consequences go into the proposed grid
+copy.
+
+**The questions put (pass §8):**
+
+1. Is the 2025-11-28 plan still Loom's spine?
+2. B07's catalyst: C1 (NOLA breaks), C2 (Kade's voice moves people), C3 (a local systems failure),
+   a combination, or other?
+3. B08's anchor: A1 (a thin-place event), A2 (Kade's first complicity in violence), A3 (the
+   Choirless quieting), a combination, or other?
+4. The Lacuna–Kade split: end of B07, or B08's opening argument?
+
+**The author's words, verbatim:**
+
+> 1 yes, 2 C1+C2, 3 A1+A2, 4 foreshadowing (argument?) at end of B7, split at beginning of B8
+
+---
+
+## Scope of acceptance
+
+| # | Ruled | Not ruled |
+| --- | --- | --- |
+| **1** | **The author's 2025-11-28 plan (`2025-11-27__Narrative_Structure__69286516.md` ll. 39256–39274) is Loom's spine.** The Dec 8 assistant "Loom master" is **not** the spine. Its beats remain source material, weighed as an assistant reconstruction | The details the plan left as questions, except those this ruling answers. Still open: whether B07 opens **at** the funeral parade or **just after**; where B09's *"escape from another location"* happens; the *"pursuit by other"* |
+| **2** | **B07's catalyst is C1 + C2.** Kade's MT voice, amplified by Elias, moves people (C2), and New Orleans breaks: the Warehouse scar or a named district becomes untenable and forces an accountable departure (C1) | The post's content; what breaks and how (**D5** holds physics); who is hurt; **the causal order** (the pass proposed that the post sets the break in motion; the author accepted the combination, not a stated order); where the crew goes next |
+| **3** | **B08's anchor is A1 + A2**, one per strand. **The search strand:** the protagonists find something real at a thin place, and it costs them. **Kade's strand:** his first complicity in his splinter's violence | **Which thin place** (Santa Fe, St. Louis / Mound City, Serpent Mound, or another); what is found; the violence and its victims. **A3, the Choirless quieting, is neither chosen nor rejected**; it stays available as pressure |
+| **4** | **The Lacuna–Kade split is foreshadowed at the end of B07, possibly by an argument, and happens at the beginning of B08** | The form of the foreshadowing; the author marked *"argument?"* as tentative. The split's cause: the 11-28 plan says it is *"arguing about embracing violence"* |
+
+---
+
+## What the rulings mean together
+
+**Loom now has an anchor in each book.** Veil anchors on the Warehouse (B03) and Neon on Santa Fe
+(B06); Loom's anchors are now as follows.
+
+| Book | Anchor | Turn it gives the book |
+| --- | --- | --- |
+| **B07** | Kade's post and the New Orleans break | The crew leaves New Orleans and commits to learning how to stabilize the Veil. **Not toward the swamp**: the site is unknown |
+| **B08** | A thin-place finding and Kade's complicity | The search learns the tear may be back in Louisiana; Kade has done harm. The fleeting storm-wall opening (ruled permissible in B08) and Elias's claim on it (09-26) fit the book's close |
+| **B09** | The finale (protected) | NOLA feint → the antagonists learn the site in Act III → Elias / Kade / Rex / Tahl → the Mending, in the last two chapter clusters |
+
+**Kade's arc across Loom, on the rulings:**
+
+1. B07: his voice moves people and something breaks. **This is his first real cost, as a public
+   voice.**
+2. End of B07: the foreshadowed argument with Lacuna.
+3. Start of B08: the split.
+4. B08: complicity in violence.
+5. B09: near-killing Rex, then Tahl's flare.
+
+**Each step is different in kind:** consequence at a distance, estrangement, complicity, near
+murder. This is how the escalation avoids repeating itself.
+
+**The truth-lineage pattern** (Baz investigates; Tahl's post draws a crowd in B03; Kade's post
+moves people in B07) came from the pass as a reason for C2. **It is recorded as that reason, not
+ruled as a design rule.**
+
+### Constraints the anchors must satisfy
+
+These are already in force, and each anchor's card will be tested against them:
+
+- **Site secret** (09-26): neither B07's break nor B08's anchor may reveal the swamp as the
+  Mending site to the factions. B08's close tells the **protagonists** only that it *"may be back
+  in Louisiana."*
+- **Different in kind:** B07's New Orleans break must not be a third building-or-city collapse like
+  the Warehouse (B03) and Santa Fe (B06). The carry-forward check warns against repeating the
+  Warehouse collapse.
+- **Kade stays redeemable,** and B08's complicity must not pre-empt the Rex near-kill.
+  `KadeID.md`: *"power is human-scale."* Tahl's Echo appears identifiably only once, in B09.
+- **Elias** has *"no metaphysical access"* (`EliasID.md`); he amplifies, frames and claims.
+- **No MT compass, no pre-Mending Echo Node, D5** (the packet and earlier source tests).
+
+---
+
+## Consequences for the proposed grid copy
+
+Carried from pass §6, now with the author's answers:
+
+- **M28** becomes a **departure from New Orleans** (B07, the C1 anchor), not an exodus toward
+  the swamp.
+- **M31** is replaced by **B08's close: the tear may be back in Louisiana**, with the fleeting
+  opening.
+- **M29** retires.
+- **Add rows:**
+  - Elias attaches to Kade (B07).
+  - **Kade's post / the New Orleans break** (B07 anchor).
+  - The Lacuna argument (end B07) and split (start B08).
+  - **The thin-place finding** and **Kade's complicity** (B08 anchors).
+  - The NOLA feint (B09 A1–A2).
+  - The antagonists learn the site (B09 A3).
+  - **Kade nearly kills Rex and Tahl's flare** (B09, penultimate chapter).
+- M24–M27, M30, M35 and M36 are as recorded in the pass and the 09-26 rulings.
+
+## What this ruling does not change
+
+The live grid; the protected B09 finale and epilogue; the site-secret constraint; the B06 and
+B08 cards' open items; EBCI. **No event card is written here.** B07's catalyst and B08's anchors
+each need one before the grid copy can carry them at event level.

@@ -46,6 +46,7 @@ requires sit beside it and name the ruling they serve
 | `LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md` | Amends Mechanica §39: Kade has LT access (a floor, not the full list). B09 epilogue scene: Lacuna and Kade under the night sky, closing on LT reaching out, Möbius with the B01 prologue |
 | `B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md` | Tahl did not know Baz was there. Post staging narrowed to supplemental text or effect-only. Epilogue aftermath via reports (hedged). Links 5–7 **delegated**: working assumption only |
 | `B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md` | Tahl's Echo identifiable once; Tahl learns Baz's name from a news report; ladder mapping accepted; M20 act **not** confirmed (lean end of A2). Elias claims the B8 opening for Kade; Loom needs development. Epilogue: Tahl's echo is the LT conduit; `LT_RULES` §6 exception; Kade reintegrates the rebellion. Follow-up: B08 opening may be fleeting; **factions don't know the Mending site until B09 A3**; the B09 flare (known by Rex) is the one identifiable Echo |
+| `LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md` | The author's 2025-11-28 plan is Loom's spine. B07 anchor: Kade's post + New Orleans breaks (C1+C2). B08 anchors: a thin-place finding + Kade's complicity (A1+A2). Lacuna–Kade foreshadowed end B07, split start B08 |
 
 ### Earlier rulings, which stay in `recovery/`
 

@@ -8274,4 +8274,47 @@ END OF ENTRY 95
 
 ===============================================================
 
+# 96. Loom spine and anchors ruled — 2026-09-26
+
+**Status:** records an author ruling. `decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md`.
+No grid, episode or rule change.
+
+**The author**, answering the Loom pass §8: *"1 yes, 2 C1+C2, 3 A1+A2, 4 foreshadowing (argument?)
+at end of B7, split at beginning of B8."*
+
+- **Spine:** the author's 2025-11-28 plan (§95 §2), not the Dec 8 assistant master.
+- **B07 anchor:** Kade's MT post, amplified by Elias, moves people, and New Orleans breaks. The
+  crew departs, not toward the swamp. The causal order between post and break is not ruled.
+- **B08 anchors:** a costly finding at a thin place (search strand) and Kade's first complicity in
+  his splinter's violence (Kade's strand). **Which thin place is open.** The Choirless quieting
+  stays available, neither chosen nor rejected.
+- **Lacuna–Kade:** foreshadowed at B07's end (*"argument?"*, tentative), split at B08's start.
+
+**Constraints the anchors must satisfy:** the site secret; different in kind from the B03 and B06
+collapses; Kade redeemable, with the Rex near-kill not pre-empted; Elias without metaphysical
+access; D5.
+
+**Grid-copy consequences:**
+
+- M28 becomes a departure from New Orleans.
+- M31 is replaced by *"the tear may be back in Louisiana."*
+- M29 retires.
+- Rows to add:
+  - Elias attaches to Kade.
+  - The B07 anchor.
+  - The Lacuna argument and split.
+  - The two B08 anchors.
+  - The NOLA feint.
+  - The antagonists learn the site.
+  - **The Rex near-kill and Tahl's flare.**
+
+**Next:** event cards for the B07 anchor and the two B08 anchors, then the proposed grid copy
+covering all nine books.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 96
+
+===============================================================
+
 END RECOVERY LEDGER

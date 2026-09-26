@@ -130,7 +130,7 @@ Each line points at where the evidence is. Ledger § numbers are in
 | **LT access beyond Kade.** §39 **amended 2026-09-26**: Kade has access, by named exception ("at least Kade"). Still open: other protagonist survivors; what access consists of (KadeEBCI's *"(no agency)"*); the author's *"more tangible than VT"* against `LT_RULES`' softer language | `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`; ledger §89 |
 | **B03 Warehouse** — which of the two post stagings (supplemental text or effect-only); whether the reported dead first responder is Baz or a second death. (Tahl learns Baz's name from a news report before B06, ruled 09-26.) Links 5–7 are **delegated** to a working assumption the author may override | `decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`; ledger §89, §93 |
 | **B06 / B08 remaining** — M20's act (lean: the very end of B06 A2; may wait for Neon episode mapping); M36's farewell against the single identifiable Echo (the B09 flare, known by Rex — ruled 09-26); whether Kade actually caused the B08 opening; where Elias is when he claims it; how the factions learn of the site in B09 A3 | `decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`; ledger §93 |
-| **Loom spine and anchors** — is the 2025-11-28 plan still the spine; B07's catalyst event; B08's anchor event; the Lacuna–Kade split's placement | `proposals/LOOM_STRUCTURAL_PASS1_B07_B09_2026-09-26.md` §8; ledger §95 |
+| **Loom details after the spine ruling** (09-26: the 11-28 plan is the spine; B07 = Kade's post + NOLA breaks; B08 = thin-place finding + Kade's complicity; Lacuna split foreshadowed end B07, made at start B08). Still open: **which thin place**; B07 opening at the funeral or just after; B09's *"escape from another location"*; each anchor's event card | `decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md`; ledger §96 |
 | **Four author locks living only in proposals** (Baz death timing, Baz name, Tahl B01–B03 absence, VT contact ladder) — unmigrated. Tahl's **naming in the B3 epilogue** now has an author source (2026-09-26); *"not a primary character in B01–B03"* is still paraphrase | ledger §26.6 |
 | **Which of two conflicting recovered versions wins** (ND-045 proposes a rule; ledger §74 §4 shows recency alone fails) | ledger §26.12 |
 | **Cross-project provenance** (Mara Niht's tier; whether Eli Stone integrates; where Mara's lyric corpus is kept) | ledger §66–§69; `recovery/MARA_NIHT_RECOVERY_2026-09-21.md` §5 |
@@ -274,7 +274,8 @@ judgments are provisional until the levels above them are settled.
    laying siege on the mending site."* Much of the pasted B07–B09 master conflicts
    (`decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md` §4.1). **Loom pass 1 done
    (2026-09-26, `proposals/LOOM_STRUCTURAL_PASS1_B07_B09_2026-09-26.md`):** the author's own
-   2025-11-28 per-book plan is the proposed spine. The Dec 8 Veil/Neon/Loom "masters" are
+   2025-11-28 per-book plan is **the spine (ruled 09-26)**, with anchors ruled for B07 and B08
+   (`decisions/LOOM_SPINE_AND_ANCHORS_AUTHOR_RULING_2026-09-26.md`). The Dec 8 Veil/Neon/Loom "masters" are
    **assistant output** the author backed up, not his words. **Starts as a reconciliation**: a large body
    of 09-19 → 09-24 saga work exists (reading map below). Read it before generating.
 2. **Lock saga architecture enough for downstream work** — major obligations, turns,
