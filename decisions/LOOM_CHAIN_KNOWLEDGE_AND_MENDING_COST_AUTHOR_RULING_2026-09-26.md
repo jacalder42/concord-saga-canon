@@ -110,6 +110,50 @@ The **"Guide"** word is used in different senses.
 
 ---
 
+## 4. Follow-up, the same day
+
+**The author, verbatim:**
+
+> 1- someone else that has been flatten, she was intended to be a echo that guides Seraphine and
+> integrates with the loom. Unsure if she still fits the saga.
+> 2- 12/07 wins when the two conflict
+> 3- yes
+> - sequence in b8 is pending until we extrapolate book, act, episode milestones
+
+| Point | Ruled | Status |
+| --- | --- | --- |
+| **Mira** | **Not the retired "Mira Tremeaux."** She is someone else whose role **has been flattened**. She was intended as **an echo that guides Seraphine and integrates with the Loom** | **RULED** (identity and original intent). **Her fit in the saga is OPEN** (*"Unsure if she still fits"*) |
+| **Map against 12-07** | **Where the two conflict, the 12-07 recollection wins** | **RULED** |
+| **Terminology** | **Lucien and Caro are the guides; Tahl is the conduit** | **RULED** |
+| **B08's end** (Serpent Mound, the fleeting opening, Elias's claim) | **Pending** until the book, act and episode milestones are extrapolated | **DEFERRED** |
+
+**What the precedence rule settles (consequences of *"12/07 wins"*):**
+
+- **Silence powers Tahl's echo before unravelling.** The flare and Silence's end are one causal
+  chain.
+- **One at a time:** Seraphine → Hope → Silence → Lucien → **Elisabet's goodbye to Caro** → Caro.
+- **The attack on Rex** follows the later author choreography: Elias strikes first; Rex knocks him
+  down; Kade, fearing Rex will kill Elias, attacks Rex; the flare stops him.
+- **The map's structure stands where nothing conflicts:**
+  - Seraphine is the Loom and the continuous thread;
+  - Silence and Hope disperse into the new veil's structure;
+  - Lucien becomes Silence and Caro becomes Hope;
+  - Elisabet witnesses (and says goodbye);
+  - the Choirless stay unresolved into the cutaway.
+
+**Mira: flags, not rulings:**
+
+- An **echo guide for Seraphine** would be a second echo besides Tahl's. The *"one identifiable
+  appearance"* rule is about **Tahl**, so it is not breached. It does add a second echo to the Loom
+  metaphysics, and that needs fitting.
+- Her **"guide"** role now overlaps the ruled terminology: Lucien and Caro are **the guides**. If
+  Mira is kept, her function needs a distinct name, for example a guide *to Seraphine* before the
+  Mending, as against the Mending's guides.
+- `canon/cast_retired_aliases.csv` retires **Mira Tremeaux** (functions split among Mara, Arianna,
+  Ren and local Reykjavík), and `cast_registry.csv` lists *"portions of Mira"* under Arianna. The
+  flattening probably happened through that consolidation, **which conflated two Miras.** A source
+  recovery of the echo-guide Mira can be run if wanted.
+
 ## What this ruling does not change
 
 No card, rule or grid row. Mechanica is not amended: it already describes the post-Mending result.

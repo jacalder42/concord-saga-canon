@@ -8851,4 +8851,28 @@ END OF ENTRY 108
 
 ===============================================================
 
+# 109. Map against 12-07 precedence; guides and conduit; Mira distinguished — 2026-09-26
+
+**Follow-up in `decisions/LOOM_CHAIN_KNOWLEDGE_AND_MENDING_COST_AUTHOR_RULING_2026-09-26.md` §4.**
+
+**Ruled:**
+
+- **The 12-07 recollection wins over the locked 11-15 map where they conflict.** That settles:
+  Silence powering Tahl's echo before unravelling; the one-at-a-time order with Elisabet's goodbye
+  to Caro; and the Elias-first attack. The map's structure stands elsewhere.
+- **Lucien and Caro are the guides; Tahl is the conduit.**
+- **Mira** is not the retired "Mira Tremeaux". She is someone else, **intended as an echo that
+  guides Seraphine and integrates with the Loom**, since flattened. **Her fit is open.** The
+  cast-consolidation retirement of Mira Tremeaux likely conflated the two Miras. A second echo, and
+  a clash with the ruled "guides" term, are flagged.
+
+**Deferred:** B08's end sequence (Serpent Mound, the fleeting opening, Elias's claim), until the
+book, act and episode milestones are extrapolated.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 109
+
+===============================================================
+
 END RECOVERY LEDGER
