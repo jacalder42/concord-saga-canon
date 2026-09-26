@@ -8951,4 +8951,44 @@ END OF ENTRY 111
 
 ===============================================================
 
+# 112. Mira follow-up: her pull, her release, the Loom's power; Mira registered — 2026-09-26
+
+The author, on §111's open items: *"Mira guides Seraphine to consider more than just recreating the
+hard cap like Silence and Hope recommend. / Mira's echo is released during the Mending / schedule
+currently unresolved / Silence and Hope are metaphysical constructs without a clear beginning /
+earlier cycles required a Mira/Seraphine, the Loom is powered by a soul / Mira probably needs to be
+in the cast registry."*
+
+Recorded in `decisions/MIRA_AND_SILENCE_HOPE_ORIGIN_AUTHOR_RULING_2026-09-26.md` §5.
+
+**Ruled:**
+
+- Mira guides Seraphine to consider **more than recreating the hard cap**.
+- **Mira's echo is released during the Mending.**
+- **Silence and Hope are metaphysical constructs without a clear beginning.**
+- **Every earlier cycle required a Mira / Seraphine. The Loom is powered by a soul.**
+- Her appearance schedule is **unresolved** (confirmed open).
+
+**Canon change:** `canon/cast_registry.csv` row **`L01` Mira (echo guide)**, in the manifest's
+section 1 (author-locked continuity controls, beside Tahl and Baz). The bundle field is blank: she
+did not come through a Ruling 3 bundle. Appended with the file's CRLF line endings; no other row
+touched.
+
+**Flagged, not resolved:**
+
+- The 11-13 *"through Mira Seraphine believes D"* (her withdrawal is inevitable) sits beside the
+  new ruling; they can coexist.
+- M21's *"constructs built"* implies a builder; flagged for the grid copy.
+- *"Released"* against the earlier *"integrates with the loom"*: the release is the later ruling.
+- `Mechanica-v4.md` says nothing about what powers the Loom. Not amended; left for the line-by-line
+  review.
+- READING: each cycle's cap was powered by that cycle's Seraphine, so Mira's release follows from the
+  cap's replacement.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 112
+
+===============================================================
+
 END RECOVERY LEDGER

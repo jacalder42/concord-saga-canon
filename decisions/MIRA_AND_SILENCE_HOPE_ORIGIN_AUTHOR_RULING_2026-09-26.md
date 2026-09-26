@@ -4,7 +4,7 @@
 **Status:** CURRENT AUTHOR RULING on the questions in the
 [Mira recovery](../recovery/MIRA_ECHO_GUIDE_SOURCE_RECOVERY_2026-09-26.md) §6, plus one unasked
 answer on Silence and Hope. Items marked **READING** or **OPEN** are not ruled. **No card, registry
-row, rule file or grid row is changed.**
+row, rule file or grid row is changed**, except the one cast registry row the §5 follow-up adds.
 
 **The author's words, verbatim:**
 
@@ -83,10 +83,53 @@ through many cycles of replacing it."* That reading is the only one recorded.
 | 6 | **Her name** | "Mira" is used in the ruling. The retired community figure "Mira Tremeaux" shares it (`canon/cast_retired_aliases.csv`), as does the *"portions of Mira"* note under Arianna and Mara in `canon/cast_registry.csv`. Those refer to the community figure, not to her |
 | 7 | **A cast registry entry** | She has none. Adding one is a separate step |
 
+## 5. Follow-up, the same day
+
+**The author, verbatim:**
+
+> - Mira guides Seraphine to consider more than just recreating the hard cap like Silence and Hope recommend.
+> - Mira's echo is released during the Mending
+> - schedule currently unresolved
+> - Silence and Hope are metaphysical constructs without a clear beginning
+> - earlier cycles required a Mira/Seraphine, the Loom is powered by a soul
+> - Mira probably needs to be in the cast registry.
+
+| Point | Ruled | Status | Replaces |
+| --- | --- | --- | --- |
+| **Which way Mira pulls** | **She guides Seraphine to consider more than recreating the hard cap**, which is what Silence and Hope recommend | **RULED** | §3's third reading, which left the direction undecided |
+| **Mira's fate** | **Her echo is released during the Mending** | **RULED** | §4 item 1 |
+| **When Mira appears** | **Unresolved** | **OPEN** (confirmed) | §4 item 5 stays open |
+| **What Silence and Hope are** | **Metaphysical constructs without a clear beginning** | **RULED** | §4 item 2 |
+| **Earlier cycles** | **Every earlier cycle required a Mira / Seraphine** | **RULED** | §4 item 4 |
+| **What powers the Loom** | **A soul** | **RULED** | New |
+| **Cast registry** | *"probably needs to be in the cast registry"* | **Done**: row `L01` in `canon/cast_registry.csv` | §4 item 7 |
+
+### What follows, and what does not
+
+- **Mira's guidance and Seraphine's doubt run the same way.** Seraphine's doubt grows from becoming
+  the Loom (ruled). Mira, who helped make the last cap, points her past it. **Recorded tension, not
+  resolved:** the author's 11-13 line *"through Mira Seraphine believes D"* has Mira lead Seraphine
+  to believe her own withdrawal is inevitable (`PC` 51148). The two can coexist: Mira can widen the
+  options while Seraphine still believes the cost is hers alone, which is what she believes (ruled).
+- **"Constructs"** now has the author's word. **"Built"**, in the held milestone M21 (*"two constructs
+  built without agency act"*), implies a builder, and the ruling gives them **no clear beginning**.
+  M21's wording is flagged for the grid copy; it is not edited here.
+- ***"NO true Intent … fixed roles"*** (*Character Ascension Canon v1*, weak acceptance) is **not**
+  ruled either way.
+- **READING, not ruled:** each cap has been powered by a soul, the Seraphine of its cycle. If so,
+  Mira's soul powers the current cap, and **that is why her echo is released at the Mending**, when
+  the cap is replaced. The ruling states the release, not the mechanism.
+- **Released, against the 09-26 statement of her original intent** (*"integrates with the loom"*).
+  The later ruling is the release. Whether anything of her stays in the new structure is **open**.
+- **Mechanica:** `Mechanica-v4.md` has no statement on what powers the Loom or the cap. The ruling
+  is recorded here; **Mechanica is not amended.** The line-by-line review should take it up.
+- **Seraphine is the Loom** (ruled) and **the Loom is powered by a soul** agree with *"Without her,
+  it collapses back into static"* (locked map, `PC` 93542–93903).
+
 ## What this ruling does not change
 
-- No card, cast registry row or retired alias. The retirement of **Mira Tremeaux** stands; it retires
-  the community figure.
+- No card or retired alias. **One cast registry row is added** (`L01`, Mira, §5), by the author's
+  instruction. The retirement of **Mira Tremeaux** stands; it retires the community figure.
 - No rule file: `VT_RULES.md`, `Mechanica-v4.md` and `LT_RULES_POST_MENDING.md` are untouched.
 - No grid row: M21 and M33 keep their held and proposed wording.
 - The B01 v4.1b child stays unnamed.
