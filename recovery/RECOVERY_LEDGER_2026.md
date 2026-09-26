@@ -9976,4 +9976,36 @@ END OF ENTRY 135
 
 ===============================================================
 
+# 136. Rex Tan's entry: author answers — 2026-09-26
+
+**The author** answered the three questions in the Rex review (§135):
+
+> 1. Independent but still has connections
+> 2. At least one scene to foreshadow him
+> 3. Yes
+
+**Recorded:** `decisions/REX_TAN_ENTRY_AUTHOR_ANSWERS_2026-09-26.md`.
+
+- **Q1 (direction):** Rex is independent of Technarc, but still has connections. This feeds the B06
+  Singapore thread (M17). What the connections are is open.
+- **Q2 (direction):** Veil carries at least one scene foreshadowing Rex. The book and place are open;
+  B01's locked order means a B01 placement would be a supplement. The recap line *"Rex is NOT
+  introduced in Veil"* is superseded as far as foreshadowing goes. His introduction stays in B04.
+- **Q3 (approved design):** his decisive engagement with Seraphine comes after Lucien leaves for Vienna
+  in B04 A2 (M05). That matches the author's idea at PC 44156.
+
+Nothing is promoted to ruled.
+
+**Written:**
+
+- the decision;
+- the index row in `decisions/README.md`;
+- `CLAUDE.md` §4.1 and §8.
+
+**Not changed:** the proposal, every card and the grid. **Checks:** canon scope 0.
+
+END OF ENTRY 136
+
+===============================================================
+
 END RECOVERY LEDGER
