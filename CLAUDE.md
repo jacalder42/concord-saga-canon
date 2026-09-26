@@ -238,7 +238,7 @@ do not promote or downgrade `seraphine_full.md`.
   (answered, `decisions/B03_WAREHOUSE_AUTHOR_RULING_2026-09-26.md`); B6 Santa Fe and B8 storm
   wall (`proposals/B06_*`, `proposals/B08_*`, ledger §91), answered 09-26 with items still open
   (`decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`). **Loom:** spine and anchors
-  ruled; B07 and B08 anchor cards written (ledger §97). **Grid copy approved and live 2026-09-26** (`decisions/MILESTONE_GRID_COPY_APPROVAL_AUTHOR_RULING_2026-09-26.md`; ledger §113–§114): `grids/milestones_payoffs.csv` has **53 rows, 20 `ruled`, 32 `proposed`, 1 `retired`**; Loom rebuilt on the spine. **Next: thread-pressure recalibration**, then the book/act/episode milestones that B08's end sequence waits on.
+  ruled; B07 and B08 anchor cards written (ledger §97). **Grid copy approved and live 2026-09-26** (`decisions/MILESTONE_GRID_COPY_APPROVAL_AUTHOR_RULING_2026-09-26.md`; ledger §113–§114): `grids/milestones_payoffs.csv` has **53 rows, 20 `ruled`, 32 `proposed`, 1 `retired`**; Loom rebuilt on the spine. **Next: geography/cast-distribution reconciliation before thread-pressure recalibration** (author 2026-09-26: primary cast is not intended to remain together for the full saga; see `decisions/SAGA_CAST_SEPARATION_AND_GLOBAL_THEATERS_AUTHOR_RULING_2026-09-26.md`, `proposals/SAGA_GEOGRAPHY_CAST_DISTRIBUTION_MATRIX_PASS1_2026-09-26.md`, and `proposals/SAGA_THEATER_LEDGER_PASS1_2026-09-26.md`). Then recalibrate pressure and proceed to the book/act/episode milestones that B08's end sequence waits on.
 - **`LT_RULES_POST_MENDING.md` §6** has a named exception for the B9 epilogue handshake,
   enabled by Tahl's echo (2026-09-26).
 - **Elias Tier-1 cards corrected 2026-09-26** (E1–E10, author-approved;
@@ -272,7 +272,7 @@ judgments are provisional until the levels above them are settled.
    transitions. **Especially: strengthen B07–B08 without stealing B09's ending** — B08's turns are
    now ruled (grid M44–M47, 2026-09-26); its end sequence is deferred. **Author, 2026-09-26:** *"we need to spend a
    good bit of time developing Loom. We essentially figured out the last couple episodes and it
-   has been spreading thin."* **Task, 2026-09-26:** resolve Tahl's death specifics (author: *"never
+   has been spreading thin."* **Geography correction, 2026-09-26:** primary-cast separation is intentional; recover parallel global theaters before pressure recalibration, especially B04–B06. The main-cast itinerary is not the world map; do not solve information gaps by co-locating the ensemble. **Task, 2026-09-26:** resolve Tahl's death specifics (author: *"never
    resolved and should be on our list of tasks"*). **Constraint, 2026-09-26:** the antagonist factions **do not know
    the swamp is the Mending site until B09 Act III**; *"we can't have an entire book of them
    laying siege on the mending site."* Much of the pasted B07–B09 master conflicts
