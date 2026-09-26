@@ -81,6 +81,20 @@ this table is the correction.
 **Not re-weighted here:** documents written before 2026-09-26 may class "Proceed" the same way.
 Sweeping them is a follow-up task.
 
+## 4. Follow-up: approval inherits the proposal's status (2026-09-26)
+
+**The author:** *"yes, standing instruction"*. This answers Q13 in
+`decisions/EDITORIAL_ROUTE_AUTHOR_ANSWERS_2026-09-26.md`, which asked whether he had given ChatGPT
+two clarifications, and whether they are standing.
+
+1. **Approval inherits the status and scope of the proposal.** An approval, whether "A", "yes",
+   "Proceed" or the like, gives the approved item the proposal's status and no more:
+   - approving a DESIGN proposal makes it **approved design (Tier B)**, not ruled canon;
+   - approving one option approves that option, not the document it came from.
+
+   This makes explicit what ruling 2 implies. **Promotion to `ruled` still needs a specific ruling.**
+2. **About 6,000 words is a target, not a ceiling**, for briefs and passes that state a length.
+
 ## What this ruling does not change
 
 No grid row, status, card, rule or book context. The 20 `ruled` rows and the four retirements stand.

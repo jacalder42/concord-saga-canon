@@ -9832,4 +9832,59 @@ END OF ENTRY 132
 
 ===============================================================
 
+# 133. Editorial routes: the author's answers to the sixteen questions — 2026-09-26
+
+**The author** answered the sixteen route questions: ChatGPT's §15 Q1–Q12 and the review's four. His
+words are quoted verbatim in `decisions/EDITORIAL_ROUTE_AUTHOR_ANSWERS_2026-09-26.md`.
+
+**Q13 is a ruling and a standing instruction:**
+
+- **An approval inherits the proposal's status and scope.** Approved design is Tier B, not ruled.
+- **About 6,000 words is a target, not a ceiling.**
+
+It is recorded as §4 of `decisions/ASSISTANT_CHANGE_AUTHORITY_AND_PROCEED_AUTHOR_RULING_2026-09-26.md`
+(an added section) and in CLAUDE.md §4.
+
+**Q1–Q12, all "A", approved design:**
+
+- **Caro:** Chicago in B05, where M54 happens; Chicago → NOLA in B06.
+- **B06:** Elisabet in Reykjavík; Rex in Singapore (M17).
+- **Tahl:** his route as a pattern, with no stops locked.
+- **B08:** no Reykjavík round trip. This supersedes the approved observatory placement as design
+  direction; the recovered material is kept.
+- **B09:** Lacuna carries the NOLA feint.
+- **Rex:** a Detroit scene. The author is unsure of its fit in B02, and **Rex's introduction is an
+  open task**.
+- **Kade:** a B04 Bristol beat, perhaps about MT.
+- **Baz:** Vienna through a supplement or his communication with Lucien.
+- **The funeral:** several days after Tahl's death.
+- **B08:** Seraphine and Lucien at every wound; Caro may break off before Serpent Mound.
+
+Only the recommended options are approved. The proposal's other route material stays DESIGN, and the
+errors the review found are not approved.
+
+**Q14–Q16, leans:**
+
+- **Rex is in NOLA in B04.** The reason is likely engagement with Seraphine. ChatGPT's B04 Singapore
+  is not adopted; B05 is open.
+- **Baz arrives in B01 Act II.** This leans conflict #6; it does not resolve it.
+- **Lucien hears of the Riot from Vienna, and it brings him back.** He is absent from M16. This leans
+  conflict #4.
+
+**Written:**
+
+- the decision;
+- the index row in `decisions/README.md`;
+- the added section in the "Proceed" ruling;
+- notes prefixed on M17, M54 and M57 (the statuses are unchanged; ruled M05 and M16 are not edited);
+- `CLAUDE.md` §4, §4.1 and §8.
+
+**Not changed:** the proposal; every `recovery/` file; every card.
+
+**Checks:** canon scope 0; 144 self-tests; no drift in the book contexts.
+
+END OF ENTRY 133
+
+===============================================================
+
 END RECOVERY LEDGER
