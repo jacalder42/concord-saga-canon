@@ -9620,4 +9620,60 @@ END OF ENTRY 127
 
 ===============================================================
 
+# 128. Main-cast locations: author answers to the forensics handoff — 2026-09-26
+
+**The author** answered the handoff's eight heaviest conflicts and its major unknowns
+(`recovery/MAIN_CAST_LOCATION_REGISTERS_PASS1_2026-09-26.md` §5, points 3 and 4). His words are quoted
+verbatim in `decisions/MAIN_CAST_LOCATION_AUTHOR_ANSWERS_2026-09-26.md`.
+
+**Written:**
+
+- `decisions/MAIN_CAST_LOCATION_AUTHOR_ANSWERS_2026-09-26.md`, which is new;
+- `decisions/README.md`, with an index row;
+- `CLAUDE.md` §4.1 and §8.
+
+**Ruled:**
+
+- Lucien starts in Vienna and is sent to NOLA (#1, #2).
+- Caro does not leave NOLA in B01 (#9); B02–B03 travel is delegated to narrative fit.
+- Elisabet arrives late in B01 or in B02 (#10).
+- B06 by cast group (#15):
+  - Seraphine and Lucien are in NOLA;
+  - Elisabet and Rex are elsewhere, place open;
+  - Lacuna is in NOLA, but not a focus.
+- Lacuna may have cameos before B07 (#21, resolved).
+- Direction: Tahl is itinerant. Lucien stays primarily with Seraphine in B07–B08.
+
+**Leans:**
+
+- Caro is in NOLA in B06.
+- Kade is afar at Santa Fe (#16).
+- Rex: Singapore → NOLA, with an Atlanta trip, and possibly back to Singapore (#19, #20).
+- Two Tahl VT brushes: in B02 Silence and Hope notice and Tahl doesn't; in B03 Tahl notices (#18).
+
+**Delegated:** B09 A1–A2.
+
+**Not changed:**
+
+- M09 (*"first and only"*): rewording it would be destructive.
+- The B02 pass 2's *"no B02 Tahl VT contact"*.
+- RexID's Detroit move.
+- v4.1b's Elisabet entrance at E23.
+- Every `recovery/` file.
+- The Santa Fe Rupture/death placement, which is still flagged.
+- The warning's originator.
+
+**Four follow-ups** are put to the author in §4 of the decision:
+
+1. When Lucien is sent.
+2. Elisabet's E23.
+3. Rex and Detroit.
+4. Permission to reword M09 and the B02 pass.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 128
+
+===============================================================
+
 END RECOVERY LEDGER
