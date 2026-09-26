@@ -8809,4 +8809,46 @@ END OF ENTRY 107
 
 ===============================================================
 
+# 108. Four wounds, the knowledge split, and the cost of the Mending — ruled — 2026-09-26
+
+`decisions/LOOM_CHAIN_KNOWLEDGE_AND_MENDING_COST_AUTHOR_RULING_2026-09-26.md`.
+
+**Ruled:**
+
+- **Four wounds.** Santa Fe → Mound City → Serpent Mound → Honey Island; no others.
+- **Mound City in B08, after Santa Fe.**
+- **Serpent Mound is continuous across B08/B09.**
+- **The knowledge split:** Tahl's B06-epilogue message gives the shape; the chain gives the
+  particulars; discovery beats become confirmations.
+- **Seraphine's doubt grows from becoming the Loom.** This supersedes the "wound by wound"
+  inference.
+- **The cost:** *"Seraphine thought it would only cost her, but at the mending Lucien and Caro
+  realize they will have to become the guides since Silence and Hope give themselves to the
+  loom."* This reconciles *"all it will cost is her"* (her belief) with *"It required guides"* (the
+  revelation).
+
+**Explained at the author's request, not ruled:** the locked 11-15 Finale Phase Map (the structure)
+against the 12-07 ascension order (the sequence). They mostly nest. The real differences:
+
+- Silence powering Tahl's echo before unravelling (12-07 only) links the flare to the unravelling;
+- Hope and Silence go one at a time, then Lucien and Caro one at a time, with Elisabet's goodbye to
+  Caro between (12-07);
+- Elias's place in the attack (the map predates him);
+- "Guide" means Tahl/VT in the map, and Lucien and Caro in the author's words today.
+
+**Route now:** B07 NOLA → B08 Santa Fe → Mound City → Serpent Mound (end) → B09 escape → NOLA
+feint → Honey Island (A3).
+
+**Crowding at B08's end:** Serpent Mound, the fleeting opening and Elias's claim. One moment or
+staggered is open.
+
+**Open:** Mira; whether to set the 12-07 order inside the map; the "Guide" terminology; the standing
+"five human functions" task, to be re-read against the map.
+
+**Checks:** canon scope 0; 144 self-tests; sources unchanged.
+
+END OF ENTRY 108
+
+===============================================================
+
 END RECOVERY LEDGER

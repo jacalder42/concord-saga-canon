@@ -38,6 +38,16 @@ quieting) is **available as pressure**, neither chosen nor rejected. **Tier:** B
 
 ---
 
+> **Route ruled 2026-09-26** ([ruling](../decisions/LOOM_CHAIN_KNOWLEDGE_AND_MENDING_COST_AUTHOR_RULING_2026-09-26.md)):
+>
+> - **Four wounds:** Santa Fe → **Mound City (in B08, after Santa Fe)** → **Serpent Mound, at B08's
+>   end, continuous with B09's opening escape** → Honey Island.
+> - **Tahl's B06-epilogue message gives the crew the shape; the chain gives the particulars.**
+> - **Seraphine's doubt grows from becoming the Loom**, not from the wounds.
+>
+> B08's end also carries the fleeting storm-wall opening and Elias's claim. Whether these are one
+> moment or staggered is open.
+
 ## Strand A — the search: Santa Fe
 
 ### A.1 Chain
