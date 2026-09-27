@@ -67,7 +67,7 @@ The W/R/C ranges of the prior matrix can remain **provisional**. Below, “high 
 | **B08 A2** | MC confirmation and Kade's first complicity in another theater; their acts/places remain open | Give MC distinct people and evidence; Kade's victim and choice own their own moral pressure rather than sharing wound physics |
 | **B08 A3** | SM threshold/escape; possible opening and Elias claim affect factions' Louisiana inference | Preserve place wonder and the site secret; B08 close order remains deferred |
 | **B09 A1** | Escape/regroup with split physical routes and uneven information | Plan, exhausted humor and earned intimacy; no instant convoy from SM to HI |
-| **B09 A2** | Lacuna's NOLA feint may be tense locally while the forward group experiences a final human basin | Pursuit with sparks, relationship payoff and ordinary lives worth saving; no full swamp siege or guides' price reveal |
+| **B09 A2** | Lacuna's NOLA feint may be tense locally while the forward group experiences a final human basin | Pursuit with sparks, relationship payoff and ordinary lives worth saving; no full swamp siege or guides' price reveal. **[Corrected 2026-09-27: not a "basin"; see Corrections below]** |
 | **B09 A3** | Site exposure, Rex/Kade/Elias confrontation, Tahl flare, Elisabet's in-person warning and final Caro moment, then Mending | The shared clock is deferred; keep the ruled order, one identifiable Echo and selective convergence. The finale answers a problem, not just a pressure number |
 
 **Epilogue:** distributed repair and Kade/Lacuna's night-sky LT beat permit high recovery capacity. M34's wider storm/service improvement is proposed and requires measurable regions and lag. A lower reader pressure after the Mending does not mean every institution or every place instantly heals.
@@ -77,7 +77,7 @@ The W/R/C ranges of the prior matrix can remain **provisional**. Below, “high 
 1. **Asynchronous theater test.** For each major act, identify one active crisis/choice and at least one differently pressured theater. A remote receipt has an identifiable source, recipient, lag and consequence. It never stands in for a lived second plot by naming a city.
 2. **Ownership and causal limits.** Dominion, Technarc, Choirless and Brightbreak apply different pressure. Do not import a manufactured-meta transfer mechanism, VT warning origin, global service collapse or MT compass from geography alone. D5 event physics and the relevant canon decisions govern.
 3. **Human life test.** Each book earns ordinary continuity and at least one moment whose main job is why this world is worth saving. B07 funeral and B09 A2 are especially protected. A scene of care/competence can carry pressure and relief simultaneously; do not prescribe a humor quota.
-4. **Act exit test.** B02 ends with credible distributed cause, B03 with Baz's loss, B04 with civic fracture, B05 with credible SF danger, B06 with Tahl loss and dispersed receipt, B07 with chosen departure, B08 with an incomplete escape and rival Louisiana interpretation, B09 with the hard-cap/breathing-veil choice. A later book must not spend an earlier book's protected uncertainty or a later book's reserved reveal.
+4. **Act exit test.** B02 ends with credible distributed cause **[corrected 2026-09-27: drift plus No Reset; see Corrections below]**, B03 with Baz's loss, B04 with civic fracture, B05 with credible SF danger, B06 with Tahl loss and dispersed receipt, B07 with chosen departure, B08 with an incomplete escape and rival Louisiana interpretation, B09 with the hard-cap/breathing-veil choice. A later book must not spend an earlier book's protected uncertainty or a later book's reserved reveal.
 
 ## 5. Remaining gates and recommended next use
 
@@ -99,7 +99,13 @@ The author approved these corrections. The body above is kept as written.
   - the Caro–Elisabet farewell, at the Mending point;
   - the Lacuna–Kade payoff, in the B09 epilogue.
 
-  Read the row as pursuit with sparks, with no relationship payoff staged in A2.
+  Read the row as pursuit with sparks. What is excluded from A2 is only the **reserved payoffs**:
+  the Caro–Elisabet farewell and the Lacuna–Kade payoff. The approved design **still allows**:
+  - the forward group's recommitment at the feint split;
+  - the pre-Mending guide relationships (Mira and Seraphine, Hope and Caro, Silence and Lucien);
+  - a *"last intimacy before the Mending"*.
+
+  None of these previews the guides' price.
 - **§4, the act-exit test for B02:** *"B02 ends with credible distributed cause"* understates the
   book's ending. The source validation (`reports/PRESSURE_PASS1_CANDIDATE_SOURCE_VALIDATION_2026-09-26.md`
   §2) found:
@@ -108,3 +114,7 @@ The author approved these corrections. The body above is kept as written.
 
   The §3 B02 A3 row already says this.
 
+**Refinement, 2026-09-27:** pointers are added in the §3 B09 A2 row and the §4 B02 line, so that a
+reader of the tables meets the corrections. The B09 note's wording is narrowed: it excludes only the
+reserved payoffs, and keeps the recommitment and last-intimacy beats the approved design allows (the
+reviewer's point, relayed by the author).

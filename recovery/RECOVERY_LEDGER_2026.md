@@ -10577,4 +10577,28 @@ END OF ENTRY 154
 
 ===============================================================
 
+# 155. Pressure recalibration: in-row pointers; B09 A2 correction narrowed — 2026-09-27
+
+**The author relayed a review point:** the B09 A2 row still read *"final human basin"* and
+*"relationship payoff"* with no pointer to the appended correction. The correction's phrase *"no
+relationship payoff staged in A2"* was too broad: the approved design still allows recommitment and a
+last intimacy in A2.
+
+**Applied** to `proposals/SAGA_THEATER_PRESSURE_RECALIBRATION_PASS2_2026-09-27.md`:
+
+- bracketed pointers in the §3 B09 A2 row and the §4 B02 exit-test line;
+- the §154 note is narrowed. A2 excludes only the reserved payoffs, the Caro–Elisabet farewell and the
+  Lacuna–Kade payoff. It still allows the feint-split recommitment, the pre-Mending guide
+  relationships and a last intimacy (`decisions/SAGA_STRUCTURE_ADJUDICATION_AUTHOR_ANSWERS_2026-09-27.md`
+  Q8);
+- a dated refinement line.
+
+The row text is otherwise kept.
+
+**Not changed:** everything else. **Checks:** canon scope 0.
+
+END OF ENTRY 155
+
+===============================================================
+
 END RECOVERY LEDGER
