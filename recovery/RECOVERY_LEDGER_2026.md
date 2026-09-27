@@ -10410,4 +10410,43 @@ END OF ENTRY 149
 
 ===============================================================
 
+# 150. Route clock B07 → B09: author answers; pronoun corrected — 2026-09-27
+
+**The author:** *"Q1–Q8 as recommended, Q9 deferred, fix the pronoun"*. This answers
+`proposals/B07_B09_ROUTE_INFORMATION_CLOCK_PASS1_2026-09-27.md` §5 (§149).
+
+**Review first:** Claude checked §149's commits. The changes are additions only, the ledger runs
+§1–§149 in sequence, and the validator raises nothing. The clock matches the rulings, but one pronoun
+was wrong.
+
+**Recorded:** `decisions/B07_B09_ROUTE_CLOCK_AUTHOR_ANSWERS_2026-09-27.md`.
+
+**Q1–Q8, approved design:**
+
+- **Q1:** no single convoy. Seraphine and Lucien go with a small group; Caro is on the SF and MC legs;
+  Rex goes to SF.
+- **Q2:** Caro leaves only for a named care task, with a window for rejoining. Otherwise she stays on
+  the route.
+- **Q3:** Lacuna builds the feint in NOLA and the Gulf.
+- **Q4:** Kade and Elias work in a separate public theater, and Kade's complicity has a concrete
+  victim.
+- **Q5:** the B08 opening reaches Elias second-hand, and the public hears "Louisiana".
+- **Q6:** only task-holders go to Serpent Mound.
+- **Q7:** before the A3 reveal the hostiles are in the wider Louisiana search space; Rex and Elisabet
+  hold a rear approach.
+- **Q8:** Elisabet warns in person, for a stated reason and at a cost.
+
+**Q9 deferred** to episode work. **The B08 end order stays deferred.**
+
+**Corrected:** the clock's §1 said Silence gives *"herself"* to the Loom. It now reads *"himself"*,
+because the author writes Silence as male (*"allow himself to care"*; *"Silence sees a bit of himself
+in Tahl"*). A correction note is appended to the proposal.
+
+**Not changed:** the grid, every card and every status. **The B02/B03 hold stands.** **Checks:**
+canon scope 0.
+
+END OF ENTRY 150
+
+===============================================================
+
 END RECOVERY LEDGER
