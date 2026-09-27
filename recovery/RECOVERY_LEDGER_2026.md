@@ -10870,4 +10870,22 @@ END OF ENTRY 163
 
 ===============================================================
 
+# 164. Mechanica: §41 cross-reference and "hard cap" glossary entry — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an author instruction that amends a rule file (additions only).
+
+**The author, verbatim:** "Add the glossary entry and cross-reference too"
+
+**Applied to `rules/Mechanica-v4.md`:**
+- **§41** ends with: "It replaces the hard cap. Its regulation is structural, not personal (§42A)." A dated note sits under it.
+- **Appendix B** gains: "**Hard cap:** Pre-Mending Veil: one fixed ceiling held by a single soul; brittle; replaced at the Mending (§42A)". It sits after "Breathable Veil".
+
+No existing line is changed. The follow-up is recorded in `decisions/MECHANICA_42A_AMENDMENT_AUTHOR_RULING_2026-09-27.md`, and CLAUDE.md §8 is updated.
+
+**The holds stand.**
+
+END OF ENTRY 164
+
+===============================================================
+
 END RECOVERY LEDGER

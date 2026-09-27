@@ -65,3 +65,18 @@ as Mechanica does over other documents (§1).
   `Resonance-v1.md`).
 - **Grid:** no grid row.
 - **Holds:** B02/B03 episode architecture and B01 EBCI both stand.
+
+---
+
+## Follow-up (2026-09-27): cross-reference and glossary entry added
+
+**The author:** *"Add the glossary entry and cross-reference too"*. Both are **RULED** (author
+instruction). Both are additions only.
+
+- **§41** gains a pointer at its end: *"It replaces the hard cap. Its regulation is structural, not
+  personal (§42A)."* It carries a dated note.
+- **Appendix B** gains *"**Hard cap:** Pre-Mending Veil: one fixed ceiling held by a single soul;
+  brittle; replaced at the Mending (§42A)"*, placed after *Breathable Veil*.
+
+§1's *"Not added"* item is closed. Ledger §164.
+

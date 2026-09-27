@@ -811,6 +811,9 @@ It:
 The Veil does not erase resonance.
 It regulates it.
 
+It replaces the hard cap. Its regulation is structural, not personal (§42A).
+*(Cross-reference added 2026-09-27 by author instruction.)*
+
 ---
 
 ## 42. FILTRATION MECHANICS
@@ -1246,6 +1249,7 @@ Energy × Emotion × Intent
 **VT:** VeilThread metaphysical channel  
 **LT:** Luminous Thread (post-Mending only)  
 **Breathable Veil:** Prismatic filtration membrane formed during the Mending  
+**Hard cap:** Pre-Mending Veil: one fixed ceiling held by a single soul; brittle; replaced at the Mending (§42A)  
 **Echo Node:** Stable post-Mending resonance anchor  
 
 ---
