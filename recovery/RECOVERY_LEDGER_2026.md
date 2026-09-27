@@ -11247,4 +11247,38 @@ END OF ENTRY 174
 
 ===============================================================
 
+# 175. B02 civic-decision options card; a provenance correction to the B02 Act III audit — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a proposal, and a provenance correction made by a new ledger entry, because `recovery/` is not edited. Nothing is ruled.
+
+**Written:** `proposals/B02_CIVIC_DECISION_OPTIONS_CARD_2026-09-27.md`. It is the first deliverable of the released B02 pass (§174).
+
+**Options:**
+- **A:** a Dominion clearance and restricted-access order on a recurring pocket. Helena's request is partly obeyed; Seraphine withholds confidences and respects a holdout's refusal; the payoff is at M06.
+- **B:** the Filament grounding circles, suspended.
+- **C:** a public advisory from Baz's model.
+- **D:** care set up in advance, with a registration condition. It crowds M54.
+- **E:** a data trade with Technarc. It undoes A9's surprise unless declined.
+
+**Recommended:** A, with E as the declined alternative. Its causal paragraph to B03 passes the review's C02 test: without the choice there is no protocol, no expected perimeter, no refusal to make, and no Technarc surprise.
+
+**Sources:** a read-only agent search of the recovered B02 material. Every recovered episode text is Tier D.
+
+**Provenance correction.** The B02 Act III forensic audit (`recovery/ACCOUNT_EXPORT_B02_ACT3_EPISODE_FORENSIC_AUDIT_2026-09-20.md`) names `2025-12-08__Episode_expansion_process` as its primary source. Its Act III titles ("The New Baseline", "The Threshold Event", "The World Answers", "No Reset") are **not in that source**:
+- That conversation's B2 Act III is E17–E28: "City Stretched Thin" (md line 21935) through "The First Node Spike" (23303) to "The First Drift" (~24947).
+- "No Reset" has 0 hits there. The only export hit is "No reset button" in an unrelated 11-27 finale passage.
+
+**So:**
+- **Drift** is recovered.
+- The concept "no reset between cycles" is carried by the Act II audit, whose titles match the source (spot-checked).
+- **"No Reset" as a titled B02 closing episode, and "The Threshold Event", are audit synthesis (Tier D)**, not recovered episode text.
+
+**Approved design is unchanged:** "drift plus No Reset" as B02's close (direction 2). Only the "recovered" label on it, in the saga-lock report §6, the Veil brief and the B02 pass-2 draft, is wrong. **The audit itself is not edited.**
+
+**Awaiting:** the author's pick (the card's §3).
+
+END OF ENTRY 175
+
+===============================================================
+
 END RECOVERY LEDGER
