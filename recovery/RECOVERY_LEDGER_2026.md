@@ -12442,4 +12442,20 @@ END OF ENTRY 228
 
 ===============================================================
 
+# 229. The prose calibration passes; drafting rules; sequential drafting begins — 2026-09-27
+
+**Status:** LEDGER ENTRY. Records `decisions/PROSE_CALIBRATION_RESULT_AND_DRAFTING_START_AUTHOR_RULING_2026-09-27.md` (the author's answers to Q-CAL1–4 of §228).
+
+**Decided:** the calibration passes, no second round. **Q-CAL1** minimum identity context for any named character (name, pronouns, scene role or relationship, at most one stable fact; not a voice layer; nothing the preceding prose has established). **Q-CAL2** *nobody reads minds* in the profile's §9 (principle: *"Resonance may provide information; it does not provide narration"*, reworded on the page without *Resonance*). **Q-CAL3** before preceding prose exists, context is only earlier packet *Ends* plus elapsed time. **Q-CAL4** manuscript prose stays out of this public repository, in a private `concord-saga-manuscript`; manuscript is not canon. Calibration drafts are disposable and their inventions are not canon. No anti-tic rules until a prose-pattern pass on the Act I corpus.
+
+**Applied:** `ebci/prose/WRITER_PROFILE_JA_CALDER.md` §9; `ebci/prose/README.md` (the drafting stack, identity context, context rule, where prose lives).
+
+**Manuscript repository:** Claude's attempt to create `jacalder42/concord-saga-manuscript` (private) was refused by GitHub (HTTP 403, the integration may not create repositories). **The author creates it**; drafts are kept in a local git repository with the ruled structure until then.
+
+**Next:** sequential B01 drafting from E00, stopping after E03 or E04 for the author. No Act II prose packets.
+
+END OF ENTRY 229
+
+===============================================================
+
 END RECOVERY LEDGER

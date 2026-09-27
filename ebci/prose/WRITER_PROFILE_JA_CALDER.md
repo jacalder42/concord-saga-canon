@@ -1,4 +1,4 @@
-Status: WRITER PROFILE — APPROVED for Veil drafting (`decisions/WRITER_PROFILE_APPROVAL_AND_PROSE_CALIBRATION_AUTHOR_RULING_2026-09-27.md`). Recovered, not invented: sources in `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md`. Not canon. Everything below the rule accompanies every prose packet, unchanged, with the immediately preceding prose.
+Status: WRITER PROFILE — APPROVED for Veil drafting (`decisions/WRITER_PROFILE_APPROVAL_AND_PROSE_CALIBRATION_AUTHOR_RULING_2026-09-27.md`). Recovered, not invented: sources in `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md`. Not canon. Everything below the rule accompanies every prose packet, unchanged, in the drafting stack set out in `ebci/prose/README.md`. The *nobody reads minds* line in §9 was added by Q-CAL2 (`decisions/PROSE_CALIBRATION_RESULT_AND_DRAFTING_START_AUTHOR_RULING_2026-09-27.md`).
 
 ---
 
@@ -73,6 +73,7 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 ## 9. The strange, on the page
 
 - **Characters know effects before they know causes.** Describe what is seen, heard and felt, and what people do. **Never the mechanism.** Nobody explains it, and the narrator doesn't either.
+- **Nobody reads minds.** Sensing a room means sensing pressure, distress or other permitted effects—not thoughts, memories or stories. Any conclusion about what someone feels, wants or has experienced remains observation, inference or guess. **What a character senses may give them information; it never gives them the narration.**
 - **Keep what is observed apart from what anyone thinks it means.** People can argue about causes. The page doesn't settle it.
 - **In the first three books, the city's words are ordinary:** *pulse*, *pocket*, *drift*, *standing*, *the stretch*, or no word at all. No technical or metaphysical vocabulary. No numbers used as imagery.
 - **Restraint.** One or two sensory channels at a time, not a light show. No beams, blasts, telekinesis, powers or impossible geometry. If an effect feels impressive without a cost, it's wrong.
