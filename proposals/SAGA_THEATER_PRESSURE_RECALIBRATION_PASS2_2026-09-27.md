@@ -84,3 +84,27 @@ The W/R/C ranges of the prior matrix can remain **provisional**. Below, “high 
 This pass is **qualitative** because several physically necessary decisions remain open: the B07 post/institution/refuge causal event; who carries particular B07 receipts; Kade's B08 city and complicity victim; the distinct MC human finding; the Santa Fe artefact's custody; the deferred SM/opening/Elias order; the B09 A3 site reveal and shared travel/warning clock. These affect local reader pressure more than a grid number can express.
 
 **REC:** attach this profile to later book/act/episode milestone work as a review lens. After scenes are assigned, make a compact ledger with theater, direct POV, active decision, received report, W/R/C range, human counterpressure and lag; compare against the existing 27-act matrix. Revise numerical pressure values **only** where a concrete scene or scored milestone has changed. No score, row or book context needs an edit now. The B02/B03 episode hold remains in force.
+
+---
+
+## Corrections, 2026-09-27
+
+The author approved these corrections. The body above is kept as written.
+
+- **§3, B09 A2:** *"the forward group experiences a final human basin"* and *"relationship payoff"*
+  do not match the approved design. **B09 A2 is pursuit with sparks**
+  (`decisions/SAGA_STRUCTURE_ADJUDICATION_AUTHOR_ANSWERS_2026-09-27.md` Q8): the pursuit and the
+  feint continue, with human moments inside them, and there is no low-pressure basin. **Two payoffs
+  are reserved for later:**
+  - the Caro–Elisabet farewell, at the Mending point;
+  - the Lacuna–Kade payoff, in the B09 epilogue.
+
+  Read the row as pursuit with sparks, with no relationship payoff staged in A2.
+- **§4, the act-exit test for B02:** *"B02 ends with credible distributed cause"* understates the
+  book's ending. The source validation (`reports/PRESSURE_PASS1_CANDIDATE_SOURCE_VALIDATION_2026-09-26.md`
+  §2) found:
+  - that the anomaly is not purely local is already the **B02 A1** result;
+  - **B02 ends on the southwest drift model plus "No Reset"**, a persistent altered baseline.
+
+  The §3 B02 A3 row already says this.
+

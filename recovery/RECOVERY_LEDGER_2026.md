@@ -10550,4 +10550,31 @@ END OF ENTRY 153
 
 ===============================================================
 
+# 154. Theater pressure recalibration reviewed; two wording corrections — 2026-09-27
+
+**Review:** Claude checked §153's commits (`39855a3`, `6dd70c2`).
+
+- The changes are additions only, and the ledger runs §1–§154 in sequence.
+- The validator raises no notice in the file, and the book contexts show no drift.
+- The content matches the recorded decisions: the B05 meeting and the remote channel; the Santa Fe
+  order; Elias's absence from B06; the B07 lived settings and the receipt pool; the four wounds; the
+  "Louisiana" inference.
+
+**The author:** *"Yes"*, to appending a dated correction note.
+
+**Corrected** (a note appended to
+`proposals/SAGA_THEATER_PRESSURE_RECALIBRATION_PASS2_2026-09-27.md`; the body is not rewritten):
+
+1. **B09 A2.** *"Final human basin"* and *"relationship payoff"* conflict with the approved *pursuit
+   with sparks* (§139, Q8). The Caro–Elisabet farewell (at the Mending point) and the Lacuna–Kade
+   payoff (the epilogue) are reserved.
+2. **The B02 exit test.** *"Credible distributed cause"* is the B02 A1 result. B02 ends on drift plus
+   No Reset (§134).
+
+**Not changed:** everything else. **The B02/B03 hold stands.** **Checks:** canon scope 0.
+
+END OF ENTRY 154
+
+===============================================================
+
 END RECOVERY LEDGER
