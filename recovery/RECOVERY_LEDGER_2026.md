@@ -11370,4 +11370,29 @@ END OF ENTRY 178
 
 ===============================================================
 
+# 179. Manufactured-meta transfer loop, forensic reconciliation (D14) — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an editorial report and a correction to the record. Nothing is ruled, and no card, rule, row or ruling is edited.
+
+**The author, verbatim:** "Proceed with deferred passes"
+
+**Written:** `reports/MANUFACTURED_META_TRANSFER_RECONCILIATION_2026-09-27.md`, the deferred D14 pass.
+
+**Key finding:** the full account export holds the author's own words for the meta power-bank loop, uncited in the repository until now:
+- 2025-11-10 (*Prompt crafting types* l. 32724, 33096, 33332): metas as *"a sacrificial power source trapped without intent"*, *"effectively becoming batteries"*, and *"The manufactured metas provide them the fuel (via boosts) they need to fight back."*
+- 2025-11-21 (*Concord Saga Notion Blueprint* l. 155783): *"Manufactured metas have been treated like battery elements ("runaway reactors"), intended for factions to use as power banks etc. Since the m.meta sacrificed their intent, they can not expend their stored energy."*
+- The assistant's 11-21 reply kept "cannot expend" and dropped "power banks". That is an omission, not a ruling.
+
+**Correction to the record:** `recovery/MANUFACTURED_META_TRANSFER_LOOP_FORENSIC_AUDIT_PASS5_2026-09-22.md` l. 222–223 call the meta → operative transfer and the operative boost *"AUTHOR-RECALLED, NOT YET SOURCE-RECOVERED"*. **Both are now source-recovered**, in the author's words. The bystander harvest (l. 224) is still not: *"bystander"* appears in no author turn about metas. It comes from the 2026-09-22 recollection (Pass 2). The pass is not edited.
+
+**Other findings:** the author's 11-21 words and the accepted Mini-Bible make metas altered humans (*"voluntary or coerced"*), against the card's *"artificial constructs"*. A draw without Intent fits §42A.1 if the recipient supplies Intent, and makes a meta a small hard cap (§42A.2). Mechanica's no-digital rule and §23 make any draw bodily and close.
+
+**Eight questions** are put, with recommended answers (report §7). The recommendation replaces the declined *"no direct boosting of operatives"* with: yes, factions draw on metas, unreliably and at a cost.
+
+**Unchanged:** the CLAUDE.md §9 standing constraint and D19's gate hold until the author answers. The holds on B03 and B01 EBCI stand.
+
+END OF ENTRY 179
+
+===============================================================
+
 END RECOVERY LEDGER
