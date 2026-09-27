@@ -108,13 +108,13 @@ is the rear action and the flare; the last cluster is the rest of the Mending.**
 | 34 | Hope Goes | Caro | **Hope gives herself to the Loom.** Caro feels her go, and does not yet understand | **M33** (Hope second) | Pays off `BC-HOPE-CARO` |
 | 35 | South, Fast | Kade | **The splinter races from New Orleans**, Elias in front. **Kade is driving them toward the people he loves** | The author's arc | — |
 | 36 | Go | Elisabet / the rear | **Rex tells her to go and warn the others.** A message would expose the route; she goes on foot | Route Q8; the 12-07 order | — |
-| **37** | **The Perimeter** | Rex | ***Penultimate cluster.*** **Brightbreak and the Choirless collide at the perimeter.** **Elias attacks Rex; Rex knocks him down** | **M52** (ruled); A4 | — |
+| **37** | **The Perimeter** | Rex | ***Penultimate cluster.*** **Brightbreak and the Choirless collide at the perimeter.** Kade tries to tell Elias to stop and let him talk to Rex (the author, `NS` 8599). **Elias attacks Rex anyway; Rex knocks him down** | **M52** (ruled); A4 | — |
 | 38 | Kade | Kade | **Fearing Rex will kill Elias, Kade attacks Rex** | **M52** (ruled) | — |
 | 39 | Silence, Giving | **VT** | **Silence powers Tahl's echo** | **M33** (12-07: Silence powers the echo before he goes) | — |
 | 40 | The Flare | Rex | **Tahl's echo flares and stops Kade**: its one identifiable appearance. **Rex knows him** | **M52** (ruled) | **Pays off `BC-VT-BRUSH-LADDER`** (the fourth contact) and **`BC-REX-TAHL-SOURCE`** |
-| 41 | After the Flare | Kade | **He talks Brightbreak down and stands with Rex against the Choirless**, who stay unresolved | **M52** (A4) | Sets up M35 |
+| 41 | After the Flare | Kade | **He stops himself, talks Brightbreak down, and protects Rex from the others while Elisabet goes on** (the author, `MDR` 11347); he stands with Rex against the Choirless, who stay unresolved | **M52** (A4) | Sets up M35 |
 | **42** | **Silence** | Lucien | ***Last cluster.*** **Silence gives himself to the Loom. Lucien understands, only now, that he must become a guide, and goes** | **M33** (Silence, then Lucien); **the price revealed at the Mending** (ruled) | Pays off `BC-LUCIEN-SILENCE`, `BC-LUCIEN-LISTENING` |
-| 43 | Elisabet | Elisabet | **She arrives after Silence and Hope have gone, before Caro.** The warning, and **their final moment** | **M33** (Elisabet's goodbye) | Pays off `BC-CARO-ELISABET-LADDER` |
+| 43 | Elisabet | Elisabet | **She arrives after Silence and Hope have gone, before Caro.** The warning, and **their final moment**: Elisabet *"not broken but proud"* (the author, `BB` 9747) | **M33** (Elisabet's goodbye) | Pays off `BC-CARO-ELISABET-LADDER` |
 | 44 | Caro | Caro | **Caro becomes the other guide.** | **M33** (Caro last) | — |
 | 45 | The Loom | Seraphine | **After the goodbye.** **She understands the answer at the very end**: the veil held jointly, breathing. **Mira's echo is released.** The veil gives, and recovers | **M33**, **M49**, **M34**; §42A | **Pays off `BC-BOUNDED-RESPONSIBILITY`**; the author's *"the last episode … may be from Seraphine's pov after Caro and Elisabet say good bye"* |
 

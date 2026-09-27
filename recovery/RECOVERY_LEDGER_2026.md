@@ -11950,4 +11950,24 @@ END OF ENTRY 202
 
 ===============================================================
 
+# 203. Loom reconciliation, with the recovered Loom lineages inventoried — 2026-09-27
+
+**Status:** LEDGER ENTRY. It completes §202's checkpoint. Proposals only; nothing approved or ruled.
+
+**Survey (read-only):** the export holds more Loom episode material than the repo had inventoried: the NB act bibles (11-22) and supplement bibles; the NB "Final Beat Bibles" (11-23, re-pasted word for word; B09 in four acts); **about nineteen NS rebuild cycles** (11-27 to 12-01), of which **C6 (11-28) is the only lineage that keeps the site secret** and **C19 is the final saved state** (*"Loom Book 7 — Act I–III Structural Canon v1"*, *"Loom Book 9 — Act II / Act III Structural Canon v1"*); **the B9 Act III text earlier passes could not find is at `NS` 217275–217492**; the 12-07 BB rounds, whose B9 A3 reconstruction (9757–10033) follows the author's own corrections; the Dec 8 master (assistant, confirmed); SBEP's anchored zones (renumbered per act; the swamp sieged from B07).
+
+**Written:** `proposals/LOOM_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-27.md`: the lineages and their worth; **the author's own Loom words** the architecture honours; a disposition table; **two conflicts for the author**; fourteen questions **L1–L14**.
+
+**Author words newly applied to B09 (additive edits to the proposal):** Kade tries to stop Elias just before he attacks (`NS` 8599; E37); Elisabet *"not broken but proud"* at the goodbye (`BB` 9747; E43); Kade *"stops himself and then protects Rex from the other antagonists while Elisabet makes her way toward the Loom"* (`MDR` 11347, not cited before; E41).
+
+**The two conflicts:**
+1. **Book size.** The author twice asked for *"60-80 episodes"* of about 1,500 words per book (`NB` 106496; `SBEP` 1117). The approved architecture runs 45–48 (Veil; Neon N12). Recommended reading: architecture episodes are turns; prose episodes are counted at EBCI.
+2. **Tahl and Kade.** *"Originally Tahl and Kade never met"* (`NS` 150220) against N9's approved unknowing meeting. Recommended reading: they never meet *as* Tahl and Kade.
+
+**Unchanged:** every ruling, row, card and rule. The B08 end-sequence deferral and the B01 EBCI hold stand.
+
+END OF ENTRY 203
+
+===============================================================
+
 END RECOVERY LEDGER
