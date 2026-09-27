@@ -9,7 +9,7 @@ He is a **force multiplier** whose presence increases emotional amplitude, audie
 His EBCI profile governs:
 - where influence accelerates
 - how misinterpretation spreads
-- why Neon fractures
+- why Loom fractures (his public voice rises after Tahl's death)
 - how Loom forces restraint and repair
 
 ---
@@ -108,7 +108,7 @@ Kade is a **weather front**, not a source of order.
 ### NEON
 - Listener, not yet a public voice: no public rise before Tahl's death (ruled 2026-09-27)
 - Private grief after Tahl's death
-- First MT post, believing it private: the B06 epilogue, or the B07 funeral (grid M23, lean)
+- First MT post, believing it private: it closes the B06 epilogue (grid M23; approved design 2026-09-27)
 
 ### LOOM
 - Emergent voice after the funeral (Lacuna inspires him to post; grid M40)
@@ -185,3 +185,11 @@ earlier lines, now superseded:
 
 - "Emergent voice", "Influence rises faster than judgment", "MT becomes megaphone", "Misinterpretation
   spreads", "Fracture accelerates". Moved to LOOM, after the funeral.
+
+**2026-09-27, consistency and relabel** (author: *"Relabel Kade EBCI as well"*; `decisions/TAHL_DEATH_SPECIFICS_AUTHOR_ANSWERS_2026-09-27.md` Q7):
+
+- EBCI ROLE FUNCTION read "why Neon fractures". It is relabelled to Loom.
+- NEON read "First MT post, believing it private: the B06 epilogue, or the B07 funeral (grid M23,
+  lean)". It now follows the approved B06-epilogue placement. The funeral alternative is kept in grid
+  M23's notes.
+

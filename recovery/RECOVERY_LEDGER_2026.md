@@ -10278,4 +10278,40 @@ END OF ENTRY 144
 
 ===============================================================
 
+# 145. Consistency pass after the Tahl answers; KadeEBCI relabelled — 2026-09-27
+
+**The author** relayed a review of Claude's commits through `75f437e`. It found no rollback needed
+and recommended a narrow consistency pass. He added: *"Relabel Kade EBCI as well"*.
+
+**Applied:**
+
+- **`proposals/B06_SANTA_FE_CAUSAL_EVENT_CARD_PASS1_2026-09-26.md`:** a **supersession notice at the
+  top**, because the card's body still placed Tahl's death in Act II.
+  - The death is ruled at the end of Act III, and the Rupture opens in Act II and persists (§139 Q7).
+  - The placement line and *"No 2026 author ruling bears directly on B06"* are marked stale.
+  - The death specifics are approved design (§144).
+  - The body is kept as the historical record.
+- **Grid M23:**
+  - its description now follows the approved B06-epilogue placement: Kade's grief post closes the
+    epilogue, after Tahl's message;
+  - the funeral alternative and the old description are kept in its notes;
+  - the status is unchanged (proposed).
+- **`canon/characters/KadeEBCI.md`:**
+  - The NEON first-post line now follows the approved placement.
+  - The role-function line *"why Neon fractures"* is **relabelled** *"why Loom fractures (his public
+    voice rises after Tahl's death)"*. This is ruled: the author approved the card edit.
+  - The old lines are kept in the card's conflict ledger.
+- **`reports/SAGA_LOCK_CHECK_2026-09-27.md`:** a note that its "locked enough" verdict is readiness
+  only and **does not release the author's B02/B03 hold**.
+- **`decisions/SAGA_LOCK_CONFIRMATIONS_AUTHOR_ANSWERS_2026-09-27.md`:** a follow-up section closes
+  the flag on KadeEBCI.
+
+**The hold stands:** no B02/B03 episode architecture until the author releases it.
+
+**Checks:** canon scope 0; 144 self-tests; no drift in the book contexts.
+
+END OF ENTRY 145
+
+===============================================================
+
 END RECOVERY LEDGER

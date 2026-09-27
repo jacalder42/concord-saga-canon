@@ -29,3 +29,18 @@ with the render labels, but the author named only the render card. It stays **fl
 - No other row, card or ruling.
 - M36's content is not deleted. It is retired with its text and history kept.
 - The book contexts are regenerated only by the tool.
+
+---
+
+## Follow-up (2026-09-27): KadeEBCI relabelled
+
+**The author:** *"Relabel Kade EBCI as well"*. **RULED** (card edit approved).
+
+KadeEBCI's role-function line *"why Neon fractures"* now reads *"why Loom fractures (his public voice
+rises after Tahl's death)"*. The old line is kept in the card's conflict ledger. The flag above is
+closed.
+
+In the same consistency pass, KadeEBCI's first-post line and grid **M23**'s description now follow
+the **approved** B06-epilogue placement (`decisions/TAHL_DEATH_SPECIFICS_AUTHOR_ANSWERS_2026-09-27.md`
+Q7). M23 stays `proposed`, and the funeral alternative is kept in its notes. Ledger §145.
+

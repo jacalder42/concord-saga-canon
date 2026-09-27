@@ -1,5 +1,21 @@
 # B06 Santa Fe — causal event card, Pass 1
 
+> **SUPERSESSION NOTICE, 2026-09-27. Read this first.** This card's body predates the rulings
+> below. Where it says otherwise, **they govern**:
+>
+> - **Tahl dies at the end of B06 Act III**, not in Act II. The Rupture **opens in Act II and
+>   persists**; his fatal VeilThread contact comes at the end of Act III, at the still-open rupture.
+>   This is **ruled**: M20 and M38 both hold (`decisions/SAGA_STRUCTURE_ADJUDICATION_AUTHOR_ANSWERS_2026-09-27.md` Q7).
+> - The **Placement** line and the status key's *"No 2026 author ruling bears directly on B06"* are
+>   **stale**. B06 now carries the 09-26 rulings (the end of B06; the glimpse; the epilogue message)
+>   and the 09-27 rulings above.
+> - **The death specifics are approved design** (`decisions/TAHL_DEATH_SPECIFICS_AUTHOR_ANSWERS_2026-09-27.md`): he goes against Elisabet's warning (M55); a
+>   live witness broadcast; a VT slip gives him the shape; the fragment reaches the group by the B05
+>   channel; Kade's grief post closes the book. See the addendum at the end of this card.
+>
+> The body below is kept as the historical Pass 1 record.
+
+
 **Date:** 2026-09-26
 **Status:** PROPOSAL / NON-CANONICAL EVENT CARD. **No episode, beat, grid row, rule or EBCI
 status is changed. No Resonance mechanism is supplied** — D5 holds causal physics, as the

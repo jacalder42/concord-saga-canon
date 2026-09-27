@@ -19,6 +19,11 @@ step 3, B02 and B03 episode architecture.
 
 ## 1. Verdict
 
+> **Note, added 2026-09-27:** this verdict predates the author's Tahl death answers and his
+> **hold**: *"Hold before B2 and B3 episodes"* (`decisions/TAHL_DEATH_SPECIFICS_AUTHOR_ANSWERS_2026-09-27.md`).
+> "Locked enough" is a **readiness assessment only**. It does **not** release the hold. B02/B03
+> episode architecture starts only when the author says so.
+
 **Locked enough to begin B02/B03 episode architecture, with two small author confirmations (§5).**
 
 - Every book has ruled or approved anchors.
