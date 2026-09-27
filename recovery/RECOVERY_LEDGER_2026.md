@@ -11603,4 +11603,24 @@ END OF ENTRY 187
 
 ===============================================================
 
+# 188. B03 pass-3 answers; B03 per-episode beats, Pass 4 — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers (approved design) and a proposal. Nothing is ruled.
+
+**The author, verbatim:** "Yes for 1-9"
+
+**Recorded in** `decisions/B03_PASS3_AUTHOR_ANSWERS_2026-09-27.md`: all nine pass-3 recommendations, as approved design.
+
+**Written:** `proposals/B03_EPISODE_BEATS_PASS4_2026-09-27.md`: all 45 episodes, the three-episode epilogue (E46–E48, `EP`) and S01–S04, each episode with a Turn block, in B02 pass 5's format. It closes with a B03 exit state and a named B04 handoff.
+- **Concrete choices made in this pass (tagged `pass 4`):** Samira's chorba and the sister's visit (E08, E41, E44); the dance hall (E06, E24); the loft party moved into the Warehouse District on the folk map's "safe" (E10, E25); Caldas Ren canvassing at the off-registry household (E21); the forklift operator (E19, E29, E32); the teenager and sibling separated in the crush (E34, E37); Rex's heating repair (E43); Trip's "not heard from" (E41).
+- The Warehouse follows pass 3 §5. Technarc is identified from footage in E42. S04 misdescribes Baz (A7).
+
+**Also:** pass 3's E36 cross-reference is corrected (§4 → §5).
+
+**The hold that stands:** B01 EBCI.
+
+END OF ENTRY 188
+
+===============================================================
+
 END RECOVERY LEDGER

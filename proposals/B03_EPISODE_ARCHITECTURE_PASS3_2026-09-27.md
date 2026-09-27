@@ -148,7 +148,7 @@ and B01 has 48, B02 47.
 | 33 | Unexpected | Baz | **Technarc retrieval**, Harlow, is inside, securing evidence. Nobody expected them. They hold a door and withhold what they know. Friction | **Mechanism B**; link 7 |
 | 34 | Contain, Not Clear | civic / perimeter | Caldas Ren's perimeter **contains rather than evacuates**. The crowd presses, and responders are hampered. **It also keeps the crowd back from the building** [P] | **Mechanism A**; link 9, inference only |
 | 35 | Elsewhere | separated principals | **Seraphine** is with her finite circle (E12). **Lucien** is across the city; his calls to Baz degrade and drop (Mechanica §23). **Caro** is on shift, routed around the perimeter. **Elisabet** reads the feeds. **The ensemble does not assemble** (slot 33) | Information fracture |
-| 36 | The Rupture | Warehouse | **§4's event, observed only.** It exceeds every model in the room (link 8) | **M08**; D5 |
+| 36 | The Rupture | Warehouse | **§5's event, observed only.** It exceeds every model in the room (link 8) | **M08**; D5 |
 | 37 | The Child | Baz | The younger sibling from E32 is trapped. **Baz finds and frees the child.** Immediate human courage, not destiny (slot 35) | Link 11 |
 | 38 | After the Rescue | Baz | **The partial collapse kills him after the rescue.** The reader sees it [P]; the cast does not. **No speech, no prophecy**: practical words, if any. He dies *"seeing the person inside the event"* (audit A3 §VII) | **M10** |
 | 39 | Site Aftermath | responders | The child survives, and is handed to Leila. A damaged site. **An incomplete casualty list.** Institutional narratives begin to form (slot 37) | Link 10 aftermath |
