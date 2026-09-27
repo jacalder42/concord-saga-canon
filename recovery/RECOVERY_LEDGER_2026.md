@@ -11821,4 +11821,26 @@ END OF ENTRY 196
 
 ===============================================================
 
+# 197. Progressive resolution: the author's work order after Veil — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an author instruction on sequence and method. Nothing is ruled as canon.
+
+**Context:** the author asked whether Neon and Loom episode data should precede Veil prose for breadcrumbs and the Möbius. Claude recommended provisional Neon and Loom architecture at pass-3 level, a live breadcrumb ledger with payoff dependency tiers, the macro-Möbius as already specified, and a B01 EBCI preflight in parallel. The author agreed, with refinements.
+
+**Recorded in** `decisions/PROGRESSIVE_RESOLUTION_SEQUENCE_AUTHOR_INSTRUCTION_2026-09-27.md` (verbatim):
+- **Neon B04–B06**, then **Loom B07–B09**, to provisional pass-3 episode architecture, **starting from reconciliation**. Target per episode: owner, function, turn, milestone, relationship or system obligation, downstream payoff. **A Loom trilogy audit** follows. **The B08 end-sequence deferral is preserved.**
+- **`grids/breadcrumbs.csv` goes live now**, seeded from Veil plants and known saga payoffs. Payoff dependency: LOCKED/RULED (plant precisely), SOFT/APPROVED DESIGN (polyvalently), PROVISIONAL/EPISODE ARCHITECTURE (directionally). **Episode numbers are locators, not identity.**
+- **The macro-Möbius** (B01 prologue ↔ B09 epilogue) may be designed now; **nested Möbius** structures stay open to discovery, then a dedicated audit.
+- **A nine-book Breadcrumb / Möbius / Promise-Payoff audit** after Neon and Loom; it may propose surgical Veil amendments. **No plants added to fill the ledger.**
+- **A non-narrative B01 EBCI preflight** in parallel. **The hold is not released; no EBCI is generated.**
+- **The B01 EBCI release decision** returns after the nine-book audit. Veil EBCI is then **the diagnostic** for whether Neon/Loom EBCI precedes prose.
+- **Principle:** saga architecture → all-nine episode architecture → saga breadcrumb/Möbius audit → Veil EBCI → reassess → deeper downstream EBCI as justified → prose. Neon and Loom architecture is **provisional by design.**
+- **Nothing existing is deleted or replaced** without specific direction.
+
+**Also:** `decisions/README.md` indexed; CLAUDE.md §8 and §9 updated to the new order.
+
+END OF ENTRY 197
+
+===============================================================
+
 END RECOVERY LEDGER
