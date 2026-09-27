@@ -12273,4 +12273,24 @@ END OF ENTRY 219
 
 ===============================================================
 
+# 220. The B02 EBCI audit — 2026-09-27
+
+**Status:** LEDGER ENTRY. The stop after B02 (§218, §219). An editorial report plus four brief-level corrections inside approved design.
+
+**Written:** `reports/B02_EBCI_AUDIT_2026-09-27.md`. An independent adversarial read of the 47 narrative briefs for the six focused tests, its claims checked against the packets and B03's architecture; Claude's measures. **Verdicts:** standalone shape, Seraphine's agency, knowledge economy, relationship progression and Lucien's E40 → E47 chain **pass with notes**; ordinary-life ecology **passes**. *"Three withholdings and one release"* makes B02 a novel, not a bridge.
+
+**Corrected:** E47 (the wider line is Lucien's belief against Baz's records and Rosette's book, not narrator fact; E34 named as his reason); E27 (the household outside the line cuts both ways); E23 (a control note on what the group knows of Lucien's Dominion ties); E45 (place Caro's `[P]`: pass 5's *"Caro and Elisabet's"* implies a shared home before any declaration).
+
+**Checked, not problems:** E47 does not pre-spend B03's refusal (B03 E16 differs in kind; E17 is the confession); Lucien's cover (A4) is consistent with his open brokering at E23.
+
+**Measures:** Seraphine leads 11/47 (23%); the longest fun-free run is E19–E31 (the civic decision), with slice of life in 9 of 13; E15 and E47's remote receipts have no recipient on the page.
+
+**For the author:** Q-B2-1 (Seraphine goes to the unlisted households at E44), Q-B2-2 (a Seraphine/Lucien Before/After in E31), Q-B2-3 (Naima returns at E42), Q-B2-4 (no mentor arc manufactured for Baz), Q-B2-5 (E45's place), Q-B2-6 (provisional POVs, E41's envelope, B02's calendar). **Recommendation: release B03 EBCI**, with a stop after B03. **No downstream architectural problem.** B03 stays held.
+
+**Checks:** canon scope 0 violations; 165 self-tests pass; no drift.
+
+END OF ENTRY 220
+
+===============================================================
+
 END RECOVERY LEDGER
