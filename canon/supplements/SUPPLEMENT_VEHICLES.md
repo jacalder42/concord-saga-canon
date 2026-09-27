@@ -36,7 +36,9 @@ Five primary, two culture, one metaphysical shadow.
 
 ### Primary
 
-#### `MT` — The Missing Thread
+#### `MT` — The MissingThread
+
+> **Amended 2026-09-27 by author ruling** (`decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md` C2). Was: *"The Missing Thread"*.
 
 - **Tone:** earnest → chaotic → vulnerable → legendary
 - **Voice:** Tahl → Kade

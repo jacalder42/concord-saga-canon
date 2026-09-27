@@ -8,7 +8,8 @@
       "MT": "MissingThread - public mortal channel (early Tahl)",
       "VT": "VeilThread - the private channel between Silence and Hope that Tahl discovers",
       "LT": "LuminousThread - post-Mending channel",
-      "_naming_note": "Ruled 2026-09-19, recovery/CHANNEL_NAMES_RULING_2026-09-19.md. The three channels are three Threads. Veil-Touch and Mortal Technology are retired names. How MT reconciles with the infrastructure layer described in rules/Channels/MT_RULES.md is OPEN - see that ruling section 2 and recovery/RECOVERY_LEDGER_2026.md section 20."
+      "_naming_note": "Ruled 2026-09-19, recovery/CHANNEL_NAMES_RULING_2026-09-19.md: the three channels are three Threads, and Veil-Touch is retired. Ruled 2026-09-27 (decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md C1): MT is MissingThread, the public mortal channel; mortal technology is the ordinary substrate it runs on, and not every device is MT. Mortal Technology is retired as MT's expansion but is not in retired_terms, because mortal technology stays a legitimate generic term. C2: the channel names are closed.",
+      "_naming_note_was": "Ruled 2026-09-19, recovery/CHANNEL_NAMES_RULING_2026-09-19.md. The three channels are three Threads. Veil-Touch and Mortal Technology are retired names. How MT reconciles with the infrastructure layer described in rules/Channels/MT_RULES.md is OPEN - see that ruling section 2 and recovery/RECOVERY_LEDGER_2026.md section 20."
     },
     "channel_separation": [
       "MT!=VT",
@@ -192,7 +193,8 @@
       "LINK": "Plot linkage - conveying off-page events (Chronicle leaks, MT civic updates, route changes, hazard warnings)"
     },
     "supplement_vehicles": {
-      "MT": "The Missing Thread",
+      "MT": "The MissingThread",
+      "_MT_was": "The Missing Thread (respelled 2026-09-27, decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md C2)",
       "CHRON": "Chronicle",
       "VEIN": "Vein",
       "FIELD": "Field Notes",
@@ -305,7 +307,7 @@
     "_why_both": "The 2026-09-19 derivation draft framed these as alternatives - make pressure per-thread OR split the axis into a reader grid. They are not alternatives. Threading fixes WHOSE pressure a milestone records; the reader grid answers a question the milestone grid never asks. Ruled 2026-09-20: keep both, and score a quantity in exactly one of them."
   },
   "retired_terms": {
-    "_note": "Names retired by ruling. tools/validate_canon.py CHK_RETIRED_TERMS reports any match as a VIOLATION in canon scope and a NOTICE in all-scope (recovery/, proposals/, reports/, decisions/, CLAUDE.md), where quoting a retired name as evidence is legitimate. Matching is case-insensitive and whole-word, so capitalised headings are caught. Added 2026-09-25, ledger 76. Mortal Technology is deliberately ABSENT: the MT reconciliation is open, so that name is held, not retired.",
+    "_note": "Names retired by ruling. tools/validate_canon.py CHK_RETIRED_TERMS reports any match as a VIOLATION in canon scope and a NOTICE in all-scope (recovery/, proposals/, reports/, decisions/, CLAUDE.md), where quoting a retired name as evidence is legitimate. Matching is case-insensitive and whole-word, so capitalised headings are caught. Added 2026-09-25, ledger 76. Mortal Technology is deliberately ABSENT. Ruled 2026-09-27 (decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md C1): it is retired as MT's expansion, but mortal technology stays a legitimate generic term for the substrate MT runs on, so whole-word matching would misfire. Was: the MT reconciliation is open, so that name is held, not retired.",
     "terms": [
       {
         "retired": "Technarch",

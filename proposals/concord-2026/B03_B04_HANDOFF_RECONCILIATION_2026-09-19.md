@@ -881,6 +881,9 @@ It also gives Tahl a clean metaphysical escalation without making him a Veil pro
 
 **B01 NOTICE → B02 BRUSH → B03 PUNCTURE → B04–05 EDGE/RECURRENCE → B06 SLIP → LOOM ECHO.**
 
+> **Superseded 2026-09-27 by author ruling** (`decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md` A11): Tahl's VT contacts are exactly the B02 brush (unnoticed by him) → the B03 brush (noticed, epilogue) → the B06 fatal slip → the B09 single identifiable echo. The NOTICE, PUNCTURE and EDGE rungs are retired. The ladder above is kept as history.
+
+
 ## Source conflict requiring explicit author resolution
 December 12/13 compressed memory says B04 includes “Tahl's first VT brush,” while also defining B01–B03 as Baz-centric and B04–B06 as Tahl-centric.
 
@@ -904,6 +907,8 @@ If author locks this ladder, update Channel/VT and Mechanica only after the broa
 Approved governing progression:
 
 **B01 NOTICE → B02 BRUSH → B03 PUNCTURE → B04–B05 EDGE / RECURRENCE → B06 SLIP → LOOM ECHO**
+
+> **Superseded 2026-09-27 by author ruling** (`decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md` A11). This lock is replaced by the ruled sequence: the B02 brush (unnoticed by Tahl, noticed by Silence and Hope) → the B03 brush (noticed, epilogue) → the B06 fatal slip → the B09 single identifiable echo. The NOTICE, PUNCTURE and EDGE rungs are retired. The text below is kept as history.
 
 Definitions:
 - **NOTICE:** pattern recognition only; no personal VT contact.

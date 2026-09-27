@@ -719,15 +719,18 @@ Force worsens outcomes.
 ## 36. CHANNEL SEPARATION
 
 There are three channels:
-- MT (Mortal Technology)
+- MT (MissingThread)
 - VT (VeilThread)
-- LT (Luminous Thread)
+- LT (LuminousThread)
 
 Channels never merge.
 
 ---
 
-## 37. MT — MORTAL TECHNOLOGY
+## 37. MT — MISSINGTHREAD
+
+> **Amended 2026-09-27 by author ruling** (`decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md` C1, C2). Was: §36 listed *"MT (Mortal Technology)"* and *"LT (Luminous Thread)"*; this heading read *"MT — MORTAL TECHNOLOGY"*. MT is the public mortal channel; it runs on mortal technology, and every rule below applies to both.
+
 
 MT is purely mortal.
 It can:
@@ -1245,9 +1248,9 @@ Energy × Emotion × Intent
 **Shard:** Fractured resonance zone  
 **Rupture:** Catastrophic resonance failure  
 **Node:** Post-Mending stabilized convergence  
-**MT:** Mortal Technology channel  
+**MT:** MissingThread, the public mortal channel (runs on mortal technology; C1, 2026-09-27; was "Mortal Technology channel")  
 **VT:** VeilThread metaphysical channel  
-**LT:** Luminous Thread (post-Mending only)  
+**LT:** LuminousThread (post-Mending only; C2, 2026-09-27)  
 **Breathable Veil:** Prismatic filtration membrane formed during the Mending  
 **Hard cap:** Pre-Mending Veil: one fixed ceiling held by a single soul; brittle; replaced at the Mending (§42A)  
 **Echo Node:** Stable post-Mending resonance anchor  

@@ -1,4 +1,4 @@
-# MT — MORTAL TECHNOLOGY RULES
+# MT — MISSINGTHREAD RULES (AND THE MORTAL TECHNOLOGY IT RUNS ON)
 Status: Authoritative Canon
 Source: Project Memory + Mechanica v4 + Resonance v1
 Phase: Phase 1A Migration
@@ -8,9 +8,11 @@ Applies To: Veil, Neon, Loom, Post-Mending
 
 ## 1. WHAT MT IS
 
-MT (Mortal Technology) is the **human-built information and communication layer**.
+MT (MissingThread) is the **public mortal channel**. It runs on mortal technology: the **human-built information and communication layer**. Not every device or network is MT, but every rule on this page applies to MT and to the mortal technology beneath it.
 
-It includes:
+> **Amended 2026-09-27 by author ruling** (`decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md` C1). Was: the title read *"MT — MORTAL TECHNOLOGY RULES"*, and this line read *"MT (Mortal Technology) is the human-built information and communication layer."* followed by *"It includes:"*.
+
+That layer includes:
 - phones
 - AR overlays
 - holochat

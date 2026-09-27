@@ -26,5 +26,6 @@
       "status": "HELD"
     }
   ],
-  "_source_lines_note": "Line numbers are as of commit ed8273f4 and go stale if the source is edited; the headings are the durable anchor."
+  "_source_lines_note": "Line numbers are as of commit ed8273f4 and go stale if the source is edited; the headings are the durable anchor.",
+  "_author_answer_2026_09_27": "Approved design (decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md B3): the file order is the reading order (the off-clock episode before the Act II close; the wonder beat before failed grounding). The episode numbers are relabelled to match at B01 EBCI. This is the one documented architecture decision D7 asked for. Nothing is applied before EBCI."
 }

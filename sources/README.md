@@ -127,3 +127,7 @@ removed. The clean set exits 0, and re-running the redaction is a no-op.
 detected the repository as public and refused without `-AllowPublic`. With it, it committed
 138 files with 68 keys reading `REDACTED` and the identifier's value in none. The result
 verified clean at canon-scope 0.
+
+---
+
+**Note appended 2026-09-27** (`decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md` C5, approved design). The sentence above saying the two separately supplied lyric files *"would be committed under their own directory"* is narrowed. Cross-project boundaries stay clean: the lyric corpus comes into this repository **only if a Concord function needs it**, and there is no expectation that it will. Eli Stone belongs to the separate music project unless a Concord function is identified.

@@ -8,7 +8,9 @@ Applies To: Post-Mending World Only
 
 ## 1. WHAT LT IS
 
-LT (Luminous Thread) is the **post-Mending metaphysical channel** formed when the Veil becomes breathable.
+LT (LuminousThread) is the **post-Mending metaphysical channel** formed when the Veil becomes breathable.
+
+> **Amended 2026-09-27 by author ruling** (`decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md` C2). Was: *"LT (Luminous Thread)"*.
 
 LT represents:
 - filtered resonance flow

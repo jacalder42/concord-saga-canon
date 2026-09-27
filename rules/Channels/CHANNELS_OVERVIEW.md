@@ -10,9 +10,9 @@ Applies To: Veil, Neon, Loom, Post-Mending
 
 This document defines the three-channel model that governs information, perception, and metaphysical boundary contact in the Concord Saga:
 
-- MT — Mortal Technology
+- MT — MissingThread (the public mortal channel, running on mortal technology)
 - VT — VeilThread (the private channel between Silence and Hope that Tahl discovers)
-- LT — Luminous Thread (post-Mending only)
+- LT — LuminousThread (post-Mending only)
 
 This model exists to prevent drift into:
 - tech-as-magic
@@ -35,9 +35,9 @@ Technology may distort under resonance pressure, but it cannot carry metaphysica
 
 ---
 
-## 3. MT — MORTAL TECHNOLOGY (WHAT IT IS)
+## 3. MT — MISSINGTHREAD (WHAT IT IS)
 
-MT is the mortal communications layer:
+MT is the public mortal channel, and the mortal communications layer it runs on:
 - phones
 - AR overlays
 - holochat
@@ -48,6 +48,8 @@ MT can coordinate, record, and amplify information.
 MT cannot access VT or LT.
 
 Under pressure, MT degrades as a consequence of resonance, not as a carrier of it.
+
+> **Amended 2026-09-27 by author ruling** (`decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md` C1, C2). Was: §1 listed *"MT — Mortal Technology"* and *"LT — Luminous Thread"*; §3 was headed *"MT — MORTAL TECHNOLOGY (WHAT IT IS)"* and opened *"MT is the mortal communications layer:"*.
 
 ---
 
