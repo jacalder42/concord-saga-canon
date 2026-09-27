@@ -11655,4 +11655,24 @@ END OF ENTRY 189
 
 ===============================================================
 
+# 190. B03 pass-5 directions answered; B03 Warehouse logistics and information, Pass 5 — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers (approved design) and a proposal. Nothing is ruled.
+
+**The author, verbatim:** "1-6 yes"
+
+**Recorded in** `decisions/B03_PASS5_DIRECTIONS_AUTHOR_ANSWERS_2026-09-27.md`: all six pass-5 recommendations of §189. Q1's sub-question (does Seraphine hear Rosette's survival cited?) was not answered separately; the recommendation included it, and it is recorded that way, open to the author's override.
+
+**Written:** `proposals/B03_EPISODE_BEATS_PASS5_2026-09-27.md`. It replaces pass 4's E09, E11, E27, E30–E45, E48 and S04 (other episodes carry over by reference; pass 4 is not edited), with three tables:
+- **§A, the protocol decision:** the review adopts "advise and contain". Helena's analysts propose it and Baptiste loses; the evidence is Bywater's indefinite displacement, no injuries, and a resident unharmed inside. Clearance is kept only for model-judged "imminent threat to life", which no model can forecast for a shock.
+- **§B, the physical logistics:** the perimeter follows the street grid; the river-side dock gap; Technarc holds the stairwell while Baz works the ground floor; the sibling follows the teenager through the gap and goes in at the dock door; the rescue exit is the dock door.
+- **§C, the information chain:** the body is seen but not recovered; Rieux is injured and his log sealed; Harlow's team leaves; the child knows only "the man with the notebook"; the responders guess "a first responder"; the rota logs "an unidentified adult rescuer". The cast fears it and nothing confirms it; B04 opens with the recovery.
+- **The aftermath:** E41 the hotline fails and Trip's board becomes the city's list; E44 new evidence and Lucien asking Helena for access; E45 the chorba at the vigil; E48 Tahl's rule never to post live coordinates again.
+
+**Next:** step 4, the Veil trilogy audit. **The hold that stands:** B01 EBCI.
+
+END OF ENTRY 190
+
+===============================================================
+
 END RECOVERY LEDGER
