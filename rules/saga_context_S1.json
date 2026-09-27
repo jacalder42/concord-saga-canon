@@ -72,9 +72,9 @@
   "_invariants_source": "canon/saga_overview.md, corroborated by rules/canon_rules.json invariants.",
   "milestones": {
     "grid": "grids/milestones_payoffs.csv",
-    "count": 57,
+    "count": 59,
     "_count_was": 36,
-    "status": "57 rows: 24 'ruled', 28 'proposed', 5 'retired', as of 2026-09-27 (M51 ruled). Counts change; the grid is authoritative (CLAUDE.md §8).",
+    "status": "59 rows: 24 'ruled', 30 'proposed', 5 'retired', as of 2026-09-27 (M51 ruled; M58, M59 added). Counts change; the grid is authoritative (CLAUDE.md §8).",
     "_status_was": "All 36 rows are 'proposed'. Loaded 2026-09-20 (ledger 41); live but not settled.",
     "_provisional": "pressure_before / pressure_after are PROVISIONAL - the scale saturates and the column is ambiguous between global and per-thread pressure. OPEN, ledger 43."
   },
@@ -88,7 +88,7 @@
     },
     "post_mending_envelope": "HELD - the Post-Mending era file omits LT, which Mechanica 33 lists as a resonance state. OPEN, ledger 18."
   },
-  "saga_timeline": "TODO: arcs and milestone sequencing above the trilogy layer. The milestone SET exists (57 rows as of 2026-09-27); the arc structure over it does not, and character arcs, antagonist arcs and chronology are all unstructured. Ledger 28 and 30.",
+  "saga_timeline": "TODO: arcs and milestone sequencing above the trilogy layer. The milestone SET exists (59 rows as of 2026-09-27); the arc structure over it does not, and character arcs, antagonist arcs and chronology are all unstructured. Ledger 28 and 30.",
   "entry_state": "TODO: saga-level opening world state. Needs an authorial statement; the nine book_context entry_state fields are TODO and are the author's to fill.",
   "exit_state_locks": [
     "TODO: saga-level end-state locks. BOOK 9 - END STATE exists in Notion and is recorded at ledger 27, but promoting it is a canon decision."

@@ -66,6 +66,9 @@
     {
       "milestone": "M55",
       "act": "A1"
+    },
+    {
+      "milestone": "M58"
     }
   ],
   "locations_in_play": [
@@ -112,8 +115,8 @@
       "_basis": "derived",
       "_derivation": "DERIVED 2026-09-26 by tools/derive_book_context.py from grids/milestones_payoffs.csv required_setups between active rows. A cross-book dependency is a continuity hook. Milestone IDs are cited, not described.",
       "_counts": {
-        "owes_forward": 11,
-        "collects": 3
+        "owes_forward": 12,
+        "collects": 4
       }
     },
     {
@@ -183,6 +186,12 @@
       "in_book": "B09"
     },
     {
+      "kind": "owes_forward",
+      "milestone": "M17",
+      "required_by": "M59",
+      "in_book": "B08"
+    },
+    {
       "kind": "collects",
       "milestone": "M17",
       "requires": "M13",
@@ -199,6 +208,12 @@
       "milestone": "M21",
       "requires": "M09",
       "from_book": "B03"
+    },
+    {
+      "kind": "collects",
+      "milestone": "M58",
+      "requires": "M14",
+      "from_book": "B04"
     }
   ]
 }
