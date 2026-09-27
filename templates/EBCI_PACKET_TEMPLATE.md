@@ -1,113 +1,118 @@
 # EBCI packet template
 
-Status: TEMPLATE — hand-authored. Installed 2026-09-27 for the B01 two-packet pilot
-(`decisions/SAGA_LOCK_AND_B01_EBCI_PILOT_RELEASE_AUTHOR_ANSWERS_2026-09-27.md`), from the approved
-draft in `proposals/B01_EBCI_PREFLIGHT_2026-09-27.md` Appendix A (preflight Q4). **Revised 2026-09-27
-after the pilot review** (`decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md`,
-R3): each packet now has a **Narrative brief** and a **Control layer**, in the same file. The
-pilot-era skeleton (one undivided list) is superseded; its fields all survive, regrouped.
+Status: TEMPLATE — hand-authored. Installed 2026-09-27 for the B01 pilot from the approved draft in
+`proposals/B01_EBCI_PREFLIGHT_2026-09-27.md` Appendix A (preflight Q4). Revised twice on 2026-09-27:
+**two layers** after the pilot review (`decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md`,
+R3), and **compressed** after the full-B01 audit
+(`decisions/B01_FULL_AUDIT_COMPRESSION_AND_CALENDAR_AUTHOR_RULING_2026-09-27.md`, Q-FB1). Each revision
+supersedes the earlier skeleton; the fields survive, regrouped and lighter.
 
 What it does not change: no rule, card or overlay. Packets made from it live in `ebci/`.
 
+## Silence is permission
+
+**Anything the Narrative Brief does not constrain remains available to prose.** A packet does not need
+to account for the episode's full runtime, every character want, incidental objects, conversation,
+humour, mistakes, detours or texture. **Do not schedule spontaneity:** no packet says *"room for a
+digression"*, *"one joke here"* or *"someone laughs at the wrong time"*. It simply leaves room.
+
+**Unredeemed specificity.** The world is larger than the plot. Some notebooks stay notebooks; some
+drinks only get drunk; some musicians never matter again; some people walk through one episode and
+back into their own lives. **Do not create receipts** for incidental objects, people, jokes or details
+because they exist. (A prose and design principle; never a validator or a quota.)
+
 ## The two layers
 
-**Narrative brief: what the writer uses.** A prose-facing (Sudowrite) packet is built **from the
-narrative brief**, importing from the control layer **only what the writer actually needs**. For an
-event episode that is the brief's **page-safe causal constraints**, never the causal card itself.
+**Narrative brief: what the writer uses.** A prose-facing (Sudowrite) packet is built from it. It
+says what the episode is for, what must be true when it ends, and what the page must never do. **It
+does not stage the scene.**
 
-**Prose packets state constraints positively and compactly** (Q-AI2, `decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md`): what the scene is
-and must keep, in a line or two, plus every genuinely page-protecting prohibition. The full "must not
-spend" list stays in the packet as QA. The author's example, for the prologue: *brief, abstract,
-beautiful; two unnamed presences perceive strain but cannot intervene; reveal no cosmology or future.*
+**Control layer: what the machine and the ledger use.** ECID, the event record, **writer options**
+(secondary images a writer may take or leave), breadcrumbs, tracking and provenance. **Not passed to
+prose generation by default.**
 
-**Control layer: what the machine and the ledger use.** ECID, the event record, breadcrumb
-administration, tracking, provenance and validation. **It is not passed to prose generation by
-default.**
+**Prose packets state constraints positively and compactly**, keeping every page-protecting
+prohibition. The author's example, for the prologue: *brief, abstract, beautiful; two unnamed presences
+perceive strain but cannot intervene; reveal no cosmology or future.*
 
-## How to use it
+## Compression rules (Q-FB1)
 
-- **Optional means optional.** Opposition, consequence and unresolved are filled only when the episode
-  has them. A Life/Reward, work or grief episode may have no Resonance effect, no opposition and no
-  breadcrumb. A field filled because the template has it is a defect.
-- **Leave discovery to prose.** Name what the episode is for and what must change; do not prescribe
-  the emotional discovery, the exact behaviour or the line that shows it. Mark a likely carrier `[P]`
-  and leave the rest open.
-- **Keep every element; point at none.** Breadcrumbs are structurally deliberate and **narratively
-  incidental**. They live in the control layer; the brief never asks the reader to notice them.
-- **Point-of-view discipline.** A beat carries only what the POV character can perceive or be told.
-  What another character experiences is shown by behaviour until it is reported.
-- **Plain words.** No numeric conflict codes, no word counts, no hue-to-emotion lookups, no
-  reader-pressure scores. **Beats are story units, not prose**: no dialogue, no scene text.
+1. **State, don't script.** Exit states are plain states, not epigrams. No *"X before Y"* formulas, no
+   roll calls of who-knows-how, no two beats that restate each other.
+2. **Events keep only what is required:** the **required observable**, the **required consequence**
+   and the **page-protecting prohibitions**. Every other image is a writer option in the control layer.
+   The causal card stays authoritative behind the packet.
+3. **Relationships name the rung:** the state **before** and **after**. Never the emotional mechanism,
+   never the choreography of the change.
+4. **Register, not schedule.** A Life/Reward brief names its register (fun, rest, wonder, friendship)
+   and leaves the moments to prose.
+5. **Beats are few and loose:** the story units that must happen, in order, and nothing that merely
+   decorates. Protected beats from the architecture stay; everything else is optional.
+6. **No scaffolding in the brief:** no cast ids, relabel notes, supplement rules, ledger ids or
+   production constraints. They belong to the control layer.
+7. **Point-of-view discipline.** A beat carries only what the POV can perceive or be told.
+8. **Differentiate, don't merge.** Where two episodes share a function, each brief names what makes it
+   different; prose decides whether both survive.
+
+## Other rules
+
 - `[P]` marks a provisional choice for the author to confirm.
-- **`ENV`** is `NONE` unless the episode occupies a Mechanica-relevant environmental state. No
-  ordinary-environment category exists, on purpose.
-- **Tracking** (fun, slice of life, wonder) is a descriptive record of presence. No targets or
-  minimums. **It observes; it does not manufacture:** light wonder found naturally in prose needs no
-  architectural beat (Q-AI2).
-- **Identity hygiene.** Where a name is ambiguous in the cast registry, the control layer records the
-  cast id (for example A01, the Filament Mara, not G08 Mara Niht). The page is not burdened with it.
+- **`ENV`** is `NONE` unless the episode occupies a Mechanica-relevant environmental state.
+- **Tracking** (fun, slice of life, wonder) is a descriptive record of presence: no targets, no
+  minimums. It observes; it does not manufacture.
+- **Identity hygiene:** where a name is ambiguous in the cast registry, the control layer records the
+  cast id (for example A01, the Filament Mara, not G08 Mara Niht).
+- **The calendar is approximate.** The header gives a rough *when*; exact dates are not set unless
+  continuity requires them.
 
 ## The skeleton
 
 ```
 # {SID} — {working title}
 Status: EBCI PACKET — {DRAFT | REVIEWED | LOCKED}
-Source: v4.1b §{n}; amendments {refs}; causal card {path | none}
+Source: {architecture §; amendments; causal card or none}
 
 ## Header
 SID:        S1.T{t}.B{bb}.{A1|A2|A3|PR|EP}.E{nn}
 Reading position: {n of the book's episodes and supplements, file order}
 POV:        {an authorised POV-capable narrative entity}
-Place:      {locations_registry id / plain place}
-Season:     {season | [P]}
+Place:      {plain place}
+When:       {approximate: "early March"; "between the Square and the pulse"}
 
 ## Narrative brief
 Story job:
-Want / objective:                   {or none}
-Turn / change:
-Reader experience / reward:
-Must preserve / must not spend:     {continuity that must hold on the page; what must not be shown or known yet}
-Exit state:
-Opposition / constraint:            {optional; omit or none}
-Consequence:                        {optional}
-Unresolved:                         {optional}
-Page-safe causal constraints:       {event episodes only: what the page may and may not show}
+Want:                               {optional}
+Change:                             {or, for a relationship episode: Before: … / After: …}
+Reader experience:
+Keep / don't spend:                 {compact; page-protecting only}
+Exit state:                         {a plain state}
+Required observable:                {event episodes only}
+Required consequence:               {event episodes only}
+Prohibited on the page:             {event episodes only}
 
 ### Beats
-{SID}-BT01  {a loose story unit: who, and what changes}
-{SID}-BT02  …
+{SID}-BT01  {a loose story unit}
 
-### Supplement {Snn}                 (only when a supplement follows this episode)
-Function, vehicle, placement, guardrails. No final supplement prose (v4.1b rule 29).
+### Supplement {Snn}                 (only when a supplement follows this episode: function and guardrails, no prose)
 
 ## Control layer
 
-### ECID (single end-state values; original strings in Notes)
+### ECID (single end-state values)
 POV | ENV | CORRIDOR | WEATHER | MODE | HEAT | FX | RES | LOAD
-Band check: {inside A{n} band | declared exception: {axis}={value}, reason}
+Band check:
 
 ### Event record                     (event episodes only; otherwise: none)
-Card: {path}
-Observation classes: {beat: OBJ / ATT / POV / MET, and who can check it}
-Cost payer and kind:
-Residue and who can check it:
-
+### Writer options                   (secondary images and possibilities; optional; event and set-piece episodes)
 ### Obligations
-Breadcrumbs:        {BC-ids planted / reinforced / paid here, with their dependency class; or none}
-Amendments applied: {audit items}
-
+Breadcrumbs:        {BC-ids with dependency class; or none}
+Amendments applied:
 ### Tracking (a record, not an obligation)
 Fun: {none | light | strong} · Slice of life: {…} · Wonder: {…}
-
 ### Notes
-{provenance; original strings for migrated values; open-but-safe items resolved; [P] choices}
 ```
 
 ## Machine checks
 
 `tools/validate_canon.py` checks every packet in `ebci/` and every row of `grids/episode_beats.csv`:
-`CHK_BID_FORMAT` (beat ids are `{SID}-BTnn` and match their packet or row), `CHK_EPISODE_BAND`
-(CORRIDOR, WEATHER and FX inside the act or position band, or a declared exception), `CHK_PACKET_LINKS`
-(every breadcrumb and milestone id resolves; a LOCKED breadcrumb on the Breadcrumbs line is placed at
-this SID) and `CHK_POV` (the POV resolves to an authorised POV-capable narrative entity: a cast member,
-or an entity declared in `rules/canon_rules.json` `pov_entities`).
+`CHK_BID_FORMAT`, `CHK_EPISODE_BAND`, `CHK_PACKET_LINKS` and `CHK_POV` (an authorised POV-capable
+narrative entity: a cast member, or `canon_rules.json` `pov_entities`).

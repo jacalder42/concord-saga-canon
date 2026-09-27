@@ -1,6 +1,6 @@
 # ebci/ — episode production packets
 
-Status: PRODUCTION LAYER. **B01 is released and built in full** (the pilot, then Act I, then Acts II–III: `decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md`). **B02 and B03 stay held.** Next: the full-B01 audit, then a stop.
+Status: PRODUCTION LAYER. **B01 is released, built in full, audited and compressed** (`decisions/B01_FULL_AUDIT_COMPRESSION_AND_CALENDAR_AUTHOR_RULING_2026-09-27.md`, Q-FB1). **B02 is released on a condition** (a five-packet verification of the compressed briefs, Q-FB4), with a stop after B02 for its book-level audit. **B03 stays held.**
 
 Originally: **B01 two-packet pilot only.** Created 2026-09-27 when the author released
 the B01 EBCI hold for the pilot (`decisions/SAGA_LOCK_AND_B01_EBCI_PILOT_RELEASE_AUTHOR_ANSWERS_2026-09-27.md`,
@@ -14,8 +14,8 @@ Q-LS2). **Nothing else in B01, and nothing in B02 or B03, is released.**
 | `B01/S1.T1.B01.A2.E18.md` … `B01/S1.T1.B01.A3.E48.md` | **Acts II–III** (S04–S06 inside E28, E35, E48); **labels in reading order** (old E37 → E36, E36 → E37, E44 → E43, E43 → E44) | DRAFT, awaiting the full-B01 audit |
 | `B01/S1.T1.B01.A2.E31.md`, `…E33.md` | the pilot (Life/Reward; event) | REVIEWED |
 
-**B01 is complete at EBCI resolution:** 49 packets (the prologue and 48 episodes), 248 beat rows in
-`grids/episode_beats.csv`, six supplement rows in `grids/supplement_deployment.csv`.
+**B01 is complete at EBCI resolution:** 49 packets (the prologue and 48 episodes), beat rows in
+`grids/episode_beats.csv` (114 after compression; 248 before), six supplement rows in `grids/supplement_deployment.csv`.
 
 ## Rules
 
@@ -30,3 +30,4 @@ Q-LS2). **Nothing else in B01, and nothing in B02 or B03, is released.**
   spend their energy satisfying the packet?"* If E31 reads as predetermined, EBCI is simplified before
   any further packet is built.
 - **The full-B01 audit is written** (`reports/B01_FULL_EBCI_AUDIT_2026-09-27.md`): the architecture passes; the briefs are overbuilt, and a compression pass is proposed before B02 EBCI. Five brief defects were fixed (POV breaches, a name leak, scaffolding).
+- **Compressed 09-27 (Q-FB1).** The brief states what the episode is for, what must be true at its end and what the page must never do; it does not stage the scene. ***Silence is permission:*** anything the brief does not constrain is prose's. Event images beyond the required observable are **writer options** in the control layer. Each header has an approximate **When** (B01: late February to late April). Pre-compression briefs are in git at `6e9f3e1`.

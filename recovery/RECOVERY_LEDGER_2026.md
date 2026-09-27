@@ -12203,4 +12203,26 @@ END OF ENTRY 215
 
 ===============================================================
 
+# 216. The full-B01 audit answered; B01's briefs compressed; B01's calendar — 2026-09-27
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_FULL_AUDIT_COMPRESSION_AND_CALENDAR_AUTHOR_RULING_2026-09-27.md` (Q-FB1–FB4 approved with refinements; approved design, production) and the compression pass it asked for.
+
+**Author:** *"We have not overbuilt the story; we have over-described the story to the future writer."* The architecture passes; nothing reopens saga architecture.
+
+**Template** (`templates/EBCI_PACKET_TEMPLATE.md`, revised): ***Silence is permission*** (anything the brief does not constrain is prose's; do not schedule spontaneity); **unredeemed specificity** (no receipts for incidental objects; a principle, not a validator or quota); eight compression rules (state, don't script; events keep the required observable, required consequence and page-protecting prohibitions; relationships name before and after; register, not schedule; few loose beats; no scaffolding in the brief; POV discipline; differentiate, don't merge). The header's `Season` becomes an approximate `When`. The control layer gains **Writer options** and, where a supplement follows, the full **Supplement spec**; the brief keeps a one-line supplement function.
+
+**Compressed:** all 49 B01 packets, the pilot's E31 and E33 included (their status: reviewed, then compressed). The control layers are kept: ECID, event records (observation classes remapped to the new beats for E15, E33, E45, E48), breadcrumbs, amendments, tracking, notes. Place codes move to a control-layer *place record*. E28's Caro notice is firm and tiny; E45 and E24 follow the author's examples. **Beat rows: 114, down from 248**, regenerated from the packets (the ECID curves for E15, E20, E33, E45, E48 remapped; the pilot's breadcrumb tags kept at E31 BT02–BT03 and E33 BT03). The pre-compression briefs are in git at `6e9f3e1`; nothing is lost from the architecture, the causal cards or the breadcrumb ledger.
+
+**Calendar (Q-FB3):** late February to late April, about 8–10 weeks; anchors E15 early March, E33 late March, E45 mid-April, E48 late April; no dates or year; Mardi Gras not a plot event. Noted in `rules/saga_context_S1.json` `chronology` (refining the approved frame's B01 6–8 weeks) and `book_context_B01.json` `entry_state._calendar`; every packet carries a *When*.
+
+**No merges (Q-FB2).** Baz's positional movement and Caro's single step stand; no arcs are manufactured.
+
+**Checks:** canon scope 0 violations (247 files); 165 self-tests pass; `derive_book_context.py --check` no drift.
+
+**Next (Q-FB4):** the five-packet verification (the narrative briefs of E13, E31, E38, E45, E48 only). If it passes, B02 EBCI is released under the compressed template, stopping after B02 for its book-level audit. B03 stays held.
+
+END OF ENTRY 216
+
+===============================================================
+
 END RECOVERY LEDGER
