@@ -11530,4 +11530,29 @@ END OF ENTRY 184
 
 ===============================================================
 
+# 185. ChatGPT's review of the LT and meta commits, checked; LT §9 corrected — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a relayed review, Claude's check of it, and a correction of Claude's own error. Nothing is ruled.
+
+**Relayed by the author:** ChatGPT's read-only review of the four LT and meta commits through 988477f. It keeps the three rulings and raises five findings.
+
+**Written:** `reports/LT_META_RECONCILIATION_REVIEW_2026-09-27.md`. All five findings hold:
+1. The meta card says "without emotion or Intent"; Mechanica §48 says they lack Intent and emotional integration. The card never mentions storage or transfer. Claude's ruling rewrite of l. 9 carried the phrase over.
+2. The interface is ambiguous: "rarely work" implies a distance machine sometimes conducts, which §23 forbids; "close" is undefined.
+3. `LT_RULES` §9 read "the veil's laws prevent: no new shards / …", a reversal. **Claude's error.**
+4. Kade's ruled answer has no matching text in `LT_RULES` §4/§6.
+5. "Not characters", "power without humanity" and "No redemption arc" now describe coerced people.
+
+**Corrected:** `rules/Channels/LT_RULES_POST_MENDING.md` §9 now lists "new shard formation / rupture events / catastrophic resonance escalation", with a dated note. The meaning is the approved one.
+
+**Put to the author:** Q1 rule the transfer loop and reconcile Mechanica §48, the card and the variants to a three-part model (the donor's load, the recipient's Emotion and Intent, leakage); Q2 the interface is contact, the apparatus never conducts, and distance extraction never transfers; Q4 an acknowledgment clause in `LT_RULES` §6; Q5 keep the mechanical limits and reframe the cards so the metas stay people.
+
+**Also:** ChatGPT could not authenticate the historical export quotations; Claude had verified each by line and speaker.
+
+**The holds stand:** B03 and B01 EBCI.
+
+END OF ENTRY 185
+
+===============================================================
+
 END RECOVERY LEDGER

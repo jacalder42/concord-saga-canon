@@ -155,9 +155,9 @@ LT is softer.
 ## 9. POST-MENDING SAFEGUARDS
 
 After the Mending, the veil's laws prevent:
-- no new shards
-- no rupture events
-- no catastrophic escalation
+- new shard formation
+- rupture events
+- catastrophic resonance escalation
 
 LT does not prevent:
 - conflict
@@ -167,6 +167,8 @@ LT does not prevent:
 The world remains imperfect.
 
 > **Amended 2026-09-27 by author approval** (`decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q6). Was: *"LT enforces:"*. The veil's laws apply themselves (Mechanica §42A.3), and LT is not a system (§4).
+
+> **Corrected 2026-09-27** (ledger §185): the 09-27 rewording kept the list's *"no …"* items under *"prevent:"*, which reversed the meaning (*"prevent: no new shards"*). The items now read as what is prevented. The meaning is the approved one; the error was Claude's, found in ChatGPT's review.
 
 ---
 
