@@ -12426,4 +12426,20 @@ END OF ENTRY 227
 
 ===============================================================
 
+# 228. The B01 prose calibration (E06, E13, E15) — 2026-09-27
+
+**Status:** LEDGER ENTRY. The stop after the calibration released by §227. Report: `reports/B01_PROSE_CALIBRATION_REVIEW_2026-09-27.md` (qualitative, not scored).
+
+**Drafted:** three calibration drafts (E06 2,785 words; E13 3,047; E15 2,558) by isolated Claude agents (not Sudowrite), each given only the approved stack: the writer profile, the episode's prose packet, a short preceding-context note, and a first-appearance card line for POV characters. **Not canonical and not committed**: the repository is public until narrative generation, and publishing prose is the author's call.
+
+**Review:** one voice across ordinary life, intimacy and the event; endpoints reached through behaviour (E13's plumb bob *designed for two people*; E06's drying glasses); much unplanned invention; E15's strange exactly observable (two recordings, disputed causes, no explanation); humour local and profanity sparing. **Engine tics** recur across all three (*"the way…"* similes, 26; shoulder tells, 7; *"It wasn't a question"*, 3; one *breath she hadn't known she was holding*); the profile's short-punch paragraph is the one technique to watch.
+
+**Instruction problems:** **E06 contradicts canon: Trip is a woman** (`TripAppearance`: *"She does not rush"*), and the draft made Trip a grey-haired man with a teenage relative. Cause: Q-WP3's card line applies only to POV characters. E13's Seraphine reads content (a couple's breakup), where attunement reads pressure only; neither profile nor packet says so. Claude's context notes misled twice (E12's domestic failure grouped with anomalies; no elapsed time).
+
+**For the author:** Q-CAL1 (a first-appearance identity line for any recurring character; recommended), Q-CAL2 (a *nobody reads minds* line in the profile; recommended), Q-CAL3 (context notes from the packets' *Ends* lines plus elapsed time; recommended), Q-CAL4 (where prose lives; recommended out of the public repo until decided). Engine tics left to revision, not the profile.
+
+END OF ENTRY 228
+
+===============================================================
+
 END RECOVERY LEDGER
