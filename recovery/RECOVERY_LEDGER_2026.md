@@ -10040,4 +10040,30 @@ END OF ENTRY 137
 
 ===============================================================
 
+# 138. Saga structure adjudication packet — 2026-09-26
+
+**The author:** *"Proceed"*. This approves Claude's proposed next step: collapse the remaining
+structural questions from the pressure validation (§134) into one packet, then lock the saga
+architecture, then move to B02/B03 episode architecture.
+
+**Written:** `proposals/SAGA_STRUCTURE_ADJUDICATION_PACKET_2026-09-26.md` (PROPOSAL). It holds nine
+questions, each with options and a recommendation. Nothing is ruled.
+
+1. When Tahl meets the protagonists (M37), and his post with a cost.
+2. Unstacking B05 A3 (M54, M55, M57).
+3. M56: declaration or commitment.
+4. Kade's approved B05 public rise against the ruled succession. **This asks for a ruling.**
+5. The unnamed B04–B05 functions, and the small rupture ending B04 A1.
+6. Elisabet in B04–B05.
+7. The Santa Fe Rupture/death placement, held until now. **This asks for a ruling.** The
+   recommendation keeps M20 and M38 both as written.
+8. B09 A2 tone: pursuit with sparks.
+9. Who mourns Tahl at Santa Fe. The recommendation is Rex, from his recovered ties to Tahl and M52.
+
+**Not changed:** every row, ruling, card and context. **Checks:** canon scope 0.
+
+END OF ENTRY 138
+
+===============================================================
+
 END RECOVERY LEDGER
