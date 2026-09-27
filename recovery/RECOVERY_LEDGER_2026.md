@@ -11011,4 +11011,39 @@ END OF ENTRY 167
 
 ===============================================================
 
+# 168. Saga review: optimal recommendations — decision packet — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a proposal. Nothing is ruled.
+
+**The author, verbatim:** "Review the saga and provide optimal recommendations"
+
+**Written:** `proposals/SAGA_RECOMMENDATIONS_ANTAGONIST_ARCS_PACKET_2026-09-27.md`.
+
+**Finding:** the macro-architecture, the routes, the metaphysics and the finale ethics are locked enough. **The unplaced layer is the opposition**: the §166 matrix. Several ruled Loom rows (M48, M50, M51) depend on collectives with no actor.
+
+**Twelve items put to the author:**
+- **Antagonists:**
+  - A1: three active Loom axes (Elias/Brightbreak narrative; a Technarc hardliner remnant, operational; the Choirless remnant, relief) plus Kade's splinter. The institutions and doctrinaires stay legacy.
+  - A2: instruments read the B08 opening as "Louisiana", the NOLA feint exploits that inference, and the Mending itself reveals the site in A3.
+  - A3: Ito the man becomes legacy; the registry range is read as the movement's curve.
+  - A4: Choirless and Brightbreak never unify as movements; individuals drift between them; they collide at the B09 perimeter.
+  - A5: exits placed on existing rows. Virelli at M05; Han Wei at M17 (model failure, Singapore); Saeko and Ito in B06–B07; Elias survives and is never unmasked.
+  - A6: the Neon Rebellion across B06–B08, following the author's 11-18 line.
+  - A7: at most three proposed grid rows or notes.
+- **Veil and Dominion:**
+  - B1: the Dominion sends Lucien through Helena Kael, and Virelli knows NOLA only as a file.
+  - B2: the Dominion pressure ladder B01–B04.
+  - B3: a real institutional-help option in the B02 civic-decision card.
+- **As rulings:**
+  - C1: promote M51 to ruled.
+  - C2: confirm M42's act as A3.
+
+**Sequence recommended:** answers → one focused antagonist arc pass → the B02 options card → the author releases the hold. No further general audits.
+
+**The holds stand.**
+
+END OF ENTRY 168
+
+===============================================================
+
 END RECOVERY LEDGER
