@@ -11109,4 +11109,60 @@ END OF ENTRY 170
 
 ===============================================================
 
+# 171. Open questions consolidated, with recommended answers — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a decision packet. Nothing is ruled.
+
+**The author, verbatim:** "Provide list of open questions and recommended answers based on saga and context"
+
+**Written:** `proposals/OPEN_QUESTIONS_RECOMMENDED_ANSWERS_2026-09-27.md`. It is built from two read-only research passes (governance and rules; story) over CLAUDE.md §4.1, the 09-26 and 09-27 decisions, the grid, the Veil obligations brief and the antagonist placement.
+
+**Groups:**
+- **A (13), for B02/B03.** Among them:
+  - Rex's Veil foreshadow: B03, late, in Detroit.
+  - Mira's seed: B02, slot 19.
+  - Helena Kael carries the Dominion's first request.
+  - Lucien's cover: a v4.1b bureau posting, Dominion-sponsored.
+  - Elisabet stays from B02 A1.
+  - The Warehouse post is a visible supplemental text in A3.
+  - The dead "first responder" is Baz, misdescribed.
+  - The B02 brush is in A3, from Silence and Hope's side.
+  - Put as rulings: Tahl is not primary in Veil; the VT ladder is retired in favour of the ruled sequence; Baz arrives in B01 Act II.
+- **B (5), for B01 EBCI:** A0 is PR (a ruling); the A1 band is widened at EBCI; file order is the reading order for the inversions; E15/E16 is one lineage and v4.1b numbering governs (a ruling); the EBCI hold is unchanged.
+- **C (6), governance:**
+  - MT option A (a ruling);
+  - closed spelling (a ruling);
+  - a standing precedence rule for conflicting recovered versions (a ruling);
+  - `source_canon/` is non-authoritative (a ruling);
+  - Mara and Eli;
+  - the lenses stay deferred.
+- **D (19), later-book defaults:**
+  - D1: Tahl perceives, the Filaments relay (a working default only);
+  - D2: Kade did not cause the opening;
+  - D3: the B07 civic break;
+  - D4: the Santa Fe finding is temporary stabilisation, and the artefact is Tahl's recordings;
+  - D5: Kade authorizes;
+  - D10: the timeskip is a few days (a ruling);
+  - D11: the entity is Accord;
+  - D12: MendedThread;
+  - D13: M37 targets B04 (a ruling);
+  - D14: meta transfer defaults;
+  - D15: post-Mending res_states;
+  - D16: LT access;
+  - D17: Colorstorm;
+  - D18: antagonist loose ends;
+  - the rest stay deferred.
+
+**New findings, each verified:**
+1. `rules/canon_rules.json` contradicts itself: line 11 says "Mortal Technology [is a] retired name"; line 308 says it is "held, not retired".
+2. The B01 Act I "two witnesses" (E15 against E16) are one lineage. The 12-08 conversation holds both boundaries; its line ~52440 reads "completing Act I with EPISODE 16 … S1.T1.B1.A1.E16". The 12-09 archive calls itself "the permanent, lossless backup".
+3. `canon/editorial_lenses.md` has 23 Asks/Flags/Protects TODO fields, not "~40". No verbatim author words are recorded for the 09-19 deferral.
+4. "The first one has to be last" originates in Claude's 09-27 options card, which the author approved as design. No earlier author source has it.
+
+**The holds stand.**
+
+END OF ENTRY 171
+
+===============================================================
+
 END RECOVERY LEDGER
