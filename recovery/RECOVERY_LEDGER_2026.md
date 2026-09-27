@@ -11867,4 +11867,23 @@ END OF ENTRY 198
 
 ===============================================================
 
+# 199. The B01 EBCI preflight (non-narrative) — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a preflight proposal under §197 item 6. **The hold is not released; no EBCI is generated; no `ebci/` directory; no template installed.**
+
+**Written:** `proposals/B01_EBCI_PREFLIGHT_2026-09-27.md`.
+- **§1 state:** none of the readiness report's four ruling groups is answered; no B01 causal card is complete; no template exists in the repo; the prologue envelope (ruled) and the A1 widening (design) are applied only at EBCI; the validator has no BID, POV or per-episode band check.
+- **§2 a working definition** (the episode-level production packet) and the packet's seven parts; Resonance content stays optional.
+- **§3 the open physics, VFX and conflict items**, marking what later rulings answered: R2–R4 answered (Mechanica §48; C1, C2); V4, V5 current; R1, R5 (clarified: U1–U7 stays the ruled intensity scale), R6–R8, V1–V3, V6, V7 and the conflict-code quarantine open. D1–D7 of 09-23 still bind.
+- **§4 causal cards:** the required fields; a triage of the readiness list: **full cards for E15, E33, E45, E48**; a perception card for the prologue; evidence cards for E20/E25/E27; observation notes elsewhere; institutional cards for E23, E38–E41. **E48's quiet observable must be re-chosen** against "arrive together, and carry one".
+- **§5 envelopes:** a `PR` overlay for the prologue; A1 exceptions declared after mapping recovered numbering to v4.1b; no new RES/HEAT/LOAD/MODE bands; overlay TODOs drafted as a proposal before the pilot.
+- **§6 workflow:** per-episode inputs → packet → mechanical and editorial checks → author review by act → lock → a derived Sudowrite packet. A **two-packet pilot** (E33, E31) after release. Four validator checks to build at release (BID format, episode band, packet links, POV). Storage at release: `ebci/B01/` plus beat rows in `grids/episode_beats.csv`.
+- **Eight questions (Q1–Q8)**, all recommended yes. Appendix A is a draft packet template; Appendix B the B01 notes checklist.
+
+**Unchanged:** every rule, card, envelope, overlay and grid. The B01 EBCI hold stands; the release decision follows the nine-book audit.
+
+END OF ENTRY 199
+
+===============================================================
+
 END RECOVERY LEDGER
