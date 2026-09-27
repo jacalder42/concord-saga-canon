@@ -10066,4 +10066,54 @@ END OF ENTRY 138
 
 ===============================================================
 
+# 139. Saga structure adjudication: author answers — 2026-09-27
+
+**The author:** *"All approved as recommended"*. This answers the nine-question packet
+(`proposals/SAGA_STRUCTURE_ADJUDICATION_PACKET_2026-09-26.md`, §138).
+
+**Recorded:** `decisions/SAGA_STRUCTURE_ADJUDICATION_AUTHOR_ANSWERS_2026-09-27.md`.
+
+**RULED (the two the packet put as rulings):**
+
+- **Q4:** Kade has no public rise before Tahl's death. The approved Neon rise is superseded; its
+  energy moves to B07.
+- **Q7:** M20 and M38 both hold as written. The Rupture opens in B06 A2 and persists; Tahl dies at the
+  end of A3 at the still-open rupture. **The placement flag, held since 09-26, is closed.** The
+  warning's originator stays open.
+
+**Approved design:**
+
+- **Q1:** Tahl hears Baz's name in B04 and meets the protagonists at B05 A1, brokered by Rex. The
+  "Last Clear Act" is his costly post. No correction beat.
+- **Q2:** M54 → B05 A2; M55 → B06 A1.
+- **Q3:** M56 is commitment across distance. First kiss B03; openly together B04.
+- **Q5:** the recovered B04–B05 functions are kept. The small rupture at B04 A1 is dropped.
+- **Q6:** Elisabet is in NOLA through the Riot.
+- **Q8:** B09 A2 is pursuit with sparks.
+- **Q9:** Rex mourns Tahl at Santa Fe in B08.
+
+**Grid changes** (additive; old values in the notes; no status change):
+
+- notes on M20, M37, M38 and M45;
+- M54 A3 → A2;
+- M55 B05 A3 → B06 A1;
+- M56 description reworded.
+
+M37 keeps blank targets, because its placement is design on a ruled row. The B05, B06 and B07 book
+contexts are regenerated with the tool.
+
+**Flagged, not edited:** the Kade cards conflict with Q4.
+
+- KadeEBCI §NEON: *"MT becomes megaphone"* and related lines.
+- KadeID §I: *"Neon catalyst"*.
+- KadeID §VIII: *"influence"* in Neon.
+
+A correction is specified in the decision's §4, for approval.
+
+**Checks:** canon scope 0; 144 self-tests; no drift in the book contexts.
+
+END OF ENTRY 139
+
+===============================================================
+
 END RECOVERY LEDGER

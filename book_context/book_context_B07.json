@@ -31,9 +31,10 @@
       "M20",
       "M21",
       "M39",
-      "M23"
+      "M23",
+      "M55"
     ],
-    "world": "DERIVED: the world as B06 leaves it. See book_context_B06.json exit_state_locks: M17, M38, M20, M21, M39, M23.",
+    "world": "DERIVED: the world as B06 leaves it. See book_context_B06.json exit_state_locks: M17, M38, M20, M21, M39, M23, M55.",
     "key_character_states": "DERIVED: as B06 leaves them. Character-level state is not carried in the milestone grid, which records events rather than per-character condition. What IS derivable is cited above; per-character detail needs either a character-arc layer (none exists yet - CLAUDE.md section 8.0 lists character arcs as genuinely unstructured) or an author pass. Not invented here."
   },
   "exit_state_locks": [
