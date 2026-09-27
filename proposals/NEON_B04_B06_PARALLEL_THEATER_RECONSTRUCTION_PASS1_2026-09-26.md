@@ -6,6 +6,8 @@
 
 This reconstruction does not assign final episode counts, lock travel, alter the milestone grid, or authorize EBCI.
 
+> **Pointer, 2026-09-27:** Neon's provisional episode architecture is now in `proposals/NEON_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-27.md` and the three `proposals/B0{4,5,6}_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md` files (ledger §200). This document is kept as written.
+
 # 1. Governing architecture
 
 Neon should change geographic grammar by book:

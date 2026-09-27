@@ -4,6 +4,8 @@
 **Date:** 2026-09-19
 **Sources compared:** November 2025 Notion Final Beat Bibles; later recovered Final Canon macro Beat Bible; current GitHub character/channel canon; 2026 author rulings.
 
+> **Pointer, 2026-09-27:** Neon's provisional episode architecture is now in `proposals/NEON_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-27.md` and the three `proposals/B0{4,5,6}_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md` files (ledger §200). This document is kept as written.
+
 ## Governing finding
 
 The later Neon macro structure is not merely a compressed version of the November Notion B4–B6 bibles. It represents a substantial structural revision.

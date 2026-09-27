@@ -11886,4 +11886,29 @@ END OF ENTRY 199
 
 ===============================================================
 
+# 200. Neon reconciliation and provisional B04–B06 episode architecture — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records proposals under §197 item 1 (*"Proceed with Neon reconciliation / Pass 3"*). **Provisional by design; nothing is approved until the author answers.** Nothing is ruled.
+
+**Inputs:** a survey of the recovered Neon episode lineages (MDR act bibles, 11-18; the NB "Final Beat Bibles", 11-23, with the author's same-day re-paste as the lineage's final state; the SBEP anchored zones of 12-08, built on the Dec 8 masters, which are assistant output), read against every 2026 ruling and approved design on Neon.
+
+**Written:**
+- `proposals/NEON_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-27.md`: the sources' worth; Neon's fixed points by book; **a disposition table** for 32 recovered items (kept, function kept, superseded, and by what); Neon's shape (B04 grief becomes public argument; B05 separate work; B06 knowledge does not guarantee prevention); POV bands; **twelve questions (N1–N12)**, including **N1, the VT warning's originator** (deferred D1): the Santa Fe Filaments originate it and Tahl relays it, since A11 allows him no new contact.
+- `proposals/B04_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md`: 45 episodes. The recovery; Caldas Ren's price and Lucien's refusal and departure (M05); Protocol 9 (M13); M14; Seraphine's "too early" failure; Rex's halt after Lucien leaves; the Riot of Light (M16) with Seraphine seen, the elders' corridor and the irreversible crack; Kade arrives after.
+- `proposals/B05_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md`: 45 episodes. The meeting and the channel; Tahl tells them he posted the coordinates (N2); the Last Clear Act (metas are people altered by an institution); Chicago's evacuation and M54 as the peak; M56; M57; the Colorstorm's three stages; Santa Fe credible (M38).
+- `proposals/B06_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md`: 45 episodes plus EP E46–E48. M17, M55 and the Fracture in A1; the Rupture, Tahl going in, and M58 in A2; the broadcast, the slip, the fragment and **the death at E45, the end of A3**, with Silence collecting the echo; the news, the fragment and Seraphine's recognition, and Kade's post (M23) in the epilogue.
+- `proposals/B04_A1_MANUFACTURED_META_INCIDENT_CARD_PASS1_2026-09-27.md`: the card the meta rulings said would be written when the queue reached Neon. A leak, not a transfer; medium and effect OPEN under D5.
+
+**The breadcrumb ledger:** ten provisional Neon rows (the private channel; Tahl's parents; Kade meeting Tahl unknowing; Lacuna and Kade in the same room; the Last Clear Act; Hope and Caro; Lucien and Silence; *"the first one has to be last"*; the elders' corridor; Rex as Tahl's source). **Tahl's triangle** moves from `unplaced` to `provisional` (its Neon half, N10). Nineteen Veil rows gain provisional Neon locators. **42 rows.**
+
+**Also:** pointer notes on the 09-26 parallel-theater reconstruction, the 09-19 Neon source reconciliation and the B06 Santa Fe card (additive; their bodies unchanged).
+
+**Checks:** canon scope 0 violations; 153 self-tests OK; `derive_book_context.py --check`: no drift.
+
+**Unchanged:** every ruling, row status, card, rule and overlay. The B08 end-sequence deferral and the B01 EBCI hold stand. **Next:** the author's answers to N1–N12; then Loom (§197 item 2).
+
+END OF ENTRY 200
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -16,6 +16,8 @@
 > The body below is kept as the historical Pass 1 record.
 
 
+> **Pointer, 2026-09-27:** Neon's provisional episode architecture is now in `proposals/NEON_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-27.md` and the three `proposals/B0{4,5,6}_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md` files (ledger §200). This document is kept as written.
+
 **Date:** 2026-09-26
 **Status:** PROPOSAL / NON-CANONICAL EVENT CARD. **No episode, beat, grid row, rule or EBCI
 status is changed. No Resonance mechanism is supplied** — D5 holds causal physics, as the
