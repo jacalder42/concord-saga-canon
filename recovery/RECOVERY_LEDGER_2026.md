@@ -10314,4 +10314,20 @@ END OF ENTRY 145
 
 ===============================================================
 
+# 146. Current act-by-act saga cast and theater ledger — 2026-09-27
+
+**Asked:** The author: *"Review saga wide cast and location data by act. Let’s verify everything is worked out, rational, and supports the best form of the saga"*; after the review, *"Proceed"* with the proposed current-state ledger.
+
+**Written:** `proposals/SAGA_CAST_THEATER_ACT_LEDGER_PASS1_2026-09-27.md` (commit 83d29e7), a 27-act editorial reconciliation. It distinguishes ruled, approved-design, lean, historical and open placements; physical presence from remote receipt; and the highest-risk travel/information handoffs. It reads the later author decisions against the older forensic matrix without rewriting that recovery record.
+
+**Assessment:** The saga's NOLA → distributed Neon theaters → selective Loom convergence is coherent. The current act clock is incomplete, especially Rex's B05 A1 NOLA meeting and onward SIN route; Elisabet's B06 warning and Tahl's choice; B06 death to B07 funeral travel; B07 departure through the wound chain; and B09 feint, rear confrontation and Elisabet warning. The ledger leaves these as production questions and does not invent an itinerary or wound roster.
+
+**Scope:** Proposal only. No existing decision, canon card, grid, book context, act overlay, source, EBCI, status or episode architecture is changed. The author’s B02/B03 episode hold remains in force.
+
+**Check:** 27 act rows (B01–B09, A1–A3) and the B02/B03 hold verified before upload. No substrate file changed; derivation and canon validation are not implicated.
+
+END OF ENTRY 146
+
+===============================================================
+
 END RECOVERY LEDGER
