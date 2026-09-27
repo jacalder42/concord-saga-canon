@@ -12056,4 +12056,24 @@ END OF ENTRY 207
 
 ===============================================================
 
+# 208. The narrowing sequence recorded; Neon pass 4 (surgical) done — 2026-09-27
+
+**Status:** LEDGER ENTRY. An author instruction (not a ruling) and the first step it orders.
+
+**The instruction** (`decisions/POST_AUDIT_SEQUENCE_AND_EBCI_PILOT_AUTHOR_INSTRUCTION_2026-09-27.md`, indexed), given after the author reviewed the repository through `2f65aa3`: the downstream-first strategy is validated and no broad saga pass is warranted. **Sequence:** Neon surgical pass 4 → the author's independent Loom review → a compact saga lock check (*"any remaining episode-architecture questions whose answer could materially alter Veil EBCI?"*) → **the B01 EBCI hold released for the two-packet pilot only** (E31 Life/Reward, E33 event), gated by a narrative review (*"would it help a good novelist write a better scene?"*), then Act I, then A2/A3. **Principles:** *keep every element; point at none*, saga-wide; *a breadcrumb may be structurally deliberate while remaining narratively incidental*; the ordinary world needs material that pays off nothing; Mira's deletion test at EBCI. **A lean, not a ruling:** Veil EBCI → Veil prose before Neon/Loom EBCI, decided by the pilot. *"Stop improving architecture merely because we can."* **The hold is not released.**
+
+**Neon pass 4** (`proposals/NEON_PASS4_SURGICAL_2026-09-27.md`), applied in place in the B04–B06 pass-3 files, each change marked:
+- **Seraphine +2 per book, all New Orleans episodes, none of Tahl's:** B04 E05 (LR01, from Trip) and E31 (LR05, from Caro); B05 E03 (from Caro) and E12 (from Trip's flex); B06 E11 (from Ito's flex) and E32 (from Caro). Neon 28 → 34 of 138 (25%); saga 93 → 99 of 419 (24%). Caro loses three, all in New Orleans; her B05 A2 arc is untouched. The episode choices are Claude's application of the approved direction; the author may move them.
+- **Checks:** the parallel theaters are unflattened (no non-NOLA episode changed owner); B04 is dense but staggered, and both of its re-ownings are LR units; B05's peaks are asynchronous and meet in the channel at E42.
+- **One defect corrected:** B06 E44 gave Kade the public confirmation and the photograph before the death (E45, ruled at A3's end) and before the principals' news (E46). E44 keeps the offline feed; **the confirmation and the photograph move to E48**, which the ledger's `BC-KADE-MEETS-TAHL-UNKNOWING` already named.
+- **Stop.** Nothing else in Neon is touched.
+
+**Also:** a dated note on the B01 EBCI preflight (the pilot-only release and its gate); notes on `BC-CARO-OVERCARRY` and `BC-KADE-MEETS-TAHL-UNKNOWING`; a reading brief for the author's Loom review (`proposals/LOOM_INDEPENDENT_REVIEW_BRIEF_2026-09-27.md`, nothing proposed); `CLAUDE.md` §8–§9.
+
+**Unchanged:** every ruling, milestone status, card and rule; Loom and Veil files. **The B01 EBCI hold stands.** Next: the author's Loom review.
+
+END OF ENTRY 208
+
+===============================================================
+
 END RECOVERY LEDGER

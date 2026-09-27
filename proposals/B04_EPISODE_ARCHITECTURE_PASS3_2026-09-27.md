@@ -33,7 +33,7 @@ reader, has a private rule; Rex is in Detroit, having lost a contract; Caro and 
 
 **Scale:** **45 episodes** (15/15/15), **5 LR units**, **4 supplements**. No epilogue.
 
-**POV:** Tahl 10 · Seraphine 10 · Lucien 6 · Rex 6 · Caro 4 · Elisabet 3 · Kade 2 · flex 4.
+**POV:** Tahl 10 · Seraphine 12 · Lucien 6 · Rex 6 · Caro 3 · Elisabet 3 · Kade 2 · flex 3 (E05 and E31 re-owned to Seraphine (Neon pass 4, 2026-09-27; `proposals/NEON_PASS4_SURGICAL_2026-09-27.md`)).
 
 ---
 
@@ -49,7 +49,7 @@ grief has become a public argument with camps.
 | 02 | A Name for the Man with the Notebook | Seraphine / NOLA, the rota | She tells the rota the name. **The child's rescuer has a face.** Turn: her B03 choice now has a cost with a name | — | Plants E09 |
 | 03 | The Morning Feed | **Tahl** / Chicago | He reads the corrected notice: **Bastien Arnaud**. The private counterfactual gets a name. **Turn:** his remorse is no longer abstract | **M37** (ruled: the name from a news report) | Sets up B05 E05 (why Baz mattered) |
 | 04 | The Sister | Caro / NOLA | **Baz's sister arrives** for the visit that became a recovery. Caro does the practical things: paperwork, a bed, the hospital. **Turn:** care as competence. **She does not claim a grief she has not earned** (the Veil audit's Caro–Baz note) | — | Pays off B03's *"sister's visit"* |
-| 05 | **LR01** Chorba, Properly | Trip + the sister / Velvet Vein | **The sister cooks Samira's dish the way Baz never managed**, and tells a Marseille story nobody knew. **No second line**: the one Baz was promised is not performed [P] | Life/Reward | Pays off `BC-CHORBA-AND-SISTER`. **The missing second line** is a candidate nested echo of B07's funeral (for the nine-book audit) |
+| 05 | **LR01** Chorba, Properly | Seraphine, with Trip + the sister / Velvet Vein (re-owned from Trip (Neon pass 4, 2026-09-27; `proposals/NEON_PASS4_SURGICAL_2026-09-27.md`)) | **The sister cooks Samira's dish the way Baz never managed**, and tells a Marseille story nobody knew. **No second line**: the one Baz was promised is not performed [P] | Life/Reward | Pays off `BC-CHORBA-AND-SISTER`. **The missing second line** is a candidate nested echo of B07's funeral (for the nine-book audit) |
 | 06 | Contract Lost | Rex / Detroit (short) | After B03 E43 he is free, and **a NOLA civic client asks for an independent assessment** of post-Warehouse access and egress [P: Councilwoman Baptiste's office]. Marcus covers Detroit. **Turn:** he takes it because it is the edge case he refused to certify before the saga | Rex's entry (direction; independent of Technarc) | Pays off `BC-REX-REPAIR-ETHIC`'s Veil half. Compressed: B03 E43 was already the direct Detroit scene |
 | 07 | Two Accounts, One Name | **Tahl** / Chicago | **The record fight goes public**: the Dominion's perimeter, Technarc's footage, *"the post drew crowds"*. Naomi Clairborne asks MT for comment. **Turn:** he will not use the dead man to defend himself, and he will not confess in public. He publishes only what the record shows | Warehouse record; **no public correction** (not adopted, 09-27 Q1) | Sets up his private confession in B05 (N2) |
 | 08 | I Asked Him to Come Here | Lucien + Seraphine | His guilt meets hers. **Each wants the other to hold theirs, and neither can.** **Turn:** the strain begins | M05 context; **M57 setup** | Pays off `BC-ASKED-HIM-HERE` |
@@ -94,7 +94,7 @@ responses create consequences; Seraphine is visible; Rex is in the cast; Kade is
 
 | E | Title (working) | Owner / theater | Story job and turn | Milestone / obligation | Sets up / pays off |
 | --- | --- | --- | --- | --- | --- |
-| 31 | **LR05** Lanterns | Caro / Velvet Vein | Caro, Elisabet, Rex and Trip make lanterns for the memorial. **Competition, teasing, bad taste in music.** **Turn:** joy chosen on the edge | Life/Reward; the execution test on variety of pleasure | — |
+| 31 | **LR05** Lanterns | Seraphine / Velvet Vein (re-owned from Caro (Neon pass 4, 2026-09-27; `proposals/NEON_PASS4_SURGICAL_2026-09-27.md`)) | **Seraphine joins** Caro, Elisabet, Rex and Trip making lanterns for the memorial, her name newly on a list (E29). **Competition, teasing, bad taste in music.** **Turn:** joy chosen on the edge | Life/Reward; the execution test on variety of pleasure | — |
 | 32 | Routes | Rex + Elisabet | Rex maps loading and exits; Elisabet the crowd model. **They send MT a substantiated warning**: routes and capacity, not the coordinates of an event | Rex–Tahl link (N4) | Sets up E33, E42 |
 | 33 | What He Publishes | **Tahl** / Chicago | He verifies the tip and publishes **safe routes and what is known**, and refuses *"where it will happen"*. **The post carries a small triangle mark** [P]. **For an hour, MT is the message every side trusts** | Tahl's rule; the recovered *"MT unifies public perception briefly"* | **Plants `BC-TAHL-SIGNATURE-TRIANGLE`'s Neon half** (N10). **S03** is the post |
 | 34 | Two Marches | Seraphine / NOLA | She goes **as a marcher, not a fixer**, and resolves not to intervene early. The two routes meet at a Protocol 9 checkpoint | M14, M16 setup | — |

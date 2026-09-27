@@ -33,7 +33,7 @@ grief, the message, and the first post.
 
 **Scale:** 45 episodes (15/15/15) and **a three-episode epilogue (E46–E48, `EP`)**; 3 LR units;
 3 supplements.
-**POV:** Tahl 16 · Seraphine 8 · Elisabet 6 · Rex 5 · Kade 5 · Lucien 3 · Caro 3 · flex 2.
+**POV:** Tahl 16 · Seraphine 10 · Elisabet 6 · Rex 5 · Kade 5 · Lucien 3 · Caro 2 · flex 1 (E11 and E32 re-owned to Seraphine (Neon pass 4, 2026-09-27; `proposals/NEON_PASS4_SURGICAL_2026-09-27.md`)).
 
 **The information legs** (approved, the B05 → B07 clock): M55 reaches Tahl through the channel (I5);
 the live witness broadcast (I6); the news, staggered (I7); **the fragment, arriving after the news**
@@ -58,7 +58,7 @@ cannot make anyone act. **Exit:** the Santa Fe Fracture.
 | 08 | Geometry | Lucien / NOLA | **His dissociation:** *Silence as fracture* (his card's Neon mode). Seraphine notices; **they practise M57**: neither regulates the other | His own trajectory, not contagion | **Plants `BC-LUCIEN-SILENCE`** |
 | 09 | The Warning | Elisabet / REY-01 | **M55:** a bounded protective recommendation **before certainty**: known, inferred, what would falsify it. **She sends it to responders and to the channel**, and accepts the cost of being early or late | **M55** (approved, B06 A1) | Pays off `BC-KNOWN-INFERRED-UNKNOWN` |
 | 10 | Read in the Southwest | **Tahl** / the Southwest | **He reads M55** through the channel. The Filaments' pressure warning agrees [N1]. **He does not go to Santa Fe. Not yet.** | G5 (approved); **the VT warning's origin (N1)** | Sets up E18 |
-| 11 | The Quiet Hardens | flex: Ito / NOLA | **Ito's rhetoric sharpens**: the quiet must be enforced. Saeko's circles lose their calm | M58 setup | — |
+| 11 | The Quiet Hardens | Seraphine / her block (re-owned from Ito's flex (Neon pass 4, 2026-09-27; `proposals/NEON_PASS4_SURGICAL_2026-09-27.md`)) | **Ito's rhetoric sharpens on the screens**: the quiet must be enforced. **On her block, Saeko's circle loses its calm** (continuing B05 E41). It sets up E22 through people she knows | M58 setup | — |
 | 12 | **LR01** The Vein | Kade / NOLA | **Kade's life in the city**: shifts, Trip, music. **Lacuna is around, unfocused** (ruled). He reads MT every day | Kade: listener; Lacuna: cameo | Reinforces `BC-LACUNA-KADE-SAME-ROOM` |
 | 13 | Unheeded | **Tahl** / the Southwest | **Santa Fe's Filaments warn their officials, and are filed.** Tahl publishes the warning **as known vs inferred**, under his rule | Recovered *"Filament warnings go unheeded"* | — |
 | 14 | After the Model | Rex / Singapore | M17's aftermath: **Kasumi's people, the harmed, the operators who walked.** He stays for them | M17 aftermath | — |
@@ -97,7 +97,7 @@ Tahl dies at the still-open rupture, and Silence collects his echo.**
 | E | Title (working) | Owner / theater | Story job and turn | Milestone / obligation | Sets up / pays off |
 | --- | --- | --- | --- | --- | --- |
 | 31 | After the Clinic | Seraphine / NOLA | M58's aftermath. **She comforts people, finite and close.** | — | — |
-| 32 | Caro Arrives | Caro / NOLA | **She is home, and holds Seraphine**: ordinary care, no powers (the recovered *"Caro regulates her"*) | Caro in NOLA by late B06 (approved) | — |
+| 32 | Caro Arrives | Seraphine / NOLA (re-owned from Caro (Neon pass 4, 2026-09-27; `proposals/NEON_PASS4_SURGICAL_2026-09-27.md`)) | **Caro is home, and holds her**; Seraphine lets herself be held: ordinary care, no powers (the recovered *"Caro regulates her"*) | Caro in NOLA by late B06 (approved) | — |
 | 33 | The Edge | **Tahl** / Santa Fe | **Cumulative pressure**, his notes, his symptoms. The rupture's edge | TahlEBCI trigger: *"cumulative pressure + proximity"* | — |
 | 34 | Too Far | Rex / Singapore | **He looks at flights and knows he cannot reach Santa Fe in time.** He stays on the channel | Rex remote (approved) | — |
 | 35 | **LR03** Supper at the Edge | **Tahl** / Santa Fe | **A meal with the family.** He calls his parents, and does not tell them where he is | Life/Reward | Reinforces `BC-TAHL-PARENTS` |
@@ -109,7 +109,7 @@ Tahl dies at the still-open rupture, and Silence collects his echo.**
 | 41 | The Waiting | Elisabet / REY-01 | **Distance:** she watches three cities' feeds and cannot reach anyone | Knowledge bands | — |
 | 42 | The Slip | **Tahl** / Santa Fe | **A partial, accidental VeilThread slip.** He **glimpses the shape** of the wound pattern. **No Intent spark** | **M20** (ruled: the glimpse; late, fatal VT contact); approved (Q3) | **Pays off `BC-VT-BRUSH-LADDER`'s third rung.** **D5** |
 | 43 | The Fragment | **Tahl** / Santa Fe | **By mortal means**, he gets the shape into his device: **a voice note and a rough sketch**, sent into the B05 channel. **The failing network holds it.** | **M39** (ruled: by mortal means); approved (Q4); the wording is drafted at B06 EBCI (D8) | Pays off `BC-PRIVATE-CHANNEL`'s send |
-| 44 | Dead Air | Kade / NOLA | The offline feed, then confirmation (G6). **The dead man's photograph: the tired stranger from Trip's** | G6 (approved) | **Pays off `BC-KADE-MEETS-TAHL-UNKNOWING`** |
+| 44 | Dead Air | Kade / NOLA | **The offline feed**, and a night of not knowing (G6's first half). **The confirmation and the photograph move to E48** (Neon pass 4, 2026-09-27; `proposals/NEON_PASS4_SURGICAL_2026-09-27.md`): as placed here they came before the death shown at E45 and before the principals' news at E46 | G6 (approved) | — |
 | 45 | Tahl | **Tahl** / Santa Fe | **The contact kills him.** Locals at the edge; **no principal witnesses.** Then, from the VeilThread side, briefly: **Silence collects his echo**: its first act of agency. **Hope does not act.** **End of Act III** | **M20** (ruled: the end of B06 A3); **M21** (ruled); no pre-death Intent spark (approved) | Sets up M52 (the one identifiable flare, B09). Pays off `BC-SILENCE-HOPE-OBSERVE` |
 
 ## 4. Epilogue — The message (E46–E48, `EP`)
@@ -118,7 +118,7 @@ Tahl dies at the still-open rupture, and Silence collects his echo.**
 | --- | --- | --- | --- | --- | --- |
 | 46 | The News | Lucien / NOLA | **The confirmation arrives, staggered, city by city.** Seraphine near-shatters; **Caro holds her.** For Lucien, the loss rhymes with Baz. The body starts east by road with the Santa Fe family | I7; G8 (the body, by road) | Sets up B07 A1 (the funeral) |
 | 47 | The Fragment Arrives | Seraphine / NOLA | **The fragment reaches the channel after the news**, staggered: Seraphine, Lucien, Caro (NOLA), Elisabet (Reykjavík), Rex (Singapore). **The shape: the tears are linked, there is more than one, they close in order, and *"the first one has to be last"*.** **Seraphine recognises the first one as the swamp.** She tells only the channel | **M39** (ruled); approved Q4–Q6; **the site secret holds** | **Pays off `BC-SWAMP-WOUND`.** **Plants `BC-FIRST-ONE-LAST`** |
-| 48 | Read | Kade / NOLA | **He writes his grief into MT's comments, believing it private. It is read.** **It closes Book 6** | **M23** (approved placement: after the message) | Sets up M40 and M26 (B07) |
+| 48 | Read | Kade / NOLA | **The public confirmation reaches him, with the dead man's photograph: the tired stranger from Trip's** (G6's second half, moved from E44 (Neon pass 4, 2026-09-27; `proposals/NEON_PASS4_SURGICAL_2026-09-27.md`)). **He writes his grief into MT's comments, believing it private. It is read.** **It closes Book 6** | **M23** (approved placement: after the message); G6 | **Pays off `BC-KADE-MEETS-TAHL-UNKNOWING`**; sets up M40 and M26 (B07) |
 
 **S02** (after E45): the first official account of the Santa Fe dead, with no name yet.
 **S03** (after E47): the news item naming MT's author.

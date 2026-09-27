@@ -6,6 +6,8 @@
 causal-card requirements, physics/effects/conflict-code questions, envelope requirements and
 production/validation workflow. Do not release the B01 EBCI hold or generate B01 EBCI yet."*
 
+> **Author instruction 2026-09-27** (`decisions/POST_AUDIT_SEQUENCE_AND_EBCI_PILOT_AUTHOR_INSTRUCTION_2026-09-27.md`): the hold will be released **for the two-packet pilot (E31, E33) only**, when the author reaches it. **The pilot's gate is a narrative review:** *"If I handed this to a good novelist, would it help them write a better scene—or would they spend their energy satisfying the packet?"* If E31 acquires obligations, opposition codes, a Resonance beat and breadcrumbs because the template expects them, **simplify EBCI before multiplying it**. Execution principles: **keep every element; point at none** (saga-wide); **a breadcrumb may be structurally deliberate while remaining narratively incidental**; the ordinary world needs material that pays off nothing. The body below is unchanged.
+
 **What it does not change:**
 
 - **The hold stands.** No packet is generated and no pilot runs. There is no `ebci/` directory, and

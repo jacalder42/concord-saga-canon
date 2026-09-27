@@ -32,7 +32,7 @@ recalibration).
 → changed meaning (A3)**. It causes nothing elsewhere and gates nothing (ruled). **D5 card owed.**
 
 **Scale:** 45 episodes (15/15/15), 4 LR units, 3 supplements.
-**POV:** Tahl 13 · Seraphine 10 · Caro 7 · Elisabet 5 · Rex 4 · Lucien 2 · Kade 2 · flex 2.
+**POV:** Tahl 13 · Seraphine 12 · Caro 6 · Elisabet 5 · Rex 4 · Lucien 2 · Kade 2 · flex 1 (E03 and E12 re-owned to Seraphine (Neon pass 4, 2026-09-27; `proposals/NEON_PASS4_SURGICAL_2026-09-27.md`)).
 
 ---
 
@@ -45,7 +45,7 @@ private channel exists, a dangerous true post is public, and the ensemble separa
 | --- | --- | --- | --- | --- | --- |
 | 01 | The Colorstorm | Seraphine / NOLA | **Apparition.** Colour over part of the city, beautiful, photographable, not yet dangerous. **People name it before anyone understands it.** **Turn:** her first instinct is to watch, not to act | D17 (approved); **D5** | — |
 | 02 | The Long Drive South | **Tahl** / Chicago → NOLA | Rex has arranged it. **He drives, because flying means being seen.** He rehearses what he cannot say | M37's B05 A1 meeting (approved) | — |
-| 03 | People Who Want Her | Caro / NOLA clinic | **Since the Riot footage, strangers come looking for Seraphine**, and some carry Choirless leaflets naming her the danger. Caro becomes her gatekeeper. **Turn:** over-carrying, with a new load | Seraphine's exposure (B04 E37); M54 protected (no handoff) | Reinforces `BC-CARO-OVERCARRY` |
+| 03 | People Who Want Her | Seraphine / NOLA clinic (re-owned from Caro (Neon pass 4, 2026-09-27; `proposals/NEON_PASS4_SURGICAL_2026-09-27.md`)) | **Since the Riot footage, strangers come looking for Seraphine**, and some carry Choirless leaflets naming her the danger. **Through her eyes, Caro becomes her gatekeeper**: care carried too far, seen from outside; it seeds E21's refusal to be a symbol. **Turn:** over-carrying, with a new load | Seraphine's exposure (B04 E37); M54 protected (no handoff) | Reinforces `BC-CARO-OVERCARRY` |
 | 04 | Janvier | Lucien / Vienna | **Janvier Arnaud's grief does not centre Lucien**, and Lucien learns to sit in it. He hears of the meeting by message. **Turn:** he gives Holt's log back unread by anyone else [P] | Baz's family (C05); G1: absent from the meeting | Sets up E17 |
 | 05 | The Meeting | **Tahl** / Velvet Vein back room | Seraphine, Caro, Elisabet, Rex. **They tell him who Baz was. He tells them he posted the coordinates** [N2]. **No one certifies blame.** **Turn:** they learn MT is a person; he learns Baz was one | **M37** (why Baz mattered: approved); **no blame, only inference** | Pays off B04 E44 |
 | 06 | The Channel | Seraphine | **Rex's idea**: a private channel with redundancy built in. Tahl is reluctant. **Seraphine adds Lucien remotely.** | **The private channel** (approved; M39's route) | **Plants `BC-PRIVATE-CHANNEL`** |
@@ -54,7 +54,7 @@ private channel exists, a dangerous true post is public, and the ensemble separa
 | 09 | The Second Man | Rex / NOLA | **The B05 A1 public meta incident** (approved keep). Rex recognises the pattern from B04 E11; Technarc retrieval arrives fast. **Turn:** the post is proven in public within days, and Tahl's cost rises | **D5**; meta card | Reinforces `BC-LAST-CLEAR-ACT` |
 | 10 | Elisabet's Work | Elisabet / NOLA | **Her Reykjavík mentor** (registry G01) asks her to compare records; the data need her there. **She and Caro plan the separation honestly.** | Her route (approved: field work, then Reykjavík) | Sets up M56 |
 | 11 | Tahl Leaves | **Tahl** | He leaves NOLA. **His host throttles MT; a car follows him out of the city** [P]. **Turn:** the cost of the Last Clear Act begins | G4's cost | Sets up E39 |
-| 12 | Colorstorm Drinks | flex: Trip / Velvet Vein | **Normalisation begins:** vendors, bad merchandise, a Colorstorm cocktail, confident false explanations. **The Vein stays a hearth, not a headquarters** | D17 | — |
+| 12 | Colorstorm Drinks | Seraphine / Velvet Vein (re-owned from Trip's flex (Neon pass 4, 2026-09-27; `proposals/NEON_PASS4_SURGICAL_2026-09-27.md`)): a person at the bar, not a fixer | **Normalisation begins:** vendors, bad merchandise, a Colorstorm cocktail, confident false explanations. **The Vein stays a hearth, not a headquarters** | D17 | — |
 | 13 | A Visit Home | Caro | **A long-postponed visit to her family in Pilsen** [P: an ordinary reason: a family occasion]. She books it, guilty to leave | M54's setup: an ordinary reason, not a plot one | Sets up E16 |
 | 14 | Commenter | Kade / NOLA | **He comments under the Last Clear Act.** A few people read it. He works a bar shift [P]. Listener, nothing more | Kade: no public rise (ruled) | — |
 | 15 | The First Message | Seraphine | **Act I close.** The channel's first message from Tahl on the road. **The ensemble separates by choice**, each to necessary work | Act close | — |
