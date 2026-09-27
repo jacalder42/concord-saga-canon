@@ -160,3 +160,14 @@ in her cards as it stands (*SeraphineIdentity*, *SeraphineAppearance*, `seraphin
 
 **Not changed:** no card edit is needed.
 
+---
+
+## Follow-up (2026-09-27): the deferred D14–D16 passes
+
+The author approved them with *"Proceed with deferred passes"*, and answered both with *"Proceed as
+recommended."* **Approved design, not ruled:**
+
+- **D14:** `decisions/MANUFACTURED_META_TRANSFER_AUTHOR_ANSWERS_2026-09-27.md`. Factions draw on a meta's stored energy, unreliably and at a cost; a meta never holds Intent; metas are altered humans. **D19's gate lifts in principle**; the B04 A1 incident card is written when the queue reaches Neon.
+- **D15 and D16:** `decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md`. VT closes at the Mending and LT succeeds it; the post-Mending states are `CALM · BLOOM · NODE · LT`; the survivors can be reached and none uses LT routinely; Kade's prompt is left open.
+
+The table above is unchanged.

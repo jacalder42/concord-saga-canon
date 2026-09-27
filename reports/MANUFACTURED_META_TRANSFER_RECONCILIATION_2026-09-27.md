@@ -6,6 +6,8 @@
 It rules nothing and edits no card, rule, row or ruling. §7 puts the questions, with recommended
 answers.
 
+> **Answered 2026-09-27** (`decisions/MANUFACTURED_META_TRANSFER_AUTHOR_ANSWERS_2026-09-27.md`, ledger §180): *"Proceed as recommended."* All eight as recommended, **approved design**. Factions draw on metas, unreliably and at a cost; metas never hold Intent; they are altered humans. Mechanica §48 and the faction card carry pointer notes only, pending a ruling. The body below is unchanged.
+
 **What it does not change:**
 
 - **The standing constraint holds** (CLAUDE.md §9): no Neon combat or meta episode work until the

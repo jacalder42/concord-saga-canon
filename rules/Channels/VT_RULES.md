@@ -148,6 +148,8 @@ After the Mending:
 
 VT does not evolve into LT.
 
+> **Note 2026-09-27 (approved design, not ruled; `decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q1):** VT **closes at the Mending**, when Silence and Hope disperse into the veil's laws (Mechanica §42A.3), and LT succeeds it as a new channel. It does not evolve into LT, so the line above stays true. *"VT persists"* above and in the header is **not rewritten until a ruling**.
+
 ---
 
 ## 10. INTEGRATION WITH OTHER CHANNELS

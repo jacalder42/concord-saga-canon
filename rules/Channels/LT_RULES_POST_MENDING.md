@@ -20,6 +20,8 @@ LT represents:
 LT is not an upgrade to VT.
 LT is a different channel entirely.
 
+> **Note 2026-09-27 (approved design, not ruled; `decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q1):** VT closes at the Mending and LT **succeeds** it as a new channel, following the author's *"LT = LuminousThread the successor to VT"* (2025-12-11). This section stays true: LT is not VT converted. §8 and `VT_RULES.md` §9 are not rewritten until a ruling.
+
 ---
 
 ## 2. ACCESS & PERCEPTION
@@ -30,6 +32,8 @@ LT is perceivable only by:
 - Kade, by named exception (Mechanica §39, amended 2026-09-26 by author ruling —
   `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`). Whether other
   protagonist survivors have access, and what "post-Mending anchors" covers, is open.
+
+> **Note 2026-09-27 (author approval, `decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q3, Q6):** *"post-Mending anchors"* is read as **the guides**, Lucien and Caro. **Approved design, not ruled:** Kade, Elisabet and Rex can **receive** the trio's reach, rarely, through Tahl's echo; it is felt, not read, and no information passes beyond the §6 handshake. None uses LT routinely. Lacuna feels the clarity, not the reach. The list above is unchanged.
 
 Civilians do not perceive LT directly.
 
@@ -139,11 +143,13 @@ LT remains softer.
 
 Neither replaces the other.
 
+> **Note 2026-09-27 (approved design, not ruled; `decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q1, Q5):** VT closes at the Mending and LT succeeds it; this section's coexistence is not rewritten until a ruling. *"More tangible than VT"* (author, 2026-09-26) describes the reach through Tahl's echo, not LT in general: LT stays softer.
+
 ---
 
 ## 9. POST-MENDING SAFEGUARDS
 
-LT enforces:
+After the Mending, the veil's laws prevent:
 - no new shards
 - no rupture events
 - no catastrophic escalation
@@ -154,6 +160,8 @@ LT does not prevent:
 - human error
 
 The world remains imperfect.
+
+> **Amended 2026-09-27 by author approval** (`decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q6). Was: *"LT enforces:"*. The veil's laws apply themselves (Mechanica §42A.3), and LT is not a system (§4).
 
 ---
 

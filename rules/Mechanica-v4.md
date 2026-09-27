@@ -926,8 +926,10 @@ The Breathable Veil removes each cause of brittleness:
 - Nothing concentrates
 - No single point carries the load
 
-Humans exposed to filtered resonance slowly adapt (§44).
+Humans exposed to filtered resonance slowly adapt (M34).
 The load on the Veil falls over time.
+
+> **Corrected 2026-09-27 by author approval** (`decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q6). Was: *"(§44)"*. §44 says nothing about adaptation; the source is M34 and `decisions/MECHANICA_HARD_CAP_BREATHING_VEIL_AUTHOR_ANSWERS_2026-09-27.md` Q5.
 
 No successor soul is required.
 
@@ -1022,6 +1024,8 @@ As a result:
 - They fail catastrophically under pressure
 
 Their creators are the true antagonists.
+
+> **Note 2026-09-27 (approved design, not ruled; this section's text is unchanged):** factions draw on a meta's stored energy into a recipient who supplies the Intent. The draw is bodily and close, unreliable, and costly to the meta, the recipient and those nearby. A meta never holds Intent; metas are altered humans. See `decisions/MANUFACTURED_META_TRANSFER_AUTHOR_ANSWERS_2026-09-27.md`.
 ## 49. SYMBOLIC PERMISSION SYSTEM
 
 Symbols do not create power.

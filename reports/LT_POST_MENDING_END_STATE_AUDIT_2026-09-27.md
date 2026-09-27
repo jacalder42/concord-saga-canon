@@ -6,6 +6,8 @@
 beyond Kade) in `decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md`. It rules nothing and edits
 no card, rule, row or ruling. §7 puts the questions, with recommended answers.
 
+> **Answered 2026-09-27** (`decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md`, ledger §180): *"Proceed as recommended."* All six as recommended, **approved design**. The Q6 fixes are applied; Q1 and Q4 carry pointer notes only, pending a ruling. The body below is unchanged.
+
 **What it does not change:**
 
 - `rules/era_context_post_mending.json` stays unwritten and held.

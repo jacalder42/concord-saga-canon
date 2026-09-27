@@ -76,6 +76,9 @@ Presence of Seraphine, Caro, Elisabet, or Lucien is required to prevent collapse
 - Receives prismatic handshake only in epilogue (no agency) — the handshake is the LT reach
   that closes the ruled B09 epilogue scene with Lacuna. "(no agency)" is retained until what
   access consists of is ruled
+- Note 2026-09-27, approved design, not ruled
+  (`decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q4): he can answer, and
+  the saga ends before he does; the prompt is left open. "(no agency)" stands until a ruling
 
 **Hard Separation Rule**
 MT ≠ VT ≠ LT at all times.

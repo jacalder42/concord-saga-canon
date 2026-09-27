@@ -30,6 +30,8 @@ Manufactured Metas are:
 - created to control, isolate, or weaponize resonance
 - permanently **incapable of Intent**
 
+> **Note 2026-09-27 (approved design, not ruled; `decisions/MANUFACTURED_META_TRANSFER_AUTHOR_ANSWERS_2026-09-27.md` Q4):** metas are **altered humans only**, voluntary or coerced, names erased. The *"artificial constructs"* line is not rewritten until a ruling.
+
 They may:
 - mimic emotional behavior
 - approximate resonance output

@@ -11395,4 +11395,40 @@ END OF ENTRY 179
 
 ===============================================================
 
+# 180. D14–D16 answered: the meta transfer loop, LT and the post-Mending end state — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers (approved design). Nothing is ruled.
+
+**The author, verbatim:** "Proceed as recommended."
+
+**Recorded in** `decisions/MANUFACTURED_META_TRANSFER_AUTHOR_ANSWERS_2026-09-27.md` (D14; report §179):
+- factions **draw on a meta's stored energy** into a recipient, who supplies the Intent; bodily and close, never networked; unreliable, and costly to the meta, the recipient and those nearby. This replaces the declined "no direct boosting of operatives";
+- metas are charged by harvested resonance from followers and handlers; crowds amplify but are not harvested; "bystander" stays unsourced;
+- a meta never holds Intent ("extracted intent" = handlers' encoded directives);
+- altered humans only, voluntary or coerced, names erased;
+- magnitudes and U1–U7 go to the Mechanica review;
+- **D19's gate and the CLAUDE.md §9 meta constraint lift in principle**; no Neon meta work starts until the queue reaches Neon.
+
+**Recorded in** `decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` (D15, D16; report §178):
+- **VT closes at the Mending, and LT succeeds it** as a new channel; channels never merge;
+- post-Mending states `CALM · BLOOM · NODE · LT`; SHARD and RUPTURE forbidden; the era file stays held;
+- Kade, Elisabet and Rex can be reached, rarely, through Tahl's echo; none uses LT routinely; only Kade's is on the page; Lacuna feels the clarity, not the reach;
+- Kade can answer, and the saga ends before he does: the prompt is left open;
+- "more tangible than VT" is the echo-borne reach, not LT in general.
+
+**Applied, as approved changes with dated notes keeping the old text (LT Q6):**
+- `rules/canon_rules.json`: `_thread_note_superseded` added (MT "renamed LT" superseded by M35);
+- `rules/Mechanica-v4.md` §42A.5: "(§44)" → "(M34)";
+- `rules/Channels/LT_RULES_POST_MENDING.md` §9: "LT enforces:" → "After the Mending, the veil's laws prevent:"; §2 note reading "post-Mending anchors" as the guides.
+
+**Pointer notes only, text unchanged pending a ruling:** `VT_RULES.md` §9; `LT_RULES` §1 and §8; `KadeEBCI.md` "(no agency)"; Mechanica §48; `canon/factions/Manufactured_Metas.md` ("artificial constructs"). **M53** (ruled): a note appended to `notes`; status and description unchanged. Book contexts: no drift.
+
+**Also:** a follow-up section appended to `decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md`; both reports carry an "Answered" note; `decisions/README.md` indexed.
+
+**Waiting:** the Lucien and Caro post-Mending card lines (a card pass); the Concord name (D11). **The holds stand:** B03 and B01 EBCI.
+
+END OF ENTRY 180
+
+===============================================================
+
 END RECOVERY LEDGER
