@@ -4,6 +4,8 @@ Status: **NON-CANONICAL — FOR AUTHOR + EDITOR / CLAUDE REVIEW**
 Date: 2026-09-22  
 Promotion state: **NARRATIVE ORDER LOCKED — CHARACTER-CAUSALITY INTEGRATED — READY FOR CONTROLLED EBCI PREPARATION AFTER FINAL AUTHOR/EDITOR CONFIRMATION**
 
+> **Note 2026-09-27 (Veil trilogy audit; `decisions/VEIL_TRILOGY_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`):** notes to apply **at B01 EBCI** are in `proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md` §3: E48 pays off E01 (M03); E29 retitled away from *drift*; E23 Technarc ambient; E23–E30 one Elisabet visit; the Lacuna, v4.1a, LR02 and header leftovers; the sequence relabel; O1 as a Möbius seed. **The narrative order is unchanged. The EBCI hold stands.** The text below is unchanged.
+
 Built from:
 - recovered B01 E00–E42 episode substrate;
 - B01 Revised Beat Bible Migration Draft v3;

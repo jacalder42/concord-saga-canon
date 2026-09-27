@@ -3,6 +3,8 @@
 **Date:** 2026-09-27
 **Status:** EDITORIAL PROPOSAL / PRE-EBCI — NON-CANONICAL.
 
+> **Amended 2026-09-27 by the Veil trilogy audit** (`proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md` §2): E07, E13 and E35 are overridden there, on top of pass 5's revisions.
+
 - These are the per-episode beat sections for the 45 episodes and the three-episode epilogue of
   `proposals/B03_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md`. The author approved pass 3 and asked for
   this pass (`decisions/B03_PASS3_AUTHOR_ANSWERS_2026-09-27.md`, *"Yes for 1-9"*).

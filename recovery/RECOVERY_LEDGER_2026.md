@@ -11728,4 +11728,25 @@ END OF ENTRY 192
 
 ===============================================================
 
+# 193. Veil trilogy audit answered; the Veil audit amendments — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers (approved design) and a proposal. Nothing is ruled.
+
+**The author, verbatim:** "1-10 yes"
+
+**Recorded in** `decisions/VEIL_TRILOGY_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`: all ten recommendations of §192.
+
+**Written:** `proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md`. It overrides named episodes only; the passes are not rewritten, and each carries a pointer note.
+- **B02:** E03 (the first pulse the city names), E15 (retitled *The Larger Pulse*), E19 (the ethic practised, not named), E30 (reciprocal: Caro cares for a shaken Elisabet), E40/E47 (Lucien withholds drift at E47, B02's Act III decision).
+- **B03:** E07 (a Detroit report, no Rex), E13 (Seraphine and Baz's own scene), E35 (Seraphine's parallel climax: she sees S03 and stays with the father).
+- **B01 notes for EBCI:** E48 pays off E01 (M03); E29 retitled (keep "swamp wound" as a Tear seed; reword "conceptual wound"); E23 Technarc ambient; E23–E30 one Elisabet visit; the Lacuna, v4.1a, LR02 and header leftovers; the sequence relabel; O1 as a Möbius seed.
+
+**Also:** pointer notes on B02 pass 5, B03 passes 4 and 5, and B01 v4.1b (additive; the text is unchanged); a `notes` append on grid **M03** (status unchanged); the audit report's "Answered" note; `decisions/README.md` indexed.
+
+**Next:** the author decides on releasing the B01 EBCI hold (step 5).
+
+END OF ENTRY 193
+
+===============================================================
+
 END RECOVERY LEDGER

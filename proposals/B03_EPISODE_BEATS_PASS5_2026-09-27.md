@@ -3,6 +3,8 @@
 **Date:** 2026-09-27
 **Status:** EDITORIAL PROPOSAL / PRE-EBCI — NON-CANONICAL.
 
+> **Amended 2026-09-27 by the Veil trilogy audit** (`proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md` §2; `decisions/VEIL_TRILOGY_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`): E07, E13 and E35 are overridden there. This file is otherwise unchanged.
+
 - This is a **focused revision** of `proposals/B03_EPISODE_BEATS_PASS4_2026-09-27.md`, under the
   author's pass-5 directions (`decisions/B03_PASS5_DIRECTIONS_AUTHOR_ANSWERS_2026-09-27.md`,
   *"1-6 yes"*). Those directions answer ChatGPT's review of pass 4

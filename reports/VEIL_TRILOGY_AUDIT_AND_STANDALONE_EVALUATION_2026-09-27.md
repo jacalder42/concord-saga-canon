@@ -6,6 +6,8 @@ followed by the standalone evaluation the author asked for:
 *"Begin trilogy audit, then evaluate each book as a standalone novel"*
 (`decisions/B03_PASS5_FOLLOWUP_AND_VEIL_AUDIT_INSTRUCTION_2026-09-27.md`).
 
+> **Answered 2026-09-27** (`decisions/VEIL_TRILOGY_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §193): *"1-10 yes"*. The amendments are in `proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md`. The body below is unchanged.
+
 **It edits nothing.** No book, card, row or rule is changed. §9 lists recommended amendments and §10
 the questions. **The B01 EBCI hold stands**: the author releases it after this audit (B5).
 
