@@ -6,6 +6,8 @@ progressive-resolution order (`decisions/PROGRESSIVE_RESOLUTION_SEQUENCE_AUTHOR_
 item 1): *"Proceed with Neon B04–B06 to provisional episode-architecture / Pass-3 resolution, beginning
 with reconciliation of existing material rather than a fresh draft."*
 
+> **Answered 2026-09-27** (`decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §201): *"N1-N12 as recommended"*, approved design; the three Neon pass-3 files are approved as provisional architecture. On N11 the author adds: *"I think we will need more Seraphine before we are done"*. The body below is unchanged.
+
 **It feeds three provisional architecture files:**
 
 - `proposals/B04_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md`

@@ -9,6 +9,8 @@ place, system, image) **stay open to discovery** and get their own nine-book aud
 **What it does not change:** no ruling, grid row, card or rule. No prologue or epilogue text is
 written; this is structure, not prose. The B01 EBCI hold stands. Ledger row: `BC-MACRO-MOBIUS-SKY`.
 
+> **Answered 2026-09-27** (`decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §201): *"macro 1 yes 2 c"*, approved design: the five axes, the standard and the guardrails; the triangle planted from B02 and made familiar in Neon, with the Veil half placed at the nine-book audit. The body below is unchanged.
+
 ---
 
 ## 1. What is fixed

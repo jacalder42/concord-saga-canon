@@ -9,6 +9,8 @@ reconciliation (`proposals/NEON_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-
 - **Resolution:** owner and theater, story job and turn, milestone or obligation, and what each sets
   up or pays off. Not beats; not EBCI. The B01 EBCI hold stands.
 
+> **Answered 2026-09-27** (`decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §201): approved design as provisional architecture, with N1–N12 applied. The body below is unchanged.
+
 **Codes:** as in B04. **Places:** NOLA · Chicago/Pilsen (not yet in the registry) · REY-01 Þingholt ·
 VIE-03 · SIN-01 Technarc towers · SIN-02 Neon Spine Transit Corridor · the Southwest, and Santa Fe
 (registry anchor G06). **Tahl is in the Southwest, not in Santa Fe itself, until B06 A2** (route clock G5: he goes to Santa Fe after the Rupture opens).

@@ -13,6 +13,8 @@ production/validation workflow. Do not release the B01 EBCI hold or generate B01
 - No rule, card, envelope, overlay or grid is edited. Every recommendation waits for the author.
 - **The release decision comes after the nine-book audit** (the same instruction, item 7).
 
+> **Answered 2026-09-27** (`decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §201): *"preflight 1-8 yes"*, approved design. No rule text changes; the hold stands. Pre-release work now approved: the B01 overlay drafts (Q6) and the four causal cards (Q7). The body below is unchanged.
+
 **Sources:** the EBCI readiness report (`reports/B01_INTEGRATED_SYSTEMS_STRESS_AND_EBCI_READINESS_2026-09-23.md`)
 and its three reconciliation proposals (physics R1–R8, VFX V1–V7, conflict); the event observation
 ruling (`decisions/B01_EVENT_OBSERVATION_AUTHOR_RULING_2026-09-23.md`, D1–D7); the gate ruling

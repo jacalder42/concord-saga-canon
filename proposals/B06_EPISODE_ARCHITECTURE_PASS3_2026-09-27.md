@@ -11,6 +11,8 @@ reconciliation (`proposals/NEON_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-
 - **Resolution:** owner and theater, story job and turn, milestone or obligation, and what each sets
   up or pays off. Not beats; not EBCI. The B01 EBCI hold stands.
 
+> **Answered 2026-09-27** (`decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §201): approved design as provisional architecture, with N1–N12 applied. The body below is unchanged.
+
 **Supersedes, for working purposes,** the staging in `proposals/B06_SANTA_FE_CAUSAL_EVENT_CARD_PASS1_2026-09-26.md`'s
 body, which its own supersession notice already defers to the rulings. The card is not edited.
 

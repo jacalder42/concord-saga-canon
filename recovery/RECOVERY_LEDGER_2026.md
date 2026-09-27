@@ -11911,4 +11911,24 @@ END OF ENTRY 200
 
 ===============================================================
 
+# 201. Neon, macro-Möbius and preflight answers — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers (approved design) and one author direction. Nothing is ruled.
+
+**The author, verbatim:** "N1-N12 as recommended, macro 1 yes 2 c, preflight 1-8 yes, n11 I think we will need more Seraphine before we are done."
+
+**Recorded in** `decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md`:
+- **Neon N1–N12** (§200): all as recommended. **N1 answers deferred D1:** the Santa Fe Filaments originate the VT warning; Tahl relays it. The three Neon pass-3 files are approved as provisional architecture.
+- **N11, author direction:** more Seraphine before the architecture is final. Loom is to be built at or above her ~30% band; the nine-book audit proposes where Neon (and Veil if needed) gives her more.
+- **Macro-Möbius** (§198): the five axes, standard and guardrails; **the triangle planted twice** (from B02, placed at the nine-book audit; and in Neon, already placed).
+- **Preflight** (§199) Q1–Q8: physics, VFX and conflict answers as recommended; template, storage and envelopes at release; **the B01 overlay drafts and the four causal cards (E15, E33, E45, E48) are approved pre-release work**; validator checks at release. **No rule text changes**: rule addenda need their own ruling.
+
+**Applied (additive):** notes prepended on M17 (N5), M38 and M55 (N1), M58 (N7), with statuses and target fields unchanged (derive: no drift); "Answered" notes on the six proposals; the two breadcrumb rows' notes; `decisions/README.md`; CLAUDE.md §4.1 (the VT warning row) and §8.
+
+**The B01 EBCI hold stands.** Next: Loom.
+
+END OF ENTRY 201
+
+===============================================================
+
 END RECOVERY LEDGER

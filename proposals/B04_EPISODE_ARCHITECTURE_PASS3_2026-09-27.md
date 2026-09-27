@@ -10,6 +10,8 @@ reconciliation (`proposals/NEON_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-
   the **milestone or obligation** it carries, and **what it sets up or pays off**. Not beats; not EBCI.
 - **Architecture, not EBCI.** No episode is generated. The B01 EBCI hold stands.
 
+> **Answered 2026-09-27** (`decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §201): approved design as provisional architecture, with N1–N12 applied. The body below is unchanged.
+
 **Codes:** **LR** Life/Reward unit · **S** supplement · **[P]** a choice made in this pass · **RR**
 remote receipt · **D5** a Resonance effect that needs its private causal card before EBCI.
 **Places:** NOLA-01 Tremé · NOLA-04 Bywater · NOLA-06 Warehouse District · NOLA-07 Canal Street ·
