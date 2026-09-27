@@ -35,7 +35,10 @@ and the Warehouse District `NOLA-06`.
 
 - **Physics:** effects are **observed**, never explained (D5; Mechanica §60). Observation is kept
   distinct from inference. The Warehouse follows pass 3 §5's bounded event model.
-- **Tahl:** no name, no POV and no identity clue before E47 (A10). The MT voice is known by its work.
+- **Tahl:** no name and no named POV before the epilogue (A10), and no identity clue before E47. E46 is
+  the anonymous author's **unnamed** POV; E47 names him. The MT voice is known by its work. *(Corrected
+  09-27, ledger §189: this read "no name, no POV … before E47", stricter than A10 and contradicted by
+  E46.)*
 - **Kade: none.** **Rex:** only E43, alone. **Honey Island: none.** **Santa Fe:** a direction only.
 - **Silence and Hope** do not act (M21). They are only the other side of the E47 brush.
 - **Caro does not entrust consequential unfinished work to others and leave** (M54).
@@ -652,7 +655,9 @@ pass 3 · E33 | approved · A9; mechanism B; link 7
 - **Wants:** Baz wants the building emptied. Harlow wants the evidence.
 - **Against:** they hold a stairwell door and **will not share their readings.** They call
   themselves contractors.
-- **Changes:** friction, and **lost time.** Later records identify them as Technarc (E42).
+- **Changes:** friction, and **lost time.** **Baz recognizes their kit** from Technarc's polite request
+  in B02 (E13): **the reader learns here that they are Technarc.** The public learns from footage in E42.
+  *(Corrected 09-27, ledger §189: this said only "later records identify them", against E21's guardrail.)*
 
 ### Guardrail
 They delay. They do not cause the Rupture, and they do not kill Baz.
@@ -897,7 +902,9 @@ pass 3 · E46 | approved · direction 3; the 09-26 ruling (he did not know); pas
 - **Encounter:** the anonymous author, in a rented room somewhere unnamed, reads the mortal reports.
   **S04** is among them: unexpected bystanders; a first responder died.
 - **Wants:** to know what his post did.
-- **Against:** the reports say only so much. **He did not know anyone was there.**
+- **Against:** the reports say only so much. **He did not know the man who died was there.** He posted a
+  warning, knowing people might be near. *(Corrected 09-27, ledger §189: this read "did not know anyone was
+  there", broader than the 09-26 ruling that he did not know Baz was there.)*
 - **Changes:**
   - **The private counterfactual:** without the post, fewer people; would the responders have
     reached the building sooner? **It is never answered.**

@@ -11623,4 +11623,36 @@ END OF ENTRY 188
 
 ===============================================================
 
+# 189. ChatGPT's review of B03 pass 4, checked; three pass-4 errors corrected — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a relayed review, Claude's check of it, and corrections of Claude's own errors in a proposal. Nothing is ruled.
+
+**Relayed by the author:** ChatGPT's read-only review of `proposals/B03_EPISODE_BEATS_PASS4_2026-09-27.md` (through 5f46a1b). It keeps the architecture and asks for one Warehouse logistics and information pass before the Veil trilogy audit.
+
+**Written:** `reports/B03_PASS4_CHATGPT_REVIEW_AND_PASS5_RECOMMENDATIONS_2026-09-27.md`. All five findings hold:
+1. B02's clearance becomes B03's containment with no identifiable decision.
+2. The child's route into the building is incoherent.
+3. The delayed identification of Baz lacks an information chain.
+4. Adjacent beats (E32, E34) argue for the causation the guardrails exclude.
+5. E41, E44 and E45 turn on the same fact; E48's change is thin.
+
+**Corrected in pass 4, with dated notes (Claude's errors):**
+- the standing Tahl guardrail was stricter than A10 and contradicted E46's unnamed POV;
+- E33 deferred Technarc's identification against E21's guardrail. Now Baz recognizes the kit from B02 E13, so the reader learns there and the public in E42;
+- E46 said Tahl "did not know anyone was there", broader than the ruling. Now "the man who died".
+
+**Recommended (six questions):**
+1. The protocol review's "advise and contain" rule in E09, citing Bywater's lack of injuries (and, optionally, Rosette's survival).
+2. The child's route through a dock gap, with the rescue exit through the dock door.
+3. An information chain table: the body seen but not recovered; Rieux injured and his log sealed; the child knows only "the man with the notebook".
+4. The staging shows observers' limits and a self-interested official account.
+5. A distinct change for each aftermath episode, including Lucien asking Helena for access.
+6. A focused pass 5 in a new file, then the Veil trilogy audit.
+
+**The hold that stands:** B01 EBCI.
+
+END OF ENTRY 189
+
+===============================================================
+
 END RECOVERY LEDGER
