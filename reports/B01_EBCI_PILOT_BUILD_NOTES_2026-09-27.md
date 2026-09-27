@@ -5,6 +5,8 @@
 author's narrative review (`decisions/POST_AUDIT_SEQUENCE_AND_EBCI_PILOT_AUTHOR_INSTRUCTION_2026-09-27.md`
 §4). **The review is the gate; these notes are not a verdict.** Claude wrote the packets it describes.
 
+**Reviewed 2026-09-27: the pilot passes, with revisions** (`decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md`): E31 Seraphine, E33 Baz and Tremé approved; F1 answered by the two-layer template (R3); F3 by `ENV` NONE (A4); F5 by POV-capable entities (R4); F7 kept as descriptive tracking (A3). **Act I released.**
+
 **What was built:** `templates/EBCI_PACKET_TEMPLATE.md`; `ebci/B01/S1.T1.B01.A2.E31.md` and
 `ebci/B01/S1.T1.B01.A2.E33.md`; 14 beat rows in `grids/episode_beats.csv`; four validator checks with
 nine self-tests (162 in all, passing).

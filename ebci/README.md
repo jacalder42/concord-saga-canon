@@ -1,6 +1,8 @@
 # ebci/ — episode production packets
 
-Status: PRODUCTION LAYER — **B01 two-packet pilot only.** Created 2026-09-27 when the author released
+Status: PRODUCTION LAYER. **The pilot passed (2026-09-27, `decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md`); the hold is released for B01 Act I only** (the prologue and E01–E17). A2 and A3 beyond E31/E33, and B02–B03, stay held.
+
+Originally: **B01 two-packet pilot only.** Created 2026-09-27 when the author released
 the B01 EBCI hold for the pilot (`decisions/SAGA_LOCK_AND_B01_EBCI_PILOT_RELEASE_AUTHOR_ANSWERS_2026-09-27.md`,
 Q-LS2). **Nothing else in B01, and nothing in B02 or B03, is released.**
 
@@ -15,6 +17,7 @@ Each packet's beats also have rows in `grids/episode_beats.csv`.
 
 ## Rules
 
+- **Two layers in one file** (pilot review R3): the **Narrative brief** is what a prose packet is built from; the **Control layer** (ECID, event record, breadcrumbs, tracking, provenance) is not passed to prose generation by default.
 - **Packets are not prose.** No dialogue, no scene text. They are built from the template in
   `templates/EBCI_PACKET_TEMPLATE.md` and are never fed raw to prose generation (a smaller Sudowrite
   packet is derived from a locked packet; `CLAUDE.md` §9 step 6).
@@ -24,5 +27,4 @@ Each packet's beats also have rows in `grids/episode_beats.csv`.
   §4): *"If I handed this to a good novelist, would it help them write a better scene—or would they
   spend their energy satisfying the packet?"* If E31 reads as predetermined, EBCI is simplified before
   any further packet is built.
-- **Next, only after that review:** B01 Act I, with the release-time envelope work (the `PR` overlay,
-  the A1 exceptions, the E36/E37 and E43/E44 relabel); then an audit; then Acts II and III.
+- **Now:** B01 Act I, with its release-time envelope work (the `PR` overlay, the A1 exception). **After Act I, stop for an audit** (did EBCI change downstream architecture; do the packets leave room for prose?), then return for authorisation for the rest of B01. The E36/E37 and E43/E44 relabel belongs to the A2/A3 release.

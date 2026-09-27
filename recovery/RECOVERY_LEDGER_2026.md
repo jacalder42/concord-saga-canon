@@ -12112,4 +12112,24 @@ END OF ENTRY 210
 
 ===============================================================
 
+# 211. The EBCI pilot passes; revisions R1–R4; the hold released for B01 Act I — 2026-09-27
+
+**Status:** LEDGER ENTRY. A production ruling and the revisions it requires before scaling.
+
+**The ruling** (`decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md`, indexed): the pilot passes the novelist test with revisions. E31 *"proves EBCI can leave an episode loose enough to live"*; E33 *"proves the system can constrain causality without dictating prose."* **Approved:** E31 POV Seraphine; **E33 POV Baz** (*"observation rather than interpretation"*) and **Tremé**; fun / slice of life / wonder stay descriptive tracking (no targets, minimums or validators); `ENV` may be `NONE`. **After the revisions the B01 EBCI hold is released for Act I only**; stop after Act I for an audit; A2/A3 beyond the pilot and B02/B03 stay held.
+
+**Revisions applied:**
+- **R1** `ebci/B01/S1.T1.B01.A2.E31.md`: the turn reframed (*the night changes how Seraphine sees someone at the table, or her place among them* [P: likely Lucien]); the pilot's BT04–BT05 merged and loosened into BT04; five beat rows replace six.
+- **R2** `ebci/B01/S1.T1.B01.A2.E33.md`: BT07 now carries only what Baz sees (Lucien tries, checks himself, tries again, gets nowhere); what Lucien perceives is withheld until he reports it. Place fixed to NOLA-01 Tremé.
+- **R3** `templates/EBCI_PACKET_TEMPLATE.md` rebuilt: **Header → Narrative brief** (story job, want, turn, reader experience, must preserve / must not spend, exit state, optional opposition / consequence / unresolved, page-safe causal constraints for events; loose beats; supplements) **→ Control layer** (ECID, event record with per-beat observation classes, breadcrumbs and amendments, tracking, notes). Same file; prose packets consume the brief. Both pilot packets rebuilt to it.
+- **R4** `rules/canon_rules.json` gains **`pov_entities`** (Silence and Hope, metaphysical constructs, with authority and scope as guidance); `CHK_POV` now accepts **an authorised POV-capable narrative entity**. **The cast registry is untouched.** Also `_ENV_applicability_note` in `systems.id_system` (A4).
+- **Validator:** section parsing reads `##` and `###` headings (the two-layer template). **Self-tests: 164** (two new: declared entities, two-layer parsing).
+- `ebci/README.md`, the build notes and `CLAUDE.md` updated.
+
+**Unchanged:** rulings, milestones, cards, Mechanica, the cast registry. Next: the Act I release work and packets (§212).
+
+END OF ENTRY 211
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -142,6 +142,7 @@
         "HEAT",
         "FX"
       ],
+      "_ENV_applicability_note": "Added 2026-09-27 (decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md A4). ENV is NONE unless the episode occupies a Mechanica-relevant environmental state. Most ordinary episodes are NONE. No ordinary-environment category exists, on purpose: the field is not a universal episode property.",
       "ECID_fields_optional_note": "Optional at shell granularity. Recovered structural episode shells (the Book 3 Act III set in the Saga structural archive export) carry no Heat or FX; full episode packets do. Ruled 2026-09-19. A record omitting them is reported as a notice, not a violation.",
       "SID_format_note": "The act slot holds five STRUCTURAL POSITIONS, not five acts. A1-A3 are the three acts every book has; PR (prologue) and EP (epilogue) sit OUTSIDE the act model alongside them. Ruled 2026-09-20, GATE_RULINGS_2026-09-20.md Ruling 6. 27 acts remains the cap: 9 books x 3 acts, and a prologue is not an act. Previous form: S1.T{1-3}.B{01-09}.A{1-3}.E{00-99}"
     },
@@ -302,6 +303,23 @@
       "_extensible_note": "The ceiling is not fixed at 5. T2 currently uses only 4 and 5 across three books, which is compression, not escalation; widening the scale or rebasing T2 is permitted and needs no further ruling. T1 already spans 1-5 and T3 spans 1-5 (distinct 1,3,4,5), so T2 is the only compressed trilogy.",
       "_direction_note": "Trilogies do not all run the same way. T1 and T2 RISE; T3 FALLS - it opens at its maximum in B07 and ends at its minimum after the Mending. Any per-trilogy anchoring must define 1 as the trilogy's MINIMUM and 5 as its MAXIMUM, never as \"opening\" and \"peak\": for T3 the opening IS the peak, and the opening-baseline form would invert the scale."
     }
+  },
+  "pov_entities": {
+    "_note": "Added 2026-09-27 (decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md R4). The POV concept is an AUTHORISED POV-CAPABLE NARRATIVE ENTITY: any cast member (a canon/characters/ card, or a person in canon/cast_registry.csv), or an entity declared here. Entities here are narrative perspectives that are not ordinary cast, such as metaphysical constructs; declaring them keeps their ontology out of the human cast registry. CHK_POV reads this list. pov_scope records where each is authorised to carry a point of view; it is guidance and is not machine-enforced.",
+    "entities": [
+      {
+        "name": "Silence",
+        "kind": "metaphysical construct",
+        "authority": "decisions/MIRA_AND_SILENCE_HOPE_ORIGIN_AUTHOR_RULING_2026-09-26.md (Silence and Hope are metaphysical constructs without a clear beginning); v4.1b prologue",
+        "pov_scope": "the B01 prologue (PR); VeilThread interludes"
+      },
+      {
+        "name": "Hope",
+        "kind": "metaphysical construct",
+        "authority": "decisions/MIRA_AND_SILENCE_HOPE_ORIGIN_AUTHOR_RULING_2026-09-26.md; decisions/HOPE_LACUNA_KADE_AND_M54_AUTHOR_ANSWERS_2026-09-26.md (the Hope Bible stands); v4.1b prologue",
+        "pov_scope": "the B01 prologue (PR); VeilThread interludes"
+      }
+    ]
   },
   "breadcrumb_grid": {
     "_status": "Schema for grids/breadcrumbs.csv, activated 2026-09-27 by author instruction (decisions/PROGRESSIVE_RESOLUTION_SEQUENCE_AUTHOR_INSTRUCTION_2026-09-27.md; proposals/BREADCRUMB_LEDGER_ACTIVATION_2026-09-27.md). The first nine columns are the original header; payoff_dependency, payoff_function and payoff_locator were appended when the file had no rows. A breadcrumb's identity is its function and payoff, not an episode: SIDs are locators and may move. Checked by tools/validate_canon.py CHK_BREADCRUMB_GRID (structure only; whether a plant is worth keeping is editorial).",

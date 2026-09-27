@@ -62,9 +62,12 @@ CHK_PACKET_LINKS Every `BC-` id and milestone id a packet cites resolves (a reti
                  milestone is a notice). A LOCKED breadcrumb carried on the packet's
                  `Breadcrumbs:` line must be placed at this SID: in its introducing or
                  reinforcing SIDs, or at its payoff locator.
-CHK_POV          The POV names a known cast member: a `canon/characters/` card or a
-                 person in `canon/cast_registry.csv`, by name, first name or quoted
-                 nickname. `ensemble` is not a POV.
+CHK_POV          The POV resolves to an authorised POV-capable narrative entity: a cast
+                 member (a `canon/characters/` card or a person in
+                 `canon/cast_registry.csv`, by name, first name or quoted nickname), or
+                 an entity declared in canon_rules.json `pov_entities` (Silence and Hope,
+                 metaphysical constructs kept out of the cast registry; generalised
+                 2026-09-27 by the pilot review, R4). `ensemble` is not a POV.
 CHK_VT_CAP       `VT` Glimpses are capped at 10-12 across all nine books
                  (`supplement_system.constraints`). Exceeding the maximum is a
                  violation; being under the minimum is not, since the saga is
@@ -666,14 +669,21 @@ def _words(text):
     return [w for w in re.split(r"[\s\"“”'‘’()]+", text) if w]
 
 
-def load_known_cast():
-    """First names, full names and quoted nicknames of known cast members.
+def load_known_cast(rules=None):
+    """Names of authorised POV-capable narrative entities.
+
+    Cast members (first names, full names and quoted nicknames), plus the entities
+    declared in canon_rules.json `pov_entities`.
 
     Sources: the Tier-1 cards in canon/characters/ (file stems) and the people in
     canon/cast_registry.csv. Registry bundle G is places and relationships, not
     people, and is skipped.
     """
     known = set()
+    rules = load_rules() if rules is None else rules
+    for ent in rules.get("pov_entities", {}).get("entities", []):
+        if isinstance(ent, dict) and ent.get("name"):
+            known.add(ent["name"].casefold())
     cdir = os.path.join(REPO, "canon", "characters")
     if os.path.isdir(cdir):
         for name in os.listdir(cdir):
@@ -720,8 +730,9 @@ def pov_is_known(value, known):
 def _check_pov(value, where, path, line, known, out):
     if value.strip().upper() in PLACEHOLDERS or not pov_is_known(value, known):
         out.append(Violation("CHK_POV", rel(path), line, value,
-                             f"{where}: POV must name a known cast member "
-                             "(canon/characters/ or canon/cast_registry.csv)"))
+                             f"{where}: POV must resolve to an authorised POV-capable "
+                             "narrative entity (a cast member, or canon_rules.json "
+                             "pov_entities)"))
 
 
 def _check_bid(sid, bt, expected_sid, path, line, sidfmt, out):
@@ -811,10 +822,17 @@ def check_episode_beats_grid(path, sidfmt, vocab, out, known_cast=None, cache=No
 
 
 def _sections(text):
+    """Group a packet's lines under their nearest `##` or `###` heading.
+
+    Keyed by the heading's first word, lower-cased: `header`, `ecid`, `beats`,
+    `obligations`. The two-layer template (2026-09-27) nests Beats under the
+    Narrative brief and ECID and Obligations under the Control layer.
+    """
     sections, current = {}, ""
     for lineno, line in enumerate(text.splitlines(), 1):
-        if line.startswith("## "):
-            current = line[3:].strip().split(" ")[0].strip("()").lower()
+        m = re.match(r"^#{2,3} (.+)$", line)
+        if m:
+            current = m.group(1).strip().split(" ")[0].strip("()").lower()
             continue
         sections.setdefault(current, []).append((lineno, line))
     return sections

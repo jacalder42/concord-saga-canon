@@ -1327,6 +1327,30 @@ class EbciPilotChecks(unittest.TestCase):
                                           "FX0", "S1.T1.B01.A2.E31-BT01"]]),
                          ["CHK_POV"])
 
+    def test_declared_pov_entities_are_authorised(self):
+        """R4 (2026-09-27): Silence and Hope are POV-capable without being cast."""
+        names = [e["name"] for e in RULES["pov_entities"]["entities"]]
+        self.assertEqual(sorted(names), ["Hope", "Silence"])
+        for ok in ("Silence", "Hope", "Silence + Hope"):
+            self.assertEqual(packet_problems(packet(sid="S1.T1.B01.A2.E31", pov=ok)), [], ok)
+        import csv as _csv
+        with open(os.path.join(vc.REPO, "canon", "cast_registry.csv"), encoding="utf-8",
+                  newline="") as fh:
+            registry_names = {r["name"] for r in _csv.DictReader(fh)}
+        self.assertFalse(registry_names & {"Silence", "Hope"},
+                         "Silence and Hope are not registered as ordinary cast")
+
+    def test_two_layer_packets_parse_by_subsection(self):
+        """The two-layer template nests Beats, ECID and Obligations under ###."""
+        text = (packet().replace("## ECID", "## Control layer\n\n### ECID")
+                .replace("## Beats", "## Narrative brief\n\n### Beats")
+                .replace("## Obligations", "### Obligations"))
+        self.assertEqual(packet_problems(text), [])
+        self.assertIn("CHK_BID_FORMAT", packet_problems(
+            text.replace("S1.T1.B01.A2.E31-BT01", "S1.T1.B01.A2.E30-BT01")))
+        self.assertEqual(packet_problems(text.replace("| U1 |", "| U6 |")),
+                         ["CHK_EPISODE_BAND"])
+
     def test_ebci_is_scanned_and_held_to_canon_scope(self):
         self.assertIn("ebci", vc.EBCI_DIRS)
         self.assertNotIn("ebci", vc.PROSE_DIRS)
