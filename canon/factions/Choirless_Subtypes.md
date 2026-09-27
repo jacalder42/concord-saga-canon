@@ -245,3 +245,39 @@ These subtypes can:
 - mutate as pressure increases
 
 Escalation path (typical):
+```
+Bereaved → Quietists → Levelers
+```
+
+De-escalation path (rare):
+```
+Levelers → Quietists → Bereaved → Recovery
+```
+
+---
+
+## USAGE GUIDELINES (LOCK)
+
+- Subtypes are **situational**, not permanent
+- Do not assign named leaders to subtypes
+- Do not individualize them beyond momentary human detail
+- Let environment + pressure determine expression
+
+The Choirless are frightening because they are **predictable**.
+
+---
+
+## CROSS-REFERENCES
+
+- `Choirless.md`
+- `ItoEBCI.md`
+- `SaekoEBCI.md`
+- Antagonist Architecture Bible
+- Environment & Resonance Topology Canon
+
+---
+
+> **Restored 2026-09-27** (author instruction, `decisions/ANTAGONIST_HOUSEKEEPING_AUTHOR_INSTRUCTION_2026-09-27.md`; ledger §167). This file was committed ending at
+> *"Escalation path (typical):"* (c888945). Everything after that line is restored verbatim from its source,
+> `sources/chatgpt_export_2026-09/2026-01-04__Antagonist_and_Faction_Files__695aa186.md` (lines 7400–7428). The source had wrapped the card in a code fence, and the card's own
+> inner fence closed it early, which is why the ending was lost. Nothing above that line is changed.

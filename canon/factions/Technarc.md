@@ -219,6 +219,6 @@ They are the institutional antagonist of **logic divorced from humanity**.
 
 - `HanWeiID.md`
 - `HanWeiEBCI.md`
-- `han_wei_pov.md`
+- `canon/pov/HanWeiPOV.md` *(path corrected 2026-09-27; was `han_wei_pov.md`)*
 - Antagonist Architecture Bible
 - Mechanica v4

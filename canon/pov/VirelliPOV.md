@@ -149,6 +149,6 @@ The world must outgrow him.
 ## CROSS-REFERENCES
 
 - `VirelliID.md`
-- `VirelliBackstory.md`
+- `VirelliBackstory.md` *(not yet written; flagged 2026-09-27)*
 - `VirelliEBCI.md`
 - `Dominions.md`

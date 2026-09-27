@@ -24,7 +24,7 @@ This positions Elias as someone who:
 ## III. Geographic Origin
 - **Birthplace / Childhood:** East Beach area, Ocean Springs, Mississippi
 - **Environmental Imprint:** Gulf Coast fragility — storms, flooding, insurance failures, slow institutional abandonment
-- **Relocation:** New Orleans, late Neon — drawn by MT after the troubles took his Brightbreak following *(corrected 2026-09-26 (author ruling 2026-09-26, `decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md`); previously "Early Adulthood Relocation: New Orleans (pre-Neon)")*
+- **Relocation:** New Orleans, around Tahl's funeral (after it, or just before; the funeral opens B07) — drawn by MT after the troubles took his Brightbreak following. Not in New Orleans during B06 *(aligned 2026-09-27 to G9, `decisions/B05_B07_ROUTE_CLOCK_AUTHOR_ANSWERS_2026-09-27.md`, by author instruction, `decisions/ANTAGONIST_HOUSEKEEPING_AUTHOR_INSTRUCTION_2026-09-27.md`; read "New Orleans, late Neon" before that)* *(corrected 2026-09-26 (author ruling 2026-09-26, `decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md`); previously "Early Adulthood Relocation: New Orleans (pre-Neon)")*
 
 The Gulf Coast teaches Elias that:
 - disaster is cyclical

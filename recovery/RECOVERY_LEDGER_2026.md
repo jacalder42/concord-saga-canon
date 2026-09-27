@@ -10985,4 +10985,30 @@ END OF ENTRY 166
 
 ===============================================================
 
+# 167. Antagonist housekeeping applied — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an author instruction and the fixes applied under it. No creative decision is made.
+
+**The author, verbatim:** "fix the housekeeping"
+
+**Recorded in** `decisions/ANTAGONIST_HOUSEKEEPING_AUTHOR_INSTRUCTION_2026-09-27.md`.
+
+**Applied:**
+1. **`canon/factions/Choirless_Subtypes.md`:** the ending, lost at commit c888945, is restored verbatim from `sources/chatgpt_export_2026-09/2026-01-04__Antagonist_and_Faction_Files__695aa186.md` lines 7400–7428. It covers the escalation and de-escalation paths, the usage guidelines (LOCK) and the cross-references. Cause: a nested code fence in the source. The diff is additions only.
+2. **`canon/cast_registry.csv`:** row **E04 Elias Ward** is added after E03. Only that line is inserted, and the file's mixed line endings are preserved. The content comes from the corrected Tier-1 cards and the rulings; the ending is OPEN.
+3. **EliasRender** states 1–2 and the **EliasAppearance** progression labels are relabelled, with the visuals unchanged. Each card gets a conflict ledger holding the old labels.
+4. **EliasID §III and EliasEBCI Neon:** the relocation is aligned to G9 ("around Tahl's funeral … Not in New Orleans during B06"), with the old wording quoted inline. The Elias card-corrections ruling gets a follow-up pointer.
+5. **Cross-references:** 14 POV references now point to the existing `canon/pov/*POV.md` files. The three `VirelliBackstory.md` references are flagged "not yet written".
+6. **`canon/trilogy_veil.md`:** a sources line is added under the antagonist-pressure TODO. The TODO is kept.
+
+**Correction to §166's report:** `ItoPOV.md` and `SaekoPOV.md` exist. Only `VirelliBackstory.md` is missing. The report carries a note.
+
+**Still open:** the report's three shaping questions and its remaining eight contradictions.
+
+**The holds stand.**
+
+END OF ENTRY 167
+
+===============================================================
+
 END RECOVERY LEDGER

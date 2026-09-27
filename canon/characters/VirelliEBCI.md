@@ -243,6 +243,6 @@ Virelli is a test of whether the system itself can be the antagonist.
 ## CROSS-REFERENCES
 
 - `VirelliID.md` — identity and ideology
-- `VirelliBackstory.md` — psychological depth
-- `virelli_pov.md` — POV constraints
+- `VirelliBackstory.md` *(not yet written; flagged 2026-09-27)* — psychological depth
+- `canon/pov/VirelliPOV.md` *(path corrected 2026-09-27; was `virelli_pov.md`)* — POV constraints
 - `Dominions.md` — factional context

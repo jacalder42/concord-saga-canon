@@ -138,7 +138,7 @@ He **narrows perceived options** until one remains.
 ### NEON
 - Unnamed: present only as the Brightbreak online handle (foreshadowing)
 - The handle gains influence, then loses it as comms and MT infrastructure fail
-- Late Neon: goes to New Orleans to reach MT, the last broadly working channel
+- Around Tahl's funeral (after it, or just before): goes to New Orleans to reach MT, the last broadly working channel. Not in New Orleans during B06 *(aligned 2026-09-27 to G9 by author instruction, `decisions/ANTAGONIST_HOUSEKEEPING_AUTHOR_INSTRUCTION_2026-09-27.md`; read "Late Neon: goes to New Orleans…" before that)*
 - Has not identified Kade; that happens at Tahl's funeral (Book 7)
 
 *Corrected 2026-09-26 (author ruling 2026-09-26, `decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md`). Previously: Veil "Minimal presence / Observational phase / Pattern recognition only"; Neon "Peripheral engagement / Early testing of amplification logic / Identifies Kade as future vector."*

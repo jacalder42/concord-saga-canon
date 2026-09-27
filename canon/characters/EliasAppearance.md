@@ -118,19 +118,19 @@ Nothing he wears should look expensive or ideological.
 
 ### TRILOGY PROGRESSION
 
-**Veil / Early Neon**
+**Before New Orleans (backstory; no on-page Veil or Neon presence)**
 - Casual professional layers
 - Button-downs
 - Light jackets
 - Neutral tones
 
-**Late Neon**
+**Arrival in New Orleans (around Tahl's funeral, B07 opening)**
 - Utility jackets
 - Cargo pants or durable slacks
 - Comfortable shoes
 - Always prepared to move
 
-**Loom**
+**Loom (B07 onward)**
 - Crisis-functional clothing
 - Weather-resistant jackets
 - Neutral palettes (gray, olive, navy)
@@ -208,6 +208,17 @@ Elias Ward looks like:
 
 His danger is not in how he looks—
 it’s in how easily people trust him.
+
+---
+
+## CANON CONFLICT LEDGER (PRESERVED RECORD)
+
+**2026-09-27, author instruction** (`decisions/ANTAGONIST_HOUSEKEEPING_AUTHOR_INSTRUCTION_2026-09-27.md`, relabel only; ledger §167), following E1–E2 and G9.
+Superseded trilogy-progression labels, wardrobe unchanged:
+
+- "Veil / Early Neon"
+- "Late Neon"
+- "Loom"
 
 ---
 

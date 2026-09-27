@@ -197,5 +197,5 @@ it is **incapacity**.
 
 - `HanWeiID.md`
 - `HanWeiEBCI.md`
-- `han_wei_pov.md`
+- `canon/pov/HanWeiPOV.md` *(path corrected 2026-09-27; was `han_wei_pov.md`)*
 - `Technarc.md`

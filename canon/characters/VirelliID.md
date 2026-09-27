@@ -158,7 +158,7 @@ He is **outgrown**.
 
 ## CROSS-REFERENCES
 
-- See `VirelliBackstory.md` for cultural and psychological depth  
+- See `VirelliBackstory.md` *(not yet written; flagged 2026-09-27)* for cultural and psychological depth  
 - See `VirelliEBCI.md` for operational and scene-level rules  
-- See `virelli_pov.md` for POV constraints  
+- See `canon/pov/VirelliPOV.md` *(path corrected 2026-09-27; was `virelli_pov.md`)* for POV constraints  
 - See `Dominions.md` for institutional context

@@ -7,6 +7,8 @@ authority, and lists contradictions, unknowns and housekeeping defects.
 - It **designs no arc**, and it **changes no canon, card, rule, registry row, grid row or ruling**.
 - Unknown cells stay `?`. That is the finding, not a gap to fill.
 
+> **Housekeeping applied 2026-09-27** (`decisions/ANTAGONIST_HOUSEKEEPING_AUTHOR_INSTRUCTION_2026-09-27.md`, ledger §167): all six §6 items are fixed, and so are §5 #4 and #5. Correction: `ItoPOV.md` and `SaekoPOV.md` do exist; only `VirelliBackstory.md` is missing.
+
 **Asked:** the author, *"we have run saga protagonist location and action/event grids for
 protagonists, but I'm not sure we have done the same for antagonists and their factions. It feels
 like we need to resolve their arcs, entrances, exits, milestones, etc."*

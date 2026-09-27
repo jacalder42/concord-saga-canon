@@ -220,5 +220,5 @@ Han Wei is the antagonist of logic without empathy.
 
 - `HanWeiID.md`
 - `HanWeiBackstory.md`
-- `han_wei_pov.md`
+- `canon/pov/HanWeiPOV.md` *(path corrected 2026-09-27; was `han_wei_pov.md`)*
 - `Technarc.md`

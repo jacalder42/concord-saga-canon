@@ -160,5 +160,5 @@ To feel deeply is to risk collapse.
 
 - `SaekoID.md`
 - `SaekoEBCI.md`
-- `saeko_pov.md`
+- `canon/pov/SaekoPOV.md` *(path corrected 2026-09-27; was `saeko_pov.md`)*
 - `Choirless.md`

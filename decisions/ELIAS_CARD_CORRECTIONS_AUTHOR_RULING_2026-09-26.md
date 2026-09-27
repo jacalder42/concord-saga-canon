@@ -144,3 +144,16 @@ failure-condition lines. These are consistent with the author.
 No grid row (M20's new placement goes into the proposed copy). No episode. No EBCI status. The
 Choirless canon card. TahlEBCI's Tier-1 lines. The hard-cap ruling (§1 of the 09-26 wounds ruling),
 which the author confirmed *"in general."*
+
+---
+
+## Follow-up (2026-09-27): E3 aligned to G9
+
+E3's *"late Neon"* is narrowed by the later ruling G9
+(`decisions/B05_B07_ROUTE_CLOCK_AUTHOR_ANSWERS_2026-09-27.md`): Elias arrives **around the funeral**, and
+is not in New Orleans during B06.
+
+- EliasID and EliasEBCI now say so, by author instruction (`decisions/ANTAGONIST_HOUSEKEEPING_AUTHOR_INSTRUCTION_2026-09-27.md`).
+- Elias's Appearance and Render era labels were relabelled at the same time. Their visuals are
+  unchanged.
+

@@ -178,5 +178,5 @@ So he doubles down.
 
 - `ItoID.md`
 - `ItoEBCI.md`
-- `ito_pov.md`
+- `canon/pov/ItoPOV.md` *(path corrected 2026-09-27; was `ito_pov.md`)*
 - `Choirless.md`

@@ -15,8 +15,8 @@ If a viewer distrusts Elias on first sight, the render has failed.
 
 ## CANONICAL RENDER STATES
 
-### 1. BASELINE — VEIL / EARLY NEON
-**Usage:** Initial appearances, background coordination, early leverage
+### 1. BASELINE — ARRIVAL IN NEW ORLEANS (B07 ACTS I–II)
+**Usage:** First on-page appearances after arriving around Tahl's funeral; background coordination; early leverage
 
 **Visual Read**
 - Average build, forgettable silhouette
@@ -35,8 +35,8 @@ If a viewer distrusts Elias on first sight, the render has failed.
 
 ---
 
-### 2. ENGAGED — NEON
-**Usage:** Active persuasion, pressure escalation, early Brightbreak coordination
+### 2. ENGAGED — LOOM (FROM B07 ACT III)
+**Usage:** Active persuasion, pressure escalation, early coordination of Brightbreak as a movement
 
 **Visual Read**
 - Same silhouette
@@ -168,6 +168,20 @@ Across all renders, Elias Ward must:
 - never look exceptional
 
 His threat emerges **over time**, not at first glance.
+
+---
+
+## CANON CONFLICT LEDGER (PRESERVED RECORD)
+
+**2026-09-27, author instruction** (`decisions/ANTAGONIST_HOUSEKEEPING_AUTHOR_INSTRUCTION_2026-09-27.md`, relabel only; ledger §167). Elias has no Veil presence and is
+only an unnamed online handle in Neon (`decisions/ELIAS_CARD_CORRECTIONS_AUTHOR_RULING_2026-09-26.md` E1–E2;
+`decisions/LOOM_WOUNDS_AND_ELIAS_AUTHOR_ANSWERS_2026-09-26.md`). He arrives in New Orleans around the funeral
+(`decisions/B05_B07_ROUTE_CLOCK_AUTHOR_ANSWERS_2026-09-27.md` G9). Superseded labels, visuals unchanged:
+
+- State 1: "BASELINE — VEIL / EARLY NEON", usage "Initial appearances, background coordination, early leverage"
+- State 2: "ENGAGED — NEON", usage "Active persuasion, pressure escalation, early Brightbreak coordination"
+
+States 3–5 and the prompt pack are unchanged.
 
 ---
 
