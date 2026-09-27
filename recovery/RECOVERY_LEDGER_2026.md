@@ -12349,4 +12349,24 @@ END OF ENTRY 223
 
 ===============================================================
 
+# 224. Veil prose-ready; the last four decisions; the prose-packet pilot — 2026-09-27
+
+**Status:** LEDGER ENTRY. Records `decisions/VEIL_PROSE_PREPARATION_AND_PROSE_PACKET_PILOT_AUTHOR_RULING_2026-09-27.md` (production ruling; approved design; one authorised destructive edit).
+
+**Answered:** Q-V3-1, **B03 E21 is Seraphine's POV** (E12 → E21 → E35; Mara may be present); Q-V3-2, *Resonance* stays out of Veil's public and page language, Neon earns it with no episode preselected; Q-V3-4, B03 runs September through early October (the packets' months lose `[P]`), RES RUPTURE at E36–E38 is control-only, the `EP` overlay is a positional container.
+
+**Destructive edit (authorised, Q-V3-3):** `act_overlays/act_overlay_S1_T1_B03_A3.json` **loses its only exception**, a W4 weather exception at `S1.T1.B03.A3.E14` (a pre-pass-3 number; reason *"First VT brush Tahl notices in the Veil trilogy"*; source `proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md`). W4 is Landfall; the brush is now private, at his screens (EP E47, W3). **Removed, not relocated; no replacement.** The overlay carries a `_retired_exceptions_note`; the `EP` overlay's note is updated.
+
+**New production rule:** **prose packets derive from the Narrative Brief only.** Writer Options, codes, ids, causal-card terms, tracking, provenance, future pointers, validator language and editorial explanations stay behind the writer; an option enters only by episode-specific promotion. Recorded in `templates/EBCI_PACKET_TEMPLATE.md` and `ebci/prose/README.md`.
+
+**Built (the pilot):** `ebci/prose/B01/B01-E31.md` (213 words; no beats) and `B01-E33.md` (334 words; six fixed facts, how Baz sees, the page-safe limits). Different shapes on purpose. Notes: `reports/B01_PROSE_PACKET_PILOT_NOTES_2026-09-27.md`, with Claude's self-check and two lines offered for cutting. **No canonical prose is written.**
+
+**Next:** the author's review of the two packets. If it passes: act by act (B01 Act I packets immediately before drafting Act I; reconcile; then Act II); Veil continuity reconciled after B01 before B02's packets. Never all 144 at once.
+
+**Checks:** canon scope 0 violations; 170 self-tests pass; no drift.
+
+END OF ENTRY 224
+
+===============================================================
+
 END RECOVERY LEDGER

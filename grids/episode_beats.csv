@@ -252,8 +252,8 @@ S1.T1.B03.A2.E19,Kesi Albright + a night-shift forklift operator [anonymous witn
 S1.T1.B03.A2.E19,Kesi Albright + a night-shift forklift operator [anonymous witness],NONE,U1,W1,CIV,H0,FX1,CALM,L1,S1.T1.B03.A2.E19-BT02,the operator,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E19.md; values are the episode end state
 S1.T1.B03.A2.E20,"Bastien ""Baz"" Arnaud",NONE,U1,W1,SCI,H0,FX1,CALM,L1,S1.T1.B03.A2.E20-BT01,the counts,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E20.md; values are the episode end state
 S1.T1.B03.A2.E20,"Bastien ""Baz"" Arnaud",NONE,U1,W1,SCI,H0,FX1,CALM,L1,S1.T1.B03.A2.E20-BT02,what they will not publish,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E20.md; values are the episode end state
-S1.T1.B03.A2.E21,Mara / M,NONE,U1,W1,CIV,H0,FX1,CALM,L1,S1.T1.B03.A2.E21-BT01,the door,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E21.md; values are the episode end state
-S1.T1.B03.A2.E21,Mara / M,NONE,U1,W1,CIV,H0,FX1,CALM,L1,S1.T1.B03.A2.E21-BT02,the unmarked readers,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E21.md; values are the episode end state
+S1.T1.B03.A2.E21,Seraphine Vael,NONE,U1,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A2.E21-BT01,the door,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E21.md; values are the episode end state
+S1.T1.B03.A2.E21,Seraphine Vael,NONE,U1,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A2.E21-BT02,word of the unmarked readers,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E21.md; values are the episode end state
 S1.T1.B03.A2.E22,Caro,NONE,U1,W1,CIV,H0,FX1,CALM,L3,S1.T1.B03.A2.E22-BT01,the shelters,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E22.md; values are the episode end state
 S1.T1.B03.A2.E22,Caro,NONE,U1,W1,CIV,H0,FX1,CALM,L3,S1.T1.B03.A2.E22-BT02,the rig,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E22.md; values are the episode end state
 S1.T1.B03.A2.E22,Caro,NONE,U1,W1,CIV,H0,FX1,CALM,L3,S1.T1.B03.A2.E22-BT03,the list,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E22.md; values are the episode end state

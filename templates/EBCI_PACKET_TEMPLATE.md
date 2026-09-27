@@ -31,6 +31,10 @@ does not stage the scene.**
 (secondary images a writer may take or leave), breadcrumbs, tracking and provenance. **Not passed to
 prose generation by default.**
 
+**Prose packets derive from the Narrative Brief only** (09-27, `ebci/prose/README.md`). Writer options
+are excluded unless promoted for a specific episode; no codes, ids, provenance or future pointers reach
+prose.
+
 **Prose packets state constraints positively and compactly**, keeping every page-protecting
 prohibition. The author's example, for the prologue: *brief, abstract, beautiful; two unnamed presences
 perceive strain but cannot intervene; reveal no cosmology or future.*

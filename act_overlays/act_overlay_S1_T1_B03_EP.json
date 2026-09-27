@@ -21,7 +21,7 @@
     "exceptions": [],
     "basis": "inherited",
     "source": "act_overlays/act_overlay_S1_T1_B03_A3.json (verbatim; no epilogue envelope is ruled)",
-    "basis_note": "A3's W4 exception names S1.T1.B03.A3.E14, a pre-pass-3 number, for 'the first VT brush Tahl notices', which the approved architecture places at EP E47. It is NOT carried here; whether it moves to S1.T1.B03.EP.E47 is put to the author at the B03 + Veil audit."
+    "basis_note": "Confirmed 2026-09-27 (decisions/VEIL_PROSE_PREPARATION_AND_PROSE_PACKET_PILOT_AUTHOR_RULING_2026-09-27.md Q-V3-4): a positional container inheriting A3's band, not a fourth act and not a new envelope. A3's stale W4 exception was retired, not moved (Q-V3-3)."
   },
   "deltas": "TODO",
   "act_success_criteria": "TODO",

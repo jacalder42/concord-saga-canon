@@ -17,15 +17,8 @@
       "min": "FX1",
       "max": "FX2"
     },
-    "exceptions": [
-      {
-        "sid": "S1.T1.B03.A3.E14",
-        "axis": "weather",
-        "value": "W4",
-        "scope": "brief",
-        "reason": "First VT brush Tahl notices in the Veil trilogy"
-      }
-    ],
+    "exceptions": [],
+    "_retired_exceptions_note": "RETIRED 2026-09-27 by author ruling (decisions/VEIL_PROSE_PREPARATION_AND_PROSE_PACKET_PILOT_AUTHOR_RULING_2026-09-27.md Q-V3-3): a W4 weather exception at S1.T1.B03.A3.E14 (a pre-pass-3 number; reason 'First VT brush Tahl notices in the Veil trilogy'). W4 is Landfall; the brush is now private, at his screens (EP E47, W3). Removed, not relocated; no replacement W4. Provenance: proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md; ledger 224.",
     "basis": "observed",
     "source": "proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
     "basis_note": "floor U1/W0 at E15-E18; peak U4/W3 at E13; W4 exception at E14"
