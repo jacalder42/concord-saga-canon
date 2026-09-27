@@ -20,8 +20,8 @@ If Kade looks composed, he is being misrendered.
 
 ## CANONICAL RENDER STATES
 
-### 1. BASELINE — NEON (EARLY–MID)
-**Usage:** Kade’s rise as an MT-adjacent voice
+### 1. BASELINE — LATE NEON LISTENER → LOOM EMERGENCE (B04–B07 ACT II)
+**Usage:** Baseline look; from the B07 funeral, Kade’s rise as an MT voice
 
 **Visual Read**
 - Kinetic, forward-leaning silhouette
@@ -41,8 +41,8 @@ If Kade looks composed, he is being misrendered.
 
 ---
 
-### 2. AMPLIFIED — NEON (LATE)
-**Usage:** Narrative runaway phase
+### 2. AMPLIFIED — LOOM (B07 ACT III)
+**Usage:** Narrative runaway phase: the post that breaks New Orleans, as Elias begins to subvert him
 
 **Visual Read**
 - Same physical body
@@ -154,10 +154,10 @@ Camera should feel like it’s trying to keep up with him.
 
 ## CANONICAL PROMPT PACK
 
-### Portrait — Neon
+### Portrait — Baseline
 > wiry young man with messy copper-brown curls, expressive green eyes, forward-leaning posture, layered resopunk clothing, kinetic energy, natural urban lighting, no glow, documentary realism
 
-### Dynamic — Amplified Neon
+### Dynamic — Amplified (Loom)
 > emotionally charged figure mid-motion, storm-light arcs tracing curls and shoulders, spiral geometry barely visible, layered denim and canvas, intense expression, cinematic motion blur, no superhero effects
 
 ### Loom — Fracture
@@ -191,6 +191,18 @@ Across all renders, Kade Harper must:
 - never look in control before he earns it
 
 If a render inspires admiration instead of concern, it has failed.
+
+---
+
+## CANON CONFLICT LEDGER (PRESERVED RECORD)
+
+**2026-09-27, author ruling** (`decisions/SAGA_LOCK_CONFIRMATIONS_AUTHOR_ANSWERS_2026-09-27.md` #3, relabel approved; see also
+`decisions/SAGA_STRUCTURE_ADJUDICATION_AUTHOR_ANSWERS_2026-09-27.md` Q4: no public rise before
+Tahl's death). Superseded labels, visuals unchanged:
+
+- State 1: "BASELINE — NEON (EARLY–MID)", usage "Kade’s rise as an MT-adjacent voice"
+- State 2: "AMPLIFIED — NEON (LATE)", usage "Narrative runaway phase"
+- Prompt pack: "Portrait — Neon", "Dynamic — Amplified Neon"
 
 ---
 

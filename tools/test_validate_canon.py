@@ -770,10 +770,11 @@ class MilestoneGridRatchet(unittest.TestCase):
             "M50", "M52", "M53"])
         # Retirements need an explicit ruling. M29: the approved copy. M15, M19, M22:
         # the author's clarification of 2026-09-26 (items 3-5), recorded in
-        # decisions/NEON_MILESTONE_ARCHITECTURE_AUTHOR_RULING_2026-09-26.md.
+        # decisions/NEON_MILESTONE_ARCHITECTURE_AUTHOR_RULING_2026-09-26.md. M36: folded
+        # into M53 by decisions/SAGA_LOCK_CONFIRMATIONS_AUTHOR_ANSWERS_2026-09-27.md #2.
         retired = sorted((r["milestone_id"] for r in rows if r["status"] == "retired"),
                          key=lambda m: int(m[1:]))
-        self.assertEqual(retired, ["M15", "M19", "M22", "M29"])
+        self.assertEqual(retired, ["M15", "M19", "M22", "M29", "M36"])
         # Rows added after the approved 53 (M01-M53) may exist only as `proposed`:
         # adding a row is design work, promoting it is the author's.
         approved = {f"M{n:02d}" for n in range(1, 54)}
