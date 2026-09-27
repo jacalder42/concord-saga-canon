@@ -212,7 +212,10 @@ class SidFormat:
     # Loose matcher for one alternation token: letters, then optional digits.
     # Deliberately wider than the allowed set, so `A0` and `A4` are FOUND and
     # then fail validation rather than going unnoticed.
-    ALT_LOOSE = r"([A-Za-z]{1,3}\d{0,2})"
+    # The letters are taken whole: without the lookahead, a prefix form could
+    # backtrack `PR` to `P` before a non-digit and report a phantom `...B01.P`
+    # (found 2026-09-27 on the first PR beat rows, ledger 212).
+    ALT_LOOSE = r"([A-Za-z]{1,3}(?![A-Za-z])\d{0,2})"
 
     def __init__(self, pattern):
         self.pattern = pattern

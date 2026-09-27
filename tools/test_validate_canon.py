@@ -1284,8 +1284,12 @@ class EbciPilotChecks(unittest.TestCase):
 
     def test_episode_band(self):
         self.assertEqual(packet_problems(packet(corridor="U6")), ["CHK_EPISODE_BAND"])
+        # A position with no overlay has no band (B01 has no epilogue).
         self.assertIn("CHK_EPISODE_BAND",
-                      packet_problems(packet(sid="S1.T1.B01.PR.E00")))
+                      packet_problems(packet(sid="S1.T1.B01.EP.E49")))
+        # The prologue's own envelope (ruled B1) admits U7.
+        self.assertNotIn("CHK_EPISODE_BAND",
+                         packet_problems(packet(sid="S1.T1.B01.PR.E00", corridor="U7")))
 
     def test_a_declared_exception_covers_the_breach(self):
         band = {"corridor": {"min": "U1", "max": "U4"},
@@ -1350,6 +1354,13 @@ class EbciPilotChecks(unittest.TestCase):
             text.replace("S1.T1.B01.A2.E31-BT01", "S1.T1.B01.A2.E30-BT01")))
         self.assertEqual(packet_problems(text.replace("| U1 |", "| U6 |")),
                          ["CHK_EPISODE_BAND"])
+
+    def test_a_pr_sid_in_a_file_path_is_not_split(self):
+        """Regression (ledger 212): `...PR.E00.md` produced a phantom `...B01.P`."""
+        self.assertEqual(sid_problems("packet ebci/B01/S1.T1.B01.PR.E00.md"), [])
+        self.assertEqual(sid_problems("S1.T1.B01.PR.E00-BT01"), [])
+        self.assertTrue(sid_problems("S1.T1.B01.A0.E01"))
+        self.assertTrue(sid_problems("S1.T1.B01.PX.E01"))
 
     def test_ebci_is_scanned_and_held_to_canon_scope(self):
         self.assertIn("ebci", vc.EBCI_DIRS)

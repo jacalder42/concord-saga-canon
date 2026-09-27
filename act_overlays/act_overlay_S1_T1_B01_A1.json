@@ -19,10 +19,19 @@
       "min": "FX0",
       "max": "FX2"
     },
-    "exceptions": [],
+    "exceptions": [
+      {
+        "sid": "S1.T1.B01.A1.E15",
+        "axis": "weather",
+        "value": "W3",
+        "scope": "brief: the event's peak only",
+        "reason": "First civic-scale event. Recovered-packet E13 (W2->W3) is v4.1b E15 (v4.1b's own header: 'source E13'; B4 ruling, one lineage). OQA B2 (approved design) widens A1 to the E13-E14 evidence at B01 EBCI; the approved causal-card answer Q-E15-3 uses W3 at the peak only and keeps FX2, so no FX3 exception is declared and recovered E14's W3/FX3 (v4.1b E16, cleanup) is not carried. Declared at the Act I release, decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md."
+      }
+    ],
     "basis": "observed",
     "source": "proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
-    "basis_note": "E16 at U3->U4, W1, FX2"
+    "basis_note": "E16 at U3->U4, W1, FX2",
+    "_basis_note_numbering": "Added 2026-09-27 at the Act I release: basis_note uses the recovered 12-09 packet numbering (its E16 is the recovered Act I close). In v4.1b labels, recovered E13 and E14 are E15 and E16 (B4 ruling). The note is kept as written."
   },
   "deltas": {
     "pressure_vectors": [

@@ -1,4 +1,89 @@
 SID,POV,ENV,CORRIDOR,WEATHER,MODE,HEAT,FX,RES,LOAD,BID,beat_function,payoff_tags,antagonist_pressure,uars_cost_note,motif_1,motif_2,notes
+S1.T1.B01.PR.E00,Silence + Hope,NONE,U7,W0,INT,H0,FX3,VT,L1,S1.T1.B01.PR.E00-BT01,two presences register strain in the Veil,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.PR.E00.md
+S1.T1.B01.PR.E00,Silence + Hope,NONE,U7,W0,INT,H0,FX3,VT,L1,S1.T1.B01.PR.E00-BT02,they perceive pressure and cannot simply intervene or decide,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.PR.E00.md
+S1.T1.B01.PR.E00,Silence + Hope,NONE,U7,W0,INT,H0,FX3,VT,L1,S1.T1.B01.PR.E00-BT03,"images and sensations of human-scale instability, never a li",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.PR.E00.md
+S1.T1.B01.PR.E00,Silence + Hope,NONE,U7,W0,INT,H0,FX3,VT,L1,S1.T1.B01.PR.E00-BT04,they barely reach each other,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.PR.E00.md
+S1.T1.B01.PR.E00,Silence + Hope,NONE,U7,W0,INT,H0,FX3,VT,L1,S1.T1.B01.PR.E00-BT05,"the cut: a child in distress, and nobody arrives in time",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.PR.E00.md
+S1.T1.B01.A1.E01,Seraphine Vael,NONE,U2,W1,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E01-BT01,Seraphine reaches the family in a medical or care crisis,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E01.md
+S1.T1.B01.A1.E01,Seraphine Vael,NONE,U2,W1,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E01-BT02,she does everything reasonably available,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E01.md
+S1.T1.B01.A1.E01,Seraphine Vael,NONE,U2,W1,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E01-BT03,something subtly wrong makes her less sure of what she perce,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E01.md
+S1.T1.B01.A1.E01,Seraphine Vael,NONE,U2,W1,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E01-BT04,the child dies,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E01.md
+S1.T1.B01.A1.E01,Seraphine Vael,NONE,U2,W1,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E01-BT05,"she stays with the family: practical tasks, weather, people",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E01.md
+S1.T1.B01.A1.E02,Seraphine Vael,NONE,U2,W1,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E02-BT01,Seraphine helps the family through the aftermath,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E02.md
+S1.T1.B01.A1.E02,Seraphine Vael,NONE,U2,W1,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E02-BT02,care costs her,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E02.md
+S1.T1.B01.A1.E02,Seraphine Vael,NONE,U2,W1,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E02-BT03,a lingering imprint does not behave like grief,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E02.md
+S1.T1.B01.A1.E02,Seraphine Vael,NONE,U2,W1,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E02-BT04,she will not name it a ghost or a person,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E02.md
+S1.T1.B01.A1.E02,Seraphine Vael,NONE,U2,W1,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E02-BT05,what remains when everyone has left?,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E02.md
+S1.T1.B01.A1.E03,Seraphine Vael,NONE,U1,W0,SLICE,H0,FX0,CALM,L2,S1.T1.B01.A1.E03-BT01,"something mundane must be bought, returned, cleaned, answere",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E03.md
+S1.T1.B01.A1.E03,Seraphine Vael,NONE,U1,W0,SLICE,H0,FX0,CALM,L2,S1.T1.B01.A1.E03-BT02,her body and attention lag behind the day,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E03.md
+S1.T1.B01.A1.E03,Seraphine Vael,NONE,U1,W0,SLICE,H0,FX0,CALM,L2,S1.T1.B01.A1.E03-BT03,Caro: shorthand from a friendship older than page one,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E03.md
+S1.T1.B01.A1.E03,Seraphine Vael,NONE,U1,W0,SLICE,H0,FX0,CALM,L2,S1.T1.B01.A1.E03-BT04,Caro leaves for her own obligation,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E03.md
+S1.T1.B01.A1.E03,Seraphine Vael,NONE,U1,W0,SLICE,H0,FX0,CALM,L2,S1.T1.B01.A1.E03-BT05,a small ordinary pleasure or irritation still lands,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E03.md
+S1.T1.B01.A1.E04,Lucien Kael,NONE,U2,W0,SCI,H0,FX0,CALM,L1,S1.T1.B01.A1.E04-BT01,Lucien moves through an ordinary part of his assignment day,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E04.md
+S1.T1.B01.A1.E04,Lucien Kael,NONE,U2,W0,SCI,H0,FX0,CALM,L1,S1.T1.B01.A1.E04-BT02,"a line or angle appears wrong, with a faint lean he does not",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E04.md
+S1.T1.B01.A1.E04,Lucien Kael,NONE,U2,W0,SCI,H0,FX0,CALM,L1,S1.T1.B01.A1.E04-BT03,he checks the physical explanation,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E04.md
+S1.T1.B01.A1.E04,Lucien Kael,NONE,U2,W0,SCI,H0,FX0,CALM,L1,S1.T1.B01.A1.E04-BT04,normality returns,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E04.md
+S1.T1.B01.A1.E04,Lucien Kael,NONE,U2,W0,SCI,H0,FX0,CALM,L1,S1.T1.B01.A1.E04-BT05,"irritation, and private alarm under it",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E04.md
+S1.T1.B01.A1.E05,Lucien Kael,NONE,U3,W0,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E05-BT01,his assignment brings him to Seraphine as someone directly i,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E05.md
+S1.T1.B01.A1.E05,Lucien Kael,NONE,U3,W0,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E05-BT02,his questions classify,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E05.md
+S1.T1.B01.A1.E05,Lucien Kael,NONE,U3,W0,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E05-BT03,a second misalignment disorients him bodily,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E05.md
+S1.T1.B01.A1.E05,Lucien Kael,NONE,U3,W0,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E05-BT04,"he verifies surfaces, measurements, sightlines",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E05.md
+S1.T1.B01.A1.E05,Lucien Kael,NONE,U3,W0,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E05-BT05,he keeps the full extent from her,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E05.md
+S1.T1.B01.A1.E06,Seraphine Vael,NONE,U1,W0,FUN,H1,FX0,CALM,L1,S1.T1.B01.A1.E06-BT01,"the Vein at work, a room already full",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E06.md
+S1.T1.B01.A1.E06,Seraphine Vael,NONE,U1,W0,FUN,H1,FX0,CALM,L1,S1.T1.B01.A1.E06-BT02,"Trip hosts: reading the room, setting boundaries, making peo",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E06.md
+S1.T1.B01.A1.E06,Seraphine Vael,NONE,U1,W0,FUN,H1,FX0,CALM,L1,S1.T1.B01.A1.E06-BT03,"music, because people came to hear it [P: Caro among them]",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E06.md
+S1.T1.B01.A1.E06,Seraphine Vael,NONE,U1,W0,FUN,H1,FX0,CALM,L1,S1.T1.B01.A1.E06-BT04,"anomaly gossip is one current among many, and passes",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E06.md
+S1.T1.B01.A1.E06,Seraphine Vael,NONE,U1,W0,FUN,H1,FX0,CALM,L1,S1.T1.B01.A1.E06-BT05,the night goes on without needing her,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E06.md
+S1.T1.B01.A1.E07,Seraphine Vael,NONE,U2,W1,CIV,H0,FX0,CALM,L2,S1.T1.B01.A1.E07-BT01,ordinary city activity,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E07.md
+S1.T1.B01.A1.E07,Seraphine Vael,NONE,U2,W1,CIV,H0,FX0,CALM,L2,S1.T1.B01.A1.E07-BT02,"a crowd turns brittle through impatience, misreading and esc",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E07.md
+S1.T1.B01.A1.E07,Seraphine Vael,NONE,U2,W1,CIV,H0,FX0,CALM,L2,S1.T1.B01.A1.E07-BT03,"Seraphine de-escalates person by person, with ordinary skill",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E07.md
+S1.T1.B01.A1.E07,Seraphine Vael,NONE,U2,W1,CIV,H0,FX0,CALM,L2,S1.T1.B01.A1.E07-BT04,it passes,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E07.md
+S1.T1.B01.A1.E08,Seraphine Vael,NONE,U3,W1,CIV,H0,FX0,CALM,L2,S1.T1.B01.A1.E08-BT01,the Square at work,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E08.md
+S1.T1.B01.A1.E08,Seraphine Vael,NONE,U3,W1,CIV,H0,FX0,CALM,L2,S1.T1.B01.A1.E08-BT02,"similar pressure, different circumstances",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E08.md
+S1.T1.B01.A1.E08,Seraphine Vael,NONE,U3,W1,CIV,H0,FX0,CALM,L2,S1.T1.B01.A1.E08-BT03,"Seraphine steps in, and it goes less cleanly",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E08.md
+S1.T1.B01.A1.E08,Seraphine Vael,NONE,U3,W1,CIV,H0,FX0,CALM,L2,S1.T1.B01.A1.E08-BT04,people invent explanations,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E08.md
+S1.T1.B01.A1.E09,Mara / M,NONE,U1,W0,SLICE,H0,FX0,CALM,L1,S1.T1.B01.A1.E09-BT01,"Mara mid-day, closing mundane loops",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E09.md
+S1.T1.B01.A1.E09,Mara / M,NONE,U1,W0,SLICE,H0,FX0,CALM,L1,S1.T1.B01.A1.E09-BT02,"her notebook: names, numbers, tasks, crossed-out lines",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E09.md
+S1.T1.B01.A1.E09,Mara / M,NONE,U1,W0,SLICE,H0,FX0,CALM,L1,S1.T1.B01.A1.E09-BT03,Seraphine arrives,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E09.md
+S1.T1.B01.A1.E09,Mara / M,NONE,U1,W0,SLICE,H0,FX0,CALM,L1,S1.T1.B01.A1.E09-BT04,practical help before explanation,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E09.md
+S1.T1.B01.A1.E09,Mara / M,NONE,U1,W0,SLICE,H0,FX0,CALM,L1,S1.T1.B01.A1.E09-BT05,local words for the city breathing wrong,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E09.md
+S1.T1.B01.A1.E10,Seraphine Vael,NONE,U1,W0,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E10-BT01,"an elder offers guidance that is relational, not prophetic",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E10.md
+S1.T1.B01.A1.E10,Seraphine Vael,NONE,U1,W0,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E10-BT02,she cannot become the regulator for every room,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E10.md
+S1.T1.B01.A1.E10,Seraphine Vael,NONE,U1,W0,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E10-BT03,"food, care, a joke",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E10.md
+S1.T1.B01.A1.E10,Seraphine Vael,NONE,U1,W0,INT,H0,FX0,CALM,L2,S1.T1.B01.A1.E10-BT04,"alone later, she fails to decompress",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E10.md
+S1.T1.B01.A1.E11,Lucien Kael,NONE,U3,W0,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E11-BT01,"he checks patterns and measurements again, and again",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E11.md
+S1.T1.B01.A1.E11,Lucien Kael,NONE,U3,W0,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E11-BT02,contradictory results undermine his defence,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E11.md
+S1.T1.B01.A1.E11,Lucien Kael,NONE,U3,W0,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E11-BT03,"under strain, the misalignment spikes and the faint lean ret",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E11.md
+S1.T1.B01.A1.E11,Lucien Kael,NONE,U3,W0,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E11-BT04,an ordinary interruption shows how far inside the problem he,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E11.md
+S1.T1.B01.A1.E11,Lucien Kael,NONE,U3,W0,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E11-BT05,he still asks no one,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E11.md
+S1.T1.B01.A1.E12,Lucien Kael,NONE,U1,W0,SLICE,H0,FX0,CALM,L2,S1.T1.B01.A1.E12-BT01,he attempts a normal task,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E12.md
+S1.T1.B01.A1.E12,Lucien Kael,NONE,U1,W0,SLICE,H0,FX0,CALM,L2,S1.T1.B01.A1.E12-BT02,precision irritates or fails him,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E12.md
+S1.T1.B01.A1.E12,Lucien Kael,NONE,U1,W0,SLICE,H0,FX0,CALM,L2,S1.T1.B01.A1.E12-BT03,he catches himself checking something unnecessary,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E12.md
+S1.T1.B01.A1.E12,Lucien Kael,NONE,U1,W0,SLICE,H0,FX0,CALM,L2,S1.T1.B01.A1.E12-BT04,"he redirects into work, food, an errand or home maintenance",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E12.md
+S1.T1.B01.A1.E13,Seraphine Vael + Lucien Kael,NONE,U2,W0,INT,H0,FX0,CALM,L1,S1.T1.B01.A1.E13-BT01,their separate failures collide,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E13.md
+S1.T1.B01.A1.E13,Seraphine Vael + Lucien Kael,NONE,U2,W0,INT,H0,FX0,CALM,L1,S1.T1.B01.A1.E13-BT02,each sees the other's distress before admitting their own,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E13.md
+S1.T1.B01.A1.E13,Seraphine Vael + Lucien Kael,NONE,U2,W0,INT,H0,FX0,CALM,L1,S1.T1.B01.A1.E13-BT03,concrete human actions ground them,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E13.md
+S1.T1.B01.A1.E13,Seraphine Vael + Lucien Kael,NONE,U2,W0,INT,H0,FX0,CALM,L1,S1.T1.B01.A1.E13-BT04,Lucien lets her read matter,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E13.md
+S1.T1.B01.A1.E14,Lucien Kael,NONE,U1,W0,HUM,H1,FX0,CALM,L1,S1.T1.B01.A1.E14-BT01,practical aftermath keeps them together after the intensity ,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E14.md
+S1.T1.B01.A1.E14,Lucien Kael,NONE,U1,W0,HUM,H1,FX0,CALM,L1,S1.T1.B01.A1.E14-BT02,neither knows how to behave after being seen that clearly,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E14.md
+S1.T1.B01.A1.E14,Lucien Kael,NONE,U1,W0,HUM,H1,FX0,CALM,L1,S1.T1.B01.A1.E14-BT03,a small kindness lands differently,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E14.md
+S1.T1.B01.A1.E14,Lucien Kael,NONE,U1,W0,HUM,H1,FX0,CALM,L1,S1.T1.B01.A1.E14-BT04,they negotiate something mundane,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E14.md
+S1.T1.B01.A1.E15,Seraphine Vael + Lucien Kael,NONE,U2,W1,ACT,H0,FX0,CALM,L2,S1.T1.B01.A1.E15-BT01,"the Square at work: tourists, artists, vendors, a performer ",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E15.md; values are the end state at the beat
+S1.T1.B01.A1.E15,Seraphine Vael + Lucien Kael,NONE,U3,W2,ACT,H0,FX1,CALM,L2,S1.T1.B01.A1.E15-BT02,a low thrum some people hear,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E15.md; values are the end state at the beat
+S1.T1.B01.A1.E15,Seraphine Vael + Lucien Kael,NONE,U4,W3,ACT,H0,FX2,CALM,L2,S1.T1.B01.A1.E15-BT03,the amp pops and cuts out,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E15.md; values are the end state at the beat
+S1.T1.B01.A1.E15,Seraphine Vael + Lucien Kael,NONE,U4,W3,ACT,H0,FX2,CALM,L2,S1.T1.B01.A1.E15-BT04,startle and sway,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E15.md; values are the end state at the beat
+S1.T1.B01.A1.E15,Seraphine Vael + Lucien Kael,NONE,U3,W2,ACT,H0,FX1,CALM,L2,S1.T1.B01.A1.E15-BT05,Seraphine reaches individuals,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E15.md; values are the end state at the beat
+S1.T1.B01.A1.E15,Seraphine Vael + Lucien Kael,NONE,U3,W2,ACT,H0,FX1,CALM,L2,S1.T1.B01.A1.E15-BT06,contradictory testimony and practical aftermath,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E15.md; values are the end state at the beat
+S1.T1.B01.A1.E16,Lucien Kael,NONE,U2,W1,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E16-BT01,"cleanup, commerce and rumour return, imperfectly",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E16.md
+S1.T1.B01.A1.E16,Lucien Kael,NONE,U2,W1,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E16-BT02,a recording of the event is mentioned in passing during the ,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E16.md
+S1.T1.B01.A1.E16,Lucien Kael,NONE,U2,W1,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E16-BT03,"Lucien compares reports and places, and finds the city incon",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E16.md
+S1.T1.B01.A1.E16,Lucien Kael,NONE,U2,W1,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E16-BT04,Seraphine sees the human cost multiplying,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E16.md
+S1.T1.B01.A1.E16,Lucien Kael,NONE,U2,W1,SCI,H0,FX0,CALM,L2,S1.T1.B01.A1.E16-BT05,he admits it is bigger than him,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E16.md
+S1.T1.B01.A1.E17,Lucien Kael,NONE,U1,W0,HUM,H0,FX0,CALM,L1,S1.T1.B01.A1.E17-BT01,Seraphine and Lucien admit together that the case exceeds hi,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E17.md
+S1.T1.B01.A1.E17,Lucien Kael,NONE,U1,W0,HUM,H0,FX0,CALM,L1,S1.T1.B01.A1.E17-BT02,"the institutional route exists, and he does not take it",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E17.md
+S1.T1.B01.A1.E17,Lucien Kael,NONE,U1,W0,HUM,H0,FX0,CALM,L1,S1.T1.B01.A1.E17-BT03,he calls Baz,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E17.md
+S1.T1.B01.A1.E17,Lucien Kael,NONE,U1,W0,HUM,H0,FX0,CALM,L1,S1.T1.B01.A1.E17-BT04,"Baz hears what Lucien is not saying, and agrees to come",,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E17.md
+S1.T1.B01.A1.E17,Lucien Kael,NONE,U1,W0,HUM,H0,FX0,CALM,L1,S1.T1.B01.A1.E17-BT05,anticipation of Baz as a person,,,,,,B01 Act I EBCI; packet ebci/B01/S1.T1.B01.A1.E17.md
 S1.T1.B01.A2.E31,Seraphine Vael,NONE,U1,W0,FUN,H1,FX0,CALM,L1,S1.T1.B01.A2.E31-BT01,arrival,,,,,,"B01 EBCI pilot (Life/Reward test, passed; R1 merged BT04-BT05); packet ebci/B01/S1.T1.B01.A2.E31.md"
 S1.T1.B01.A2.E31,Seraphine Vael,NONE,U1,W0,FUN,H1,FX0,CALM,L1,S1.T1.B01.A2.E31-BT02,hosting,,,,,,"B01 EBCI pilot (Life/Reward test, passed; R1 merged BT04-BT05); packet ebci/B01/S1.T1.B01.A2.E31.md"
 S1.T1.B01.A2.E31,Seraphine Vael,NONE,U1,W0,FUN,H1,FX0,CALM,L1,S1.T1.B01.A2.E31-BT03,the set,BC-LACUNA-CAMEO,,,,,"B01 EBCI pilot (Life/Reward test, passed; R1 merged BT04-BT05); packet ebci/B01/S1.T1.B01.A2.E31.md"

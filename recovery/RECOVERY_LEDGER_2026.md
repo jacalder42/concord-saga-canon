@@ -12132,4 +12132,23 @@ END OF ENTRY 211
 
 ===============================================================
 
+# 212. B01 Act I EBCI built — 2026-09-27
+
+**Status:** LEDGER ENTRY. The Act I release (§211) carried out. No ruling, milestone, card or Mechanica text changes.
+
+**Release-time envelope work (Act I only):**
+- **`act_overlays/act_overlay_S1_T1_B01_PR.json`** created: the prologue's own envelope, **ruled** (OQA B1): corridor U1–U7, FX0–FX3; weather carries A1's W0–W2 (no weather ruling for the prologue). A `_position_note` records that PR is a position, not an act (Ruling 6), so the file does not count toward the 27. Authored fields drawn only from v4.1b's prologue and the approved macro-Möbius design; the `silence_hope` thread and the two prologue breadcrumbs live here.
+- **The A1 exception declared:** `S1.T1.B01.A1.E15`, weather **W3**, brief, the event's peak only. **The mapping is confirmed by v4.1b itself** (E15 *"source E13"*, E16 *"source E14"*); the approved Q-E15-3 keeps FX2, so **no FX3 exception** and **nothing for E16**. A `_basis_note_numbering` note records that the A1 `basis_note` uses recovered numbering; the note itself is kept.
+- **Not done (A2/A3 release work):** the E36/E37 and E43/E44 relabel; A2's `basis_note`.
+
+**Packets:** 18 in `ebci/B01/` (the prologue and E01–E17), in the two-layer template, generated from one structured source for consistency; **S01–S03 are specified inside E05, E08 and E10**, where v4.1b places them. POVs: Seraphine at E01–E03, E06 [P], E07, E08, E10; Lucien at E04, E05, E11, E12, E14 [P], E16, E17; Mara at E09 [P]; both alternating at E13 and E15; **Silence + Hope** at the prologue (unnamed on the page). **E15 carries the causal card** (page-safe constraints in the brief; the card's observation classes, cost and residue in the control layer). **Open-but-safe items left open to prose, not invented:** O1 (the E01 household), O2, O5–O7 (supplement forms; CHRON maturity; S03 authenticity), O9 (Rootkeeper at low resolution; Arianna not activated), O11, O12.
+**Grids:** 85 Act I beat rows in `grids/episode_beats.csv` (103 with the pilot; E15's rows carry the curve, W3 at the peak); **3 rows in `grids/supplement_deployment.csv`** (B01-S01–S03, `planned`).
+**Validator fix:** a latent `CHK_SID_FORMAT` bug. A `PR` SID followed by `.md` (a file path) backtracked to a phantom `...B01.P`; the act-slot letters are now taken whole. Regression test added (165). All-scope count unchanged (114).
+
+**Unchanged:** A2/A3 beyond the pilot, B02, B03. Next: the Act I audit, then stop (§213).
+
+END OF ENTRY 212
+
+===============================================================
+
 END RECOVERY LEDGER

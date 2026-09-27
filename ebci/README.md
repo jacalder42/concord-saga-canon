@@ -8,12 +8,14 @@ Q-LS2). **Nothing else in B01, and nothing in B02 or B03, is released.**
 
 ## What is here
 
-| File | Episode | Test |
+| File | Episode | Status |
 | --- | --- | --- |
-| `B01/S1.T1.B01.A2.E31.md` | *The Night They Were Going to Have* | **Life/Reward**: can the packet stay loose, human and inviting? |
-| `B01/S1.T1.B01.A2.E33.md` | *The Pulse Strikes* | **Event**: causality, observation class, limits, cost, residue |
+| `B01/S1.T1.B01.PR.E00.md` … `B01/S1.T1.B01.A1.E17.md` | **Act I**: the prologue and E01–E17 (18 packets; S01–S03 specified inside E05, E08 and E10) | DRAFT, awaiting the Act I audit |
+| `B01/S1.T1.B01.A2.E31.md` | *The Night They Were Going to Have* (pilot: Life/Reward) | REVIEWED |
+| `B01/S1.T1.B01.A2.E33.md` | *The Pulse Strikes* (pilot: event) | REVIEWED |
 
-Each packet's beats also have rows in `grids/episode_beats.csv`.
+Each packet's beats have rows in `grids/episode_beats.csv` (103 rows); the Act I supplements have rows
+in `grids/supplement_deployment.csv`.
 
 ## Rules
 
