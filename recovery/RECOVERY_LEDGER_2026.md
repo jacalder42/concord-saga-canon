@@ -10601,4 +10601,41 @@ END OF ENTRY 155
 
 ===============================================================
 
+# 156. Antagonistic creative review of saga structure before B02/B03 — 2026-09-27
+
+**Request:** "Perform a fresh antagonistic creative review of saga structure and narrative. Let's vet fully before moving to b2 and b3."
+
+**Added:** `reports/SAGA_ANTAGONISTIC_CREATIVE_REVIEW_2026-09-27.md`
+(commit `2fe1785`), based on `main` at `83ae4c4`.
+
+**Status:** EDITORIAL REVIEW / NON-CANONICAL. Thirteen adversarial findings, a nine-book
+challenge table, six recommended design decisions, and a bounded readiness assessment.
+None of the recommendations is recorded as author acceptance or a ruling.
+
+**Assessment:** retain nine books; narrative readiness remains conditional. Principal risks
+are Seraphine's soul-powered endstate validating her original over-responsibility;
+B02's evidence progression outrunning its decision progression; Warehouse/publication
+culpability; B05's book-level consequence; B08's confirmation circuit; credible opposition;
+and the Mending's surprise guide cost, Kade's accountability and Brightbreak's dissolution.
+The review distinguishes unresolved execution from proven contradiction and preserves
+the current deaths, sequence, site secrecy, qualified B09 A2 tone and deferred late clocks.
+
+**Source cautions:** old purpose cards/audits contain superseded plots; B03 Pass 2 retains
+a stale first/only VT safeguard and places a coordinates-post option in Act II against
+M11's Act III target; the saga context's milestone summary is stale. These are flagged,
+not edited or adjudicated here.
+
+**Verification:** report completeness checked (nine book rows and thirteen numbered
+findings); current decisions compared with the cited working architectures. This is a
+creative architecture review, not a prose verdict or exhaustive raw-source recovery.
+No substrate files changed; no validator/self-test run is claimed. Ledger read in full,
+entries 1–155 verified in sequence, and this entry inserted before the sole closing marker.
+
+**Holds:** B02/B03 episode architecture and B01 EBCI remain held. The six recommended
+decisions are for the author; no hold is released.
+
+END OF ENTRY 156
+
+===============================================================
+
 END RECOVERY LEDGER
