@@ -328,6 +328,18 @@ Canonical sequence:
 
 ## ND-013 — The Mending is structurally assigned to Seraphine + Lucien + Caro
 
+> **Correction, 2026-09-27** (ledger §165). **The trio is who *ascends*, not everyone who *performs*** the Mending (ledger §27.2).
+> The 09-19 reading of B09 E14 as five human functions is also **superseded where it conflicts** with the later rulings.
+> **The ruled roster** (grid **M33**; `decisions/LOOM_CHAIN_KNOWLEDGE_AND_MENDING_COST_AUTHOR_RULING_2026-09-26.md`; Mechanica §42A):
+> - Seraphine becomes the Loom.
+> - Hope, then Silence (after powering Tahl's echo), give themselves to it and disperse into its laws.
+> - Lucien and Caro become the guides, one at a time, with Elisabet's goodbye to Caro between.
+> - Tahl's echo is the conduit.
+> - Elisabet witnesses.
+> - Mira's echo is released.
+>
+> The conflict watch below is closed by those rulings. The entry is kept as written.
+
 **Classification:** PRESENT / CONFLICT WATCH  
 **Source:** Loom Final Canon backup; corroborated by `Saga Beat Expansion Pipeline` audit  
 **Authority:** B/C

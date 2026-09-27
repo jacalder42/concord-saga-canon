@@ -10888,4 +10888,62 @@ END OF ENTRY 164
 
 ===============================================================
 
+# 165. Veil obligations brief; the Mending roster correction closed — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a working brief (a proposal) and a housekeeping correction. Nothing new is ruled. **The B02/B03 hold stands.**
+
+**The author:** "Proceed", after Claude recommended writing a brief of what Veil owes the ending and fixing the pending Mending correction, then stopping at the hold.
+
+## 1. The brief
+
+**Written:** `proposals/VEIL_OBLIGATIONS_BRIEF_B02_B03_2026-09-27.md`.
+
+It compiles the saga-lock handoff (§6), the six approved directions, and the 09-27 metaphysics rulings into one checklist for B02/B03:
+- the backward dependencies for Seraphine, Lucien, Caro, Elisabet, Baz, Tahl, and Silence and Hope;
+- the directions as per-book obligations;
+- the §42A implications for Veil;
+- cast, route and knowledge;
+- protected material;
+- seven gaps in the pass-2 drafts: no Rex foreshadow; no Mira seed; B02's civic decision; no Lucien listening seed; no useful institutional action; slot 26 against M11; the Warehouse event model and counterfactual.
+
+**Proposed inferences, marked P in the brief:**
+- **Silence and Hope do not act on the world in Veil**, because M21 makes B06 their first agency.
+- **Caro's first real handoff is protected for M54** (B05: "for the first time, entrusts").
+- **Seraphine's B03 bounded-responsibility lesson must leave her metaphysical-scale relapse intelligible.**
+
+Since the author's reply: in the last recommendation Claude listed "Caro's first handoffs" as something to seed in Veil. That was wrong against M54. The brief corrects it.
+
+## 2. The Mending roster (housekeeping)
+
+CLAUDE.md §4 carried: "Answered, correction pending: who performs the Mending — five named human functions … Ledger §24, ND-013 and the old CLAUDE.md all say 'trio' and need correcting (§27.2)."
+
+Rechecked against the later rulings, the 09-19 "five human functions" reading of B09 E14 is itself **superseded where it conflicts**:
+- Elisabet "grounds all three" in that reading; the rulings make her the witness who says goodbye.
+- Kade "holds humanity steady through MT" in that reading; M33 gives him no Mending function, and M52 puts him at the rear.
+- "Silence dissolves into Lucien, Hope into Caro" in that reading; M33 has them give themselves to the Loom, and §42A has them become its laws.
+
+**The ruled roster** (M33; the chain ruling; Mechanica §42A):
+- the Loom (Seraphine);
+- Hope, then Silence (after powering Tahl's echo), into its laws;
+- the guides (Lucien, then Caro), one at a time, with Elisabet's goodbye between;
+- the conduit (Tahl's echo);
+- the witness (Elisabet);
+- Mira's echo released.
+
+§27.2's point stands: **the trio is who ascends**, not everyone who performs.
+
+**Applied:**
+- a dated correction note under ND-013 in `proposals/concord-2026/NARRATIVE_DECISION_LEDGER_SOURCE_AUDIT_2026-09-19.md`, with the entry kept as written;
+- the CLAUDE.md §4 pending line replaced by a closed note;
+- §24's row stays as written, because the ledger is append-only; this entry is its correction;
+- the archived CLAUDE.md is not edited.
+
+**Flagged, not a question:** the 09-19 source's MT function for Kade *during* the Mending is not in the ruled roster.
+
+**Other edits:** CLAUDE.md §8 and the §9 reading map, whose "Veil completion" row now starts with the brief.
+
+END OF ENTRY 165
+
+===============================================================
+
 END RECOVERY LEDGER
