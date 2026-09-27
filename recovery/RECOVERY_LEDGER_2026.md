@@ -11488,4 +11488,28 @@ END OF ENTRY 182
 
 ===============================================================
 
+# 183. B02 pass-5 directions answered; B02 per-episode beats, Pass 5 — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers (approved design) and a proposal. Nothing is ruled.
+
+**The author, verbatim:** "Yes to 1-6"
+
+**Recorded in** `decisions/B02_PASS5_DIRECTIONS_AUTHOR_ANSWERS_2026-09-27.md`: all six pass-5 recommendations of §182, as approved design.
+
+**Written:** `proposals/B02_EPISODE_BEATS_PASS5_2026-09-27.md`. It revises pass 4 in a new file (pass 4 is not edited): all 47 episodes and S01–S05, each episode now with a Turn block (encounter, wants, against, changes).
+- **The method:** version 1 is the signs (E10), version 2 adds the interval (E17); Helena will not act on a number (E08 plant, E23); Lucien sends the window with its grounds (E26); "the Bywater rule" travels (E34). E24's line is "not the map".
+- **The ending:** E31 is retitled "What the Order Made", a civic close. E32 makes "wait an hour, it passes" the folk rule. E44 is retitled "The Pocket That Stays": a stretch from the Bywater block toward the Marigny stays affected for days. E46 is the test and E47 the consequence: the return is postponed without a date, and the order becomes standing.
+- **Seraphine and Rosette:** the off-registry household (E09, E27, E37); a resident on home oxygen moved without his concentrator (E27); Rosette's 2005 reason and the block's book (E28–E29), which reaches Baz unofficially (E38) and shows the lean.
+- **Caro:** the guardrail is narrowed; Leila Broussard works beside her (E15, E20, E30).
+
+**A sequencing correction:** direction 4 placed the oxygen resident's fix in E20, which precedes the order (E27). Pass 5 places it in E30 and gives E20 a dialysis rider planted in E16. It is put to the author.
+
+**New design added while proceeding, put to the author:** Lucien withholds drift from Helena (E40); Rosette's house at the stretch's edge (E44); the stretch toward the Marigny; the concrete Turn choices.
+
+**The holds stand:** B03 and B01 EBCI.
+
+END OF ENTRY 183
+
+===============================================================
+
 END RECOVERY LEDGER
