@@ -29,3 +29,27 @@
   and drift plus No Reset.
 - **No ruling, row, card or rule.**
 - **The holds stand:** B03 and B01 EBCI. The B03 handoff stays named only.
+
+---
+
+## Follow-up (2026-09-27): the pass-5 questions
+
+**The author, verbatim:**
+
+> 1 yes, 2 yes
+
+Put in `proposals/B02_EPISODE_BEATS_PASS5_2026-09-27.md` ("Questions for the author"). **Approved
+design:**
+
+1. **The E20/E30 placement.** The oxygen resident's fix is in **E30**, because E20 comes before the
+   order (E27). **E20 is the dialysis rider** planted in E16. This corrects direction 4's placement;
+   its substance is unchanged.
+2. **The design added while proceeding:**
+   - Lucien **withholds drift** from Helena (E40). It is a rung on the ladder, not the B03 refusal.
+   - **Rosette's house** is at the stretch's edge (E44).
+   - The persistent stretch runs **toward the Marigny**.
+   - The **concrete Turn choices** across all 47 episodes.
+
+**B02 is now at episode-architecture level**, comparable with B01 v4.1b (CLAUDE.md §9, step 3). This
+records no hold release: **B03 stays held**, and the B01 EBCI hold stands.
+

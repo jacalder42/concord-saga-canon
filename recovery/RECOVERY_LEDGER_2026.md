@@ -11512,4 +11512,22 @@ END OF ENTRY 183
 
 ===============================================================
 
+# 184. B02 pass-5 questions answered; B02 at architecture level — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers (approved design). Nothing is ruled.
+
+**The author, verbatim:** "1 yes, 2 yes"
+
+**Recorded in** `decisions/B02_PASS5_DIRECTIONS_AUTHOR_ANSWERS_2026-09-27.md` (follow-up):
+1. The oxygen resident's fix is in **E30**; **E20** is the dialysis rider planted in E16. This corrects direction 4's placement.
+2. The design added while proceeding is approved: Lucien withholds drift (E40); Rosette's house at the stretch's edge (E44); the stretch toward the Marigny; the Turn choices for all 47 episodes.
+
+**Result:** `proposals/B02_EPISODE_BEATS_PASS5_2026-09-27.md` is the approved B02 architecture (approved design, Tier B). **B02 is at episode-architecture level**, comparable with B01 v4.1b (CLAUDE.md §9, step 3). The pass-5 file carries an "Answered" note.
+
+**The holds stand:** B03 stays held until the author releases it, and the B01 EBCI hold stands.
+
+END OF ENTRY 184
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -3,6 +3,8 @@
 **Date:** 2026-09-27
 **Status:** EDITORIAL PROPOSAL / PRE-EBCI — NON-CANONICAL.
 
+> **Answered 2026-09-27** (`decisions/B02_PASS5_DIRECTIONS_AUTHOR_ANSWERS_2026-09-27.md`, follow-up; ledger §184): *"1 yes, 2 yes"*. The E20/E30 placement and the design added while proceeding are **approved design**. Pass 5 is the approved B02 architecture. The body below is unchanged.
+
 - This revises `proposals/B02_EPISODE_BEATS_PASS4_2026-09-27.md` under the author's pass-5
   directions (`decisions/B02_PASS5_DIRECTIONS_AUTHOR_ANSWERS_2026-09-27.md`, *"Yes to 1-6"*). Those
   directions answer ChatGPT's review of pass 4 (`reports/B02_PASS4_CHATGPT_REVIEW_AND_PASS5_RECOMMENDATIONS_2026-09-27.md`).
