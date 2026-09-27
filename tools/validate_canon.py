@@ -687,6 +687,9 @@ def load_known_cast(rules=None):
     for ent in rules.get("pov_entities", {}).get("entities", []):
         if isinstance(ent, dict) and ent.get("name"):
             known.add(ent["name"].casefold())
+    for cls in rules.get("pov_entities", {}).get("anonymous_classes", []):
+        if isinstance(cls, dict) and cls.get("tag"):
+            known.add(f"[{cls['tag'].casefold()}]")
     cdir = os.path.join(REPO, "canon", "characters")
     if os.path.isdir(cdir):
         for name in os.listdir(cdir):
@@ -725,9 +728,25 @@ def pov_is_known(value, known):
     for part in parts:
         if part.casefold() in known:
             continue
+        tags = [f"[{m.casefold()}]" for m in re.findall(r"\[([^\]]+)\]", part)]
+        if any(tag in known and tag != "[p]" for tag in tags):
+            continue
         if not any(w.strip(".").casefold() in known for w in _words(part)):
             return False
     return True
+
+
+def load_nonmortal_pov(rules=None):
+    """Names of POV entities with no mortal corridor (`mortal_corridor` declared)."""
+    rules = load_rules() if rules is None else rules
+    return {e["name"].casefold() for e in rules.get("pov_entities", {}).get("entities", [])
+            if isinstance(e, dict) and e.get("name") and e.get("mortal_corridor")}
+
+
+def pov_is_nonmortal(value, nonmortal):
+    parts = [re.sub(r"\[[^\]]*\]", "", p).strip().casefold()
+             for p in re.split(r"\s\+\s|,|\s/\s", value or "") if p.strip()]
+    return bool(parts) and all(p in nonmortal for p in parts)
 
 
 def _check_pov(value, where, path, line, known, out):
@@ -771,6 +790,16 @@ def _act_band(sid, cache):
 
 
 def _check_episode_band(sid, values, path, line, vocab, out, cache):
+    corridor = (values.get("CORRIDOR") or "").strip().upper()
+    if corridor == "N/A":
+        if "__nonmortal__" not in cache:
+            cache["__nonmortal__"] = load_nonmortal_pov()
+        if not pov_is_nonmortal(values.get("POV", ""), cache["__nonmortal__"]):
+            out.append(Violation(
+                "CHK_EPISODE_BAND", rel(path), line, "N/A",
+                "CORRIDOR N/A is allowed only when every POV holder is a non-mortal "
+                "entity (canon_rules.json pov_entities with mortal_corridor); a mortal "
+                "POV needs a real corridor value"))
     ep = _act_band(sid, cache)
     if not isinstance(ep, dict):
         out.append(Violation("CHK_EPISODE_BAND", rel(path), line, sid,
@@ -819,7 +848,7 @@ def check_episode_beats_grid(path, sidfmt, vocab, out, known_cast=None, cache=No
                                  "BID must be {SID}-BTnn"))
         else:
             _check_bid(m.group(1), m.group(2), sid, path, lineno, sidfmt, out)
-        _check_episode_band(sid, {f: r.get(f, "") for f in BAND_FIELDS}, path, lineno,
+        _check_episode_band(sid, {f: r.get(f, "") for f in list(BAND_FIELDS) + ["POV"]}, path, lineno,
                             vocab, out, cache)
         _check_pov(r.get("POV", ""), "beat row", path, lineno, known_cast, out)
 

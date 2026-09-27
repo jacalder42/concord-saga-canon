@@ -1368,5 +1368,41 @@ class EbciPilotChecks(unittest.TestCase):
         self.assertTrue(vc.is_canon_scope(os.path.join(vc.REPO, "ebci", "B01", "x.md")))
 
 
+class PovOntologyChecks(unittest.TestCase):
+    """Q-B2-6 (2026-09-27): the validator serves the ontology.
+
+    An authorised anonymous witness class may hold a POV without registering anyone as
+    cast; CORRIDOR N/A is allowed only when every POV holder is non-mortal.
+    """
+
+    def test_anonymous_ensemble_is_an_authorised_pov(self):
+        self.assertNotIn("CHK_POV", packet_problems(
+            packet(pov="ordinary witnesses [anonymous ensemble]")))
+        self.assertNotIn("CHK_POV", packet_problems(
+            packet(pov="a night nurse [anonymous witness]")))
+
+    def test_an_undeclared_tag_is_not(self):
+        self.assertIn("CHK_POV", packet_problems(packet(pov="some people [crowd]")))
+        # The provisional marker never authorises anything on its own.
+        self.assertIn("CHK_POV", packet_problems(packet(pov="some people [P]")))
+
+    def test_corridor_na_for_a_nonmortal_pov(self):
+        self.assertEqual(packet_problems(
+            packet(sid="S1.T1.B01.A3.E41", pov="Silence + Hope", corridor="N/A", carried="none")), [])
+
+    def test_corridor_na_for_a_mortal_pov_is_a_breach(self):
+        self.assertIn("CHK_EPISODE_BAND", packet_problems(
+            packet(sid="S1.T1.B01.A3.E41", pov="Seraphine Vael", corridor="N/A")))
+        self.assertIn("CHK_EPISODE_BAND", packet_problems(
+            packet(sid="S1.T1.B01.A3.E41", pov="Silence + Seraphine Vael", corridor="N/A")))
+
+    def test_corridor_na_in_the_beat_grid(self):
+        self.assertEqual(beats_problems([["S1.T1.B01.A3.E41", "Silence + Hope", "N/A", "W0",
+                                          "FX0", "S1.T1.B01.A3.E41-BT01"]]), [])
+        self.assertIn("CHK_EPISODE_BAND",
+                      beats_problems([["S1.T1.B01.A3.E41", "Trip", "N/A", "W0", "FX0",
+                                       "S1.T1.B01.A3.E41-BT01"]]))
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

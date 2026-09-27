@@ -69,6 +69,9 @@ perceive strain but cannot intervene; reveal no cosmology or future.*
   minimums. It observes; it does not manufacture.
 - **Cast discipline:** an episode introduces no new named recurring face unless its brief names one; a
   recurring infrastructure, medical, data or care face appears only if one is already active.
+- **The validator serves the ontology** (Q-B2-6): never change who holds a POV, or write a false field
+  value, to make a check pass. An unnamed one-scene witness takes an anonymous class; a field that does
+  not apply is `N/A`, not a placeholder that looks like a claim.
 - **Identity hygiene:** where a name is ambiguous in the cast registry, the control layer records the
   cast id (for example A01, the Filament Mara, not G08 Mara Niht).
 - **The calendar is approximate.** The header gives a rough *when*; exact dates are not set unless
@@ -124,4 +127,6 @@ Fun: {none | light | strong} · Slice of life: {…} · Wonder: {…}
 
 `tools/validate_canon.py` checks every packet in `ebci/` and every row of `grids/episode_beats.csv`:
 `CHK_BID_FORMAT`, `CHK_EPISODE_BAND`, `CHK_PACKET_LINKS` and `CHK_POV` (an authorised POV-capable
-narrative entity: a cast member, or `canon_rules.json` `pov_entities`).
+narrative entity: a cast member, a `canon_rules.json` `pov_entities` entity, or a declared anonymous
+class such as `ordinary witnesses [anonymous ensemble]`). **CORRIDOR `N/A`** is accepted only when every
+POV holder is non-mortal (Silence, Hope).

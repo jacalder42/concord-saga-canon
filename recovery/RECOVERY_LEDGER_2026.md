@@ -12293,4 +12293,22 @@ END OF ENTRY 220
 
 ===============================================================
 
+# 221. The B02 audit answered; the POV ontology corrected; B03 EBCI released — 2026-09-27
+
+**Status:** LEDGER ENTRY. Records `decisions/B02_AUDIT_ANSWERS_AND_B03_EBCI_RELEASE_AUTHOR_RULING_2026-09-27.md` (production ruling; approved design; a standing tooling rule).
+
+**Applied to B02:** E44, Seraphine stops waiting with the failed rule and goes looking for the households the system never listed (not a mass rescue; the refusal not repudiated); E31, a small Before/After between Seraphine and Lucien; E42, Naima returns in her own words and complicates the lean (a second beat; 100 B02 beat rows); E45, place Caro's; the six provisional POVs confirmed; **B02 runs May through August**, noted in `rules/saga_context_S1.json` `chronology` (the months in every packet lose their `[P]`).
+
+**The validator serves the ontology (Q-B2-6).** The author refused two fixes Claude had made to satisfy checks: E03's four ordinary witnesses cast as Ramon and Leila (*"machine-induced story distortion"*), and E41's U1 standing for *not applicable*. **Corrected:** `rules/canon_rules.json` `pov_entities` gains **`anonymous_classes`** (*anonymous ensemble*, *anonymous witness*: a description plus the tag, e.g. `ordinary witnesses [anonymous ensemble]`, never registered as cast) and a **`mortal_corridor`** declaration on Silence and Hope. `tools/validate_canon.py`: CHK_POV accepts a declared anonymous tag (the `[P]` marker never authorises); **CHK_EPISODE_BAND accepts CORRIDOR `N/A` only when every POV holder is non-mortal**, where before any `N/A` was silently skipped; the beat-grid path now passes POV to the band check. Five self-tests added (**170**). The template states the rule. **E03** holds the anonymous ensemble; **E41**'s CORRIDOR is `N/A`.
+
+**Not formalised:** *three withholdings and one release* stays editorial understanding.
+
+**Released:** B03 EBCI, then one combined B03 + Veil trilogy audit (twelve tests and the adversarial Baz test).
+
+**Checks:** canon scope 0 violations; 170 self-tests pass; no drift.
+
+END OF ENTRY 221
+
+===============================================================
+
 END RECOVERY LEDGER

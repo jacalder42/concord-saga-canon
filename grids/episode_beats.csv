@@ -118,9 +118,9 @@ S1.T1.B02.A1.E01,"Bastien ""Baz"" Arnaud",NONE,U1,W1,SLICE,H0,FX0,CALM,L1,S1.T1.
 S1.T1.B02.A1.E01,"Bastien ""Baz"" Arnaud",NONE,U1,W1,SLICE,H0,FX0,CALM,L1,S1.T1.B02.A1.E01-BT03,the log,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E01.md; values are the episode end state
 S1.T1.B02.A1.E02,Seraphine Vael,NONE,U1,W1,SLICE,H0,FX0,CALM,L1,S1.T1.B02.A1.E02-BT01,errands,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E02.md; values are the episode end state
 S1.T1.B02.A1.E02,Seraphine Vael,NONE,U1,W1,SLICE,H0,FX0,CALM,L1,S1.T1.B02.A1.E02-BT02,the party,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E02.md; values are the episode end state
-S1.T1.B02.A1.E03,Ramon Espina + Leila Broussard,NONE,U3,W1,CIV,H0,FX1,CALM,L1,S1.T1.B02.A1.E03-BT01,"four places, one moment",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E03.md; values are the episode end state
-S1.T1.B02.A1.E03,Ramon Espina + Leila Broussard,NONE,U3,W1,CIV,H0,FX1,CALM,L1,S1.T1.B02.A1.E03-BT02,it passes,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E03.md; values are the episode end state
-S1.T1.B02.A1.E03,Ramon Espina + Leila Broussard,NONE,U3,W1,CIV,H0,FX1,CALM,L1,S1.T1.B02.A1.E03-BT03,the word,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E03.md; values are the episode end state
+S1.T1.B02.A1.E03,ordinary witnesses [anonymous ensemble],NONE,U3,W1,CIV,H0,FX1,CALM,L1,S1.T1.B02.A1.E03-BT01,"four places, one moment",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E03.md; values are the episode end state
+S1.T1.B02.A1.E03,ordinary witnesses [anonymous ensemble],NONE,U3,W1,CIV,H0,FX1,CALM,L1,S1.T1.B02.A1.E03-BT02,it passes,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E03.md; values are the episode end state
+S1.T1.B02.A1.E03,ordinary witnesses [anonymous ensemble],NONE,U3,W1,CIV,H0,FX1,CALM,L1,S1.T1.B02.A1.E03-BT03,the word,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E03.md; values are the episode end state
 S1.T1.B02.A1.E04,Trip,NONE,U1,W1,FUN,H0,FX0,CALM,L1,S1.T1.B02.A1.E04-BT01,a nervous good night,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E04.md; values are the episode end state
 S1.T1.B02.A1.E04,Trip,NONE,U1,W1,FUN,H0,FX0,CALM,L1,S1.T1.B02.A1.E04-BT02,the theories table,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E04.md; values are the episode end state
 S1.T1.B02.A1.E04,Trip,NONE,U1,W1,FUN,H0,FX0,CALM,L1,S1.T1.B02.A1.E04-BT03,the joke,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E04.md; values are the episode end state
@@ -196,9 +196,10 @@ S1.T1.B02.A3.E39,Trip + Kesi Albright,NONE,U1,W1,FUN,H0,FX0,CALM,L1,S1.T1.B02.A3
 S1.T1.B02.A3.E39,Trip + Kesi Albright,NONE,U1,W1,FUN,H0,FX0,CALM,L1,S1.T1.B02.A3.E39-BT02,the night,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E39.md; values are the episode end state
 S1.T1.B02.A3.E40,"Bastien ""Baz"" Arnaud + Lucien Kael",NONE,U1,W1,SCI,H0,FX0,CALM,L2,S1.T1.B02.A3.E40-BT01,the lean and the reports,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E40.md; values are the episode end state
 S1.T1.B02.A3.E40,"Bastien ""Baz"" Arnaud + Lucien Kael",NONE,U1,W1,SCI,H0,FX0,CALM,L2,S1.T1.B02.A3.E40-BT02,the model,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E40.md; values are the episode end state
-S1.T1.B02.A3.E41,Silence + Hope,NONE,U1,W0,INT,H0,FX0,VT,L1,S1.T1.B02.A3.E41-BT01,the brush,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E41.md; values are the episode end state
-S1.T1.B02.A3.E41,Silence + Hope,NONE,U1,W0,INT,H0,FX0,VT,L1,S1.T1.B02.A3.E41-BT02,their noticing,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E41.md; values are the episode end state
+S1.T1.B02.A3.E41,Silence + Hope,NONE,N/A,W0,INT,H0,FX0,VT,L1,S1.T1.B02.A3.E41-BT01,the brush,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E41.md; values are the episode end state
+S1.T1.B02.A3.E41,Silence + Hope,NONE,N/A,W0,INT,H0,FX0,VT,L1,S1.T1.B02.A3.E41-BT02,their noticing,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E41.md; values are the episode end state
 S1.T1.B02.A3.E42,"Bastien ""Baz"" Arnaud",NONE,U1,W1,SCI,H0,FX0,CALM,L1,S1.T1.B02.A3.E42-BT01,"records, calls, maps",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E42.md; values are the episode end state
+S1.T1.B02.A3.E42,"Bastien ""Baz"" Arnaud",NONE,U1,W1,SCI,H0,FX0,CALM,L1,S1.T1.B02.A3.E42-BT02,Naima,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E42.md; values are the episode end state
 S1.T1.B02.A3.E43,Ramon Espina,NONE,U1,W1,CIV,H0,FX0,CALM,L1,S1.T1.B02.A3.E43-BT01,the family across the river,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E43.md; values are the episode end state
 S1.T1.B02.A3.E43,Ramon Espina,NONE,U1,W1,CIV,H0,FX0,CALM,L1,S1.T1.B02.A3.E43-BT02,the rents,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E43.md; values are the episode end state
 S1.T1.B02.A3.E43,Ramon Espina,NONE,U1,W1,CIV,H0,FX0,CALM,L1,S1.T1.B02.A3.E43-BT03,the shutters,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E43.md; values are the episode end state

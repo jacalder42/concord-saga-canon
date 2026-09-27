@@ -311,15 +311,32 @@
         "name": "Silence",
         "kind": "metaphysical construct",
         "authority": "decisions/MIRA_AND_SILENCE_HOPE_ORIGIN_AUTHOR_RULING_2026-09-26.md (Silence and Hope are metaphysical constructs without a clear beginning); v4.1b prologue",
-        "pov_scope": "the B01 prologue (PR); VeilThread interludes"
+        "pov_scope": "the B01 prologue (PR); VeilThread interludes",
+        "mortal_corridor": "N/A: a non-mortal perspective; the mortal corridor scale does not apply (CHK_EPISODE_BAND accepts CORRIDOR N/A only when every POV holder is non-mortal; decisions/B02_AUDIT_ANSWERS_AND_B03_EBCI_RELEASE_AUTHOR_RULING_2026-09-27.md Q-B2-6)"
       },
       {
         "name": "Hope",
         "kind": "metaphysical construct",
         "authority": "decisions/MIRA_AND_SILENCE_HOPE_ORIGIN_AUTHOR_RULING_2026-09-26.md; decisions/HOPE_LACUNA_KADE_AND_M54_AUTHOR_ANSWERS_2026-09-26.md (the Hope Bible stands); v4.1b prologue",
-        "pov_scope": "the B01 prologue (PR); VeilThread interludes"
+        "pov_scope": "the B01 prologue (PR); VeilThread interludes",
+        "mortal_corridor": "N/A: a non-mortal perspective; the mortal corridor scale does not apply (CHK_EPISODE_BAND accepts CORRIDOR N/A only when every POV holder is non-mortal; decisions/B02_AUDIT_ANSWERS_AND_B03_EBCI_RELEASE_AUTHOR_RULING_2026-09-27.md Q-B2-6)"
       }
-    ]
+    ],
+    "anonymous_classes": [
+      {
+        "tag": "anonymous ensemble",
+        "kind": "several unnamed one-scene witnesses",
+        "authority": "decisions/B02_AUDIT_ANSWERS_AND_B03_EBCI_RELEASE_AUTHOR_RULING_2026-09-27.md Q-B2-6 (B02 E03's four ordinary witnesses)",
+        "use": "An episode or supplement may inhabit ordinary unnamed witnesses without registering them as cast. Write the POV as a plain description followed by the tag, e.g. `ordinary witnesses [anonymous ensemble]`. Never used to pull a later recurring character backward."
+      },
+      {
+        "tag": "anonymous witness",
+        "kind": "one unnamed one-scene witness",
+        "authority": "decisions/B02_AUDIT_ANSWERS_AND_B03_EBCI_RELEASE_AUTHOR_RULING_2026-09-27.md Q-B2-6",
+        "use": "As above, for a single unnamed witness, e.g. `a night nurse [anonymous witness]`."
+      }
+    ],
+    "_note_anonymous": "Added 2026-09-27 (decisions/B02_AUDIT_ANSWERS_AND_B03_EBCI_RELEASE_AUTHOR_RULING_2026-09-27.md): the validator serves the ontology. A narrative may briefly inhabit an anonymous or one-scene witness without promoting that person into the recurring cast registry."
   },
   "breadcrumb_grid": {
     "_status": "Schema for grids/breadcrumbs.csv, activated 2026-09-27 by author instruction (decisions/PROGRESSIVE_RESOLUTION_SEQUENCE_AUTHOR_INSTRUCTION_2026-09-27.md; proposals/BREADCRUMB_LEDGER_ACTIVATION_2026-09-27.md). The first nine columns are the original header; payoff_dependency, payoff_function and payoff_locator were appended when the file had no rows. A breadcrumb's identity is its function and payoff, not an episode: SIDs are locators and may move. Checked by tools/validate_canon.py CHK_BREADCRUMB_GRID (structure only; whether a plant is worth keeping is editorial).",
