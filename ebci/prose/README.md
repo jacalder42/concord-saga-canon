@@ -32,3 +32,7 @@ preceding prose. **No layer between packets and prose** (no treatments, dialogue
 **Act by act, never all 144 at once:** derive B01 Act I's prose packets immediately before drafting Act
 I; draft; reconcile what prose discovered with canon and EBCI; then derive Act II. After B01's prose,
 reconcile Veil continuity before deriving B02's packets.
+
+## The writer profile
+
+`WRITER_PROFILE_JA_CALDER.md` is the one stable instruction set that accompanies every packet (draft for the author's review, 09-27). It is **recovered, not invented**: `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md` registers every source, its provenance and the conflicts. It carries no scores, ratios or required beats.

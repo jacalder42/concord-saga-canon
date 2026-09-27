@@ -12385,4 +12385,31 @@ END OF ENTRY 225
 
 ===============================================================
 
+# 226. The J.A. Calder writer profile, recovered and consolidated — 2026-09-27
+
+**Status:** LEDGER ENTRY. The production task named in `decisions/B01_ACT_I_PROSE_PACKETS_AND_WRITER_PROFILE_AUTHOR_RULING_2026-09-27.md`.
+
+**Recovered** (`recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md`, a new register; no source altered):
+- **The two voice files the author uploaded on 2025-11-17** (*"JA Calder voice test.docx"*, the Calder Voice Integration Brief; *"JA Calder.docx"*, the Compendium sections I–V). Their text survives **only in the export's `.json` tool messages**; the markdown drops it. ChatGPT-authored and **adopted** by the author as his voice files.
+- **The author's own words**, twelve lines verified in the export (people, not logic constructions; charm and candour; melodrama as a tool, denied momentum; the Fuck-it Principle as the starter's gun; too many em dashes; the romance system's nuance; fun, wonder and slice of life as pressure relief).
+- **Notion's Calder OS Manual** (fetched): 00.06 Author Voice Manual — Lite, 1.2 Wonder Engine, 1.3 Humor Engine, 1.4 Fuck-It Principle.
+- The romance memory edition (saved at the author's instruction).
+- The repository's Mechanica, humour and 09-27 rulings.
+
+**Conflicts resolved by the C3 precedence rule:** cadence (the adopted Brief over the self-locked capsule); em dashes (the author: sparing); numbers as imagery (the 09-27 phenomenological ruling); the Brief's required beats, gear ratios and Compatibility Test scoring (**excluded**: the 09-27 rulings forbid scheduling spontaneity and quotas).
+
+**Consolidated:** `ebci/prose/WRITER_PROFILE_JA_CALDER.md` (about 1,300 words), the single stable instruction set for every packet. Covers voice, POV, rhythm, feeling, dialogue, humour, wonder, the Fuck-it moment, the strange on the page, action, romance and heat, and line-level tells.
+
+**Open for the author:** Q-WP1, tense (no ruling exists; recommended third limited, past tense for Veil); Q-WP2, Veil's heat ceiling (the memory edition's H0–H1 common, H2 rare, no H4, R ceiling, against the trilogy context's H0–H4); Q-WP3, character voices (recommended: no new layer; the preceding prose carries voice, and a first appearance may promote one line from the card).
+
+**Not imported:** the export's simulated editorial-board quotes in real people's names.
+
+**Next:** the author's review of the Act I packet set and the profile. No canonical prose.
+
+**Checks:** canon scope 0 violations (368 files).
+
+END OF ENTRY 226
+
+===============================================================
+
 END RECOVERY LEDGER
