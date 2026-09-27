@@ -105,3 +105,30 @@ is kept in the card's Conflict Ledger, as dated superseded text.
   - Tahl's death specifics (the next task after the saga-lock check);
   - Rex in B05, apart from brokering the Tahl meeting;
   - M39's recipients and content.
+
+---
+
+## 5. Follow-up: the Kade card correction is approved and applied (2026-09-27)
+
+**The author:** *"Approve the Kade card fix, then proceed"*.
+
+**Applied exactly as specified in §4:**
+
+- **KadeEBCI §NEON** now reads: listener, not yet a public voice; private grief; a first MT post in
+  the B06 epilogue or at the B07 funeral (M23). The five old lines move to **§LOOM**, after the funeral
+  (M40), and are kept in a new **Canon Conflict Ledger** at the end of the card.
+- **KadeID §I:** *"Neon listener → Loom catalyst and fracture → redemption carrier"*.
+- **KadeID §VIII:** Neon is the listener, grief and first-post threshold; the
+  *"idealism → misinterpretation → influence → fracture"* line moves to Loom. The old lines are kept
+  in KadeID §IX.
+
+**Also in conflict with Q4, but outside the approved edit, so flagged and not edited:**
+
+- KadeRender §1: *"BASELINE — NEON (EARLY–MID) / Usage: Kade's rise as an MT-adjacent voice"*.
+- KadeRender §2: *"AMPLIFIED — NEON (LATE) / Usage: Narrative runaway phase"*.
+- KadeEBCI's role function: *"why Neon fractures"*.
+
+The render states' visual reads may stand as written. Only their **usage labels** and **phase names**
+place the rise in Neon. The suggested fix is to relabel them to Loom (B07 onward), keeping the visuals.
+That needs the author's approval.
+

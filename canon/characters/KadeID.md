@@ -5,7 +5,7 @@
 - **Origin:** Bristol, UK
 - **Heritage (locked current path):** British-Ghanaian
 - **Role Function:** narrative vector; **MT successor**; truth amplifier under pressure
-- **Trilogy Role:** Neon catalyst → Loom fracture → redemption carrier
+- **Trilogy Role:** Neon listener → Loom catalyst and fracture → redemption carrier
 
 ## II. Cultural Origin & Early Imprint
 - **Raised in:** Bristol’s protest-music / spoken-word ecosystem; community arts + youth collectives + documentary crews
@@ -31,13 +31,14 @@
 - MT sensitivity manifests as emotional pattern recognition through story; clarity spikes while consuming Tahl’s work; intuitive grasp of narrative pressure
 
 ## VIII. Trilogy Anchor Facts (Identity-Relevant)
-- **Neon:** idealism → misinterpretation → influence → fracture
-- **Loom:** manipulated by Brightbreak; nearly weaponized; stopped by Tahl’s echo; forced toward responsibility over righteousness
+- **Neon:** listener; grief after Tahl's death; first post at the Neon/Loom threshold (B06 epilogue or B07 funeral). No public rise before Tahl's death (ruled 2026-09-27)
+- **Loom:** idealism → misinterpretation → influence → fracture; manipulated by Brightbreak; nearly weaponized; stopped by Tahl’s echo; forced toward responsibility over righteousness
 - **Canon constraints:** does not ascend; cannot replace Tahl; must learn restraint; power is human-scale
 
 ## IX. Canon Conflict Ledger (Preserved Record)
 The following legacy variants exist in source materials and are retained as historical drift (superseded by the locked current path above unless you explicitly re-open):
 - **Alt ethnicity line:** “Mixed-race (South Asian + White British)”
 - **Alt household detail set:** Easton/St. Paul’s listed as neighborhood options; household warmth inconsistent; creativity encouraged by one parent and discouraged by the other
+- **Superseded 2026-09-27** (author ruling, `decisions/SAGA_STRUCTURE_ADJUDICATION_AUTHOR_ANSWERS_2026-09-27.md` Q4; card edit approved by the author): "Trilogy Role: Neon catalyst → Loom fracture → redemption carrier" and "Neon: idealism → misinterpretation → influence → fracture". The public rise moves to Loom
 
 END — KADE HARPER IDENTITY CANON

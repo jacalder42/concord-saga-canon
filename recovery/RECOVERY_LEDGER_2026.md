@@ -10116,4 +10116,34 @@ END OF ENTRY 139
 
 ===============================================================
 
+# 140. Kade card correction applied after the Q4 ruling — 2026-09-27
+
+**The author:** *"Approve the Kade card fix, then proceed"*.
+
+**Applied** as specified in `decisions/SAGA_STRUCTURE_ADJUDICATION_AUTHOR_ANSWERS_2026-09-27.md` §4,
+and recorded in its §5:
+
+- **`canon/characters/KadeEBCI.md`:**
+  - §NEON is now: listener; private grief; a first post in the B06 epilogue or at the B07 funeral.
+  - The five old Neon lines move to §LOOM, after the funeral.
+  - A new Canon Conflict Ledger at the end keeps the old lines.
+- **`canon/characters/KadeID.md`:**
+  - §I now reads "Neon listener → Loom catalyst and fracture → redemption carrier".
+  - §VIII: the Neon line is rewritten, and the *"idealism → … → fracture"* line moves to Loom.
+  - §IX keeps the old lines, dated.
+
+**Flagged, not edited** (outside the approved edit):
+
+- KadeRender §1–§2 usage labels: *"Kade's rise as an MT-adjacent voice"* and *"Narrative runaway
+  phase"*, both under Neon.
+- KadeEBCI's role-function line *"why Neon fractures"*.
+
+The suggested fix is to relabel them to Loom, keeping the visuals.
+
+**Checks:** canon scope 0; 144 self-tests.
+
+END OF ENTRY 140
+
+===============================================================
+
 END RECOVERY LEDGER

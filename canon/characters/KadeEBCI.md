@@ -106,13 +106,15 @@ Kade is a **weather front**, not a source of order.
 - Not present
 
 ### NEON
-- Emergent voice
-- Influence rises faster than judgment
-- MT becomes megaphone
-- Misinterpretation spreads
-- Fracture accelerates
+- Listener, not yet a public voice: no public rise before Tahl's death (ruled 2026-09-27)
+- Private grief after Tahl's death
+- First MT post, believing it private: the B06 epilogue, or the B07 funeral (grid M23, lean)
 
 ### LOOM
+- Emergent voice after the funeral (Lacuna inspires him to post; grid M40)
+- Influence rises faster than judgment
+- MT becomes megaphone
+- Misinterpretation spreads; fracture accelerates (Elias subverts him from B07 Act III)
 - Central POV
 - Nearly weaponized by Brightbreak
 - Stopped by Tahl’s echo
@@ -175,3 +177,11 @@ Failure expresses as:
 - Must relinquish volume to regain integrity
 
 ---
+
+## CANON CONFLICT LEDGER (PRESERVED RECORD)
+
+**2026-09-27, author ruling** (`decisions/SAGA_STRUCTURE_ADJUDICATION_AUTHOR_ANSWERS_2026-09-27.md` Q4; card edit approved by the author). The NEON section's
+earlier lines, now superseded:
+
+- "Emergent voice", "Influence rises faster than judgment", "MT becomes megaphone", "Misinterpretation
+  spreads", "Fracture accelerates". Moved to LOOM, after the funeral.
