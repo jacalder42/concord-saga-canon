@@ -14,7 +14,7 @@ Q-LS2). **Nothing else in B01, and nothing in B02 or B03, is released.**
 | `B01/S1.T1.B01.A2.E18.md` … `B01/S1.T1.B01.A3.E48.md` | **Acts II–III** (S04–S06 inside E28, E35, E48); **labels in reading order** (old E37 → E36, E36 → E37, E44 → E43, E43 → E44) | DRAFT, awaiting the full-B01 audit |
 | `B01/S1.T1.B01.A2.E31.md`, `…E33.md` | the pilot (Life/Reward; event) | REVIEWED |
 
-**B01 is complete at EBCI resolution:** 49 packets (the prologue and 48 episodes), 247 beat rows in
+**B01 is complete at EBCI resolution:** 49 packets (the prologue and 48 episodes), 248 beat rows in
 `grids/episode_beats.csv`, six supplement rows in `grids/supplement_deployment.csv`.
 
 ## Rules
@@ -29,4 +29,4 @@ Q-LS2). **Nothing else in B01, and nothing in B02 or B03, is released.**
   §4): *"If I handed this to a good novelist, would it help them write a better scene—or would they
   spend their energy satisfying the packet?"* If E31 reads as predetermined, EBCI is simplified before
   any further packet is built.
-- **Now:** the full-B01 audit (ten tests and the anti-optimisation test, `decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md` §3), then a stop.
+- **The full-B01 audit is written** (`reports/B01_FULL_EBCI_AUDIT_2026-09-27.md`): the architecture passes; the briefs are overbuilt, and a compression pass is proposed before B02 EBCI. Five brief defects were fixed (POV breaches, a name leak, scaffolding).

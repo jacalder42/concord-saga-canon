@@ -12184,4 +12184,23 @@ END OF ENTRY 214
 
 ===============================================================
 
+# 215. The B01 full EBCI audit — 2026-09-27
+
+**Status:** LEDGER ENTRY. The stop after the full B01 build (§214). An editorial report, plus five defect fixes to packet briefs.
+
+**Written:** `reports/B01_FULL_EBCI_AUDIT_2026-09-27.md`: the author's ten tests and the anti-optimisation test. **Method:** an independent adversarial read of all 49 narrative briefs for the judgement tests (1, 4, 7, 8, 9, anti-optimisation), its claims checked against the packets; Claude's measurements for the rest (POV, ECID, LOAD and tracking in reading order; breadcrumb density).
+
+**Findings:**
+- **Architecture passes.** E15 → E33 → E45 → E48 escalate in kind (air, glass, ground, still water), in knowledge (nothing predicted → window and miss → preparation → window, kind, posts, null log) and in consequence; intensity peaks at E45 and E48 is the quietest. Seraphine and Lucien change; Baz changes positionally (his one interior step is E43); Caro has one step (E30), a seed. The knowledge economy is sound, with gaps (E29's validation unpaid; E47's reasoning for still surfaces unstated; Mara's post, fixed). **Nothing reaches B02–B09.** Seraphine's B01 share measures 18/48 solo (the nine-book audit's reading gave 10); saga about 26%.
+- **The briefs are overbuilt, by the author's own test**: the independent read's verdict, which Claude largely accepts. Seams: E10–E13 four coping failures; E35 → S05 → E37 → E38 the same news four times; the trio roll call six times; *care is not control* as a turn six times; epigram exits and an *"X before Y"* formula as house voice; no felt calendar. Relationships: E24 and E39 the same argument; **Caro/Elisabet too thin** (E30 assumes a setup the briefs never make). Breadcrumbs: the control layer disciplined (30 carries), the briefs loaded; four musicians; from E15 on every named object does work. Necessity: E12, E38, S05, E16/E17, E26/E43 duplicate; nothing merged (rule 30). Prose freedom: event "may show" lists are shot lists; E13 and E24 prescribe the discovery; E42 schedules comedy; S06 dictates the last note. **Anti-optimisation: the mess is scheduled.**
+- **Tracking:** Act III is thin on fun; the longest fun-free run is five episodes; wonder three times after the prologue.
+
+**Fixed (defects, not judgements):** D1 point-of-view breaches at E16, E18, E23, E32 and E48 (Seraphine at her post); D2 E06's brief named Lacuna (moved to control); D3 a cast id in E20's brief (removed); D4 scaffolding in E33, E44 and E45 briefs (removed or moved to control); D5 E47 now assigns Mara's people a post. Packets regenerated; 248 beat rows (E47 gains a beat). Canon scope 0; 165 self-tests.
+
+**Proposed:** a **compression pass C1–C9** on the briefs, then the template, **before B02 EBCI** (state, don't script; events keep only the required observable, other images move to control as options; relationship beats name the rung; comedy as permission; **unassigned room** in plot episodes; differentiate the E35–E38 run; firm E28 for Caro/Elisabet; differentiate E11/E12, E26/E43, E24/E39, E16/E17; place E29's validation and E47's reasoning). **Questions:** Q-FB1 (the pass), Q-FB2 (no merges), Q-FB3 (B01's season and a felt calendar), Q-FB4 (then release B02). **B02 and B03 stay held.**
+
+END OF ENTRY 215
+
+===============================================================
+
 END RECOVERY LEDGER
