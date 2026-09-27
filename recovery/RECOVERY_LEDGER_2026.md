@@ -11346,4 +11346,28 @@ END OF ENTRY 177
 
 ===============================================================
 
+# 178. LT and post-Mending end-state audit (D15, D16) — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an editorial report. Nothing is ruled, and no card, rule, row or ruling is edited.
+
+**The author, verbatim:** "Proceed with deferred passes"
+
+**Written:** `reports/LT_POST_MENDING_END_STATE_AUDIT_2026-09-27.md`, the deferred LT and end-state audit (D15, D16).
+
+**Key finding:** two author statements, uncited until now, call LT **VT's successor**: *"post Mending VT converted to LT (LuminousThread)"* (2025-11-29, *Narrative Structure* l. 75231) and *"LT = LuminousThread the successor to VT"* (2025-12-11, *Character Vault Chat* l. 45843). They conflict with `LT_RULES` §1, `VT_RULES` §9 (*"VT does not evolve into LT"*) and Mechanica §36. The report offers a reconciling reading, not a choice: VT closes at the Mending, when Silence and Hope disperse, and LT opens as a new channel.
+
+**Other findings:**
+- D15: CALM, BLOOM (bounded), NODE and LT are permitted; SHARD and RUPTURE are forbidden; VT depends on the successor question.
+- D16: the author's *"much like Tahl and VT"* argues for rare, bounded contact. His own 11-29 and 12-07 words leave Kade's LT prompt **open**; the accepted 11-30 acceptance beat is assistant text.
+- *"More tangible than VT"* is tied by the author to Tahl as conduit, so it can be scoped to the echo-borne reach.
+- Loose ends recorded, not fixed: a stale `_thread_note` in `canon_rules.json` (MT *"renamed LT"*, superseded by M35); a wrong §44 pointer in Mechanica §42A.5; `LT_RULES` §9 *"LT enforces"* against §42A.3; the undefined *"post-Mending anchors"*; Lucien's and Caro's post-Mending card lines; the Concord name against `Concord-Limits.md` (D11).
+
+**Six questions** are put, with recommended answers (report §7).
+
+**The holds stand:** B03 and B01 EBCI. The post-Mending era file stays held.
+
+END OF ENTRY 178
+
+===============================================================
+
 END RECOVERY LEDGER
