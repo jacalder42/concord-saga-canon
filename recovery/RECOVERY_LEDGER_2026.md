@@ -11675,4 +11675,24 @@ END OF ENTRY 190
 
 ===============================================================
 
+# 191. B03 at architecture level; Veil trilogy audit instructed — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers (approved design) and an instruction. Nothing is ruled.
+
+**The author, verbatim:** "Yes to both 1 and 2. Begin trilogy audit, then evaluate each book as a standalone novel"
+
+**Recorded in** `decisions/B03_PASS5_FOLLOWUP_AND_VEIL_AUDIT_INSTRUCTION_2026-09-27.md`:
+1. E11 keeps Seraphine hearing Rosette's survival cited.
+2. Pass 4's concrete choices in the episodes pass 5 did not revise are approved as design.
+
+**Result:** B03 is at episode-architecture level (pass 4 as revised by pass 5). **Step 3 is complete for B02 and B03.**
+
+**Instructed:** step 4, the Veil trilogy audit, then an evaluation of each book as a standalone novel. Under way.
+
+**The hold that stands:** B01 EBCI, released by the author after the audit (B5).
+
+END OF ENTRY 191
+
+===============================================================
+
 END RECOVERY LEDGER
