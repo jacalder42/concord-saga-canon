@@ -12311,4 +12311,24 @@ END OF ENTRY 221
 
 ===============================================================
 
+# 222. B03 EBCI built — 2026-09-27
+
+**Status:** LEDGER ENTRY. The build released by §221. Production layer; no canon change.
+
+**Built:** `ebci/B03/`, **48 packets** (A1 E01–E15, A2 E16–E30, A3 E31–E45, `EP` E46–E48) under the compressed template, from `proposals/B03_EPISODE_BEATS_PASS4_2026-09-27.md` as revised by `…_PASS5_2026-09-27.md`. **Overrides applied:** refinements §4 (E07 a Detroit condition, not a repairman; E13 complementary, with the walk back; E29 → E32 → E36 the forklift operator's late unload, the walk-out, the collapsed bay; E35 the father's agency) and the Veil audit amendments §2 (E13, E35); nine-book **V1** (the mark on S01–S03 and on Tahl's E48 post; S04 is a civic notice and carries none), **V2** (E35, E44 Seraphine-led), **V4** (E47: no sky line). **Supplements** S01–S04 inside E04, E18, E31 and E42. **Grids:** 98 B03 beat rows (B01 114, B02 100 kept); four rows `B03-S01`–`S04`.
+
+**POV:** pass 3's owners; unnamed people hold POVs through the anonymous classes (§221): the forklift operator (E19 with Kesi, E29), the institutional analysts (E28), the people at the barrier (E32), the ambulance responder (E34), the responders at the dock gap (E39 with Leila). E09 Baptiste (B05), E21 Mara (A01) `[P]`, E36 Baz + Rieux, E46–E48 Tahl (unnamed on the page at E46).
+
+**Created:** `act_overlays/act_overlay_S1_T1_B03_EP.json`, the epilogue's positional home: **A3's band inherited verbatim, no new envelope**, authored fields TODO. It records that A3's **W4 exception names `S1.T1.B03.A3.E14`, a pre-pass-3 number, for the brush Tahl notices**, now EP E47; not moved without the author.
+
+**Provisional, raised at the audit:** RES RUPTURE at E36–E38 (a control-layer classification from M08's name; the page certifies neither reading); E47's W3 and the stale W4 exception; B03's calendar (`[P]`, September to early October from the approved frame); E21's POV.
+
+**Checks:** canon scope 0 violations (343 files); 170 self-tests pass; no drift.
+
+**Next:** the combined B03 + Veil trilogy audit, then a stop.
+
+END OF ENTRY 222
+
+===============================================================
+
 END RECOVERY LEDGER

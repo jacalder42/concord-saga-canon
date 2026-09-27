@@ -9,3 +9,7 @@ B02-S01,,,LORE,PING,MT,,after S1.T1.B02.A1.E07,,Y,planned,"M04: the anonymous MT
 B02-S02,,,POL,TENSION,CHRON,,after S1.T1.B02.A2.E27,,Y,planned,The clearance order's civic notice; promises return after review (E47 breaks it); CHRON is the nearest vehicle [P]; spec in ebci/B02/S1.T1.B02.A2.E27.md
 B02-S03,,,LORE/POL,LINK,MT,,after S1.T1.B02.A2.E29,,Y,planned,"Correction: trust through restraint, no forecast; the triangle mark (V1); spec in ebci/B02/S1.T1.B02.A2.E29.md"
 B02-S04,,,LORE,PING,MT,,after S1.T1.B02.A3.E40,,Y,planned,Southwest: an independent discrepancy; the triangle mark (V1); spec in ebci/B02/S1.T1.B02.A3.E40.md
+B03-S01,,,LORE,PING,MT,,after S1.T1.B03.A1.E04,,Y,planned,"Southwest, sourced; the triangle mark (V1); spec in ebci/B03/S1.T1.B03.A1.E04.md"
+B03-S02,,,LORE,LINK,MT,,after S1.T1.B03.A2.E18,,Y,planned,A correction: the lean does not predict a site; the triangle mark (V1); spec in ebci/B03/S1.T1.B03.A2.E18.md
+B03-S03,,,LORE,TENSION,MT,,after S1.T1.B03.A3.E31,,Y,planned,"The coordinates (M11, A6): accurate, a warning; the triangle mark (V1); no blame; spec in ebci/B03/S1.T1.B03.A3.E31.md"
+B03-S04,,,POL,TENSION,CHRON,,after S1.T1.B03.A3.E42,,Y,planned,The official account (A7): self-interested; Baz unnamed and misdescribed; CHRON is the nearest vehicle [P]; spec in ebci/B03/S1.T1.B03.A3.E42.md

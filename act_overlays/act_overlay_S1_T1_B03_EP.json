@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "act_id": "S1.T1.B03.EP",
+  "book_id": "B03",
+  "trilogy_id": "T1",
+  "_position_note": "EP is a structural position beside the three acts, not an act (Ruling 6, GATE_RULINGS_2026-09-20); this file does not count toward the 27 act overlays. Created 2026-09-27 at the B03 EBCI release (decisions/B02_AUDIT_ANSWERS_AND_B03_EBCI_RELEASE_AUTHOR_RULING_2026-09-27.md) so the three-episode epilogue (E46-E48, approved: decisions/B03_PASS3_AUTHOR_ANSWERS_2026-09-27.md Q8) has a positional home. **It declares no new envelope**: the band is A3's, inherited verbatim. No authored field is filled.",
+  "act_thesis": "TODO",
+  "escalation_permissions": {
+    "corridor": {
+      "min": "U1",
+      "max": "U5"
+    },
+    "weather": {
+      "min": "W0",
+      "max": "W3"
+    },
+    "fx": {
+      "min": "FX1",
+      "max": "FX2"
+    },
+    "exceptions": [],
+    "basis": "inherited",
+    "source": "act_overlays/act_overlay_S1_T1_B03_A3.json (verbatim; no epilogue envelope is ruled)",
+    "basis_note": "A3's W4 exception names S1.T1.B03.A3.E14, a pre-pass-3 number, for 'the first VT brush Tahl notices', which the approved architecture places at EP E47. It is NOT carried here; whether it moves to S1.T1.B03.EP.E47 is put to the author at the B03 + Veil audit."
+  },
+  "deltas": "TODO",
+  "act_success_criteria": "TODO",
+  "forbidden_shortcuts": "TODO"
+}
