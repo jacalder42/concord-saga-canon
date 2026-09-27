@@ -12476,4 +12476,16 @@ END OF ENTRY 230
 
 ===============================================================
 
+# 231. Q-DR1–6 answered; B01 drafting continues — 2026-09-27
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_DRAFTING_CHECKPOINT_E00_E04_AUTHOR_ANSWERS_2026-09-27.md`. The author: *"Q-DR1–6 all as recommended; continue drafting E05 onward."*
+
+**Decided (approved design, manuscript only):** E02's place-bound pressure stays; the Tier-1 card governs Seraphine's job, and B01's entry state (*OPEN*) is to be noted at the next overlay touch; Caro's New Orleans years are accepted as an early-career move; *Carol* is renamed at revision; E04's Marigny is accepted; the plumb weight is Lucien's.
+
+**Next:** draft E05–E17 and S01–S03 in reading order with the same stack, then stop at the end of Act I for the author and the prose-pattern pass. New identity context: Trip (E06), Mara (E09, with a POV line), Baz (E17).
+
+END OF ENTRY 231
+
+===============================================================
+
 END RECOVERY LEDGER
