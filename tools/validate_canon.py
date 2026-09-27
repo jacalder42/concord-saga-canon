@@ -51,6 +51,20 @@ CHK_BREADCRUMB_GRID  `grids/breadcrumbs.csv` against `breadcrumb_grid` in
                  SID. Structure only; whether a plant earns its place is
                  editorial (rules/validation_checks.json CHK_BREADCRUMBS). Added
                  2026-09-27, ledger 198.
+CHK_BID_FORMAT   EBCI beat ids are `{SID}-BTnn`: the SID parses, the beat number is two
+                 digits, and the SID is the packet's (or the grid row's) own. Added
+                 2026-09-27 for the B01 two-packet pilot, ledger 210.
+CHK_EPISODE_BAND An EBCI packet's (or beat row's) CORRIDOR, WEATHER and FX sit inside its
+                 act's band in act_overlays/, or are covered by a declared exception
+                 naming that episode's SID (Ruling 5). A position with no overlay (PR
+                 until its overlay exists) has no band and fails.
+CHK_PACKET_LINKS Every `BC-` id and milestone id a packet cites resolves (a retired
+                 milestone is a notice). A LOCKED breadcrumb carried on the packet's
+                 `Breadcrumbs:` line must be placed at this SID: in its introducing or
+                 reinforcing SIDs, or at its payoff locator.
+CHK_POV          The POV names a known cast member: a `canon/characters/` card or a
+                 person in `canon/cast_registry.csv`, by name, first name or quoted
+                 nickname. `ensemble` is not a POV.
 CHK_VT_CAP       `VT` Glimpses are capped at 10-12 across all nine books
                  (`supplement_system.constraints`). Exceeding the maximum is a
                  violation; being under the minimum is not, since the saga is
@@ -59,7 +73,8 @@ CHK_VT_CAP       `VT` Glimpses are capped at 10-12 across all nine books
 Scope
 -----
 By default the canon substrate is scanned: rules/, canon/, grids/, book_context/,
-act_overlays/, templates/, source_canon/.
+act_overlays/, templates/, source_canon/; and the EBCI production packets in ebci/
+(created 2026-09-27 for the B01 pilot), which are held to canon scope.
 
 `recovery/`, `proposals/`, `reports/`, `decisions/` and `CLAUDE.md` are excluded by default because they are
 meta-documentation that deliberately quotes malformed identifiers while documenting
@@ -93,6 +108,10 @@ SUBSTRATE_DIRS = [
     "rules", "canon", "grids", "book_context",
     "act_overlays", "templates", "source_canon",
 ]
+# EBCI production packets (B01 pilot released 2026-09-27, ledger 210). Not substrate
+# (no rule lives there), but scanned by default and held to canon scope: a packet
+# with a retired name or a malformed SID is a defect, not a quotation.
+EBCI_DIRS = ["ebci"]
 # reports/ and decisions/ joined all-scope 2026-09-25 (ledger 76). Before that they
 # were scanned in NEITHER scope, which is how retired names re-entered reports/
 # unseen: 23 then 30 Technarch occurrences with no check able to count them.
@@ -272,7 +291,7 @@ def load_rules():
 
 
 def iter_files(include_meta):
-    roots = list(SUBSTRATE_DIRS)
+    roots = list(SUBSTRATE_DIRS) + list(EBCI_DIRS)
     if include_meta:
         roots += META_DIRS
     for root in roots:
@@ -629,6 +648,279 @@ def check_breadcrumb_grid(path, rules, out, milestone_status=None):
                                  f"{bid} has no payoff_function: a plant without a payoff is an orphan"))
 
 
+# --------------------------------------------------------------------------- #
+# EBCI packets and beat rows (B01 two-packet pilot, 2026-09-27, ledger 210)
+# --------------------------------------------------------------------------- #
+
+EPISODE_BEATS_GRID = "grids/episode_beats.csv"
+BID_RX = re.compile(r"\b(S1\.[A-Za-z0-9.]+?)-BT([A-Za-z0-9]+)\b")
+BC_ID_RX = re.compile(r"\bBC-[A-Z0-9]+(?:-[A-Z0-9]+)*\b")
+MILESTONE_ID_RX = re.compile(r"\bM\d{2}\b")
+PACKET_NAME_RX = re.compile(r"^S1\..+\.md$")
+BAND_FIELDS = {"CORRIDOR": "corridor", "WEATHER": "weather", "FX": "fx"}
+TITLE_WORDS = {"dr", "director", "officer", "councilwoman", "ms", "mme", "mr", "mrs"}
+OBLIGATION_LABELS = ("Continuity:", "Protected reveals:", "Amendments applied:")
+
+
+def _words(text):
+    return [w for w in re.split(r"[\s\"“”'‘’()]+", text) if w]
+
+
+def load_known_cast():
+    """First names, full names and quoted nicknames of known cast members.
+
+    Sources: the Tier-1 cards in canon/characters/ (file stems) and the people in
+    canon/cast_registry.csv. Registry bundle G is places and relationships, not
+    people, and is skipped.
+    """
+    known = set()
+    cdir = os.path.join(REPO, "canon", "characters")
+    if os.path.isdir(cdir):
+        for name in os.listdir(cdir):
+            m = re.match(r"^([A-Z][a-z]+)(?:[A-Z][a-z]*)?(?:ID|EBCI|Render|Appearance|Backstory|Identity)?\.md$", name)
+            if m:
+                known.add(m.group(1).casefold())
+            stem = re.match(r"^([A-Za-z]+?)(?:ID|EBCI|Render|Appearance|Backstory|Identity)\.md$", name)
+            if stem:
+                known.add(stem.group(1).casefold())
+    try:
+        with open(os.path.join(REPO, "canon", "cast_registry.csv"), encoding="utf-8",
+                  newline="") as fh:
+            for r in csv.DictReader(fh):
+                if r.get("cast_id", "").startswith("G"):
+                    continue
+                name = re.sub(r"\([^)]*\)", " ", r.get("name", "")).strip()
+                if not name:
+                    continue
+                known.add(name.casefold())
+                for nick in re.findall(r"[\"“]([^\"”]+)[\"”]", name):
+                    known.add(nick.casefold())
+                for alt in name.split("/"):
+                    words = [w for w in _words(alt)
+                             if w.strip(".").casefold() not in TITLE_WORDS]
+                    if words:
+                        known.add(words[0].casefold())
+    except OSError:
+        pass
+    return known
+
+
+def pov_is_known(value, known):
+    parts = [p.strip() for p in re.split(r"\s\+\s|,|\s/\s", value) if p.strip()]
+    if not parts:
+        return False
+    for part in parts:
+        if part.casefold() in known:
+            continue
+        if not any(w.strip(".").casefold() in known for w in _words(part)):
+            return False
+    return True
+
+
+def _check_pov(value, where, path, line, known, out):
+    if value.strip().upper() in PLACEHOLDERS or not pov_is_known(value, known):
+        out.append(Violation("CHK_POV", rel(path), line, value,
+                             f"{where}: POV must name a known cast member "
+                             "(canon/characters/ or canon/cast_registry.csv)"))
+
+
+def _check_bid(sid, bt, expected_sid, path, line, sidfmt, out):
+    m = sidfmt.finder.fullmatch(sid)
+    if not m:
+        out.append(Violation("CHK_BID_FORMAT", rel(path), line, f"{sid}-BT{bt}",
+                             "beat id's SID does not parse"))
+        return
+    for problem in sidfmt.validate(m.groups()):
+        out.append(Violation("CHK_BID_FORMAT", rel(path), line, f"{sid}-BT{bt}", problem))
+    if not re.fullmatch(r"\d{2}", bt):
+        out.append(Violation("CHK_BID_FORMAT", rel(path), line, f"{sid}-BT{bt}",
+                             "beat number must be two digits (BTnn)"))
+    if expected_sid and sid != expected_sid:
+        out.append(Violation("CHK_BID_FORMAT", rel(path), line, f"{sid}-BT{bt}",
+                             f"beat id belongs to {sid}, not to {expected_sid}"))
+
+
+def _act_band(sid, cache):
+    """escalation_permissions for the act or position a SID sits in, or None."""
+    m = re.fullmatch(r"S1\.(T\d)\.(B\d\d)\.(A[1-3]|PR|EP)\.E\d\d", sid or "")
+    if not m:
+        return None
+    key = "_".join(m.groups())
+    if key not in cache:
+        p = os.path.join(REPO, "act_overlays", f"act_overlay_S1_{key}.json")
+        try:
+            with open(p, encoding="utf-8") as fh:
+                cache[key] = json.load(fh).get("escalation_permissions")
+        except (OSError, json.JSONDecodeError):
+            cache[key] = None
+    return cache[key]
+
+
+def _check_episode_band(sid, values, path, line, vocab, out, cache):
+    ep = _act_band(sid, cache)
+    if not isinstance(ep, dict):
+        out.append(Violation("CHK_EPISODE_BAND", rel(path), line, sid,
+                             "no act band exists for this SID's position "
+                             "(no act_overlays file for it)"))
+        return
+    for field, axis in BAND_FIELDS.items():
+        raw = values.get(field, "")
+        if not raw or raw.strip().upper() in PLACEHOLDERS:
+            continue
+        band = ep.get(axis) or {}
+        dim = BAND_AXIS_VOCAB[axis]
+        lo, hi = _rank(vocab, dim, band.get("min")), _rank(vocab, dim, band.get("max"))
+        for tok in split_values(raw):
+            r = _rank(vocab, dim, tok)
+            if r is None or lo is None or hi is None or lo <= r <= hi:
+                continue
+            declared = [e for e in ep.get("exceptions") or []
+                        if isinstance(e, dict) and e.get("axis") == axis
+                        and e.get("sid") == sid
+                        and (_rank(vocab, dim, e.get("value")) or -1) >= r]
+            if not declared:
+                out.append(Violation(
+                    "CHK_EPISODE_BAND", rel(path), line, tok,
+                    f"{field} {tok} is outside the act band "
+                    f"{band.get('min')}-{band.get('max')} and no exception is declared "
+                    f"for {sid} (Ruling 5)"))
+
+
+def check_episode_beats_grid(path, sidfmt, vocab, out, known_cast=None, cache=None):
+    try:
+        with open(path, encoding="utf-8", newline="") as fh:
+            rows = list(csv.DictReader(fh))
+    except OSError:
+        return
+    known_cast = load_known_cast() if known_cast is None else known_cast
+    cache = {} if cache is None else cache
+    for lineno, r in enumerate(rows, 2):
+        sid = (r.get("SID") or "").strip()
+        if not sid:
+            continue
+        bid = (r.get("BID") or "").strip()
+        m = BID_RX.fullmatch(bid)
+        if not m:
+            out.append(Violation("CHK_BID_FORMAT", rel(path), lineno, bid,
+                                 "BID must be {SID}-BTnn"))
+        else:
+            _check_bid(m.group(1), m.group(2), sid, path, lineno, sidfmt, out)
+        _check_episode_band(sid, {f: r.get(f, "") for f in BAND_FIELDS}, path, lineno,
+                            vocab, out, cache)
+        _check_pov(r.get("POV", ""), "beat row", path, lineno, known_cast, out)
+
+
+def _sections(text):
+    sections, current = {}, ""
+    for lineno, line in enumerate(text.splitlines(), 1):
+        if line.startswith("## "):
+            current = line[3:].strip().split(" ")[0].strip("()").lower()
+            continue
+        sections.setdefault(current, []).append((lineno, line))
+    return sections
+
+
+def load_breadcrumb_rows():
+    try:
+        with open(os.path.join(REPO, BREADCRUMB_GRID), encoding="utf-8", newline="") as fh:
+            return {r["breadcrumb_id"].strip(): r for r in csv.DictReader(fh)
+                    if r.get("breadcrumb_id", "").strip()}
+    except OSError:
+        return {}
+
+
+def _placed_here(row, sid):
+    locs = [row.get("introduced_in_SID", "")] + re.split(r"[;,]\s*",
+                                                        row.get("reinforced_in_SIDs", ""))
+    if sid in [l.strip() for l in locs]:
+        return True
+    m = re.fullmatch(r"S1\.T\d\.(B\d\d)\.(?:A[1-3]|PR|EP)\.(E\d\d)", sid)
+    loc = row.get("payoff_locator", "")
+    return bool(m and m.group(1) in loc and re.search(rf"\b{m.group(2)}\b", loc))
+
+
+def check_ebci_packet(path, text, sidfmt, vocab, out, notices, known_cast=None,
+                      breadcrumbs=None, milestone_status=None, cache=None):
+    known_cast = load_known_cast() if known_cast is None else known_cast
+    breadcrumbs = load_breadcrumb_rows() if breadcrumbs is None else breadcrumbs
+    milestone_status = load_milestone_status() if milestone_status is None else milestone_status
+    cache = {} if cache is None else cache
+    sec = _sections(text)
+
+    sid, sid_line = "", None
+    for lineno, line in sec.get("header", []):
+        m = re.match(r"^SID:\s*(\S+)", line)
+        if m:
+            sid, sid_line = m.group(1), lineno
+        m = re.match(r"^POV:\s*(.+?)\s*$", line)
+        if m:
+            _check_pov(m.group(1), "packet header", path, lineno, known_cast, out)
+    if not sid:
+        out.append(Violation("CHK_BID_FORMAT", rel(path), None, "",
+                             "packet has no `SID:` line in its Header"))
+    elif not sidfmt.finder.fullmatch(sid):
+        out.append(Violation("CHK_BID_FORMAT", rel(path), sid_line, sid,
+                             "packet SID does not parse"))
+
+    ecid = sec.get("ecid", [])
+    for i, (lineno, line) in enumerate(ecid):
+        cols = [c.strip().upper() for c in line.split("|")]
+        if "CORRIDOR" in cols and "POV" in cols:
+            vals = next(((ln, l) for ln, l in ecid[i + 1:] if "|" in l), None)
+            if vals is None:
+                break
+            vline, vtext = vals
+            values = dict(zip(cols, [v.strip() for v in vtext.split("|")]))
+            for field, dim in FIELD_VOCAB.items():
+                raw = values.get(field, "")
+                if not raw or raw.upper() in PLACEHOLDERS:
+                    continue
+                allowed = {v.upper() for v in vocab[dim]}
+                for tok in split_values(raw):
+                    if tok and tok not in PLACEHOLDERS and tok not in allowed:
+                        out.append(Violation("CHK_VOCAB", rel(path), vline, tok,
+                                             f"ECID {field} expects one of {dim}"))
+            if sid:
+                _check_episode_band(sid, values, path, vline, vocab, out, cache)
+            _check_pov(values.get("POV", ""), "ECID block", path, vline, known_cast, out)
+            break
+
+    for lineno, line in sec.get("beats", []):
+        for m in BID_RX.finditer(line):
+            _check_bid(m.group(1), m.group(2), sid, path, lineno, sidfmt, out)
+
+    for lineno, line in enumerate(text.splitlines(), 1):
+        for bc in BC_ID_RX.findall(line):
+            if bc not in breadcrumbs:
+                out.append(Violation("CHK_PACKET_LINKS", rel(path), lineno, bc,
+                                     "breadcrumb id does not resolve in grids/breadcrumbs.csv"))
+        for mid in MILESTONE_ID_RX.findall(line):
+            st = milestone_status.get(mid)
+            if st is None:
+                out.append(Violation("CHK_PACKET_LINKS", rel(path), lineno, mid,
+                                     "milestone id does not resolve in the milestone grid"))
+            elif st == "retired" and notices is not None:
+                notices.append(Violation("CHK_PACKET_LINKS", rel(path), lineno, mid,
+                                         "cites a retired milestone"))
+
+    carrying, carried = False, []
+    for lineno, line in sec.get("obligations", []):
+        if line.startswith("Breadcrumbs:"):
+            carrying = True
+        elif line.startswith(OBLIGATION_LABELS):
+            carrying = False
+        if carrying:
+            carried += [(lineno, bc) for bc in BC_ID_RX.findall(line)]
+    for lineno, bc in carried:
+        row = breadcrumbs.get(bc)
+        if row and row.get("payoff_dependency") == "LOCKED" and sid \
+                and not _placed_here(row, sid):
+            out.append(Violation(
+                "CHK_PACKET_LINKS", rel(path), lineno, bc,
+                f"LOCKED breadcrumb carried here is not placed at {sid} in the ledger "
+                "(introduced, reinforced or payoff locator)"))
+
+
 def _rank(vocab, dim, token):
     order = [v.upper() for v in vocab[dim]]
     return order.index(token.upper()) if isinstance(token, str) \
@@ -980,7 +1272,7 @@ def check_retired_terms(path, text, terms, allowlist, canon_scope, out, notices)
 
 def is_canon_scope(path):
     top = rel(path).replace(os.sep, "/").split("/", 1)[0]
-    return top in SUBSTRATE_DIRS or top == "README.md"
+    return top in SUBSTRATE_DIRS or top in EBCI_DIRS or top == "README.md"
 
 
 def check_json(path, vocab, out):
@@ -1101,6 +1393,8 @@ def main():
     notices = []
     vt_rows = []
     scanned = 0
+    known_cast = load_known_cast()
+    band_cache = {}
     for path in iter_files(args.all):
         scanned += 1
         with open(path, encoding="utf-8", errors="replace") as fh:
@@ -1113,6 +1407,9 @@ def main():
                 check_milestone_grid(path, rules, vocab, violations, notices)
             if rel(path) == BREADCRUMB_GRID:
                 check_breadcrumb_grid(path, rules, violations)
+            if rel(path) == EPISODE_BEATS_GRID:
+                check_episode_beats_grid(path, sidfmt, vocab, violations,
+                                         known_cast, band_cache)
             with open(path, encoding="utf-8") as fh:
                 check_sids(path, fh.read(), sidfmt, violations)
         elif path.endswith(".json"):
@@ -1125,7 +1422,12 @@ def main():
                 check_sids(path, fh.read(), sidfmt, violations)
         else:
             with open(path, encoding="utf-8", errors="replace") as fh:
-                check_sids(path, fh.read(), sidfmt, violations)
+                text = fh.read()
+            check_sids(path, text, sidfmt, violations)
+            parts = rel(path).replace(os.sep, "/").split("/")
+            if parts[0] in EBCI_DIRS and PACKET_NAME_RX.match(parts[-1]):
+                check_ebci_packet(path, text, sidfmt, vocab, violations, notices,
+                                  known_cast, None, None, band_cache)
 
     check_vt_cap(vt_rows, supp, violations)
     check_declared_exceptions(vocab, violations, notices)

@@ -183,6 +183,7 @@
       }
     ],
     "soft_modulation": {
+      "_note": "AUTHOR CLARIFICATION 2026-09-27 (decisions/SAGA_LOCK_AND_B01_EBCI_PILOT_RELEASE_AUTHOR_ANSWERS_2026-09-27.md section 2): fun, slice of life and wonder are TRACKED FOR PRESENCE, to make sure they occur enough. They are not ceilings. The key name max_intensity and the uniform LOW are template scaffolding (proposals/concord-2026/MIGRATION_MAP_BOOK_CONTEXT_ACT_OVERLAYS.md); packets record what each episode delivers on their Tracking line.",
       "fun": {
         "allowed": true,
         "max_intensity": "LOW"

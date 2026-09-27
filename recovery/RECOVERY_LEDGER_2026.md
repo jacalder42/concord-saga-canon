@@ -12090,4 +12090,26 @@ END OF ENTRY 209
 
 ===============================================================
 
+# 210. Saga lock answered; the B01 EBCI hold released for the two-packet pilot; the pilot built — 2026-09-27
+
+**Status:** LEDGER ENTRY. Author answers and the pilot they release.
+
+**The author's words:** *"As a note the Fun/Wonder was not meant to operate as a ceiling. Those metrics are intended to be tracked to ensure they occur enough. LS1-LS3 as recommended."* **Recorded in:** `decisions/SAGA_LOCK_AND_B01_EBCI_PILOT_RELEASE_AUTHOR_ANSWERS_2026-09-27.md` (indexed).
+
+**Decided:** Q-LS1, **saga-scale architecture work ends for now** (reopens only on an EBCI or prose discovery; `CLAUDE.md` §9 item 1 marked ended). Q-LS2, **the B01 EBCI hold is released for the two-packet pilot only** (E31, E33), read with the post-audit instruction's step 4. Q-LS3, the pilot inputs (PI1 `soft_modulation` not a ceiling; PI2 E33's district picked by the author at review; PI3 the season `[P]`). **Author clarification:** fun, slice of life and wonder are tracked for presence, not capped; a dated `_note` on each B01 overlay's `soft_modulation`; the key rename is left for a later schema proposal.
+
+**Built (preflight Q4, Q5, Q8):**
+- `templates/EBCI_PACKET_TEMPLATE.md`: Appendix A as approved, plus usage rules (optional means optional; keep every element, point at none; plain words) and a **Tracking** line (fun · slice of life · wonder).
+- `ebci/README.md`; **`ebci/B01/S1.T1.B01.A2.E31.md`** (Life/Reward test: Seraphine POV [P], the Vein, six beats; opposition, unresolved, event record and wonder `none` on purpose; Lacuna a cameo) and **`ebci/B01/S1.T1.B01.A2.E33.md`** (event test: Baz POV [P] as witness, a block inside E27's zone with three district options, eight beats with observation classes, the causal card §3 as its event record). Both inside A2's band. **No prose, no dialogue.**
+- **14 beat rows** in `grids/episode_beats.csv` (ECID per beat; E33's rows carry the curve, U2 before the windows, U3 after).
+- **`tools/validate_canon.py`:** `ebci/` scanned by default and held to canon scope; four checks, `CHK_BID_FORMAT`, `CHK_EPISODE_BAND`, `CHK_PACKET_LINKS`, `CHK_POV`, on packets and beat rows; **nine self-tests** (162 in all).
+- **A ledger gap found by the new check on its first run and fixed:** `BC-BOUNDED-RESPONSIBILITY` (LOCKED) now lists B01 E33 and E45 (the overreach rung, per the approved overlays and the causal cards); `BC-VELVET-VEIN-ROOM` lists B01 E31. Dated notes on both.
+- `reports/B01_EBCI_PILOT_BUILD_NOTES_2026-09-27.md`: seven findings for the review (ECID is overhead for a Life/Reward episode; the end-state rule and the beat-row curve; `ENV` has no value for ordinary places; the ledger gap; Silence and Hope are not known cast, which the prologue packet will need; two POV choices; the Tracking line).
+
+**Unchanged:** every ruling, milestone status, card and rule text; the release-time envelope work; every other B01 packet. **Next: the author's narrative review of E31 and E33.**
+
+END OF ENTRY 210
+
+===============================================================
+
 END RECOVERY LEDGER

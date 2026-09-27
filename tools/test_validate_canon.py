@@ -1210,5 +1210,128 @@ class BreadcrumbGrid(unittest.TestCase):
         self.assertEqual(bc_problems(BC_HEADER + bc_row(pf="")), ["CHK_BREADCRUMB_GRID"])
 
 
+# --------------------------------------------------------------------------- #
+# EBCI packets and beat rows (B01 two-packet pilot, 2026-09-27, ledger 210)
+# --------------------------------------------------------------------------- #
+
+LIVE_E31 = os.path.join(vc.REPO, "ebci", "B01", "S1.T1.B01.A2.E31.md")
+LIVE_E33 = os.path.join(vc.REPO, "ebci", "B01", "S1.T1.B01.A2.E33.md")
+LIVE_BEATS = os.path.join(vc.REPO, "grids", "episode_beats.csv")
+
+
+def packet(sid="S1.T1.B01.A2.E31", pov="Seraphine Vael", corridor="U1", bid=None,
+           carried="BC-LACUNA-CAMEO (LOCKED)", protected="none", cites=""):
+    bid = bid or f"{sid}-BT01"
+    return (f"# {sid} — fixture\n\n## Header\nSID:        {sid}\nPOV:        {pov}\n\n"
+            "## ECID (single end-state values)\n"
+            "POV | ENV | CORRIDOR | WEATHER | MODE | HEAT | FX | RES | LOAD\n"
+            f"{pov} | NONE | {corridor} | W0 | FUN | H1 | FX0 | CALM | L1\n\n"
+            f"## Episode contract\nStory job: {cites}\n\n"
+            f"## Beats\n{bid}  arrival | all | they arrive | —\n\n"
+            f"## Obligations\nBreadcrumbs:        {carried}\n"
+            f"Protected reveals:  {protected}\n")
+
+
+def packet_problems(text, cache=None, notices=None):
+    out = []
+    vc.check_ebci_packet("ebci/B01/fixture.md", text, SIDFMT, VOCAB, out,
+                         notices if notices is not None else [], None, None, None,
+                         cache)
+    return [v.check for v in out]
+
+
+def beats_problems(rows):
+    import csv as _csv
+    out = []
+    with tempfile.NamedTemporaryFile("w", suffix=".csv", delete=False,
+                                     encoding="utf-8", newline="") as fh:
+        w = _csv.writer(fh, lineterminator="\n")
+        w.writerow(["SID", "POV", "CORRIDOR", "WEATHER", "FX", "BID"])
+        w.writerows(rows)
+        path = fh.name
+    try:
+        vc.check_episode_beats_grid(path, SIDFMT, VOCAB, out)
+    finally:
+        os.unlink(path)
+    return [v.check for v in out]
+
+
+class EbciPilotChecks(unittest.TestCase):
+    """The four checks the preflight asked for (Q8), built at the pilot release."""
+
+    def test_the_live_packets_and_beat_rows_pass(self):
+        for path in (LIVE_E31, LIVE_E33):
+            with open(path, encoding="utf-8") as fh:
+                self.assertEqual(packet_problems(fh.read()), [], path)
+        out = []
+        vc.check_episode_beats_grid(LIVE_BEATS, SIDFMT, VOCAB, out)
+        self.assertEqual(out, [])
+
+    def test_a_good_packet_passes(self):
+        self.assertEqual(packet_problems(packet()), [])
+
+    def test_bid_format(self):
+        self.assertIn("CHK_BID_FORMAT",
+                      packet_problems(packet(bid="S1.T1.B01.A2.E31-BT1")))
+        self.assertIn("CHK_BID_FORMAT",
+                      packet_problems(packet(bid="S1.T1.B01.A2.E32-BT01")))
+        self.assertIn("CHK_BID_FORMAT",
+                      beats_problems([["S1.T1.B1.A2.E31", "Trip", "U1", "W0", "FX0",
+                                       "S1.T1.B1.A2.E31-BT01"]]))
+        self.assertIn("CHK_BID_FORMAT",
+                      beats_problems([["S1.T1.B01.A2.E31", "Trip", "U1", "W0", "FX0",
+                                       "BT01"]]))
+
+    def test_episode_band(self):
+        self.assertEqual(packet_problems(packet(corridor="U6")), ["CHK_EPISODE_BAND"])
+        self.assertIn("CHK_EPISODE_BAND",
+                      packet_problems(packet(sid="S1.T1.B01.PR.E00")))
+
+    def test_a_declared_exception_covers_the_breach(self):
+        band = {"corridor": {"min": "U1", "max": "U4"},
+                "weather": {"min": "W0", "max": "W2"},
+                "fx": {"min": "FX0", "max": "FX2"},
+                "exceptions": [{"sid": "S1.T1.B01.A2.E31", "axis": "corridor",
+                                "value": "U6", "scope": "brief", "reason": "fixture"}]}
+        self.assertEqual(packet_problems(packet(corridor="U6"),
+                                         cache={"T1_B01_A2": band}), [])
+        other = dict(band, exceptions=[dict(band["exceptions"][0],
+                                            sid="S1.T1.B01.A2.E30")])
+        self.assertEqual(packet_problems(packet(corridor="U6"),
+                                         cache={"T1_B01_A2": other}),
+                         ["CHK_EPISODE_BAND"])
+
+    def test_links_must_resolve(self):
+        self.assertEqual(packet_problems(packet(cites="BC-NOT-A-ROW")),
+                         ["CHK_PACKET_LINKS"])
+        self.assertEqual(packet_problems(packet(cites="M99")), ["CHK_PACKET_LINKS"])
+        notes = []
+        self.assertEqual(packet_problems(packet(cites="M22"), notices=notes), [])
+        self.assertEqual([n.check for n in notes], ["CHK_PACKET_LINKS"])
+
+    def test_a_carried_locked_breadcrumb_must_be_placed_here(self):
+        self.assertEqual(packet_problems(packet(carried="BC-SWAMP-WOUND (LOCKED)")),
+                         ["CHK_PACKET_LINKS"])
+        # Protected, not carried: it only has to resolve.
+        self.assertEqual(packet_problems(packet(carried="none",
+                                                protected="BC-SWAMP-WOUND")), [])
+        # SOFT rows are not placement-checked.
+        self.assertEqual(packet_problems(packet(carried="BC-JACKSON-SQUARE-RETURN")), [])
+
+    def test_pov_must_be_a_known_cast_member(self):
+        self.assertEqual(packet_problems(packet(pov="ensemble")), ["CHK_POV", "CHK_POV"])
+        for ok in ("Seraphine Vael", 'Bastien "Baz" Arnaud', "Mara / M", "Trip",
+                   "Seraphine + Lucien"):
+            self.assertEqual(packet_problems(packet(pov=ok)), [], ok)
+        self.assertEqual(beats_problems([["S1.T1.B01.A2.E31", "Nobody", "U1", "W0",
+                                          "FX0", "S1.T1.B01.A2.E31-BT01"]]),
+                         ["CHK_POV"])
+
+    def test_ebci_is_scanned_and_held_to_canon_scope(self):
+        self.assertIn("ebci", vc.EBCI_DIRS)
+        self.assertNotIn("ebci", vc.PROSE_DIRS)
+        self.assertTrue(vc.is_canon_scope(os.path.join(vc.REPO, "ebci", "B01", "x.md")))
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)
