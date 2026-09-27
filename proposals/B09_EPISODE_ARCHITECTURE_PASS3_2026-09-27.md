@@ -10,6 +10,9 @@ progressive-resolution order, from the Loom reconciliation
   epilogue.
 - **It proposes the single shared clock for Act III** that the route clock deferred (Q9: *"production
   work for episode architecture"*). It is a proposal (§3, L7).
+- **Answered 2026-09-27 (approved design, `decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md`):** the Act III clock
+  (L7, answering route Q9), E24 short and unresolved (L6), M32 as the E31 interlude with no confession
+  scene (L8), the epilogue (L9), and **E02 re-owned Rex → Lucien** (L10).
 - The B01 EBCI hold stands.
 
 **Codes:** as in B07. **Places:** Serpent Mound · the road south · the Gulf network · NOLA (the feint) ·
@@ -43,8 +46,9 @@ stands with Rex against the Choirless, unresolved (A4); Caro rejoins before Act 
 
 **Scale:** 45 episodes (15/15/15) and **a three-episode epilogue (E46–E48, `EP`)**; 3 LR units; 2
 supplements; 3 VT interludes.
-**POV:** Seraphine 13 (27%) · Kade 9 · Elisabet 6 · Rex 5 · Caro 5 · Lucien 3 · Lacuna 3 · VT 3 ·
-local 1. **Across Loom, Seraphine is 41 of 138 (30%).**
+**POV:** Seraphine 13 (27%) · Kade 9 · Elisabet 6 · Caro 5 · Rex 4 · Lucien 4 · Lacuna 3 · VT 3 ·
+local 1 (E02 re-owned Rex → Lucien, L10, 2026-09-27). **Across Loom, Seraphine is 41 of 138 (30%);
+Lucien 12 (9%).**
 
 ---
 
@@ -56,7 +60,7 @@ regroups with Caro in the Gulf; everyone keeps one secret.
 | E | Title (working) | Owner / theater | Story job and turn | Milestone / obligation | Sets up / pays off |
 | --- | --- | --- | --- | --- | --- |
 | 01 | Out of the Coil | Seraphine / Serpent Mound | **The escape from the remnant.** Rex knows their kit; they get out with what they carried | **M48**, **M59** | Pays off B08 E45 |
-| 02 | Wrong Turns | Rex / the road | **He leads the pursuit wrong** by ordinary means: roads, timing, a borrowed truck [P] | M59 | — |
+| 02 | Wrong Turns | Lucien / the road (re-owned from Rex, L10) | **Rex leads the pursuit wrong** by ordinary means: roads, timing, a borrowed truck [P]. **Lucien's interior turn:** from the passenger seat he watches Seraphine's body after the third stabilisation, measures what it cost her, and **admits to himself that his structures cannot hold this**; ordinary competence (Rex's) is what gets them out | M59; Lucien's Loom arc (LA3) | Sets up E04 |
 | 03 | A Prophet's Week | Kade | **The "miracle" makes him a prophet to his following.** Elias wants Louisiana | M31's consequence | Sets up E18 |
 | 04 | What She Isn't Saying | Seraphine / the road | **Lucien asks what she is hiding, and she deflects.** | The price stays hidden | — |
 | 05 | Something True to Chase | **Lacuna** / NOLA | **The feint needs real traces of the crew** in New Orleans. She plans them with her people | M50 setup | — |
@@ -96,13 +100,13 @@ the swamp, and nobody else knows.
 
 ## 3. Act III — The Mending (E31–E45)
 
-**The shared clock (proposed, L7).** The Mending **begins** early in the act and is **the signal** that
+**The shared clock (proposed, L7; approved design 2026-09-27).** The Mending **begins** early in the act and is **the signal** that
 exposes the site. Its steps run one at a time, intercut with the rear action. **The penultimate cluster
 is the rear action and the flare; the last cluster is the rest of the Mending.**
 
 | E | Title (working) | Owner / theater | Story job and turn | Milestone / obligation | Sets up / pays off |
 | --- | --- | --- | --- | --- | --- |
-| 31 | The Choice | **VT** | **Silence and Hope face the limits of the old veil**, and choose to give themselves when it is time. They do not say so | **M32** (proposed) | — |
+| 31 | The Choice | **VT** | **Silence and Hope face the limits of the old veil**, and choose to give themselves when it is time. They do not say so | **M32** (proposed; approved design L8: the interlude, no confession scene) | — |
 | 32 | It Begins | Seraphine / NOLA-11 | **She begins: the Loom interface opens.** **The Mending is the signal** | **M33** (Seraphine first); approved A2 | — |
 | 33 | The Signal | Rex / the rear | **Every instrument lights up.** The remnant and Brightbreak turn toward the swamp | **M51** (ruled: the site learned now) | — |
 | 34 | Hope Goes | Caro | **Hope gives herself to the Loom.** Caro feels her go, and does not yet understand | **M33** (Hope second) | Pays off `BC-HOPE-CARO` |

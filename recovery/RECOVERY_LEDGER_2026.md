@@ -11986,4 +11986,31 @@ END OF ENTRY 204
 
 ===============================================================
 
+# 205. Loom L1–L14, the B01 causal cards and the overlay drafts answered and applied — 2026-09-27
+
+**Status:** LEDGER ENTRY. Author answers recorded as **approved design** (Tier B); nothing ruled.
+
+**The author's words:** *"L1-L14 as recommended, causal cards and overlays as recommended"*.
+**Recorded in:** `decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md` (indexed in `decisions/README.md`).
+
+**Loom (approved design):** Mira's first post-Veil appearance B07 E13 (L1). **L2 answers deferred D4:** the Santa Fe scar is a wound, not where it began; the costs are Lucien's first certain contact with Silence's grief and Seraphine's body; the artefact is Tahl's device, kept by the Santa Fe family. **L3: B08's end order is Clock A, ending the end-sequence deferral** (the remnant never enters Louisiana in B08). Houston is Kade's B08 city (L4). Caro's Gulf task (L5). B09 E24 short and unresolved (L6). **L7 answers route Q9** (the B09 Act III clock). M32 a VT interlude with no confession scene (L8). The epilogue (L9). Lucien +1 episode in each of B08 and B09 A1–A2 (L10). Shares accepted for recheck (L11). Book size reading 1 (L12). Tahl and Kade reading 1 (L13). The stabilisations differ in kind (L14).
+
+**B01 (approved design):** the four private causal cards (fork A / null C / B for Seraphine's acts; one OPEN source as a working hypothesis with no rule text; precursors are not breaks; four registers; Seraphine's ladder), with the per-event answers (E33's district at EBCI; E48 still water; a street musician). The overlay shapes, values and `_private` block (Q-O1–Q-O3); the title stays the author's (Q-O4); Lucien in the rotation (Q-O5).
+
+**Applied:**
+- **Substrate, marked approved design in-file:** `act_overlays/act_overlay_S1_T1_B01_A{1,2,3}.json` (`act_thesis` with its source, `pressure_vectors` 7/8/9, `character_state_deltas` 7/8/8, `act_success_criteria` 13/16/16, `forbidden_shortcuts` 16/14/14; each carries `_authored_fields_basis`); `book_context/book_context_B01.json` `entry_state` (`world` W1–W8, `key_character_states` 8, `_private` P1–P5 with the guard, `_approval`) and a third `pov_targets.rotation` entry, Lucien Kael, `secondary_pov`, hand-added with a note. Written by script from the drafts' tables, so the values are the drafts' words. `derive_book_context.py` touches none of these (`--check`: drift none). **Envelopes, exceptions, `soft_modulation` and every derived block are untouched**; the release-time work (the `PR` overlay, the A1 exceptions, the relabel) stays unapplied.
+- **Grid notes, prepended, no status change:** M30, M31, M48, M59 (L3); M45 (L2, L14); M46 (L4); M49 (L1); M32 (L8).
+- **B08:** Clock A adopted, Clock B kept as the record; Houston at E04 and E20; the D5 row names L14; **E33 re-owned Rex → Lucien** (POV Lucien 6, Rex 4).
+- **B09:** the clock, E24, M32 and the epilogue marked approved; **E02 re-owned Rex → Lucien** (POV Lucien 4, Rex 4; Lucien 12 of 138 across Loom, 9%).
+- **B07:** E13's Mira appearance marked approved.
+- **Answered notes** on the Loom reconciliation, the Loom trilogy audit, the causal cards and the overlay drafts. `CLAUDE.md` §4.1 (the Loom row: the B08 end order, Mira's schedule, the Santa Fe finding; D1 and D4 answered), §8 and §9.
+
+**A correction on application:** the audit's LA3 example of B09 E04 was Seraphine's episode, which L10 excludes. Claude re-owned Rex's E02 instead, keeping its story job; the author may move either re-owning.
+
+**Unchanged:** every ruling and milestone status; all rule text. **The B01 EBCI hold stands.** Next: the nine-book Breadcrumb / Möbius / Promise-Payoff audit, then the release decision.
+
+END OF ENTRY 205
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -6,6 +6,8 @@ progressive-resolution order (`decisions/PROGRESSIVE_RESOLUTION_SEQUENCE_AUTHOR_
 item 2), from the Loom reconciliation (`proposals/LOOM_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-27.md`).
 
 - **Provisional by design.** Episode numbers are working locators.
+- **Answered 2026-09-27 (approved design, `decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md`):** L1 (Mira's first
+  post-Veil appearance at E13) and the other L-answers; nothing else in B07 changes.
 - **Resolution:** owner and theater, story job and turn, milestone or obligation, and what each sets
   up or pays off. Not beats; not EBCI. The B01 EBCI hold stands.
 - **Built for the author's direction** *"we will need more Seraphine before we are done"*
@@ -65,7 +67,7 @@ Seraphine has felt something she cannot name.
 | 10 | Uneven | Seraphine / NOLA | **M24:** a clinic dark, a pharmacy open, a bridge closed. She chooses **finite, close care** | **M24** (a condition, not an event) | — |
 | 11 | On Purpose | Kade | **His first deliberate post**: what Tahl did right. **Turn:** he knows now that MT is public | M40's consequence | Sets up M26 |
 | 12 | The Stillness | Lucien / NOLA | **Silence's guidance begins**: felt as a stillness at the edge of his attention, fallible (attuned, not certain). He does not know what it is | Silence guides Lucien (ruled in substance) | Reinforces `BC-LUCIEN-SILENCE` |
-| 13 | Drawn | Seraphine | **The Loom's first pull**, and **Mira's first appearance after Veil**, perceived only by her [P; her schedule is open, L1] | **M49** (ruled); **D5** | Pays off `BC-MIRA-SEED` |
+| 13 | Drawn | Seraphine | **The Loom's first pull**, and **Mira's first appearance after Veil**, perceived only by her [approved design 2026-09-27, L1] | **M49** (ruled); **D5** | Pays off `BC-MIRA-SEED` |
 | 14 | **LR02** The Rooftop | Kade + Lacuna | **Lacuna settles Kade** (the 11-28 plan). Talk, jokes, the smoulder | Life/Reward; Loom's romantic focus | — |
 | 15 | A New Voice | Seraphine / a shelter | **Act I close.** Kade's post plays in a shelter; strangers argue about it. **The pull comes again**, and she cannot name it | Act close | — |
 

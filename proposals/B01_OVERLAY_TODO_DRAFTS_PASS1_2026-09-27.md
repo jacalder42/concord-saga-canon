@@ -3,6 +3,11 @@
 **Date:** 2026-09-27
 **Status:** PROPOSAL — NON-CANONICAL; drafts of the B01 book-context and act-overlay TODO fields for author approval (preflight Q6); nothing in book_context/ or act_overlays/ is edited
 
+**Answered 2026-09-27: Q-O1–Q-O5 as recommended, approved design** (`decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md` §3,
+ledger §205). **§1.3–§1.4 and §2–§4 are now written into** `book_context/book_context_B01.json` and
+`act_overlays/act_overlay_S1_T1_B01_A{1,2,3}.json`, marked approved design; P1–P5 as `entry_state._private`;
+Lucien added to the POV rotation. §5's release-time work stays unapplied.
+
 **Asked for in:** `decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md` §3, Q6:
 *"Before release, Claude drafts the B01 overlay TODO fields as a proposal."* The fields are those the
 preflight lists (`proposals/B01_EBCI_PREFLIGHT_2026-09-27.md` §5).

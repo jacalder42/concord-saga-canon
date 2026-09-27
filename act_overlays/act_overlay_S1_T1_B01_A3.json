@@ -3,7 +3,9 @@
   "act_id": "S1.T1.B01.A3",
   "book_id": "B01",
   "trilogy_id": "T1",
-  "act_thesis": "TODO",
+  "_authored_fields_basis": "APPROVED DESIGN 2026-09-27 (Tier B), not ruled canon. Values from proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md, approved as drafted (Q-O1-Q-O3) in decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md. Ledger section 205. Applies to act_thesis, deltas.pressure_vectors, deltas.character_state_deltas, act_success_criteria and forbidden_shortcuts only. Episode numbers are v4.1b labels (E37 is read before E36, E44 before E43); relabel at release (OQA B3). Envelope, exceptions and soft_modulation are untouched.",
+  "act_thesis": "Pattern becomes systemic. Disturbances cross neighbourhoods and systems faster than the city can close them out; civic coordination, not spectacle, carries the failure (E40–E41). Care helps people without controlling the phenomenon (E43). The rebound breaks Lucien's model and turns shared burden into usable behaviour (E45). After the Wide Quiet and the Square's human memory, the trio arrive together at a predicted quiet pulse and Seraphine carries one, at bodily cost: understanding without control. The city knows something is happening; nobody knows enough.",
+  "_act_thesis_source": "v4.1b Act III heading, §13 Act III jobs, E48 Möbius inversion and book-end state; VAA §4;\nM03.",
   "escalation_permissions": {
     "corridor": {
       "min": "U1",
@@ -22,8 +24,164 @@
     "source": "proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md"
   },
   "deltas": {
-    "pressure_vectors": [],
-    "character_state_deltas": [],
+    "pressure_vectors": [
+      {
+        "thread": "world",
+        "movement": "recurrence without one centre → civic coordination failure → human aftermath → systemic, not global → a changed baseline",
+        "carriers": [
+          "E38–E41",
+          "E47–E48"
+        ],
+        "source": "v4.1b E38–E41, E47–E48"
+      },
+      {
+        "thread": "world",
+        "movement": "non-local: an ambiguous remote similarity becomes an ethical question, still not proof; inquiry widens, certainty does not",
+        "carriers": [
+          "E39",
+          "E45"
+        ],
+        "source": "v4.1b E39, E45 structural aftermath; BC-REMOTE-SIMILAR"
+      },
+      {
+        "thread": "seraphine",
+        "movement": "the limits of being useful to everyone → overreach at the rebound → arrive together, and carry one (M03 lands)",
+        "carriers": [
+          "E41",
+          "E45",
+          "E48"
+        ],
+        "source": "v4.1b E41; VAA §4; M03; BC-ARRIVE-TOGETHER, BC-BOUNDED-RESPONSIBILITY"
+      },
+      {
+        "thread": "filaments",
+        "movement": "practice as stabilisation → practice as human care under instability",
+        "carriers": [
+          "E43 (label)",
+          "E41"
+        ],
+        "source": "v4.1b E43 Filament state; BC-FILAMENT-ETHIC"
+      },
+      {
+        "thread": "baz",
+        "movement": "embedded → the one who argues investigation must widen, and says \"we don't know\"",
+        "carriers": [
+          "E45",
+          "E48"
+        ],
+        "source": "v4.1b E45, E48, §4"
+      },
+      {
+        "thread": "dominion",
+        "movement": "watching and collecting stay footprint, not confrontation",
+        "carriers": [
+          "E48"
+        ],
+        "source": "v4.1b E48, §9"
+      },
+      {
+        "thread": "technarc",
+        "movement": "watching and collecting stay footprint, not confrontation",
+        "carriers": [
+          "E48"
+        ],
+        "source": "v4.1b E48, §9"
+      },
+      {
+        "thread": "world",
+        "movement": "relief: exhausted humour and care; harmless wonder; the continuity room",
+        "carriers": [
+          "E42",
+          "E44 (label)",
+          "S06"
+        ],
+        "source": "v4.1b §6 (\"41–44\"), S06"
+      },
+      {
+        "thread": "caro_elisabet",
+        "movement": "holds at recognition / instinctive safety",
+        "carriers": [],
+        "source": "proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md (A3)"
+      }
+    ],
+    "character_state_deltas": [
+      {
+        "character": "Seraphine",
+        "from": "\"If I care enough, I should be able to save/fix this\"",
+        "to": "\"Care matters even when it cannot control the outcome.\" She has recognised the cost of over-responsibility and experienced restraint as useful, and has not mastered either; she carries one at bodily cost",
+        "carriers": [
+          "E41",
+          "E45",
+          "E48"
+        ],
+        "source": "v4.1b §4; VAA §4; M03"
+      },
+      {
+        "character": "Lucien",
+        "from": "\"If I can structure it, I can contain uncertainty\"",
+        "to": "\"A model can be useful without being complete.\" He accepts help sooner, leaves an imperfect line unchecked, and still believes better structure may resolve it",
+        "carriers": [
+          "E45",
+          "E48"
+        ],
+        "source": "v4.1b E45, E48, §4"
+      },
+      {
+        "character": "Seraphine / Lucien",
+        "from": "trust capable of surviving conflict",
+        "to": "usable shared burden",
+        "carriers": [
+          "E45"
+        ],
+        "source": "v4.1b E45 Möbius, §4"
+      },
+      {
+        "character": "Baz",
+        "from": "embedded",
+        "to": "embedded enough to widen the investigation, and still the one most willing to say \"we don't know\"; his warmth and future orientation visible",
+        "carriers": [
+          "E45",
+          "E48"
+        ],
+        "source": "v4.1b §4"
+      },
+      {
+        "character": "Lucien (institution)",
+        "from": "a legitimate bounded mandate",
+        "to": "the assignment is ethically and personally larger than the mandate; Dominion conflict stays latent",
+        "carriers": [
+          "E45",
+          "E48"
+        ],
+        "source": "v4.1b End states, Möbius additions"
+      },
+      {
+        "character": "Mara / Filaments",
+        "from": "care useful; control assumed",
+        "to": "care persists; claims of control weaken; the notebook holds community memory under load; she does not join the team",
+        "carriers": [
+          "E41",
+          "E43"
+        ],
+        "source": "v4.1b §4, Möbius additions"
+      },
+      {
+        "character": "Caro / Elisabet",
+        "from": "recognition / instinctive safety",
+        "to": "unchanged: a seed, not yet the romance plot",
+        "carriers": [],
+        "source": "v4.1b §4"
+      },
+      {
+        "character": "Trip / Velvet Vein",
+        "from": "rumour room",
+        "to": "continuity room",
+        "carriers": [
+          "S06"
+        ],
+        "source": "v4.1b S06, §4"
+      }
+    ],
     "soft_modulation": {
       "fun": {
         "allowed": true,
@@ -40,9 +198,37 @@
     }
   },
   "act_success_criteria": [
-    "TODO"
+    "E38 establishes a changed baseline, not an isolated incident; \"hum\" stays ambiguous (source: v4.1b E38)",
+    "E38–E41 use distinct material failure chains (routes, dispatch, care capacity), not repeated unnamed surges (source: evidence ledger (E38–41 row); census cards B01-40A/B01-40B)",
+    "E39 is the strongest synthesis; the remote item is suggestive, not confirmatory (source: v4.1b E39)",
+    "E40: cohesion breaks through fear, conflicting information and contagion, never mind control; officials unnamed unless earned (source: v4.1b E40)",
+    "E41 makes aftermath human before any solution; E42 has nothing supernatural in it (source: v4.1b E41–E42)",
+    "The wonder episode (label E44, read first) stays unverified wonder: no mechanic, no danger, no report (source: v4.1b E44; evidence-ledger item E7)",
+    "The grounding episode (label E43): \"care succeeding is not control succeeding\" (source: v4.1b E43)",
+    "E45 meets its causal card: Lucien's collapse is point-of-view only, against a negative instrument check; Seraphine anchors him; the narrator never links the practice to the rebound; inquiry widens, certainty does not (source: CC §4; v4.1b E45; census card B01-45B)",
+    "E45 → E46 → E47 → E48 run with no supplement; E46 is not compressed, has no comedy and is not fully explained (source: v4.1b E46, §7)",
+    "E47: the Square's memory is human (routines, memorial habits, stories); the model is systemic, not global and not controllable, and points to a narrow window (source: v4.1b E47)",
+    "E48 meets its causal card: they arrive together by shared prediction; one stranger, not a child, is steadied; the whole Square is declined; the cost is bodily; the stranger walks out whole; a positive, quiet, independently checkable observation (source: VAA §4; D6; M03; CC §5)",
+    "Book-end state: the system is patterned; the city knows something is happening; nobody knows enough. Global extent unconfirmed; vocabulary fragmented (B02 owns pulse) (source: v4.1b E48, §9; VAA §1 E03)",
+    "S06 comes after the narrative close: the same room, incompatible stories, no reveal, no cliffhanger (source: v4.1b S06)",
+    "Every item of v4.1b's B01 → B02 handoff holds (source: v4.1b §9 and its handoff additions)",
+    "Reading order holds: E44 before E43; labels corrected only at release (source: D7; OQA B3)",
+    "Discovery accumulates: predicting a window still works when B02 opens (source: VAA §4 execution tests)"
   ],
   "forbidden_shortcuts": [
-    "TODO"
+    "The narrator links the grounding practice or the gathering to the rebound; \"it learned\"; a responsive agent (source: CC §4; recovery/ACCOUNT_EXPORT_B01_ACT3_EPISODE_FORENSIC_AUDIT_2026-09-20.md (E38 caution))",
+    "Objective impossible geometry at E45; Lucien's instruments confirming a change in geometry (source: v4.1b E45; PF V3)",
+    "Stone or water memory as a law; the Square literally remembering (source: v4.1b E47; evidence ledger)",
+    "Exact-second prophecy; a complete model; mastery or control; \"falsify random\" as a literal claim (source: v4.1b E48; CC §5.8)",
+    "Global confirmation, Marrakesh, MissingThread, Tahl, Elias, Brightbreak, Choirless, a formal network; Santa Fe or Warehouse breadcrumbs (source: v4.1b §9)",
+    "Seraphine holding the whole Square; a child rescue that restages E01 (source: VAA §4)",
+    "A third escalating device glitch as E48's centrepiece (source: context review (E38–47 → E48 row); CC §5.1)",
+    "A cosmic reveal, a Mending-site hint, or Loom foreshadowing beyond restraint and cost (source: readiness report (E45–48 row); M03 notes)",
+    "Shard filtration, a prismatic debut, micro-Shard language, U6/U7 geography (source: M03; v4.1b §8)",
+    "A supplement inside a protected window (E40 → E41; E45 → E46 → E47 → E48) (source: v4.1b §7)",
+    "B02's answers: verified multi-city instability, \"accelerating everywhere\", a global pulse cluster (source: v4.1b §13 B1/B2 boundary)",
+    "\"Everything curves southwest\" in B01 (source: v4.1b §13)",
+    "Breath or care repairing anything; mind reading (source: PF R7)",
+    "Mechanics explained in dialogue (source: Mech §60)"
   ]
 }

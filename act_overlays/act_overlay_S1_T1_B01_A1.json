@@ -3,7 +3,9 @@
   "act_id": "S1.T1.B01.A1",
   "book_id": "B01",
   "trilogy_id": "T1",
-  "act_thesis": "TODO",
+  "_authored_fields_basis": "APPROVED DESIGN 2026-09-27 (Tier B), not ruled canon. Values from proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md, approved as drafted (Q-O1-Q-O3) in decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md. Ledger section 205. Applies to act_thesis, deltas.pressure_vectors, deltas.character_state_deltas, act_success_criteria and forbidden_shortcuts only. Episode numbers are v4.1b labels (E37 is read before E36, E44 before E43); relabel at release (OQA B3). Envelope, exceptions and soft_modulation are untouched.",
+  "act_thesis": "Discovery becomes pattern. A care failure (E01–E02) and a private misperception (E04–E05) recur in public (E07–E08) until a many-witness Square event (E15) makes the problem undeniable in fact and disputed in cause. Seraphine and Lucien come to trust each other without fixing each other (E13), and Lucien chooses a person over process by calling Baz (E17).",
+  "_act_thesis_source": "v4.1b Act I heading, §13 Act I jobs (7/7), E17 Act I exit; D1; M01.",
   "escalation_permissions": {
     "corridor": {
       "min": "U1",
@@ -23,8 +25,144 @@
     "basis_note": "E16 at U3->U4, W1, FX2"
   },
   "deltas": {
-    "pressure_vectors": [],
-    "character_state_deltas": [],
+    "pressure_vectors": [
+      {
+        "thread": "world",
+        "movement": "private, unshared wrongness → a public many-witness incident with disputed cause",
+        "carriers": [
+          "E01",
+          "E04–E05",
+          "E07–E08",
+          "E15–E16"
+        ],
+        "source": "v4.1b E07 (\"from private perception into public behavior\"), E15; D1; M01"
+      },
+      {
+        "thread": "seraphine",
+        "movement": "failure to save → responsibility to understand; a private rule forms: \"next time, arrive sooner / move faster / carry more\"; she cannot regulate every room",
+        "carriers": [
+          "E01–E02",
+          "E10"
+        ],
+        "source": "v4.1b E01, E10; BC-ARRIVE-TOGETHER"
+      },
+      {
+        "thread": "filaments",
+        "movement": "informal care becomes visible at human scale (seed; M02 lands in A2)",
+        "carriers": [
+          "E09–E10",
+          "S03"
+        ],
+        "source": "v4.1b E09–E10; M02"
+      },
+      {
+        "thread": "dominion",
+        "movement": "latent: a legitimate bounded mandate becomes pressure on Lucien, and he bypasses process",
+        "carriers": [
+          "E04",
+          "E11",
+          "E17"
+        ],
+        "source": "v4.1b E11, E17; BC-DOMINION-LADDER"
+      },
+      {
+        "thread": "baz",
+        "movement": "absent → summoned; \"help is coming\"",
+        "carriers": [
+          "E17"
+        ],
+        "source": "v4.1b E17; BC-ASKED-HIM-HERE"
+      },
+      {
+        "thread": "world",
+        "movement": "relief: ordinary life and the hearth hold: grief in ordinary time, the Vein as an ordinary room, care culture",
+        "carriers": [
+          "E03",
+          "E06",
+          "E12",
+          "E14",
+          "S01",
+          "S03"
+        ],
+        "source": "v4.1b §6 (\"3–6: ordinary life → Lucien weirdness → hearth\")"
+      },
+      {
+        "thread": "caro_elisabet",
+        "movement": "holds (no movement in A1)",
+        "carriers": [],
+        "source": "proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md (A1)"
+      }
+    ],
+    "character_state_deltas": [
+      {
+        "character": "Seraphine",
+        "from": "\"If I care enough, I should be able to save/fix this\"",
+        "to": "the same belief, now with a private rule (arrive sooner, move faster, carry more), and her first accepted help",
+        "carriers": [
+          "E01–E02",
+          "E10",
+          "E13"
+        ],
+        "source": "v4.1b §4, E01, E13"
+      },
+      {
+        "character": "Lucien",
+        "from": "\"If I can structure it, I can contain uncertainty\"; a bounded mandate",
+        "to": "his own perception unreliable; two faint, unnamed southwest twists; lets Seraphine's read matter; admits the case exceeds his model; calls Baz personally, the first crack in institutional trust",
+        "carriers": [
+          "E04–E05",
+          "E11–E13",
+          "E16–E17"
+        ],
+        "source": "v4.1b E04–E17; v4.1b Möbius additions; BC-SOUTHWEST-LADDER"
+      },
+      {
+        "character": "Seraphine / Lucien",
+        "from": "uncertain counterparts",
+        "to": "real trust, shown in ordinary behaviour",
+        "carriers": [
+          "E13–E14"
+        ],
+        "source": "v4.1b E13 State, E14"
+      },
+      {
+        "character": "Baz",
+        "from": "outside the crisis",
+        "to": "agrees to come; hears what Lucien is not saying",
+        "carriers": [
+          "E17"
+        ],
+        "source": "v4.1b E17"
+      },
+      {
+        "character": "Caro",
+        "from": "Seraphine's friend",
+        "to": "unchanged; recognises Seraphine's baseline and keeps her own obligations",
+        "carriers": [
+          "E03",
+          "E06"
+        ],
+        "source": "v4.1b E03"
+      },
+      {
+        "character": "Mara",
+        "from": "a notebook of ordinary people and tasks",
+        "to": "strange civic observations begin entering it",
+        "carriers": [
+          "E09"
+        ],
+        "source": "v4.1b Möbius additions"
+      },
+      {
+        "character": "Trip / Velvet Vein",
+        "from": "—",
+        "to": "ordinary room (Möbius state 1)",
+        "carriers": [
+          "E06"
+        ],
+        "source": "v4.1b E06, §4"
+      }
+    ],
     "soft_modulation": {
       "fun": {
         "allowed": true,
@@ -41,9 +179,36 @@
     }
   },
   "act_success_criteria": [
-    "TODO"
+    "E01 gives the mystery human cost before explanation: the child dies, Seraphine stays with the family; no Shard terminology; the swamp is not mythologised; the site is a Möbius seed of the Mending site only, known to no one (source: v4.1b E01; VAA §3 O1; BC-HONEY-ISLAND-SITE)",
+    "E02 separates grief from anomaly; the residue is unnamed (no formal Echo language) (source: v4.1b E02)",
+    "Seraphine has a life and a friend before the mystery: Caro's friendship predates page one, shown by behaviour, with no introduction (source: v4.1b E03, R31)",
+    "Lucien is introduced through his way of seeing, on a legitimate bounded assignment; the southwest lean appears twice, faint and unnamed (source: v4.1b E04, E11, §13 southwest ladder)",
+    "The Vein works as an ordinary room: the scene holds with its anomaly dialogue deleted (source: v4.1b E06 guardrail; BC-VELVET-VEIN-ROOM)",
+    "Public recurrence precedes the civic event: a brittle crowd with no puppets (E07); a repeat at the Square under different circumstances (E08) (source: v4.1b E07–E08; BC-JACKSON-SQUARE-RETURN)",
+    "S02 produces \"Was that similar?\", not \"This is happening globally\" (source: v4.1b S02; BC-REMOTE-SIMILAR, BC-PULSE-NAMING)",
+    "E13: neither fixes the other. E14: trust appears in behaviour; no romance declaration, no clue (source: v4.1b E13–E14)",
+    "E15 meets its causal card: a many-witness incident with disputed cause; the amp and the two-recording thrum as trials (source: D1, D2, D3; CC §2; M01)",
+    "E16 traces a specific consequence of E15 (cleanup, commerce, imperfect comparison) and Lucien admits the problem exceeds solitary solution (source: v4.1b E16)",
+    "Act exit: help is coming; the problem is larger than the people asking; Lucien calls Baz personally rather than escalating; no death foreshadowing (source: v4.1b E17; BC-ASKED-HIM-HERE, BC-DOMINION-LADDER)",
+    "The Life/Reward units (E03, E12, E14) end on life, not plot (source: v4.1b §13 Life/Reward checksum)",
+    "A variety of pleasure and want is visible (amusement, irritation, harmless selfish wants), not only care (source: VAA §4 execution tests)"
   ],
   "forbidden_shortcuts": [
-    "TODO"
+    "Seraphine and Lucien's alignment (E13) causes, calms or triggers the Square event (E15) (source: reports/B01_EVENT_MECHANICS_EPISODE_CONTEXT_RECOMMENDATIONS_2026-09-23.md; CC §2.1)",
+    "Grief, feeling or Intent as the cause of the child's death or of any event's onset (source: evidence ledger (prologue → E01–02 row); PF R1, R7)",
+    "Colour, aura or hue as a detector of emotion, truth or Intent (source: PF V2, R8)",
+    "Objective floating or impossible geometry (E05 explicitly) (source: v4.1b E05; PF V3)",
+    "Formal Pulse, Shard, micro-Shard, Node or Echo naming; corridor-class semantics (\"U4 Memory\") (source: v4.1b R15, R16, §8; PF R5)",
+    "Mechanics explained in dialogue (source: Mech §60)",
+    "Technology as a carrier; a recording as transmission (source: Mech §23; PF V4)",
+    "Seraphine calming a crowd or the Square by aura or \"calm pockets\"; breath or grounding repairing anything (source: PF R7; recovery/B01_PULSE_EVENT_FULL_EXPORT_PROVENANCE_PASS_2026-09-23.md (quarantine))",
+    "Lucien naming, mapping or interpreting the southwest lean; \"Everything curves southwest\" (source: v4.1b §13)",
+    "An introduction package for Caro, or Caro on standby for Seraphine (source: v4.1b E03)",
+    "Lacuna required in Act I (source: v4.1b R12)",
+    "A named antagonist; Virelli; Dominion history or a bureau name (source: v4.1b E04, E11, Explicit non-decisions)",
+    "MissingThread, Tahl, Marrakesh, Elias, Brightbreak; global confirmation (source: v4.1b R23, R25, S02 ceiling)",
+    "The prologue as literal preview or prophecy; any LT motif; naming Silence and Hope (source: v4.1b prologue; macro-Möbius design §4)",
+    "Death foreshadowing in the Baz call (source: v4.1b E17)",
+    "Honey Island named or linked to any future site (source: VAA §3 O1)"
   ]
 }

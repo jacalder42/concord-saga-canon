@@ -15,6 +15,10 @@ three files can check; an independent read (ChatGPT's, as with Veil) would be wo
 
 **What it does not change:** nothing. Findings with a proposed amendment wait for the author.
 
+**Answered 2026-09-27** (through L1–L14, approved design; `decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md`, ledger §205): LA1 (L14),
+LA2 (L11), LA3 (L10: B08 E33 and B09 E02 re-owned Rex → Lucien; the example of B09 E04 was
+Seraphine's, which L10 excludes), LA6 (L6), LA7 (L7), LA11 (L3: Clock A). The rest carried as recommended.
+
 ---
 
 ## 1. Verdict

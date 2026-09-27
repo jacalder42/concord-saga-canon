@@ -11,6 +11,9 @@ order (`decisions/PROGRESSIVE_RESOLUTION_SEQUENCE_AUTHOR_INSTRUCTION_2026-09-27.
 
 **Provisional by design.** Nothing here is approved until the author answers §5.
 
+**Answered 2026-09-27: L1–L14 as recommended, approved design** (`decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md`, ledger §205).
+L2 answers deferred D4; L3 ends the B08 end-sequence deferral (Clock A); L7 answers route Q9.
+
 **What it does not change:** no ruling, row, card, rule or `recovery/` file. **No recovered material is
 deleted or replaced**; superseded lineages stay where they are. The B08 end-sequence deferral and the
 B01 EBCI hold stand.

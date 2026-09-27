@@ -15,6 +15,11 @@
       {
         "role": "trilogy_lead",
         "character": "Bastien \"Baz\" Arnaud"
+      },
+      {
+        "role": "secondary_pov",
+        "character": "Lucien Kael",
+        "_added": "Hand-added 2026-09-27 on the author's approval of Q-O5 (decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md): v4.1b gives Lucien point-of-view episodes (E04, E05, E11, E12, his side of E45). Not derived from pov_baton_pass; weights stay the author's."
       }
     ],
     "weights": "TODO: authored. Ruling 9 derives the ROTATION and leaves the WEIGHTS to the author. They are deliberately not derived from milestone counts: the `channel` column is empty on 23 of 36 grid rows, so any count-based weighting would rest on little over a third of the dataset and would read as measurement while being an artifact of what has been filled in. A POV distribution is an authorial statement about emphasis, which no count supplies.",
@@ -22,9 +27,122 @@
   },
   "entry_state": {
     "_basis": "authored - not derivable",
-    "_reason": "B01 opens the saga. Every other book's entry_state is derived from the preceding book's exit_state_locks; B01 has no predecessor, so there is nothing to derive from. This block is the author's and is deliberately left TODO. Ledger section 60.",
-    "world": "TODO",
-    "key_character_states": "TODO"
+    "_reason": "B01 opens the saga. Every other book's entry_state is derived from the preceding book's exit_state_locks; B01 has no predecessor, so there is nothing to derive from. This block is the author's; it was TODO until 2026-09-27, when the drafted values were approved. Ledger section 60.",
+    "_approval": "APPROVED DESIGN 2026-09-27 (Tier B), not ruled canon. Values from proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md, approved as drafted (Q-O1-Q-O3) in decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md. Ledger section 205. tools/derive_book_context.py derives entry_state for B02-B09 only and does not touch this block.",
+    "world": [
+      {
+        "id": "W1",
+        "statement": "New Orleans is living ordinary life: work, commerce, tourism, worship, music, heat, transit. Most of the city, most of the time, is normal (the Veil floor of U1/W0)",
+        "source": "v4.1b §3, E03, E08; proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md (\"Veil keeps a floor of U1/W0\")"
+      },
+      {
+        "id": "W2",
+        "statement": "Veil-era conditions: effects are subtle and low-amplitude; technology is mostly stable; a few people notice faint wrongness, and no one shares a word for it",
+        "source": "Mech §7.1; rules/trilogy_context_T1_veil.json (tech_state: mostly_stable); v4.1b E01, E04"
+      },
+      {
+        "id": "W3",
+        "statement": "No public event has yet happened. No shared vocabulary, no pattern, no suspicion of anything beyond New Orleans",
+        "source": "v4.1b E15 (\"first undeniable civic-scale event\"), §9 handoff (\"global extent suspected at most\" by the end)"
+      },
+      {
+        "id": "W4",
+        "statement": "No MissingThread exists in B01. No anonymous public voice",
+        "source": "v4.1b R23; BC-ANONYMOUS-MT-VOICE (introduced B02 E07)"
+      },
+      {
+        "id": "W5",
+        "statement": "Institutions are present as footprint and procedure: the Dominion sphere (authority, classification, protection; Lucien's civic/cultural structural-systems bureau works within it) and Technarc (measurement: sensors, protocols, access), both ambient",
+        "source": "v4.1b R14, R32, E23; VAA §3 T5"
+      },
+      {
+        "id": "W6",
+        "statement": "Informal care networks (future Filaments) already exist as ordinary civic and community infrastructure, not an organisation",
+        "source": "v4.1b E09, E10, R13"
+      },
+      {
+        "id": "W7",
+        "statement": "The Velvet Vein is a working nightlife room, not anomaly headquarters",
+        "source": "v4.1b R11, E06"
+      },
+      {
+        "id": "W8",
+        "statement": "Places in play, by route family: a Honey Island-adjacent south-Louisiana wetland community; Tremé/community routes; St. Charles/Garden District/Uptown; the French Quarter and Jackson Square; Marigny/Bywater and the Vein; CBD/civic infrastructure; the riverfront; City Park. District-level specificity unless a venue is recovered and useful",
+        "source": "v4.1b §3"
+      }
+    ],
+    "key_character_states": [
+      {
+        "character": "Seraphine Vael",
+        "state": "Lives and works in New Orleans in a care role that takes her to a family in a medical/care crisis (exact role OPEN). Already perceives subtle wrongness, with no word for it and little confidence in it. Belief: \"If I care enough, I should be able to save/fix this.\" Has a friend (Caro) and a life before the mystery",
+        "source": "v4.1b §4, E01, E03, R31"
+      },
+      {
+        "character": "Lucien",
+        "state": "Already in New Orleans on a legitimate, bounded professional assignment from a civic/cultural structural-systems bureau within the Dominion sphere: credentials, a mandate, an expected report. Sent from Vienna before B01 (ruled); first on the page at E04; no on-page Vienna. Not a field agent; no explicit distrust of Virelli. Belief: \"If I can structure it, I can contain uncertainty.\" Who sent him, and under what cover, is OPEN",
+        "source": "v4.1b R32, E04, §4, v4.1b Explicit non-decisions; MCL follow-up 1"
+      },
+      {
+        "character": "Bastien \"Baz\" Arnaud",
+        "state": "Outside the crisis and outside New Orleans (where is OPEN). Lucien's close friend and former/adjacent colleague, with witness, documentation, archive and institutional-literacy skills; current employer OPEN. Arrives by personal choice in Act II",
+        "source": "v4.1b R33, §4, E17–E18; OQA A12"
+      },
+      {
+        "character": "Caro",
+        "state": "In New Orleans, Seraphine's friend before page one; independently employed in response/care work (employer, credential and hospital OPEN, O2). Does not leave New Orleans in B01 (ruled)",
+        "source": "v4.1b R31, E03; MCL item 9"
+      },
+      {
+        "character": "Elisabet Arnardóttir",
+        "state": "Not in New Orleans. An independent environmental/geospatial crisis researcher whose own data has flagged a Louisiana anomaly. Her E23–E30 is one research visit; she comes back to stay in B02 (E05)",
+        "source": "v4.1b R34, E23; MCL follow-up 2; VAA §3 T8"
+      },
+      {
+        "character": "Mara",
+        "state": "Civilian resource, intake and referral work in a small neighbourhood organisation; a notebook of ordinary tasks. Organisation, neighbourhood and title OPEN",
+        "source": "v4.1b R35, E09"
+      },
+      {
+        "character": "Trip",
+        "state": "Hosts the Velvet Vein",
+        "source": "v4.1b E06"
+      },
+      {
+        "character": "Offstage, with guards",
+        "state": "Tahl: exists, itinerant, not named before the B03 epilogue; no Tahl trace in B01. Lacuna: a human working musician; a cameo at E31 only, zero portent. Rex: in Detroit; not on the page in B01. Kade: not in B01",
+        "source": "book_context_B01.json _ruled_constraints; v4.1b §9; MCL; VAA §3 T8; BC-LACUNA-CAMEO"
+      }
+    ],
+    "_private": {
+      "_status": "WRITER-ONLY, PROTECTED FROM THE PAGE (Q-O3). Approved design; the rulings cited are what carry authority. Guard: none of P1–P5 may appear on the page in B01 as statement, prophecy or image. The prologue names nothing and carries no LT motif (proposals/MACRO_MOBIUS_PROLOGUE_EPILOGUE_DESIGN_2026-09-27.md §4).",
+      "statements": [
+        {
+          "id": "P1",
+          "statement": "The Veil is a hard cap, held by a single soul (Mira's) and tended from outside by Silence and Hope. Blocked pressure is stored and concentrates at thin points",
+          "source": "§42A.2 (ruled); decisions/SERAPHINE_LOOM_HARD_CAP_AND_MIRA_AUTHOR_RULING_2026-09-27.md"
+        },
+        {
+          "id": "P2",
+          "statement": "Silence and Hope perceive strain and cannot simply intervene",
+          "source": "v4.1b prologue; BC-SILENCE-HOPE-OBSERVE"
+        },
+        {
+          "id": "P3",
+          "statement": "The swamp near Honey Island is the original Tear, the cap's first break. It is unexplained and unnamed in Veil; nobody in Veil knows it is the Mending site",
+          "source": "decisions/MECHANICA_HARD_CAP_BREATHING_VEIL_AUTHOR_ANSWERS_2026-09-27.md Q2; VAA §3 O1; BC-HONEY-ISLAND-SITE, BC-SWAMP-WOUND"
+        },
+        {
+          "id": "P4",
+          "statement": "Pressure surfaces in New Orleans only at precursor level (flickers, ghostwaves), and Jackson Square recurs as a thin point",
+          "source": "Mech §7.1, §34; CC §1.2 (PROPOSAL, Q-C2)"
+        },
+        {
+          "id": "P5",
+          "statement": "A faint southwest lean exists in the disturbances. It is perceptible to Lucien only, unnamed",
+          "source": "v4.1b §13 southwest correction; BC-SOUTHWEST-LADDER"
+        }
+      ]
+    }
   },
   "exit_state_locks": [
     {

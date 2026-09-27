@@ -3,7 +3,9 @@
   "act_id": "S1.T1.B01.A2",
   "book_id": "B01",
   "trilogy_id": "T1",
-  "act_thesis": "TODO",
+  "_authored_fields_basis": "APPROVED DESIGN 2026-09-27 (Tier B), not ruled canon. Values from proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md, approved as drafted (Q-O1-Q-O3) in decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md. Ledger section 205. Applies to act_thesis, deltas.pressure_vectors, deltas.character_state_deltas, act_success_criteria and forbidden_shortcuts only. Episode numbers are v4.1b labels (E37 is read before E36, E44 before E43); relabel at release (OQA B3). Envelope, exceptions and soft_modulation are untouched.",
+  "act_thesis": "Investigation becomes prediction. Baz arrives as a person before he is a method; the trio's three ways of knowing (feel → structure → verify) turn scattered incidents into a falsifiable local window. Restraint is rewarded (E29) and promised pleasure is paid (E31). The predicted pulse (E33) proves the system is not random while control fails; bodies and care come before explanation (E34–E35); the city begins to adapt as the cycle shortens (E36, the act close).",
+  "_act_thesis_source": "v4.1b Act II heading, §13 Act II jobs, E20 trio grammar, E33 payoff, E36 Act II exit.",
   "escalation_permissions": {
     "corridor": {
       "min": "U1",
@@ -23,8 +25,177 @@
     "basis_note": "E17/E18 at U2->U3, W1, FX0-FX1"
   },
   "deltas": {
-    "pressure_vectors": [],
-    "character_state_deltas": [],
+    "pressure_vectors": [
+      {
+        "thread": "world",
+        "movement": "scattered incidents → a working pattern → a falsifiable window → a partial hit with an expressive miss → an accelerating cycle; \"isolated event\" stops being a useful frame. No global claim",
+        "carriers": [
+          "E20",
+          "E25",
+          "E27",
+          "E33",
+          "E35–E36"
+        ],
+        "source": "v4.1b E25, E27, E33, E36; CC §3"
+      },
+      {
+        "thread": "seraphine",
+        "movement": "too late → temptation to act too early → restraint (E29); then overreach and saturation (E33)",
+        "carriers": [
+          "E27",
+          "E29",
+          "E33–E34"
+        ],
+        "source": "v4.1b E29 Möbius turn; VAA §4; CC Q-C5; BC-BOUNDED-RESPONSIBILITY, BC-SWAMP-WOUND"
+      },
+      {
+        "thread": "baz",
+        "movement": "arrives → an embedded method → a cautious conclusion: \"the pattern is accelerating\"",
+        "carriers": [
+          "E18–E19",
+          "E27",
+          "E33",
+          "E36"
+        ],
+        "source": "v4.1b E18–E19, E36"
+      },
+      {
+        "thread": "filaments",
+        "movement": "recognisable through recurring care and coordination (M02 lands) → \"control was never the promise\"",
+        "carriers": [
+          "E20",
+          "E22",
+          "E35"
+        ],
+        "source": "M02; v4.1b E35; BC-FILAMENT-ETHIC"
+      },
+      {
+        "thread": "dominion",
+        "movement": "authority, classification and protection language, as footprint",
+        "carriers": [
+          "E23"
+        ],
+        "source": "v4.1b E23"
+      },
+      {
+        "thread": "technarc",
+        "movement": "ambient only: sensors, protocols, access; no request to Baz",
+        "carriers": [
+          "E23"
+        ],
+        "source": "VAA §3 T5 (BC-TECHNARC-KIT starts at B02 E13)"
+      },
+      {
+        "thread": "caro_elisabet",
+        "movement": "none → recognition / instinctive safety",
+        "carriers": [
+          "E28 (option)",
+          "E30"
+        ],
+        "source": "v4.1b E30; BC-CARO-ELISABET-LADDER"
+      },
+      {
+        "thread": "world",
+        "movement": "relief: competence fun, wonder, anticipation, the night paid in full, bodies first, friendship",
+        "carriers": [
+          "E21",
+          "E26",
+          "E28",
+          "S04",
+          "E31",
+          "E34",
+          "E37"
+        ],
+        "source": "v4.1b §6, §13 Life/Reward checksum"
+      }
+    ],
+    "character_state_deltas": [
+      {
+        "character": "Seraphine",
+        "from": "tempted to treat community knowledge as a hidden answer",
+        "to": "chooses restraint in the pressure zone despite the swamp wound's pull; saturates at the pulse; sees that useful care can exist without causal certainty",
+        "carriers": [
+          "E22",
+          "E29",
+          "E33",
+          "E35"
+        ],
+        "source": "v4.1b E22, E29, E35; VAA §4"
+      },
+      {
+        "character": "Lucien",
+        "from": "resists withdrawal",
+        "to": "accepts it; sees structure and cannot command it; shows a different self off the clock",
+        "carriers": [
+          "E29",
+          "E33",
+          "E37"
+        ],
+        "source": "v4.1b E29, E33, E37"
+      },
+      {
+        "character": "Seraphine / Lucien",
+        "from": "trust",
+        "to": "trust capable of surviving conflict",
+        "carriers": [
+          "E24"
+        ],
+        "source": "v4.1b E24 State"
+      },
+      {
+        "character": "Baz",
+        "from": "a friend summoned",
+        "to": "a person in New Orleans first; a witness-sequence method (\"what would count as wrong?\"); the act's cautious conclusion; a friendship with Lucien independent of the case",
+        "carriers": [
+          "E18–E19",
+          "E22",
+          "E27",
+          "E36–E37"
+        ],
+        "source": "v4.1b E18–E19, E27, E36–E37"
+      },
+      {
+        "character": "Elisabet",
+        "from": "absent",
+        "to": "one research visit on her own vector; productive friction with Lucien; supplies or contests one inference; creates clarity for Caro; returns to her own work. Not the trio's fourth member",
+        "carriers": [
+          "E23",
+          "E25 (option)",
+          "E30"
+        ],
+        "source": "v4.1b E23, E25 option, E30; VAA §3 T8; MCL follow-up 2"
+      },
+      {
+        "character": "Caro",
+        "from": "Seraphine's friend",
+        "to": "competent first; accepts help; safe because seen without being managed; registers interest in Elisabet's sharp public self",
+        "carriers": [
+          "E28 (continuity)",
+          "E30"
+        ],
+        "source": "v4.1b E28 continuity, E30"
+      },
+      {
+        "character": "Mara",
+        "from": "a notebook with odd entries",
+        "to": "a continuity face for the trio's investigation; she does not join the team",
+        "carriers": [
+          "E20"
+        ],
+        "source": "v4.1b E20, End states"
+      },
+      {
+        "character": "Trip / Velvet Vein",
+        "from": "ordinary room",
+        "to": "the night is paid (E31); rumour room (S05, E36)",
+        "carriers": [
+          "E31",
+          "S05",
+          "E36"
+        ],
+        "source": "v4.1b §4 Möbius"
+      }
+    ],
     "soft_modulation": {
       "fun": {
         "allowed": true,
@@ -41,9 +212,37 @@
     }
   },
   "act_success_criteria": [
-    "TODO"
+    "Baz is a person before a function (arrival pleasure, no clue in the meal, no death shadow), and has a friendship with Lucien independent of the case (source: v4.1b E18, E37)",
+    "Investigation happens while walking, eating and waiting; briefing through disagreement, not exposition (source: v4.1b E19; v4.1b §11.D (embedded restoration ledger))",
+    "E22 is no lore council; Baz asks what would falsify an interpretation (source: v4.1b E22)",
+    "E23: institutions as footprint; Technarc ambient with no request to Baz; Elisabet enters on her own vector, on a visit, not for Caro and not for the Dominion (source: v4.1b E23; VAA §3 T5, T8)",
+    "E24: fear, not misunderstanding, drives the conflict; repair requires changed behaviour (source: v4.1b E24)",
+    "E25: a working model only; the narrator certifies no Corridors or Nodes (source: v4.1b E25)",
+    "E26: wonder without punishment; no new Mechanica (source: v4.1b E26)",
+    "E27 states in advance the window, the place, what they will watch for, and what counts as a miss (source: reports/B01_E15_E33_CAUSAL_EVIDENCE_FALSIFICATION_PASS_2026-09-23.md; CC §3.2)",
+    "E29 is retitled away from drift and uses pressure zone; \"swamp wound\" stays an unexplained seed; restraint is chosen and later validated (source: VAA §3 T6; BC-SWAMP-WOUND)",
+    "E30: recognition / instinctive safety; no romance episode, no mechanics lesson, no Elisabet biography; Leila not required (source: v4.1b E30)",
+    "E31: the night succeeds and is not attacked; Lacuna is a cameo only (source: v4.1b E31; VAA §3 T8; BC-LACUNA-CAMEO)",
+    "E32 → E33 → E34 run with no supplement; E33 meets its causal card (window shudder trial, no lamp); E34 puts bodies before any debrief; E35's care helps people without reversing the event (source: v4.1b E32–E35, §7; D4; CC §3)",
+    "Act close (E36, read after E37): the city adapts; the cycle shortens; the pattern accelerates; no global claim; words stay scattered (source: v4.1b E36; BC-PULSE-NAMING)",
+    "M02 lands: Filaments recognisable through recurring care and coordination, with no recruitment and no organisation chart (source: M02)",
+    "Reading order holds: E37 before E36, S05 at its file position; labels corrected only at release (source: D7; OQA B3)",
+    "A variety of pleasure and want is visible, and Caro's interest in Elisabet is more than care (source: VAA §4 execution tests)"
   ],
   "forbidden_shortcuts": [
-    "TODO"
+    "Breath, grounding or the trio's presence controlling or cancelling the pulse (source: PF R7; readiness report (E32–35 row))",
+    "Exposition during acute aftermath; any debrief or clue in E34 (source: v4.1b E34)",
+    "A plot alert inside E31; a threat hidden in S04 (source: v4.1b E31, S04)",
+    "A Technarc request to Baz; Technarc as a named antagonist (source: VAA §3 T5)",
+    "Elisabet as Dominion, as the trio's fourth member, introduced for Caro, or staying in B01 beyond the visit (source: v4.1b E23, E25; VAA §3 T8)",
+    "A C/E romance declaration or full romance episode; an S/L physical romance payoff (source: v4.1b E30, §4)",
+    "Drift as ontology or as E29's title (source: VAA §3 T6)",
+    "Exact-second prophecy; a model that becomes authority (source: v4.1b E33; CC §3)",
+    "Community knowledge as the hidden answer; a council of mystical specialists (source: v4.1b E22)",
+    "Glass as an automatic conductor; a citywide mechanical wave; a lamp failure by default (source: D4; context review (E19–27 → E31–35 row))",
+    "Global confirmation, Marrakesh, MissingThread, Tahl (source: v4.1b §9)",
+    "Numeric sorting of E36/E37 (source: D7; OQA B3)",
+    "Death foreshadowing for Baz (source: v4.1b E18, E37)",
+    "Mechanics explained in dialogue (source: Mech §60)"
   ]
 }

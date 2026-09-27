@@ -3,6 +3,10 @@
 **Date:** 2026-09-27
 **Status:** PROPOSAL / PRIVATE CAUSAL CARDS — NON-CANONICAL; pre-release work approved 2026-09-27 (preflight Q7); the B01 EBCI hold stands; no packet is generated
 
+**Answered 2026-09-27: all questions as recommended, approved design** (`decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md` §2,
+ledger §205). Q-E33-1's district is chosen at EBCI; Q-E48-1 is Q1, still water. Q-C2's source stays a
+working hypothesis with no rule text until a Mechanica ruling.
+
 **Asked for in:** `decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md` §3, Q7:
 *"Full causal cards for E15, E33, E45 and E48, drafted before release, now that Q1–Q2 are answered.
 Observation notes elsewhere. E48's quiet observable is re-chosen against 'arrive together, and carry
