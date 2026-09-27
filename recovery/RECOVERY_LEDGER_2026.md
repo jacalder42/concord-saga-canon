@@ -12076,4 +12076,18 @@ END OF ENTRY 208
 
 ===============================================================
 
+# 209. The independent Loom review passes; the compact saga lock check — 2026-09-27
+
+**Status:** LEDGER ENTRY. An author result (not a ruling) and step 3 of the post-audit sequence (§208).
+
+**The Loom review** (`decisions/LOOM_INDEPENDENT_REVIEW_AUTHOR_RESULT_2026-09-27.md`, indexed): the author's independent read passes; *"No finding requires a change to Veil architecture or Veil EBCI."* Nine execution and refinement notes, **not architecture redesign**, recorded as LX1–LX9 with locators: B07's climax is the civic break and Kade's consequence, E42 Mira a quiet destabilisation (LX1); Kade makes one voluntary nonviolent amplification choice before the break, so Elias does not author his fall (LX2, at B07 E30–E31); B08's wounds differ by human question (grief and preservation; competence and the old solution's acceptability; correct action worsening pressure elsewhere), refining L14, with the Clock A execution choice flagged for EBCI (LX3); B08 E20's harmed person has an ordinary life and agency (LX4); B09 E31–E45 add nothing (LX5); guide foreshadowing experiential, never prophetic (LX6); Mira's deletion test, B08 E44 first (LX7); ordinary relationship scenes free of exposition (LX8); B09 E48 as architected (LX9). Pointer notes on the B07, B08 and B09 pass-3 files; their bodies are unchanged.
+
+**The compact saga lock check** (`reports/SAGA_LOCK_CHECK_FOR_VEIL_EBCI_2026-09-27.md`): **no open episode-architecture question could materially alter Veil EBCI.** Everything bearing on Veil is settled and queued in named files; what remains open (D11, D12, the fragment's wording, VT's origin, Ito in Loom, the Pass 4 cast decisions, the Mechanica review, the era file, the lens fields) lives in Neon or Loom or is provenance; seasons and v4.1b's explicit non-decisions are EBCI choices. **The pilot is independent of the release-time envelope work**: E31 and E33 are A2 episodes inside A2's bands, untouched by the relabel, the A1 exceptions and the `PR` overlay. **Three pilot inputs:** PI1, all 81 `soft_modulation` values are `LOW`, a template default (the migration map: "TEMPLATE, NOT RECOVERED CANON"), which the E31 packet should not treat as a ceiling; PI2, E33's district picked by the author from the packet's options; PI3, the season marked `[P]` in the pilot. **Questions:** Q-LS1 (end saga-scale architecture for now), Q-LS2 (release the hold for the pilot only: the author's act), Q-LS3 (PI1–PI3).
+
+**Unchanged:** every ruling, milestone, card, rule and episode file body. **The B01 EBCI hold stands.** Next: the author's Q-LS answers.
+
+END OF ENTRY 209
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -5,6 +5,8 @@
 progressive-resolution order (`decisions/PROGRESSIVE_RESOLUTION_SEQUENCE_AUTHOR_INSTRUCTION_2026-09-27.md`
 item 2), from the Loom reconciliation (`proposals/LOOM_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-27.md`).
 
+> **Independent Loom review, 2026-09-27: passes** (`decisions/LOOM_INDEPENDENT_REVIEW_AUTHOR_RESULT_2026-09-27.md`). Execution notes for B07 (not redesign): **LX1** the civic break and Kade's consequence are the climax; E42 (Mira) is a quiet destabilisation. **LX2** Kade makes one voluntary, nonviolent amplification choice before the break (E30–E31), so Elias does not author his fall. Also LX6, LX8. The body below is unchanged.
+
 - **Provisional by design.** Episode numbers are working locators.
 - **Answered 2026-09-27 (approved design, `decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md`):** L1 (Mira's first
   post-Veil appearance at E13) and the other L-answers; nothing else in B07 changes.

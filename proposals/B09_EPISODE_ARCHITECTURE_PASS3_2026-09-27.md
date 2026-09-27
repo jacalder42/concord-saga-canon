@@ -5,6 +5,8 @@
 progressive-resolution order, from the Loom reconciliation
 (`proposals/LOOM_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-27.md`).
 
+> **Independent Loom review, 2026-09-27: passes** (`decisions/LOOM_INDEPENDENT_REVIEW_AUTHOR_RESULT_2026-09-27.md`). Execution notes for B09 (not redesign): **LX5** E31–E45: add nothing; Mending beats may be very simple, not each a climax. **LX9** E48 stays as architected: keep every element, point at none. Also LX6, LX8. The body below is unchanged.
+
 - **Provisional by design**, around a **ruled finale** that it does not reopen: the site learned only
   in Act III; Elias, Rex, Kade and the one identifiable flare; the Mending's one-at-a-time order; the
   epilogue.

@@ -5,6 +5,8 @@
 progressive-resolution order, from the Loom reconciliation
 (`proposals/LOOM_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-27.md`).
 
+> **Independent Loom review, 2026-09-27: passes** (`decisions/LOOM_INDEPENDENT_REVIEW_AUTHOR_RESULT_2026-09-27.md`). Execution notes for B08 (not redesign): **LX3** the wounds differ by human question (Santa Fe grief and preservation; Mound City competence and whether the old solution is acceptable; Serpent Mound correct action worsening pressure elsewhere), refining L14. **LX4** E20's harmed person has an ordinary life and agency, not a guilt object. **LX7** E44 is the first candidate for Mira's deletion test. Also LX6, LX8. The body below is unchanged.
+
 - **Provisional by design.** Episode numbers are working locators.
 - **The B08 end-sequence deferral is preserved** (the author: *"Preserve the existing B08 end-sequence
   deferral until episode architecture gives us enough information to resolve it honestly"*). Act III
