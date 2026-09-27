@@ -10696,4 +10696,33 @@ END OF ENTRY 158
 
 ===============================================================
 
+# 159. Seraphine's sacrifice, the hard cap and Mira — source check — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a report. Nothing is ruled or edited.
+
+**The author's question:** does Seraphine's sacrifice make the difference between the old hard caps and the breathing veil, does that answer the Regier concern (review C01), and should Mira be removed or modified? ChatGPT's answer (Mira as a "dark mirror") came with it.
+
+**Report:** `reports/SERAPHINE_SACRIFICE_HARD_CAP_AND_MIRA_CHECK_2026-09-27.md`. Findings:
+
+1. **The sacrifice is not the difference.** Every cycle required a Mira/Seraphine, and the Loom is powered by a soul (both ruled). The difference lies in blocking against filtering, and in one ascendant against a shared structure (the locked map; the author 11-13 and 11-15).
+2. **The Regier concern is answered by the guides revelation, which is already ruled.** Seraphine's belief that the cost is hers alone breaks at the Mending. Mechanica §42 bounds the veil ("Human failure remains possible").
+3. **One locked line cuts against it.** "Without her, it collapses back into static" (locked map, 11-15) nearly repeats her false belief, "If I falter, everything collapses" (SeraphineIdentity).
+4. **Mira need not be removed.** The ruled Mira already is the contrast.
+
+Four questions are put to the author:
+- Q1: the "collapses" line, A (keep) or B (revise; recommended);
+- Q2: does the veil end the cycle;
+- Q3: Mira knows the cost, not the answer;
+- Q4: Mira's soul powers the current cap, to be promoted from reading to ruling.
+
+The departures of ChatGPT's answer from the sources are tabled in the report's §4.
+
+**ChatGPT's parallel pass:** `proposals/MIRA_HARD_CAP_SERAPHINE_SACRIFICE_EDITORIAL_PASS1_2026-09-26.md` (dfcd94b, 382 lines, pushed without a ledger entry; recorded here). It reaches the same core findings: keep Mira; she knows the cost, not the answer; tether is not control; no successor Seraphine; a narrow Mechanica specification after approval. It differs on the "collapses" line: it keeps the line with the distinction added (option A). The report's §6 reconciles the two.
+
+**The holds stand.**
+
+END OF ENTRY 159
+
+===============================================================
+
 END RECOVERY LEDGER
