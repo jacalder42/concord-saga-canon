@@ -39,3 +39,9 @@ The same answer covers the LT audit (`LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2
   source-recovered; the bystander harvest not) is in ledger §179.
 - **No grid row changes.** M17 and M30 already stage meta failure.
 - **The holds stand:** B03 and B01 EBCI.
+
+---
+
+## Follow-up (2026-09-27)
+
+The author: *"Ruled on LT Q1, Q4 and meta Q4"*. **Q4 (origin) is now RULED** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md`). The faction card is rewritten, with a dated note keeping the old text. Q1–Q3 and Q5–Q8 stay approved design, and Mechanica §48 is not amended.

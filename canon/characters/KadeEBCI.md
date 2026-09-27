@@ -72,13 +72,13 @@ Presence of Seraphine, Caro, Elisabet, or Lucien is required to prevent collapse
 **LT**
 - Accessible, by named exception — author ruling 2026-09-26, Mechanica §39 amended
   (`decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`). Previously: "Not
-  accessible." What access consists of (perception, use, one- or two-way) is open
-- Receives prismatic handshake only in epilogue (no agency) — the handshake is the LT reach
-  that closes the ruled B09 epilogue scene with Lacuna. "(no agency)" is retained until what
-  access consists of is ruled
-- Note 2026-09-27, approved design, not ruled
-  (`decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q4): he can answer, and
-  the saga ends before he does; the prompt is left open. "(no agency)" stands until a ruling
+  accessible."
+- Receives the LT handshake in the epilogue: **he can answer, and the saga ends before he
+  does**; the prompt is left open. The handshake is the LT reach that closes the ruled B09
+  epilogue scene with Lacuna
+- Amended 2026-09-27 by author ruling (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §2). Was: "Receives
+  prismatic handshake only in epilogue (no agency)", and "What access consists of
+  (perception, use, one- or two-way) is open"
 
 **Hard Separation Rule**
 MT ≠ VT ≠ LT at all times.

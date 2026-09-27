@@ -2,7 +2,7 @@
 Status: Authoritative Canon
 Source: Project Memory + Mechanica v4 + Resonance v1
 Phase: Phase 1A Migration
-Applies To: Veil, Neon, Loom (pre-Mending); persists post-Mending but remains distinct from LT
+Applies To: Veil, Neon, Loom (pre-Mending). VT closes at the Mending; LT succeeds it as a separate channel
 
 ---
 
@@ -139,26 +139,28 @@ Forceful use of VT worsens outcomes.
 
 ---
 
-## 9. VT POST-MENDING
+## 9. VT AT THE MENDING
 
-After the Mending:
-- VT persists as boundary contact
-- remains distinct from LT
-- operates within filtered resonance
+At the Mending:
+- VT closes: Silence and Hope, its two parties, disperse into the veil's laws (Mechanica §42A.3)
+- LT succeeds it as a separate channel
 
 VT does not evolve into LT.
+The two never run at once, and they never merge.
 
-> **Note 2026-09-27 (approved design, not ruled; `decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q1):** VT **closes at the Mending**, when Silence and Hope disperse into the veil's laws (Mechanica §42A.3), and LT succeeds it as a new channel. It does not evolve into LT, so the line above stays true. *"VT persists"* above and in the header is **not rewritten until a ruling**.
+> **Amended 2026-09-27 by author ruling** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §1). Was: heading *"VT POST-MENDING"*; *"After the Mending: VT persists as boundary contact / remains distinct from LT / operates within filtered resonance"*; the header read *"persists post-Mending but remains distinct from LT"*. The author's words: *"LT = LuminousThread the successor to VT"* (2025-12-11).
 
 ---
 
 ## 10. INTEGRATION WITH OTHER CHANNELS
 
 - VT may distort MT
-- VT coexists with LT without merging
+- VT closes as LT opens; they do not overlap or merge
 - VT cannot access LT perception
 
 Channels remain separate.
+
+> **Amended 2026-09-27 by author ruling** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §1). Was: *"VT coexists with LT without merging"*.
 
 ---
 

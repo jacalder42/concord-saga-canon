@@ -11431,4 +11431,32 @@ END OF ENTRY 180
 
 ===============================================================
 
+# 181. Ruled: VT's succession, Kade's LT access, the meta origin — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an author ruling and the rule and card rewrites it permits.
+
+**The author, verbatim:** "Ruled on LT Q1, Q4 and meta Q4"
+
+**Recorded in** `decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md`:
+1. **VT closes at the Mending, and LT succeeds it** as a separate channel; they never merge or run at once.
+2. **Kade can answer the reach, and the saga ends before he does**; the prompt is left open.
+3. **Manufactured metas are altered humans only**, voluntary or coerced, names erased.
+
+**Rewritten, old text kept in dated notes:**
+- `rules/Channels/VT_RULES.md`: the header; §9 (now "VT at the Mending"); §10's coexistence line.
+- `rules/Channels/LT_RULES_POST_MENDING.md`: §1 (a succession line added); §8 (coexistence replaced by succession).
+- `rules/Channels/CHANNELS_OVERVIEW.md` §6: "VT remains distinct" replaced.
+- `canon/characters/KadeEBCI.md`: the LT block; "(no agency)" is gone.
+- `canon/factions/Manufactured_Metas.md`: the subtitle, the function line and "artificial constructs".
+
+**Added:** a succession paragraph in Mechanica §38; ruling notes in Mechanica §39 and `LT_RULES` §2; `_succession_note` in `canon_rules.json` `channels`; the §48 note marks the origin as ruled; a `notes` append on grid M53 (status and description unchanged). The pointer notes of §180 that these rewrites supersede were replaced.
+
+**Also:** follow-ups on both answers files; both reports' "Answered" notes updated; `decisions/README.md` indexed.
+
+**Still approved design:** LT Q2, Q3, Q5 and Q6; meta Q1–Q3 and Q5–Q8. **The holds stand:** B03 and B01 EBCI.
+
+END OF ENTRY 181
+
+===============================================================
+
 END RECOVERY LEDGER

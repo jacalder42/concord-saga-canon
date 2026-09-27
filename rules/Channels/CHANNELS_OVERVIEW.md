@@ -113,7 +113,7 @@ They experience only calmer stability and clearer emotional ecology.
 
 ### Post-Mending
 - MT stabilizes (culturally deemphasized)
-- VT remains distinct
+- VT has closed at the Mending; LT succeeds it (amended 2026-09-27 by author ruling, `decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §1; was *"VT remains distinct"*)
 - LT exists as a prismatic channel for ascendants, with Kade as a named exception (§5)
 
 ---

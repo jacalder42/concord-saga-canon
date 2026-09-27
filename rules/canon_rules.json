@@ -9,7 +9,8 @@
       "VT": "VeilThread - the private channel between Silence and Hope that Tahl discovers",
       "LT": "LuminousThread - post-Mending channel",
       "_naming_note": "Ruled 2026-09-19, recovery/CHANNEL_NAMES_RULING_2026-09-19.md: the three channels are three Threads, and Veil-Touch is retired. Ruled 2026-09-27 (decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md C1): MT is MissingThread, the public mortal channel; mortal technology is the ordinary substrate it runs on, and not every device is MT. Mortal Technology is retired as MT's expansion but is not in retired_terms, because mortal technology stays a legitimate generic term. C2: the channel names are closed.",
-      "_naming_note_was": "Ruled 2026-09-19, recovery/CHANNEL_NAMES_RULING_2026-09-19.md. The three channels are three Threads. Veil-Touch and Mortal Technology are retired names. How MT reconciles with the infrastructure layer described in rules/Channels/MT_RULES.md is OPEN - see that ruling section 2 and recovery/RECOVERY_LEDGER_2026.md section 20."
+      "_naming_note_was": "Ruled 2026-09-19, recovery/CHANNEL_NAMES_RULING_2026-09-19.md. The three channels are three Threads. Veil-Touch and Mortal Technology are retired names. How MT reconciles with the infrastructure layer described in rules/Channels/MT_RULES.md is OPEN - see that ruling section 2 and recovery/RECOVERY_LEDGER_2026.md section 20.",
+      "_succession_note": "Ruled 2026-09-27 (decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md section 1): VT closes at the Mending, when Silence and Hope disperse into the veil's laws, and LT succeeds it as a separate channel. The channels never merge and never run at once. The author: 'LT = LuminousThread the successor to VT' (2025-12-11)."
     },
     "channel_separation": [
       "MT!=VT",

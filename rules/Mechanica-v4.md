@@ -764,6 +764,11 @@ VT:
 
 Language must be exact and restrained.
 
+VT closes at the Mending, when Silence and Hope disperse into the veil's laws (§42A.3). LT
+succeeds it as a separate channel (§39). The two never merge (§36).
+
+> **Added 2026-09-27 by author ruling** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §1).
+
 ---
 
 ## 39. LT — LUMINOUS THREAD
@@ -789,6 +794,10 @@ Civilians perceive only calm or clarity.
 > is an exception to the ascendant rule, not a change to who ascends. What access consists of
 > (perception, use, one- or two-way) is not ruled. The other LT rules on this page are
 > unchanged.
+
+> **Ruled 2026-09-27** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §2): Kade's access is that **he can answer the reach, and
+> the saga ends before he does**; the epilogue's prompt is left open. Access for other
+> survivors is approved design, not ruled (`decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q3).
 
 ## 40. POST-MENDING MECHANICAL SHIFT
 
@@ -1025,7 +1034,7 @@ As a result:
 
 Their creators are the true antagonists.
 
-> **Note 2026-09-27 (approved design, not ruled; this section's text is unchanged):** factions draw on a meta's stored energy into a recipient who supplies the Intent. The draw is bodily and close, unreliable, and costly to the meta, the recipient and those nearby. A meta never holds Intent; metas are altered humans. See `decisions/MANUFACTURED_META_TRANSFER_AUTHOR_ANSWERS_2026-09-27.md`.
+> **Note 2026-09-27 (approved design, not ruled; this section's text is unchanged):** factions draw on a meta's stored energy into a recipient who supplies the Intent. The draw is bodily and close, unreliable, and costly to the meta, the recipient and those nearby. A meta never holds Intent. See `decisions/MANUFACTURED_META_TRANSFER_AUTHOR_ANSWERS_2026-09-27.md`. **Ruled 2026-09-27** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §3): **metas are altered humans only**, voluntary or coerced, names erased.
 ## 49. SYMBOLIC PERMISSION SYSTEM
 
 Symbols do not create power.

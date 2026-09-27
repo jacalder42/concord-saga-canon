@@ -20,7 +20,9 @@ LT represents:
 LT is not an upgrade to VT.
 LT is a different channel entirely.
 
-> **Note 2026-09-27 (approved design, not ruled; `decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q1):** VT closes at the Mending and LT **succeeds** it as a new channel, following the author's *"LT = LuminousThread the successor to VT"* (2025-12-11). This section stays true: LT is not VT converted. §8 and `VT_RULES.md` §9 are not rewritten until a ruling.
+LT succeeds VT, which closes at the Mending.
+
+> **Amended 2026-09-27 by author ruling** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §1): the line *"LT succeeds VT"* is added. The two lines above stay true: LT is not VT converted. The author's words: *"LT = LuminousThread the successor to VT"* (2025-12-11).
 
 ---
 
@@ -32,6 +34,8 @@ LT is perceivable only by:
 - Kade, by named exception (Mechanica §39, amended 2026-09-26 by author ruling —
   `decisions/LT_ACCESS_AND_B09_EPILOGUE_AUTHOR_RULING_2026-09-26.md`). Whether other
   protagonist survivors have access, and what "post-Mending anchors" covers, is open.
+
+> **Ruled 2026-09-27** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §2): **Kade can answer the reach, and the saga ends before he does**; the epilogue's prompt is left open.
 
 > **Note 2026-09-27 (author approval, `decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q3, Q6):** *"post-Mending anchors"* is read as **the guides**, Lucien and Caro. **Approved design, not ruled:** Kade, Elisabet and Rex can **receive** the trio's reach, rarely, through Tahl's echo; it is felt, not read, and no information passes beyond the §6 handshake. None uses LT routinely. Lacuna feels the clarity, not the reach. The list above is unchanged.
 
@@ -133,17 +137,18 @@ Consequences remain human.
 
 ## 8. RELATIONSHIP TO VT
 
-VT and LT coexist but do not merge.
+LT succeeds VT. VT closes at the Mending, and LT opens.
+They do not merge, and they never run at once.
 
-- VT = boundary contact
-- LT = filtered connective ecology
+- VT = boundary contact (pre-Mending)
+- LT = filtered connective ecology (post-Mending)
 
-VT remains sharper.
-LT remains softer.
+VT was sharper.
+LT is softer.
 
-Neither replaces the other.
+> **Amended 2026-09-27 by author ruling** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §1). Was: *"VT and LT coexist but do not merge."*; *"VT remains sharper. LT remains softer."*; *"Neither replaces the other."*
 
-> **Note 2026-09-27 (approved design, not ruled; `decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q1, Q5):** VT closes at the Mending and LT succeeds it; this section's coexistence is not rewritten until a ruling. *"More tangible than VT"* (author, 2026-09-26) describes the reach through Tahl's echo, not LT in general: LT stays softer.
+> **Note 2026-09-27 (approved design, not ruled; `decisions/LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2026-09-27.md` Q5):** *"More tangible than VT"* (author, 2026-09-26) describes the reach through Tahl's echo, not LT in general: LT stays softer.
 
 ---
 

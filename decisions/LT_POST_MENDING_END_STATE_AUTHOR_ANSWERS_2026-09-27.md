@@ -55,3 +55,9 @@ Each carries a **dated pointer note** only. The existing text stands until a rul
   **era** envelope, applied when the era file is written.
 - D11 (the entity's name) and D12 (MT's new name) stay deferred.
 - **The holds stand:** B03 and B01 EBCI.
+
+---
+
+## Follow-up (2026-09-27)
+
+The author: *"Ruled on LT Q1, Q4 and meta Q4"*. **Q1 and Q4 are now RULED** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md`). The texts listed above under *"What was not rewritten"* are rewritten, with dated notes keeping the old text. Q2, Q3, Q5 and Q6 stay approved design.

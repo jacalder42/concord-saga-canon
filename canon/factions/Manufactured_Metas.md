@@ -1,12 +1,12 @@
 # MANUFACTURED METAS  
 Faction Canon • Engineered Antagonist Class  
-Human-Made Resonance Failures • Intent-Absent Constructs
+Human-Made Resonance Failures • Intent-Absent Altered Humans
 
 ---
 
 ## FACTION FUNCTION
 
-Manufactured Metas are **engineered beings created to simulate or replace resonance without emotion or Intent**.
+Manufactured Metas are **people engineered into beings that simulate or replace resonance without emotion or Intent**.
 
 They are not villains.
 They are **evidence**.
@@ -25,12 +25,12 @@ Manufactured Metas exist to prove a negative:
 ## WHAT MANUFACTURED METAS ARE
 
 Manufactured Metas are:
-- artificial constructs (biological, cybernetic, or hybrid)
+- altered humans: people modified into metas, voluntary or coerced, their names erased
 - designed by human institutions under pressure
 - created to control, isolate, or weaponize resonance
 - permanently **incapable of Intent**
 
-> **Note 2026-09-27 (approved design, not ruled; `decisions/MANUFACTURED_META_TRANSFER_AUTHOR_ANSWERS_2026-09-27.md` Q4):** metas are **altered humans only**, voluntary or coerced, names erased. The *"artificial constructs"* line is not rewritten until a ruling.
+> **Amended 2026-09-27 by author ruling** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §3): metas are **altered humans only**. Was: the subtitle *"Intent-Absent Constructs"*; *"engineered beings created to simulate or replace resonance without emotion or Intent"*; and *"artificial constructs (biological, cybernetic, or hybrid)"*. The author: *"My memory says they started as people who get modified to become metas"* (2025-11-21).
 
 They may:
 - mimic emotional behavior
