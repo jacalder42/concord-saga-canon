@@ -78,5 +78,5 @@ instruction). Both are additions only.
 - **Appendix B** gains *"**Hard cap:** Pre-Mending Veil: one fixed ceiling held by a single soul;
   brittle; replaced at the Mending (§42A)"*, placed after *Breathable Veil*.
 
-§1's *"Not added"* item is closed. Ledger §164.
+§2's *"Not added"* item is closed. Ledger §164.
 
