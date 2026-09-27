@@ -11799,4 +11799,26 @@ END OF ENTRY 195
 
 ===============================================================
 
+# 196. Veil audit refinements approved and folded in — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers (approved design). Nothing is ruled.
+
+**The author, verbatim:** "Yes to 1-8."
+
+**Recorded in** `decisions/VEIL_AUDIT_REFINEMENTS_AUTHOR_ANSWERS_2026-09-27.md`: all eight items of §195.
+
+**Applied:** a new §4 in `proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md`, governing where it conflicts with §1–§3. Additive; §1–§3 are unchanged.
+- B01 E48 "arrive together, and carry one" (at EBCI).
+- B02 E47's over-wide cordon as the present cost of withholding drift, answered by B03 E09.
+- B03: E07 a Detroit condition; E13 complementary perception; E29/E32/E36 the declined late unload; E35 the father's agency.
+- EBCI execution tests: discovery inheritance, a variety of pleasure, and B03 post-climax duration.
+
+**Also:** the refinements file's "Answered" note; `decisions/README.md` indexed.
+
+**Veil is now ready for the author's B01 EBCI decision.** The hold stands until the author releases it.
+
+END OF ENTRY 196
+
+===============================================================
+
 END RECOVERY LEDGER

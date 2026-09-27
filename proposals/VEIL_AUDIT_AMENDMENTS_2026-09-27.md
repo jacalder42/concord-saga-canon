@@ -128,6 +128,88 @@ Apply these when B01 EBCI is released. **They change beats and labels, not the n
 
 ---
 
+## 4. Refinements, approved 2026-09-27
+
+**Source:** `proposals/VEIL_AUDIT_REFINEMENTS_2026-09-27.md`, approved in `decisions/VEIL_AUDIT_REFINEMENTS_AUTHOR_ANSWERS_2026-09-27.md` (*"Yes to 1-8"*),
+answering ChatGPT's independent audit. **Where §1–§3 conflict with this section, this section
+governs.**
+
+### B01 — E48 *(refines §3 T7)*
+**"Arrive together, and carry one."**
+- They are early because **the trio's shared work predicted the pulse** (E25, E27, E39), not because
+  Seraphine moved faster.
+- **She steadies one stranger** caught in the pulse's footprint: **not a child**, since a child
+  would restage E01 as a rescue. [Open: a street musician at the Square's edge, or an older man
+  alone.]
+- **She declines to hold the whole Square**, the overreach that saturated her in E33 and E45.
+- **The visible cost is bodily:** exhaustion, a nosebleed, the lag.
+- **The person walks out whole.** Baz, Lucien and Mara's people take the others.
+- The answer to E01's *"arrive sooner / move faster / carry more"*: **arrive together, and carry
+  one.**
+- **Applied at B01 EBCI.**
+
+### B02 — E47 *(refines §1 E47)*
+- Helena's request is reasonable: she wants to draw the extension **where it is needed**. Lucien
+  withholds drift anyway.
+- **The same week, the Dominion extends the zone by the crude rule.** The cordon is **wider than the
+  lean requires**, and **more households are displaced.**
+- **Lucien sees the line, and knows his withholding drew it.** He chose it because drift would give
+  the Dominion direction.
+- **B03 E09's *"advise and contain"* answers that cost.**
+
+**His three commitments stay distinct:**
+
+| Book | Commitment |
+| --- | --- |
+| B02 E26 | Sends the grounds |
+| B02 E47 | Withholds an uncertain finding |
+| B03 E16 | Refuses to bring Baz inside |
+
+### B03 — E07 *(replaces §2 E07)*
+- **A Detroit condition, not a repairman.** Among Mara's reports: in Detroit, flicker nights take out
+  **old building heat**.
+- **E43** shows Rex answering that condition for one neighbour's building.
+- **No anonymous-repairman thread.**
+
+### B03 — E13 *(refines §2 E13)*
+- **Complementary, not people against data.**
+  - Seraphine notices **what the foreman cannot yet say**: he is afraid for his crew, not for
+    himself.
+  - **Baz notices what his account establishes**, the timings, **and that the official log dropped
+    his complaint.**
+- **Together they get him to talk.** The private conversation stays.
+
+### B03 — E29, E32, E36 *(refines pass 5 E32)*
+- **E29:** the forklift operator **agrees to stay on after his shift for a late unload in the older
+  section**, because he needs the pay.
+- **E32:** the post lands, and **he turns the extra hours down and leaves.**
+- **E36:** **the older section's loading bay, where the unload was scheduled, is part of what
+  collapses.**
+- **The avoided exposure is shown. The crowd → delay link stays inference.**
+
+### B03 — E35 *(refines §2 E35)*
+- **The father is a person with his own need and agency.** He asks her to stay, and says why. [Open:
+  he has sat alone through every flicker night since his wife died.]
+- **The rota's work (E40) is part of the answer, not a disclaimer.**
+- **She makes a defensible choice, her delegated network helps, and she still loses someone she
+  values.** B04's guilt may dispute that; **the narration does not endorse blame.**
+
+### EBCI execution tests (all three books)
+- **Discovery accumulates.** At each book's opening, show **what still works** from the last book:
+  - B01: predicting a window;
+  - B02: signs and interval;
+  - B03: a standing map.
+
+  Then show **the new variable** that defeats it. Competence persists.
+- **A variety of pleasure and want:** attraction, amusement, competitiveness, eccentric taste,
+  irritation, harmless selfish wants.
+  - **Caro and Elisabet want each other for more than care.**
+  - **Harmless wonder stays harmless.**
+- **Duration:** at chapter grouping, let **B03's rescue and its immediate consequence dominate** the
+  post-E38 run, and vary the later units' length.
+
+---
+
 ## What this file does not change
 
 - **No ruling, row status, card or rule.** M03 stays `proposed`, with a note appended.

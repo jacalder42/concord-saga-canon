@@ -6,6 +6,8 @@ independent audit (`reports/VEIL_INDEPENDENT_NOVEL_AUDIT_AND_CLAUDE_COMPARISON_2
 ledger §194). It proposes concrete refinements to `proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md`
 for the author to approve (§3).
 
+> **Answered 2026-09-27** (`decisions/VEIL_AUDIT_REFINEMENTS_AUTHOR_ANSWERS_2026-09-27.md`, ledger §196): *"Yes to 1-8"*. The refinements are folded into `proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md` §4 as approved design. The body below is unchanged.
+
 **Until approved, the amendments file stands as written.** Nothing here is design yet. The B01 EBCI
 hold stands.
 
