@@ -12225,4 +12225,22 @@ END OF ENTRY 216
 
 ===============================================================
 
+# 217. The five-packet verification of B01's compressed briefs — 2026-09-27
+
+**Status:** LEDGER ENTRY. The Q-FB4 condition check (§216). **Not cleanly passed; B02 EBCI is not started.**
+
+**Written:** `reports/B01_COMPRESSION_FIVE_PACKET_VERIFICATION_2026-09-27.md`. Three blind reads by independent agents of the narrative briefs of E13, E31, E38, E45 and E48 only, each asked the author's question. Verdicts: **round 1** 3/5 (E38, E48 fail); **round 2** 4/5 (E38 fails); **round 3** 4/5 (E13 fails, narrowly). Every round found the set **substantially more inviting** than the pre-compression briefs. The failures moved between rounds.
+
+**Fixed between rounds:** the compression had cut guards and carry-forwards with the staging. **E48's street-musician stranger (approved design, Q-E48-2) had been moved to writer options in error; restored.** The same loss was swept across the other 44 briefs: E04, E15, E17, E23, E28, E29, E30, E34, E42, E44, E47. The template gains **rule 9, *cut staging, not guards***; **cast discipline** (no new recurring face unless the brief names one); and rule 1's ***say each thing once***. E38 gains a human stake `[P]`; S06 regains *the bar still has to open tomorrow*. **Beat rows: 115** (§216's 114 is superseded by this regeneration; the E13, E31, E38, E45, E48 beats changed again).
+
+**Recorded, not fixed (the stop):** E13's undefined *collision*; whether E48's stranger is E31's musician; the Wants are functional rather than personal.
+
+**For the author:** Q-V1 (the gate; recommended: treat the format as solved on the decision's §3 test, and release B02), Q-V2 (E13's collision as prose's choice), Q-V3 (E48's stranger is not E31's musician?), Q-V4 (leave functional Wants).
+
+**Checks:** canon scope 0 violations; 165 self-tests pass; no drift.
+
+END OF ENTRY 217
+
+===============================================================
+
 END RECOVERY LEDGER

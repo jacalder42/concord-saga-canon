@@ -37,8 +37,9 @@ perceive strain but cannot intervene; reveal no cosmology or future.*
 
 ## Compression rules (Q-FB1)
 
-1. **State, don't script.** Exit states are plain states, not epigrams. No *"X before Y"* formulas, no
-   roll calls of who-knows-how, no two beats that restate each other.
+1. **State, don't script; say each thing once.** Exit states are plain states, not epigrams. No *"X before
+   Y"* formulas, no roll calls of who-knows-how. Each idea appears once, in the field it belongs to: an
+   idea repeated across Want, Change, Keep and a beat reads as a verdict, not a question.
 2. **Events keep only what is required:** the **required observable**, the **required consequence**
    and the **page-protecting prohibitions**. Every other image is a writer option in the control layer.
    The causal card stays authoritative behind the packet.
@@ -53,6 +54,10 @@ perceive strain but cannot intervene; reveal no cosmology or future.*
 7. **Point-of-view discipline.** A beat carries only what the POV can perceive or be told.
 8. **Differentiate, don't merge.** Where two episodes share a function, each brief names what makes it
    different; prose decides whether both survive.
+9. **Cut staging, not guards.** Compression removes how a scene plays out. It keeps what later episodes
+   rely on (a carry-forward, a state another brief cites) and every line that guards against a likely
+   mistake, including what characters *may* do where a prohibition could be over-read (added after the
+   five-packet verification, 2026-09-27).
 
 ## Other rules
 
@@ -60,6 +65,8 @@ perceive strain but cannot intervene; reveal no cosmology or future.*
 - **`ENV`** is `NONE` unless the episode occupies a Mechanica-relevant environmental state.
 - **Tracking** (fun, slice of life, wonder) is a descriptive record of presence: no targets, no
   minimums. It observes; it does not manufacture.
+- **Cast discipline:** an episode introduces no new named recurring face unless its brief names one; a
+  recurring infrastructure, medical, data or care face appears only if one is already active.
 - **Identity hygiene:** where a name is ambiguous in the cast registry, the control layer records the
   cast id (for example A01, the Filament Mara, not G08 Mara Niht).
 - **The calendar is approximate.** The header gives a rough *when*; exact dates are not set unless
