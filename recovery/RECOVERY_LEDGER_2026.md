@@ -11046,4 +11046,42 @@ END OF ENTRY 168
 
 ===============================================================
 
+# 169. Saga review packet answered: antagonist arcs, Veil Dominion; M51 ruled — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers: ten items of approved design and two rulings.
+
+**The author, verbatim:** "All approved as recommended"
+
+**Recorded in** `decisions/SAGA_RECOMMENDATIONS_ANTAGONIST_ARCS_AUTHOR_ANSWERS_2026-09-27.md`.
+
+**Approved design (A1–A7, B1–B3):**
+- **A1:** Loom's active opposition runs on three axes: Elias/Brightbreak (narrative); a Technarc hardliner remnant (operational: measurement, pursuit), born of Han Wei's M17 model failure; and the fragmented Choirless (relief). Kade's splinter sits beside them. The institutions and doctrinaires stay legacy.
+- **A2:** the remnant's instruments read the B08 opening as "Louisiana", the NOLA feint exploits that inference, and the Mending itself reveals the site in B09 A3.
+- **A3:** Ito the man becomes legacy after B06–B07; the registry range is the movement's curve.
+- **A4:** the Choirless and Brightbreak never unify, and they collide at the perimeter.
+- **A5:** exits: Virelli at M05; Han Wei at M17; Saeko in B06; Ito in B06–B07; Elias survives, is never unmasked, and gets no punishment scene.
+- **A6:** the Neon Rebellion across B06–B08.
+- **A7:** at most three proposed grid additions, made in the arc pass.
+- **B1:** the Dominion sends Lucien through Helena Kael, and Virelli knows NOLA only as a file.
+- **B2:** the Dominion pressure ladder, B01–B04.
+- **B3:** a real institutional-help option in the B02 civic-decision card.
+
+**Ruled:**
+- **C1:** **M51 proposed → ruled.** The self-test's ruled list gains M51, citing the decision. The grid now has 24 ruled, 28 proposed and 5 retired rows.
+- **C2:** M42's act is A3.
+
+**Applied:**
+- **Grid notes** on M05, M17, M31, M42, M48, M50, M51 and M52. Only notes changed, plus M51's status; this was verified field by field against HEAD.
+- **Registry text appended** to C01, C04, D01, E01, E03 and E04. Each is a pure append to one field, verified field by field. Rows whose raw quoting does not round-trip were edited field-in-place.
+- The counts in `rules/saga_context_S1.json` and CLAUDE.md §8.
+- `decisions/README.md` indexed.
+
+No Tier-1 card is edited.
+
+**Next, per the approved sequence:** the antagonist arc pass; the B02 civic-decision options card; then the author releases the hold.
+
+END OF ENTRY 169
+
+===============================================================
+
 END RECOVERY LEDGER

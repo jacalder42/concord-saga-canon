@@ -74,7 +74,7 @@
     "grid": "grids/milestones_payoffs.csv",
     "count": 57,
     "_count_was": 36,
-    "status": "57 rows: 23 'ruled', 29 'proposed', 5 'retired', as of 2026-09-27. Counts change; the grid is authoritative (CLAUDE.md §8).",
+    "status": "57 rows: 24 'ruled', 28 'proposed', 5 'retired', as of 2026-09-27 (M51 ruled). Counts change; the grid is authoritative (CLAUDE.md §8).",
     "_status_was": "All 36 rows are 'proposed'. Loaded 2026-09-20 (ledger 41); live but not settled.",
     "_provisional": "pressure_before / pressure_after are PROVISIONAL - the scale saturates and the column is ambiguous between global and per-thread pressure. OPEN, ledger 43."
   },
