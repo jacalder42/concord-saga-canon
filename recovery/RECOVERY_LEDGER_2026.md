@@ -10449,4 +10449,57 @@ END OF ENTRY 150
 
 ===============================================================
 
+# 151. B07 regional scenes and POV audit, Pass 1 — 2026-09-27
+
+**The author:** *"Proceed with the B07 regional scenes and POV audit"*. This is item 3 of the act
+ledger's work order.
+
+**Research:** one read-only pass over the export and the registry. Claude verified the key quotes.
+
+- **Recovered B07 foreign-city material is information only**, and repeats the four-city list
+  (Singapore, Vienna, Morocco, Reykjavík).
+- **The only recovered B07 scenes outside NOLA with people present are node visits**, now ruled into
+  B08.
+- **The v1.0 draft's St. Louis Filament elder** (NS 167786, 168142; A-weak) is the best model for a
+  receipt.
+- **The registry:** rich NOLA anchors (Leontine, Pivot, the Blue String Kids, Corrine, Signalman
+  East); few abroad (Naima, the Reykjavík slots, Tamsin Kho); none for Vienna, Chicago, Detroit,
+  Atlanta or St. Louis.
+- **POV sources:**
+  - the Loom card, *"Seraphine ~30–35%, Kade ~30%"* (A);
+  - the B07 braid map, *"Kade 35 / Seraphine 30–35 / Lucien 15 / Caro 10 / Elisabet+Rex 10–15"*
+    and *"Elias lurks but no POV"* (A);
+  - *"Seraphine opens"* and *"Final POV: Seraphine"* (A);
+  - the Elias card: limited-access, never at emotional climaxes (A).
+
+**Written:** `proposals/B07_REGIONAL_SCENES_AND_POV_AUDIT_PASS1_2026-09-27.md` (PROPOSAL).
+
+- **Recommended theaters:**
+  - NOLA is the only lived theater, plus the westward departure road (the Atchafalaya corridor,
+    toward Santa Fe and away from the swamp);
+  - receipts with named carriers: Santa Fe (Rex), Singapore (Rex's connections), Reykjavík
+    (Elisabet's network), Chicago (Caro's contacts), and a late St. Louis Filament elder;
+  - Marrakesh and Vienna held for later books.
+- **POV audit:**
+  - Kade about 30–35;
+  - Seraphine about 30: she opens the book, owns the A2 decision beat, and closes it;
+  - the pool about 30, weighted to Lacuna and Caro;
+  - flex: one local POV at the break;
+  - **no Elias POV in B07**.
+- **Risks:**
+  - Seraphine thinning out;
+  - Kade peaking early;
+  - Elias at the funeral;
+  - Lacuna crowding the pool;
+  - receipts funnelled through Seraphine;
+  - the four-city list.
+- **Six questions** for the author.
+
+**Not changed:** everything, including B07's `pov_targets`, which stay TODO until answered. **The B02/B03
+hold stands.** **Checks:** canon scope 0.
+
+END OF ENTRY 151
+
+===============================================================
+
 END RECOVERY LEDGER
