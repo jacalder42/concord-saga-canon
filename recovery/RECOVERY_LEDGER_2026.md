@@ -10363,4 +10363,35 @@ END OF ENTRY 147
 
 ===============================================================
 
+# 148. Route clock B05 → B07: author answers — 2026-09-27
+
+**The author:** *"1–8 as recommended, 9 around funeral"*.
+
+**Recorded:** `decisions/B05_B07_ROUTE_CLOCK_AUTHOR_ANSWERS_2026-09-27.md`.
+
+**G1–G8, approved design:**
+
+- **G1:** Lucien returns in B05 A2 and joins the channel remotely.
+- **G2:** Elisabet is at the B05 A1 meeting.
+- **G3:** Rex goes NOLA → (Atlanta) → Singapore around B05 A2.
+- **G4:** the *"Last Clear Act"* is in B05 A1.
+- **G5:** M55 reaches Tahl through the channel, and he goes after the Rupture opens.
+- **G6:** Kade is in NOLA at the death.
+- **G7:** Rex and Elisabet reach the funeral, Rex barely in time.
+- **G8:** the body travels by road, and the funeral is in NOLA. TahlID's Chicago home is still
+  flagged.
+
+**G9, RULED:** Elias arrives around the funeral. **Conflict #22 is resolved** for `V` 15968. He is not
+in NOLA as a watcher during B06.
+
+**Notes added** (statuses unchanged): M17, M41, M55, M57. M05 is ruled and is not edited. The
+index row and `CLAUDE.md` §4.1 and §8 are updated.
+
+**Checks:** canon scope 0; 144 self-tests; no drift in the book contexts. **The B02/B03 hold
+stands.** Next: the B07 A3 → B09 A3 route clock.
+
+END OF ENTRY 148
+
+===============================================================
+
 END RECOVERY LEDGER
