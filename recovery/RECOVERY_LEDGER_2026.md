@@ -12257,4 +12257,20 @@ END OF ENTRY 218
 
 ===============================================================
 
+# 219. B02 EBCI built — 2026-09-27
+
+**Status:** LEDGER ENTRY. The build released by §218. Production layer; no canon change.
+
+**Built:** `ebci/B02/`, **47 packets** (A1 E01–E15, A2 E16–E31, A3 E32–E47) under the compressed template, from `proposals/B02_EPISODE_BEATS_PASS5_2026-09-27.md`. **Overrides applied:** the Veil audit amendments §1 (E03 the first pulse the city names; E15 retitled *The Larger Pulse*; E19 nobody names the ethic; E30 the reversal, Caro looks after Elisabet; E40 nobody has asked him yet; E47 Helena asks and he withholds) and §4 (E47: the Dominion extends the zone by the crude rule, wider than the lean requires); nine-book **V1** (a small triangle mark on every anonymous MT post, S01, S03, S04, unremarked) and **V3** (E31 Seraphine-led). **Supplements** S01–S04 inside E07, E27, E29 and E40; **S05 stays deferred**. **Grids:** 99 B02 beat rows in `grids/episode_beats.csv` (B01's 114 kept); four rows `B02-S01`–`S04` in `grids/supplement_deployment.csv`.
+
+**Provisional choices, raised at the audit:** E03's POV (Ramon and Leila as the driver and the nurse; the architecture's four witnesses are unnamed); E27 Rieux; E29 Rosette and Rieux (Seraphine at the table, not POV); E37 Arianna; E43 Ramon; E45 Caro; E04 Trip; **E41's ECID** (U1 as A3's floor: no interlude envelope in B02 A3); **When** throughout (May to August `[P]`, from the approved frame; no season approved). **Identity hygiene:** E19's Mara is A01; E27's and E47's Baptiste is Anaïs (B05), not Roland (B04); Naima is G05.
+
+**Checks:** canon scope 0 violations (294 files); 165 self-tests pass.
+
+**Next:** the focused B02 audit (six tests, `decisions/B01_COMPRESSION_GATE_AND_B02_EBCI_RELEASE_AUTHOR_RULING_2026-09-27.md` §4), then a stop. B03 stays held.
+
+END OF ENTRY 219
+
+===============================================================
+
 END RECOVERY LEDGER
