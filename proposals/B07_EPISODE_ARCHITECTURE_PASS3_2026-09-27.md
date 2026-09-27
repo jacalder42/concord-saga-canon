@@ -55,7 +55,7 @@ Seraphine has felt something she cannot name.
 
 | E | Title (working) | Owner / theater | Story job and turn | Milestone / obligation | Sets up / pays off |
 | --- | --- | --- | --- | --- | --- |
-| 01 | The Second Line | Seraphine / NOLA-01 | **The book opens at Tahl's funeral, several days after his death.** The city claims its voice. Tahl's parents walk it (D9); Rex arrives barely in time | **M40** (ruled: the funeral opens B07); G7, G8, D9 | Pays off `BC-TAHL-PARENTS` |
+| 01 | The Second Line | Seraphine / NOLA-01 | **The book opens at Tahl's funeral, several days after his death.** The city claims its voice. Tahl's parents walk it (D9); Rex arrives barely in time. **The line rhymes, unspoken, with the one Baz never had** (B03 E26, B04 E05); **no one says his name** (L1, approved 2026-09-27) | **M40** (ruled: the funeral opens B07); G7, G8, D9 | Pays off `BC-TAHL-PARENTS` |
 | 02 | Leading It | **Lacuna** / the second line | **She leads the second line**, and frames the day so that grief can move. **She sees Kade.** | **M40** (Lacuna prominent; approved Lacuna POV) | Pays off `BC-LACUNA-KADE-SAME-ROOM` |
 | 03 | First Tears | **VT** | **Hope's first cry**, at the funeral; Silence holds the echo. Hope's emotional agency, never Intent | The delegated working assumption (Hope path 1.1); M21 | — |
 | 04 | Read | Kade / the wake | **His B06 grief post has been read by thousands.** Lacuna tells him the words mattered. **Turn:** she inspires him to post again, on purpose | **M40** (inspiration, ruled) | Pays off B06 E48 |
@@ -64,11 +64,11 @@ Seraphine has felt something she cannot name.
 | 07 | The Man Who Came for MT | Kade / the wake | **A stranger wants to talk about his post.** Kade notices him; Lacuna watches from the edge. **Elias attaches** | **M41** (ruled); **no Elias POV** | Sets up E21, E31 |
 | 08 | The Fragment, Together | Seraphine / Velvet Vein | **The channel in one room**: Tahl's fragment read again. **She tells them what she recognised: the first one is the swamp.** The shape is shared; **nobody outside the room hears it** | **M39**; the site secret (M51, ruled) | Reinforces `BC-FIRST-ONE-LAST` |
 | 09 | **LR01** Stories | Seraphine / Velvet Vein | **The wake:** Tahl stories, Trip's toast, Rex and Elisabet competing to tell the worst one. **Levity** | Life/Reward | — |
-| 10 | Uneven | Seraphine / NOLA | **M24:** a clinic dark, a pharmacy open, a bridge closed. She chooses **finite, close care** | **M24** (a condition, not an event) | — |
+| 10 | Uneven | Seraphine / NOLA | **After the gap that follows the wake** (the author: *"another gap as the world … catches up"*; L6, approved 2026-09-27). **M24:** a clinic dark, a pharmacy open, a bridge closed. She chooses **finite, close care** | **M24** (a condition, not an event) | — |
 | 11 | On Purpose | Kade | **His first deliberate post**: what Tahl did right. **Turn:** he knows now that MT is public | M40's consequence | Sets up M26 |
 | 12 | The Stillness | Lucien / NOLA | **Silence's guidance begins**: felt as a stillness at the edge of his attention, fallible (attuned, not certain). He does not know what it is | Silence guides Lucien (ruled in substance) | Reinforces `BC-LUCIEN-SILENCE` |
 | 13 | Drawn | Seraphine | **The Loom's first pull**, and **Mira's first appearance after Veil**, perceived only by her [approved design 2026-09-27, L1] | **M49** (ruled); **D5** | Pays off `BC-MIRA-SEED` |
-| 14 | **LR02** The Rooftop | Kade + Lacuna | **Lacuna settles Kade** (the 11-28 plan). Talk, jokes, the smoulder | Life/Reward; Loom's romantic focus | — |
+| 14 | **LR02** The Rooftop | Kade + Lacuna | **Lacuna settles Kade** (the 11-28 plan). Talk, jokes, the smoulder. **The Vein rooftop, at dusk or with the city; they do not look up** (the looking up is B09 E48's; L2, approved 2026-09-27) | Life/Reward; Loom's romantic focus | — |
 | 15 | A New Voice | Seraphine / a shelter | **Act I close.** Kade's post plays in a shelter; strangers argue about it. **The pull comes again**, and she cannot name it | Act close | — |
 
 **S01** (after E11): Kade's deliberate post, as MT carries it.
@@ -88,12 +88,12 @@ the anchor post is written.
 | 21 | Reach | Kade | **Elias offers reach**, and Kade takes some. Lacuna does not trust him | M42 setup | — |
 | 22 | What She Sees | Seraphine + Lucien | **She tells him about Mira.** He listens, better than he once did | — | Reinforces `BC-LUCIEN-LISTENING` |
 | 23 | For Tahl | Rex | **He will go to Santa Fe first, for Tahl.** Singapore receipt: the remnant forming around Han Wei's failed model | Route Q1; receipt (a known source) | Sets up M45 |
-| 24 | A Hand She Doesn't Trust | Caro | **Hope's guidance felt**, and distrusted: Caro has carried too much to take help from the sky | Hope guides Caro (ruled) | Reinforces `BC-HOPE-CARO` |
+| 24 | A Hand She Doesn't Trust | Caro | **Hope's guidance felt**, and distrusted: Caro has carried too much to take help from nowhere she can see (reworded from *"from the sky"*, L3, approved 2026-09-27) | Hope guides Caro (ruled) | Reinforces `BC-HOPE-CARO` |
 | 25 | **LR04** Kade Laughs | Kade + Trip + Lacuna | **A ridiculous night at the Vein.** Levity | Life/Reward | — |
 | 26 | The Shape on Paper | Elisabet | **She maps the fragment's sketch against data**: the shape, not the particulars. **Santa Fe first** | Knowledge ladder (the shape from Tahl; particulars from the chain) | — |
 | 27 | Mutual Aid | Kade | **His posts organise aid that works.** He is proud; Lacuna is proud and wary | — | Sets up E36 |
 | 28 | Uptown, Failing | local: **Ms. Leontine** / NOLA-10 | **The failure already under way:** shelters over capacity, services withdrawn, quiet-zone pressure, the remnant's instruments offering help that works [P] | **D3** (approved: a failure the post turns) | Sets up E32 |
-| 29 | The Scar | Seraphine / NOLA-06 | **At the Warehouse scar she feels the cap's weak point** (a symptom only). **Mira's warning:** *it has been done before, and it cost* | M49; Mira knows the cost, not the answer (ruled); **D5** | — |
+| 29 | The Scar | Seraphine / NOLA-06 | **At the Warehouse scar she feels the cap's weak point** (a symptom only). **It is also where Baz died**, and she stands there for the first time (L4, approved 2026-09-27). **Mira's warning:** *it has been done before, and it cost* | M49; Mira knows the cost, not the answer (ruled); **D5** | — |
 | 30 | The Post | Kade | **Act II close.** He writes **the grief-truth claim**: who ignored the Santa Fe warnings. He posts it | **M42's post** (D3: a grief-truth claim) | Sets up A3 |
 
 **S02** (after E30): the post.

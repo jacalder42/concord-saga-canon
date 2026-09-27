@@ -19,6 +19,8 @@ E23, E28, E34, E35, E44). The breadcrumb and milestone checks are scripted again
 Möbius inventory and the elapsed-time inventory were gathered by research agents and their load-bearing
 claims checked against the files before use.
 
+**Answered 2026-09-27: Q-NB1–NB7 as recommended, approved design** (`decisions/NINE_BOOK_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §207). The amendments are in `proposals/NINE_BOOK_AUDIT_AMENDMENTS_2026-09-27.md`; the Veil ones apply at EBCI.
+
 **Caveat:** Claude wrote most of the architecture it audits. An independent read would be worth having.
 
 **What it does not change:** no ruling, milestone status, card, rule text or episode architecture.

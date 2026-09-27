@@ -3,6 +3,8 @@
 **Date:** 2026-09-27
 **Status:** EDITORIAL PROPOSAL / PRE-EBCI — NON-CANONICAL.
 
+> **Amended 2026-09-27 by the nine-book audit** (`proposals/NINE_BOOK_AUDIT_AMENDMENTS_2026-09-27.md` §1; `decisions/NINE_BOOK_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`): **V1**, the triangle mark on S03 and on Tahl's E48 post; **V2**, E35 and E44 are Seraphine-led; **V4**, pass 4's E47 sky line is not carried. Applied at EBCI; this file is otherwise unchanged.
+
 > **Amended 2026-09-27 by the Veil trilogy audit** (`proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md` §2; `decisions/VEIL_TRILOGY_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`): E07, E13 and E35 are overridden there. This file is otherwise unchanged.
 
 - This is a **focused revision** of `proposals/B03_EPISODE_BEATS_PASS4_2026-09-27.md`, under the

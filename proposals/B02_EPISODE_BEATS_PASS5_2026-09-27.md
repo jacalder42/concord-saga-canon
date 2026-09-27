@@ -3,6 +3,8 @@
 **Date:** 2026-09-27
 **Status:** EDITORIAL PROPOSAL / PRE-EBCI — NON-CANONICAL.
 
+> **Amended 2026-09-27 by the nine-book audit** (`proposals/NINE_BOOK_AUDIT_AMENDMENTS_2026-09-27.md` §1; `decisions/NINE_BOOK_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`): **V1**, every post by the anonymous MT voice carries a small triangle mark, unremarked (S01, S03); **V3**, E31 is Seraphine-led. Applied at EBCI; this file is otherwise unchanged.
+
 > **Amended 2026-09-27 by the Veil trilogy audit** (`proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md` §1; `decisions/VEIL_TRILOGY_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`): E03, E15 (retitled *The Larger Pulse*), E19, E30, E40 and E47 are overridden there. This file is otherwise unchanged.
 
 > **Answered 2026-09-27** (`decisions/B02_PASS5_DIRECTIONS_AUTHOR_ANSWERS_2026-09-27.md`, follow-up; ledger §184): *"1 yes, 2 yes"*. The E20/E30 placement and the design added while proceeding are **approved design**. Pass 5 is the approved B02 architecture. The body below is unchanged.

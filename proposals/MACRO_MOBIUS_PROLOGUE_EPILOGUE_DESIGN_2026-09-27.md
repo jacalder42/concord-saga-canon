@@ -41,6 +41,8 @@ written; this is structure, not prose. The B01 EBCI hold stands. Ledger row: `BC
 | 4 | **The law** | *Wider perception does not equal control* | **Still true.** The veil is held jointly; Seraphine tethers and does not regulate (Mechanica §42A). The reach does not direct anyone |
 | 5 | **The cut** | Ends on a hard cut to **the swamp**: a child in distress, and nobody arrives in time | Ends on **an unanswered prompt**. The swamp is mended, and **not shown**. Kade can answer, and the book closes first. **Both ends are open, so the last page leads back to the first** |
 
+**Note 2026-09-27 (approved design, `decisions/NINE_BOOK_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`, Q-NB7):** axis 5 governs **E48's cut only**. B09 E46 may show the swamp by daylight, as Elisabet's; it is not the saga's last image.
+
 **Who is talking in the stars at the end** stays a reading, not a design decision. The author's
 11-16 statement makes the prologue's talkers Silence and Hope. They have given themselves to the
 Loom, so the epilogue's sky is **the new structure**, with Seraphine as its tether. Lacuna's

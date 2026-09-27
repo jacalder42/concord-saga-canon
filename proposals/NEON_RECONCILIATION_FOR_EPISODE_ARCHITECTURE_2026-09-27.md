@@ -6,6 +6,8 @@ progressive-resolution order (`decisions/PROGRESSIVE_RESOLUTION_SEQUENCE_AUTHOR_
 item 1): *"Proceed with Neon B04–B06 to provisional episode-architecture / Pass-3 resolution, beginning
 with reconciliation of existing material rather than a fresh draft."*
 
+> **Nine-book audit, 2026-09-27** (`decisions/NINE_BOOK_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §207): **Seraphine +2 per book at a Neon pass 4**, from flex and secondary episodes, never Tahl's (N3, approved design; not yet applied). B04 E42, B06 E05 and B06 E38 are edited in place (`proposals/NINE_BOOK_AUDIT_AMENDMENTS_2026-09-27.md` §2).
+
 > **Answered 2026-09-27** (`decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §201): *"N1-N12 as recommended"*, approved design; the three Neon pass-3 files are approved as provisional architecture. On N11 the author adds: *"I think we will need more Seraphine before we are done"*. The body below is unchanged.
 
 **It feeds three provisional architecture files:**

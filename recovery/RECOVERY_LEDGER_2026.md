@@ -12036,4 +12036,24 @@ END OF ENTRY 206
 
 ===============================================================
 
+# 207. The nine-book audit answered and applied (NB1–NB7) — 2026-09-27
+
+**Status:** LEDGER ENTRY. Author answers recorded as **approved design** (Tier B); nothing ruled.
+
+**The author's words:** *"NB1-NB7 as recommended"*. **Recorded in:** `decisions/NINE_BOOK_AUDIT_AUTHOR_ANSWERS_2026-09-27.md` (indexed).
+
+**Approved:** Seraphine's share by option (a): Veil B02 E31, B03 E35 and E44 Seraphine-led; Neon +2 per book at a Neon pass 4 (not yet applied); Loom stays at 30%. The working elapsed-time frame (ranges; about 18–24 months) with seasons left to EBCI. The Veil half of Tahl's triangle: every post by the anonymous MT voice carries the mark, unremarked, from B02 S01; the reader joins mark and man at B03 E48. Nested Möbius as recommended (B03 E47's pass-4 sky line dropped). `BC-KADE-BEING-READ` recorded. The collision responses.
+
+**Applied:**
+- `proposals/NINE_BOOK_AUDIT_AMENDMENTS_2026-09-27.md`: Veil V1–V5 for EBCI, the Neon/Loom edits, and the frame. Pointer notes on B01 v4.1b (V5), B02 pass 5 (V1, V3), B03 pass 5 (V1, V2, V4) and the Neon reconciliation (N3); **the Veil bodies are unchanged**.
+- In place (provisional architecture): B04 E42 (the triangle on MT's message to Rex); B06 E05 (the swamp ache, N1), E38 (she knows this time, N2); B07 E01 (Baz's unperformed line, unspoken), E10 (the gap after the wake), E14 (the Vein rooftop, not looking up), E24 ("help from nowhere she can see"), E29 (where Baz died); B08 Clock A's Kade line ("within weeks"); B09 S02 corrected (MT continues, not Kade's post), E46 and E48 notes. The macro-Möbius design notes that axis 5 governs E48's cut only.
+- `grids/breadcrumbs.csv` (48 rows): `BC-TAHL-SIGNATURE-TRIANGLE` introduced at B02 E07 (S01 follows it), with B02 E29, B03 E31, B03 E48 and B04 E42 added, status `placed`; `BC-VELVET-VEIN-ROOM` and `BC-SECOND-LINE-INVITE` extended past Veil; **new** `BC-KADE-BEING-READ` (ladder, LOCKED on M46, provisional). Every change carries a dated note.
+- `grids/milestones_payoffs.csv`: a note on M53. `rules/saga_context_S1.json` `chronology`: a dated approved-design note appended (the `TODO` text kept). `CLAUDE.md` §8–§9.
+
+**Unchanged:** every ruling, milestone status and rule text. **The B01 EBCI hold stands.** Next: the author's B01 EBCI release decision.
+
+END OF ENTRY 207
+
+===============================================================
+
 END RECOVERY LEDGER

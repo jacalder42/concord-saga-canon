@@ -126,11 +126,11 @@ is the rear action and the flare; the last cluster is the rest of the Mending.**
 
 | E | Title (working) | Owner / theater | Story job and turn | Milestone / obligation | Sets up / pays off |
 | --- | --- | --- | --- | --- | --- |
-| 46 | After the Breath | Elisabet / the swamp | **She goes back to the swamp.** Post-Mending conditions: less hostile, measured, **not utopian** (the author: *"perfectly imperfect"*) | **M34**; **D10** (ruled: a few days) | — |
+| 46 | After the Breath | Elisabet / the swamp | **She goes back to the swamp.** Post-Mending conditions: less hostile, measured, **not utopian** (the author: *"perfectly imperfect"*). **By daylight, as Elisabet's; macro axis 5 governs E48's cut only** (L7, approved 2026-09-27) | **M34**; **D10** (ruled: a few days) | — |
 | 47 | The Holochat | Kade / the Velvet Vein | **Elisabet and Rex call Kade and Lacuna.** **MT continues under a new MT-initialled name** (the name is deferred, D12); **Kade starts reintegrating the rebellion's people** | **M35** (ruled) | Pays off Kade's arc |
-| 48 | The Conversation Under the Sky | Kade / the Vein rooftop | **Kade writes his first post after the Mending, hesitates, and Lacuna presses post for him.** They look up; she says the stars look like they are talking. **A message request, with only a small triangle.** **He can answer. The saga ends before he does.** | **M53** (ruled); the macro-Möbius (five axes, approved) | **Pays off `BC-MACRO-MOBIUS-SKY` and `BC-TAHL-SIGNATURE-TRIANGLE`** |
+| 48 | The Conversation Under the Sky | Kade / the Vein rooftop | **Kade writes his first post after the Mending, hesitates, and Lacuna presses post for him.** They look up; she says the stars look like they are talking. **A message request, with only a small triangle.** **He can answer. The saga ends before he does.** **Every callback unpointed; no echo of the fragment's wording** (L7, approved 2026-09-27) | **M53** (ruled); the macro-Möbius (five axes, approved) | **Pays off `BC-MACRO-MOBIUS-SKY` and `BC-TAHL-SIGNATURE-TRIANGLE`** |
 
-**S02** (after E46): Kade's first post-Mending MT post, as the rebellion's people read it.
+**S02** (after E46): **MT continues after the Mending, as the rebellion's people read it** (corrected 2026-09-27, L7: it was *"Kade's first post-Mending MT post"*, which contradicted E48).
 
 ---
 

@@ -147,7 +147,7 @@ The differences only; E31–E36 as above.
 | **Crowding** (the reading in the chain ruling) | One act carries all of it | **Less crowded** |
 | **The site secret** | Holds: the remnant is in Ohio, and the public hears "Louisiana" | Holds, but **the remnant spends days in Louisiana in B08**, close to the B09 A2 search. **It pre-spends the feint's ground** |
 | **Cause** | **The crew's strain on the cap in Ohio and its failure at the swamp are simultaneous.** The reader may connect them; the cast and the factions cannot | The link is lost |
-| **Kade** | The miracle arrives the week he hurt people: **the claim covers his guilt** | The claim is older news by the time it matters |
+| **Kade** | The miracle arrives within weeks of the day he hurt people (reworded from *"the week"*, L5, approved 2026-09-27): **the claim covers his guilt** | The claim is older news by the time it matters |
 | **B09's start** | **One continuous chase** from Ohio | A chase that restarts |
 
 **Recommended: Clock A.** Its crowding is real, but the episode count carries it (nine episodes after
