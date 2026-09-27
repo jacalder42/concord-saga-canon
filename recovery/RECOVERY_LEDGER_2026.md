@@ -11229,4 +11229,22 @@ END OF ENTRY 173
 
 ===============================================================
 
+# 174. B02 hold released; B03 still held — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an author instruction.
+
+**The author, verbatim:** "Release the B02 hold, keep B3 held"
+
+**Recorded in** `decisions/B02_HOLD_RELEASE_AUTHOR_INSTRUCTION_2026-09-27.md`.
+
+- **B02 episode architecture is released** (CLAUDE.md §9, step 3). It works against the Veil obligations brief, the six approved directions (the sign-off criteria), the answered Veil items and B01 v4.1b.
+- **The first deliverable is the civic-decision options card.** Options come from existing and recovered material first and include a real institutional-help option (B3). The author picks.
+- **B03 stays held.** The B01 EBCI hold stands. No episode is generated.
+
+CLAUDE.md §8's hold line is updated, and `decisions/README.md` is indexed.
+
+END OF ENTRY 174
+
+===============================================================
+
 END RECOVERY LEDGER
