@@ -11316,4 +11316,34 @@ END OF ENTRY 176
 
 ===============================================================
 
+# 177. B02 pass-3 answers; B02 per-episode beats, Pass 4 — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers (approved design) and a proposal. Nothing is ruled.
+
+**The author, verbatim:** "1 yes, 2 yes, 3 yes, 4 later, 5 yes"
+
+**Recorded in** `decisions/B02_PASS3_AUTHOR_ANSWERS_2026-09-27.md`:
+- the holdout is **Mme Rosette** (registry B02; row unchanged);
+- the block is **Bywater** (NOLA-04);
+- the Mira seed is at **E35**;
+- **S05** is deferred;
+- **pass 4** goes ahead.
+
+**Written:** `proposals/B02_EPISODE_BEATS_PASS4_2026-09-27.md`. It has 47 episode sections, plus S01–S05, in B01 v4.1b's format: a provenance line, story job, beats, and where needed character, guardrail and exit notes. There is no dialogue, prose or ECID.
+- **Provenance tags** distinguish pass-2 slots, recovered 12-08 episodes (Tier D) and approved items.
+- **Standing guardrails** head the document: D5 observation-only; no Tahl name; no Kade, Rex or Honey Island; Silence and Hope inert; no Caro handoff; the Mira seed only at E35.
+- **Key sections:**
+  - E08 (Helena's request) and E14 (the model misses);
+  - E22–E29 (the civic decision through M06), with E25 Seraphine's refusal, E26 the bounded version, E27 the order (a social cost, not physics) and E28–E29 Mme Rosette respected and whole;
+  - E35 (the Mira seed);
+  - E41 (the Silence and Hope brush interlude);
+  - E40, E46 and E47 (drift, No Reset).
+- **The exit state** is recorded; the B03 handoff is named only.
+
+**The holds stand:** B03 and B01 EBCI.
+
+END OF ENTRY 177
+
+===============================================================
+
 END RECOVERY LEDGER
