@@ -10394,4 +10394,20 @@ END OF ENTRY 148
 
 ===============================================================
 
+# 149. B07–B09 route and information clock proposal — 2026-09-27
+
+**Context:** The author approved G1–G8 of the B05–B07 route clock as design and ruled that Elias arrives in New Orleans around the funeral (decision in ledger §148). The first clock is complete to B07 A1. The act ledger §5 identifies the B07 A3 → B09 A3 route and information clock as the next diagnostic for saga-wide cast geography.
+
+**Written:** `proposals/B07_B09_ROUTE_INFORMATION_CLOCK_PASS1_2026-09-27.md` (commit 7dd4119). It separates wound/forward, Kade/Elias, Lacuna/New Orleans, and Rex/Elisabet lines; differentiates travel from information; and lists nine explicit questions with recommendations, none adopted. It uses the new B05–B07 answers as starting conditions.
+
+**Protected:** The four-wound order; Serpent Mound end-B08/B09-opening continuity; factions' Louisiana inference without Honey Island site knowledge until B09 A3; the B09 A2 New Orleans feint; the Rex/Kade/Elias flare and Elisabet/Caro/Mending order; no second identifiable Tahl appearance. The B08 end order remains deferred. The document does not appoint a wound team or resolve the final travel clock by assertion.
+
+**Scope:** Proposal only. No substrate, decision, grid, book context, act overlay or episode architecture changed. The B02/B03 episode hold remains in force.
+
+**Check:** Nine numbered open questions, all recommendations labelled as such; no substrate validation implicated.
+
+END OF ENTRY 149
+
+===============================================================
+
 END RECOVERY LEDGER
