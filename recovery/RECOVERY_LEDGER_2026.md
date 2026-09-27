@@ -10536,4 +10536,18 @@ END OF ENTRY 152
 
 ===============================================================
 
+# 153. Theater-by-theater saga pressure recalibration — 2026-09-27
+
+**Context:** The author accepted qualified B07 regional-scene and POV answers (ledger §152), completing the act ledger's route and scene work order. The B02/B03 episode architecture hold still applies. Existing 09-26 pressure reports preceded the B05–B09 route answers.
+
+**Written:** `proposals/SAGA_THEATER_PRESSURE_RECALIBRATION_PASS2_2026-09-27.md` (commit 39855a3). This qualitative proposal distinguishes the pressure owner, local consequence, information exit and recovery capacity of New Orleans, Vienna, Chicago, Reykjavík, Singapore, Santa Fe, the three other wound locations, the Atchafalaya departure and selected remote theaters. It walks all 27 acts against the now-current routes and explains where the older 27-act pressure matrix is stale.
+
+**Assessment:** The W/R/C waveform remains a useful diagnostic. Its broad bands are not rescaled. The practical correction is asynchronous ownership: high world pressure does not demand matching reader peaks in every city. B05 A1 Rex/Tahl/NOLA and B06 A3 Tahl death timing, B07's NOLA-centered lived scenes and selective receipts, and the selective B08–B09 routes are reflected. B08's ending order and B09's final shared clock remain deferred.
+
+**Scope and checks:** Proposal only; no milestone score, grid status, canon card, rule, book context, act overlay, source or episode was changed. Twenty-seven act rows checked. No substrate validation required. The B02/B03 episode hold remains in force.
+
+END OF ENTRY 153
+
+===============================================================
+
 END RECOVERY LEDGER
