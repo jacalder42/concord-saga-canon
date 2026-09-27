@@ -136,3 +136,27 @@ Seraphine's role title, or align the cards to *the Loom*?
 - **Seraphine cards:** not changed (§5).
 - **`source_canon/`:** its files are not edited.
 - **`MT_RULES.md`:** not renamed.
+
+---
+
+## Follow-up (2026-09-27): Seraphine's title, the §5 question
+
+**The author, verbatim:**
+
+> Keep her title as the Luminous Thread
+
+**RULED:** Seraphine's post-Mending **title is *the Luminous Thread***, written **spaced**. It is kept
+in her cards as it stands (*SeraphineIdentity*, *SeraphineAppearance*, `seraphine_vael_pov.md`).
+
+**How it fits the other rulings:**
+
+- **The title and the channel are distinct.** The channel is **LuminousThread**, closed (C2). The
+  title is **the Luminous Thread**, spaced. The spelling marks the difference, and neither is
+  respelled to match the other.
+- **The title and the role are distinct.** Her structural role is **the Loom**, which holds the
+  veil jointly and does not regulate people (Mechanica §42A; the 09-27 Loom ruling). *The Luminous
+  Thread* is the name she carries. The author's 11-15 words lie behind it: *"Seraphine becomes the
+  singular luminous thread that tethers it to the world."*
+
+**Not changed:** no card edit is needed.
+

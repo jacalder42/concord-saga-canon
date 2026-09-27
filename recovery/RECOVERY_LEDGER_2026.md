@@ -11211,4 +11211,22 @@ END OF ENTRY 172
 
 ===============================================================
 
+# 173. Seraphine's title: the Luminous Thread — author ruling — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an author ruling on the question flagged in §172.
+
+**The author, verbatim:** "Keep her title as the Luminous Thread"
+
+**Recorded** as a follow-up in `decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md`.
+
+**Ruled:** Seraphine's post-Mending title is *the Luminous Thread*, written spaced. It stays in her cards as written.
+- It is **distinct from the channel** *LuminousThread*, written closed (C2). The spelling marks the difference.
+- It is **distinct from her structural role**, the Loom (Mechanica §42A). The title rests on the author's 11-15 line "Seraphine becomes the singular luminous thread that tethers it to the world".
+
+No card is edited. CLAUDE.md §3 now says the spaced title is deliberate and must not be respelled. §4.1 and §8 are updated, and so is `decisions/README.md`.
+
+END OF ENTRY 173
+
+===============================================================
+
 END RECOVERY LEDGER
