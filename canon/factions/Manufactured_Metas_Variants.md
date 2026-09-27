@@ -1,17 +1,18 @@
 # MANUFACTURED METAS — VARIANTS  
 Engineered Failure Modes • Prototype Taxonomy  
-Systemic Collapse Expressions (Not Characters)
+Systemic Collapse Expressions (People, Not POV Characters)
 
 ---
 
 ## PURPOSE
 
-This file catalogs **known Manufactured Meta variants** as *design outcomes*, not individuals.
+This file catalogs **known Manufactured Meta variants** as *design outcomes*: procedures applied to
+people. Each meta is an individual; the variant is what was done to them.
 
 These entries are:
-- not characters
+- people, not POV characters
 - not factions
-- not POV-capable entities
+- never given POV
 
 They are **prototype expressions of a shared design error**.
 
@@ -82,7 +83,7 @@ Results include:
 ### Narrative Function
 Use when you need:
 - tragedy
-- sympathy without redemption
+- sympathy, without a return to what she was
 - proof that imitation is not understanding
 
 ---
@@ -144,6 +145,21 @@ Use when you need:
 
 ---
 
+## THE THREE-PART MODEL, BY VARIANT (Mechanica §48)
+
+Each variant's *"Design Intent"* is **the institution's aim**, not the meta's. Each variant's
+*"resonance output"* is **leakage**: a stored load the meta cannot spend. Every variant can be drawn
+from, by contact, into a recipient who supplies the Intent.
+
+- **I, Silver Pattern Man:** the load is held rigidly. Emotional variability breaks the hold, and it
+  leaks all at once.
+- **II, Blinking Girl:** mirrored emotion adds to the load faster than it can leak. Hence the spikes.
+- **III, Mirror-Lag:** absorbed external input accumulates as load until containment fails.
+- **IV, Trial-Tech:** suppression is the handlers directing the load's drain. Its directives are
+  encoded control, not Intent, so it cannot de-escalate.
+
+---
+
 ## SHARED LIMITATIONS (CANON LOCK)
 
 All Manufactured Meta variants:
@@ -185,7 +201,7 @@ Each variant answers the same question differently:
 
 > *What if we remove one more human variable?*
 
-Every answer is wrong.
+Every answer is wrong, and the person is still there.
 
 ---
 
@@ -195,3 +211,7 @@ Every answer is wrong.
 - `Manufactured_Metas_Creators.md`
 - Technarc Directorate
 - Mechanica v4
+
+---
+
+> **Amended 2026-09-27 by author ruling** (`decisions/META_TRANSFER_MODEL_AND_PERSONHOOD_AUTHOR_RULING_2026-09-27.md` §1, §4). Was: *"(Not Characters)"*; *"as design outcomes, not individuals"*; *"not characters … not POV-capable entities"*; *"sympathy without redemption"*; *"Every answer is wrong."* Added: the three-part model by variant. The failure modes and shared limitations are unchanged.

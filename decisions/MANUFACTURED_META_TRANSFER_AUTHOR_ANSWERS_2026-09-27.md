@@ -45,3 +45,7 @@ The same answer covers the LT audit (`LT_POST_MENDING_END_STATE_AUTHOR_ANSWERS_2
 ## Follow-up (2026-09-27)
 
 The author: *"Ruled on LT Q1, Q4 and meta Q4"*. **Q4 (origin) is now RULED** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md`). The faction card is rewritten, with a dated note keeping the old text. Q1–Q3 and Q5–Q8 stay approved design, and Mechanica §48 is not amended.
+
+## Follow-up (2026-09-27): Q1–Q3 and Q5 ruled
+
+The author: *"1 ruled, 2 ruled, 4 yes, 5 ruled"* (`decisions/META_TRANSFER_MODEL_AND_PERSONHOOD_AUTHOR_RULING_2026-09-27.md`). **Q1–Q3 are RULED. Q5 is RULED as refined:** the draw is body to body by physical contact; apparatus never conducts; **distance extraction never succeeds as transfer**, which corrects *"rarely work"* above. Mechanica §48, the faction card and the variants are rewritten to the three-part model, and metas are framed as people. Q6 and Q7 stay with the Mechanica review. The table above is unchanged.

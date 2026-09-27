@@ -11555,4 +11555,31 @@ END OF ENTRY 185
 
 ===============================================================
 
+# 186. Ruled: the meta transfer model, the interface, meta personhood; Kade's acknowledgment — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an author ruling and the rule and card rewrites it permits.
+
+**The author, verbatim:** "1 ruled, 2 ruled, 4 yes, 5 ruled"
+
+**Recorded in** `decisions/META_TRANSFER_MODEL_AND_PERSONHOOD_AUTHOR_RULING_2026-09-27.md` (questions of §185):
+1. **Ruled:** the transfer loop (meta Q1–Q3) on a three-part model: the donor's unspendable load; the recipient's Emotion and Intent; leakage.
+2. **Ruled:** the interface. Contact only; apparatus positions, restrains, times and monitors, and never conducts; distance extraction never transfers (correcting "rarely work").
+4. **Approved:** Kade may acknowledge the B09 invitation; the acknowledgment is the whole permitted response, never shown; conversation and routine messaging stay outside.
+5. **Ruled:** metas are people. The mechanical limits stand; the framing changes.
+
+**Rewritten, old text kept in dated notes:**
+- `rules/Mechanica-v4.md` §48: the three-part model, the draw, altered-human origin, personhood. The approved-design note is superseded.
+- `canon/factions/Manufactured_Metas.md`: l. 9 ("without Intent or emotional integration"), the thesis ("remove Intent"), "store" added to purpose, output as leakage, "power taken from people", "No return to Intent or to what they were". Added: a storage-and-transfer section, the converted people in origin conditions, "Institutions tried. The people were still there.", a "Do allow" list.
+- `canon/factions/Manufactured_Metas_Variants.md`: "People, Not POV Characters"; procedures applied to people; "sympathy, without a return to what she was". Added: the model by variant (Design Intent is the institution's aim; output is leakage).
+
+**Added:** `LT_RULES` §6 acknowledgment clause and a §4 pointer; `canon_rules.json` `manufactured_metas._model_note`.
+
+**Also:** a follow-up on the transfer-answers file; the §185 report's "Answered" note; `decisions/README.md` indexed.
+
+**Unchanged:** magnitudes and U1–U7 (the Mechanica review); the Creators card; the grid. Neon meta work waits for the queue. **The holds stand:** B03 and B01 EBCI.
+
+END OF ENTRY 186
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -81,6 +81,9 @@ LT is not a system.
 LT is not a guide.
 LT is not an authority.
 
+The one exception to *"transmit information"* is Kade's acknowledgment of the Book 9 epilogue
+invitation (§6).
+
 ---
 
 ## 5. LT & LANGUAGE CONSTRAINTS
@@ -118,6 +121,13 @@ LT handshake reaches Kade's device as a message request. **Tahl's echo enables i
 the conduit on Kade's side. The exception belongs to the echo. It does not let LT ride MT
 hardware in general, and the rule above stands for every other case. The author: *"the LT rule
 was generalized. The intent is that Tahl's echo/soul is what enables the handshake to occur."*
+
+**Kade may acknowledge this invitation.** The acknowledgment is the whole of the permitted
+response. It is never shown: the saga ends before he answers (M53). Conversation and routine
+messaging stay outside the exception.
+
+> **Added 2026-09-27 by author approval** (`decisions/META_TRANSFER_MODEL_AND_PERSONHOOD_AUTHOR_RULING_2026-09-27.md` §3), implementing the ruling that Kade can
+> answer (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §2). Access is not extended.
 
 ---
 

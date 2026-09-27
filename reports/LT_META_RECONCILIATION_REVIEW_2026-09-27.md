@@ -10,6 +10,8 @@ puts the fixes as questions (§3).
 
 **What it does not change:** no other card, rule, row or ruling. The holds on B03 and B01 EBCI stand.
 
+> **Answered 2026-09-27** (`decisions/META_TRANSFER_MODEL_AND_PERSONHOOD_AUTHOR_RULING_2026-09-27.md`, ledger §186): *"1 ruled, 2 ruled, 4 yes, 5 ruled"*. All applied as recommended. The body below is unchanged.
+
 ---
 
 ## 1. The review, in brief

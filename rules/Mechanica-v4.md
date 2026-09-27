@@ -1018,23 +1018,51 @@ This state is gated and rare.
 
 ## 48. MANUFACTURED METAS
 
+Manufactured metas are altered humans: people modified, voluntarily or under coercion, to hold
+resonance they cannot spend. Their names are erased at conversion.
+
 Manufactured metas possess:
-- Power
+- Power: a stored load of energy and emotion, unintegrated
 - Capability
-- Amplification
+- Amplification: their load can be drawn into another person
 
 They lack:
 - Intent
 - Emotional integration
 
+The model has three parts:
+- **The donor's load.** Stored and unintegrated. The meta cannot spend it.
+- **The recipient's Emotion and Intent.** A person who receives a drawn load spends it. The
+  recipient supplies the Intent, so the meta never holds any (§6).
+- **Leakage.** A load that nothing spends discharges uncontrolled.
+
+The draw:
+- Crosses body to body, by physical contact only
+- Is charged by resonance harvested from followers and handlers; crowds amplify it but are not
+  harvested (§22)
+- Uses apparatus that positions, restrains, times and monitors, and never conducts (§23)
+- Never succeeds at a distance; a distance machine can provoke leakage and instability, nothing more
+- Is unreliable and costly: to the meta; to the recipient (injury, poor control, and at the extreme
+  permanent harm or death; §13.2); and to those nearby, through leakage
+
+Handlers' encoded directives are control, not Intent.
+
 As a result:
 - They are permanently unstable
 - They cannot ascend
-- They fail catastrophically under pressure
+- They fail catastrophically under pressure: leakage
 
-Their creators are the true antagonists.
+Their creators are the true antagonists. Metas are people, and their personhood is never in question.
 
-> **Note 2026-09-27 (approved design, not ruled; this section's text is unchanged):** factions draw on a meta's stored energy into a recipient who supplies the Intent. The draw is bodily and close, unreliable, and costly to the meta, the recipient and those nearby. A meta never holds Intent. See `decisions/MANUFACTURED_META_TRANSFER_AUTHOR_ANSWERS_2026-09-27.md`. **Ruled 2026-09-27** (`decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §3): **metas are altered humans only**, voluntary or coerced, names erased.
+> **Amended 2026-09-27 by author ruling** (`decisions/META_TRANSFER_MODEL_AND_PERSONHOOD_AUTHOR_RULING_2026-09-27.md` §1, §2, §4; the origin by
+> `decisions/LT_KADE_AND_META_ORIGIN_AUTHOR_RULING_2026-09-27.md` §3). Was: *"Manufactured metas
+> possess: Power / Capability / Amplification. They lack: Intent / Emotional integration. As a
+> result: They are permanently unstable / They cannot ascend / They fail catastrophically under
+> pressure. Their creators are the true antagonists."* An approved-design note that followed it is
+> superseded by this text.
+
+---
+
 ## 49. SYMBOLIC PERMISSION SYSTEM
 
 Symbols do not create power.
