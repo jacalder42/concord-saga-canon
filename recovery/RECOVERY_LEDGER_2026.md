@@ -11695,4 +11695,37 @@ END OF ENTRY 191
 
 ===============================================================
 
+# 192. Veil trilogy audit and standalone evaluation (step 4) — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an editorial report. Nothing is ruled, and no book, card, row or rule is edited.
+
+**The author, verbatim:** "Begin trilogy audit, then evaluate each book as a standalone novel"
+
+**Written:** `reports/VEIL_TRILOGY_AUDIT_AND_STANDALONE_EVALUATION_2026-09-27.md`. It covers B01 v4.1b (digested in full by a read-only pass, with key lines spot-checked), B02 pass 5 and B03 pass 4 as revised by pass 5.
+
+**Findings:**
+- **The escalation ladder works:** subjective → civic → persistence → catastrophe. The thread ladders are clean for southwest, MT (none in B01 by rule), VT (A11 exactly), the Dominion, the Vein, the child/Mira seeds, metas and Rex. All three books end quiet but on different facts.
+- **Cross-book duplications and gaps (T1–T11):**
+  - T1: B02 E03 claims the city's first public event, which B01 E15/E33/E36 already hold. B02 should own the naming only.
+  - T2: Seraphine and Baz are never staged one-on-one in the trilogy.
+  - T3: B02 E30 repeats B01 E30's Caro–Elisabet beat.
+  - T4: B02 E19 re-names B01 E35's "control was never the promise".
+  - T5: Technarc's request, B01 E23 against B02 E13.
+  - T6: B01's "drift" and "wound" terminology.
+  - T7: B01's climax lacks a protagonist decision, and M03 is loosely met. E48 should pay off E01's "arrive sooner".
+  - T8: B01 internal leftovers (Elisabet's "entrance" against the visit ruling, Lacuna, v4.1a, LR02, O1).
+  - T9: B02's Act III lacks a decision.
+  - T10: Seraphine is absent from B03's climax.
+  - T11: Rex's E43 is cold for a standalone reader.
+- **Standalone verdicts:** B01 is a satisfying quiet first novel if its climax answers its opening (T7). B02 is the strongest novel shape in its first two acts, and needs an Act III decision (T9). B03 is the strongest standalone, ready once T2 and T10 are in.
+- **B01 EBCI:** nothing in B02 or B03 blocks it. T5–T8 are B01 EBCI notes.
+
+**Ten questions** are put, with recommended answers (report §12). They include how to apply the amendments: one "Veil audit amendments" file, without rewriting the passes.
+
+**The hold that stands:** B01 EBCI, released by the author after this audit.
+
+END OF ENTRY 192
+
+===============================================================
+
 END RECOVERY LEDGER
