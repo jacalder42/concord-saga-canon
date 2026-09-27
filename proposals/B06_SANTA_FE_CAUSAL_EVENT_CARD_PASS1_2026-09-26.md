@@ -273,3 +273,20 @@ It places no episode, writes no beat, edits no grid row (M20–M23 are read, not
 supplies no Resonance mechanism, adopts no Tier D district or imagery, and does not touch EBCI.
 It does not resolve the Echo conflict or the ladder mapping. Every READING, PROPOSAL and OPEN
 remains one.
+
+---
+
+## Addendum, 2026-09-27: links 6 and 11 after the Tahl death answers
+
+Source: `decisions/TAHL_DEATH_SPECIFICS_AUTHOR_ANSWERS_2026-09-27.md` (approved design). The table
+above is not edited.
+
+- **Link 11 (why Tahl is at the rupture):** he goes **against Elisabet's bounded warning (M55, B06
+  A1)**, because after the Warehouse he will not send others where he will not go himself. This is the
+  Warehouse mirror of finding B.
+- **Link 6 (warnings go unheeded):** in part now his, because he overrides Elisabet's warning. Who
+  failed to heed the **Filament** warnings, and who originates the VT warning, stay **open**.
+- **Links 12–13:** a partial VT slip gives him the shape of the pattern; the contact kills him; MT goes
+  black after his live witness broadcast. Silence collects his echo after death, with no pre-death
+  spark.
+

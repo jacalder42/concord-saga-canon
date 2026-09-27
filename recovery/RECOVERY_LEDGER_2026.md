@@ -10240,4 +10240,42 @@ END OF ENTRY 143
 
 ===============================================================
 
+# 144. Tahl's death specifics: author answers; hold before B02/B03 — 2026-09-27
+
+**The author:** *"Accept as recommended. Hold before B2 and B3 episodes"*.
+
+**Recorded:** `decisions/TAHL_DEATH_SPECIFICS_AUTHOR_ANSWERS_2026-09-27.md`. All eight answers are
+**approved design**; no question asked for a ruling.
+
+1. **Why he is there:** against Elisabet's M55 warning, the Warehouse mirror.
+2. **His last public act:** a live witness broadcast, then MT goes black.
+3. **The slip:** a VT slip gives him the shape; the contact kills him; Silence collects the echo after
+   death, with no pre-death spark.
+4. **Delivery:** a fragment by the private channel set up at the B05 A1 meeting, delayed.
+5. **Recipients:** Seraphine, Lucien, Caro, Elisabet and Rex, at staggered times.
+6. **Content:** *"the first one has to be last"*. Seraphine recognises the swamp, so the site secret
+   holds.
+7. **The epilogue's order:** the message first, then Kade's grief post closes B06.
+8. **Witnesses:** no principal witness; the body travels east over several days.
+
+**Written:**
+
+- the decision;
+- notes on M20, M21, M23, M39 and M55 (no status changes);
+- an addendum to `proposals/B06_SANTA_FE_CAUSAL_EVENT_CARD_PASS1_2026-09-26.md` for links 6, 11 and
+  12–13 (its table is not edited);
+- the index row;
+- `CLAUDE.md` §4.1 and §8.
+
+**HOLD:** B02/B03 episode architecture does not start until the author releases it.
+
+**Still open:** the VT warning's originator; the fragment's exact wording; the unnamed Santa Fe
+locals.
+
+**Checks:** canon scope 0; 144 self-tests; no drift in the book contexts.
+
+END OF ENTRY 144
+
+===============================================================
+
 END RECOVERY LEDGER
