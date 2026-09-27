@@ -10330,4 +10330,37 @@ END OF ENTRY 146
 
 ===============================================================
 
+# 147. Route clock, B05 A1 → B07 A1, Pass 1 — 2026-09-27
+
+**The author:** *"Yes"*, to building the B05 → B07 route clock. It is the first item of the work
+order in `proposals/SAGA_CAST_THEATER_ACT_LEDGER_PASS1_2026-09-27.md` §5.
+
+**Written:** `proposals/B05_B07_ROUTE_CLOCK_PASS1_2026-09-27.md` (PROPOSAL). It holds:
+
+- 21 fixed points, coded R/D/L/O;
+- an act-by-act clock for eight characters, from B05 A1 through the B06 epilogue and the interval to
+  the B07 A1 funeral;
+- eleven travel legs and ten information legs;
+- **nine gaps with recommendations, none adopted:**
+  - **G1**, Lucien returns in B05 A2, missing the Tahl meeting and joining the channel remotely;
+  - **G2**, Elisabet is still in NOLA at the meeting;
+  - **G3**, Rex goes NOLA → (ATL) → SIN after the meeting, fitting the lean of timing it to Lucien's
+    return;
+  - **G4**, the *"Last Clear Act"* is in B05 A1 (the recovered placement);
+  - **G5**, M55 reaches Tahl through the channel, and he goes after the Rupture opens;
+  - **G6**, Kade is in NOLA at the death;
+  - **G7**, Rex and Elisabet arrive for the funeral staggered, Rex barely in time;
+  - **G8**, the body goes by road to NOLA's jazz funeral, with TahlID's Chicago home flagged;
+  - **G9**, Elias's arrival, left for the author.
+
+**Also recorded:** the review of the act ledger (§146) found it sound: additions-only, the sequence
+intact. It noted two label slips and that Lucien and Elisabet may be absent from the B05 A1 meeting.
+This clock takes up the second point as G1 and G2.
+
+**Not changed:** everything. **The B02/B03 hold stands.** **Checks:** canon scope 0.
+
+END OF ENTRY 147
+
+===============================================================
+
 END RECOVERY LEDGER
