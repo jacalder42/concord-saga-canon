@@ -3,6 +3,8 @@
 **Date:** 2026-09-27
 **Status:** PROPOSAL / DESIGN. NON-CANONICAL.
 
+> **Answered 2026-09-27** (`decisions/MECHANICA_HARD_CAP_BREATHING_VEIL_AUTHOR_ANSWERS_2026-09-27.md`, ledger §162): all five **yes**, as approved design. The Mechanica amendment is drafted for a separate ruling in `proposals/MECHANICA_AMENDMENT_DRAFT_HARD_CAP_LOOM_2026-09-27.md`. The body below is unchanged.
+
 - The author's *"Proceed"* approved **producing** this specification (queued in
   `decisions/SERAPHINE_LOOM_HARD_CAP_AND_MIRA_AUTHOR_RULING_2026-09-27.md` §5). Its **content** needs
   its own approval.

@@ -10809,4 +10809,31 @@ END OF ENTRY 161
 
 ===============================================================
 
+# 162. Hard cap and breathing veil model — author answers; Mechanica §42A drafted — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers as **approved design**, and a draft amendment that is **not applied**.
+
+**The author, verbatim:** "1 yes, 2 yes, 3 yes, 4 yes, 5 yes"
+
+**Recorded in** `decisions/MECHANICA_HARD_CAP_BREATHING_VEIL_AUTHOR_ANSWERS_2026-09-27.md`. All five are approved design, as the specification put them:
+1. The causal model (Q1–Q7) is adopted.
+2. The wounds are where the current cap's stored stress broke through, with Honey Island, the original Tear, as the first break. Why Honey Island is repaired last stays open.
+3. Empathy is a responsive medium, not a virtue gate. Bible #5's literal "passes only through willful, emotionally-aware channels" is not used.
+4. The new veil does not obey Seraphine. Her reach is invitation, not command.
+5. Humans adapt after the Mending.
+
+**Edits (additive):**
+- the decision, indexed;
+- an "Answered" note on the specification;
+- notes prepended to grid **M33** (Q1, Q3, Q4), **M34** (Q5) and **M45** (Q2), with no description or status changes;
+- CLAUDE.md §8.
+
+**Drafted, not applied:** `proposals/MECHANICA_AMENDMENT_DRAFT_HARD_CAP_LOOM_2026-09-27.md`. It is a new Mechanica **§42A**, "The Hard Cap and the Loom", placed after §42 so nothing is renumbered, and written in Mechanica's own rule style. Mira is not named in it. Applying it needs a specific author ruling, because it turns ruled and approved-design material into rule text. **`rules/Mechanica-v4.md` is unchanged.**
+
+**The holds stand.**
+
+END OF ENTRY 162
+
+===============================================================
+
 END RECOVERY LEDGER
