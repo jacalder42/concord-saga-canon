@@ -11931,4 +11931,23 @@ END OF ENTRY 201
 
 ===============================================================
 
+# 202. Loom: provisional B07–B09 episode architecture and the Loom trilogy audit (checkpoint) — 2026-09-27
+
+**Status:** LEDGER ENTRY. Proposals under §197 item 2. **Provisional by design; nothing approved or ruled.** A checkpoint commit: **the Loom reconciliation document** (sources, disposition of recovered Loom material, and the author questions L1–L13) **is still to come**, pending a survey of the recovered Loom episode lineages; the pass-3 files cite it by its planned path.
+
+**Written:**
+- `proposals/B07_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md`: 45 episodes. The funeral (M40, Lacuna prominent; Hope's first cry); Elias attaches (M41); Mira's first post-Veil appearance (proposed); the decision beat; Kade takes over MT (M26); the grief-truth post, amplified; the civic break in Uptown (M42, D3); the crew leaves west by the Atchafalaya (M28); the argument (M43).
+- `proposals/B08_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md`: 45 episodes. The split (M44); Santa Fe's finding and stabilisation; Mound City's particulars (M47); Kade's permission (M46); Seraphine decides the price is hers; **Act III as two honest clocks, the deferral preserved**, Clock A recommended.
+- `proposals/B09_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md`: 45 episodes plus EP E46–E48. The escape (M48, M59); the feint (M50); **a proposed shared Act III clock** (the deferred Q9): the Mending begins and is the signal (M51), the rear action and the flare as the penultimate cluster (M52), the rest of the Mending as the last (M33's order); the epilogue (M35, M53).
+- `reports/LOOM_TRILOGY_AUDIT_2026-09-27.md`: twelve findings (LA1–LA12), including sameness risk across the three stabilisations, Kade at 22% across Loom, Lucien at 7%, and the B09 A2 Lacuna–Kade meeting against the epilogue payoff.
+- **Seraphine is 41 of 138 Loom episodes (30%)**, per the author's direction.
+
+**Breadcrumbs:** five provisional Loom rows (Seraphine hides the price; Kade's permission; Lacuna's feint; the miracle claim; Caro's road in); Loom locators on eighteen rows. **47 rows.** Validator 0; 153 tests OK.
+
+**Unchanged:** every ruling, row, card and rule. The B08 end-sequence deferral and the B01 EBCI hold stand.
+
+END OF ENTRY 202
+
+===============================================================
+
 END RECOVERY LEDGER
