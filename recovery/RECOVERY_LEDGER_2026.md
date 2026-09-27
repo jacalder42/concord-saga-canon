@@ -10946,4 +10946,43 @@ END OF ENTRY 165
 
 ===============================================================
 
+# 166. Antagonist and faction arc matrix, Pass 1 — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an editorial report. Nothing is ruled or edited.
+
+**The author:** "we have run saga protagonist location and action/event grids for protagonists, but I'm not sure we have done the same for antagonists and their factions. It feels like we need to resolve their arcs, entrances, exits, milestones, etc"
+
+**Written:** `reports/ANTAGONIST_FACTION_ARC_MATRIX_PASS1_2026-09-27.md`. It is the antagonist companion to the protagonist presence matrix (§127).
+
+**Method:** four read-only extraction passes over the repository (faction cards; antagonist cards and registry rows; decisions, grid and proposals; the prior audits of 09-19 to 09-27). Claude re-checked the key conflicts. The export was read only to trace a truncated card.
+
+**Findings:**
+- **No faction card places anything by book or act.** Only Elias has book-level placement, from the rulings.
+- **Virelli, Han Wei, Saeko and Ito all become legacy in Loom.** The only named active antagonist in B07–B09 is Elias, with Brightbreak and Kade's splinter. B09's "factions" and the Choirless are unnamed collectives.
+- **Every personal exit is OPEN.** Four deaths are explicitly not locked.
+- **The Neon Rebellion has no card.** Its B06–B08 state is unknown.
+- **10 contradictions**, including:
+  - Ito's Loom presence (cards against registry E03);
+  - Virelli's range and end;
+  - Elias's relocation (EliasID "late Neon" against G9 "around the funeral");
+  - Elias's Appearance and Render still labelled "Veil / Early Neon";
+  - Choirless and Brightbreak in B09 ("some align" against "never unify");
+  - metas in Veil;
+  - the 09-23 transition map's Loom rows, now superseded.
+- **6 housekeeping defects.** The most notable: `canon/factions/Choirless_Subtypes.md` was committed truncated (c888945, "Escalation path (typical):"). The missing ending is in `sources/chatgpt_export_2026-09/2026-01-04__Antagonist_and_Faction_Files__695aa186.md` (~7399–7430). Also, Elias has no cast registry row.
+
+**Put to the author:**
+- Three shaping questions: Loom's active opposition; Ito's Loom presence; Choirless and Brightbreak in B09.
+- One approval for the housekeeping.
+
+**Recommended next:** an editorial antagonist arc pass that proposes entrances, per-book pressure, turns and exits against the fixed points.
+
+**Ledger coverage gap noted:** no earlier ledger entry cites the four 09-20 `ACCOUNT_EXPORT_*` antagonist audits or the 09-22 Dominion genealogy recovery by filename. This entry records them as inputs.
+
+**The holds stand.**
+
+END OF ENTRY 166
+
+===============================================================
+
 END RECOVERY LEDGER
