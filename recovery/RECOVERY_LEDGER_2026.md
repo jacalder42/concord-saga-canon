@@ -11749,4 +11749,31 @@ END OF ENTRY 193
 
 ===============================================================
 
+# 194. Independent Veil novel audit and comparison with Claude — 2026-09-27
+
+**Status:** LEDGER ENTRY. Records a non-canonical editorial report. No author answer or new gate is inferred.
+
+**The author, verbatim:** "Review the claude veil and novel audits. Perform your own and then compare for improvements"
+
+**Written:** `reports/VEIL_INDEPENDENT_NOVEL_AUDIT_AND_CLAUDE_COMPARISON_2026-09-27.md` (ChatGPT; report commit `5a13e93`). Reviewed snapshot: `4aea0a8`, including the approved §193 amendments.
+
+**Verdict:** retain the trilogy architecture and approved repairs. B01 has the strongest attachment foundation, B02 the strongest self-contained ethical dilemma, and B03 the strongest convergence and tragedy; climax strength is not identical to standalone accessibility.
+
+**Findings:**
+- V01: B01 E48 needs a concrete human result; arriving earlier must not simply validate Seraphine's over-responsibility.
+- V02: B02 E47's withheld drift needs a present consequence, not only a future rung in the Dominion ladder.
+- V03: the worker leaves at shift's end in B03 E32; establish what the warning actually changes before treating him as its demonstrated benefit.
+- V04: the new early Detroit report needs an explicit chronology relative to Rex's later repair.
+- V05: keep the Seraphine–Baz scene, but avoid recasting the witness-focused Baz as someone who sees people only as data.
+- V06: Seraphine's valid delegation does not cause Baz's death; the audit's "lesson costs a life" overstates the causal claim.
+- V07–V08: preserve cumulative competence across the models, and pleasure, attraction and wonder beyond repeated care/restraint lessons.
+
+**Comparison:** agrees with Claude's principal duplication and closure repairs; challenges "no opposition" in B01, act-length judgments from counts alone, and the conclusiveness of B03's standalone and denouement verdicts.
+
+**Scope:** architecture and editorial comparison, not manuscript testing. No validator run claimed. Report and ledger only; no architecture, decision, card, rule, grid or status changed. **The B01 EBCI hold stands.** Recommendations are not new gates.
+
+END OF ENTRY 194
+
+===============================================================
+
 END RECOVERY LEDGER
