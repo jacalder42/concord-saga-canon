@@ -12243,4 +12243,18 @@ END OF ENTRY 217
 
 ===============================================================
 
+# 218. The compression gate passed; B02 EBCI released — 2026-09-27
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_COMPRESSION_GATE_AND_B02_EBCI_RELEASE_AUTHOR_RULING_2026-09-27.md` (production ruling; Q-V2–V4 approved design).
+
+**Author:** the moving 3/5 → 4/5 → 4/5 failures, with every reader finding the compressed set substantially more inviting, read as *"normal editorial disagreement over deliberately open briefs"*; another round *"would risk optimizing the briefs for reviewers instead of writers."* **Q-V1 pass: the EBCI format is treated as solved; B02 EBCI released**, stop after B02.
+
+**Applied:** **E13** loses its transition beat (2 beats; template guidance: *a relationship packet needs no beat describing the transition between Before and After*). **E48's stranger** is not E31's musician: the brief says so, and control notes on E31 and E48 record no relationship, recognition, callback or later role. The Want field's template hint now reads *immediate objective; a human want only where the architecture gives one* (Q-V4). **Cleanup:** the generator had re-appended its compression note to the pilot packets E31 and E33 on every run (five copies each); fixed at source and swept; no other B01 packet had duplicate notes. **Beat rows: 114.**
+
+**Next:** B02 EBCI (47 packets) under the compressed template, then a focused six-test B02 audit and a B03 recommendation. B03 stays held.
+
+END OF ENTRY 218
+
+===============================================================
+
 END RECOVERY LEDGER

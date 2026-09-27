@@ -1,6 +1,6 @@
 # ebci/ — episode production packets
 
-Status: PRODUCTION LAYER. **B01 is released, built in full, audited and compressed** (`decisions/B01_FULL_AUDIT_COMPRESSION_AND_CALENDAR_AUTHOR_RULING_2026-09-27.md`, Q-FB1). **B02 is released on a condition** (a five-packet verification of the compressed briefs, Q-FB4), with a stop after B02 for its book-level audit. **The verification did not cleanly pass** (`reports/B01_COMPRESSION_FIVE_PACKET_VERIFICATION_2026-09-27.md`): **B02 is not started** until the author's call (Q-V1). **B03 stays held.**
+Status: PRODUCTION LAYER. **B01 is released, built in full, audited and compressed** (`decisions/B01_FULL_AUDIT_COMPRESSION_AND_CALENDAR_AUTHOR_RULING_2026-09-27.md`, Q-FB1). **B02 is released on a condition** (a five-packet verification of the compressed briefs, Q-FB4), with a stop after B02 for its book-level audit. The verification did not cleanly pass, and **the author passed the gate** (`decisions/B01_COMPRESSION_GATE_AND_B02_EBCI_RELEASE_AUTHOR_RULING_2026-09-27.md`): **B02 is released.** **B03 stays held.**
 
 Originally: **B01 two-packet pilot only.** Created 2026-09-27 when the author released
 the B01 EBCI hold for the pilot (`decisions/SAGA_LOCK_AND_B01_EBCI_PILOT_RELEASE_AUTHOR_ANSWERS_2026-09-27.md`,
@@ -15,7 +15,7 @@ Q-LS2). **Nothing else in B01, and nothing in B02 or B03, is released.**
 | `B01/S1.T1.B01.A2.E31.md`, `…E33.md` | the pilot (Life/Reward; event) | REVIEWED |
 
 **B01 is complete at EBCI resolution:** 49 packets (the prologue and 48 episodes), beat rows in
-`grids/episode_beats.csv` (115 after compression; 248 before), six supplement rows in `grids/supplement_deployment.csv`.
+`grids/episode_beats.csv` (114 after compression; 248 before), six supplement rows in `grids/supplement_deployment.csv`.
 
 ## Rules
 

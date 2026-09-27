@@ -45,6 +45,8 @@ perceive strain but cannot intervene; reveal no cosmology or future.*
    The causal card stays authoritative behind the packet.
 3. **Relationships name the rung:** the state **before** and **after**. Never the emotional mechanism,
    never the choreography of the change.
+   **A relationship packet needs no beat describing the transition** between Before and After: sometimes
+   the whole scene is the transition (guidance, not a check; Q-V2).
 4. **Register, not schedule.** A Life/Reward brief names its register (fun, rest, wonder, friendship)
    and leaves the moments to prose.
 5. **Beats are few and loose:** the story units that must happen, in order, and nothing that merely
@@ -88,7 +90,7 @@ When:       {approximate: "early March"; "between the Square and the pulse"}
 
 ## Narrative brief
 Story job:
-Want:                               {optional}
+Want:                               {optional; the immediate objective; use a human want only where the architecture gives one}
 Change:                             {or, for a relationship episode: Before: … / After: …}
 Reader experience:
 Keep / don't spend:                 {compact; page-protecting only}

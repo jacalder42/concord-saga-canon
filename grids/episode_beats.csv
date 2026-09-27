@@ -36,7 +36,6 @@ S1.T1.B01.A1.E12,Lucien Kael,NONE,U1,W0,SLICE,H0,FX0,CALM,L2,S1.T1.B01.A1.E12-BT
 S1.T1.B01.A1.E12,Lucien Kael,NONE,U1,W0,SLICE,H0,FX0,CALM,L2,S1.T1.B01.A1.E12-BT02,it goes a little wrong,,,,,,"B01 EBCI (compressed, Q-FB1); packet ebci/B01/S1.T1.B01.A1.E12.md"
 S1.T1.B01.A1.E13,Seraphine Vael + Lucien Kael,NONE,U2,W0,INT,H0,FX0,CALM,L1,S1.T1.B01.A1.E13-BT01,Seraphine failing to carry what she perceives,,,,,,"B01 EBCI (compressed, Q-FB1); packet ebci/B01/S1.T1.B01.A1.E13.md"
 S1.T1.B01.A1.E13,Seraphine Vael + Lucien Kael,NONE,U2,W0,INT,H0,FX0,CALM,L1,S1.T1.B01.A1.E13-BT02,Lucien failing to control what he sees,,,,,,"B01 EBCI (compressed, Q-FB1); packet ebci/B01/S1.T1.B01.A1.E13.md"
-S1.T1.B01.A1.E13,Seraphine Vael + Lucien Kael,NONE,U2,W0,INT,H0,FX0,CALM,L1,S1.T1.B01.A1.E13-BT03,the collision,,,,,,"B01 EBCI (compressed, Q-FB1); packet ebci/B01/S1.T1.B01.A1.E13.md"
 S1.T1.B01.A1.E14,Lucien Kael,NONE,U1,W0,HUM,H1,FX0,CALM,L1,S1.T1.B01.A1.E14-BT01,practical aftermath keeps them together,,,,,,"B01 EBCI (compressed, Q-FB1); packet ebci/B01/S1.T1.B01.A1.E14.md"
 S1.T1.B01.A1.E15,Seraphine Vael + Lucien Kael,NONE,U2,W1,ACT,H0,FX0,CALM,L2,S1.T1.B01.A1.E15-BT01,the Square at work,,,,,,"B01 EBCI (compressed, Q-FB1); packet ebci/B01/S1.T1.B01.A1.E15.md; values are the end state at the beat"
 S1.T1.B01.A1.E15,Seraphine Vael + Lucien Kael,NONE,U4,W3,ACT,H0,FX2,CALM,L2,S1.T1.B01.A1.E15-BT02,"the disturbance, and the amp's failure",,,,,,"B01 EBCI (compressed, Q-FB1); packet ebci/B01/S1.T1.B01.A1.E15.md; values are the end state at the beat"
