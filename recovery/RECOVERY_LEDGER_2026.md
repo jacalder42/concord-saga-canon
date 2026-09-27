@@ -11459,4 +11459,33 @@ END OF ENTRY 181
 
 ===============================================================
 
+# 182. ChatGPT's review of B02 pass 4, checked; pass-5 recommendations — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a relayed review and Claude's check of it. Nothing is ruled, and pass 4 is not edited.
+
+**Relayed by the author:** ChatGPT's read-only review of `proposals/B02_EPISODE_BEATS_PASS4_2026-09-27.md` (through c252951). It supports the architecture and raises five issues.
+
+**Written:** `reports/B02_PASS4_CHATGPT_REVIEW_AND_PASS5_RECOMMENDATIONS_2026-09-27.md`. It keeps the review as relayed, checks each point against the text, and recommends a fix for each.
+
+**All five points hold:**
+1. **The method is never sent.** E26 sends a window, a place and a margin; E31 and E34 have the Dominion holding and reusing the method.
+2. **The finale names an effect, not an event.** E44 has no event; E46 and E47 repeat "no reset"; E31's exit spends Act III's discovery. The recovered Act III audit names what the event must defeat: "event → aftermath → normal".
+3. **Seraphine's success has no visible chain.** "Narrower and blunter" is asserted, not shown; Rosette has no reason and no shared act.
+4. **Caro's guardrail is too broad.** M54 protects her first handoff of consequential unfinished work, not all teamwork.
+5. **Some episodes are assignments, not scenes** (E20, E43, E44, E45; E22 and E26 both turn on "the group argues").
+
+**Recommended (six questions):**
+1. The grounds are the method: Helena needs the reasoning to act, and the reasoning is what generalizes. Why the Dominion and not Technarc: one block, one accountable public act, against the whole map.
+2. A pocket that does not end, along the drift line. It defeats "it passes" and turns the temporary clearance into a standing one. E31 becomes civic.
+3. No vulnerable-residents list, so an off-registry household is never named, and one resident is moved without accommodation. Rosette keeps the block's book with Seraphine through the cluster, the only inside record, which refines Baz's model.
+4. The guardrail becomes "does not entrust consequential unfinished work and leave"; Leila Broussard works beside Caro.
+5. Every episode gets an encounter, desire, obstacle and change; the count stays 47.
+6. A focused pass 5 in a new file.
+
+**The holds stand:** B03 and B01 EBCI.
+
+END OF ENTRY 182
+
+===============================================================
+
 END RECOVERY LEDGER
