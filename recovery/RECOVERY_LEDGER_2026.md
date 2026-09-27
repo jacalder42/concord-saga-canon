@@ -11970,4 +11970,20 @@ END OF ENTRY 203
 
 ===============================================================
 
+# 204. B01 pre-release work: the four private causal cards and the overlay drafts — 2026-09-27
+
+**Status:** LEDGER ENTRY. Proposals under the approved preflight Q6 and Q7 (§201). **The B01 EBCI hold stands; no packet, template, directory or rule text.** Drafted in the session scratchpad and reviewed by Claude before commit.
+
+**Written:**
+- `proposals/B01_PRIVATE_CAUSAL_CARDS_E15_E33_E45_E48_PASS1_2026-09-27.md`. A shared frame: **fork A** (ambient pressure with material coupling) for each event's onset, **fork C** as the in-world null that must stay credible, **fork B** only for Seraphine's own acts; **one OPEN source** (precursor-level seepage at thin points of the hard cap, §42A.2 applied locally as a hypothesis, never on the page) expressed through **four ordinary registers**: air (E15: the thrum and the amp's trip), glass (E33: windows shudder; recorders overload; no lamp), ground and bodies (E45: the site shakes; Lucien's instruments hold while his perception fails), and **still water (E48)**. Seraphine's ladder: baseline → overreach (E33, E45) → one chosen, bounded act (E48). **E48's quiet observable re-chosen: a ripple in still water, precommitted in E47, seen from two posts, one held by Mara's people, against Baz's null log**; the stranger a street musician, not E15's performer. Every card meets D1–D7 field by field; the amplitude peaks at E45 and falls to its lowest at E48; FX2 or below throughout. **Twenty questions** (Q-C1–C5, per-event items).
+- `proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md`. Proposed shapes and values for the A1–A3 overlays' thesis, pressure vectors, character deltas, success criteria and forbidden shortcuts, and B01's entry state (with an optional writer-only `_private` block). **The title and POV weights stay the author's.** Five questions (Q-O1–O5), including adding Lucien to B01's derived POV rotation.
+
+**Source conflicts recorded (not resolved):** §42A.2's "each break becomes a wound" against Veil's precursors (recommended: precursors, not breaks, Q-C3); the amendments' "overreach in E33 and E45" against v4.1b's E33 (reconciled as too many individuals, Q-C5); the A1 widening's recovered E13–E14 map to v4.1b E15–E16, and FX3 may have nothing to attach to; legacy U-class and W3 wording in Mechanica against R5 and V3; Mechanica §35's "grounding rituals" against R7; the release relabel will stale some breadcrumb locators; `book_context_B01.json` derives only Bywater from M01's historical note; the POV rotation omits Lucien; `soft_modulation` LOW against twelve LR units.
+
+**Unchanged:** every rule, card, row, overlay, book context and ruling. The hold stands; the release decision follows the nine-book audit.
+
+END OF ENTRY 204
+
+===============================================================
+
 END RECOVERY LEDGER
