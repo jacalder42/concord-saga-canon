@@ -11582,4 +11582,25 @@ END OF ENTRY 186
 
 ===============================================================
 
+# 187. B03 released; B03 episode architecture, Pass 3 — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an author instruction and a proposal. Nothing is ruled.
+
+**The author, verbatim:** "B3 released, begin work"
+
+**Recorded in** `decisions/B03_HOLD_RELEASE_AUTHOR_INSTRUCTION_2026-09-27.md`: B03 episode architecture is released. The B01 EBCI hold stands.
+
+**Written:** `proposals/B03_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md`. It supersedes pass 2 for working purposes (pass 2 is kept) and is built on the B02 pass-5 exit state, the Veil obligations brief, the six directions, the answered Veil items, the Warehouse ruling and card, the B03 audits and M08–M12.
+- **Identity:** CONSEQUENCE / TRUTH HAS A COST. Five readings of the lean (Baz's map, the Dominion's Bywater rule, Technarc's model, anonymous MT, the folk map) converge on the Warehouse District, which lies southwest of Bywater along B02's drift line.
+- **Scale:** 45 narrative episodes (15/15/15), a three-episode epilogue (E46–E48, `EP`), 6 LR units, 4 supplements. Each episode has its story job and turn.
+- **Key design [P]:** Seraphine refuses the protocol's liaison role and hands it to a Filament rota (E11–E12; payoff E40). Lucien refuses Helena's price and tells Baz the truth before the loss (E16–E17). The first kiss is E24. The Warehouse is E31–E38, with S03 the coordinates post as a visible supplement (M11, A6), Technarc unexpected inside (E33), the Dominion containing (E34), the ensemble separated (E35). Baz frees the child and dies (E37–E38). S04 is the official account misdescribing him (A7). Rex's Detroit scene is E43 (A1). The epilogue gives the reports and the private counterfactual (E46), the naming and the noticed brush (E47; M12, M09), and the ethical return (E48).
+- **§5:** a bounded, observational event model for the Warehouse (direction 3; D5), with the four responsibility strands kept separate; no second death [P].
+- **§6:** the six-direction sign-off check. **§7:** nine questions.
+
+**The hold that stands:** B01 EBCI.
+
+END OF ENTRY 187
+
+===============================================================
+
 END RECOVERY LEDGER
