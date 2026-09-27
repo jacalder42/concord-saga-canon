@@ -10502,4 +10502,38 @@ END OF ENTRY 151
 
 ===============================================================
 
+# 152. B07 regional scenes and POV: author answers with qualifications — 2026-09-27
+
+**The author:** *"Yes"*, to recording the qualified answers put to him as his answers to the B07
+audit's six questions (§151).
+
+**Recorded:** `decisions/B07_REGIONAL_SCENES_AND_POV_AUTHOR_ANSWERS_2026-09-27.md`. The qualified
+answers are quoted there in full.
+
+**Q1–Q5, approved design:**
+
+- **Q1:** NOLA and the westward road are the planned lived settings. An earned outside scene is still
+  allowed.
+- **Q2:** the receipts are a pool, not a checklist. Each needs a known recipient and a local source.
+  Rex's Santa Fe news is distinct from his B08 artefact. Marrakesh and Vienna are held.
+- **Q3:** the crew leaves by the Atchafalaya corridor; the route and its cost are open.
+- **Q4:** the POV shape is a diagnostic only. **No numbers go into `book_context_B07.json`** before
+  scenes are assigned, and there is no Elias POV.
+- **Q5:** Lacuna has POV at the funeral and the break; it is optional in A2.
+
+**Q6, lean:** Uptown for the break, provisional until the break's cause is designed. The Riot's Tremé
+location is not ruled.
+
+**Corrections:** a dated note on the audit fixes two points without rewriting its body.
+
+- It had listed *"Tahl's recordings"* as a B07 Santa Fe carrier.
+- It had called Tremé *"the Riot's ground"*.
+
+**Not changed:** every row, card and status, and `book_context_B07.json`. **The B02/B03 hold
+stands.** **Checks:** canon scope 0.
+
+END OF ENTRY 152
+
+===============================================================
+
 END RECOVERY LEDGER

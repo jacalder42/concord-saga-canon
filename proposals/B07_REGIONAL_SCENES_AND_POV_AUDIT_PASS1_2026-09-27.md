@@ -181,3 +181,21 @@ authored"*. That is an additive edit, recorded as design.
 - The B07 event card's open items stay open: Kade's post content, and the order of the post and the
   break.
 - **The B08 end order stays deferred. The B02/B03 hold stands.**
+
+---
+
+## Corrections and answers, 2026-09-27
+
+The author accepted qualified answers to §6. They are recorded in
+`decisions/B07_REGIONAL_SCENES_AND_POV_AUTHOR_ANSWERS_2026-09-27.md`. Two corrections to this audit
+follow:
+
+- **§3, the Santa Fe row:** *"Tahl's recordings"* should not be listed as a B07 carrier. **Rex's B07
+  Santa Fe news is distinct from the artefact** he carries in B08, whose recovery and custody stay
+  open.
+- **§6 Q6:** *"Tremé avoided because it was the Riot's ground"* overstates the source. The Riot is
+  ruled for B04, but **its Tremé location is not ruled**; it comes only from an unapproved (H) city
+  palette. Avoiding Tremé is an editorial reason.
+
+The body above is kept as written.
+
