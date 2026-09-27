@@ -303,6 +303,39 @@
       "_direction_note": "Trilogies do not all run the same way. T1 and T2 RISE; T3 FALLS - it opens at its maximum in B07 and ends at its minimum after the Mending. Any per-trilogy anchoring must define 1 as the trilogy's MINIMUM and 5 as its MAXIMUM, never as \"opening\" and \"peak\": for T3 the opening IS the peak, and the opening-baseline form would invert the scale."
     }
   },
+  "breadcrumb_grid": {
+    "_status": "Schema for grids/breadcrumbs.csv, activated 2026-09-27 by author instruction (decisions/PROGRESSIVE_RESOLUTION_SEQUENCE_AUTHOR_INSTRUCTION_2026-09-27.md; proposals/BREADCRUMB_LEDGER_ACTIVATION_2026-09-27.md). The first nine columns are the original header; payoff_dependency, payoff_function and payoff_locator were appended when the file had no rows. A breadcrumb's identity is its function and payoff, not an episode: SIDs are locators and may move. Checked by tools/validate_canon.py CHK_BREADCRUMB_GRID (structure only; whether a plant is worth keeping is editorial).",
+    "columns": [
+      "breadcrumb_id",
+      "type",
+      "what_is_hinted",
+      "introduced_in_SID",
+      "reinforced_in_SIDs",
+      "payoff_milestone_id",
+      "visibility_level",
+      "status",
+      "notes",
+      "payoff_dependency",
+      "payoff_function",
+      "payoff_locator"
+    ],
+    "id_pattern": "^BC-[A-Z0-9]+(-[A-Z0-9]+)*$",
+    "type_values": ["plant", "seed", "ladder", "mobius", "callback"],
+    "visibility_values": ["hidden", "subtle", "legible", "overt"],
+    "status_values": ["placed", "provisional", "unplaced", "retired"],
+    "payoff_dependency_values": ["LOCKED", "SOFT", "PROVISIONAL"],
+    "payoff_dependency_meanings": {
+      "LOCKED": "The payoff is ruled. Precise planting is safe. Requires payoff_milestone_id naming a `ruled` milestone row.",
+      "SOFT": "The payoff is approved design. Plant polyvalently, so more than one execution can satisfy it.",
+      "PROVISIONAL": "The payoff sits in provisional episode architecture. Plant directionally; upstream continuity must not depend on the exact placement."
+    },
+    "status_meanings": {
+      "placed": "The plant is in approved architecture (or locked narrative order).",
+      "provisional": "The plant is in provisional architecture (Neon or Loom episode architecture).",
+      "unplaced": "A payoff needs a plant that no architecture carries yet. introduced_in_SID may be empty.",
+      "retired": "Superseded; kept for provenance."
+    }
+  },
   "grid_purposes": {
     "_status": "Recorded 2026-09-20 so two grids cannot end up scoring the same quantity twice. Ledger section 64.",
     "grids/milestones_payoffs.csv": "NARRATIVE pressure, per thread. `thread_pressure_before/after` measure the thread named in that row's `thread` column - what is happening in the story. Calibrated per trilogy, extensible (see milestone_grid.pressure_scale).",

@@ -157,6 +157,9 @@ Recorded so the reports are not read as stronger than they are.
   are editorial judgements about story content. This validator enforces the mechanical
   layer — identifier format, field names, controlled vocabulary — which is the part a
   script can settle. The editorial five still need a reader.
+  *(Added 2026-09-27, ledger §198:* `CHK_BREADCRUMB_GRID` *now checks the breadcrumb
+  ledger's structure: schema, enums, payoff rows, LOCKED needing a ruled row. Whether a
+  plant earns its place is still `CHK_BREADCRUMBS`, an editorial judgement.)*
 - **Band values are not judged, only checked for coherence.** `CHK_BANDS` cannot tell
   a well-reasoned band from a careless one. 24 of the 27 act bands are marked
   `basis: inferred` and are placeholders; the checker treats them exactly like the 3

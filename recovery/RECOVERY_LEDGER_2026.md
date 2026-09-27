@@ -11843,4 +11843,28 @@ END OF ENTRY 197
 
 ===============================================================
 
+# 198. The breadcrumb ledger goes live; the macro-Möbius card — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records the activation of a grid and a design proposal, under the author's instruction of §197 (item 3 and item 4). Nothing is ruled.
+
+**`grids/breadcrumbs.csv` is live**, with **32 rows** (14 LOCKED, 17 SOFT, 1 PROVISIONAL payoffs):
+- **Three columns were appended** to the header while it had no rows (`payoff_dependency`, `payoff_function`, `payoff_locator`). The original nine are unchanged, and the file keeps its CRLF line endings.
+- **The schema** is declared in `rules/canon_rules.json` `breadcrumb_grid` (a new key; nothing else in the file changed).
+- **`tools/validate_canon.py` gains CHK_BREADCRUMB_GRID** (structure only): header, `BC-` ids, four enums, the payoff row resolving and not retired, and **a LOCKED payoff must name a `ruled` row**. **Nine self-tests** are added (153 in all, OK). Canon scope: 0 violations.
+- **Identity is function and payoff; SIDs are locators.**
+
+**Written:**
+- `proposals/BREADCRUMB_LEDGER_ACTIVATION_2026-09-27.md`: the schema, the three classes, what was seeded and what was left out on purpose (short scene setups; Baz's Life/Reward scenes, which stay ordinary; Rosette as a person, not a hint; the December ten-seed layer, for the audit), and how the ledger is kept.
+- `proposals/MACRO_MOBIUS_PROLOGUE_EPILOGUE_DESIGN_2026-09-27.md`: the fixed points, **five mirror axes** (vantage, the pair, communication, the law, the cut), an execution standard, guardrails, and **two questions**.
+
+**Findings:**
+1. **Tahl's triangle is unplaced against a LOCKED payoff** (M53; the author's locked 11-29 design makes it his MT signature). No Veil or Neon post carries it. Recommended: a mark from B02 plus Neon familiarity, decided at the nine-book audit.
+2. **The southwest ladder's explicit B03 line** (v4.1b checksum) is not in B03's passes. Low severity; for the audit.
+
+**Unchanged:** every ruling, row status, card and rule text. The B01 EBCI hold stands.
+
+END OF ENTRY 198
+
+===============================================================
+
 END RECOVERY LEDGER

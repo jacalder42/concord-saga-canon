@@ -1148,5 +1148,67 @@ class TestRetiredTerms(unittest.TestCase):
                                        vc.is_canon_scope(path), hits, [])
         self.assertEqual([str(h) for h in hits], [])
 
+
+LIVE_BREADCRUMBS = os.path.join(vc.REPO, "grids", "breadcrumbs.csv")
+BC_HEADER = ",".join(RULES["breadcrumb_grid"]["columns"]) + "\n"
+BC_STATUS = {"M01": "proposed", "M20": "ruled", "M22": "retired"}
+
+
+def bc_row(bid="BC-FIXTURE", typ="plant", intro="S1.T1.B01.A1.E01", mid="M20",
+           vis="subtle", st="placed", dep="LOCKED", pf="a payoff"):
+    return f"{bid},{typ},a hint,{intro},,{mid},{vis},{st},note,{dep},{pf},B06 A3\n"
+
+
+def bc_problems(content, status=None):
+    d = tempfile.mkdtemp()
+    fp = os.path.join(d, "breadcrumbs.csv")
+    with open(fp, "w", encoding="utf-8", newline="") as fh:
+        fh.write(content)
+    out = []
+    vc.check_breadcrumb_grid(fp, RULES, out,
+                             milestone_status=BC_STATUS if status is None else status)
+    return [v.check for v in out]
+
+
+class BreadcrumbGrid(unittest.TestCase):
+    """Activated 2026-09-27 (ledger 198). Structure only, never editorial worth."""
+
+    def test_the_live_ledger_passes(self):
+        with open(LIVE_BREADCRUMBS, encoding="utf-8", newline="") as fh:
+            content = fh.read()
+        self.assertEqual(bc_problems(content, status=vc.load_milestone_status()), [])
+
+    def test_a_good_row_passes(self):
+        self.assertEqual(bc_problems(BC_HEADER + bc_row()), [])
+
+    def test_header_drift_fails(self):
+        self.assertEqual(bc_problems(BC_HEADER.replace("payoff_function", "payoff_fn") + bc_row()),
+                         ["CHK_BREADCRUMB_GRID"])
+
+    def test_locked_needs_a_ruled_payoff(self):
+        self.assertEqual(bc_problems(BC_HEADER + bc_row(mid="M01")), ["CHK_BREADCRUMB_GRID"])
+        self.assertEqual(bc_problems(BC_HEADER + bc_row(mid="M01", dep="SOFT")), [])
+        self.assertEqual(bc_problems(BC_HEADER + bc_row(mid="")), ["CHK_BREADCRUMB_GRID"])
+
+    def test_payoff_must_resolve_and_not_be_retired(self):
+        self.assertEqual(bc_problems(BC_HEADER + bc_row(mid="M99", dep="SOFT")), ["CHK_BREADCRUMB_GRID"])
+        self.assertEqual(bc_problems(BC_HEADER + bc_row(mid="M22", dep="SOFT")), ["CHK_BREADCRUMB_GRID"])
+
+    def test_enums_and_ids(self):
+        for bad in (bc_row(typ="hint"), bc_row(vis="loud"), bc_row(st="done"),
+                    bc_row(dep="HARD"), bc_row(bid="bc-lower")):
+            self.assertEqual(bc_problems(BC_HEADER + bad), ["CHK_BREADCRUMB_GRID"], bad)
+
+    def test_duplicate_id_fails(self):
+        self.assertEqual(bc_problems(BC_HEADER + bc_row() + bc_row()), ["CHK_BREADCRUMB_GRID"])
+
+    def test_placed_needs_a_locator_and_unplaced_does_not(self):
+        self.assertEqual(bc_problems(BC_HEADER + bc_row(intro="")), ["CHK_BREADCRUMB_GRID"])
+        self.assertEqual(bc_problems(BC_HEADER + bc_row(intro="", st="unplaced")), [])
+
+    def test_orphan_hint_fails(self):
+        self.assertEqual(bc_problems(BC_HEADER + bc_row(pf="")), ["CHK_BREADCRUMB_GRID"])
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

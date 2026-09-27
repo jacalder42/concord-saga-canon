@@ -43,6 +43,14 @@ CHK_RETIRED_TERMS  Names retired by ruling (`retired_terms` in canon_rules.json)
                  them as evidence is legitimate. Case-insensitive and whole-word, so
                  a capitalised heading is caught. Pinned exceptions live in
                  `retired_terms.allowlist`. Added 2026-09-25, ledger 76.
+CHK_BREADCRUMB_GRID  `grids/breadcrumbs.csv` against `breadcrumb_grid` in
+                 canon_rules.json: header, unique `BC-` ids, the four enums, and
+                 `payoff_milestone_id` resolving to a milestone row that is not
+                 retired. A LOCKED payoff must name a `ruled` row: that is what
+                 makes precise planting safe. Placed plants need an introducing
+                 SID. Structure only; whether a plant earns its place is
+                 editorial (rules/validation_checks.json CHK_BREADCRUMBS). Added
+                 2026-09-27, ledger 198.
 CHK_VT_CAP       `VT` Glimpses are capped at 10-12 across all nine books
                  (`supplement_system.constraints`). Exceeding the maximum is a
                  violation; being under the minimum is not, since the saga is
@@ -523,6 +531,102 @@ def check_milestone_grid(path, rules, vocab, out, notices):
                 out.append(Violation(
                     "CHK_GRID_STATUS", rel(path), lineno, st,
                     "status expects one of " + ", ".join(sorted(allowed))))
+
+
+BREADCRUMB_GRID = "grids/breadcrumbs.csv"
+
+
+def load_milestone_status(path=None):
+    """milestone_id -> status, read from the milestone grid; {} if unreadable."""
+    path = path or os.path.join(REPO, MILESTONE_GRID)
+    try:
+        with open(path, encoding="utf-8", newline="") as fh:
+            return {r.get("milestone_id", "").strip(): r.get("status", "").strip().lower()
+                    for r in csv.DictReader(fh) if r.get("milestone_id", "").strip()}
+    except OSError:
+        return {}
+
+
+def check_breadcrumb_grid(path, rules, out, milestone_status=None):
+    """Structural checks over the breadcrumb ledger (activated 2026-09-27).
+
+    Episode numbers in a breadcrumb are locators, not identity, so nothing here
+    pins a plant to an episode; CHK_SID_FORMAT already checks the SIDs' shape.
+    """
+    spec = rules.get("breadcrumb_grid")
+    if spec is None:
+        return
+    try:
+        with open(path, encoding="utf-8", newline="") as fh:
+            rows = list(csv.reader(fh))
+    except OSError:
+        return
+    if not rows:
+        return
+    header = [c.strip() for c in rows[0]]
+    if header != spec["columns"]:
+        out.append(Violation(
+            "CHK_BREADCRUMB_GRID", rel(path), 1, ",".join(header),
+            "breadcrumb grid header does not match breadcrumb_grid.columns. "
+            "Expected: " + ",".join(spec["columns"])))
+        return
+    idx = {c: i for i, c in enumerate(header)}
+
+    def cell(row, col):
+        i = idx[col]
+        return row[i].strip() if i < len(row) else ""
+
+    if milestone_status is None:
+        milestone_status = load_milestone_status()
+    id_re = re.compile(spec.get("id_pattern", r"^BC-"))
+    enums = {
+        "type": set(spec.get("type_values", [])),
+        "visibility_level": set(spec.get("visibility_values", [])),
+        "status": set(spec.get("status_values", [])),
+        "payoff_dependency": set(spec.get("payoff_dependency_values", [])),
+    }
+    seen = {}
+    for lineno, row in enumerate(rows[1:], 2):
+        if not any(c.strip() for c in row):
+            continue
+        bid = cell(row, "breadcrumb_id")
+        if not id_re.match(bid):
+            out.append(Violation("CHK_BREADCRUMB_GRID", rel(path), lineno, bid,
+                                 "breadcrumb_id must match " + spec.get("id_pattern", "")))
+        elif bid in seen:
+            out.append(Violation("CHK_BREADCRUMB_GRID", rel(path), lineno, bid,
+                                 f"duplicate breadcrumb_id; first seen at line {seen[bid]}"))
+        else:
+            seen[bid] = lineno
+        for col, allowed in enums.items():
+            val = cell(row, col)
+            if allowed and val not in allowed:
+                out.append(Violation(
+                    "CHK_BREADCRUMB_GRID", rel(path), lineno, val,
+                    f"{bid} {col} expects one of {', '.join(sorted(allowed))}"))
+        mid = cell(row, "payoff_milestone_id")
+        dep = cell(row, "payoff_dependency")
+        if mid:
+            st = milestone_status.get(mid)
+            if st is None:
+                out.append(Violation("CHK_BREADCRUMB_GRID", rel(path), lineno, mid,
+                                     f"{bid} payoff_milestone_id is not a milestone_id"))
+            elif st == "retired":
+                out.append(Violation("CHK_BREADCRUMB_GRID", rel(path), lineno, mid,
+                                     f"{bid} pays off a retired milestone"))
+            elif dep == "LOCKED" and st != "ruled":
+                out.append(Violation(
+                    "CHK_BREADCRUMB_GRID", rel(path), lineno, mid,
+                    f"{bid} is LOCKED but {mid} is `{st}`; LOCKED needs a ruled payoff"))
+        elif dep == "LOCKED":
+            out.append(Violation("CHK_BREADCRUMB_GRID", rel(path), lineno, "",
+                                 f"{bid} is LOCKED but names no payoff_milestone_id"))
+        if cell(row, "status") in ("placed", "provisional") and not cell(row, "introduced_in_SID"):
+            out.append(Violation("CHK_BREADCRUMB_GRID", rel(path), lineno, "",
+                                 f"{bid} is {cell(row, 'status')} but has no introduced_in_SID"))
+        if not cell(row, "payoff_function"):
+            out.append(Violation("CHK_BREADCRUMB_GRID", rel(path), lineno, "",
+                                 f"{bid} has no payoff_function: a plant without a payoff is an orphan"))
 
 
 def _rank(vocab, dim, token):
@@ -1007,6 +1111,8 @@ def main():
                       violations, vt_rows, optional_fields, notices)
             if rel(path) == MILESTONE_GRID:
                 check_milestone_grid(path, rules, vocab, violations, notices)
+            if rel(path) == BREADCRUMB_GRID:
+                check_breadcrumb_grid(path, rules, violations)
             with open(path, encoding="utf-8") as fh:
                 check_sids(path, fh.read(), sidfmt, violations)
         elif path.endswith(".json"):
