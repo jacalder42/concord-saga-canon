@@ -10664,4 +10664,36 @@ END OF ENTRY 157
 
 ===============================================================
 
+# 158. Adversarial review answered: six directions, Mira seed, Warehouse inference; clean-ups — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers as **approved design** and two approved clean-ups. No canon, card, row status, row description or ruling changes. **Both holds stand** (B01 EBCI; B02/B03 episode architecture).
+
+**The author, verbatim:**
+
+> 1- subtle
+> 2- no blame just inference
+> 3-sure
+>
+> Yes on six directions
+>
+> Yes to optional clean ups
+
+**Recorded in** `decisions/ADVERSARIAL_REVIEW_DIRECTIONS_AUTHOR_ANSWERS_2026-09-27.md`:
+
+1. **Mira:** Veil carries a subtle Mira seed, with no named appearance. Its book, place and form are open.
+2. **The Warehouse:** "no blame just inference". Claude's reading, marked as a reading: the post → crowd → delay chain exists only as inference, by characters and readers. The narrator does not certify it, and no official report settles it. The crowd hypothesis stays a hypothesis.
+3. **The B02 pass** offers options for a civic decision on uncertain evidence (the review's C02). The author picks.
+4. **The review's six directions** are approved design: the sign-off criteria for B02/B03 architecture. They are not a quota, an episode count or a new gate. The repair options in C01–C13 are not approved individually.
+
+**Edits:**
+
+- Grid **M10** and **M11**: an approved-design note on answer 2, prepended to their notes. No description or status changes.
+- `rules/saga_context_S1.json`: milestone count 36 → 57; the status now reads "23 ruled, 29 proposed, 5 retired"; the `saga_timeline` row count updated. The old strings are kept in `_count_was`, `_status_was` and `_saga_timeline_was`.
+- Supersession notices at the head of `proposals/concord-2026/BOOK_PURPOSE_CARDS_PASS1.md` and `proposals/concord-2026/WHOLE_SAGA_STRUCTURAL_AUDIT_PASS1.md`. They list the plot particulars later rulings override: Baz's death in B03, Tahl's in B06, no swamp knowledge before B09 A3, the B08 wound circuit, M52. The bodies are unchanged.
+- `decisions/README.md` indexed. CLAUDE.md §4.1 (Mira; the Warehouse) and §8 updated.
+
+END OF ENTRY 158
+
+===============================================================
+
 END RECOVERY LEDGER

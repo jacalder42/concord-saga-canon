@@ -1,6 +1,16 @@
 # Concord 2026 — Whole-Saga Structural Audit, Pass 1
 
 Status: EDITORIAL ANALYSIS / NON-CANONICAL
+
+> **Supersession notice, 2026-09-27** (author-approved clean-up, `decisions/ADVERSARIAL_REVIEW_DIRECTIONS_AUTHOR_ANSWERS_2026-09-27.md` §3; ledger §158).
+> Use this pass for its **general diagnoses** only, such as the risks it names for B02, B05 and B08. **Do not use its plot particulars as a current brief.** Later rulings override these:
+> - **Baz dies at the Warehouse at the end of B03**, not in B04, and the cast learns at the start of B04 (M10; the 09-19 ruling).
+> - **Tahl dies at the end of B06**, at the Santa Fe rupture (M20; `decisions/SAGA_STRUCTURE_ADJUDICATION_AUTHOR_ANSWERS_2026-09-27.md`).
+> - **The factions do not learn the swamp is the Mending site until B09 A3** (ruled 09-26; M51). There is no earlier convergence on the swamp.
+> - **B08 is the wound circuit, Santa Fe → Mound City → Serpent Mound**, with Honey Island repaired last (`decisions/LOOM_CHAIN_KNOWLEDGE_AND_MENDING_COST_AUTHOR_RULING_2026-09-26.md`).
+> - **The B09 confrontation is M52:** Elias attacks Rex, Kade attacks Rex fearing for Elias, and Tahl's echo flares and stops him.
+> - Current state is in the milestone grid, `decisions/` and CLAUDE.md §8. The body below is unchanged.
+
 Purpose: evaluate the recovered nine-book architecture as it currently exists before any structural rewrite.
 
 This pass does **not** propose beat-level fixes. It identifies strengths, weak bridges, repetition risks, and questions that should be answered before Episode Expansion resumes.
