@@ -8,6 +8,16 @@ followed by the standalone evaluation the author asked for:
 
 > **Answered 2026-09-27** (`decisions/VEIL_TRILOGY_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §193): *"1-10 yes"*. The amendments are in `proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md`. The body below is unchanged.
 
+> **Corrected 2026-09-27** (ledger §195; `proposals/VEIL_AUDIT_REFINEMENTS_2026-09-27.md` §1), after ChatGPT's independent audit (ledger §194). Six claims below overstate the evidence:
+> - *"never staged one-on-one"*: B02 E44 pairs them; the gap is a distinctive personal exchange.
+> - *"a life she was not there for"*: nothing establishes her presence could have prevented the death.
+> - B01 *"No opposition"*: no named antagonist, but real resistance.
+> - B01 *"Act III is thin"* by episode count: withdrawn.
+> - B03 *"the strongest standalone"*: the strongest climax and culmination, not the cleanest entry point.
+> - B03's denouement *"earned"* and *"T3 is the one fix"*: execution checks, not conclusions.
+>
+> The body below is unchanged.
+
 **It edits nothing.** No book, card, row or rule is changed. §9 lists recommended amendments and §10
 the questions. **The B01 EBCI hold stands**: the author releases it after this audit (B5).
 

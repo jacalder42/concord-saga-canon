@@ -11776,4 +11776,27 @@ END OF ENTRY 194
 
 ===============================================================
 
+# 195. Claude's response to the independent Veil audit; refinements proposed — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a proposal and a correction note to Claude's own report. Nothing is ruled.
+
+**Context:** ChatGPT's independent audit and comparison (ledger §194, `reports/VEIL_INDEPENDENT_NOVEL_AUDIT_AND_CLAUDE_COMPARISON_2026-09-27.md`), relayed by the author. Its ledger entry was checked: additions only.
+
+**Written:** `proposals/VEIL_AUDIT_REFINEMENTS_2026-09-27.md`.
+- **§1 accepts six corrections to Claude's audit:** "never staged one-on-one" (B02 E44 pairs them); "a life she was not there for" (unestablished causation); B01 "no opposition"; B01 "Act III thin" by count (withdrawn); B03 "strongest standalone" (strongest culmination instead); the denouement and romance "fix" claims (execution checks). The audit report carries a dated correction note; its body is unchanged.
+- **§2 proposes concrete refinements for V01–V06:**
+  - V01, B01 E48: "arrive together, and carry one". A stranger is steadied; the others are taken by the trio and Mara's people; the cost is bodily.
+  - V02, B02 E47: without drift the Dominion extends the zone by the crude rule; the over-wide cordon displaces more households; Lucien sees it; B03 E09 answers it.
+  - V03, B03 E29/E32/E36: the late unload is declined, in the bay that collapses.
+  - V04, B03 E07: Detroit's failing building heat as a condition, not a repairman.
+  - V05, B03 E13: a complementary difference; Baz sees what the record drops.
+  - V06, B03 E35: the father's agency; the rota's work as part of the answer.
+- V07–V08 are carried as EBCI execution tests.
+
+**Eight questions** are put. **The amendments file stands until they are approved. The B01 EBCI hold stands.**
+
+END OF ENTRY 195
+
+===============================================================
+
 END RECOVERY LEDGER
