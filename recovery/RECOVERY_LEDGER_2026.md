@@ -10146,4 +10146,36 @@ END OF ENTRY 140
 
 ===============================================================
 
+# 141. Saga-lock check — 2026-09-27
+
+**The author:** *"… then proceed"*. The next step is CLAUDE.md §9 step 2.
+
+**Written:** `reports/SAGA_LOCK_CHECK_2026-09-27.md`.
+
+**Verdict:** locked enough to begin B02/B03 episode architecture, subject to two confirmations.
+
+**What the report holds:**
+
+- the ruled and approved anchors for each book;
+- the protected negative space, all ruled or approved;
+- the remaining risks;
+- the Veil handoff checklist for step 3.
+
+**Two confirmations for the author:**
+
+1. **M07's reading.** B02's *"durable relationship coordinate"* is read as a deepening, undeclared
+   bond. That leaves the first kiss to B03 and the commitment to B05 (M56). The row is not edited,
+   because its note records a 09-19 ruling.
+2. **M36's disposition.** Recommended: fold it into M53's implied triangle. Its status would become
+   `retired`, which is destructive and needs approval.
+
+**Recommended order:** the confirmations → Tahl's death specifics (an options card) → B02, then B03,
+episode architecture.
+
+**Not changed:** everything. **Checks:** canon scope 0.
+
+END OF ENTRY 141
+
+===============================================================
+
 END RECOVERY LEDGER
