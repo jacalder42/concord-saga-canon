@@ -12331,4 +12331,22 @@ END OF ENTRY 222
 
 ===============================================================
 
+# 223. The combined B03 + Veil trilogy EBCI audit — 2026-09-27
+
+**Status:** LEDGER ENTRY. The stop after B03 (§221, §222). An editorial report plus brief-level corrections across B01–B03, inside approved design.
+
+**Written:** `reports/B03_AND_VEIL_TRILOGY_EBCI_AUDIT_2026-09-27.md`, Claude's own audit (the author ended independent reads unless an ambiguity appears), over all 144 Veil packets. **All twelve tests pass**; B03 answers its own question (*what does a rule that waits for certainty cost?*); escalation is carried by consequence and ethics more than spectacle.
+
+**The main finding, corrected:** **ten narrative briefs before B03 E38 told the writer Baz dies** (*no death foreshadowing*, *before the loss*, *worth losing*, *B04's grief*, *an ordinary goodbye*, *no ominous framing*): B01 E17, E18, E36; B02 E18, E45; B03 E08, E13, E17, E26, E30. Guards meant to protect him organised his life around dying on the prose-facing layer. Each brief line is restated positively and the guard moves to the control layer (*"Guard, control layer only"*). **The adversarial Baz test: yes, after the correction.** **Also corrected:** forward pointers in B03 briefs (E16, E17, E43's *"Rex's Veil foreshadow"*) moved to control notes; **B03 E42's *"a Resonance event"*** (the term of art, never before in anyone's mouth in Veil) becomes *"the same kind of thing as the pulses"*.
+
+**Measures:** Seraphine leads B01 21 (shared included), B02 11, B03 6 (Act II: E18 only); Baz leads 15 of B03's 48; B03 fun ends at E26.
+
+**For the author:** Q-V3-1 (E21: Seraphine at the household's door; recommended yes), Q-V3-2 (*Resonance* enters public language in Neon, not Veil; recommended), Q-V3-3 (retire A3's stale W4 exception at the pre-pass-3 SID `A3.E14`; W4 is Landfall, not a private brush; recommended), Q-V3-4 (B03's calendar `[P]`, RES RUPTURE at E36–E38, the `EP` overlay as a positional home; recommended confirm). **No architecture blocks prose. Recommendation: Veil moves into prose preparation**, step 6, starting with a two-packet Sudowrite pilot (B01 E31, E33).
+
+**Checks:** canon scope 0 violations (343 files); 170 self-tests pass; no drift.
+
+END OF ENTRY 223
+
+===============================================================
+
 END RECOVERY LEDGER
