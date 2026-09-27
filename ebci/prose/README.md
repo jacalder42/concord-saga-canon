@@ -1,8 +1,9 @@
 # ebci/prose/ — prose packets
 
-Status: PRODUCTION LAYER, PILOT. Two B01 packets (E31, E33) are built for the author's review
-(`decisions/VEIL_PROSE_PREPARATION_AND_PROSE_PACKET_PILOT_AUTHOR_RULING_2026-09-27.md`). **No
-canonical prose is written yet.** Nothing else is derived until the pilot passes.
+Status: PRODUCTION LAYER. **The pilot passed 09-27; the format is solved.** B01 Act I's packets are derived and swept
+(`decisions/B01_ACT_I_PROSE_PACKETS_AND_WRITER_PROFILE_AUTHOR_RULING_2026-09-27.md`). **No canonical prose is
+written yet; Act II is not derived.** Drafting input: the stable writer profile + the episode's packet + the
+preceding prose. **No layer between packets and prose** (no treatments, dialogue plans or beat sheets).
 
 ## The derivation rule
 

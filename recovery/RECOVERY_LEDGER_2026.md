@@ -12369,4 +12369,20 @@ END OF ENTRY 224
 
 ===============================================================
 
+# 225. The prose-packet pilot passes; B01 Act I prose packets — 2026-09-27
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_ACT_I_PROSE_PACKETS_AND_WRITER_PROFILE_AUTHOR_RULING_2026-09-27.md` (production ruling).
+
+**Pilot edits:** E31's *"if she is named she is Lacuna"* becomes *"A local musician plays. Tonight she is only the music."* (the identity stays in the control layer); E33 drops *"Baz sees what Lucien does, not what he perceives"*, and *How Baz sees* reads *"Keep what he observes separate from what anyone thinks it means. He records the contradiction; he doesn't explain it."* The format is treated as solved; no fields added.
+
+**Built:** 21 B01 Act I prose packets in `ebci/prose/B01/` (the prologue, E01–E17, S01–S03; about 2,950 words), variable-shape, from the Narrative Briefs only. **Swept** (`reports/B01_ACT_I_PROSE_PACKET_SWEEP_2026-09-27.md`) for future knowledge, database leakage and scene theft: four defects fixed (E02 the rule's words left to prose; E04 a provisional *Uptown* removed; E15 crowd imagery trimmed; S02 wording). Kept out of the writer's text: the prologue's names, the E01 site's significance, Lucien's sender, S02's list of named entities.
+
+**Next:** the stable J.A. Calder writer profile, recovered and consolidated from existing material; then the author's review. **Act II is not derived; no canonical prose.**
+
+**Checks:** canon scope 0 violations (367 files).
+
+END OF ENTRY 225
+
+===============================================================
+
 END RECOVERY LEDGER
