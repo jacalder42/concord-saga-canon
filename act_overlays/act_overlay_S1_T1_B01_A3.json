@@ -4,6 +4,7 @@
   "book_id": "B01",
   "trilogy_id": "T1",
   "_authored_fields_basis": "APPROVED DESIGN 2026-09-27 (Tier B), not ruled canon. Values from proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md, approved as drafted (Q-O1-Q-O3) in decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md. Ledger section 205. Applies to act_thesis, deltas.pressure_vectors, deltas.character_state_deltas, act_success_criteria and forbidden_shortcuts only. Episode numbers are v4.1b labels (E37 is read before E36, E44 before E43); relabel at release (OQA B3). Envelope, exceptions and soft_modulation are untouched.",
+  "_relabel_note": "RELABELLED 2026-09-27 at the B01 A2/A3 EBCI release (OQA B3, the file order is the reading order; decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md): old E37 'Baz and Lucien, Off the Clock' is now E36; old E36 'The City Reacts' is now E37; old E44 'Something Strange That Doesn't Hurt' is now E43; old E43 'When Grounding Fails' is now E44. The carriers below use the new labels. The success criteria and forbidden shortcuts are kept as written; where they speak of 'E37 before E36', 'E44 before E43' or 'labels corrected only at release', they describe the pre-release labels, and the relabel is that correction.",
   "act_thesis": "Pattern becomes systemic. Disturbances cross neighbourhoods and systems faster than the city can close them out; civic coordination, not spectacle, carries the failure (E40–E41). Care helps people without controlling the phenomenon (E43). The rebound breaks Lucien's model and turns shared burden into usable behaviour (E45). After the Wide Quiet and the Square's human memory, the trio arrive together at a predicted quiet pulse and Seraphine carries one, at bodily cost: understanding without control. The city knows something is happening; nobody knows enough.",
   "_act_thesis_source": "v4.1b Act III heading, §13 Act III jobs, E48 Möbius inversion and book-end state; VAA §4;\nM03.",
   "escalation_permissions": {
@@ -57,7 +58,7 @@
         "thread": "filaments",
         "movement": "practice as stabilisation → practice as human care under instability",
         "carriers": [
-          "E43 (label)",
+          "E44",
           "E41"
         ],
         "source": "v4.1b E43 Filament state; BC-FILAMENT-ETHIC"
@@ -92,7 +93,7 @@
         "movement": "relief: exhausted humour and care; harmless wonder; the continuity room",
         "carriers": [
           "E42",
-          "E44 (label)",
+          "E43",
           "S06"
         ],
         "source": "v4.1b §6 (\"41–44\"), S06"
@@ -161,7 +162,7 @@
         "to": "care persists; claims of control weaken; the notebook holds community memory under load; she does not join the team",
         "carriers": [
           "E41",
-          "E43"
+          "E44"
         ],
         "source": "v4.1b §4, Möbius additions"
       },

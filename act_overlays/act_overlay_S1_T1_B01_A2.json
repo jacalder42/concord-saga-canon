@@ -4,6 +4,7 @@
   "book_id": "B01",
   "trilogy_id": "T1",
   "_authored_fields_basis": "APPROVED DESIGN 2026-09-27 (Tier B), not ruled canon. Values from proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md, approved as drafted (Q-O1-Q-O3) in decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md. Ledger section 205. Applies to act_thesis, deltas.pressure_vectors, deltas.character_state_deltas, act_success_criteria and forbidden_shortcuts only. Episode numbers are v4.1b labels (E37 is read before E36, E44 before E43); relabel at release (OQA B3). Envelope, exceptions and soft_modulation are untouched.",
+  "_relabel_note": "RELABELLED 2026-09-27 at the B01 A2/A3 EBCI release (OQA B3, the file order is the reading order; decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md): old E37 'Baz and Lucien, Off the Clock' is now E36; old E36 'The City Reacts' is now E37; old E44 'Something Strange That Doesn't Hurt' is now E43; old E43 'When Grounding Fails' is now E44. The carriers below use the new labels. The success criteria and forbidden shortcuts are kept as written; where they speak of 'E37 before E36', 'E44 before E43' or 'labels corrected only at release', they describe the pre-release labels, and the relabel is that correction.",
   "act_thesis": "Investigation becomes prediction. Baz arrives as a person before he is a method; the trio's three ways of knowing (feel → structure → verify) turn scattered incidents into a falsifiable local window. Restraint is rewarded (E29) and promised pleasure is paid (E31). The predicted pulse (E33) proves the system is not random while control fails; bodies and care come before explanation (E34–E35); the city begins to adapt as the cycle shortens (E36, the act close).",
   "_act_thesis_source": "v4.1b Act II heading, §13 Act II jobs, E20 trio grammar, E33 payoff, E36 Act II exit.",
   "escalation_permissions": {
@@ -22,7 +23,8 @@
     "exceptions": [],
     "basis": "observed",
     "source": "proposals/concord-2026/ENVELOPE_INTERIM_VALUES_V2_2026-09-19.md",
-    "basis_note": "E17/E18 at U2->U3, W1, FX0-FX1"
+    "basis_note": "E17/E18 at U2->U3, W1, FX0-FX1",
+    "_basis_note_numbering": "Added 2026-09-27 at the A2/A3 release: basis_note uses the recovered 12-09 packet numbering (its E17/E18 are recovered labels, not v4.1b's). The note is kept as written."
   },
   "deltas": {
     "pressure_vectors": [
@@ -34,7 +36,8 @@
           "E25",
           "E27",
           "E33",
-          "E35–E36"
+          "E35",
+          "E37"
         ],
         "source": "v4.1b E25, E27, E33, E36; CC §3"
       },
@@ -55,7 +58,7 @@
           "E18–E19",
           "E27",
           "E33",
-          "E36"
+          "E37"
         ],
         "source": "v4.1b E18–E19, E36"
       },
@@ -104,7 +107,7 @@
           "S04",
           "E31",
           "E34",
-          "E37"
+          "E36"
         ],
         "source": "v4.1b §6, §13 Life/Reward checksum"
       }
@@ -129,7 +132,7 @@
         "carriers": [
           "E29",
           "E33",
-          "E37"
+          "E36"
         ],
         "source": "v4.1b E29, E33, E37"
       },
@@ -150,7 +153,8 @@
           "E18–E19",
           "E22",
           "E27",
-          "E36–E37"
+          "E37",
+          "E36"
         ],
         "source": "v4.1b E18–E19, E27, E36–E37"
       },
@@ -191,7 +195,7 @@
         "carriers": [
           "E31",
           "S05",
-          "E36"
+          "E37"
         ],
         "source": "v4.1b §4 Möbius"
       }

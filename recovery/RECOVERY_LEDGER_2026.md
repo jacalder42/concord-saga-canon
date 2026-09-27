@@ -12165,4 +12165,23 @@ END OF ENTRY 213
 
 ===============================================================
 
+# 214. Act I audit answered; the rest of B01 EBCI released and built — 2026-09-27
+
+**Status:** LEDGER ENTRY. A production ruling and the build it releases. No canon ruling, milestone, card or Mechanica text changes.
+
+**The ruling** (`decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md`, indexed): *"AI1-AI3 as recommended."* The rest of B01 is released and built continuously, stopping only after a full-B01 audit with **ten tests plus an anti-optimisation test** (*"Where is B01 allowed to be messy, surprising, funny, inefficient, or merely alive?"*). Light wonder found in prose needs no beat; prose packets state constraints positively (the author's prologue example recorded). E06 Seraphine, E09 Mara, E14 Lucien and the prologue's W0–W2 confirmed. **Identity hygiene:** the Filament Mara is cast A01, never G08 Mara Niht, in machine-facing fields. **An expected path, not a ruling:** B01 EBCI → audit → B02 → audit → B03 → Veil audit → **Veil prose**, and Veil prose talks back to Neon before Neon EBCI.
+
+**Release work:**
+- **The relabel to reading order** (OQA B3), executed: old E37 (*Baz and Lucien, Off the Clock*) → **E36**; old E36 (*The City Reacts*, the Act II close) → **E37**; old E44 (*Something Strange That Doesn't Hurt*) → **E43**; old E43 (*When Grounding Fails*) → **E44**, directly before the rebound. S05 sits where the file places it, after E35. **Ledger rows relabelled with dated notes:** `BC-PULSE-NAMING` (A2.E36 → A2.E37), `BC-FILAMENT-ETHIC` (A3.E43 → A3.E44). **Overlays A2 and A3:** carriers relabelled; a `_relabel_note` records the map and that the criteria text describing the pre-release labels is kept as written. A2 gains a `_basis_note_numbering` note, as A1 did. v4.1b gains a release note at its head; **its body is unchanged**; `decisions/B01_SEQUENCE_EXCEPTIONS_PROVISIONAL.json` is not edited.
+- **Template:** the two light rules (Q-AI2) and an identity-hygiene rule.
+- **Act I packets regenerated** with the confirmations: E06, E09 and E14 POVs no longer `[P]`; **E09 carries cast A01**; the prologue records the author's prose-packet example.
+
+**Built:** **29 A2/A3 packets** (E18–E30, E32, E34–E48; the pilot's E31 and E33 untouched), **49 packets in all** for B01. POVs from v4.1b's story jobs, `[P]` where v4.1b gives none: Baz holds E18–E20, E23, E25, E27, E36, E37 and E43 (the witness who does not log the wonder); Seraphine E21, E22, E28, E29, E34, E35, E38, E41, E46, E48; Lucien E26, E32, E39, E47; alternating S+L at E24 and E45; Caro E30, E42; **Mara (A01) E40 and E44**. The approved amendments applied where they fall: T5 (E23 Technarc ambient), T6 (**E29 retitled *Marigny Pressure Check***), T7/§4 (**E48: arrive together, carry one; the stranger a street musician, not E15's performer**), T8 (E23–E30 one visit), V5 (E28), the E45 and E48 cards (E48's still water, Q-E48-3's wording), **E25 picks up the custody of E15's recordings** (the Act I audit's E4). **Grids:** `episode_beats.csv` rebuilt in reading order, **247 rows** (event episodes carry their curve: E45 peaks at U5 inside the A3 band; E48 at U3); `supplement_deployment.csv` **6 rows** (B01-S01–S06). Canon scope 0; 165 self-tests; derive `--check` no drift.
+
+**Unchanged:** B02 and B03 stay held. Next: the full-B01 audit (§215), then stop.
+
+END OF ENTRY 214
+
+===============================================================
+
 END RECOVERY LEDGER

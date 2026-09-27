@@ -6,6 +6,8 @@ Promotion state: **NARRATIVE ORDER LOCKED — CHARACTER-CAUSALITY INTEGRATED —
 
 > **Note 2026-09-27 (nine-book audit; `decisions/NINE_BOOK_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`):** one note to apply **at B01 EBCI**, in `proposals/NINE_BOOK_AUDIT_AMENDMENTS_2026-09-27.md` §1 V5: E28 *"Plans for After"* is the first half of a nested Möbius completed at B09 E23. **The narrative order is unchanged. The EBCI hold stands.** The text below is unchanged.
 
+> **B01 EBCI released 2026-09-27** (pilot, then Act I, then Acts II–III; `decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md`). Packets are in `ebci/B01/`. **At release the labels follow the reading order** (OQA B3): this file's §37 is now E36, §36 is E37, §44 is E43, §43 is E44; S05 sits where the file places it, after E35. The header's *"READY FOR CONTROLLED EBCI PREPARATION"* predates the hold and is superseded by the release. **The text below is unchanged.**
+
 > **Note 2026-09-27 (Veil trilogy audit; `decisions/VEIL_TRILOGY_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`):** notes to apply **at B01 EBCI** are in `proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md` §3: E48 pays off E01 (M03); E29 retitled away from *drift*; E23 Technarc ambient; E23–E30 one Elisabet visit; the Lacuna, v4.1a, LR02 and header leftovers; the sequence relabel; O1 as a Möbius seed. **The narrative order is unchanged. The EBCI hold stands.** The text below is unchanged.
 
 Built from:

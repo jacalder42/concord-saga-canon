@@ -15,6 +15,11 @@ What it does not change: no rule, card or overlay. Packets made from it live in 
 narrative brief**, importing from the control layer **only what the writer actually needs**. For an
 event episode that is the brief's **page-safe causal constraints**, never the causal card itself.
 
+**Prose packets state constraints positively and compactly** (Q-AI2, `decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md`): what the scene is
+and must keep, in a line or two, plus every genuinely page-protecting prohibition. The full "must not
+spend" list stays in the packet as QA. The author's example, for the prologue: *brief, abstract,
+beautiful; two unnamed presences perceive strain but cannot intervene; reveal no cosmology or future.*
+
 **Control layer: what the machine and the ledger use.** ECID, the event record, breadcrumb
 administration, tracking, provenance and validation. **It is not passed to prose generation by
 default.**
@@ -37,7 +42,10 @@ default.**
 - **`ENV`** is `NONE` unless the episode occupies a Mechanica-relevant environmental state. No
   ordinary-environment category exists, on purpose.
 - **Tracking** (fun, slice of life, wonder) is a descriptive record of presence. No targets or
-  minimums.
+  minimums. **It observes; it does not manufacture:** light wonder found naturally in prose needs no
+  architectural beat (Q-AI2).
+- **Identity hygiene.** Where a name is ambiguous in the cast registry, the control layer records the
+  cast id (for example A01, the Filament Mara, not G08 Mara Niht). The page is not burdened with it.
 
 ## The skeleton
 

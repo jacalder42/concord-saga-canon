@@ -2,3 +2,6 @@ supplement_id,trigger_milestone_id,reader_group,supplement_type,supplement_funct
 B01-S01,,,FUN,PING,VELVET,,after S1.T1.B01.A1.E05,,Y,planned,Velvet cultural invitation; form OPEN (v4.1b O5); spec in ebci/B01/S1.T1.B01.A1.E05.md
 B01-S02,,,SLICE/POL,LINK/PING,CHRON,,after S1.T1.B01.A1.E08,,Y,planned,"News / civic counterpoint; CHRON only if chronology supports it, otherwise a grounded civic artifact (O6); form OPEN (O5); spec in ebci/B01/S1.T1.B01.A1.E08.md"
 B01-S03,,,SLICE,RELEASE/PING,RITUAL,,after S1.T1.B01.A1.E10,,Y,planned,"Care culture; RITUAL only after an authenticity check (O7), otherwise change form or omit; spec in ebci/B01/S1.T1.B01.A1.E10.md"
+B01-S04,,,FUN,PING,VELVET,,after S1.T1.B01.A2.E28,,Y,planned,Anticipated-night artifact; no threat hidden in it; form OPEN (O5); spec in ebci/B01/S1.T1.B01.A2.E28.md
+B01-S05,,,SLICE,RELEASE/TENSION,VEIN,VIGNETTE,after S1.T1.B01.A2.E35,,Y,planned,Vein: after the pulse; placed where the file places it (after E35; the release relabel); spec in ebci/B01/S1.T1.B01.A2.E35.md
+B01-S06,,,SLICE,RELEASE,VEIN,VIGNETTE,after S1.T1.B01.A3.E48,,Y,planned,"Vein: same room, different stories; after the narrative close; spec in ebci/B01/S1.T1.B01.A3.E48.md"

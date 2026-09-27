@@ -1,6 +1,6 @@
 # ebci/ — episode production packets
 
-Status: PRODUCTION LAYER. **The pilot passed (2026-09-27, `decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md`); the hold is released for B01 Act I only** (the prologue and E01–E17). A2 and A3 beyond E31/E33, and B02–B03, stay held.
+Status: PRODUCTION LAYER. **B01 is released and built in full** (the pilot, then Act I, then Acts II–III: `decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md`). **B02 and B03 stay held.** Next: the full-B01 audit, then a stop.
 
 Originally: **B01 two-packet pilot only.** Created 2026-09-27 when the author released
 the B01 EBCI hold for the pilot (`decisions/SAGA_LOCK_AND_B01_EBCI_PILOT_RELEASE_AUTHOR_ANSWERS_2026-09-27.md`,
@@ -10,12 +10,12 @@ Q-LS2). **Nothing else in B01, and nothing in B02 or B03, is released.**
 
 | File | Episode | Status |
 | --- | --- | --- |
-| `B01/S1.T1.B01.PR.E00.md` … `B01/S1.T1.B01.A1.E17.md` | **Act I**: the prologue and E01–E17 (18 packets; S01–S03 specified inside E05, E08 and E10) | DRAFT, awaiting the Act I audit |
-| `B01/S1.T1.B01.A2.E31.md` | *The Night They Were Going to Have* (pilot: Life/Reward) | REVIEWED |
-| `B01/S1.T1.B01.A2.E33.md` | *The Pulse Strikes* (pilot: event) | REVIEWED |
+| `B01/S1.T1.B01.PR.E00.md` … `B01/S1.T1.B01.A1.E17.md` | **Act I**: the prologue and E01–E17 (S01–S03 inside E05, E08, E10) | DRAFT; Act I audit passed |
+| `B01/S1.T1.B01.A2.E18.md` … `B01/S1.T1.B01.A3.E48.md` | **Acts II–III** (S04–S06 inside E28, E35, E48); **labels in reading order** (old E37 → E36, E36 → E37, E44 → E43, E43 → E44) | DRAFT, awaiting the full-B01 audit |
+| `B01/S1.T1.B01.A2.E31.md`, `…E33.md` | the pilot (Life/Reward; event) | REVIEWED |
 
-Each packet's beats have rows in `grids/episode_beats.csv` (103 rows); the Act I supplements have rows
-in `grids/supplement_deployment.csv`.
+**B01 is complete at EBCI resolution:** 49 packets (the prologue and 48 episodes), 247 beat rows in
+`grids/episode_beats.csv`, six supplement rows in `grids/supplement_deployment.csv`.
 
 ## Rules
 
@@ -29,4 +29,4 @@ in `grids/supplement_deployment.csv`.
   §4): *"If I handed this to a good novelist, would it help them write a better scene—or would they
   spend their energy satisfying the packet?"* If E31 reads as predetermined, EBCI is simplified before
   any further packet is built.
-- **Now:** B01 Act I, with its release-time envelope work (the `PR` overlay, the A1 exception). **After Act I, stop for an audit** (did EBCI change downstream architecture; do the packets leave room for prose?), then return for authorisation for the rest of B01. The E36/E37 and E43/E44 relabel belongs to the A2/A3 release.
+- **Now:** the full-B01 audit (ten tests and the anti-optimisation test, `decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md` §3), then a stop.
