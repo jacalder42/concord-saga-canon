@@ -5,6 +5,8 @@
 is a change to canon rules, so it needs a **specific author ruling**. Until then Mechanica is
 unchanged.
 
+> **Applied 2026-09-27** (`decisions/MECHANICA_42A_AMENDMENT_AUTHOR_RULING_2026-09-27.md`, ledger §163): the author ruled *"Apply 42A"*. The section is now in `rules/Mechanica-v4.md` as drafted, and the whole section is rule text. The draft below is kept as the record.
+
 **Basis:**
 
 - the ruled points in `decisions/SERAPHINE_LOOM_HARD_CAP_AND_MIRA_AUTHOR_RULING_2026-09-27.md`

@@ -830,6 +830,105 @@ Human failure remains possible.
 
 ---
 
+## 42A. THE HARD CAP AND THE LOOM
+
+> **Added 2026-09-27 by author ruling**
+> (`decisions/MECHANICA_42A_AMENDMENT_AUTHOR_RULING_2026-09-27.md`). The author: *"Apply 42A"*.
+> It explains the result in §40–§42. Sources:
+> `decisions/SERAPHINE_LOOM_HARD_CAP_AND_MIRA_AUTHOR_RULING_2026-09-27.md` and
+> `decisions/MECHANICA_HARD_CAP_BREATHING_VEIL_AUTHOR_ANSWERS_2026-09-27.md`.
+
+The pre-Mending Veil is a **hard cap**. The Breathable Veil replaces it.
+
+---
+
+### 42A.1 The Loom
+
+Every Veil is held by a Loom.
+The Loom is powered by a soul.
+
+The soul supplies Intent: a lasting commitment to consequence.
+Structure can hold a shape. It cannot commit.
+
+---
+
+### 42A.2 The Hard Cap
+
+A hard cap:
+- Sets one fixed ceiling on resonance crossing the Veil
+- Blocks what exceeds it
+- Is tended from outside by Silence and Hope
+- Is held by a single soul
+
+It regulates a threshold, not people.
+
+A hard cap is brittle:
+- Blocked pressure is stored, not discharged
+- Stored pressure concentrates at the thinnest points
+- One soul is a single point of failure
+- Shielded humans do not adapt
+
+Stored pressure breaking through weak points produces the shard ladder (§34).
+Each break becomes a wound.
+
+Stabilising a wound under a hard cap is temporary, costly, and leaves a scar.
+
+Every hard cap eventually fails and requires a new soul.
+This is the cycle.
+
+---
+
+### 42A.3 The Breathable Veil
+
+The Breathable Veil is held jointly:
+- Its laws (Silence and Hope, dispersed into its structure)
+- Its guides
+- Its conduit
+- Its Loom (Seraphine)
+
+No single point holds it alone.
+
+Its laws apply themselves.
+Regulation is structural, not personal.
+
+Filtration passes energy over time and limits only its peaks (§42).
+The Veil breathes: it gives under a surge, then recovers.
+
+Empathy is its medium, not its judge.
+The Veil responds to the field's rhythm.
+It does not decide whose feeling deserves passage.
+
+---
+
+### 42A.4 The Loom After the Mending
+
+The Loom supplies Intent and rhythm.
+
+The Loom does not:
+- Decide for people
+- Change the Veil's laws
+- Command
+
+Its reach through LT is invitation, never instruction (§39; `LT_RULES_POST_MENDING.md`).
+
+---
+
+### 42A.5 Why the Cycle Ends
+
+The Breathable Veil removes each cause of brittleness:
+- Nothing accumulates
+- Nothing concentrates
+- No single point carries the load
+
+Humans exposed to filtered resonance slowly adapt (§44).
+The load on the Veil falls over time.
+
+No successor soul is required.
+
+This change is permanent (§40).
+
+---
+
 ## 43. ECHO NODES
 
 Echo Nodes replace shards post-Mending.

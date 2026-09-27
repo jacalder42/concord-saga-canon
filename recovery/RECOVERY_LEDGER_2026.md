@@ -10836,4 +10836,38 @@ END OF ENTRY 162
 
 ===============================================================
 
+# 163. Mechanica §42A applied — author ruling — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an author ruling that amends a rule file.
+
+**The author, verbatim:** "Apply 42A"
+
+**Recorded in** `decisions/MECHANICA_42A_AMENDMENT_AUTHOR_RULING_2026-09-27.md`.
+
+**Applied:** `rules/Mechanica-v4.md` gains **§42A, "The Hard Cap and the Loom"**, inserted after §42 "Filtration mechanics" and before §43, as drafted in `proposals/MECHANICA_AMENDMENT_DRAFT_HARD_CAP_LOOM_2026-09-27.md`. The only addition is a dated amendment note at the head of the section. **No existing section is edited, moved or renumbered**; the diff to Mechanica is additions only.
+
+**The whole section is now rule text**, as the draft's notes said before the ruling. That covers:
+- the soul supplies Intent;
+- the hard cap is one fixed ceiling, brittle for four reasons, and its breaks become wounds;
+- the Breathable Veil is held jointly, its laws apply themselves, and empathy is its medium, not its judge;
+- the Loom does not decide for people, change the laws or command;
+- the cycle ends, and humans adapt.
+
+Mira is not named in Mechanica.
+
+**Other edits:**
+- an "Applied" note on the draft;
+- `decisions/README.md` indexed;
+- CLAUDE.md §4.1 ("Mechanica has no statement on what powers the Loom" is replaced by a pointer to §42A) and §8.
+
+**Not added:** a pointer from §7.4 or §41, and a glossary entry for "hard cap". Both need an instruction.
+
+**Still open:** whether Silence and Hope have Intent; what Seraphine experiences after the Mending; why Honey Island is last; all numbers.
+
+**The holds stand.**
+
+END OF ENTRY 163
+
+===============================================================
+
 END RECOVERY LEDGER
