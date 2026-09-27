@@ -12013,4 +12013,27 @@ END OF ENTRY 205
 
 ===============================================================
 
+# 206. The nine-book Breadcrumb / Möbius / Promise-Payoff audit — 2026-09-27
+
+**Status:** LEDGER ENTRY. Item 5 of the progressive-resolution instruction (§197). Editorial report; **nothing ruled, no story changed**.
+
+**Written:** `reports/NINE_BOOK_BREADCRUMB_MOBIUS_PROMISE_PAYOFF_AUDIT_2026-09-27.md`. Method: POV counts scripted from the pass-3 owner columns (B01 by a reading of v4.1b, low confidence on eight episodes); breadcrumb and milestone checks scripted against the grids; the Möbius and elapsed-time inventories gathered by research agents, their load-bearing claims checked against the files.
+
+**Findings:**
+- **Promise-payoff:** no setup follows its payoff; all 47 ledger rows resolve; the 31 milestones without a ledger row are book-internal, conditions, surprises by design, or carried by existing ladders. **No promise is unpaid.**
+- **Seraphine's share:** 93 of 419 (22%); Veil 17% (20% with B01's shared episodes), Neon 20%, Loom 30%; **B03 4 of 48 (8%)**. Options (a) surgical +3 Veil, +2 per Neon book at pass 4 (recommended, about 25%), (b) full band, (c) as is. Lucien 9% saga-wide; Kade 22% of Loom; Baz 22% of Veil; Tahl 28% of Neon.
+- **The swamp is silent B02–B06** before Seraphine's ruled B06 E47 recognition: one unnamed reinforcement proposed at B06 E05 (N1).
+- **The Veil half of Tahl's triangle (V1):** every post by the anonymous MT voice carries the mark, unremarked, from B02 S01; the reader joins mark and man at B03 E48.
+- **Möbius:** the macro-Möbius is intact; twenty nested candidates, fourteen adopted or noted, one dropped (B03 E47's pass-4 sky line). **Collisions:** B09 E48 overloaded (callbacks unpointed); **B09 S02 contradicts E48** (corrected wording proposed); B09 E46 shows the swamp (axis 5 governs E48's cut only); sky imagery at B07 E24; the finite circle paid twice (B06 E38 must change: this time she knows).
+- **Elapsed time:** no span, season or year is set; stated gaps collected; a working frame proposed (about 18–24 months); B08's Clock A wording compresses Act II–III into a week (L5 loosens it); the author's gap after the wake has no slot (L6).
+- **Kade's slide** (B04 E12 → B06 E48 → M26 → M46) is existing architecture without a ledger row; recording it is Q-NB6.
+
+**Housekeeping applied (records only):** H1 `BC-COULD-NOT-SAVE` introduction moved to B02 E09 (it followed a reinforcement), with a dated note; H2 a dated note appended to `rules/saga_context_S1.json` `chronology` (the B09 timeskip is ruled, D10); H3 a pointer note on M35 to D10; H4 a correction note on the Loom audit's LA5 (nine VT interludes saga-wide). `CLAUDE.md` §8–§9 updated.
+
+**Questions:** Q-NB1–NB7 (the report's §9). **Unchanged:** every ruling, milestone status, card and episode file; the B01 EBCI hold stands. Next: the author's NB answers, then the B01 EBCI release decision.
+
+END OF ENTRY 206
+
+===============================================================
+
 END RECOVERY LEDGER
