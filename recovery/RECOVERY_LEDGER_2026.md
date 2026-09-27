@@ -12412,4 +12412,18 @@ END OF ENTRY 226
 
 ===============================================================
 
+# 227. The writer profile approved; prose calibration released — 2026-09-27
+
+**Status:** LEDGER ENTRY. Records `decisions/WRITER_PROFILE_APPROVAL_AND_PROSE_CALIBRATION_AUTHOR_RULING_2026-09-27.md`. **Provenance:** a ChatGPT review the author forwarded (*"From ChatGPT:"*) without amendment, acted on as his direction.
+
+**Answered:** Q-WP1, Veil is third person limited, past tense, with clean POV handoffs; Q-WP2, the later romance lineage (H0–H1 common, H2 rare, no H4, R ceiling; H0–H4 is system capability); Q-WP3, no per-character voice layer (one card line at a first substantial POV appearance; then the preceding prose governs).
+
+**Profile edited** (`ebci/prose/WRITER_PROFILE_JA_CALDER.md`, now approved): *"These are tendencies, not required moves…"* near the start; feeling may be named when the character would; stock tells may appear but can't do all the work; unearned narrative certainty, not absolutes as such; the sensual image list replaced with *selective, character-specific detail*. The open-questions block is removed.
+
+**Released:** three calibration drafts (E06, E13, E15), **not canonical prose**, from the approved stack only; then a qualitative review. **No further planning layer.**
+
+END OF ENTRY 227
+
+===============================================================
+
 END RECOVERY LEDGER

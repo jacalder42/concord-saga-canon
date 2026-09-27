@@ -1,4 +1,4 @@
-Status: WRITER PROFILE — CONSOLIDATED DRAFT for the author's review (`decisions/B01_ACT_I_PROSE_PACKETS_AND_WRITER_PROFILE_AUTHOR_RULING_2026-09-27.md`). Recovered, not invented: every line traces to `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md`. Not canon. Items marked [open] wait on the author (the questions at the end). Everything below the rule accompanies every prose packet, unchanged, with the immediately preceding prose.
+Status: WRITER PROFILE — APPROVED for Veil drafting (`decisions/WRITER_PROFILE_APPROVAL_AND_PROSE_CALIBRATION_AUTHOR_RULING_2026-09-27.md`). Recovered, not invented: sources in `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md`. Not canon. Everything below the rule accompanies every prose packet, unchanged, with the immediately preceding prose.
 
 ---
 
@@ -7,6 +7,8 @@ Status: WRITER PROFILE — CONSOLIDATED DRAFT for the author's review (`decision
 These are stories about people, not logic constructions. However dire things get, they are stories of hope and empathy, coloured with conflict, humour and sensuality. **Do not lose the people.**
 
 Engagement over certainty. Authenticity over decorum. Consequences over dogma.
+
+**These are tendencies, not required moves. Never demonstrate the voice guide for its own sake. If a technique becomes noticeable as a pattern, stop using it.**
 
 ## 1. The voice
 
@@ -20,7 +22,8 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 ## 2. Point of view
 
 - **Stay inside the POV character.** The page carries only what they can perceive, know or be told. **Avoid omniscience; favour discovery.**
-- **Tense and person [open]:** third person limited; tense to be confirmed (Q-WP1).
+- **Third person limited, past tense** (Veil).
+- **Several points of view in one episode hand over cleanly**, at a scene or section break. No head hopping.
 
 ## 3. Rhythm
 
@@ -32,7 +35,7 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 
 ## 4. Feeling
 
-- **Show feeling through rhythm, image and choice, never through declaration.** Don't name the emotion when the body, the sentence or the decision can carry it.
+- **Prefer rhythm, image, choice and behaviour to naming an emotion directly.** Name it when the character genuinely would.
 - **Vulnerability:** stripped syntax. One true sensory detail carries the weight. Humour may surface, half shield and half handshake.
 - **Anger:** tighter syntax, exact words. Let precision do the shouting.
 - **Joy:** quick beats, imperfect timing, laughter breaking the syntax. Don't over-edit spontaneity.
@@ -85,10 +88,10 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 
 - **Emotion over physicality. Heat is earned through emotional truth**, and every intimate scene changes the relationship.
 - **Consent is always present:** spoken, unspoken between people who know each other, and renegotiated when things shift. **Nothing strange ever creates desire or replaces consent.**
-- **The camera:** hands, breath, mouths, pulse points, the body's attention. Genitals and explicit mechanics stay out. The ceiling is an **R rating [open]**, sensual rather than explicit.
+- **Physical detail stays selective and character-specific.** Sensuality comes through attention, proximity, choice and response rather than anatomical inventory or explicit mechanics. The ceiling is an **R rating**.
 - **No clinical terms, no graphic mechanics, no kink-coded language,** no supernatural-arousal metaphors.
 - **No intimacy during active danger;** only in its aftermath.
-- **Levels:** in the first three books, warmth and tension are common, and anything more is rare [open].
+- **In the first three books:** spark and warmth are common; real heat is rare; the most explicit level never appears.
 
 ## 12. Line-level tells to avoid
 
@@ -96,18 +99,6 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 - No *"it wasn't X, it was Y"* constructions.
 - No strings of similes.
 - No meta jokes after a reveal.
-- No stock physical tells in place of feeling (*smiled, grinned, laughed, rolled eyes*).
+- **Don't substitute stock physical tells for emotional work.** Characters may smile, laugh, look away; the gesture just can't do all the writing by itself.
 - No adjective pile-ups.
-- No absolutes (*must, always, never*) in the narration without cause. That airless certainty belongs to rigid characters, not to the voice.
-
----
-
-**Open for the author** (not part of what a writer receives until answered):
-
-- **Q-WP1, tense.** No author ruling exists. The sources disagree (a 2025-11-01 outline has Veil in past tense; a same-day review has present tense), and the author's own old drafts use both. **Recommended:** third person limited, past tense, for Veil.
-- **Q-WP2, heat ceiling in Veil.**
-  - The memory edition (saved at the author's instruction) says *H0–H1 common; H2 rare; no H4* in Veil, with an R ceiling.
-  - The Veil trilogy context allows H0–H4.
-  - The author's earliest *"Explicit"* belongs to the pre-reboot world.
-  - **Recommended:** the memory edition, with an R ceiling.
-- **Q-WP3, character voices.** Per-character voice notes exist in `canon/pov/`. **Recommended:** don't add a per-character layer. The preceding prose carries each voice once it is established. For a character's first on-page appearance, one line from their card may be promoted into that packet.
+- **Be suspicious of unearned narrative certainty.** Absolutes belong where the POV has earned them, or where their certainty reveals character.
