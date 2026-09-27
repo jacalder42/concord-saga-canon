@@ -12151,4 +12151,18 @@ END OF ENTRY 212
 
 ===============================================================
 
+# 213. The B01 Act I EBCI audit — 2026-09-27
+
+**Status:** LEDGER ENTRY. The stop after Act I required by the pilot review ruling (§211). Editorial report; nothing changes.
+
+**Written:** `reports/B01_ACT_I_EBCI_AUDIT_2026-09-27.md`, answering the ruling's two questions.
+1. **Did EBCI change downstream architecture? No.** Findings: the A1 mapping confirmed by v4.1b's own headers (E1); the prologue has no weather ruling and carries A1's band (E2); the validator bug fixed at §212 (E3); **a cross-act obligation**: E25 must pick up the custody of E15's recordings, now mentioned in E16 (E4); **tracking shows Act I has no wonder after the prologue and fun at strength only once (E06)**, which is v4.1b's design and the pattern tracking exists to show (E5); **EBCI was mostly translational for ordinary episodes and generative for the event and the prologue** (E6), evidence for the post-audit instruction §5.
+2. **Room for prose? Yes, with a watch item.** Measured: briefs about 170 words and 4.7 beats on average; control layers about 190 words; "must not spend" lists 3.1 negations on average (8 at the prologue). Beats that look prescriptive are v4.1b's protected beats. The watch item: prose packets should carry the constraints positively and shortest-first.
+
+**Questions:** Q-AI1 (release the rest of B01, with the A2/A3 release work listed: the relabel, A2's basis note, E25's custody, S04–S06), Q-AI2 (prose may find light wonder in an Act I LR unit; prose packets phrase constraints positively), Q-AI3 (confirm E06, E09, E14 POVs and the prologue's weather band). **The remainder of B01 stays held; B02 and B03 stay held.** `CLAUDE.md` §8 updated.
+
+END OF ENTRY 213
+
+===============================================================
+
 END RECOVERY LEDGER
