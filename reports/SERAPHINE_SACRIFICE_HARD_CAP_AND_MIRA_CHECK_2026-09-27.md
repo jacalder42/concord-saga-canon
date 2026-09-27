@@ -5,6 +5,8 @@
 rules nothing, and it edits no card, rule, row or ruling. §5 lists the questions for the author. §6
 reconciles it with ChatGPT's parallel pass.
 
+> **Answered 2026-09-27** (`decisions/SERAPHINE_LOOM_HARD_CAP_AND_MIRA_AUTHOR_RULING_2026-09-27.md`, ledger §160): 1B, 2 yes, 3 yes, 4 yes, all ruled. Mira is kept; she knows the cost, not the answer; her soul powers the current cap; the cycle ends; the veil is held jointly, and the *"collapses back into static"* line is superseded. The body below is unchanged.
+
 **The author's question:** *"does Seraphine's sacrifice make the difference between old hard caps and
 the new breathing one? Does that anchor her against the Regier concerns? If that's the case, we may
 need to remove Mira, or modify her backstory/history."* A ChatGPT answer came with it. It proposes

@@ -10725,4 +10725,43 @@ END OF ENTRY 159
 
 ===============================================================
 
+# 160. Seraphine's Loom, the end of the hard-cap cycle, and Mira — author ruling — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records an author ruling on the four questions in the ledger §159 report.
+
+**The author, verbatim:** "1B, 2 yes, 3 yes, 4 yes"
+
+**Recorded in** `decisions/SERAPHINE_LOOM_HARD_CAP_AND_MIRA_AUTHOR_RULING_2026-09-27.md`. All four are **RULED**: they were put as direct author questions, and Q4 explicitly as a promotion to ruling.
+
+1. **The breathing veil is held jointly**, by the laws, the guides, the conduit and the Loom. No single point holds it alone, Seraphine included. She tethers it; she does not regulate people. The locked map's "Without her, it collapses back into static" is superseded as a statement of the finale. The recovery keeps it as history. Seraphine stays the Loom and the continuous thread.
+2. **The cycle of hard caps ends.** No successor Seraphine is ever required.
+3. **Mira knows the hard cap's cost and recurrence, not the breathing-veil answer.** Her guidance is doubt and warning.
+4. **Mira's soul powers the current hard cap.** This is promoted from a reading, and it is why her echo is released at the Mending.
+
+**What follows (not new rulings):**
+- The Regier concern (review C01) has a ruled answer.
+- The tension with the author's 11-13 "through Mira Seraphine believes D" is resolved.
+- M21's "first crack in the cycle" now begins an ending.
+
+**Not ruled:**
+- the Q1 line's exact wording;
+- "the new Veil does not obey Seraphine" (ChatGPT's test; design);
+- the mechanism.
+
+**Edits, all additive:**
+- the new decision, indexed;
+- a follow-up section on `decisions/MIRA_AND_SILENCE_HOPE_ORIGIN_AUTHOR_RULING_2026-09-26.md`;
+- clarifying text appended to Mira's cast registry row `L01` (only that line was rewritten; the file's mixed line endings are preserved);
+- notes prepended to grid **M33** and **M49**, with no description or status changes;
+- "Answered" notes on the §159 report and on ChatGPT's pass;
+- CLAUDE.md §4.1 and §8.
+
+**Queued, not started:** a narrow Mechanica causal specification of the hard cap against the breathing veil (seven questions; D5 applies), before detailed B08/B09 architecture. `Mechanica-v4.md` is not amended.
+
+**The holds stand.**
+
+END OF ENTRY 160
+
+===============================================================
+
 END RECOVERY LEDGER

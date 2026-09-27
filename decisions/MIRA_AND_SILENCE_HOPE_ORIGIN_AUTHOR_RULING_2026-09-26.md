@@ -134,3 +134,18 @@ through many cycles of replacing it."* That reading is the only one recorded.
 - No grid row: M21 and M33 keep their held and proposed wording.
 - The B01 v4.1b child stays unnamed.
 - The standing task *"who performs the Mending — five named human functions"* is not resolved here.
+
+---
+
+## Follow-up (2026-09-27)
+
+Ruled in `decisions/SERAPHINE_LOOM_HARD_CAP_AND_MIRA_AUTHOR_RULING_2026-09-27.md`:
+
+- **Mira's soul powers the current hard cap.** §5's reading is promoted to a ruling.
+- **She knows the hard cap's cost and its recurrence, not the breathing-veil answer.**
+- **The cycle of caps ends at the Mending.**
+- **The breathing veil is held jointly.** §5's closing line, which set *"Without her, it collapses
+  back into static"* beside *"Seraphine is the Loom"*, is superseded on that line. Seraphine stays
+  the Loom and the continuous thread.
+- The tension with *"through Mira Seraphine believes D"* is resolved there, §3.
+

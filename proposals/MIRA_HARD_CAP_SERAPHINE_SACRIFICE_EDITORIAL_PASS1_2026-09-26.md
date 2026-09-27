@@ -4,6 +4,8 @@
 **Status:** NON-CANONICAL EDITORIAL PROPOSAL grounded in current rulings and recovered locked material.  
 **Purpose:** test whether Seraphine's sacrifice can be the causal difference between the old hard-cap cycle and the new breathing Veil, whether that resolves the agency/control concern raised in editorial review, and whether Mira should be removed or revised.
 
+> **Answered 2026-09-27** (`decisions/SERAPHINE_LOOM_HARD_CAP_AND_MIRA_AUTHOR_RULING_2026-09-27.md`, ledger §160): 1B, 2 yes, 3 yes, 4 yes, all ruled. Mira is kept; she knows the cost, not the answer; her soul powers the current cap; the cycle ends; the veil is held jointly, and the *"collapses back into static"* line is superseded. The body below is unchanged.
+
 This file changes no ruling, canon, rule, grid, cast entry, recovery file or existing proposal.
 
 ---
