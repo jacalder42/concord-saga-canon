@@ -10764,4 +10764,49 @@ END OF ENTRY 160
 
 ===============================================================
 
+# 161. Hard cap and breathing veil: narrow Mechanica causal specification, Pass 1 — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a proposal. Nothing is ruled. **`rules/Mechanica-v4.md` is not amended.**
+
+**The author:** "Proceed". This approves producing the specification queued in `decisions/SERAPHINE_LOOM_HARD_CAP_AND_MIRA_AUTHOR_RULING_2026-09-27.md` §5. Its content needs its own approval.
+
+**Written:** `proposals/MECHANICA_HARD_CAP_BREATHING_VEIL_CAUSAL_SPEC_PASS1_2026-09-27.md`.
+
+**Sources:** the 09-26 and 09-27 rulings; Mechanica §7.4, §35 and §40–§46; Resonance-v1 §4 and §18; `LT_RULES` §1–§4 and §9–§10; the locked Finale Phase Map and its patches (`PC` 93542–93904); the 11-15 revelation (`PC` 91824ff); Breathable Veil Bible v1 (`PC` 182147–182187, moderate acceptance).
+
+**The proposed model:**
+- The **old veil** is a fixed ceiling, held by one soul's Intent ("hold the line"), with Silence and Hope tending it from outside. Blocked pressure is stored unevenly, breaks at weak points, and needs a new soul.
+- The **breathing veil** is a membrane. Silence and Hope become its laws, the guides modulate it, the conduit links them, and Seraphine supplies Intent and rhythm. Peaks are smoothed and passed over time, so nothing accumulates.
+
+**The seven questions, answered:**
+1. The soul contributes Intent.
+2. The old Loom regulated a single ceiling, not people.
+3. The cap is brittle through accumulation, unevenness and a single point.
+4. Regulation moves from tenders to laws.
+5. A filter passes energy over time and limits peaks.
+6. Seraphine continues to supply Intent and rhythm, and makes no decisions about people.
+7. No successor is needed: every brittleness cause is removed, and humans adapt.
+
+**Also in it:**
+- A D5 table covering the cap failing, wound stabilisation and the post-Mending veil.
+- Conflicts found:
+  - Bible #5's "passes only through willful, emotionally-aware channels" reads as a virtue gate, against Mechanica §40 and Resonance-v1 §4;
+  - Bible #5's "Seraphine as the Luminous Thread" clashes with the LT channel name;
+  - LT "support emotional regulation" is a mild tension, read as self-regulation.
+
+**Five questions put:**
+1. adopt the model;
+2. the wounds are where this cap's stored stress broke through, Honey Island first;
+3. empathy as a responsive medium, not a virtue gate;
+4. the new veil does not obey Seraphine;
+5. humans adapt after the Mending.
+
+**Left open:** whether Silence and Hope have Intent; what Seraphine experiences after the Mending; why Honey Island is last; all numbers.
+
+**The holds stand.**
+
+END OF ENTRY 161
+
+===============================================================
+
 END RECOVERY LEDGER
