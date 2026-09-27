@@ -11281,4 +11281,39 @@ END OF ENTRY 175
 
 ===============================================================
 
+# 176. B02 civic decision picked; B02 episode architecture, Pass 3 — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records author answers (approved design) and a proposal. Nothing is ruled.
+
+**The author, verbatim:** "Proceed as recommended"
+
+**Recorded in** `decisions/B02_CIVIC_DECISION_AUTHOR_ANSWERS_2026-09-27.md`:
+- **1 = A with E declined:** a Dominion clearance order on a recurring pocket. Lucien partly obeys Helena's request; Seraphine withholds confidences and respects a holdout's refusal; the Technarc trade is declined; the payoff is M06.
+- **2:** the placement as proposed.
+- **3:** option C is optional, and the architecture decides.
+
+**Written:** `proposals/B02_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md`. It supersedes pass 2 for working purposes; pass 2 is kept.
+- **Size:** 47 narrative episodes (A1: 15, A2: 16, A3: 16), 9 LR units, and 4–5 supplements.
+- **The civic spine:** E08 (Helena's request, A1) → E10 and E14 (the pocket model; it misses once) → E22–E31 (the decision; E27 the order and S02 the notice; E28 the holdout; E29 the M06 cluster, residents safe, the model usefully right) → A3 lives with the zone (E32, E34, E37).
+- **Veil answers placed:**
+  - Elisabet stays from E05 (A5).
+  - The Mira seed is at E35: a wordless presence in the empty cleared block at night, away from the overload beat (A2).
+  - The Silence and Hope brush interlude is E41 (A8).
+  - MT appears only as anonymous supplements S01 (M04), S03 (a correction, not a forecast; option C not used) and S04 (southwest) (A10).
+  - Metas are rumour only (E04, A13).
+  - Lucien's listening seed is E21.
+- **Drift** is at E40 (recovered). **No Reset** is at E46–E47. "The Threshold Event" title is not used (it is synthesis, §175).
+- **Sign-off:** a six-direction check, all passing. The C02 test passes. There is a B03 causal paragraph, naming only; B03 stays held.
+
+**Put to the author:**
+- the holdout is Mme Rosette (registry B02);
+- the block is Bywater (NOLA-04);
+- the Mira seed placement at E35;
+- S05 is decided at pass 4;
+- whether to proceed to pass 4 (per-episode beats).
+
+END OF ENTRY 176
+
+===============================================================
+
 END RECOVERY LEDGER
