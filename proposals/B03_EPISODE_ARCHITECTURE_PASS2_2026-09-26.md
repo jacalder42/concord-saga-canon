@@ -61,6 +61,8 @@ POV distribution remains diagnostic. Baz and Seraphine must feel dominant; Lucie
 
 **Act result:** publication can help, harm, redirect and expose without becoming magical causation.
 
+> **Note, 2026-09-27 (ledger §157):** slot 26 places the coordinates post, or its visible effect, in Act II. **M11 is ruled for B03 A3.** The slot numbers are provisional; reconcile the post's placement with M11 when the B02/B03 hold is lifted. This note does not move the slot and makes no design choice (for example, a visible Act II precursor with the post itself in A3).
+
 ## Act III — Warehouse
 **Target: ~12–13 narrative episodes + epilogue**
 
@@ -115,7 +117,7 @@ Do not create a Warehouse roll call. Recurrence is valuable only when causally/l
 - Dominion perimeter and Technarc retrieval remain working institutional staging; neither causes Rupture or murders Baz.
 - Reader-sees-death/cast-does-not remains editorial preference, not final author lock.
 - Cast learns Baz died at start B04.
-- First/only Veil Tahl VT brush is epilogue.
+- The first Veil-era VT brush Tahl notices is in the epilogue; an earlier B02 brush goes unnoticed by him, though Silence and Hope notice it (author, 2026-09-26, `decisions/MAIN_CAST_LOCATION_AUTHOR_ANSWERS_2026-09-26.md` §5; M09). *Corrected 2026-09-27; this read "First/only Veil Tahl VT brush is epilogue." The correction to the epilogue section was made 2026-09-26 and this line was missed (ledger §157).*
 - No Baz Echo.
 - No second spectacle after Warehouse.
 - Caro/Elisabet kiss precedes Warehouse and is not a mortality-response beat.

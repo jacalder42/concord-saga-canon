@@ -10638,4 +10638,30 @@ END OF ENTRY 156
 
 ===============================================================
 
+# 157. Review of the adversarial saga review; two B03 pass-2 hazards corrected — 2026-09-27
+
+**Status:** LEDGER ENTRY. It records a review and two proposal edits. No canon, row, card or ruling changes. Both holds stand (B01 EBCI; B02/B03 episode architecture).
+
+**Reviewed:** ChatGPT's `reports/SAGA_ANTAGONISTIC_CREATIVE_REVIEW_2026-09-27.md` (commit 2fe1785) and ledger §156 (14e22b5).
+
+**Integrity:** the ledger diff is additions only; entries §1–§156 are sequential; the validator's canon scope is 0.
+
+**Accuracy spot-checks, against the sources:**
+- Seraphine is "the Loom and the continuous thread" (`decisions/LOOM_CHAIN_KNOWLEDGE_AND_MENDING_COST_AUTHOR_RULING_2026-09-26.md`); "the Loom is powered by a soul" is ruled (`decisions/MIRA_AND_SILENCE_HOPE_ORIGIN_AUTHOR_RULING_2026-09-26.md`). C01's premise is accurate.
+- M46 (ruled): Kade's first complicity is in B08. M52 (ruled): Kade attacks Rex fearing Rex will kill Elias. C06 and C09 match.
+- The Lacuna NOLA/Gulf feint matches the route answers (Q3 of 09-27; Q7 of 09-26).
+- Brightbreak's end: the review calls its dissolution "ruled". The source is the Tier-1 faction card ("Brightbreak dissolves after the Mending"; "No post-Mending legacy"), which is card canon, not a dated ruling.
+- §7 item 5 is confirmed: `rules/saga_context_S1.json` still reads "All 36 rows are 'proposed'". Not edited here.
+- §7 items 2 and 3 are confirmed. Both are corrected or annotated below.
+
+**Edits to `proposals/B03_EPISODE_ARCHITECTURE_PASS2_2026-09-26.md`:**
+1. Hard safeguards: "First/only Veil Tahl VT brush is epilogue." now follows the two-brush answer (`decisions/MAIN_CAST_LOCATION_AUTHOR_ANSWERS_2026-09-26.md` §5; M09). The old line is quoted in place. It completes the 2026-09-26 correction that fixed the epilogue section and missed this line.
+2. Slot 26: a dated note says the coordinates post sits in Act II while M11 is ruled for B03 A3, and that it is to be reconciled when the hold lifts. The slot is not moved and no design choice is made.
+
+**Not changed:** the review's six recommended directions await the author. They are not recorded as accepted.
+
+END OF ENTRY 157
+
+===============================================================
+
 END RECOVERY LEDGER
