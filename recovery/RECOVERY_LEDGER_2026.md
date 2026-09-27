@@ -10209,4 +10209,35 @@ END OF ENTRY 142
 
 ===============================================================
 
+# 143. Tahl's death: specifics options card — 2026-09-27
+
+**The author:** *"… proceed"*. The next task after the saga-lock confirmations is Tahl's death
+specifics (CLAUDE.md §4.1; the author: *"should be on our list of tasks"*). They are workable now that
+the placement is ruled (§139).
+
+**Written:** `proposals/B06_TAHL_DEATH_SPECIFICS_OPTIONS_CARD_2026-09-27.md` (PROPOSAL). It lists the
+ruled fixed points, then eight questions, each with options and a recommendation:
+
+1. **Why he is there:** against Elisabet's M55 warning, the Warehouse mirror.
+2. **His last public act:** a live witness broadcast, then MT goes black.
+3. **The slip, the glimpse and Silence:** Silence's agency at the collection, after death, with no
+   pre-death spark.
+4. **Delivery:** a private channel set up at the B05 A1 meeting. His fragment is delayed by the failing
+   network.
+5. **Recipients:** the whole channel, receiving it at staggered times.
+6. **Content:** the shape, *"the first one has to be last"*. Seraphine recognises the swamp, so the
+   site secret holds.
+7. **The epilogue's order:** the message first, then Kade's grief post (M23).
+8. **Witnesses and the body:** no principal witness; the body travels east over several days; Rex
+   carries an artefact in B08.
+
+The stagings the recovery records as unaccepted are listed as not recommended.
+
+**Not changed:** everything. The warning's originator stays open. The author's quotes were verified
+against the export. **Checks:** canon scope 0.
+
+END OF ENTRY 143
+
+===============================================================
+
 END RECOVERY LEDGER
