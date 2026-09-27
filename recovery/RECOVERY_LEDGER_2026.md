@@ -12458,4 +12458,22 @@ END OF ENTRY 229
 
 ===============================================================
 
+# 230. B01 sequential drafting: E00–E04 and the checkpoint — 2026-09-27
+
+**Status:** LEDGER ENTRY. Report: `reports/B01_SEQUENTIAL_DRAFTING_CHECKPOINT_E00_E04_2026-09-27.md`. **No prose is committed here.**
+
+**Drafted:** B01 E00–E04, about 13,400 words, first drafts. Each episode was drafted by an isolated Claude agent from the drafting stack only: the profile, the packet, minimum identity context (Seraphine E01, Caro E03, Lucien E04), the Q-WP3 POV lines, and the whole manuscript so far.
+
+**Where the drafts live:** the private manuscript repository, `concord-saga-manuscript`. It is held locally with the ruled structure (`B01/act-01/E00.md …`, `draft-notes/`) and handed over as a git bundle until the author creates the GitHub repository (§229).
+
+**Result:** four sequential episodes read like a novel. The guards held: the strange is observable and unnamed; no mind-reading; the death is ordinary and medical; Lucien is unsourced; E04's lean is given only as *toward the low sun*. There were no identity contradictions.
+
+**Open, for the author:** Q-DR1 (E02 localises the pressure to the place), Q-DR2 (Seraphine's job: the card against the entry state's *OPEN*), Q-DR3 (Caro's years in New Orleans against her Chicago origin), Q-DR4 (the paramedic *Carol*), Q-DR5 (E04 in the Marigny), Q-DR6 (the plumb weight recurs independently).
+
+**Next:** the author reads E00–E04. No E05, Act II packets or anti-tic rules until then.
+
+END OF ENTRY 230
+
+===============================================================
+
 END RECOVERY LEDGER
