@@ -12997,4 +12997,21 @@ END OF ENTRY 255
 
 ===============================================================
 
+# 256. B01 book-wide tightening pass (Q-FR1) — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `reports/B01_FULL_BOOK_TIGHTENING_PASS_2026-09-28.md`. The prose, the function map, the brief, items and logs are in the private manuscript repository (`draft-notes/B01_FULL_BOOK_TIGHTENING_REPORT.md`, `draft-notes/full-book-tightening/`).
+
+**Done:**
+- **A structural function map first** (one whole-book read), so compression targeted repeated functions. It found about 7,300 words of duplicated function (3%).
+- **47 revisers, one per piece;** E00, E01, E43, E46, S01, S02, S04 and S06 untouched. Every diff reviewed; every protected line checked.
+- **B01: 231,068 → 225,041 words (−6,027, 2.6%)**, far above the 185–200k diagnostic and close to the map. Formulas fell sharply (*considered* 63 → 13, *a great many* 33 → 5); *as if* barely moved (128 → 120).
+- **Restored in review:** E11's ten-day countdown (a fact E14 continues) and E38's threshold-habit line (the Act III pass's kept instance).
+- Manuscript commits `23b1902`, `b6f6378`, `68f8eac`, and the report.
+
+**For the author, Q-TP1–4:** accept about 225k and leave pace to the line edit (or a pace-level pass toward about 200k); carry what subtraction cannot reach into the Veil reconciliation and B02 packets as tests; the small flags; next, the Veil continuity reconciliation on the tightened text.
+
+END OF ENTRY 256
+
+===============================================================
+
 END RECOVERY LEDGER
