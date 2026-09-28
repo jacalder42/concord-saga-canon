@@ -12925,4 +12925,24 @@ END OF ENTRY 251
 
 ===============================================================
 
+# 252. B01 Act III focused revision pass — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `reports/B01_ACT_III_REVISION_PASS_2026-09-28.md`. The prose and full report are in the private manuscript repository.
+
+**Done:**
+- **Phase 1** (`e48b5a8`), the ruled repairs:
+  - E47 records E39's missed window and *coming faster* as wrong;
+  - E48's wrists are the accordion's weight;
+  - vertical motion is Lucien's inference;
+  - the Clement's-phone line is cut;
+  - S06's minutes are blurred.
+- **Phase 2** (`fb9e3d5`): ten revisers, every diff reviewed, with E46 and the protected scenes untouched. Act III went from 61,420 to 59,431 words, and B01 is 231,237.
+- **Corrections during review:** E48's pipes/river exchange is restored (Q-DR28), and E45's ending is kept to the people she reached.
+
+**Next:** a full editorial and audience read of B01, then Veil continuity reconciliation, then B02 prose packets.
+
+END OF ENTRY 252
+
+===============================================================
+
 END RECOVERY LEDGER
