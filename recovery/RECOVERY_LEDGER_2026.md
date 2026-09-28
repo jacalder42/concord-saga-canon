@@ -12863,4 +12863,21 @@ END OF ENTRY 248
 
 ===============================================================
 
+# 249. The corridor verdict placed at E47; Act III drafting released — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_ACT_III_VERDICT_PLACEMENT_AND_DRAFTING_AUTHOR_ANSWERS_2026-09-28.md`.
+
+**Decided (approved design):**
+- **V1:** the page's honest written account is made at E47, and the scene goes on past it.
+- **V2:** Act III is drafted through to B01's end, with the flag-only checker after each piece.
+
+**Applied** (packet wording, from a forwarded review that is recommendations):
+- E40/E41's gathering is a rumor-sent line at a supply point; E44's is a gathering Mara's people chose to organize.
+- E42's *not a meal* is removed.
+- E43's music and river exclusions are removed.
+
+END OF ENTRY 249
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -126,3 +126,20 @@ as E36/E37's had been. The drafting order is E42, E43, E44, E45.
 - it never touches the prose or the drafting stack.
 
 **Then:** sequential drafting of E38–E48 and S06, with the checkpoint at the end of B01.
+
+## 6. A forwarded review of the final packets, and the author's answers (2026-09-28)
+
+The author forwarded a second review of the final packets. It is recommendations.
+
+**Its verdict:** *ready for drafting after three small adjustments.* The review:
+- asked that E40–E41's gathering differ from E44–E45's;
+- said E42's *"not a meal"* and E43's music and river exclusions had become prohibitions the briefs never made;
+- recommended writing the page's honest account in B01, probably at E47, without ending the scene on it.
+
+**The three packet adjustments were applied**, as derivation wording.
+
+**The author then answered** (`decisions/B01_ACT_III_VERDICT_PLACEMENT_AND_DRAFTING_AUTHOR_ANSWERS_2026-09-28.md`):
+- the account is written at E47, and E39 no longer carries it;
+- drafting proceeds through to B01's end, with the checker.
+
+§3's question is closed.
