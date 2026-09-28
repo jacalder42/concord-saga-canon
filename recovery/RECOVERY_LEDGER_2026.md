@@ -12963,4 +12963,21 @@ END OF ENTRY 253
 
 ===============================================================
 
+# 254. Q-FR1–7 answered; the repairs and the copyedit done — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_FULL_BOOK_READ_AUTHOR_ANSWERS_2026-09-28.md` (the author: *"Approve Q-FR1–7 as recommended"*) and the first two steps it orders. The prose is in the private manuscript repository.
+
+**Decided (approved design, manuscript and production only):** a book-wide tightening pass for duplicated meaning (about 185–200k diagnostic, no quota; set pieces and protected passages untouched; no merge or cut); the five slips fixed; a mechanical copyedit; Act I reopened for these by named exception; the loose instruments go to the Veil reconciliation; watch-list additions. The order: repairs → copyedit → tightening → Veil reconciliation → B02 prose packets.
+
+**Done:**
+- **Q-FR3** (manuscript `da72e8a`): E36's Chalmette lunch moves to Palm Sunday (E28 gives Lucien only the four o'clock corner that day); E24's head-hop clause is cut; E38's and E02's reviser-cut beats are restored; E48's line becomes what Seraphine can see.
+- **Q-FR4** (manuscript `cc5f8b1`): 88 exact replacements. Dashes for cut-off lines, with ellipses kept where a speaker trails off; *had gotten* and adverbial *around* in American narration; *all right* in narration; the one-offs. Lucien's and Baz's sections and all dialogue are untouched.
+- **Q-FR7:** `ebci/prose/REVIEW_WATCHLIST.md` gains a section of twelve items from the full-book read.
+
+**Next:** the tightening pass (Q-FR1).
+
+END OF ENTRY 254
+
+===============================================================
+
 END RECOVERY LEDGER

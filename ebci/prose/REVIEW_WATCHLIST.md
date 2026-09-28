@@ -73,3 +73,25 @@ is rarely a problem; a pattern is. Finding an item is a reason to look, not a ve
   doubled endings, refrains, repeated resolution)?
 - **The lesson is *remove duplicated meaning*, never *hit a number*.** Revision means fewer duplicated meanings, not
   shorter scenes.
+
+## Added after the full-book read (Q-FR7)
+
+The source is the B01 full-book editorial and audience read (`reports/B01_FULL_BOOK_EDITORIAL_AUDIENCE_READ_2026-09-28.md`,
+ledger §253; `decisions/B01_FULL_BOOK_READ_AUTHOR_ANSWERS_2026-09-28.md`). Every point of view picked these up across
+B01. They are questions, as above, not counts to hit.
+
+- **Does the sentence disclaim an intention nobody asked about?** *Did not decide to*, *without deciding to*: keep it
+  where the non-decision is the point.
+- **Does this laugh have its own body,** or the book's one laughter sentence?
+- **Is *considered*, or *seemed to find*, doing the reacting for everyone?**
+- **Is *a great many* standing in for experience?** Show the one time that counts.
+- **Is a glass, cup or hat turned a quarter turn again?**
+- **Is a run of *He did not X. He did not Y.* a drum?** Once a scene.
+- **Folding *in half and in half again*** survived the Act I list.
+- **Do the elders share one register** (a dry imperative, *baby*, a deadpan last word, a trade to go back to)? Does
+  each want something of their own?
+- **Is the resolution template still the default way out of distress,** even when self-aware?
+- **Is the minor cast growing faster than a reader can hold it?** Reuse a face already on the page.
+- **Is an event told several times** (as it happens, on a screen, in minutes, in notes)? Keep only what each telling
+  adds.
+- **Did a revision cut leave the same speaker in two consecutive paragraphs?** Check the seam.
