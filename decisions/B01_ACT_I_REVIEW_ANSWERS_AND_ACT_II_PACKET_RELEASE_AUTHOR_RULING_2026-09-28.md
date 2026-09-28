@@ -50,3 +50,16 @@ Act I-shape imitation → draft sequentially against revised Act I.**
 - **Q-AR4 and Q-AR5:** the review-side watch-list is `ebci/prose/REVIEW_WATCHLIST.md`, marked never to enter the
   drafting stack.
 - **Q-AR10:** Act II's prose packets go in `ebci/prose/B01/`. Their imitation audit follows.
+
+## 5. Follow-up answers (author, 2026-09-28)
+
+The author's words: *"E25 to Lucien, Baz closes, merge spelling, checkpoint at end of act ii."*
+
+| Item | Decided |
+| --- | --- |
+| **E25's POV** | **Lucien** (the brief's alternative). The pattern-finding rests on his method, and Baz brings the recordings |
+| **Act II's close (E37)** | **Baz**, as briefed |
+| **The US-spelling branch** | **Merge it** into the manuscript's `main` |
+| **Drafting** | **Sequential drafting of Act II begins** (E18–E37 with S04 and S05), against the revised Act I. **The checkpoint is at the end of Act II** |
+
+These are approved design, like the rest of this ruling.

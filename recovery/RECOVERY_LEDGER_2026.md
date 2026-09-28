@@ -12687,4 +12687,18 @@ END OF ENTRY 240
 
 ===============================================================
 
+# 241. Act II follow-ups decided; drafting begins — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records §5 of `decisions/B01_ACT_I_REVIEW_ANSWERS_AND_ACT_II_PACKET_RELEASE_AUTHOR_RULING_2026-09-28.md`.
+
+**Decided (author):**
+- **E25's POV is Lucien.** Updated in the EBCI packet header and ECID, the three beat rows in `grids/episode_beats.csv`, and the prose packet.
+- **Baz closes Act II** (E37); the `[P]` is settled.
+- **The US-spelling branch is merged** into the manuscript's `main` (`a2a4c3e`). A follow-up (`6ebbba8`) fixes two missed forms and the continuity notes.
+- **Sequential drafting of Act II begins**, with **the checkpoint at the end of Act II**.
+
+END OF ENTRY 241
+
+===============================================================
+
 END RECOVERY LEDGER
