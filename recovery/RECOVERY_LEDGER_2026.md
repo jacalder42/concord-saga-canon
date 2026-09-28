@@ -12553,4 +12553,20 @@ END OF ENTRY 235
 
 ===============================================================
 
+# 236. B01 Act I authorial revision pass — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_ACT_I_REVISION_PASS_RELEASE_AUTHOR_INSTRUCTION_2026-09-28.md` (the author's release, with a ChatGPT-authored prompt he forwarded) and `reports/B01_ACT_I_AUTHORIAL_REVISION_PASS_2026-09-28.md`. **No prose is committed here.**
+
+**Done in the private manuscript repository** (baseline `0aea191`, now `47ddefa`):
+- Word count: 80,201 → 76,672.
+- Executed: Q-DR4 (Gail), Q-DR10 (no bearings after E04), **Q-DR9** (E13's public behaviour removed; the walk, its edgelessness and the private overlap kept; E16 adjusted) and Q-DR11 (S03 in the preparation weeks).
+- The residue pass ran piece by piece under a shared brief, followed by a comparison sweep of E01–E07: *as if / as though* 102 → 35; figurative *the way* about a third to a half kept; the AI tells gone.
+- Three repeated beats varied in E17. The report, change log, brief and a continuity layer are in `draft-notes/`.
+
+**Open, for the author (none blocking):** Mara's two incidents from before E07 (a possible discovery; accept as manuscript); Seraphine's paperwork openings (vary in Act II); two optional restorations; S03's tradition check.
+
+END OF ENTRY 236
+
+===============================================================
+
 END RECOVERY LEDGER
