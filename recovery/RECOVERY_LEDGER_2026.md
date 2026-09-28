@@ -12810,4 +12810,21 @@ END OF ENTRY 245
 
 ===============================================================
 
+# 246. B01 Act II focused revision pass — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `reports/B01_ACT_II_REVISION_PASS_2026-09-28.md`. The prose and full report are in the private manuscript repository (`draft-notes/B01_ACT_II_REVISION_REPORT.md`, `draft-notes/act-ii-revision/`).
+
+**Done:**
+- **Phase 1** (manuscript `a03c159`): the D1–D4 repairs. E17's three lines (the one Act I exception); calendar C, carnival-clear, with E32's Sunday as Easter; forecast A across E27, E32 and E33; Lucien's report in E26; the caption, the surname and the phone line.
+- **Phase 2:** 22 revisers under one brief, every diff reviewed. Act II went from 100,582 to 95,050 words. Baz's claims are narrowed, the mind-reading lines reduced, E37's ending weighted to the city, double endings, recaps and returned motifs thinned, and US vocabulary set in context.
+- **One reviser cut was restored** (E27's line that E32 quotes).
+
+**For the author:** seven minor wording calls, two small fact checks and two flag-only discoveries. None blocks Act III.
+
+**Next:** Act III prose packets (E38–E48, S06) on calendar C, then the imitation audit, then drafting with the flag-only checker after each piece.
+
+END OF ENTRY 246
+
+===============================================================
+
 END RECOVERY LEDGER
