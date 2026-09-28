@@ -12649,4 +12649,42 @@ END OF ENTRY 239
 
 ===============================================================
 
+# 240. Q-AR1–10 approved; Act II prose packets derived and audited — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records:
+- `decisions/B01_ACT_I_REVIEW_ANSWERS_AND_ACT_II_PACKET_RELEASE_AUTHOR_RULING_2026-09-28.md`;
+- `reports/B01_ACT_II_PROSE_PACKETS_AND_IMITATION_AUDIT_2026-09-28.md`, with the raw audit beside it.
+
+**Decided (author):** Q-AR1–10, as written, with these additions:
+- over about 4,500 words triggers inspection, not suspicion;
+- supplement scale is given in words;
+- no web serialisation in packets (installments are derived later from the finished manuscript).
+
+**Applied:**
+- **Profile §12:** a dash for an interruption, an ellipsis for trailing off; US spelling.
+- **README:** one standing drafting instruction, plus the agency, casework, three-methods, working-title and scale guards.
+- **`ebci/prose/REVIEW_WATCHLIST.md`:** review-side only; it never enters the drafting stack.
+- **Act I US-spelling copyedit:** 100 forms, on the manuscript's `us-spelling` branch, awaiting the author's look before `main`.
+
+**Derived:** 22 Act II packets, E18–E37 plus S04 and S05; the E31 and E33 pilot bodies are unchanged.
+
+**Audit, and a derivation error:** the first derivation dropped the briefs' beat lines, including three built-in disagreements (E24, E25, E29). All are restored. The audit's wording changes are applied; none adds a scene.
+
+**EBCI hygiene:**
+- E36/E37 reading positions corrected;
+- E37's Place no longer names the Vein;
+- E20 gains a dated Mara note.
+
+**Open, for the author:**
+- E25's POV (recommended: Lucien);
+- who closes Act II (recommended: Baz);
+- merging the spelling branch;
+- the first drafting checkpoint (recommended: after E25).
+
+**Drafting has not started.**
+
+END OF ENTRY 240
+
+===============================================================
+
 END RECOVERY LEDGER
