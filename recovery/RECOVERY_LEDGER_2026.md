@@ -12905,4 +12905,24 @@ END OF ENTRY 250
 
 ===============================================================
 
+# 251. Q-DR25–33 answered — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_END_OF_BOOK_CHECKPOINT_AUTHOR_ANSWERS_2026-09-28.md`. The author approved a reconciled package, following a forwarded review (manuscript `draft-notes/act-iii-review/FORWARDED_REVIEW_OF_END_CHECKPOINT.md`) where it differed from the checkpoint.
+
+**Decided (approved design, manuscript only):**
+- E39's missed window and *coming faster* are recorded on their own page in E47.
+- One focused Act III pass, with counts as diagnostics. Protected: E41's ending, E43, E46, E48's crowd.
+- Perception stays a manuscript observation, and E48's wrists become the accordion's weight.
+- No public trace of the quiet is required.
+- Vertical motion is Lucien's inference.
+- The hum fades.
+- Small threads: S06's minutes, Clement's phone, no thinness jokes after E44.
+- Length is kept.
+
+**Next, in order:** the E47 repair and the Act III pass; then a full editorial and audience read of B01; then Veil continuity reconciliation; then B02 prose packets, with a promises ledger in the checker.
+
+END OF ENTRY 251
+
+===============================================================
+
 END RECOVERY LEDGER
