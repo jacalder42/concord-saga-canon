@@ -12488,4 +12488,26 @@ END OF ENTRY 231
 
 ===============================================================
 
+# 232. B01 Act I drafted; checkpoint and prose-pattern pass — 2026-09-28
+
+**Status:** LEDGER ENTRY. Report: `reports/B01_ACT_I_DRAFTING_CHECKPOINT_AND_PROSE_PATTERN_PASS_2026-09-28.md`. **No prose is committed here.**
+
+**Drafted:** B01 Act I in reading order (E05–E17 and S01–S03, after E00–E04), about 80,200 words in all, unrevised, with the §229 stack. Identity context was added for Trip (E06), Mara (E09, with a POV line) and Baz (E17). The drafts are in the private manuscript repository, held locally and handed over as a bundle until the author creates it.
+
+**Result:** Act I reads as a novel. The through-lines carry without summaries, the knowledge economy holds, E15's fixed points are all present, and there are no identity contradictions.
+
+**Open, for the author:** Q-DR7 (the Mending-site seed touched four times), Q-DR8 (Vienna mentioned three times), Q-DR9 (E13's unplanned street-wide behaviour), Q-DR10 (the lean's direction named inconsistently), Q-DR11 (S03 dated 19 March), Q-DR12 (E15's whole-crowd fall), Q-DR13 (prose fixing OPEN matters), Q-DR14 (independent name recurrences).
+
+**Prose-pattern pass (for revision; no profile rule):**
+- Engine tics: *the way…* ~190; *as if / as though* ~100; negation narration ~150; shoulder tells 21.
+- AI tells: 5.
+- Kept: Seraphine's ear-test and Lucien's notebooks and pencil (character habits); feeding and quiet endings (authorial motifs).
+- One structural tic: Seraphine's openings on paperwork.
+
+**Next:** the author reads Act I. No Act II prose packets, revision or profile change until then.
+
+END OF ENTRY 232
+
+===============================================================
+
 END RECOVERY LEDGER
