@@ -12589,4 +12589,31 @@ END OF ENTRY 237
 
 ===============================================================
 
+# 238. B01 Act I editorial and audience review — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `reports/B01_ACT_I_EDITORIAL_AUDIENCE_REVIEW_2026-09-28.md`. The synthesis and the raw reviews are in the private manuscript repository (`draft-notes/B01_ACT_I_EDITORIAL_AUDIENCE_REVIEW.md`, `draft-notes/act-i-review/`, commit `6b2dc2f`). **No prose is committed here. No Act I edits.**
+
+**Done:**
+- Three independent reads of the revised Act I: a developmental editor, a target reader (4.1 / 5; would buy) and a voice editor.
+- Each claim was checked against the architecture and against text counts.
+
+**Found:** Act I works as a novel's opening. The risks are repetition and packaging, not story or canon:
+- refrains;
+- double endings;
+- a shared local register;
+- food and waiting as the default resolver;
+- recaps;
+- working titles read as chapter titles;
+- British spelling.
+
+**Pipeline gap:** the v4.1b supplement word targets never reached the prose packets, and all three Act I supplements overran (S03 at 1,312 words against 200–400).
+
+**Length:** B01 projects to about 210,000–240,000 words at Act I's rate. No target exists.
+
+**Open, for the author:** Q-AR1–6. They cover spelling house style, working titles, interruption punctuation, an Act II watch-list, a soft length range, and S03. The readers' Act II wants are already met, or declined by design, in `ebci/B01/`.
+
+END OF ENTRY 238
+
+===============================================================
+
 END RECOVERY LEDGER
