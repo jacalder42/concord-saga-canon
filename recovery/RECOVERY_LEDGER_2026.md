@@ -12766,4 +12766,29 @@ END OF ENTRY 243
 
 ===============================================================
 
+# 244. Second forwarded review; the Act II decision list — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records §6 of `reports/B01_ACT_II_CHECKPOINT_RECONCILIATION_2026-09-28.md`. The second forwarded review is in the manuscript's `draft-notes/act-ii-review/FORWARDED_REVIEW_2_OF_RECONCILIATION.md`. Its points are recommendations.
+
+**Accepted from the review:** fewest edits decides neither the forecast nor Baz's arrival. Claude's *lowest cost* case for forecast C is withdrawn.
+
+**Checked:**
+- **Act III fits calendar C's 13 days** (18–30 April), at about one episode a day, with no travel.
+- **Seasonal texture to preserve:**
+  - an unmarked Easter;
+  - festival season around E47–E48;
+  - under carnival-clear, E01 falls on Ash Wednesday, a realism exception with no text change.
+- **Lucien's limited report is already half in the prose:** the city has *"his three pages"*; the *"true sentence"* was never sent.
+
+**The decision list, D1–D5, awaits the author:**
+- **D1:** calendar C, carnival-clear.
+- **D2:** Baz's arrival. (a) Amend three lines of E17, recommended; or (b) E18 gives him a reason and a cost.
+- **D3:** forecast A (the review) or C (on the page's own rise/event distinction).
+- **D4:** a limited, factual report, made explicit in one line.
+- **D5:** one focused revision pass that protects repetitions that gain meaning; Act I's vocabulary deferred to its line edit; a checker after each episode that classes its findings.
+
+END OF ENTRY 244
+
+===============================================================
+
 END RECOVERY LEDGER

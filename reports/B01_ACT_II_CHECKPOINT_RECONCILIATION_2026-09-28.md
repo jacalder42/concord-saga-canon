@@ -112,3 +112,53 @@ recommendations, not rulings.
 It would have caught Baz's arrival, the calendar and the forecast drift as they happened.
 
 **Recommended:** adopt it from Act III on.
+
+## 6. Second round (2026-09-28): the final decision list
+
+A second forwarded review of this packet (`draft-notes/act-ii-review/FORWARDED_REVIEW_2_OF_RECONCILIATION.md` in the
+manuscript repository) states that its points are recommendations. **It corrects one principle:** fewest edits should
+decide neither the forecast nor Baz's arrival. That is accepted, and §4's *lowest cost* argument for forecast C is
+withdrawn. Claude checked the two facts it asked about.
+
+**1. Does Act III fit in 13 days (calendar C: 18–30 April)? Yes.**
+- **The sequence:**
+  - E38 is one day of the changed baseline.
+  - E39 is a synthesis that sets a window.
+  - E40–E41 are an event and its aftermath.
+  - E42 is exhaustion.
+  - E43 is a wonder, alone.
+  - E44 and E45 happen within the same hour.
+  - E46 is a quiet day.
+  - E47 sets a narrow window, which E48 pays.
+- **No one travels.** Everything stays in New Orleans.
+- **The injuries of E45 need care, not recovery on the page before E48.**
+- **About a day an episode fits the architecture's weeks → two weeks → days,** and the prose's own conclusion that the
+  gaps are closing.
+- **Seasonal context to preserve:**
+  - Easter falls on E32 (carnival-clear) and is unmarked unless shown.
+  - Mid-April and the end of April are festival season in the French Quarter and at the Fair Grounds. E47 and E48 are
+    in Jackson Square, so the prose should show or step around that.
+  - Moving Carnival before E01 must keep Act I's Lent references (E08) true. They are.
+  - **One consequence to accept or shade.** Under carnival-clear, Mardi Gras is the Tuesday before E01 (E01's *"They
+    took him Tuesday"*), and E01 falls on Ash Wednesday, unmarked in frozen Act I. It is a realism exception with no
+    text change, and it can be acknowledged later.
+
+**2. Lucien's report. The prose already half-supplies the review's proposal.**
+- In E25 the city has *"his three pages"*. The *"true sentence"* in the grey folder was never sent (E27), *"because of
+  what it would make him look like"*.
+- **A deliberately limited, factual submission** is therefore what exists: the three defensible pages, sent, with the
+  one true sentence withheld, an omission he owns.
+- **Recommended:** make it explicit on the page in one line during revision (he sent the three pages on the due day,
+  and not the sentence), and let his office respond later. This is a character decision for the author.
+
+**The decisions:**
+
+| # | Decision | Recommended |
+| --- | --- | --- |
+| **D1** | The calendar | **C, carnival-clear.** Act III fits in 13 days. Preserve the seasonal texture |
+| **D2** | Baz's arrival | **The author's.** **(a) Correct his availability:** amend three lines of frozen E17 (*"a thing till Thursday"*, *"not before the weekend"*, *"After Thursday"*) so he can come Monday. This is an Act I exception, the honest continuity fix. **(b) An early arrival with a reason:** E18 says what he walked out on and what it costs him. Claude recommends **(a)** unless you want that beat |
+| **D3** | The forecast | **The author's, between A and C.** **A** (the review's preference): the prediction succeeds on Saturday, and their understanding fails them on Tuesday when people are hurt. **C:** E27's page already distinguishes *rises* from events before the outcome (*"two rises that went back down without breaking"*), so C is not a redefinition, provided E32's *"not wrong"* scoring is changed to match. Either reading fixes E32/E33 and the *"three places"* misattribution, and leaves the written verdict owed for Act III |
+| **D4** | Lucien's report | **A limited, factual submission:** the three pages sent, the true sentence withheld. Made explicit in one line at revision |
+| **D5** | The revision pass and the checker | **One focused pass:** the decided continuity repairs, Baz's lifetime claims, the two mind-reading passages, careful work on E37's ending, the double endings, the repeated cable image and the returned motifs, **protecting repetitions that gain meaning.** **Act I's vocabulary waits for its author-led line edit.** **The checker** runs immediately after each episode. It classes each finding as a definite contradiction, an unresolved question or a plausible new development, with evidence and dependencies. It never changes prose or promotes a discovery |
+
+The small fixes (the caption, the surname) and the plans-versus-events distinction stand as agreed.
