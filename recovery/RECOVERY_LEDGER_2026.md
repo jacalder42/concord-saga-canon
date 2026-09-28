@@ -12701,4 +12701,40 @@ END OF ENTRY 241
 
 ===============================================================
 
+# 242. B01 Act II drafted; checkpoint — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `reports/B01_ACT_II_DRAFTING_CHECKPOINT_2026-09-28.md`. The drafts are in the private manuscript repository (`B01/act-02/`, commits through `ef2f432`), with the checkpoint, the continuity record, an independent review and the drafting watch in `draft-notes/`. **No prose is committed here.**
+
+**Drafted:** Act II, E18–E37 plus S04 and S05, 100,410 words. Each piece was drafted by one isolated agent from a single stack: profile, standing instruction, packet, identity context and the whole manuscript. A returned end-of-stack code shows each agent read the stack to its last line.
+
+**Found:**
+- **It reads as the same novel and the right middle act** (method → forecast → hit and miss → consequence). Baz is the best new element.
+- **The Q-AR7–9 guards held,** and no guard was breached.
+- **What Act II learned from Act I anyway:**
+  - written-record endings (8–10 of 20);
+  - double endings (5);
+  - returned motifs;
+  - the shared sit-line;
+  - food on the page in 13 of 20 episodes;
+  - new formulas: the Elisabet ritual, *saw him decide*, Baz's verdicts.
+- **The dash rule worked.**
+- **Fourteen episodes run long;** E24 is the most duplicated. B01 projects to about 230,000 words.
+
+**Continuity:**
+- Baz's arrival against frozen E17.
+- A calendar about four weeks late; the drift began in Act I.
+- Lucien's report dropped.
+- Elisabet's caption.
+- An Arnaud family.
+- Curtis's cast.
+- The forecast's scoring.
+
+**Flagged:** Seraphine's post-E33 perception; Lucien *"until January"*; the Marseille July plan against B02; Elisabet *"until October"*.
+
+**Open, for the author:** Q-DR15–24. Recommended: an Act II revision pass before Act III, then Act III packets, an audit and drafting.
+
+END OF ENTRY 242
+
+===============================================================
+
 END RECOVERY LEDGER
