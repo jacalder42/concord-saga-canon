@@ -12791,4 +12791,23 @@ END OF ENTRY 244
 
 ===============================================================
 
+# 245. D1–D5 answered — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_ACT_II_CHECKPOINT_DECISIONS_D1_D5_AUTHOR_ANSWERS_2026-09-28.md`. The author gave the answers as *"My recommended answers"*; asked whether they were rulings, the author confirmed: *"Yes, my rulings."*
+
+**Decided (approved design, manuscript only):**
+- **D1:** calendar C, carnival-clear. The author's condition (no compressed travel or recovery) holds: Act III has no travel, and E45's injuries need care, not recovery. E48 stays late April; B02 is unchanged.
+- **D2:** E17's three availability lines are amended, a narrow Act I exception. No invented abandoned commitment.
+- **D3:** forecast A. The page is satisfied on Saturday; Tuesday shows its inadequacy. Boundary and scoring are reconciled explicitly across E27–E35.
+- **D4:** a limited factual report. One line names what Lucien sent (the three pages) and what he withheld (the true sentence).
+- **D5:** one focused Act II revision including causal repairs and Baz's notebook claims; a checker after each new episode that flags only.
+
+**Still open:** Seraphine's perception after E33 is provisional, not a rule.
+
+**Next:** the Act II revision pass.
+
+END OF ENTRY 245
+
+===============================================================
+
 END RECOVERY LEDGER
