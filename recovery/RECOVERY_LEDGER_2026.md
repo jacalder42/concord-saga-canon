@@ -12880,4 +12880,29 @@ END OF ENTRY 249
 
 ===============================================================
 
+# 250. B01 drafted to the end; the end-of-book checkpoint — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `reports/B01_END_OF_BOOK_DRAFTING_CHECKPOINT_2026-09-28.md`. The prose, the checker reports and the independent review are in the private manuscript repository.
+
+**Done:**
+- **Act III drafted:** E38–E48 and S06, 61,420 words. B01 totals 233,226.
+- **Method:** one drafter per piece; the flag-only checker after each (D5); about three dozen minimal contradiction fixes, each recorded.
+- **E47's packet** was made explicit about the window (canon `8d22154`), after a first draft contradicted E48. That draft is set aside.
+- **The independent review:** B01 ends as a book. E46, E41 and E45 are strongest. The one gap is E39's missed window, never recorded. Line residue returned (*as if* 9.6 per 10,000). There are 23 possible canon discoveries, flag only.
+
+**For the author, Q-DR25–33:**
+- an Act III revision pass;
+- paying the window at E47;
+- Seraphine's perception (Mechanica or observation);
+- a public trace of the Wide Quiet;
+- vertical motion as a hypothesis;
+- the hum fading;
+- smaller threads;
+- length accepted;
+- Veil continuity reconciliation and a promises ledger before B02.
+
+END OF ENTRY 250
+
+===============================================================
+
 END RECOVERY LEDGER
