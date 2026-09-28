@@ -12522,4 +12522,23 @@ END OF ENTRY 233
 
 ===============================================================
 
+# 234. Q-DR7–14 answered; the E13 closer read — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_ACT_I_DRAFTING_CHECKPOINT_AUTHOR_ANSWERS_2026-09-28.md` and `reports/B01_E13_STREET_DISTURBANCE_CLOSER_READ_2026-09-28.md`.
+
+**Decided (manuscript and prose-packet derivation only):**
+- **Q-DR7:** keep the camp seed, and **absolutely no return to it in B01**. B01's architecture has none; later prose packets carry the guard.
+- **Q-DR8:** Vienna may be mentioned, with no Vienna scene.
+- **Q-DR10:** one bearing or none, at revision; the no-direction guard goes into every Lucien prose packet.
+- **Q-DR11:** S03 into the altar's preparation weeks.
+- **Q-DR12:** a lean to accept.
+- **Q-DR13:** manuscript continuity, not canon.
+- **Q-DR14:** no action.
+
+**Q-DR9, the closer read:** E13's visible street behaviour turns an interior collapse (v4.1b §13; INT, W0) into a third civic event (about CIV, W1). It is larger than E08's square, so it runs room → square → neighbourhood → the Square. It also lets the same-minute ending read as their collaboration calming the street, which E13's keep-off forbids. **Recommended:** revise at revision. Keep her pressure, including the edgeless walk, and his fall; remove the public behaviour; adjust one E16 sentence. **Awaiting the author.**
+
+END OF ENTRY 234
+
+===============================================================
+
 END RECOVERY LEDGER
