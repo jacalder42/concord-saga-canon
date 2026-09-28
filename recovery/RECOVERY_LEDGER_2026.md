@@ -13014,4 +13014,16 @@ END OF ENTRY 256
 
 ===============================================================
 
+# 257. Q-TP1–4 answered — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_TIGHTENING_PASS_AUTHOR_ANSWERS_2026-09-28.md` (the author: *"Approve Q-TP1–4 as recommended"*).
+
+**Decided (approved design, manuscript and production only):** B01 accepted at about 225k for now, with pace left to the author-led line edit; no new B01 beats, and the findings subtraction cannot reach become tests in the Veil reconciliation and B02 packets; S03 stays at 944; the protected-passage formulas go to the line edit; next, the Veil continuity reconciliation on the tightened text.
+
+**Also asked:** an antagonistic discussion, held in the session before the reconciliation starts.
+
+END OF ENTRY 257
+
+===============================================================
+
 END RECOVERY LEDGER
