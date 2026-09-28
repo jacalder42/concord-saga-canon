@@ -3,7 +3,7 @@
 Status: PRODUCTION LAYER. **The pilot passed 09-27; the format is solved.** B01 Act I's packets are derived and swept
 (`decisions/B01_ACT_I_PROSE_PACKETS_AND_WRITER_PROFILE_AUTHOR_RULING_2026-09-27.md`). **The calibration passed 09-27, and
 sequential B01 drafting has begun** (`decisions/PROSE_CALIBRATION_RESULT_AND_DRAFTING_START_AUTHOR_RULING_2026-09-27.md`).
-**Act II (E18–E37, S04, S05) is derived 09-28** (`decisions/B01_ACT_I_REVIEW_ANSWERS_AND_ACT_II_PACKET_RELEASE_AUTHOR_RULING_2026-09-28.md`). **No layer between packets and prose** (no treatments, dialogue plans or beat sheets).
+**Act II (E18–E37, S04, S05) is derived 09-28** (`decisions/B01_ACT_I_REVIEW_ANSWERS_AND_ACT_II_PACKET_RELEASE_AUTHOR_RULING_2026-09-28.md`). **Act III (E38–E48, S06) is derived and audited 09-28** on calendar C (`reports/B01_ACT_III_PROSE_PACKETS_AND_IMITATION_AUDIT_2026-09-28.md`). **No layer between packets and prose** (no treatments, dialogue plans or beat sheets).
 
 **Manuscript prose is not kept in this repository**, which is public, and manuscript is not canon. Drafts live in a
 separate **private** repository, `jacalder42/concord-saga-manuscript` (live 2026-09-28, ledger §233); see *Where prose lives* below.

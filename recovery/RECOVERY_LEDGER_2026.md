@@ -12845,4 +12845,22 @@ END OF ENTRY 247
 
 ===============================================================
 
+# 248. B01 Act III prose packets derived and audited — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `reports/B01_ACT_III_PROSE_PACKETS_AND_IMITATION_AUDIT_2026-09-28.md`. Released by the author: *"go, derive the Act III packets"*.
+
+**Done:**
+- **12 packets** (E38–E48, S06) in `ebci/prose/B01/`, from the Narrative Briefs, dated on calendar C (18–30 April, with weekday pins).
+- **An independent imitation audit**, kept raw in `reports/B01_ACT_III_PACKET_IMITATION_AUDIT_RAW_2026-09-28.md`. Verdict: ready after 45 wording changes, **all applied**. They restore four dropped brief elements and the lean and perception guards; they write the difference into E44 (against E35), S06 (against S05) and the overreach ladder; they recast six Ends lines; and they neutralise four working labels.
+- **One promotion**, recorded in S06's status line: the S06 spec's *someone cares more about an ordinary problem* and *VIGNETTE*.
+- **An EBCI correction:** E43/E44 reading positions set to file order (49, 50).
+
+**For the author:** whether the corridor page's written verdict is kept inside B01. It is currently permitted in E39 and E47, not required.
+
+**Next:** the between-episode checker's brief, then sequential Act III drafting.
+
+END OF ENTRY 248
+
+===============================================================
+
 END RECOVERY LEDGER
