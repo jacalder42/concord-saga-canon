@@ -12945,4 +12945,22 @@ END OF ENTRY 252
 
 ===============================================================
 
+# 253. B01 full-book editorial and audience read — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `reports/B01_FULL_BOOK_EDITORIAL_AUDIENCE_READ_2026-09-28.md`. The synthesis, the three raw reviews and their briefs are in the private manuscript repository (`draft-notes/B01_FULL_BOOK_EDITORIAL_AUDIENCE_REVIEW.md`, `draft-notes/full-book-review/`).
+
+**Done:**
+- **Three blind whole-book reads** of B01 at manuscript `fb9e3d5` (231,066 words): a developmental editor, a target reader and a voice editor. Each quoted every act's last sentence exactly.
+- **Verdict:** a novel and a series opener. The target reader scores it 4.4 / 5 (Acts 4.3, 4.4, 4.6) and would buy book two. It reads as one voice; Act I is a separate copy pass. No story problem needs a new scene.
+- **Convergent risks:** length carried by duplicated meaning (the developmental editor puts the right length at about 175k and maps 45–55k of excess); a soft second half of Act II; shared sentence formulas; the elders' shared register; the prologue never returning (by design, B02 E41).
+- **Five definite slips confirmed:** E36/E32 (the Easter lunch), E24 (a head-hop), E38 and E02 (beats cut by revisers), E48 (a minor viewpoint line). None is fixed yet.
+
+**For the author, Q-FR1–7:** a book-wide tightening pass (about 185–200k as a diagnostic); doing it before B02 is drafted; the five slips; a mechanical copyedit including Act I; the loose instruments into the Veil reconciliation; no structural merge or cut; watch-list additions.
+
+**No manuscript text, canon or architecture is changed.**
+
+END OF ENTRY 253
+
+===============================================================
+
 END RECOVERY LEDGER
