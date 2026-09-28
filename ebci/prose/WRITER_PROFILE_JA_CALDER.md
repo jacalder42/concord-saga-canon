@@ -1,4 +1,4 @@
-Status: WRITER PROFILE — APPROVED for Veil drafting (`decisions/WRITER_PROFILE_APPROVAL_AND_PROSE_CALIBRATION_AUTHOR_RULING_2026-09-27.md`). Recovered, not invented: sources in `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md`. Not canon. Everything below the rule accompanies every prose packet, unchanged, in the drafting stack set out in `ebci/prose/README.md`. The *nobody reads minds* line in §9 was added by Q-CAL2 (`decisions/PROSE_CALIBRATION_RESULT_AND_DRAFTING_START_AUTHOR_RULING_2026-09-27.md`).
+Status: WRITER PROFILE — APPROVED for Veil drafting (`decisions/WRITER_PROFILE_APPROVAL_AND_PROSE_CALIBRATION_AUTHOR_RULING_2026-09-27.md`). Recovered, not invented: sources in `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md`. Not canon. Everything below the rule accompanies every prose packet, unchanged, in the drafting stack set out in `ebci/prose/README.md`. The *nobody reads minds* line in §9 was added by Q-CAL2 (`decisions/PROSE_CALIBRATION_RESULT_AND_DRAFTING_START_AUTHOR_RULING_2026-09-27.md`). The dialogue-dash and US-spelling lines in §12 were added 2026-09-28 by Q-AR3 and Q-AR1 (`decisions/B01_ACT_I_REVIEW_ANSWERS_AND_ACT_II_PACKET_RELEASE_AUTHOR_RULING_2026-09-28.md`).
 
 ---
 
@@ -96,7 +96,8 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 
 ## 12. Line-level tells to avoid
 
-- **Em dashes: sparingly.**
+- **Em dashes: sparingly** in narration. **In dialogue, a line that is cut off or interrupted ends in a dash; an ellipsis is only for a speaker actually trailing away.**
+- **US spelling throughout.** American vocabulary for American characters and points of view. Lucien may keep European word choices where they are his.
 - No *"it wasn't X, it was Y"* constructions.
 - No strings of similes.
 - No meta jokes after a reveal.

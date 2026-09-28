@@ -3,7 +3,7 @@
 Status: PRODUCTION LAYER. **The pilot passed 09-27; the format is solved.** B01 Act I's packets are derived and swept
 (`decisions/B01_ACT_I_PROSE_PACKETS_AND_WRITER_PROFILE_AUTHOR_RULING_2026-09-27.md`). **The calibration passed 09-27, and
 sequential B01 drafting has begun** (`decisions/PROSE_CALIBRATION_RESULT_AND_DRAFTING_START_AUTHOR_RULING_2026-09-27.md`).
-**Act II is not derived.** **No layer between packets and prose** (no treatments, dialogue plans or beat sheets).
+**Act II (E18–E37, S04, S05) is derived 09-28** (`decisions/B01_ACT_I_REVIEW_ANSWERS_AND_ACT_II_PACKET_RELEASE_AUTHOR_RULING_2026-09-28.md`). **No layer between packets and prose** (no treatments, dialogue plans or beat sheets).
 
 **Manuscript prose is not kept in this repository**, which is public, and manuscript is not canon. Drafts live in a
 separate **private** repository, `jacalder42/concord-saga-manuscript` (live 2026-09-28, ledger §233); see *Where prose lives* below.
@@ -30,6 +30,11 @@ Each episode is drafted from these and nothing else:
 2. **The episode's prose packet**, below its rule.
 3. **Minimum identity context** (Q-CAL1), only for named characters not already established in the preceding prose.
 4. **The actual preceding prose**; or, until it exists, the **context rule** below (Q-CAL3).
+5. **From Act II on, one standing instruction** (Q-AR4): *Continue these people and this novel. Do not reproduce Act I's
+   successful shapes.*
+
+**Nothing else enters the stack.** The review-side watch-list (`REVIEW_WATCHLIST.md`) never does. No length numbers
+(Q-AR5) and no web-serialisation concerns: web installments are derived later from the finished manuscript.
 
 ### Minimum identity context (Q-CAL1)
 
@@ -107,6 +112,21 @@ From the Act I checkpoints (`decisions/B01_ACT_I_DRAFTING_CHECKPOINT_AUTHOR_ANSW
 - **Seraphine's entry into an episode does not default to paperwork.** Her life widens as her story widens.
 - **Act I is closed for editing.** It is the calibration corpus. Its rhythms and endings are judged later in an
   author-led line edit, not an automated pass.
+
+**From the Act I review** (`decisions/B01_ACT_I_REVIEW_ANSWERS_AND_ACT_II_PACKET_RELEASE_AUTHOR_RULING_2026-09-28.md`).
+These describe how narrative behaviour changes; they do not add scenes:
+
+- **Agency (Q-AR7).** Act I happened to them; Act II increasingly happens because of what they decide to do about it.
+  They plan, test assumptions, disagree about what things mean, look for witnesses, cause trouble with what they think
+  they know, miss ordinary obligations, and choose on incomplete evidence.
+- **Seraphine's work (Q-AR8).** Her casework continues, and the investigation begins to cost it. This permits the
+  conflict; it is not a scheduled beat.
+- **Three methods (Q-AR9).** Baz adds testimony, memory and questioning. He does not replace Lucien's physical
+  evidence, measurement and contradiction. Seraphine's method is people, access and care. The investigation is most
+  interesting where the methods disagree.
+- **Titles are working labels (Q-AR2).** A packet's title is a label for the file, never a cue for the page. Final
+  chapter titles are the author's, at publication.
+- **Supplement scale (Q-AR6)** is given in words (*a short piece, about a page*), never as a number.
 
 **Drafting reads the manuscript's continuity layer** (`draft-notes/B01_ACT_I_CONTINUITY.md` in the private repository)
 for anything later prose must remember.

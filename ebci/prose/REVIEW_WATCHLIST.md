@@ -1,0 +1,75 @@
+Status: REVIEW-SIDE DIAGNOSTIC (production). **Never part of the drafting stack.** Nothing here is given to a drafting
+model, a writer or Sudowrite. It is for checkpoints and revisers only.
+
+Ruled by Q-AR4 and Q-AR5 (`decisions/B01_ACT_I_REVIEW_ANSWERS_AND_ACT_II_PACKET_RELEASE_AUTHOR_RULING_2026-09-28.md`).
+The source is the Act I editorial and audience review (`reports/B01_ACT_I_EDITORIAL_AUDIENCE_REVIEW_2026-09-28.md`,
+ledger §238–§239). It is not canon, and it changes no packet.
+
+# Review watch-list: what Act II must not learn from Act I
+
+Act I's successes are the precedent, carried by the revised corpus itself. **This list names the residue.**
+
+**Use it diagnostically.** Each item is a question to ask of a finished draft, not a rule to demonstrate. One instance
+is rarely a problem; a pattern is. Finding an item is a reason to look, not a verdict.
+
+## Endings
+
+- **Did the scene end, and then end again?** The quiet-image ending is Calder. The second image appended after the
+  true ending is not.
+- **Does the last *and* of a long closing sentence add anything the reader didn't already have?** A long cumulative
+  sentence is Calder when it enacts accumulation, time passing or motion the character cannot stop. It is residue when
+  it only manufactures a soft landing.
+- **Is there an epigram exit** — a line that states what the scene meant just before leaving it?
+
+## Motifs and refrains
+
+- **Did a motif change what it costs, or only repeat its wording?** A refrain printed whenever a state resets has
+  become a status flag. Act I's candidates:
+  - the ear-check;
+  - the pencil that deliberates;
+  - the notebook falling open;
+  - involuntary laughter in the same sentence skeleton;
+  - *That was all*;
+  - asking whether someone has eaten, which is retired after its Act I payoff.
+
+## How feelings resolve
+
+- **Did the scene resolve by the Act I template?** The template is: distress → a competent other waits → a task or food
+  → quiet.
+- **Is anyone refusing comfort, misreading someone they care about, staying irritated, or leaving before the right
+  line?** Where the template repeats, the scene needs its own way out, not a different meal.
+- **Are the characters now acting on history?** Look for plans, tests, disagreement, trouble caused by what they think
+  they know, and obligations missed (Q-AR7).
+
+## Recaps and statement
+
+- **Does a character re-list material the reader already lived through?** Give the one face that matters.
+- **Is the theme stated aloud?** Watch especially for a character's speech doing the book's thinking.
+
+## Register
+
+- **Could another character have said this line?** Distinct people must not inherit one rhetorical sentence. In Act I,
+  four different women gave the same construction: an order to sit, because standing is disturbing their place or their
+  customers.
+- **Is every local kind, wise and perfectly timed?** People may be petty, wrong, dull or badly timed.
+- **Does the romance signal itself?** Look for being noticed and re-noticed, or charm by design. Desire may become
+  legible; nothing strange validates it.
+
+## Line level
+
+- **Interruptions:** a cut-off line ends in a dash; an ellipsis only trails away (Q-AR3).
+- **Spelling:** US throughout (Q-AR1).
+- **Stock constructions at density:**
+  - a personifying *had decided*;
+  - *considered* as everyone's reaction;
+  - *which was worse*;
+  - folding *in half and in half again*;
+  - *It wasn't X. It was Y.*
+
+## Scale (Q-AR5)
+
+- **An episode over about 4,500 words triggers inspection, not suspicion.** Event episodes may run longer.
+- **The question is where the length comes from:** additional dramatic function, or duplicated meaning (recap,
+  doubled endings, refrains, repeated resolution)?
+- **The lesson is *remove duplicated meaning*, never *hit a number*.** Revision means fewer duplicated meanings, not
+  shorter scenes.
