@@ -12737,4 +12737,33 @@ END OF ENTRY 242
 
 ===============================================================
 
+# 243. Act II checkpoint reconciled; Q-DR15–24 revised — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `reports/B01_ACT_II_CHECKPOINT_RECONCILIATION_2026-09-28.md`. In the private manuscript repository (`draft-notes/act-ii-review/`, commit `70b3400`):
+- the review the author forwarded (unnamed reviewer, recorded as received);
+- a calendar reconciliation;
+- a forecast-logic analysis.
+
+**No prose is committed here, and none is changed.**
+
+**Found:**
+- **The calendar:** Act I and Act II name incompatible months in every year. Act I causes the drift.
+  - **Option A:** keep the prose clock; the book runs into May.
+  - **Option C:** a hybrid; E48 holds, and Act III runs about 13 days.
+  - **Option B:** keep the architecture's anchors; nine Act I phrases excepted.
+  - The liturgical shape is a separate choice. Baz's arrival has three fixes.
+- **The forecast:** E32 records a hit that E33 ignores; the Marigny's place in the lines is ambiguous; *any* or *next* is unstated. There are three coherent readings:
+  - **A:** technical success; the review's preference.
+  - **B:** a near miss.
+  - **C:** a rise is not *it*; Claude's recommendation, the lowest cost.
+- **Corrected in §242's report and the manuscript checkpoint:** the end-of-stack code shows reach, not comprehension; the food count; ellipses are not a dash test.
+
+**Proposed:**
+- A between-episode continuity check, never fed into drafting.
+- The revised Q-DR15–24, awaiting the author. The recommendation is C, carnival-clear, with a line in E18 for Baz.
+
+END OF ENTRY 243
+
+===============================================================
+
 END RECOVERY LEDGER

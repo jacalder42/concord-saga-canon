@@ -124,3 +124,9 @@ E33), then consequence. **Baz is the best new element.**
 
 **Not a question (length):** the act is 100,410 words and B01 projects to about 230,000. There is no quota (Q-AR5). The
 revision pass's duplicated-meaning cuts are the lever.
+
+## Correction (2026-09-28)
+
+§1's *"which shows it read to the last line"* is kept, but it means only that the agent **reached** the stack's end, not
+that it understood the whole manuscript. The review the author forwarded raised this, and it is taken up in
+`reports/B01_ACT_II_CHECKPOINT_RECONCILIATION_2026-09-28.md`. That report also revises Q-DR15–24.
