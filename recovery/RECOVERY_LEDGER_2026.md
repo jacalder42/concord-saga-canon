@@ -12980,4 +12980,21 @@ END OF ENTRY 254
 
 ===============================================================
 
+# 255. Three forwarded ChatGPT reviews; B03 E41's pronoun corrected — 2026-09-28
+
+**Status:** LEDGER ENTRY. The author forwarded three ChatGPT reviews written before Q-FR1–7 were answered (*"Consider these reviews from Chatgpt (pre q-fr1-7)"*). They are recorded verbatim in the private manuscript repository (`draft-notes/full-book-review/FORWARDED_CHATGPT_REVIEWS.md`) as **recommendations, not answers**. Q-FR1–7 stand.
+
+**What they say, in brief:**
+- **B01 (two reviews, from passages examined, not a full read):** keep the emotional architecture, but test the cumulative rhythm. The questions: where the reader's reason to continue changes; what survives each crisis; which recurring scenes add something new; and what E00 promises. **"Do not commission another general polish pass yet"**: it could make the repetitions more elegant without changing what they do. Further risks: Seraphine's self-spending repeatedly rewarded; disagreements resolved too gracefully; the forecast's accounting; uncertainty without visible gains; one register for the locals.
+- **Veil (B01–B03 architecture):** B02's clearance decision is the trilogy's hinge. Test B03 E39–E48 as a trilogy ending (Baz must stay the subject of his ending; Rex's placement is costly). Make B02's information-sharing mistake credible (name the assumption that fails). Give B02 Act III a sustained objective (the return home). Keep consequences inside repaired relationships. Treat Tahl's rule as character, not settled ethics. Let the Warehouse show earned competence working. Caro should change before her reserved handoff.
+
+**Handled:**
+- **Before the tightening pass,** a structural function map of B01 is commissioned (a whole-book read), so that the pass compresses repeated dramatic *functions*, not only repeated wording. This answers the reviews' third question within Q-FR1's scope. It does not change the approved order.
+- **Findings that need new material** (for example, Seraphine's rewarded self-spending, or conflict that keeps a cost) and **the Veil architecture points** go to the author with the tightening report and the Veil reconciliation. They are not decided here.
+- **Fixed, a continuity error the trilogy review found:** `ebci/B03/S1.T1.B03.A3.E41.md` said *"He writes"* of Trip; canon makes Trip *she* (`canon/characters/TripEBCI.md`; `reports/B01_PROSE_CALIBRATION_REVIEW_2026-09-27.md`). Changed to *"She writes"*.
+
+END OF ENTRY 255
+
+===============================================================
+
 END RECOVERY LEDGER
