@@ -13026,4 +13026,20 @@ END OF ENTRY 257
 
 ===============================================================
 
+# 258. B01 antagonistic discussion; tiered structural outlines instructed — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_TIERED_STRUCTURAL_OUTLINES_AUTHOR_INSTRUCTION_2026-09-28.md`.
+
+**The discussion (in session, not a document):**
+- **The author asked:** is B01 reducible to an *"I'm more considerate than you are"* contest; is everyone too polite, with melodrama in place of drama; and would a harsh cut to 90–120k improve it? Forwarded ChatGPT views were considered: the contest reading is credible; test a 120k structural version on paper first; *"nothing happens"*, because the protagonists endure rather than act.
+- **Claude's findings, from the function map's tags:** 12 of 55 pieces carry conflict, and every one is about method, the right way to care, an instrument or a rumor. None has a person wanting something at another's expense. The root cause is **no opposing will**. Bodily distress stands in for stakes: care appears in 25 pieces and depletion in 10.
+- **Also found:** B01's length was never chosen. It accreted through the drafting pipeline, as the mean piece grew from 3,655 to 4,958 words.
+- **A harsh cut alone would concentrate the problem. A real 120k is a second draft.**
+
+**Instructed:** tiered outlines at about 120k, 150k and 180k (225k baseline), on paper, on shared obligations and conflict-audit foundations. The Veil reconciliation waits. The outlines are proposals.
+
+END OF ENTRY 258
+
+===============================================================
+
 END RECOVERY LEDGER
