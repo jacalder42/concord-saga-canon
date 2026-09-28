@@ -59,3 +59,18 @@ private manuscript repository:
 Derive Act III's prose packets (E38–E48, S06) on calendar C (18–30 April), with the owed written verdict as a thread.
 Then run an imitation audit, then draft sequentially with the flag-only continuity check after each piece (D5). The
 checkpoint is at the end of B01.
+
+## Follow-up (2026-09-28): a forwarded review of the pass
+
+A review of this pass was forwarded by the author and is recorded in the manuscript's
+`draft-notes/act-ii-revision/FORWARDED_REVIEW_OF_REVISION.md`. It is recommendations. Its verdict: accept the pass,
+fix two things, then derive Act III.
+
+- **The forecast's scoring rule.** E27's page could support both success and failure, so the D3 reconciliation was
+  incomplete.
+  - The page now says the first time it comes inside the lines and counts is the answer, and what comes after is not
+    on the page.
+  - Seraphine asks *"And if it comes twice?"* before any outcome.
+  - E32 and E33 score that rule. Tuesday's cost stays the failure of their understanding.
+- **E24's referent:** a policeman carried a folder upstairs, not Clement's phone.
+- **Accepted as a caution:** the comparison count describes this pass. It is not an Act III target.

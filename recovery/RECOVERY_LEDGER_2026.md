@@ -12827,4 +12827,22 @@ END OF ENTRY 246
 
 ===============================================================
 
+# 247. A forwarded review of the Act II revision; the forecast rule finished — 2026-09-28
+
+**Status:** LEDGER ENTRY. The review is recorded in the manuscript's `draft-notes/act-ii-revision/FORWARDED_REVIEW_OF_REVISION.md`; the follow-up is in `reports/B01_ACT_II_REVISION_PASS_2026-09-28.md`. The review is recommendations. Its first item completes the author's D3 ruling (*"Reconcile the boundary and scoring explicitly"*), so it was applied within that ruling.
+
+**Applied (manuscript only):**
+- **E27:** the page adds *The first time it comes inside these streets and counts is the answer. What comes after is not on this page.* Seraphine asks *"And if it comes twice?"* before any outcome.
+- **E32 and E33** score that rule: Saturday was the first that counted, and Tuesday is not on the page.
+- **E24:** the thing carried upstairs is the policeman's folder, not Clement's phone.
+- **The report's E25 explanation** is corrected.
+
+**Accepted as a caution:** the comparison frequency describes the pass; it is no Act III target.
+
+**Next:** Act III prose packets (E38–E48, S06) on calendar C, when the author says go.
+
+END OF ENTRY 247
+
+===============================================================
+
 END RECOVERY LEDGER
