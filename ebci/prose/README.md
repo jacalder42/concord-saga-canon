@@ -6,7 +6,7 @@ sequential B01 drafting has begun** (`decisions/PROSE_CALIBRATION_RESULT_AND_DRA
 **Act II is not derived.** **No layer between packets and prose** (no treatments, dialogue plans or beat sheets).
 
 **Manuscript prose is not kept in this repository**, which is public, and manuscript is not canon. Drafts live in a
-separate **private** repository, provisionally `concord-saga-manuscript`; see *Where prose lives* below.
+separate **private** repository, `jacalder42/concord-saga-manuscript` (live 2026-09-28, ledger §233); see *Where prose lives* below.
 
 ## The derivation rule
 

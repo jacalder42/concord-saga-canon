@@ -12510,4 +12510,16 @@ END OF ENTRY 232
 
 ===============================================================
 
+# 233. The private manuscript repository is live — 2026-09-28
+
+**Status:** LEDGER ENTRY. A pointer only, as Q-CAL4 allows; no prose enters this repository.
+
+**Done:** the author created `jacalder42/concord-saga-manuscript` (**private**, verified) and attached it to the session. Claude pushed the manuscript's full local history to its `main`: 24 commits, the B01 Act I first drafts (`B01/act-01/E00.md` … `E17.md`, `S01`–`S03`) and `draft-notes/` (both checkpoints). **Manuscript authority now lives there.** The git bundle is superseded. The manuscript is not canon (§229).
+
+**Unchanged:** the author's review of Act I and Q-DR7–14 (§232) is next.
+
+END OF ENTRY 233
+
+===============================================================
+
 END RECOVERY LEDGER
