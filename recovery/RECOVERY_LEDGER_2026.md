@@ -12616,4 +12616,37 @@ END OF ENTRY 238
 
 ===============================================================
 
+# 239. Act I reviews reconciled; an answer set proposed — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `reports/B01_ACT_I_REVIEW_RECONCILIATION_AND_ACT_II_READINESS_2026-09-28.md`. The two ChatGPT texts the author forwarded are recorded as received in the private manuscript repository (`draft-notes/act-i-review/CHATGPT_*`, commit `b53765c`). **No prose is committed here. No Act I edits.**
+
+**Agreed across all four reviews:** Act I passes and is frozen developmentally. The weaknesses are production habits, not story.
+
+**Disagreements recorded:**
+- E15 or E17 as the climax. Recommended: E17's *we* is the act's turn.
+- The E09–E14 sag: both readings recorded, no action.
+- The sky presences, Dré and Seraphine's ownership: no change, since each is the architecture.
+- S03: judged as prose at the line edit.
+
+**Found:**
+- **Seraphine's casework is absent from all eleven of her Act II/III packets.** ChatGPT's casework guard fills the gap.
+- Its decision guard and Baz/Lucien guard match the architecture (E19, E22, E28, E29, E33, E39).
+- **Refinement:** an "emulate" list in the drafting stack would teach Act I's shapes. The revised corpus carries the precedent itself; the watch-list is review-side only.
+
+**Proposed for the author to confirm (Q-AR1–10):**
+- Q-AR1: US spelling, applied to Act I now as a mechanical exception.
+- Q-AR2: working titles.
+- Q-AR3: dash for an interruption, ellipsis for trailing off.
+- Q-AR4: a review-side watch-list, plus one drafting instruction.
+- Q-AR5: no length number in packets; scale monitored externally.
+- Q-AR6: S03 left; supplement scale given as form guidance.
+- Q-AR7–9: decision, casework and Baz/Lucien guards.
+- Q-AR10: release Act II prose-packet derivation after Q-AR1–9.
+
+**ChatGPT's answers are recommendations, not the author's.**
+
+END OF ENTRY 239
+
+===============================================================
+
 END RECOVERY LEDGER
