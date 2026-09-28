@@ -21,3 +21,16 @@ B01's later prose packets. Manuscript is not canon.
 | **Q-DR14** | Recurring calibration names: *"no action."* | **Decided** |
 
 **Still pending from Q-DR4:** *Carol* is renamed at revision.
+
+## 2. Q-DR9 decided (2026-09-28, author follow-up)
+
+The author's words: *"q-dr9 recommendation accepted. The six-block walk itself is not the problem. Its edgelessness is
+Seraphine's subjective/experienced information and can remain. We're removing the independent public behavior event,
+not shrinking E13 geographically just because six blocks sounds large. hold on revision pass until I release."*
+
+- **Decided:** at revision, **remove E13's independent public behaviour event**: the dogs, the horns, the arguments,
+  the shouting and the shoving. Adjust the E16 sentence that cites it.
+- **Kept:** the six-block walk and its edgelessness. It is **Seraphine's experienced information (ATT)**, and E13 is not
+  reduced geographically. Also kept: Lucien's fall, the hands, the column of *same*, and the same-minute times.
+- **E13's record stands as written** (INT, W0). No EBCI change.
+- **HOLD:** the revision pass does not start until the author releases it.

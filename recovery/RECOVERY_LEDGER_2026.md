@@ -12541,4 +12541,16 @@ END OF ENTRY 234
 
 ===============================================================
 
+# 235. Q-DR9 decided; the revision pass held — 2026-09-28
+
+**Status:** LEDGER ENTRY. An addendum (§2) to `decisions/B01_ACT_I_DRAFTING_CHECKPOINT_AUTHOR_ANSWERS_2026-09-28.md`.
+
+**Decided:** the §234 recommendation is accepted. At revision, E13's **independent public behaviour event** is removed and E16's citing sentence is adjusted. **The six-block walk and its edgelessness stay**, as Seraphine's experienced information (ATT). E13 is not shrunk geographically. E13's record (INT, W0) stands unchanged.
+
+**HOLD:** the revision pass waits for the author's release. The manuscript's revision queue is updated.
+
+END OF ENTRY 235
+
+===============================================================
+
 END RECOVERY LEDGER
