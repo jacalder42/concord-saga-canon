@@ -12569,4 +12569,24 @@ END OF ENTRY 236
 
 ===============================================================
 
+# 237. Revision report answered; Act I closed for editing — 2026-09-28
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_ACT_I_REVISION_REPORT_AUTHOR_ANSWERS_2026-09-28.md`.
+
+**Decided:**
+- Mara's two pre-E07 incidents are manuscript continuity (the world is discovered, not activated; the first occurrence is never established).
+- Seraphine's paperwork openings stay, but Act II entries do not default to paperwork.
+- E17's *"Guidry said not to count on him"* and E15's *machine* callback are restored (manuscript `f7fe061`).
+- S03's facts are verified before publication.
+- There is no automated pass on the *and… and…* rhythms or quiet-image endings; they wait for an author-led line edit.
+- **Act I is closed for editing and becomes the calibration corpus.**
+
+**Applied:** `ebci/prose/README.md` gains the guards for Act II and after (no camp return, no Vienna scene, no landmark bearing, no paperwork default).
+
+**Next:** the post-revision editorial / audience review of the revised Act I. No Act II packets until it is in.
+
+END OF ENTRY 237
+
+===============================================================
+
 END RECOVERY LEDGER

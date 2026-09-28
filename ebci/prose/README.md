@@ -95,3 +95,18 @@ engine tic and AI tell.
 ## The writer profile
 
 `WRITER_PROFILE_JA_CALDER.md` is the one stable instruction set that accompanies every packet (**approved 09-27** for Veil). **No per-character voice layer:** at a character's first substantial POV appearance only, one card line about how they notice or think may be promoted; after that the preceding prose governs. It is **recovered, not invented**: `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md` registers every source, its provenance and the conflicts. It carries no scores, ratios or required beats.
+
+## Guards for B01 Act II and after
+
+From the Act I checkpoints (`decisions/B01_ACT_I_DRAFTING_CHECKPOINT_AUTHOR_ANSWERS_2026-09-28.md`,
+`decisions/B01_ACT_I_REVISION_REPORT_AUTHOR_ANSWERS_2026-09-28.md`), carried into prose-packet derivation.
+
+- **No return to the camp in B01** (Q-DR7).
+- **No Vienna scene in B01.** Mentioning that Lucien is from Vienna is fine (Q-DR8).
+- **No landmark or compass direction for Lucien's lean** (Q-DR10). E04's *toward the low sun* is the only bearing.
+- **Seraphine's entry into an episode does not default to paperwork.** Her life widens as her story widens.
+- **Act I is closed for editing.** It is the calibration corpus. Its rhythms and endings are judged later in an
+  author-led line edit, not an automated pass.
+
+**Drafting reads the manuscript's continuity layer** (`draft-notes/B01_ACT_I_CONTINUITY.md` in the private repository)
+for anything later prose must remember.
