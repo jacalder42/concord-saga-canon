@@ -14210,4 +14210,20 @@ END OF ENTRY 304
 
 ===============================================================
 
+## §305 — B01 redraft, Act II: drafted to its close and checkpointed, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_II_CHECKPOINT_2026-09-29.md`.
+
+- **Act II is drafted:** E16–E36, 54,356 words (packets 62,700), in the private manuscript repository, with four checkpoints (§302–§305). Nothing is quoted here. The redraft so far is about 93,100 words.
+- **The last stretch:** E32 5, E33 2, E34 4, E35 3, E36 4. **The reader would start Act III that night.** As an editor: keep reading; **Act II 4 / 5**. The faults are sameness and warmth, not structure.
+- **Seraphine:** she owns the told/untold log (the page's rule), the ring-walking method and the case on the fence. Her weakest stretch is E31–E33. **Fixed in E34:** her notebook now questions her own theory.
+- **The packet check:** every fixed beat is delivered. Must-fixes applied: Baz never sees a case; *case*, not *box*; omens around Baz cut; the column told by Baz's choice; no new glass rule; a name collision renamed.
+- **Q-A2C1–5 await the author:** keep E28 and trim it at the line edit; keep the three breathers for now; Lucien's Guidry letter lands in E38; repeated shapes go to the line edit and the watch-list; proceed to Act III.
+
+**Next:** the author's answers, then the Act III reconciliation and packets.
+
+END OF ENTRY 305
+
+===============================================================
+
 END RECOVERY LEDGER
