@@ -13606,4 +13606,43 @@ END OF ENTRY 280
 
 ===============================================================
 
+## §281 — The merged B01 outline and the pressure lines reconciled to the approved answers, 2026-09-29
+
+**Status:** LEDGER ENTRY. Step (1) of the Q-AC1 order is closed. The approved revised Q-MO1–5 and Q-XP1–7 (§280) are now applied to the working material, as follows.
+
+**In the private manuscript repository:**
+- `draft-notes/b01-engine/B01_MERGED_ENGINE_OUTLINE.md` is reconciled. The changes:
+  - **R8 is bounded.** It is no longer stated as a law.
+  - **C1 is out.**
+  - **Lucien's P31, P36, P38 and P48 beats** are changed:
+    - P31: he recognises someone else's independent instruments.
+    - P36: his report to R. stays procedural, with no routine question.
+    - P38: his question to R. is written and not sent.
+    - P48: he tells Seraphine and Baz the fact, with no route drawn and no blank column.
+  - **§5.3 gains two guards:** choice, not category; and independent people.
+  - **§5.4:** his knowledge is kept distinct from the reader's.
+  - **Seraphine's record want and pleasure** enter her arc.
+  - **§9** is marked answered.
+  - A duplicated table delimiter in §7.3 is fixed.
+- `draft-notes/character-pressures/THIRD_PRESSURE_WORKING_LINES.md` is new. It holds:
+  - the stack, with no quota;
+  - the drift, with the independence guard;
+  - per-character lines by act, for seven characters (Mara's provisional);
+  - an *authority / justification / interests* table for the non-POV sources.
+
+  It supersedes the proposal where they differ. The proposal and Mara's proposal are marked answered.
+
+**In canon:**
+- `ebci/prose/README.md` gains the stack format and external-pressure rules.
+- `proposals/CHARACTER_PRESSURE_CARDS_2026-09-29.md` §9 notes:
+  - Mara's lines are approved as provisional;
+  - Seraphine's *Protects* line carries *"not to lose anyone else"*, and her *Wants* line carries her record want and pleasure.
+- `reports/B01_MERGED_ENGINE_OUTLINE_2026-09-29.md` gains a paraphrased reconciliation note.
+
+**Next:** the Veil B02–B03 beat revision (Q-CE2 step 2).
+
+END OF ENTRY 281
+
+===============================================================
+
 END RECOVERY LEDGER

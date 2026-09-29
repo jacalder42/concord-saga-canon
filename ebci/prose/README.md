@@ -66,6 +66,23 @@ protects, habitually misreads, when threatened*), and those of any character who
 - A pressure is given as it stands at this point in the book. A **susceptibility** that the book has not yet enacted is
   marked as one, not given as a habit.
 
+**The stack format and the external pressure** (Q-MO1–5, Q-XP1–7, approved as amended 2026-09-29,
+`decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md`):
+- **Order:** *Wants* (for themselves) → *Pressed by* (the external source in the scene) → *Protects* (care, as a reflex
+  with a price) → *Misreads* → *Under pressure* (shadow, and one constructive response). Seraphine's *"not to lose
+  anyone else"* is carried on her *Protects* line.
+- **A drafting aid, not a quota.** Care may open a scene. A piece is judged by **what the character chooses and
+  changes**, not by which line heads the objective.
+- ***Pressed by*** gives the source's **authority, stated justification and whose interests it serves**, and its drift
+  at this point (ordinary friction in Act I; a will from Act II; pointing above in Act III). **Ordinary people keep
+  their own motives and agency;** existing contact with the hidden organisations may remain, without making every
+  pressure part of the hidden network. No faction vocabulary, and never forward.
+- **Seraphine's second want** is *her own account on the record*, with its motive shown per scene, never labelled
+  pride by default; **pleasure** (*a room that doesn't need her*) stays an actionable want.
+- **Mara's lines** are provisional (Q-MO4).
+- The per-character lines by act quote the manuscript, so they live in the private manuscript repository
+  (`draft-notes/character-pressures/THIRD_PRESSURE_WORKING_LINES.md`) and enter packets only as they stand at the piece.
+
 ### The context rule (Q-CAL3)
 
 **Until real preceding prose exists,** the context given to the drafting engine is **only** the relevant earlier

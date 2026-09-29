@@ -567,6 +567,8 @@ Approved by `decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_
 
 ### Seraphine (revised; replaces §1's draft in the drafting stack)
 
+**Update 2026-09-29 (Q-XP1, Q-XP5):** in the stack, *"not to lose anyone else"* is carried on her *Protects* line. Her *Wants* line is the Q-WL1 want plus **her own account on the record** (motive shown per scene), with **pleasure** kept as an actionable want (`decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md`).
+
 From `reports/CONFLICT_ENGINE_AND_PROFILE_TEST_REVIEWS_RECONCILIATION_2026-09-29.md` §4. §1's draft gave her a later
 failure as a B01 habit.
 
@@ -581,7 +583,7 @@ failure as a B01 habit.
 
 ### Mara
 
-**Proposed 2026-09-29; awaiting the author's approval. Not used in any stack until approved.** The evidence (short
+**Proposed 2026-09-29; awaiting the author's approval. Not used in any stack until approved.** **Update 2026-09-29: approved as provisional drafting guidance (Q-MO4,** `decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md`**).** The evidence (short
 manuscript quotes, and an alternative reading for each line) is in the private manuscript repository,
 `draft-notes/character-pressures/MARA_PRESSURES_PROPOSAL.md`. Drawn from what she does in B01 (E09, E40, E41,
 E44–E48), deliberately not from her courtesy.

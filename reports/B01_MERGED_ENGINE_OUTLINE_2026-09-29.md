@@ -9,6 +9,23 @@
 **What it does not change:** no EBCI brief, packet, grid, register or manuscript text. **It is not yet the redraft's
 source.** Under Q-AC2, it feeds a revision of B01's EBCI.
 
+**Reconciled 2026-09-29 (ledger §281)** with the approved revised Q-MO1–5 and Q-XP1–7
+(`decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md`). In the private outline:
+- **R8** is bounded to the observed events: not consistently larger, and the intervals don't support the page's
+  schedule. It is no longer stated as a law.
+- **The cup (C1)** is out of every piece.
+- **Lucien:**
+  - **P31:** he recognises someone else's independent instruments.
+  - **P36:** his report to R. stays procedural and off the page; the routine question is dropped.
+  - **P38:** his question to R. is written and not sent.
+  - **P48:** he tells Seraphine and Baz the fact, with no route drawn and no blank column.
+- **§5.3** carries two guards: choice, not category; and independent people.
+- **§5.4** carries his knowledge distinct from the reader's.
+- **Seraphine's record want and pleasure** are in her arc.
+- **§9's seven items** are marked answered.
+
+The per-character lines are consolidated in the private `draft-notes/character-pressures/THIRD_PRESSURE_WORKING_LINES.md`.
+
 ## 1. What it is
 
 - **52 pieces, P00–P49, and 150,000 words** (Act I 46k, Act II 62k, Act III 42k). The two supplements, S02 and S06,
