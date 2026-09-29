@@ -13312,4 +13312,37 @@ END OF ENTRY 269
 
 ===============================================================
 
+# 270. B01's missing antagonist: study and options — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `proposals/B01_ANTAGONIST_PRESENCE_OPTIONS_2026-09-29.md`, a subagent study reviewed by Claude. Its private twin, with manuscript quotes, is at the manuscript's `draft-notes/b01-antagonist/`.
+
+**Found (checked):**
+- B01's absence of an antagonist is designed:
+  - v4.1b R14, *"footprints/procedures"*;
+  - SRA B2, *"B01 procedural and off-page"*;
+  - VAR, *"No named antagonist, and none is needed"*.
+- **The manuscript never names the Dominion or Technarc**, and folds both into a friendly "city".
+- Every hint dissolves within B01. The 150k outline answers E23's withheld question, and the file closes.
+- Only Elias is barred by rulings. A named Dominion or Technarc figure is barred only by approved design.
+
+**Recommended:** *the file that went upstairs*, about 800 words, no names, nothing explained:
+- upstairs keeps the question (E39) and takes a copy (E47);
+- R.'s note says the camp report went up (E39);
+- an unnamed man, reported, came to Renée's family for the time (Metairie I and II);
+- an unattributed grey case sits on the Square fence during the window (E47–E48).
+
+B02 E08 and E13 become recognitions. **No ruling changes.** Claude adds a stronger variant: the man is seen once, and recognisable at B03 E21.
+
+**For the author, Q-AN1–4:**
+- the shape: unattributed, seen once, or named;
+- amend VAR's *"none is needed"* by note;
+- D4's reading of R.'s clause;
+- the B02 pickups.
+
+**Running:** the foundations drafts.
+
+END OF ENTRY 270
+
+===============================================================
+
 END RECOVERY LEDGER
