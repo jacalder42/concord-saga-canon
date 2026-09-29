@@ -13645,4 +13645,24 @@ END OF ENTRY 281
 
 ===============================================================
 
+## §282 — Veil B02–B03 beat revision, pass 6 (the cast-conflict pass), proposed, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `proposals/VEIL_B02_B03_BEAT_REVISION_PASS6_2026-09-29.md`. It is step (2) of the Q-AC1 order and Q-CE2 step 2, drafted under the approved revised Q-MO/Q-XP set (§280). **It is a proposal: nothing is applied.** The pass-5 files and the B02/B03 packets are untouched until the author answers.
+
+**What it proposes:**
+- **Revised beats:** 13 B02 episodes and 13 B03 episodes. It adopts all sixteen audit proposals, some refined, and adds four: Elisabet's return, Seraphine at the off-registry household, her own account, and R18 at B03 E22.
+- **B01 handoff lines:** nine further B02 episodes gain them.
+- **A packet-wording sweep:** 46 rows (40 forced by the revisions, 6 standalone).
+- **Elisabet's B02 E05 return condition (Q-MO5):** option A, a university-sponsored season on consent-only terms. The city's revocation stands.
+
+**Sign-off check:** Q-CE5 passes 7/7 for B03 and 6/7 for B02. The antagonist act on the group is still weak in B02; an optional E14 inference is proposed for it. B02 Act I's protagonists remain mostly receivers.
+
+**Checked by Claude:** all 93 quotations resolve to canon-repository files. The private outline and pressure lines are paraphrased, not quoted.
+
+**For the author:** Q-VB1–12.
+
+END OF ENTRY 282
+
+===============================================================
+
 END RECOVERY LEDGER
