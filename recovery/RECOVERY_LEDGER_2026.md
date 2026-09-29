@@ -14069,4 +14069,38 @@ END OF ENTRY 297
 
 ===============================================================
 
+## §298 — B01 redraft Act I drafted; the Act I checkpoint (continuous read), 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_I_CHECKPOINT_2026-09-29.md` and the drafting that preceded it.
+
+- **Applied (§297):**
+  - E05 is folded into E03, with the standalone kept in the manuscript's alternates.
+  - E03's errands are trimmed.
+  - Seraphine considers Lucien as a witness (E07), asks for his statement (E09) and is refused (E10).
+  - E09's days shifted so that E14 lands on 17 March.
+  - `ebci/prose/README.md` records that a fixed beat names an obligation.
+- **Drafted:** E10–E15. **B01 Act I of the redraft is 41,044 words** against an allowance of about 46k. It is in the private manuscript repository; nothing is quoted here.
+- **Three reads of the whole act** (findings bounded):
+  - Reader C: 4, then 3.5, then 3.5–4; would buy.
+  - Editor D: 4 / 5; would request the full manuscript.
+  - The four shared-investigation tests: chosen together, yes; different abilities, partly; a forcing result, yes (shared after the fix); something neither could make alone, yes (the matched minute).
+- **Fixed:**
+  - E14's amplifier now stays dead, and the second recording is a boy's (packet Ends).
+  - E10's board count.
+  - E12's landmarks and a POV slip.
+  - E13's clock times.
+  - E15: Seraphine's agency in the decision, and no hint of withholding from his office.
+  - Continuity slips and tics.
+- **Added, with no new event:** Lucien sees his two records now contradict each other.
+- **Questions:**
+  - **Q-AC1:** keep the E05 fold and record its packets as delivered in E03.
+  - **Q-AC2:** E11, recommended trim.
+  - **Q-AC3:** a focused Act I revision pass, then Act II packets with two carry-forwards.
+  - **Q-AC4:** confirm the camp-guard reading.
+  - **Q-AC5:** keep E15's latent collision.
+
+END OF ENTRY 298
+
+===============================================================
+
 END RECOVERY LEDGER
