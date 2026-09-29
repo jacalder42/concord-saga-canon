@@ -14020,4 +14020,34 @@ END OF ENTRY 295
 
 ===============================================================
 
+## §296 — B01 redraft E05–E09 drafted; second momentum checkpoint, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_MOMENTUM_CHECKPOINT_E05_E09_2026-09-29.md`.
+
+- **Drafted:** E05–E09 and S02, 12,385 words (E00–E09: 24,327). The drafts are in the private manuscript repository; nothing is quoted here.
+- **Three reads.** Their findings are bounded:
+  - Reader A: 4, then 3.5 after E09.
+  - Reader B, a skeptical editor: 3 / 5.
+  - The checker.
+- **The author's four questions:**
+  - E06–E08 pass.
+  - E05 and E09 do not.
+  - The investigation is real but solitary.
+  - **The momentum problem is reduced, not solved.**
+- **Fixed after the reads:**
+  - E07 compared the Square to the camp road (a guard breach).
+  - Two notebook incidents were dated before the death, in tension with the identity card §XII. They are re-dated.
+  - The Square's scale is reduced to leave E14 headroom.
+  - The wish to be first was labelled.
+  - E09 closed on a repair.
+  - Continuity slips and tics.
+- **Questions for the author:**
+  - **Q-MC3:** E05, recommended keep with the E03 trim.
+  - **Q-MC4:** the neighbor's card, recommended keep.
+  - **Q-MC5:** draft E10–E15, then the Act I checkpoint. Recommended yes.
+
+END OF ENTRY 296
+
+===============================================================
+
 END RECOVERY LEDGER
