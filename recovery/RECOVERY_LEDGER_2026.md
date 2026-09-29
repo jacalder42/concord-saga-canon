@@ -14290,4 +14290,19 @@ END OF ENTRY 309
 
 ===============================================================
 
+## §310 — B01 redraft, Act III: the E42–E45 momentum checkpoint, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_III_MOMENTUM_CHECKPOINT_E42_E45_2026-09-29.md`.
+
+- **E42–E45 drafted**, about 12,000 words (packets 10,400), in the private manuscript repository. Nothing is quoted here.
+- **Reader:** E42 4, E43 3, E44 4, E45 5; would start E46 at once; as an editor 4 / 5. Asked for the gathering to be Seraphine's decision.
+- **Checker:** every fixed beat delivered. Must-fixes applied: the file closes on Friday (E44, agreeing with E48); an invented delay before the family's call cut (E44); a name collision with S06 (E45); Mara's struck name no longer reinstated at once (E45); the wind felt, not stated (E43); daylight and a memo's timing (E41, E42, E44).
+- **From the reader:** the lot's size is Seraphine's decision, from Caro's printout (E45); the E39 rupture visible (E42); E43 ends open.
+
+**Next:** E46–E49 and the end-of-book checkpoint.
+
+END OF ENTRY 310
+
+===============================================================
+
 END RECOVERY LEDGER
