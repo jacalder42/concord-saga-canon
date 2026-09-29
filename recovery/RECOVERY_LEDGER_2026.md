@@ -13953,4 +13953,25 @@ END OF ENTRY 292
 
 ===============================================================
 
+## §293 — B01 redraft Act I drafting released (Q-DR-R1–5), 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/ACT_I_DRAFTING_RELEASE_AUTHOR_ANSWERS_2026-09-29.md`.
+
+**Author:** *"Approved proceed."* The answers are approved design.
+- **Act I drafting is released.** About 46,000 words is an allowance, and momentum is assessed at the early checkpoints.
+- **Packet edits applied:**
+  - **B03 E26:** Seraphine, Caro and Elisabet are at the second line for ordinary reasons, with no required exchanges.
+  - **B02 E06:** Baz starts a line with Naima.
+  - **B01 E08:** Mara's open refusal, in the EBCI packet, the prose packet and the beat row.
+  - **B01 E01:** Odile's word about the card is her account of the family's decision, not narrator-certified.
+- **B03's quiet opening** stays as it is, to be tested in prose.
+
+The validator shows 0 violations.
+
+**Next:** sequential drafting of E00–E04 in the private manuscript repository, then a momentum checkpoint.
+
+END OF ENTRY 293
+
+===============================================================
+
 END RECOVERY LEDGER
