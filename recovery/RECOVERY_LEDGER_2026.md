@@ -13862,4 +13862,35 @@ END OF ENTRY 289
 
 ===============================================================
 
+## §290 — Veil pass 6 applied to the B02 packets, with F3–F5 and the review's recasts, 2026-09-29
+
+**Status:** LEDGER ENTRY. Pass 6 (`proposals/VEIL_B02_B03_BEAT_REVISION_PASS6_2026-09-29.md`) is applied to `ebci/B02/`, as approved in §285. It comes with F3 and F4, and with the act-level review's §6(a) (§288). §6(b) is not applied; it is the author's.
+
+**What changed:**
+- **25 of 47 packets**, each with a dated note.
+- **Handoff lines only:** E01, E11, E12, E13 and E35.
+- **E05:** Elisabet's return is on F4's terms: the university's terms, the release is Caro's employer's, and it is *"the only non-public data"*.
+- **E08:** the camp report was read. Lucien asks Helena one question.
+- **E09:** the visit is off the center's books.
+- **E21:** X1. He gives his word not to use the names.
+- **E22:** Baz is outvoted, and says his dissent.
+- **E26:** W9. Lucien sends the grounds over Seraphine's objection.
+- **E28:** Rieux's condition, which Seraphine takes on.
+- **E30:** W11. Leila stops offering.
+- **E31:** W12 and W13. Lucien is off her rounds; Seraphine and Caro argue the list and keep calling.
+- **E33:** F3. Her written account is drafted and not submitted.
+- **E36:** F4. The next release is refused; M07 is kept.
+- **E23 and E47:** Helena in Q-XP2's form.
+- **Sweep rows 1–24.**
+- **One B01 cross-reference** moved to the redraft numbering.
+- **Q-VB11's E14 recognition** is not added.
+
+**Beat grid:** nine B02 packets gain a beat, so the grid goes from 357 to 366 rows.
+
+**Checks:** the validator shows 0 violations and the self-tests pass. B03 follows in its own entry.
+
+END OF ENTRY 290
+
+===============================================================
+
 END RECOVERY LEDGER

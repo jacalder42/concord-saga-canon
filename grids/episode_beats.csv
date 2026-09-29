@@ -175,7 +175,8 @@ S1.T1.B02.A1.E06,"Bastien ""Baz"" Arnaud",NONE,U1,W1,CIV,H0,FX0,CALM,L1,S1.T1.B0
 S1.T1.B02.A1.E07,"Bastien ""Baz"" Arnaud + Lucien Kael",NONE,U1,W1,SCI,H0,FX0,CALM,L1,S1.T1.B02.A1.E07-BT01,timestamps,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E07.md; values are the episode end state
 S1.T1.B02.A1.E07,"Bastien ""Baz"" Arnaud + Lucien Kael",NONE,U1,W1,SCI,H0,FX0,CALM,L1,S1.T1.B02.A1.E07-BT02,the wording,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E07.md; values are the episode end state
 S1.T1.B02.A1.E08,Lucien Kael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A1.E08-BT01,the letter,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E08.md; values are the episode end state
-S1.T1.B02.A1.E08,Lucien Kael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A1.E08-BT02,what he sends,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E08.md; values are the episode end state
+S1.T1.B02.A1.E08,Lucien Kael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A1.E08-BT02,one question,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E08.md; values are the episode end state
+S1.T1.B02.A1.E08,Lucien Kael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A1.E08-BT03,what he sends,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E08.md; values are the episode end state
 S1.T1.B02.A1.E09,Seraphine Vael,NONE,U1,W1,SLICE,H0,FX0,CALM,L1,S1.T1.B02.A1.E09-BT01,the household,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E09.md; values are the episode end state
 S1.T1.B02.A1.E09,Seraphine Vael,NONE,U1,W1,SLICE,H0,FX0,CALM,L1,S1.T1.B02.A1.E09-BT02,the confidences,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E09.md; values are the episode end state
 S1.T1.B02.A1.E10,"Bastien ""Baz"" Arnaud",NONE,U2,W1,SCI,H0,FX0,CALM,L1,S1.T1.B02.A1.E10-BT01,the recurring blocks,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A1.E10.md; values are the episode end state
@@ -203,8 +204,10 @@ S1.T1.B02.A2.E20,Caro,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E20-BT01,the ga
 S1.T1.B02.A2.E20,Caro,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E20-BT02,the rota,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E20.md; values are the episode end state
 S1.T1.B02.A2.E20,Caro,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E20-BT03,the follow-up calls,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E20.md; values are the episode end state
 S1.T1.B02.A2.E21,Seraphine Vael + Lucien Kael,NONE,U1,W1,ROM,H1,FX0,CALM,L2,S1.T1.B02.A2.E21-BT01,"her notes, reorganised",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E21.md; values are the episode end state
+S1.T1.B02.A2.E21,Seraphine Vael + Lucien Kael,NONE,U1,W1,ROM,H1,FX0,CALM,L2,S1.T1.B02.A2.E21-BT02,"what he read, and his word",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E21.md; values are the episode end state
 S1.T1.B02.A2.E22,"Bastien ""Baz"" Arnaud",NONE,U1,W1,SCI,H0,FX0,CALM,L2,S1.T1.B02.A2.E22-BT01,version 2 over Bywater,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E22.md; values are the episode end state
 S1.T1.B02.A2.E22,"Bastien ""Baz"" Arnaud",NONE,U1,W1,SCI,H0,FX0,CALM,L2,S1.T1.B02.A2.E22-BT02,Rosette's block,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E22.md; values are the episode end state
+S1.T1.B02.A2.E22,"Bastien ""Baz"" Arnaud",NONE,U1,W1,SCI,H0,FX0,CALM,L2,S1.T1.B02.A2.E22-BT03,the vote,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E22.md; values are the episode end state
 S1.T1.B02.A2.E23,Lucien Kael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A2.E23-BT01,the call,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E23.md; values are the episode end state
 S1.T1.B02.A2.E24,"Bastien ""Baz"" Arnaud",NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E24-BT01,the offer,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E24.md; values are the episode end state
 S1.T1.B02.A2.E24,"Bastien ""Baz"" Arnaud",NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E24-BT02,the line,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E24.md; values are the episode end state
@@ -212,27 +215,33 @@ S1.T1.B02.A2.E25,Seraphine Vael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A2.E25-B
 S1.T1.B02.A2.E25,Seraphine Vael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A2.E25-BT02,her refusal,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E25.md; values are the episode end state
 S1.T1.B02.A2.E26,Lucien Kael,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E26-BT01,the draft,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E26.md; values are the episode end state
 S1.T1.B02.A2.E26,Lucien Kael,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E26-BT02,what goes in,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E26.md; values are the episode end state
-S1.T1.B02.A2.E26,Lucien Kael,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E26-BT03,sent,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E26.md; values are the episode end state
+S1.T1.B02.A2.E26,Lucien Kael,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E26-BT03,the call to Seraphine,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E26.md; values are the episode end state
+S1.T1.B02.A2.E26,Lucien Kael,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E26-BT04,sent,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E26.md; values are the episode end state
 S1.T1.B02.A2.E27,Officer Daniel Rieux,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E27-BT01,"the order, in public",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E27.md; values are the episode end state
 S1.T1.B02.A2.E27,Officer Daniel Rieux,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E27-BT02,moving people,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E27.md; values are the episode end state
 S1.T1.B02.A2.E27,Officer Daniel Rieux,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E27-BT03,the oxygen resident,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E27.md; values are the episode end state
 S1.T1.B02.A2.E28,Seraphine Vael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A2.E28-BT01,Rosette at her door,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E28.md; values are the episode end state
-S1.T1.B02.A2.E28,Seraphine Vael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A2.E28-BT02,the book,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E28.md; values are the episode end state
+S1.T1.B02.A2.E28,Seraphine Vael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A2.E28-BT02,Rieux's condition,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E28.md; values are the episode end state
+S1.T1.B02.A2.E28,Seraphine Vael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A2.E28-BT03,the book,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E28.md; values are the episode end state
 S1.T1.B02.A2.E29,Mme Rosette + Officer Daniel Rieux,NONE,U4,W1,ACT,H0,FX2,CALM,L2,S1.T1.B02.A2.E29-BT01,the window opens,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E29.md; values are the episode end state
 S1.T1.B02.A2.E29,Mme Rosette + Officer Daniel Rieux,NONE,U4,W1,ACT,H0,FX2,CALM,L2,S1.T1.B02.A2.E29-BT02,the cluster,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E29.md; values are the episode end state
 S1.T1.B02.A2.E29,Mme Rosette + Officer Daniel Rieux,NONE,U4,W1,ACT,H0,FX2,CALM,L2,S1.T1.B02.A2.E29-BT03,"the book, minute by minute",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E29.md; values are the episode end state
 S1.T1.B02.A2.E29,Mme Rosette + Officer Daniel Rieux,NONE,U4,W1,ACT,H0,FX2,CALM,L2,S1.T1.B02.A2.E29-BT04,afterwards,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E29.md; values are the episode end state
-S1.T1.B02.A2.E30,Caro + Elisabet Arnardóttir,NONE,U1,W1,ROM,H1,FX0,CALM,L2,S1.T1.B02.A2.E30-BT01,"after the cluster, the ambulance bay",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E30.md; values are the episode end state
+S1.T1.B02.A2.E30,Caro + Elisabet Arnardóttir,NONE,U1,W1,ROM,H1,FX0,CALM,L2,S1.T1.B02.A2.E30-BT01,"Leila, and the missed session",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E30.md; values are the episode end state
+S1.T1.B02.A2.E30,Caro + Elisabet Arnardóttir,NONE,U1,W1,ROM,H1,FX0,CALM,L2,S1.T1.B02.A2.E30-BT02,"after the cluster, the ambulance bay",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E30.md; values are the episode end state
 S1.T1.B02.A2.E31,Seraphine Vael,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E31-BT01,"the costs, counted",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E31.md; values are the episode end state
-S1.T1.B02.A2.E31,Seraphine Vael,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E31-BT02,"the others, elsewhere",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E31.md; values are the episode end state
+S1.T1.B02.A2.E31,Seraphine Vael,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E31-BT02,"what he sent, and her rounds",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E31.md; values are the episode end state
+S1.T1.B02.A2.E31,Seraphine Vael,NONE,U1,W1,CIV,H0,FX0,CALM,L2,S1.T1.B02.A2.E31-BT03,Caro's claim,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A2.E31.md; values are the episode end state
 S1.T1.B02.A3.E32,Trip + Ramon Espina,NONE,U1,W1,HUM,H0,FX0,CALM,L1,S1.T1.B02.A3.E32-BT01,"folk rules, traded",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E32.md; values are the episode end state
 S1.T1.B02.A3.E33,Seraphine Vael,NONE,U2,W1,CIV,H0,FX0,CALM,L3,S1.T1.B02.A3.E33-BT01,the meeting,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E33.md; values are the episode end state
 S1.T1.B02.A3.E33,Seraphine Vael,NONE,U2,W1,CIV,H0,FX0,CALM,L3,S1.T1.B02.A3.E33-BT02,the boundary,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E33.md; values are the episode end state
+S1.T1.B02.A3.E33,Seraphine Vael,NONE,U2,W1,CIV,H0,FX0,CALM,L3,S1.T1.B02.A3.E33-BT03,"the draft, unsent",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E33.md; values are the episode end state
 S1.T1.B02.A3.E34,Lucien Kael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A3.E34-BT01,the routing note,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E34.md; values are the episode end state
 S1.T1.B02.A3.E34,Lucien Kael,NONE,U1,W1,INT,H0,FX0,CALM,L2,S1.T1.B02.A3.E34-BT02,Helena,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E34.md; values are the episode end state
 S1.T1.B02.A3.E35,Seraphine Vael,NONE,U1,W0,INT,H0,FX0,CALM,L1,S1.T1.B02.A3.E35-BT01,the empty block,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E35.md; values are the episode end state
 S1.T1.B02.A3.E35,Seraphine Vael,NONE,U1,W0,INT,H0,FX0,CALM,L1,S1.T1.B02.A3.E35-BT02,"a presence, and then none",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E35.md; values are the episode end state
 S1.T1.B02.A3.E36,Caro + Elisabet Arnardóttir,NONE,U1,W1,ROM,H1,FX0,CALM,L1,S1.T1.B02.A3.E36-BT01,"the data, and the crews",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E36.md; values are the episode end state
+S1.T1.B02.A3.E36,Caro + Elisabet Arnardóttir,NONE,U1,W1,ROM,H1,FX0,CALM,L1,S1.T1.B02.A3.E36-BT02,"the next release, refused",,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E36.md; values are the episode end state
 S1.T1.B02.A3.E37,Arianna Duplantier,NONE,U1,W1,CIV,H0,FX0,CALM,L1,S1.T1.B02.A3.E37-BT01,the cordon and the shelters,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E37.md; values are the episode end state
 S1.T1.B02.A3.E37,Arianna Duplantier,NONE,U1,W1,CIV,H0,FX0,CALM,L1,S1.T1.B02.A3.E37-BT02,the household comes to Seraphine,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E37.md; values are the episode end state
 S1.T1.B02.A3.E38,"Bastien ""Baz"" Arnaud",NONE,U1,W1,SCI,H0,FX0,CALM,L1,S1.T1.B02.A3.E38-BT01,the book,,,,,,B02 EBCI; packet ebci/B02/S1.T1.B02.A3.E38.md; values are the episode end state
