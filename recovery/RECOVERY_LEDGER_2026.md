@@ -13741,4 +13741,22 @@ END OF ENTRY 284
 
 ===============================================================
 
+## §285 — The revised set approved: Q-RE2 (a), and "Proceed", 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/REVISED_EBCI_VEIL_PASS6_AND_TRILOGY_GUIDE_AUTHOR_ANSWERS_2026-09-29.md`.
+
+**Author:** *"Q-re2 yes / Proceed."*
+- **The whole-crowd fall at the Square (B01 E14) is confirmed.** It supersedes Q-DR12's lean.
+- *"Proceed"* approves the rest of the revised set in `reports/REVISED_EBCI_AND_VEIL_PASS6_REVIEW_RECONCILIATION_2026-09-29.md` §5, as recommended: Q-VB1–12 with F3–F5, Q-RE1 and Q-RE3–8, Q-FX1–2 and Q-TG1. It is approved design.
+
+**Order (Q-TG1 governs a conflicting line in the report):**
+1. the trilogy conflict guide and the Veil act-level review;
+2. pass 6 applied with F3–F5;
+3. the B01 overlays refreshed;
+4. B01 Act I's prose packets.
+
+END OF ENTRY 285
+
+===============================================================
+
 END RECOVERY LEDGER
