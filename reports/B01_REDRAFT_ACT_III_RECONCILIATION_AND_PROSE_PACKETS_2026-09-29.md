@@ -144,7 +144,7 @@ Additive **Carry from Act II** lines in all thirteen briefs. They state facts, n
 | E45 | Mara's silence about the last lot; Lucien off Sal's crew; the theory recommitted over her doubt |
 | E46 | **Seraphine's decision** (§4); Lucien's blame stands; the column still untold |
 | E47 | The seven-line procedure; the day of the asking at home |
-| E48 | **The verdict owed** (§2.5); the column and Lucien's knowledge of it; the three cases the three know of; the amendment's source |
+| E48 | **The verdict owed** (§2.5); the column and Lucien's knowledge of it; the earlier cases (corrected at ledger §311: four, not three, counting Sal's jack post); the amendment's source |
 | E49 | Miss Tavie's tins; the log kept by her rule of three kinds |
 
 **Tracked, not required:** Lucien's untold Dauphine case, and Caro's search for Elisabet.
