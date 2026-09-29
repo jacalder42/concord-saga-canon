@@ -3,6 +3,8 @@
 **Date:** 2026-09-27
 **Status:** EDITORIAL PROPOSAL / PRE-EBCI — NON-CANONICAL.
 
+**Update 2026-09-29 (ledger §290–§291):** Veil pass 6 (`proposals/VEIL_B02_B03_BEAT_REVISION_PASS6_2026-09-29.md`), approved with F3–F5 (`decisions/REVISED_EBCI_VEIL_PASS6_AND_TRILOGY_GUIDE_AUTHOR_ANSWERS_2026-09-29.md`) and the act-level review's §6(a), is applied to the B02 packets. Where this file and pass 6 differ, pass 6 governs.
+
 > **Amended 2026-09-27 by the nine-book audit** (`proposals/NINE_BOOK_AUDIT_AMENDMENTS_2026-09-27.md` §1; `decisions/NINE_BOOK_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`): **V1**, every post by the anonymous MT voice carries a small triangle mark, unremarked (S01, S03); **V3**, E31 is Seraphine-led. Applied at EBCI; this file is otherwise unchanged.
 
 > **Amended 2026-09-27 by the Veil trilogy audit** (`proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md` §1; `decisions/VEIL_TRILOGY_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`): E03, E15 (retitled *The Larger Pulse*), E19, E30, E40 and E47 are overridden there. This file is otherwise unchanged.

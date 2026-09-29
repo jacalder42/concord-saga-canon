@@ -13893,4 +13893,40 @@ END OF ENTRY 290
 
 ===============================================================
 
+## §291 — Veil pass 6 applied to the B03 packets; the Veil revision complete, 2026-09-29
+
+**Status:** LEDGER ENTRY. Pass 6 is applied to `ebci/B03/` with F3–F5 and the review's §6(a), as approved in §285 and §288. §6(b) is not applied.
+
+**19 packets changed, each with a dated note:**
+- **Recasts:**
+  - **E02:** W20. Another player deals Seraphine in.
+  - **E10:** W22. Baz says once that the map's *safe* is not his reading.
+  - **E17:** W24. No invitation. Baz sets a term, and Lucien accepts it; the logs keep coming.
+  - **E26:** W30. Kesi tells him she added the question mark. The invitation and the warmth resume.
+- **Helping truths:**
+  - **E18:** X5. Shared costs, no forgiveness.
+  - **E22:** X6. Leila's useful answer. Caro calls Seraphine.
+- **E11 and E12:** the offer names what it tempts in her, and Caro argues openly for one liaison.
+- **E21:** Caldas Ren's objective. A familiar kind to her, never identified as the B01 E25 man.
+- **E23:** Elisabet refuses to sign *building*, and the work goes on.
+- **E24:** the argument in the lot, then the kiss, by Caro's own choice.
+- **E25:** Kesi refuses, and Trip smooths.
+- **E27:** Baz presses Rieux alone.
+- **E30:** two models, one table.
+- **Handoff lines:** E02, E03, E06, E11, E17, E21, E22 and E23.
+- **Sweep rows 25–46.**
+
+**Also:**
+- **Beats:** eight B03 packets' beats change; the grid goes from 366 to 373 rows.
+- **Ledger:** BC-SECOND-LINE-INVITE's B03 reinforcement moves from E17 to E26, where the invitation now comes.
+- **Pass-5 files:** both B02 and B03 pass 5 gain a pointer note saying pass 6 governs where they differ.
+
+**Checks:** the validator shows 0 violations and the self-tests pass.
+
+**The approved order is now complete through B01 Act I's prose packets.** Drafting B01's redraft needs the author's release.
+
+END OF ENTRY 291
+
+===============================================================
+
 END RECOVERY LEDGER
