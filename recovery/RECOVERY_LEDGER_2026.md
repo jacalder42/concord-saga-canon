@@ -13207,4 +13207,33 @@ END OF ENTRY 265
 
 ===============================================================
 
+# 266. Q-IT1–5 approved; the writer profile amended; the redraft's packet rules — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_ANSWERS_2026-09-29.md` (the author: *"Approve Q-IT1–5 as recommended"*).
+
+**Applied:**
+- **`ebci/prose/WRITER_PROFILE_JA_CALDER.md` is amended:**
+  - §4's empathy line is scoped to the narration and claims nothing beyond the point of view.
+  - §5's *"People listen"* becomes *"People talk as themselves"*.
+  - §5A *People under pressure* is new.
+  - §6's *"never cruel"* is the narration's.
+  - §8 adds that a reckless choice is not a Fuck-it moment.
+- **`ebci/prose/README.md`** gains two sections:
+  - *Character pressures*: four lines per POV character; working lines, never a future event.
+  - *Packets for the B01 redraft*:
+    - the preflight Q3 conflict brief restored, naming whose will opposes;
+    - no required repair;
+    - exit conditions;
+    - neighbours;
+    - approximate lengths, superseding Q-AR5 for the redraft;
+    - about 150k, finishing under if stronger.
+- **`proposals/CHARACTER_PRESSURE_CARDS_2026-09-29.md` §9:** Seraphine's revised lines. Mara's are pending, to be proposed with evidence.
+- **`proposals/B01_HUMAN_READ_BRIEF_2026-09-29.md`:** the author's reading sheet (E01, E20, E32, E41, E46, or Act I by other readers), with the Q-IT5 questions.
+
+**Not changed:** canon, cards, the EBCI template and packets, the manuscript.
+
+END OF ENTRY 266
+
+===============================================================
+
 END RECOVERY LEDGER

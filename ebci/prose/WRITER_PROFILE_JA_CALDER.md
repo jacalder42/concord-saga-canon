@@ -1,4 +1,4 @@
-Status: WRITER PROFILE — APPROVED for Veil drafting (`decisions/WRITER_PROFILE_APPROVAL_AND_PROSE_CALIBRATION_AUTHOR_RULING_2026-09-27.md`). Recovered, not invented: sources in `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md`. Not canon. Everything below the rule accompanies every prose packet, unchanged, in the drafting stack set out in `ebci/prose/README.md`. The *nobody reads minds* line in §9 was added by Q-CAL2 (`decisions/PROSE_CALIBRATION_RESULT_AND_DRAFTING_START_AUTHOR_RULING_2026-09-27.md`). The dialogue-dash and US-spelling lines in §12 were added 2026-09-28 by Q-AR3 and Q-AR1 (`decisions/B01_ACT_I_REVIEW_ANSWERS_AND_ACT_II_PACKET_RELEASE_AUTHOR_RULING_2026-09-28.md`).
+Status: WRITER PROFILE — APPROVED for Veil drafting (`decisions/WRITER_PROFILE_APPROVAL_AND_PROSE_CALIBRATION_AUTHOR_RULING_2026-09-27.md`). Recovered, not invented: sources in `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md`. Not canon. Everything below the rule accompanies every prose packet, unchanged, in the drafting stack set out in `ebci/prose/README.md`. The *nobody reads minds* line in §9 was added by Q-CAL2 (`decisions/PROSE_CALIBRATION_RESULT_AND_DRAFTING_START_AUTHOR_RULING_2026-09-27.md`). The dialogue-dash and US-spelling lines in §12 were added 2026-09-28 by Q-AR3 and Q-AR1 (`decisions/B01_ACT_I_REVIEW_ANSWERS_AND_ACT_II_PACKET_RELEASE_AUTHOR_RULING_2026-09-28.md`). **Amended 2026-09-29 by Q-IT1** (`decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_ANSWERS_2026-09-29.md`): narrative voice is separated from character behavior in §4, §5, §6 and §8, and §5A *People under pressure* is new. The text before the amendment is in git history and in `proposals/WRITER_PROFILE_CHARACTER_BEHAVIOR_AMENDMENT_2026-09-29.md`.
 
 ---
 
@@ -39,21 +39,34 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 - **Vulnerability:** stripped syntax. One true sensory detail carries the weight. Humour may surface, half shield and half handshake.
 - **Anger:** tighter syntax, exact words. Let precision do the shouting.
 - **Joy:** quick beats, imperfect timing, laughter breaking the syntax. Don't over-edit spontaneity.
-- **Empathy:** comprehension, not consolation. It solves; it doesn't soothe.
+- **Empathy, in the narration:** comprehension, not consolation. The narration is humane toward everyone, and claims nothing the point-of-view character could not know. A character's empathy is theirs: it can be accurate, clumsy, late, unwanted or wrong.
 - **When one character burns hot, the narration cools. When someone withdraws, it leans forward.**
 - **Melodrama** is nails on a chalkboard. It is not banned, but it is a tool used only when it is the best one. When it starts to spin up, deny it momentum with bluntness and candour.
 
 ## 5. Dialogue
 
 - **Emotionally honest, low on exposition, carrying subtext.**
-- **People listen:** they mirror, get curious, then offer something of their own. They argue by redesigning the argument, not by winning speeches.
+- **People talk as themselves.** Some listen well: they mirror, get curious, offer something of their own. Others interrupt, deflect, lecture, go quiet, change the subject, or answer the question they wish they'd been asked. A speech can persuade, intimidate or mislead, depending on who hears it and when. Winning the argument need not settle what it was about.
 - **Nobody explains the world to someone who already lives in it.**
+
+## 5A. People under pressure
+
+**The narrator's steadiness is not the characters'.** The voice stays clear and humane; the people it follows are partial, pressured and sometimes wrong.
+
+- **Everyone has an ordinary way of being, a way they get worse under pressure, and a trap they fall into when overwhelmed.** The packet gives the point-of-view character's pressures: what they want, what they protect, what they habitually misread, what they do when threatened. Let those drive choices. Never announce them.
+- **Wants collide.** Everyone's motives are intelligible; their goals and methods need not be legitimate, and can be incompatible. Understanding the other person does not dissolve the conflict. Someone can see exactly what the other needs and still refuse, still choose against them, or still be right to.
+- **People can know the right thing and not do it:** from love, pride, shame, fear or exhaustion. Anyone can refuse to revise, protagonists included.
+- **Kindness can intrude.** Help can be unwanted, arrive badly, cost somebody else, or be experienced as control.
+- **A disagreement that matters changes something** that outlasts it: a distance, a changed arrangement, a trust withheld, a plan carried out against someone's wishes. **Repair has its own cause and takes its own time.** It can come later, partially or never, and it changes things too. Nothing requires it to close a scene.
+- **Everyone at their best at once is rare:** a climax, not a default. Most scenes show people at partial strength.
+- **Humour and courage are the voice's; characters can fail at both.** A character can joke cruelly, make a reckless choice, or override someone. The narration neither rewards it nor looks away from what it costs.
+- **Don't manufacture it.** No cruelty for texture, no villains made by rigidity, no invented arguments. Friction comes from what people want and protect.
 
 ## 6. Humour
 
 - **Humour is honesty, not decoration.** It vents pressure, punctures pretension and makes hard things sayable. It is **earned, spontaneous and local to the pressure in the scene.**
 - **One precise expletive beats three clever quips.** Profanity is allowed where it's true.
-- **Never cruel, never punching down.** No quips during an active catastrophe. No humour that humiliates pain, blocks vulnerability, dominates, or stands in for a decision. **If humour makes a consequence disappear, cut it.**
+- **The narration is never cruel, never punching down.** No quips during an active catastrophe. No humour that humiliates pain, blocks vulnerability, dominates, or stands in for a decision. **If humour makes a consequence disappear, cut it.** A character's humour can wound, and when it does, the scene lets it.
 - **Seasoning, not the meal.** Too much is noise; too little is stiffness.
 
 ## 7. Wonder
@@ -68,6 +81,7 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 - **The instant hesitation collapses into decisive motion:** courage delivered bluntly. Paralysis is the inhale; *fuck it* is the exhale that restarts the scene's heartbeat.
 - **Brief, blunt and earned.** It is never nihilism, never reckless, never random. The character can live with the consequences, or the moment is false.
 - **It can break structures, not people.** It never overrides consent, autonomy or dignity.
+- **A reckless choice is not a Fuck-it moment.** Characters can make one, and it costs what it costs.
 - **Don't schedule it.** It happens when the scene has earned it, or not at all.
 
 ## 9. The strange, on the page

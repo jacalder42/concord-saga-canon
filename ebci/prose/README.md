@@ -28,13 +28,15 @@ Each episode is drafted from these and nothing else:
 
 1. **The approved writer profile**, `WRITER_PROFILE_JA_CALDER.md`, below its rule, unchanged.
 2. **The episode's prose packet**, below its rule.
-3. **Minimum identity context** (Q-CAL1), only for named characters not already established in the preceding prose.
+3. **Minimum identity context** (Q-CAL1), only for named characters not already established in the preceding prose;
+   **plus the character pressures** (Q-IT1, 2026-09-29) below, for every stack.
 4. **The actual preceding prose**; or, until it exists, the **context rule** below (Q-CAL3).
 5. **From Act II on, one standing instruction** (Q-AR4): *Continue these people and this novel. Do not reproduce Act I's
    successful shapes.*
 
 **Nothing else enters the stack.** The review-side watch-list (`REVIEW_WATCHLIST.md`) never does. No length numbers
-(Q-AR5) and no web-serialisation concerns: web installments are derived later from the finished manuscript.
+(Q-AR5) and no web-serialisation concerns: web installments are derived later from the finished manuscript. **For the
+B01 redraft, Q-IT2(d) supersedes Q-AR5:** each packet carries its approximate length (below).
 
 ### Minimum identity context (Q-CAL1)
 
@@ -51,6 +53,18 @@ Example: *Trip (she): Velvet Vein's host; compact, socially effortless, owns the
 - **Do not repeat** anything the preceding prose has already established. Once a character is on the page, the prose governs.
 - It is **not a character-voice layer.** Q-WP3's one card line about how a POV character notices still applies at their first substantial POV appearance, and only there.
 - The facts come from `canon/characters/` and `canon/cast_registry.csv`. They are assembled per episode in the drafting stack, not kept as a new document.
+
+### Character pressures (Q-IT1, Q-IT3, 2026-09-29)
+
+With the amended profile's §5A, the stack carries **the point-of-view character's four pressure lines** (*wants,
+protects, habitually misreads, when threatened*), and those of any character whose want the scene turns on
+(`decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_ANSWERS_2026-09-29.md`).
+
+- They come from `proposals/CHARACTER_PRESSURE_CARDS_2026-09-29.md` as approved: its §9 for Seraphine (revised) and
+  Mara (once the author approves her lines), and the draft cards for the rest. **Working drafting lines, not canon.**
+- **Never** a line that states or implies a future event (Baz's B03 death, for example), and never the full card.
+- A pressure is given as it stands at this point in the book. A **susceptibility** that the book has not yet enacted is
+  marked as one, not given as a habit.
 
 ### The context rule (Q-CAL3)
 
@@ -85,6 +99,33 @@ no grouping and no characterisation.
 3. Are the best dialogue, imagery, blocking, humour and emotional discovery still unwritten?
 4. Is anything present because the database knows it rather than because the novelist needs it?
 5. Does reading it make the novelist want to write the scene?
+
+## Packets for the B01 redraft (Q-IT2, Q-IT4, Q-IT5, 2026-09-29)
+
+The ~150k redraft's packets are new, one per piece of the chosen outline (`decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_ANSWERS_2026-09-29.md`). On top of everything above:
+
+- **Source.** The EBCI Narrative Brief as before, **plus** the outline's row for the piece (its *want against want*,
+  *what changes* and *exit pull*) and the Q-OL4 fixes. The Control Layer stays excluded.
+- **A conflict brief** (preflight Q3, restored by Q-IT4): plain words, with *none* allowed where a piece has none.
+  - *Objective:* what the point-of-view character is trying to do.
+  - *Opposition:* **whose will** pushes back, where one exists (a person, an office, the city), and only then the
+    phenomenon, a constraint or the character's own fear.
+  - *Turn:* what changes the situation.
+  - *Consequence:* what the choice costs or changes.
+  - *Unresolved:* what the next pieces inherit.
+  - No numeric ladders, codes or True/False conflict.
+- **No required repair (Q-IT2a).** No packet requires a repair to close a piece. Where the story needs one, the
+  packet names **what causes it and what stays changed**. A caused repair may come later in the same piece, given its
+  own time on the page; it is never a free ending.
+- **Exit conditions (Q-IT2b).** Only the facts the next piece depends on: elapsed time, place, who is present, who
+  holds an object, open commitments. There are no clock times unless the story needs one, and never the next piece's
+  events or meaning.
+- **Neighbours (Q-IT2c).** A continuity error (someone the next piece needs goes missing) is fixed in the draft. A
+  structural change (a relationship no longer fits a neighbour written for the old version) is a reason to redraft the
+  neighbour, not to undo the change.
+- **Length (Q-IT2d, Q-IT5).** Each packet gives its approximate length from the outline, as an approximate word count.
+  **The book aims at about 150k and may finish under it.** A piece over its target needs a specific reason, recorded
+  by the checker.
 
 ## The workflow
 

@@ -1,5 +1,7 @@
 Status: PROPOSAL (production support), 2026-09-29. Derived from canon cards; no guide assigned; not yet approved.
 
+> **Approved 2026-09-29 as working drafting lines, not canon** (`decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_ANSWERS_2026-09-29.md`, Q-IT1 and Q-IT3). The drafting stack uses §9 for Seraphine (revised) and Mara (when her lines are approved), and the draft cards below for Lucien, Baz, Caro, Elisabet and Trip, as tested. The cards below are otherwise unchanged.
+
 # Character pressures: Seraphine, Lucien, Baz, Caro, Elisabet, Trip, Mara
 
 **Authority.** `decisions/CALDER_COMPANIONS_AND_B01_SHAPE_AUTHOR_ANSWERS_2026-09-29.md`, Q3–Q5: a drafter receives a
@@ -556,3 +558,28 @@ These are the "legitimate goals, incompatible methods" pairings the cards alread
 
 **Note.** The Seraphine × Lucien / Elisabet row pairs quotations that the cards do not themselves set against each
 other. It is the one row assembled here rather than stated in a card.
+
+---
+
+## 9. Approved working lines (2026-09-29)
+
+Approved by `decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_ANSWERS_2026-09-29.md` (Q-IT3). **Working drafting lines, not canon**; no card changes.
+
+### Seraphine (revised; replaces §1's draft in the drafting stack)
+
+From `reports/CONFLICT_ENGINE_AND_PROFILE_TEST_REVIEWS_RECONCILIATION_2026-09-29.md` §4. §1's draft gave her a later
+failure as a B01 habit.
+
+- **Wants:** not to lose anyone else; to believe effort can still outrun loss. **[INFERRED]**, as in §1.
+- **Protects:** her own steadiness, because she believes others survive on it.
+- **Habitually misreads:** someone else's trouble as a summons for her; others' calm as proof that her regulation is
+  needed (§IX loop).
+- **When threatened:** she holds regulation harder. Suffering treated as acceptable, or order put before care, raises a
+  quiet, dense anger that presses for accountability.
+- **Susceptibility, not yet a habit:** the pull to move before she is asked. In B01 it is a temptation she resists
+  (E29). Arriving too early is **later** (SeraphineIdentity §XIII).
+
+### Mara
+
+**Pending.** Claude proposes four lines from the B01 manuscript, each with evidence and extrapolations labelled, and
+not derived from her politeness. The author approves them before any stack uses them.
