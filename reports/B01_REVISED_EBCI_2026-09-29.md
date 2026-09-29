@@ -6,6 +6,8 @@ selective breadcrumb and relationship updates, and **B01's EBCI revised against 
 (Q-MO1). The author's instruction of 2026-09-29 was: *"Proceed with outline reconciliation, the Veil B02–B03 beat
 revision, and revised B01 EBCI"* (`decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md`).
 
+**Update 2026-09-29 (ledger §284):** ChatGPT's review is checked in `reports/REVISED_EBCI_AND_VEIL_PASS6_REVIEW_RECONCILIATION_2026-09-29.md`; its §5 revised answer set replaces this file's questions.
+
 **What it does not change:**
 - No ruling, milestone row or canon card.
 - No B02 or B03 packet. The Veil revision is a proposal awaiting Q-VB1–12.

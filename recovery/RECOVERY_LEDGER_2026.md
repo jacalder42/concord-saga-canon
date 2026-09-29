@@ -13708,4 +13708,37 @@ END OF ENTRY 283
 
 ===============================================================
 
+## §284 — ChatGPT's review of the revised B01 EBCI and Veil pass 6, checked; four drift corrections; a revised answer set, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/REVISED_EBCI_AND_VEIL_PASS6_REVIEW_RECONCILIATION_2026-09-29.md`. It holds a ChatGPT review forwarded by the author, as received. The review is a recommendation, not a decision.
+
+**Checked:** all eight claims hold.
+- E03 kept an obsolete CPR alternative.
+- E01 presumed the coverage rules reasonable.
+- E39 has no practical cause for its failed stakeout, and called its result a proof.
+- E49's lost onset has no sequence, and its empty fence overclaimed.
+- B02 E33's silence has no cause beyond one meeting.
+- The E05/E36 consent terms shift.
+- Withholding recurs 18 times in pass 6.
+- Q-VB11 counted an inference as antagonist action.
+
+**Corrected** (drift from answers already given; a dated note in each packet):
+- **E03:** the obsolete CPR alternative is removed.
+- **E01:** the "reasonable" judgment is removed (Q-XP2).
+- **E39:** the result is *evidence of access*, matching C15.
+- **E49:** the missing case shows removal only.
+
+The validator shows 0 violations.
+
+**For the author:**
+- **Proposed fixes:** F1 (E39: glare and a moving car), F2 (E49: the order of events), F3 (B02 E33: an unsent written account that would name the households), F4 (the consent release is Caro's employer's, and "the only non-public data"), F5 (vary the conflict modes when pass 6 is applied; honesty can help).
+- **A trilogy conflict guide** with three tracked dimensions and review triggers, not numbers, followed by an act-level review of the Veil beats.
+- **Q-RE2 needs an explicit decision.**
+
+The revised set replaces Q-VB1–12 and Q-RE1–8.
+
+END OF ENTRY 284
+
+===============================================================
+
 END RECOVERY LEDGER
