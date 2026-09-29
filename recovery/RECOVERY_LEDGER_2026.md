@@ -13503,4 +13503,36 @@ END OF ENTRY 275
 
 ===============================================================
 
+# 276. Q-AC1–7 approved; the third pressure; the merged B01 outline — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/REDRAFT_ORDER_SOURCE_AND_THIRD_PRESSURE_AUTHOR_ANSWERS_2026-09-29.md` and `reports/B01_MERGED_ENGINE_OUTLINE_2026-09-29.md`. The outline itself is in the private manuscript repository (`draft-notes/b01-engine/B01_MERGED_ENGINE_OUTLINE.md`).
+
+**Approved (Q-AC1–7):**
+- The order: outline → Veil pass → selective milestones, breadcrumbs and relationship states → revised B01 EBCI → packets → redraft.
+- **Revised EBCI is the redraft's only source.**
+- A constructive-pressure line in §5A.
+- Second wants that aren't care.
+- Varied clue sources and the epistemic ladder.
+- Selective milestones.
+- Varied trajectories.
+
+**Applied:** profile §5A (the constructive line); the prose README's *Source* (superseded wording recorded).
+
+**The author's new direction:** varied pressures. Care is de-emphasised. **A third, external pressure** (system, governance, society) drifts across B01 toward the factions, which stay unnamed. **Lucien questions his office as he spends time with Baz.** The approved guard (*"distrust not stated"* in B01) is noted as a constraint for the author.
+
+**Running:** the third-pressure proposal (the model, per-character arcs, Lucien's arc, a column for the outline, and Seraphine's second want).
+
+**The merged outline:**
+- P00–P49, 150k words.
+- A status column (observation, hypothesis, tested, warranted); the 311 trap shows only access.
+- Varied clue sources; nine constructive responses.
+- All 79 obligations carried; explicit B02 handoffs.
+- A concordance of 13 unchanged, 33 changed and 4 new briefs.
+
+**For the author:** Q-MO1–5 (the outline as EBCI basis; R8's wording; the cup not carried; Mara's lines; numbering).
+
+END OF ENTRY 276
+
+===============================================================
+
 END RECOVERY LEDGER

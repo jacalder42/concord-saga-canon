@@ -104,8 +104,11 @@ no grouping and no characterisation.
 
 The ~150k redraft's packets are new, one per piece of the chosen outline (`decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_ANSWERS_2026-09-29.md`). On top of everything above:
 
-- **Source.** The EBCI Narrative Brief as before, **plus** the outline's row for the piece (its *want against want*,
-  *what changes* and *exit pull*) and the Q-OL4 fixes. The Control Layer stays excluded.
+- **Source: revised B01 EBCI only (Q-AC2, 2026-09-29).** The redraft's prose packets derive from B01's EBCI Narrative
+  Briefs **after** they are revised against the approved merged outline. Changed briefs are revised, new pieces get
+  briefs, and merged or cut briefs are retired from active use with a status line (never deleted). **The merged outline
+  and the amendment files are inputs to EBCI, never a parallel source for a packet.** The Control Layer stays excluded.
+  *(Superseded wording, recorded: "the EBCI Narrative Brief as before, plus the outline's row for the piece".)*
 - **A conflict brief** (preflight Q3, restored by Q-IT4): plain words, with *none* allowed where a piece has none.
   - *Objective:* what the point-of-view character is trying to do.
   - *Opposition:* **whose will** pushes back, where one exists (a person, an office, the city), and only then the
