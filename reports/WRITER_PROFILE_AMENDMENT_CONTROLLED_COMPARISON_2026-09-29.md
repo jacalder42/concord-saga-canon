@@ -51,6 +51,19 @@ the author answers Q-IT1.
 
 ## 3. What it shows
 
+> **Correction 2026-09-29** (`reports/CONFLICT_ENGINE_AND_PROFILE_TEST_REVIEWS_RECONCILIATION_2026-09-29.md`, after
+> ChatGPT's review): item 1 below overstated the result. **What the evidence supports:** *in this small test, the
+> amended profile together with character pressures generally improved judged stakes and persistent consequences
+> while preserving voice; continuity fit worsened in two scenes, and removing repair instructions produced mixed
+> results.*
+> - Arm B changes the profile and the pressures together, so the test supports that package; it does not isolate
+>   the profile.
+> - C's mean (two scenes) should not be set against three-scene means. The matched-scene table is in the
+>   reconciliation §2.
+> - The two judges read the same eight drafts: their agreement is not a drafting replication.
+>
+> §4's questions are **replaced** by the reconciliation's §4. The text below is unchanged.
+
 1. **The amendment works as intended, and costs nothing it was feared to cost.**
    - Both amended arms beat the current profile on stakes and on consequences that survive the scene.
    - The voice held: "still the author" did not fall.

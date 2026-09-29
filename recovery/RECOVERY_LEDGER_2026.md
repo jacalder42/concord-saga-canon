@@ -13172,4 +13172,39 @@ END OF ENTRY 264
 
 ===============================================================
 
+# 265. ChatGPT's conflict-engine and profile-test reviews checked; Q-IT1–5 revised — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/CONFLICT_ENGINE_AND_PROFILE_TEST_REVIEWS_RECONCILIATION_2026-09-29.md`. Two ChatGPT reviews were forwarded by the author and are recorded verbatim, as received: recommendations, not author decisions.
+
+**Checked:**
+- **The approved conflict brief was lost in compression.** Preflight Q3 (09-27) approved *objective · opposition · turn · consequence · unresolved*. The pilot template had `Opposition / constraint` and `Unresolved`; the compression pass (ledger §216) removed them.
+- **Claude's addition: even before compression, the field did not carry opposing wills.** 10 of 49 B01 packets filled it, and only 2 named another person (E24, E07).
+- **Other points that hold:**
+  - *"Never cruel"* (§6) and *"never reckless"* (§8) need the split between voice and behavior.
+  - The four absolutes in the amendment.
+  - Seraphine's card imports a later failure.
+  - The six-caretaker risk.
+  - The test's overstated conclusion (B is a package; compare scenes matched).
+  - The test did not test concision.
+  - 120k's Baz loss belongs to that outline.
+- **Already done:** 1.7 is recovered (ledger §262).
+- **Not verified:** the peer word counts.
+
+**Changed (additive, dated):**
+- A *Revised text* in the amendment proposal, beside the tested text. It keeps the author's *"its own cause and time"* for repair.
+- Correction notes in the comparison report §3 and the outlines report §2.
+
+**For the author, Q-IT1–5**, replacing Q-IT1–3:
+- Q-IT1: the revised amendment.
+- Q-IT2: repair and exit conditions, including whether a caused repair may come later in the same piece; lengths in packets.
+- Q-IT3: Seraphine, revised; Mara, as an evidence-based proposal.
+- **Q-IT4: restore the conflict brief to the redraft's packets, naming whose will.**
+- Q-IT5: aim at 150k, allow under, justify over; the human read asks about appetites beyond care, and about pace.
+
+**Not changed:** the writer profile, the template, packets, canon.
+
+END OF ENTRY 265
+
+===============================================================
+
 END RECOVERY LEDGER

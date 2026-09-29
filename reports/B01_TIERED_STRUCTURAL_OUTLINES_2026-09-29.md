@@ -25,6 +25,10 @@ they are in the private manuscript repository, `draft-notes/b01-structural-outli
   Baz's death must take *"a person, not a function"* (M10).
 - **180k keeps most of the length problem.**
 
+> **Correction 2026-09-29** (`reports/CONFLICT_ENGINE_AND_PROFILE_TEST_REVIEWS_RECONCILIATION_2026-09-29.md` §2 #13):
+> the loss of Baz's life apart from the case is a property of **the 120k outline that was built**, not of 120k as
+> such. A few distinctive, consequential scenes could carry it.
+
 **Both build the same spine from existing material:**
 - **The coroner's form is one contested object.** Four claims meet on it: Seraphine's paragraph, Lucien's *None*,
   Renée's wish for an ordinary closed record, and the city's hold on *"anything with a clock"*.

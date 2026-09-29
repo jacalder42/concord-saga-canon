@@ -65,6 +65,44 @@ four pressure lines** (*wants, protects, habitually misreads, when threatened*),
 the scene turns on. These are drawn from the character cards, as in `proposals/CHARACTER_PRESSURE_CARDS_2026-09-29.md`.
 They are **not** the full cards, and **never** a line that states a future event (for example, Baz's B03 death).
 
+## Revised text (2026-09-29, after the test and ChatGPT's review)
+
+Added by `reports/CONFLICT_ENGINE_AND_PROFILE_TEST_REVIEWS_RECONCILIATION_2026-09-29.md`. **The text above is the text
+that was tested,** and it is kept as it was. This revision is what Q-IT1 now asks the author to approve. It removes
+four absolutes, and carries the split between voice and behavior into §6 and §8.
+
+**§4, the empathy line:**
+> **Empathy, in the narration:** comprehension, not consolation. The narration is humane toward everyone, and claims
+> nothing the point-of-view character could not know. A character's empathy is theirs: it can be accurate, clumsy,
+> late, unwanted or wrong.
+
+**§5, the dialogue line:**
+> **People talk as themselves.** Some listen well: they mirror, get curious, offer something of their own. Others
+> interrupt, deflect, lecture, go quiet, change the subject, or answer the question they wish they'd been asked. A
+> speech can persuade, intimidate or mislead, depending on who hears it and when. Winning the argument need not settle
+> what it was about.
+
+**§5A, *People under pressure*,** as above, with three bullets changed and one added:
+> - **Wants collide.** Everyone's motives are intelligible; their goals and methods need not be legitimate, and can be
+>   incompatible. Understanding the other person does not dissolve the conflict. Someone can see exactly what the other
+>   needs and still refuse, still choose against them, or still be right to.
+> - **A disagreement that matters changes something** that outlasts it: a distance, a changed arrangement, a trust
+>   withheld, a plan carried out against someone's wishes. **Repair has its own cause and takes its own time.** It can
+>   come later, partially or never, and it changes things too. Nothing requires it to close a scene.
+> - **Humour and courage are the voice's; characters can fail at both.** A character can joke cruelly, make a reckless
+>   choice, or override someone. The narration neither rewards it nor looks away from what it costs.
+
+**§6 Humour, the third line gains a scope:**
+> **The narration is never cruel, never punching down.** *(the rest of the line unchanged)* A character's humour can
+> wound, and when it does, the scene lets it.
+
+**§8 The Fuck-it moment, one line added:**
+> **A reckless choice is not a Fuck-it moment.** Characters can make one, and it costs what it costs.
+
+**Kept from the author's words:** *"Repair needs its own cause and time"*
+(`decisions/CALDER_COMPANIONS_AND_B01_SHAPE_AUTHOR_ANSWERS_2026-09-29.md` Q3–Q4). ChatGPT's *"Repair may happen
+immediately"* is not adopted. Whether a caused repair may come later in the same piece is Q-IT2, for the author.
+
 ## How it is tested before approval
 
 It is tested with a controlled comparison on three B01 scenes, as the author instructed:
