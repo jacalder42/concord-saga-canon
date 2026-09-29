@@ -14275,4 +14275,19 @@ END OF ENTRY 308
 
 ===============================================================
 
+## §309 — B01 redraft, Act III: the E37–E41 momentum checkpoint, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_III_MOMENTUM_CHECKPOINT_E37_E41_2026-09-29.md`.
+
+- **E37–E41 drafted**, about 16,550 words (packets 15,100), in the private manuscript repository. Nothing is quoted here.
+- **Reader:** E37 4, E38 5, E39 5, E40 4, E41 4; would start E42 that night; as an editor 4 / 5. Asked for the failed two-midday bet on the page.
+- **Checker:** every fixed obligation delivered. Must-fixes applied: the camp no longer named aloud (E38); the forks story inside the city (E38); E38 ends at Carrollton; a line naming the city as the doer cut (E40); a name collision linked (E37).
+- **From the reader:** the missed middays shown (E39, E41); Lucien and Seraphine split the watch by decision (E38); Denise stays with the stranded clients (E41); Seraphine sets aside the Square as well as her own doubt (E41).
+
+**Next:** E42–E45, then the second checkpoint.
+
+END OF ENTRY 309
+
+===============================================================
+
 END RECOVERY LEDGER
