@@ -13042,4 +13042,30 @@ END OF ENTRY 258
 
 ===============================================================
 
+# 259. The Calder Companions (Calder Pantheon): source recovery — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `recovery/CALDER_COMPANIONS_PANTHEON_SOURCE_RECOVERY_2026-09-29.md`.
+
+**Why.** The author noticed a lack of conflict and very high emotional intelligence and resolution in B01, and suspected a missing part of the Calder engine. The author forwarded a ChatGPT message recalling the *Calder Companions*: six guides with shadow expressions, character modes, and a Relationship Dynamics Map of conflict loops. The message is a **recommendation, recorded as received.** It correctly places the system in the 2025-11-17 *Initial editorial board* export file. It does not say that the system was built on 2025-11-20 for Gladiatrix, or that no Concord character was ever mapped.
+
+**Found:**
+- **What it is.** Six guides (Chaos Squirrel, Shadow Crow, Insight Owl, Boundary Bear, Cunning Fox, Heart Deer), each with a light and a shadow mode. A six-mode Character Map (primary, secondary, stress, shadow collapse, growth, integrated), in which **integration is rare** (*"You do not write this often"*). A ten-section Relationship Dynamics Map whose **conflict loops end in consequence, with repair a separate section.**
+- **Whose words.** The seeds and the name are the author's; the defining text is ChatGPT's, carried by *"Proceed"*. The author endorsed the integration principle (*"alignment moment principle is perfect"*). **No ruling ever touched it: all Tier D.**
+- **Mappings.** Only Gladiatrix characters and the author persona were mapped. **No Concord character ever was.**
+- **Where it dropped out:**
+  1. The 11-21 Notion copy (Calder OS 1.17–1.20) lost the loops, the named shadows and the rarity rule, and added *"Conflict resolves"*.
+  2. The 11-21 Concord handoff cut it to *"emotional and tonal calibration only"*, and Concord's 00.07 *Pantheon* page reused the name for character tone labels.
+  3. The author's 11-30 *"pantheon as a base layer"* got voice cards that never use the guides.
+  4. The 09-27 writer-profile recovery quoted that line without tracing it.
+  **Nothing of it reaches a drafter now.**
+- **A further finding about instructions:** the profile's *"People listen: they mirror, get curious…"* and *"Empathy… solves"* come from the Compendium's description of **Calder's own** connection pattern, applied to every character. Its conflict lines (*"legitimate goals but incompatible methods"*; *"True villains are the ones who refuse revision"*) did not travel. The packets mostly scope conflict to resolve inside the episode (E39 is the exception). The cards' stress behaviors and failure modes do not reach the drafter.
+
+**For the author, Q1–Q8 (the recovery's §7):** which *pantheon* was meant; status and which text governs; scope (an author tool, or the drafting stack, which would amend Q-WP3); restoration of system principles into the profile, and whether profile §4–§5 stay; Concord mappings (assigned by nobody yet); where it lives; related unrecovered material (1.7 *Relational Physics*, with *Rupture* and *Suspension* end states); the Anti-Calder for protagonists.
+
+**Nothing is restored, assigned or changed.**
+
+END OF ENTRY 259
+
+===============================================================
+
 END RECOVERY LEDGER
