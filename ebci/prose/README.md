@@ -150,6 +150,7 @@ The ~150k redraft's packets are new, one per piece of the chosen outline (`decis
   an object someone fights over, trades, steals or bets on, never what the protagonists do instead of acting.
 - **Two sign-off questions for every redraft piece (Q-EN8),** beside Q-CE5's seven: *does a protagonist start an act
   with a risk in this piece?* and *is a clock doing an action's work?*
+- **Fixed beats are obligations, not protected scenes (Q-MC3, 2026-09-29,** `decisions/REDRAFT_MOMENTUM_CHECKPOINT_E05_E09_AUTHOR_ANSWERS_2026-09-29.md`**).** At a checkpoint, a piece's delivery can be reconsidered (folded, merged, moved or shortened) as long as its obligation is kept and the change is recorded. A packet's shape does not shield a redundant scene from editorial judgment.
 - **Length (Q-IT2d, Q-IT5).** Each packet gives its approximate length from the outline, as an approximate word count.
   **The book aims at about 150k and may finish under it.** A piece over its target needs a specific reason, recorded
   by the checker.

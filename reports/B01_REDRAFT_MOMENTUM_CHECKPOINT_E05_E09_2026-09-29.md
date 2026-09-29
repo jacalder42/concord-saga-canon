@@ -14,6 +14,10 @@ The drafts, the reads and the quoted checkpoint are in the private manuscript re
 - the drafts: `B01/redraft/act-01/E05–E09`, `S02`;
 - the reads and checkpoint: `draft-notes/redraft/B01_REDRAFT_CHECKPOINT_E05-E09.md`.
 
+**Answered 2026-09-29** (`decisions/REDRAFT_MOMENTUM_CHECKPOINT_E05_E09_AUTHOR_ANSWERS_2026-09-29.md`, ledger §297). The author revised two of this report's conclusions:
+- **§3's *"no further scene resolves by feeding or sitting her down"* is too categorical.** The problem is the recurring passive, managed relationship.
+- **§4's headcount reduction does not by itself reserve E14's force.** Escalation is experiential.
+
 **Findings are bounded.** They record what three reads found, and are not an assurance that nothing else is wrong.
 
 ## 1. What was drafted

@@ -14050,4 +14050,23 @@ END OF ENTRY 296
 
 ===============================================================
 
+## §297 — Q-MC3–5 answered: E05 folded provisionally; the card tracked; E10–E15 released; the Lucien-witness logic, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/REDRAFT_MOMENTUM_CHECKPOINT_E05_E09_AUTHOR_ANSWERS_2026-09-29.md`.
+
+- **Q-MC3.** E05 is folded provisionally into E03, as a short passage after the evening call; it does not go at the head of E06. The standalone version is kept for comparison after Act I, and E03's errands are trimmed. The EBCI and prose packets are unchanged for now.
+- **Q-MC4.** The neighbor's card is kept as an open inquiry. Its silence must eventually change what Seraphine does or believes.
+- **Q-MC5.** Draft E10–E15, then read E00–E15 continuously. A *shared investigation* is tested four ways: chosen together; different abilities; a result that forces a decision; something neither could make alone.
+- **Lucien as a witness.** Seraphine considers him and declines, for her own reasons (E07). She asks for his statement (E09) and is refused it (E10). E01's camp guard is read as: the page never makes the camp a cause, a source or a special place. That reading is flagged for the author's confirmation.
+- **Two of the E05–E09 report's conclusions are revised:**
+  - The passive, managed relationship is the problem, not food or hospitality.
+  - Escalation is experiential, not a headcount.
+- **Principle** (`ebci/prose/README.md`): a fixed beat names an obligation, not a protected scene.
+
+**Next:** apply the fold, the E03 trim and the Lucien-witness lines; draft E10–E15; read E00–E15 continuously; then the Act I checkpoint.
+
+END OF ENTRY 297
+
+===============================================================
+
 END RECOVERY LEDGER
