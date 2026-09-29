@@ -13804,4 +13804,37 @@ END OF ENTRY 287
 
 ===============================================================
 
+## §288 — The Veil act-level conflict review against the trilogy guide (Q-TG1), 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `proposals/TRILOGY_CONFLICT_GUIDE_2026-09-29.md` (approved design, committed earlier) and `reports/VEIL_ACT_LEVEL_CONFLICT_REVIEW_2026-09-29.md`.
+
+**Triggers that fire in B02–B03 after pass 6 and F3–F4:**
+- **Withholding is everyone's response.** There are 30 instances, 13 of them Lucien's.
+- **Every relationship is strained at once** at B02 E31–E36.
+- **B03 is saturated with fresh fractures** before the Warehouse.
+- **Mild receive-only runs** at B02 E01–E07 and B03 E01–E10.
+
+B02's external opposition clears its floor without Q-VB11's inference. B01 needs no change.
+
+**Recommended with pass 6 (F5):**
+- **Eleven recasts** out of 37 rows; the other 26 are kept. The main ones:
+  - B02 E26: Lucien sends the grounds over Seraphine's word, and at E31 she bars him openly.
+  - B03 E17: Baz sets a term instead of cutting off the logs.
+  - B03 E18: shared costs, without forgiveness.
+- **Three helping truths:** B02 E21, B03 E18 and B03 E22.
+- **F3/F4 wording consistency** across pass 6.
+- **Q-VB11's E14 recognition is dropped.**
+
+**Optional, for the author:**
+- B03 E26 as the group's last whole good day, with Seraphine, Caro and Elisabet at the second line.
+- A small B02 E01 or E06 lever.
+- Mara's open refusal, when her lines are settled.
+- B02 E40 as a bargain.
+
+**Next:** pass 6 is applied to the B02 and B03 packets with the (a) list.
+
+END OF ENTRY 288
+
+===============================================================
+
 END RECOVERY LEDGER
