@@ -13131,4 +13131,25 @@ END OF ENTRY 262
 
 ===============================================================
 
+# 263. The 13 manuscript-versus-ruling conflicts answered (Q-OL4); calendar C applied — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_MANUSCRIPT_RULING_CONFLICTS_AUTHOR_ANSWERS_2026-09-29.md`.
+
+**Ruled:**
+- **#1:** the Mira ruling's *"The B01 v4.1b child stays unnamed"* is amended from the new file: the child may be named (Dré); he is not Mira and has no guide role.
+- **#9:** T7 amends D6: the team observes more than it intervenes, and Seraphine carries one person by choice, at bodily cost.
+
+**Approved design, for the redraft's new packets:** #2a (the E31 bassist unnamed, her recurrence removed: she is the Lacuna cameo); #3 (Elisabet leaves after E30); #4 (plans undated); #5 (the true sentence to the coroner); #6 (one widening exchange after E45); #8 (the 311 clock replaces the camp argument at E39); #11 (Mara on the page in Act II). **#13:** *thread* in E00 is kept.
+
+**Housekeeping, done:**
+- **#7:** BC-SWAMP-WOUND's locator is corrected to E01, reinforced at E02, E22, E28 and E46 (`grids/breadcrumbs.csv`); v4.1b's E29 beat carries a supersession note; the E29 EBCI packet's claim moves to E01 and E02.
+- **#10:** calendar C in `book_context/book_context_B01.json` `_calendar` (old anchors kept as a note) and in `rules/saga_context_S1.json` `chronology` (a note); 35 EBCI `When:` lines and 25 prose-packet month phrases (E07–E46).
+- **#12:** v4.1b corrected in place with dated notes (Trip *she* in S05; Lacuna a cameo, not *DEFERRED*); the named recorders are recorded against LP3 Q-E15-2.
+
+**Not changed:** no earlier decision file; no manuscript text.
+
+END OF ENTRY 263
+
+===============================================================
+
 END RECOVERY LEDGER

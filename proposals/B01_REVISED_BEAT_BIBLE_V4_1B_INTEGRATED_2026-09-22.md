@@ -10,6 +10,8 @@ Promotion state: **NARRATIVE ORDER LOCKED — CHARACTER-CAUSALITY INTEGRATED —
 
 > **Note 2026-09-27 (Veil trilogy audit; `decisions/VEIL_TRILOGY_AUDIT_AUTHOR_ANSWERS_2026-09-27.md`):** notes to apply **at B01 EBCI** are in `proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md` §3: E48 pays off E01 (M03); E29 retitled away from *drift*; E23 Technarc ambient; E23–E30 one Elisabet visit; the Lacuna, v4.1a, LR02 and header leftovers; the sequence relabel; O1 as a Möbius seed. **The narrative order is unchanged. The EBCI hold stands.** The text below is unchanged.
 
+> **Note 2026-09-29 (`decisions/B01_MANUSCRIPT_RULING_CONFLICTS_AUTHOR_ANSWERS_2026-09-29.md`, Q-OL4 #2, #7, #12):** four corrections are made in place, each marked: S05 calls Trip *she*; the E29 swamp-wound beat is superseded (the pressure is at the camp, E01–E02); Lacuna's B01 entry is **a cameo**, an unnamed bassist at E31, not *DEFERRED* (the end states and the lock checksum). S06 names no pronoun for Trip. **Also recorded, not edited:** the named recorders Clement and Isaiah (DR7 Q-DR13) stand against LP3 Q-E15-2's *"both unnamed"*. **The narrative order is unchanged.**
+
 Built from:
 - recovered B01 E00–E42 episode substrate;
 - B01 Revised Beat Bible Migration Draft v3;
@@ -837,7 +839,7 @@ Reward restraint.
 - Evidence tempts them deeper.
 - Baz argues for withdrawal when uncertainty exceeds benefit.
 - Lucien resists, then accepts.
-- The swamp wound tells Seraphine waiting risks being too late.
+- The swamp wound tells Seraphine waiting risks being too late. *(Superseded 2026-09-29, `decisions/B01_MANUSCRIPT_RULING_CONFLICTS_AUTHOR_ANSWERS_2026-09-29.md` #7: the swamp-wound pressure is placed at the camp, E01–E02, and remembered at E22, E28 and E46; at E29 the pressure stays in the Marigny and unlocated. Her restraint here is for the evidence.)*
 - She chooses restraint anyway.
 - Later evidence validates retreat as competence.
 
@@ -993,7 +995,7 @@ Target: 250–450 words
 
 Contradictory ordinary stories while drinks, music, cleanup, work and hospitality continue.
 
-Trip holds the room; he does not arbitrate truth.
+Trip holds the room; she does not arbitrate truth. *(Corrected 2026-09-29, `decisions/B01_MANUSCRIPT_RULING_CONFLICTS_AUTHOR_ANSWERS_2026-09-29.md` #12: was "he"; Trip is she, per her card and the manuscript.)*
 Prefer Trip + unnamed patrons.
 No correct explainer.
 
@@ -1758,7 +1760,7 @@ The recovered December shell distribution is **15 / 16 / 15**, with Act I's 15 i
 - **Lucien:** begins with bounded professional mandate and legitimate institutional identity; ends with the assignment ethically/personally larger than mandate; Dominion conflict remains latent.
 - **Baz:** arrival is personal choice enabled by professional history, not formal assignment; develops independent NOLA/Seraphine relationships rather than existing only as Lucien's helper.
 - **Mara:** ordinary community work continues under increased abnormal load; notebook holds more unresolved people/tasks and odd civic observations; she does not join the team.
-- **Lacuna:** no B01 state required under current defer decision.
+- **Lacuna:** no B01 state required under current defer decision. *(Corrected 2026-09-29, `decisions/B01_MANUSCRIPT_RULING_CONFLICTS_AUTHOR_ANSWERS_2026-09-29.md` #2 and #12: B01 carries one cameo, an unnamed bassist at E31 with zero portent and no recurrence, per VAA §3 T8. Her B01 end state is still none.)*
 
 ## Möbius additions
 - Mara notebook: **ordinary people/tasks → anomalous civic observations → community memory under load.**
@@ -1804,7 +1806,7 @@ Do not canonize yet:
 - Baz former/adjacent colleague history: **INTEGRATED**
 - Elisabet independent E23 entrance: **INTEGRATED**
 - Mara civilian Life Packet: **INTEGRATED AS WORKING ARCHITECTURE**
-- Lacuna B01: **DEFERRED**
+- Lacuna B01: **DEFERRED** → **a cameo** (corrected 2026-09-29, `decisions/B01_MANUSCRIPT_RULING_CONFLICTS_AUTHOR_ANSWERS_2026-09-29.md` #12: an unnamed bassist at E31, zero portent, no recurrence; VAA §3 T8)
 - Global confirmation / MT / Marrakesh / Elias-Brightbreak B01 leakage: **NONE**
 - Full EBCI regeneration from older v3/v4 files: **PROHIBITED**
 - Next production source: **this integrated v4.1b file**
