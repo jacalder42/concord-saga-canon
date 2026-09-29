@@ -600,3 +600,24 @@ E44–E48), deliberately not from her courtesy.
 
 **What distinguishes her:** a ledger, not a crouch. She rations and says no, waits rather than soothes, and keeps a
 private satisfaction in the count. **She shows no appetite for public credit;** she arranges it for others.
+
+### Wants for themselves (approved 2026-09-29, Q-WL1)
+
+These are working drafting lines, not canon. Each character's evidence and collisions are in
+`proposals/CHARACTER_WANTS_LINES_2026-09-29.md`. Give the line with the point-of-view character's pressures, as it
+stands at that point in the book.
+
+| Character | Wants for themselves |
+| --- | --- |
+| Seraphine | To be the one who holds it: needed, indispensable |
+| Lucien | His family's standing, and his own place in it |
+| Baz | To belong here: one of them, not "the pulse guy" |
+| Caro | Her own Chicago: a life that is hers, not the next call |
+| Elisabet | Her own work with her name on it: to be the one whose model called it |
+| Trip | The Vein as hers: access on her terms, her name kept |
+| Mara *(conditional on her lines)* | Every person accounted for by name, in her own book, and to be its keeper |
+| Rex | Vindication: to be proved right about the limit he refused to certify |
+| Tahl | To see it with his own eyes: the ground, not the edges |
+| Kade | To matter: to be read and answered |
+| Lacuna | Her ground: her people, and being owed |
+

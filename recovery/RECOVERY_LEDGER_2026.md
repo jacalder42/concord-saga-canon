@@ -13383,4 +13383,39 @@ END OF ENTRY 271
 
 ===============================================================
 
+# 272. The foundations approved; the author's read of B01; a mystery and action engine begun — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_HUMAN_READ_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-09-29.md`.
+
+**Approved:** Q-RS1–6 and Q-WL1, as recommended. The relationship register is the pass's target, and the wants lines are working drafting lines.
+
+**The author's read of B01** (the human read, verbatim in the decision):
+- the prose is enjoyable and approachable, with some residue (negative confirmations, *"and and and"*);
+- the protagonists reply to everyday people instead of participating: third-party observers;
+- time and counting stand in for action;
+- the strange is too vague;
+- the mystery needs a driver: wrong conspiracy theories, subtle clues to other actors;
+- a book of walking a neighbourhood talking to people will lose readers.
+
+**Applied:**
+- the review watch-list gains the residues and two questions (is the protagonist only replying; is a count doing an action's work);
+- the pressure cards' §9 gains the wants lines;
+- the prose README's pressures include the wants line;
+- approval notes on the register and the wants file.
+
+**Running:** two independent designers build a B01 mystery and action engine on the 150k outline. It covers:
+- surface rules for the strange, taken from the approved private causal cards;
+- a question ladder;
+- a clue economy found by action;
+- wrong theories;
+- other actors' traces;
+- protagonist action in every piece;
+- the counting.
+
+It returns with Q-AN1–4.
+
+END OF ENTRY 272
+
+===============================================================
+
 END RECOVERY LEDGER

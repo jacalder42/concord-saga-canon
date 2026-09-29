@@ -1,6 +1,8 @@
 Status: PROPOSAL — NON-CANONICAL (Tier D until the author approves it). Drafted 2026-09-29 by Claude as step 1 of
 the cast-conflict pass (`reports/SAGA_CAST_CONFLICT_ARCHITECTURE_AUDIT_2026-09-29.md`, Q-CE2 step 1).
 
+> **Approved 2026-09-29 (Q-RS1–6, as recommended; approved design, not canon)** in `decisions/B01_HUMAN_READ_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-09-29.md`. The text below is unchanged.
+
 # Relationship end-state register
 
 **What it does not change.** No card, registry row, grid row, breadcrumb, ruling, beat, packet, prose packet or

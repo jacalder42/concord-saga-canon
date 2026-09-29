@@ -95,3 +95,16 @@ B01. They are questions, as above, not counts to hit.
 - **Is an event told several times** (as it happens, on a screen, in minutes, in notes)? Keep only what each telling
   adds.
 - **Did a revision cut leave the same speaker in two consecutive paragraphs?** Check the seam.
+
+## Added after the author's read (2026-09-29)
+
+The source is the author's own read of B01 (`decisions/B01_HUMAN_READ_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-09-29.md`
+§2). These are questions, as above.
+
+- **Is a negative confirmation doing the work?** For example, *She did not look back*, *Nobody said*, *It was not
+  nothing*. It states what didn't happen instead of what did. Keep it where the absence is the event.
+- **Is an *and … and … and* chain standing in for rhythm?** Keep one where breathlessness is the point.
+- **Is the protagonist only replying?** In a scene with an everyday person, does the protagonist want, try, refuse or
+  risk something, or only receive?
+- **Is a time, a count or a tally doing the work of an action?**
+

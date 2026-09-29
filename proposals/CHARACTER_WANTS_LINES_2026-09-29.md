@@ -2,6 +2,8 @@ Status: PROPOSAL — NON-CANONICAL (Tier D until the author approves it). Drafte
 the cast-conflict pass (`reports/SAGA_CAST_CONFLICT_ARCHITECTURE_AUDIT_2026-09-29.md`, Q-CE2 step 1; foundations §7
 change 1).
 
+> **Approved 2026-09-29 (Q-WL1, as recommended; approved design, not canon)** in `decisions/B01_HUMAN_READ_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-09-29.md`. The text below is unchanged.
+
 # Wants lines: eleven characters
 
 **What it does not change.** No card, registry row, pressure card, writer profile, grid, ruling, beat or packet. Per
