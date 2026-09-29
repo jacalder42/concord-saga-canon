@@ -13929,4 +13929,28 @@ END OF ENTRY 291
 
 ===============================================================
 
+## §292 — Act I drafting readiness: ChatGPT's review checked; E01 and E14 corrected, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/ACT_I_DRAFTING_READINESS_REVIEW_RECONCILIATION_2026-09-29.md`. It holds a ChatGPT review the author forwarded, as received. The review is a recommendation, not a decision.
+
+**Checked:** all five claims hold.
+
+**Corrected** (each restores what the manuscript and existing answers establish):
+- **E01:** the confession attempt now comes **after** Dré's death, in the quiet, where the manuscript has it. It is changed in the EBCI beats, the prose packet and two beat rows.
+- **E14:** Lucien's check *found no fault* (Q-E15-1), and the steady picture is **Clement's phone clipped to his rig's stand**, still recording while everyone, Clement included, goes down (Q-RE2). It is changed in the EBCI packet and the prose packet.
+
+The validator shows 0 violations.
+
+**For the author (Q-DR-R1–5):**
+- **Q-DR-R1:** release Act I drafting, with the review question *what outcome is the reader anticipating before the public event, and what are the protagonists doing about it*, and about 46,000 words as an allowance.
+- **Q-DR-R2–5:** four small levers:
+  - B03 E26's second line with Seraphine, Caro and Elisabet, and no farewell language;
+  - B02 E06, Baz starts contact with Naima;
+  - B01 E08, Mara's open refusal;
+  - B03's quiet opening accepted provisionally, and Lucien's drift withholding unchanged.
+
+END OF ENTRY 292
+
+===============================================================
+
 END RECOVERY LEDGER
