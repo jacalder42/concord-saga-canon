@@ -14338,4 +14338,20 @@ END OF ENTRY 312
 
 ===============================================================
 
+## §313 — B01 redraft: the first beta-reader panel, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_BETA_READER_PANEL_2026-09-29.md`, run at the author's request while he completes his own read.
+
+- **Ten simulated beta readers**, each blind to design notes and canon, read the complete redraft in order and kept chapter, act and final notes: fans of the five board authors (Gaiman, Dinniman, Hazelwood, Deverell, SenLinYu) and the five reader archetypes. Their notes (about 129,000 words) and a private synthesis are in the manuscript repository's `draft-notes/beta-read/`. Nothing is quoted here. The fan readers do not author the deferred editorial-lens fields.
+- **All ten would read Book Two**; ratings 3.5–4 (mean 3.8). Pull by act: 3.94, 4.12, 4.29. E12 scores 5.0 from all ten; the troughs are E00, E11, E33 and E43.
+- **Convergences:** the human promise paid (10/10); rests after peaks are the troughs (10/10); repeated shapes (9/10); the prologue's frame never returns (8/10); the opposition faceless (7/10); Caro and Elisabet under-used (7/10); the *None* resolved offstage (6/10); the romance never catches (5/10); knowledge doesn't visibly accumulate (4/10); Baz read as marked for death (2/10, a Veil guard concern); E47's meeting-place line unplanted (2/10).
+- **Asks that meet approved design** are recorded, not adopted (a face for the watchers against Q-EN2; romance against the *hand on hand* ceiling; answers against *no mechanism*).
+- **No manuscript edits while the author reads.** Seven candidates are set out for after his read, strongest first: one private Seraphine–Lucien scene with the *None* told to her face.
+
+**Next:** the author's read; then his answers, set beside the panel.
+
+END OF ENTRY 313
+
+===============================================================
+
 END RECOVERY LEDGER
