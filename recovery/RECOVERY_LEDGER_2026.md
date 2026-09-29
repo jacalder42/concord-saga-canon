@@ -14354,4 +14354,20 @@ END OF ENTRY 313
 
 ===============================================================
 
+## §314 — B01 redraft: what it would take to reach 4.5 / 5, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_PATH_TO_4_5_ANALYSIS_2026-09-29.md`, written at the author's request while he completes his read.
+
+- **The readers are not asking for a different book.** What holds them at 3.5–4 is four promises the book makes and does not pay (the *None* on the page, one true thing about the world, the prologue's presence, an opponent who wants something) and one structural cost (rests after peaks, repeated shapes). Projected, by inference from each reader's stated conditions: seven of ten reach about 4.5 on the first three promises and the placement; the Dinniman, SenLinYu and LitRPG fans need antagonism and physical risk, a rupture with a cost, and visible knowledge respectively.
+- **Twelve levers (L1–L12)** and eighteen overlooked story elements (E-1–E-18: the obligatory scene, scene and sequel, the antagonist's escalating moves, hard versus soft magic, found documents, hurt and comfort, serial loop length, folk cosmology, grief in the body, and others), each tied to the panel's evidence.
+- **Recovered and verified (not previously recorded):** the author's own 2025-11-08 design for supplements. It names Seraphine and Lucien as *field note takers at the end of each chapter*, has math *backgrounded in the chapter text* and paid off in supplements, grows the interface by trilogy (*Veil = felt, Neon Rebellion = quantified, Concord = understood/innate?*), and proposes optional bonus chapters by reader group. The later Q-V3-2 (approved design), profile §9 and the Tier C `SUPPLEMENTS_PERMISSION_RULES.md` §6 constrain or forbid it. **No winner is picked.** A reconciling reading is proposed: in Veil, the crew's own diegetic data with no Resonance vocabulary; the quantified interface from Neon.
+- **Nine questions (Q-P45-1–9)** for after the author's read, each with a recommendation. Estimated at about +8–12k words, which keeps B01 inside the ~150k aim. A cheap test is proposed before adoption.
+- A private companion with the readers' own conditions is at the manuscript repository's `draft-notes/beta-read/PATH_TO_4_5.md`. **No manuscript edits during the author's read.** The manuscript was also delivered to the author as DOCX, RTF and TXT (private copies).
+
+**Next:** the author's read; then Q-P45-1–9 beside his own notes.
+
+END OF ENTRY 314
+
+===============================================================
+
 END RECOVERY LEDGER
