@@ -14305,4 +14305,21 @@ END OF ENTRY 310
 
 ===============================================================
 
+## §311 — B01 redraft: drafted to the end, and the end-of-book checkpoint, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_END_OF_BOOK_CHECKPOINT_2026-09-29.md`.
+
+- **The B01 redraft is drafted to its end:** about 137,700 words (Act I 38,700; Act II 54,700; Act III 44,300, with the closing Vein vignette), in the private manuscript repository, with a complete reading copy in its `draft-notes/human-read/`. Nothing is quoted here.
+- **Whole-book reader:** 4 / 5, and would acquire it. It ends as a book. Act III pulls from 2.5 (E43) to 5 (E39, E45, E46, E47).
+- **E46–E49 check:** every obligation delivered; the honest account matches the forecast account (§308). Must-fixes applied: the column's hand; Baz told about Kerlerec, and the police card told; the Square's case now arrives after Thursday's quiet; *faster* wrong *as a line*, with the intervals; the account gains the lot's two results; points of view kept.
+- **Seraphine's onset log is paid in E48:** she reads it, takes herself out as the instrument, and chooses her own post.
+- **Corrected:** E48's carry line called the Square case the third known; it is at least the fourth (Sal's jack post). Brief, packet and report corrected.
+- **Q-EB1–4 await the author:** the Batiste form paid in E44 (recommended); Denise's sign-out left to B02; no cuts before the author's read, then one book-wide pass on repeated endings; next, the author's read of the complete redraft.
+
+**Next:** the author's answers and read.
+
+END OF ENTRY 311
+
+===============================================================
+
 END RECOVERY LEDGER
