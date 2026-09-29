@@ -13236,4 +13236,21 @@ END OF ENTRY 266
 
 ===============================================================
 
+# 267. Mara's pressure lines proposed with evidence (Q-IT3) — 2026-09-29
+
+**Status:** LEDGER ENTRY. Under `decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_ANSWERS_2026-09-29.md` Q-IT3. The four lines are in `proposals/CHARACTER_PRESSURE_CARDS_2026-09-29.md` §9. Their evidence quotes the manuscript, so it is in the private manuscript repository (`draft-notes/character-pressures/MARA_PRESSURES_PROPOSAL.md`).
+
+**Proposed:**
+- **Wants:** everyone named, in her own book, and to be the keeper.
+- **Protects:** her people's face and her standing, through managed fictions, at the cost of plain truth, the people she triages off, and what Seraphine is told.
+- **Misreads:** that a plain fact will carry, and that she is immune to rumour. Evidenced once (E40), extrapolated as a habit.
+- **When threatened:** she counts and orders; worse, she stops writing, goes clipped, and decides for people alone.
+- Three lines are evidenced; one is partly extrapolated. Alternatives are recorded.
+
+**Awaiting the author's approval; not used in any stack.**
+
+END OF ENTRY 267
+
+===============================================================
+
 END RECOVERY LEDGER

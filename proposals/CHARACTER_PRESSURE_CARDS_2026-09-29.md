@@ -581,5 +581,22 @@ failure as a B01 habit.
 
 ### Mara
 
-**Pending.** Claude proposes four lines from the B01 manuscript, each with evidence and extrapolations labelled, and
-not derived from her politeness. The author approves them before any stack uses them.
+**Proposed 2026-09-29; awaiting the author's approval. Not used in any stack until approved.** The evidence (short
+manuscript quotes, and an alternative reading for each line) is in the private manuscript repository,
+`draft-notes/character-pressures/MARA_PRESSURES_PROPOSAL.md`. Drawn from what she does in B01 (E09, E40, E41,
+E44–E48), deliberately not from her courtesy.
+
+- **Wants:** every person accounted for by name, in her own book, and to be the one who keeps it. The keeping pleases
+  her, and a blank or an unnamed person bothers her for her own sake (E09, E40, E44–E45). **[EVIDENCED]**
+- **Protects:** her people's face, and her standing with them, through small managed fictions. The cost falls on plain
+  truth, on the people she triages off the list, and on what Seraphine is told (E09, E40, E47, E48). **[EVIDENCED]**
+  *Alternative:* she protects the timing of what she knows, keeping it back until she judges it is time.
+- **Habitually misreads:** she trusts that a plain, sourced fact will settle people, and that she stands outside what
+  everybody "hears". On the lot it doesn't carry, and she freezes with the rest (E40). **[EVIDENCED once, in E40;
+  EXTRAPOLATED as a habit]** *Weaker alternative:* she reads distress as a shortage of food, heat or sleep.
+- **When threatened:** she counts, triages and gives orders in her ordinary voice. Worse, she stops writing, goes
+  clipped, decides for people alone and on paper, and pulls back to her own ground (E40, E41, E45, E48).
+  **[EVIDENCED]**
+
+**What distinguishes her:** a ledger, not a crouch. She rations and says no, waits rather than soothes, and keeps a
+private satisfaction in the count. **She shows no appetite for public credit;** she arranges it for others.
