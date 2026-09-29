@@ -13473,4 +13473,34 @@ END OF ENTRY 274
 
 ===============================================================
 
+# 275. ChatGPT's review of the Companions' implementation and the redraft's source, checked — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/COMPANIONS_IMPLEMENTATION_AND_REDRAFT_SOURCE_REVIEW_2026-09-29.md`. The forwarded ChatGPT review is recorded verbatim, as received.
+
+**All eleven points hold.**
+- Pressure is written only as deterioration.
+- The register risks becoming mechanical.
+- Seraphine's want stays near care.
+- *"Every clue must cost"* risks a transgression-and-punishment formula.
+- **The prose README's redraft source (the old EBCI brief plus the outline row) would leave the drafter to reconcile two books.**
+- The register's E24 still reads *"mended"*.
+- The mystery design overreaches from patterns to conclusions.
+- Milestones should get selective updates only.
+- **The order is already approved (Q-CE2): the Veil pass comes before B01's redraft packets.** Claude's last message to the author skipped it; this corrects that.
+
+**Passed to the running merged-outline build:** the epistemic ladder, varied clue sources, constructive responses, varied relationship movement, explicit handoff states, and rows usable as an EBCI source.
+
+**For the author, Q-AC1–7:**
+- confirm the order;
+- revise B01 EBCI as the single source;
+- a constructive line in §5A;
+- second wants that aren't care;
+- clue sources and the epistemic ladder;
+- selective milestones;
+- varied trajectories.
+
+END OF ENTRY 275
+
+===============================================================
+
 END RECOVERY LEDGER
