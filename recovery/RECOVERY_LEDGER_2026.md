@@ -14164,4 +14164,20 @@ END OF ENTRY 301
 
 ===============================================================
 
+## §302 — B01 redraft, Act II: the early momentum checkpoint (E16–E21), 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_II_MOMENTUM_CHECKPOINT_E16_E21_2026-09-29.md`.
+
+- **E16–E21 drafted:** 17,153 words in the private manuscript repository. Nothing is quoted here.
+- **The forward-pull read:** E16 3, E17 4, E18 4.5, E19 2, E20 4, E21 5. **The reader would start E22 that night.** From E21 the inquiry is judged Seraphine's own.
+- **The packet check:** every fixed beat is delivered; continuity slips, guard breaches, two exit mismatches and line tells found.
+- **Revised:** the supervisor now believes the heat checks; no reserved-floor link in Lucien's thoughts; her admission sits before the log; no Square link and no frozen animal in E18; E19 declines the freeze as Seraphine's choice; sleep and note-writing endings changed; Fontenot's report logged as *said after telling*; the repair slowed; line tells cut.
+- **Drafting note:** Baz reads as never wrong; his pressure lines should cost him on the page.
+
+**Next:** E22–E26, then the next checkpoint.
+
+END OF ENTRY 302
+
+===============================================================
+
 END RECOVERY LEDGER
