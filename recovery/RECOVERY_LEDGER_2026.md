@@ -14126,4 +14126,25 @@ END OF ENTRY 299
 
 ===============================================================
 
+## §300 — B01 redraft: the focused Act I revision and the forward-pull read, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_I_REVISION_AND_FORWARD_PULL_READ_2026-09-29.md`.
+
+- **The revision (Q-AC3), worked through function:**
+  - E09 cut to its turn (about 1,550 words).
+  - A new practical thread: the family's case file, which Seraphine leaves unsaved because the renewal date cannot be left blank. It carries into Act II.
+  - The older characters get their own interests and incomplete knowledge.
+  - E11 trimmed (about 1,040 words).
+  - E14's replay cut, and Seraphine decides to log her own perception.
+  - E15: Baz's distinct contribution (consented, triangulated testimony from strangers); Seraphine's log kept on the page; the two records checked for causality (scrutiny, not contradiction); one ending.
+  - **Act I is 38,739 words.** Nothing is quoted here.
+- **The forward-pull read:** E09 4, E10 4, E11 1–2, E12 4, E13 2–3, E14 5, E15 4. **The reader would start E16 straight away.** Still weak: E11 and the middle of E13 back to back, and Seraphine's agency is inward.
+- **Carried to Act II:** her consequential line of inquiry; the case file and the mother kept live by action.
+
+**Next:** Act II. Reconcile Act I's prose discoveries into the Act II briefs, then derive the Act II prose packets.
+
+END OF ENTRY 300
+
+===============================================================
+
 END RECOVERY LEDGER
