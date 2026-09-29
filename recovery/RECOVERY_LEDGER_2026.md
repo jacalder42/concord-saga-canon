@@ -14226,4 +14226,22 @@ END OF ENTRY 305
 
 ===============================================================
 
+## §306 — B01 redraft Act II checkpoint: the author's answers to Q-A2C1–5, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/REDRAFT_ACT_II_CHECKPOINT_AUTHOR_ANSWERS_2026-09-29.md` (approved design).
+
+- **Qualified:** "sameness and warmth, not structure" is not accepted as stated; repeated scene shapes are structural when they decide how the book moves.
+- **Q-A2C1:** E28 keeps its dramatic function (choice, attraction, consequence); its length is assessed now.
+- **Q-A2C2:** the three rests stay provisionally, each with a different job; E33 is shortened now if it repeats.
+- **Q-A2C3:** the Guidry letter's decision goes on the page in E36 (wording chosen, sending committed); E38 carries consequences and does not replay the sending.
+- **Q-A2C4:** a focused structural pass now on repeated moral arrangements (*refused by someone who is right*) and predictable emotional closure; vary actual outcomes. Sentence tics wait for the line edit.
+- **Q-A2C5:** proceed to Act III after one consistent forecast account and the calendar and character-choice reconciliation. No further system design.
+- **Seraphine:** observation is not agency. In Act III her discoveries must change a decision she makes and so the group's options.
+
+**Next:** the narrow structural pass, the E36 beat, then the Act III reconciliation.
+
+END OF ENTRY 306
+
+===============================================================
+
 END RECOVERY LEDGER
