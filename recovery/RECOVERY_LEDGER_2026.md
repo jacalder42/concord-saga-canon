@@ -13152,4 +13152,24 @@ END OF ENTRY 263
 
 ===============================================================
 
+# 264. The writer-profile amendment tested: controlled comparison — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/WRITER_PROFILE_AMENDMENT_CONTROLLED_COMPARISON_2026-09-29.md`. The drafts, stacks and judging are in the private manuscript repository (`draft-notes/instruction-test/`); they are test drafts, not manuscript.
+
+**Done:** three arms (A the current profile; B the amended profile with pressures; C as B with the packet's resolution clauses neutralised) on E24, E42 and E33; eight drafts; two blind judges scoring six criteria; unblinded.
+
+**Found:**
+- **The amendment raised stakes and lasting consequences** (means: stakes 4.83 against 4.33; consequences 4.17 against 3.33), with the voice held and **no manufactured conflict**.
+- **Removing the resolution clause won E24 with both judges, but came last in E42.** Both the profile and the packets drive in-scene repair.
+- **The freer drafts ran past their scenes** (into the next episode's day; dropping a character the next episode needs). Fit favours the current profile, partly by confound. Both judges proposed time boxes and exit conditions.
+- Two stack codes are unverified (rate limit), and Seraphine's pressures are inferred.
+
+**For the author, Q-IT1–3:** approve the amendment as drafted; packets without in-piece repair clauses and with exit conditions; Seraphine's inferred pressures as working lines, and Mara's by author supply or Claude candidates for approval.
+
+**Not changed:** the writer profile, packets, canon.
+
+END OF ENTRY 264
+
+===============================================================
+
 END RECOVERY LEDGER

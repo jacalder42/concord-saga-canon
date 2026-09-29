@@ -7,6 +7,8 @@
   controlled comparison.
 - **It names no guide,** and assigns nothing to any character.
 
+> **Tested 2026-09-29:** `reports/WRITER_PROFILE_AMENDMENT_CONTROLLED_COMPARISON_2026-09-29.md` (ledger §264). It awaits the author's approval (Q-IT1). The text below is unchanged.
+
 **What it does not change:** the voice (§1), point of view (§2), rhythm (§3), humour, wonder, the strange, action,
 romance or line-level rules. It changes how the profile describes **people**, not how the narrator sounds.
 
