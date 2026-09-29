@@ -13418,4 +13418,31 @@ END OF ENTRY 272
 
 ===============================================================
 
+# 273. B01 mystery and action engine: two designs reconciled — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_MYSTERY_AND_ACTION_ENGINE_RECONCILIATION_2026-09-29.md`. The two independent designs and their brief are in the private manuscript repository (`draft-notes/b01-engine/`).
+
+**Agreed by both designs (the core):**
+- **Surface rules make the strange learnable without explanation**, from the approved private causal cards: places and edges; nothing pushed sideways; one material at a time; machines fail after it; slow and sharp kinds; the gaps shorten.
+- **Two protagonists commit to wrong theories and pay:** Lucien's pumps; Seraphine's *"looked after keeps it off"*, which leads to the gathering.
+- **Unattributed other actors, with one signature:** they want *only the time*.
+- **Clocks become contested objects**, not narration.
+- **An act with a risk in every piece**, and the field widened across New Orleans.
+- About 55% of the prose survives, and about 26 pieces are redrafted.
+
+**Where they differ, and Claude's view:**
+- The other actors: A subtle; B present (boxes, Lucien's 311 trap, a dawn collector). Recommended: B-lite.
+- Lucien's pump night with Elisabet, which revokes her access and causes her departure: B's version.
+- Both concealments: Seraphine hides a disconfirmer from Baz; Baz keeps a private column on *"she brings it"*.
+- Lucien's false report costing Sal's job: B's version.
+- B's device rule, over A's, which is close to what D5 holds.
+- Keep the cup on Dré's sill as an option; drop the chart.
+- The E45 card conflict (swing or still): keep the manuscript's still line.
+
+**For the author, Q-EN1–8:** adopt the merged engine; the actors' presence (answering Q-AN1–4); the theories; the false report; the rules; the counting rule; the cost; two Veil sign-off questions. After the answers, Claude produces one merged 150k engine outline.
+
+END OF ENTRY 273
+
+===============================================================
+
 END RECOVERY LEDGER
