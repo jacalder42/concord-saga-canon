@@ -14147,4 +14147,21 @@ END OF ENTRY 300
 
 ===============================================================
 
+## §301 — B01 redraft, Act II: Act I reconciled into the briefs, and the Act II prose packets derived, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_II_RECONCILIATION_AND_PROSE_PACKETS_2026-09-29.md`.
+
+- **Corrections to the Act II briefs (E16–E35), recorded in each brief's Notes with the old wording:**
+  - E16: Baz drives in from Houston, as in Act I; the airport bus is gone.
+  - **The calendar.** The briefs contradicted each other about when the page's window opens (E27's "first day", E28–E29's "day seven", against E31's "before the window opens" and E32's "inside the window"), and E34's Thursday could not precede E35's Sunday. Repaired within calendar C's *about*: the first week runs Tuesday to Saturday (E17–E26); the page is signed about 28 March; **the window is ten days from the Monday after Easter** (about 6–15 April); the block is about 10 April; E34 is the next day; E35 the Sunday; E36 unchanged. The reading order and every event are unchanged.
+- **Carry from Act I lines, additive, in seven Narrative Briefs** (E16, E17, E18, E21, E25, E27, E34): facts only. E21 keeps the case file live by action and names the heat checks as Seraphine's line of inquiry; E25 carries her unanswered offer to Renée.
+- **21 prose packets derived** (`ebci/prose/B01/B01-E16.md` … `B01-E36.md`), from the Narrative Briefs only, with one new heading, *Already true*. Act II's target is about 62,700 words. The sweep is clean (0 ids, 0 manuscript 7-grams, validator 0).
+- **Found for Act III:** two weekday labels (E40, E48) disagree with Act I's calendar; the book context's "Easter falls at E32" is the old numbering. Neither is fixed here.
+
+**Next:** sequential Act II drafting in the private repository, with an early momentum checkpoint after E16–E21.
+
+END OF ENTRY 301
+
+===============================================================
+
 END RECOVERY LEDGER
