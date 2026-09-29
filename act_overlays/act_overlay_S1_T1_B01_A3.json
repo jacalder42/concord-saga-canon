@@ -3,10 +3,10 @@
   "act_id": "S1.T1.B01.A3",
   "book_id": "B01",
   "trilogy_id": "T1",
-  "_authored_fields_basis": "APPROVED DESIGN 2026-09-27 (Tier B), not ruled canon. Values from proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md, approved as drafted (Q-O1-Q-O3) in decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md. Ledger section 205. Applies to act_thesis, deltas.pressure_vectors, deltas.character_state_deltas, act_success_criteria and forbidden_shortcuts only. Episode numbers are v4.1b labels (E37 is read before E36, E44 before E43); relabel at release (OQA B3). Envelope, exceptions and soft_modulation are untouched.",
+  "_authored_fields_basis": "APPROVED DESIGN (Tier B), not ruled canon. First written 2026-09-27 from proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md, approved as drafted (Q-O1-Q-O3) in decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md (ledger section 205). REFRESHED 2026-09-29 under Q-RE8 (decisions/REVISED_EBCI_VEIL_PASS6_AND_TRILOGY_GUIDE_AUTHOR_ANSWERS_2026-09-29.md): episode numbers are the redraft's (ebci/B01/REDRAFT_CONCORDANCE.md; the file order is the reading order), and the content follows the 50 revised packets in ebci/B01/ and the approved engine. Items keep their list positions, because packets cite them by number: an item the redraft made obsolete is replaced in place, and the redraft's guards are appended. Sources name packet SIDs and decisions; 'from v4.1b Enn' marks a kept guard's pre-redraft origin. Abbreviations: Q-EN = decisions/B01_MYSTERY_AND_ACTION_ENGINE_AUTHOR_ANSWERS_2026-09-29.md; (Q-AN2-4 are answered there); Q-MO, Q-XP = decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md (Q-XP2 as amended); Q-RE, Q-FX = decisions/REVISED_EBCI_VEIL_PASS6_AND_TRILOGY_GUIDE_AUTHOR_ANSWERS_2026-09-29.md; Q-CE = decisions/SAGA_CAST_CONFLICT_PASS_AUTHOR_ANSWERS_2026-09-29.md; Q-DR = decisions/B01_ACT_I_DRAFTING_CHECKPOINT_AUTHOR_ANSWERS_2026-09-28.md; TCG = proposals/TRILOGY_CONFLICT_GUIDE_2026-09-29.md; the older abbreviations (VAA, CC, PF, D1-D7) are as in the 09-27 drafts. Thread keys are the controlled vocabulary and control-layer only: on the page no faction is named. Applies to act_thesis, deltas.pressure_vectors, deltas.character_state_deltas, act_success_criteria and forbidden_shortcuts only. Envelope, exceptions and soft_modulation are untouched.",
   "_relabel_note": "RELABELLED 2026-09-27 at the B01 A2/A3 EBCI release (OQA B3, the file order is the reading order; decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md): old E37 'Baz and Lucien, Off the Clock' is now E36; old E36 'The City Reacts' is now E37; old E44 'Something Strange That Doesn't Hurt' is now E43; old E43 'When Grounding Fails' is now E44. The carriers below use the new labels. The success criteria and forbidden shortcuts are kept as written; where they speak of 'E37 before E36', 'E44 before E43' or 'labels corrected only at release', they describe the pre-release labels, and the relabel is that correction.",
-  "act_thesis": "Pattern becomes systemic. Disturbances cross neighbourhoods and systems faster than the city can close them out; civic coordination, not spectacle, carries the failure (E40–E41). Care helps people without controlling the phenomenon (E43). The rebound breaks Lucien's model and turns shared burden into usable behaviour (E45). After the Wide Quiet and the Square's human memory, the trio arrive together at a predicted quiet pulse and Seraphine carries one, at bodily cost: understanding without control. The city knows something is happening; nobody knows enough.",
-  "_act_thesis_source": "v4.1b Act III heading, §13 Act III jobs, E48 Möbius inversion and book-end state; VAA §4;\nM03.",
+  "act_thesis": "Pattern becomes systemic, and the pressure points above the city. The city's holds reach the three through ordinary people's own decisions: Denise cuts Seraphine's caseload after a call from the city, and she works around it by the depot's own procedure (E37). Lucien buys a window with the truth about himself and hears his lie land on Sal (E38); his trap proves only access and costs him Sal's crew and something with Seraphine (E39). The window passes with nothing while civic coordination fails, and Seraphine draws a theory from her limit (E40–E41). She tells Renée the truth once, and it buys nothing back (E44). Care succeeds as care at Mara's gathering and controls nothing (E45); the rebound breaks Seraphine's theory in front of the people she brought, turns shared burden into usable behaviour, and widens the inquiry, not the claim (E46). After the Wide Quiet (E47), Lucien writes the honest account and the three name the next watch as a bet (E48). At the tins they arrive together and Seraphine carries one, at bodily cost: understanding without control (E49). The city knows something is happening; nobody knows enough.",
+  "_act_thesis_source": "Revised packets S1.T1.B01.A3.E37 to S1.T1.B01.A3.E49 (story jobs, conflicts, exits), refreshed 2026-09-29 under Q-RE8; Q-EN1-8; Q-XP1-7; Q-FX1-2; VAA §4; M03. First drawn from v4.1b Act III heading, §13 Act III jobs, E48 Möbius inversion and book-end state.",
   "escalation_permissions": {
     "corridor": {
       "min": "U1",
@@ -28,65 +28,86 @@
     "pressure_vectors": [
       {
         "thread": "world",
-        "movement": "recurrence without one centre → civic coordination failure → human aftermath → systemic, not global → a changed baseline",
+        "movement": "recurrence without one centre → civic coordination failure (oxygen, the police log, food, transport) → human aftermath → systemic, not global → a changed baseline",
         "carriers": [
-          "E38–E41",
-          "E47–E48"
+          "E37–E41",
+          "E46",
+          "E48–E49"
         ],
-        "source": "v4.1b E38–E41, E47–E48"
+        "source": "S1.T1.B01.A3.E37, S1.T1.B01.A3.E40, S1.T1.B01.A3.E41, S1.T1.B01.A3.E48"
       },
       {
         "thread": "world",
-        "movement": "non-local: an ambiguous remote similarity becomes an ethical question, still not proof; inquiry widens, certainty does not",
+        "movement": "non-local: hearsay of a galley crew and a supply boat, and Caro's run logs inside New Orleans; an ambiguous remote similarity, still not proof; inquiry widens, certainty does not",
         "carriers": [
-          "E39",
-          "E45"
+          "E38",
+          "E42",
+          "E46"
         ],
-        "source": "v4.1b E39, E45 structural aftermath; BC-REMOTE-SIMILAR"
+        "source": "S1.T1.B01.A3.E38, S1.T1.B01.A3.E42, S1.T1.B01.A3.E46; BC-REMOTE-SIMILAR"
+      },
+      {
+        "thread": "world",
+        "movement": "external pressure points above the city: a call from the city reaches Denise, an index card and R.'s note, run logs sent up the line, a copy asked for before the file closed; ordinary people decide for themselves, and the line's \"they\" stays rumour. It takes and never asks; nobody says who",
+        "carriers": [
+          "E37",
+          "E38",
+          "E40",
+          "E42",
+          "E48"
+        ],
+        "source": "BC-FILE-UPSTAIRS (Q-RE1); Q-EN2; Q-XP2; S1.T1.B01.A3.E37, S1.T1.B01.A3.E38, S1.T1.B01.A3.E48"
       },
       {
         "thread": "seraphine",
-        "movement": "the limits of being useful to everyone → overreach at the rebound → arrive together, and carry one (M03 lands)",
+        "movement": "the limits of being useful to everyone → acting outside her clearance → W3 drawn from her limit, committed in public, broken in front of the people she brought → the truth told once → arrive together, and carry one (M03 lands)",
         "carriers": [
+          "E37",
           "E41",
-          "E45",
-          "E48"
+          "E44",
+          "E45–E46",
+          "E49"
         ],
-        "source": "v4.1b E41; VAA §4; M03; BC-ARRIVE-TOGETHER, BC-BOUNDED-RESPONSIBILITY"
+        "source": "S1.T1.B01.A3.E37, S1.T1.B01.A3.E41, S1.T1.B01.A3.E44, S1.T1.B01.A3.E46, S1.T1.B01.A3.E49; M03; BC-ARRIVE-TOGETHER, BC-BOUNDED-RESPONSIBILITY"
       },
       {
         "thread": "filaments",
-        "movement": "practice as stabilisation → practice as human care under instability",
+        "movement": "practice as human care under instability: Mara keeps her book whole by choosing who comes off it, hosts for her own count, and holds the roll",
         "carriers": [
-          "E44",
-          "E41"
+          "E40",
+          "E45",
+          "E46"
         ],
-        "source": "v4.1b E43 Filament state; BC-FILAMENT-ETHIC"
+        "source": "S1.T1.B01.A3.E40, S1.T1.B01.A3.E45, S1.T1.B01.A3.E46; BC-FILAMENT-ETHIC"
       },
       {
         "thread": "baz",
-        "movement": "embedded → the one who argues investigation must widen, and says \"we don't know\"",
+        "movement": "embedded → a thing kept from his own notebook → walks after a missing boy → his column read, and his \"faster\" recorded as wrong",
         "carriers": [
-          "E45",
+          "E43",
+          "E46",
           "E48"
         ],
-        "source": "v4.1b E45, E48, §4"
+        "source": "S1.T1.B01.A3.E43, S1.T1.B01.A3.E46, S1.T1.B01.A3.E48"
       },
       {
         "thread": "dominion",
-        "movement": "watching and collecting stay footprint, not confrontation",
+        "movement": "latent: a kind note from R. at Lucien's office, a question back written and not sent, nothing sent about the cases or the trap; no distrust voiced",
         "carriers": [
+          "E38",
           "E48"
         ],
-        "source": "v4.1b E48, §9"
+        "source": "S1.T1.B01.A3.E38, S1.T1.B01.A3.E48; Q-XP3; Q-XP7"
       },
       {
         "thread": "technarc",
-        "movement": "watching and collecting stay footprint, not confrontation",
+        "movement": "unattributed on the page: a faceless collector on a schedule, a case beside the city's notice on the Square's fence, then gone; no man at the end",
         "carriers": [
-          "E48"
+          "E39",
+          "E48",
+          "E49"
         ],
-        "source": "v4.1b E48, §9"
+        "source": "BC-TECHNARC-KIT pre-rungs (Q-RE1); Q-EN2; S1.T1.B01.A3.E39, S1.T1.B01.A3.E49"
       },
       {
         "thread": "world",
@@ -94,77 +115,123 @@
         "carriers": [
           "E42",
           "E43",
-          "S06"
+          "E49 (S06)"
         ],
-        "source": "v4.1b §6 (\"41–44\"), S06"
+        "source": "S1.T1.B01.A3.E42, S1.T1.B01.A3.E43, S1.T1.B01.A3.E49 (S06 inside it)"
       },
       {
         "thread": "caro_elisabet",
-        "movement": "holds at recognition / instinctive safety",
+        "movement": "holds at recognition / instinctive safety (Elisabet gone since E28)",
         "carriers": [],
-        "source": "proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md (A3)"
+        "source": "proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md (A3); S1.T1.B01.A2.E28"
       }
     ],
     "character_state_deltas": [
       {
         "character": "Seraphine",
         "from": "\"If I care enough, I should be able to save/fix this\"",
-        "to": "\"Care matters even when it cannot control the outcome.\" She has recognised the cost of over-responsibility and experienced restraint as useful, and has not mastered either; she carries one at bodily cost",
+        "to": "\"Care matters even when it cannot control the outcome.\" She has recognised the cost of over-responsibility and experienced restraint as useful, and has mastered neither; she tells the truth once, her theory breaks, and she carries one at bodily cost",
         "carriers": [
+          "E37",
           "E41",
-          "E45",
-          "E48"
+          "E44",
+          "E46",
+          "E49"
         ],
-        "source": "v4.1b §4; VAA §4; M03"
+        "source": "v4.1b §4; VAA §4; M03; S1.T1.B01.A3.E41, S1.T1.B01.A3.E44, S1.T1.B01.A3.E46, S1.T1.B01.A3.E49"
       },
       {
         "character": "Lucien",
         "from": "\"If I can structure it, I can contain uncertainty\"",
-        "to": "\"A model can be useful without being complete.\" He accepts help sooner, leaves an imperfect line unchecked, and still believes better structure may resolve it",
+        "to": "\"A model can be useful without being complete.\" His susceptibility is on someone else's paper; off Sal's job, unforgiven; he lets Seraphine anchor him sooner; writes an account that records the misses and calls the next watch a bet; says aloud what her going cost the record",
         "carriers": [
-          "E45",
-          "E48"
+          "E38",
+          "E39",
+          "E46",
+          "E48",
+          "E49"
         ],
-        "source": "v4.1b E45, E48, §4"
+        "source": "v4.1b §4; S1.T1.B01.A3.E38, S1.T1.B01.A3.E39, S1.T1.B01.A3.E46, S1.T1.B01.A3.E48, S1.T1.B01.A3.E49"
       },
       {
         "character": "Seraphine / Lucien",
-        "from": "trust capable of surviving conflict",
-        "to": "usable shared burden",
+        "from": "trust that has come through a fight",
+        "to": "usable shared burden: he lets her anchor him sooner; neither apologises, and his blame for the arm at dawn is not withdrawn",
         "carriers": [
-          "E45"
+          "E39",
+          "E46"
         ],
-        "source": "v4.1b E45 Möbius, §4"
+        "source": "S1.T1.B01.A3.E39, S1.T1.B01.A3.E46; reports/B01_REVISED_EBCI_2026-09-29.md §1 (R1's carried blame enters B02)"
+      },
+      {
+        "character": "Seraphine / Baz",
+        "from": "warm; her concealment admitted",
+        "to": "warm, with a grievance on her side: she has read his column",
+        "carriers": [
+          "E46",
+          "E48"
+        ],
+        "source": "S1.T1.B01.A3.E46, S1.T1.B01.A3.E48; reports/B01_REVISED_EBCI_2026-09-29.md §1 (R4's grievance enters B02)"
+      },
+      {
+        "character": "Seraphine / Renée",
+        "from": "an open refusal; the lapse untold",
+        "to": "the lapse told and put in the record; Renée unforgiving; no reconciliation",
+        "carriers": [
+          "E44"
+        ],
+        "source": "S1.T1.B01.A3.E44; Q-CE4"
       },
       {
         "character": "Baz",
         "from": "embedded",
-        "to": "embedded enough to widen the investigation, and still the one most willing to say \"we don't know\"; his warmth and future orientation visible",
+        "to": "keeps one thing out of his notebook by choice; his warmth and future orientation visible, his plans undated; his column read and his bet recorded as wrong; still one of the three",
         "carriers": [
-          "E45",
+          "E43",
+          "E46",
           "E48"
         ],
-        "source": "v4.1b §4"
+        "source": "S1.T1.B01.A3.E43, S1.T1.B01.A3.E48; v4.1b §4"
       },
       {
         "character": "Lucien (institution)",
         "from": "a legitimate bounded mandate",
-        "to": "the assignment is ethically and personally larger than the mandate; Dominion conflict stays latent",
+        "to": "the assignment is ethically and personally larger than the mandate; he tells the others only the fact of the copy and R.'s clause; conflict with his office stays latent",
         "carriers": [
-          "E45",
+          "E38",
           "E48"
         ],
-        "source": "v4.1b End states, Möbius additions"
+        "source": "S1.T1.B01.A3.E38, S1.T1.B01.A3.E48; Q-XP3; Q-AN3"
+      },
+      {
+        "character": "Lucien / Sal",
+        "from": "working together",
+        "to": "Lucien off the job; B01 does not forgive it",
+        "carriers": [
+          "E38",
+          "E39"
+        ],
+        "source": "S1.T1.B01.A3.E39; Q-EN4"
       },
       {
         "character": "Mara / Filaments",
         "from": "care useful; control assumed",
-        "to": "care persists; claims of control weaken; the notebook holds community memory under load; she does not join the team",
+        "to": "care persists; claims of control weaken; the book holds community memory under load; she decides alone who comes off her list and keeps the lot from Seraphine; she does not join the team",
         "carriers": [
-          "E41",
-          "E44"
+          "E40",
+          "E45",
+          "E46"
         ],
-        "source": "v4.1b §4, Möbius additions"
+        "source": "S1.T1.B01.A3.E40, S1.T1.B01.A3.E45; v4.1b §4"
+      },
+      {
+        "character": "Caro",
+        "from": "a friend who refused a request",
+        "to": "the friendship holds with her own will visible: she gives Seraphine the run logs unasked, at a risk her employer does not know about",
+        "carriers": [
+          "E42"
+        ],
+        "source": "S1.T1.B01.A3.E42"
       },
       {
         "character": "Caro / Elisabet",
@@ -175,12 +242,13 @@
       },
       {
         "character": "Trip / Velvet Vein",
-        "from": "rumour room",
-        "to": "continuity room",
+        "from": "the night paid",
+        "to": "rumour room (the line's \"they\" at Trip's tables) → continuity room",
         "carriers": [
-          "S06"
+          "E41",
+          "E49 (S06)"
         ],
-        "source": "v4.1b S06, §4"
+        "source": "S1.T1.B01.A3.E41, S1.T1.B01.A3.E49 (S06); BC-VELVET-VEIN-ROOM"
       }
     ],
     "soft_modulation": {
@@ -200,38 +268,52 @@
     }
   },
   "act_success_criteria": [
-    "E38 establishes a changed baseline, not an isolated incident; \"hum\" stays ambiguous (source: v4.1b E38)",
-    "E38–E41 use distinct material failure chains (routes, dispatch, care capacity), not repeated unnamed surges (source: evidence ledger (E38–41 row); census cards B01-40A/B01-40B)",
-    "E39 is the strongest synthesis; the remote item is suggestive, not confirmatory (source: v4.1b E39)",
-    "E40: cohesion breaks through fear, conflicting information and contagion, never mind control; officials unnamed unless earned (source: v4.1b E40)",
-    "E41 makes aftermath human before any solution; E42 has nothing supernatural in it (source: v4.1b E41–E42)",
-    "The wonder episode (label E44, read first) stays unverified wonder: no mechanic, no danger, no report (source: v4.1b E44; evidence-ledger item E7)",
-    "The grounding episode (label E43): \"care succeeding is not control succeeding\" (source: v4.1b E43)",
-    "E45 meets its causal card: Lucien's collapse is point-of-view only, against a negative instrument check; Seraphine anchors him; the narrator never links the practice to the rebound; inquiry widens, certainty does not (source: CC §4; v4.1b E45; census card B01-45B)",
-    "E45 → E46 → E47 → E48 run with no supplement; E46 is not compressed, has no comedy and is not fully explained (source: v4.1b E46, §7)",
-    "E47: the Square's memory is human (routines, memorial habits, stories); the model is systemic, not global and not controllable, and points to a narrow window (source: v4.1b E47)",
-    "E48 meets its causal card: they arrive together by shared prediction; one stranger, not a child, is steadied; the whole Square is declined; the cost is bodily; the stranger walks out whole; a positive, quiet, independently checkable observation (source: VAA §4; D6; M03; CC §5)",
-    "Book-end state: the system is patterned; the city knows something is happening; nobody knows enough. Global extent unconfirmed; vocabulary fragmented (B02 owns pulse) (source: v4.1b E48, §9; VAA §1 E03)",
-    "S06 comes after the narrative close: the same room, incompatible stories, no reveal, no cliffhanger (source: v4.1b S06)",
-    "Every item of v4.1b's B01 → B02 handoff holds (source: v4.1b §9 and its handoff additions)",
-    "Reading order holds: E44 before E43; labels corrected only at release (source: D7; OQA B3)",
-    "Discovery accumulates: predicting a window still works when B02 opens (source: VAA §4 execution tests)"
+    "E37 establishes a changed baseline inside one working day, not an isolated incident; \"hum\" stays ambiguous (source: S1.T1.B01.A3.E37, from v4.1b E38)",
+    "E37–E41 use distinct material failure chains (oxygen deliveries, the police log and a red tag, the food run, transport), not repeated unnamed surges (source: evidence ledger (E38–41 row); census cards B01-40A/B01-40B; S1.T1.B01.A3.E37 to S1.T1.B01.A3.E41)",
+    "E38: the window takes two lines and its time is bought; the galley forks are hearsay, similar at most (source: S1.T1.B01.A3.E38, from v4.1b E39)",
+    "E40: cohesion breaks through fear, conflicting information and contagion, never mind control; officials unnamed; the \"they\" is the line's word, never the narrator's (source: S1.T1.B01.A3.E40)",
+    "E41 makes aftermath human before any solution; E42 has nothing supernatural in it (source: S1.T1.B01.A3.E41, S1.T1.B01.A3.E42)",
+    "The wonder episode (E43) stays unverified wonder: no mechanic, no danger, no report (source: S1.T1.B01.A3.E43; evidence-ledger item E7)",
+    "The gathering (E45): care succeeding is not control succeeding (source: S1.T1.B01.A3.E45, from v4.1b E43)",
+    "E46 meets its causal card: the plumb line hangs still while Lucien's view will not resolve; Seraphine anchors him; the narrator never links the gathering to the rebound; W3 breaks; inquiry widens, certainty does not (source: CC §4; S1.T1.B01.A3.E46; census card B01-45B)",
+    "E46 → E47 → E48 → E49 run with no supplement; E47 is not compressed, has no comedy and is not fully explained (source: S1.T1.B01.A3.E47, from v4.1b E46, §7)",
+    "E48: the Square's memory is human; the honest account is one short passage recording the missed middays and the wrong \"faster\"; the next watch is a bet (source: S1.T1.B01.A3.E48)",
+    "E49 meets its causal card: they arrive together by shared work; one stranger (Jody), not a child, is steadied; the whole Square is declined; the cost is bodily; she leaves before her tin moves, Miss Tavie sees it move and cannot say when, and Mrs. Carmouche logs her own post; a quiet, independently checkable observation (source: VAA §4; D6; M03; CC §5; Q-RE6; Q-FX2; S1.T1.B01.A3.E49)",
+    "Book-end state: the system is patterned; the city knows something is happening; nobody knows enough. Global extent unconfirmed; vocabulary fragmented (B02 owns pulse) (source: S1.T1.B01.A3.E49; v4.1b §9; VAA §1 E03)",
+    "S06 (inside E49) comes after the narrative close: the same room, incompatible stories, no reveal, no cliffhanger (source: S1.T1.B01.A3.E49, from v4.1b S06)",
+    "Every item of v4.1b's B01 → B02 handoff holds, with the redraft's pickups left unspent for B02 E08 and E13 (source: v4.1b §9 and its handoff additions; Q-AN4)",
+    "The file order is the reading order: E37–E49 run in number order, and the pre-redraft E43/E44 relabel no longer applies (source: ebci/B01/REDRAFT_CONCORDANCE.md; Q-MO5)",
+    "Discovery accumulates: predicting a window still works when B02 opens (source: VAA §4 execution tests)",
+    "E39: the trap proves access only, and fails for a practical reason: the car faces them with its lights on, the photograph is glare, and Lucien steps in front of a car already moving (source: Q-FX1; S1.T1.B01.A3.E39)",
+    "E44: a truth told once buys nothing back; no forgiveness; the narrator never says whether the lapse mattered to the boy's death (source: S1.T1.B01.A3.E44; Q-CE4)",
+    "Wrong theories cost: the marked middays pass with nothing (E40); W3 is drawn (E41), committed in public (E45) and broken in front of the people she brought (E46); \"faster\" is recorded as wrong (E48) (source: Q-EN3; S1.T1.B01.A3.E48)",
+    "External pressure points above the city through ordinary people's own decisions (Denise, Caro's supervisor, Guidry); it takes and never asks; no man at the end (source: Q-EN2; Q-XP2)",
+    "Unrepaired costs carry into B02: Lucien's blame for the arm (E39), Seraphine's grievance over the column (E48), Sal unforgiven (E39) (source: reports/B01_REVISED_EBCI_2026-09-29.md §1; Q-EN4; TCG §3)",
+    "Care may lead a piece; each piece is judged by what a character chooses and changes (source: Q-XP1)",
+    "Observation stays apart from conclusion; R8 is bounded: not bigger each time and not faster in a straight line here are findings about these events, not laws, and nothing positive about timing is claimed (source: Q-MO2; S1.T1.B01.A3.E48)"
   ],
   "forbidden_shortcuts": [
-    "The narrator links the grounding practice or the gathering to the rebound; \"it learned\"; a responsive agent (source: CC §4; recovery/ACCOUNT_EXPORT_B01_ACT3_EPISODE_FORENSIC_AUDIT_2026-09-20.md (E38 caution))",
-    "Objective impossible geometry at E45; Lucien's instruments confirming a change in geometry (source: v4.1b E45; PF V3)",
-    "Stone or water memory as a law; the Square literally remembering (source: v4.1b E47; evidence ledger)",
-    "Exact-second prophecy; a complete model; mastery or control; \"falsify random\" as a literal claim (source: v4.1b E48; CC §5.8)",
-    "Global confirmation, Marrakesh, MissingThread, Tahl, Elias, Brightbreak, Choirless, a formal network; Santa Fe or Warehouse breadcrumbs (source: v4.1b §9)",
-    "Seraphine holding the whole Square; a child rescue that restages E01 (source: VAA §4)",
-    "A third escalating device glitch as E48's centrepiece (source: context review (E38–47 → E48 row); CC §5.1)",
+    "The narrator links the practice or the gathering to the rebound; \"it learned\"; a responsive agent (source: CC §4; S1.T1.B01.A3.E46; recovery/ACCOUNT_EXPORT_B01_ACT3_EPISODE_FORENSIC_AUDIT_2026-09-20.md (E38 caution))",
+    "Objective impossible geometry at E46; hanging things swinging; Lucien's instruments confirming a change in geometry (source: S1.T1.B01.A3.E46, from v4.1b E45; PF V3)",
+    "Stone or water memory as a law; the Square literally remembering (source: S1.T1.B01.A3.E48, from v4.1b E47; evidence ledger)",
+    "Exact-second prophecy; a complete model; mastery or control; \"falsify random\" as a literal claim (source: S1.T1.B01.A3.E49; CC §5.8)",
+    "Global confirmation, Marrakesh, MissingThread, Tahl, Elias, Brightbreak, Choirless, a formal network; Santa Fe or Warehouse breadcrumbs; anything in or near the Warehouse District (source: v4.1b §9; S1.T1.B01.A3.E39)",
+    "Seraphine holding the whole Square; a child rescue that restages E01 (source: VAA §4; S1.T1.B01.A3.E49)",
+    "A third escalating device glitch as E49's centrepiece (source: context review (E38–47 → E48 row); CC §5.1)",
     "A cosmic reveal, a Mending-site hint, or Loom foreshadowing beyond restraint and cost (source: readiness report (E45–48 row); M03 notes)",
     "Shard filtration, a prismatic debut, micro-Shard language, U6/U7 geography (source: M03; v4.1b §8)",
-    "A supplement inside a protected window (E40 → E41; E45 → E46 → E47 → E48) (source: v4.1b §7)",
+    "A supplement inside a protected window (E40 → E41; E46 → E47 → E48 → E49) (source: v4.1b §7)",
     "B02's answers: verified multi-city instability, \"accelerating everywhere\", a global pulse cluster (source: v4.1b §13 B1/B2 boundary)",
-    "\"Everything curves southwest\" in B01 (source: v4.1b §13)",
+    "\"Everything curves southwest\" in B01; a landmark or compass direction for Lucien (source: v4.1b §13; Q-DR10)",
     "Breath or care repairing anything; mind reading (source: PF R7)",
-    "Mechanics explained in dialogue (source: Mech §60)"
+    "Mechanics explained in dialogue (source: Mech §60)",
+    "Any faction or organisation named, or a stated agenda for the hands (source: Q-EN2; Q-AN2)",
+    "The will asking the three for anything; anyone asking for the minute at E49; Baz seeing a case or the collector (source: Q-EN2; S1.T1.B01.A3.E49)",
+    "The narrator certifying who is behind anything, that the three are watched, or blame; an ordinary person made a proxy (source: Q-CE4; Q-XP2; Q-XP4)",
+    "Lucien voicing distrust of his office, or his thoughts judging anyone's motive (source: Q-XP3; Q-XP4)",
+    "Clock time in narration that no character acts on (source: Q-EN6)",
+    "A return to the camp; the camp room (E46) as more than memory, or a conclusion drawn about the place (source: Q-DR7; M51; S1.T1.B01.A3.E46)",
+    "The grey instruments called anything but a case on the page (source: Q-RE5)"
   ],
-  "_redraft_numbering_2026_09_29": "REDRAFT NUMBERING 2026-09-29 (Q-MO5, decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md; Q-AC2): the revised B01 EBCI numbers the merged outline's pieces P00-P49 as E00-E49. Act I is E01-E15, Act II E16-E36, Act III E37-E49. Episode numbers in this overlay's authored fields are pre-redraft labels (v4.1b; see the concordance in ebci/B01/REDRAFT_CONCORDANCE.md). They are kept as written; a thesis revision for the redraft is an author question (reports/B01_REVISED_EBCI_2026-09-29.md)."
+  "_redraft_numbering_2026_09_29": "REDRAFT NUMBERING 2026-09-29 (Q-MO5, decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md; Q-AC2): the revised B01 EBCI numbers the merged outline's pieces P00-P49 as E00-E49. Act I is E01-E15, Act II E16-E36, Act III E37-E49. Episode numbers in this overlay's authored fields are pre-redraft labels (v4.1b; see the concordance in ebci/B01/REDRAFT_CONCORDANCE.md). They are kept as written; a thesis revision for the redraft is an author question (reports/B01_REVISED_EBCI_2026-09-29.md). The authored fields were refreshed to the redraft's numbering and engine on 2026-09-29 under Q-RE8 (decisions/REVISED_EBCI_VEIL_PASS6_AND_TRILOGY_GUIDE_AUTHOR_ANSWERS_2026-09-29.md), which replaces the pointer above to an author question."
 }

@@ -13782,4 +13782,26 @@ END OF ENTRY 286
 
 ===============================================================
 
+## §287 — B01's act overlays refreshed to the redraft (Q-RE8), 2026-09-29
+
+**Status:** LEDGER ENTRY. Applies Q-RE8 (§285): the four B01 act overlays (PR, A1, A2, A3) are refreshed before Act I's prose packets, so the drafter has one account.
+
+**Changed:** only the authored fields.
+- **act_thesis:** rewritten to the revised packets.
+- **pressure vectors and character deltas:** renumbered to E00–E49, and rewritten to the revised packets and the approved engine:
+  - **A1:** ordinary friction; the lapse left unsaid; Lucien's lie on the form; the whole-crowd fall at E14; the unsent letter and the call to Baz.
+  - **A2:** the pressure acquires a will; the pump station; Metairie; the page; Elisabet's revocation and departure; the cases; the trap and the counter.
+  - **A3:** the caseload call; the card and R.'s note; the stakeout; Metairie II; the gathering and rebound; the honest account; the tins.
+- **success criteria and forbidden shortcuts:** each item keeps its list position, because packets cite items by number. Two obsolete reading-order items become notes that the file order is the reading order. The redraft's approved guards are appended.
+
+**Unchanged:** envelopes, the A1 exception at E14, soft_modulation, ids and formatting.
+
+**Checks:**
+- The validator shows 0 violations, the self-tests pass, and there is no book-context drift.
+- A seven-word overlap check against the private manuscript found nothing.
+
+END OF ENTRY 287
+
+===============================================================
+
 END RECOVERY LEDGER

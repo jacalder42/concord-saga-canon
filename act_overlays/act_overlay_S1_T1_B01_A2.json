@@ -3,10 +3,10 @@
   "act_id": "S1.T1.B01.A2",
   "book_id": "B01",
   "trilogy_id": "T1",
-  "_authored_fields_basis": "APPROVED DESIGN 2026-09-27 (Tier B), not ruled canon. Values from proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md, approved as drafted (Q-O1-Q-O3) in decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md. Ledger section 205. Applies to act_thesis, deltas.pressure_vectors, deltas.character_state_deltas, act_success_criteria and forbidden_shortcuts only. Episode numbers are v4.1b labels (E37 is read before E36, E44 before E43); relabel at release (OQA B3). Envelope, exceptions and soft_modulation are untouched.",
+  "_authored_fields_basis": "APPROVED DESIGN (Tier B), not ruled canon. First written 2026-09-27 from proposals/B01_OVERLAY_TODO_DRAFTS_PASS1_2026-09-27.md, approved as drafted (Q-O1-Q-O3) in decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md (ledger section 205). REFRESHED 2026-09-29 under Q-RE8 (decisions/REVISED_EBCI_VEIL_PASS6_AND_TRILOGY_GUIDE_AUTHOR_ANSWERS_2026-09-29.md): episode numbers are the redraft's (ebci/B01/REDRAFT_CONCORDANCE.md; the file order is the reading order), and the content follows the 50 revised packets in ebci/B01/ and the approved engine. Items keep their list positions, because packets cite them by number: an item the redraft made obsolete is replaced in place, and the redraft's guards are appended. Sources name packet SIDs and decisions; 'from v4.1b Enn' marks a kept guard's pre-redraft origin. Abbreviations: Q-EN = decisions/B01_MYSTERY_AND_ACTION_ENGINE_AUTHOR_ANSWERS_2026-09-29.md; (Q-AN2-4 are answered there); Q-MO, Q-XP = decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md (Q-XP2 as amended); Q-RE, Q-FX = decisions/REVISED_EBCI_VEIL_PASS6_AND_TRILOGY_GUIDE_AUTHOR_ANSWERS_2026-09-29.md; Q-CE = decisions/SAGA_CAST_CONFLICT_PASS_AUTHOR_ANSWERS_2026-09-29.md; Q-DR = decisions/B01_ACT_I_DRAFTING_CHECKPOINT_AUTHOR_ANSWERS_2026-09-28.md; TCG = proposals/TRILOGY_CONFLICT_GUIDE_2026-09-29.md; the older abbreviations (VAA, CC, PF, D1-D7) are as in the 09-27 drafts. Thread keys are the controlled vocabulary and control-layer only: on the page no faction is named. Applies to act_thesis, deltas.pressure_vectors, deltas.character_state_deltas, act_success_criteria and forbidden_shortcuts only. Envelope, exceptions and soft_modulation are untouched.",
   "_relabel_note": "RELABELLED 2026-09-27 at the B01 A2/A3 EBCI release (OQA B3, the file order is the reading order; decisions/B01_ACT_I_AUDIT_AND_FULL_B01_RELEASE_AUTHOR_RULING_2026-09-27.md): old E37 'Baz and Lucien, Off the Clock' is now E36; old E36 'The City Reacts' is now E37; old E44 'Something Strange That Doesn't Hurt' is now E43; old E43 'When Grounding Fails' is now E44. The carriers below use the new labels. The success criteria and forbidden shortcuts are kept as written; where they speak of 'E37 before E36', 'E44 before E43' or 'labels corrected only at release', they describe the pre-release labels, and the relabel is that correction.",
-  "act_thesis": "Investigation becomes prediction. Baz arrives as a person before he is a method; the trio's three ways of knowing (feel → structure → verify) turn scattered incidents into a falsifiable local window. Restraint is rewarded (E29) and promised pleasure is paid (E31). The predicted pulse (E33) proves the system is not random while control fails; bodies and care come before explanation (E34–E35); the city begins to adapt as the cycle shortens (E36, the act close).",
-  "_act_thesis_source": "v4.1b Act II heading, §13 Act II jobs, E20 trio grammar, E33 payoff, E36 Act II exit.",
+  "act_thesis": "Investigation becomes prediction, and the pressure acquires a will. Baz arrives as a person before he is a method (E16) and gathers evidence by consent (E17–E18). From Poydras (E20), unattributed hands take records and times and ask for nothing. Fear drives Seraphine and Lucien's first real fight (E21). Wrong theories are acted on and cost: Lucien's ground takes him and Elisabet into the pump station at night (E24) and costs her access and her season (E28); Seraphine keeps her account on the file at Metairie and learns a stranger asked for her minute (E25). Restraint is rewarded (E29), the night is paid (E30), and a grey case appears on Lucien's chalk after the event (E31). The signed page (E26) is right on time and place and wrong on the rest (E32); bodies come first, honesty costs Seraphine the block's trust, and Baz keeps a column from her (E33–E35). The act closes on a city adapting, Baz's bet that it is coming faster, and Lucien's false report, which Baz refuses (E36).",
+  "_act_thesis_source": "Revised packets S1.T1.B01.A2.E16 to S1.T1.B01.A2.E36 (story jobs, conflicts, exits), refreshed 2026-09-29 under Q-RE8; Q-EN1-8; Q-XP1-7; Q-RE4-5; TCG §3 (Veil opening). First drawn from v4.1b Act II heading, §13 Act II jobs, E20 trio grammar, E33 payoff, E36 Act II exit.",
   "escalation_permissions": {
     "corridor": {
       "min": "U1",
@@ -30,174 +30,211 @@
     "pressure_vectors": [
       {
         "thread": "world",
-        "movement": "scattered incidents → a working pattern → a falsifiable window → a partial hit with an expressive miss → an accelerating cycle; \"isolated event\" stops being a useful frame. No global claim",
+        "movement": "scattered incidents → a working pattern → a falsifiable window → a partial hit with an expressive miss → a city adapting; \"isolated event\" stops being a useful frame. No global claim",
         "carriers": [
-          "E20",
-          "E25",
-          "E27",
-          "E33",
-          "E35",
-          "E37"
+          "E17",
+          "E18",
+          "E22",
+          "E26",
+          "E32",
+          "E36"
         ],
-        "source": "v4.1b E25, E27, E33, E36; CC §3"
+        "source": "S1.T1.B01.A2.E22, S1.T1.B01.A2.E26, S1.T1.B01.A2.E32, S1.T1.B01.A2.E36; CC §3"
       },
       {
-        "thread": "seraphine",
-        "movement": "too late → temptation to act too early → restraint (E29); then overreach and saturation (E33)",
-        "carriers": [
-          "E27",
-          "E29",
-          "E33–E34"
-        ],
-        "source": "v4.1b E29 Möbius turn; VAA §4; CC Q-C5; BC-BOUNDED-RESPONSIBILITY, BC-SWAMP-WOUND"
-      },
-      {
-        "thread": "baz",
-        "movement": "arrives → an embedded method → a cautious conclusion: \"the pattern is accelerating\"",
-        "carriers": [
-          "E18–E19",
-          "E27",
-          "E33",
-          "E37"
-        ],
-        "source": "v4.1b E18–E19, E36"
-      },
-      {
-        "thread": "filaments",
-        "movement": "recognisable through recurring care and coordination (M02 lands) → \"control was never the promise\"",
+        "thread": "world",
+        "movement": "external pressure acquires a will: records and times held or taken for someone \"upstairs\", a stranger at the family's door, an access letter revoked, grey cases that arrive after; it takes and never asks, and nobody says who. Ordinary sources (Denise, the pump supervisor, Caro's employer, Renita) keep their own motives",
         "carriers": [
           "E20",
           "E22",
-          "E35"
+          "E24",
+          "E25",
+          "E28",
+          "E31",
+          "E34",
+          "E36"
         ],
-        "source": "M02; v4.1b E35; BC-FILAMENT-ETHIC"
+        "source": "Q-EN2; Q-XP2; reports/B01_THIRD_PRESSURE_AND_OUTLINE_QUESTIONS_2026-09-29.md (Act II drift); S1.T1.B01.A2.E20, S1.T1.B01.A2.E28"
+      },
+      {
+        "thread": "seraphine",
+        "movement": "too late → acting before the fact (warnings under a cover name) → her own account kept on the file → restraint chosen (E29) → overreach (E32) → the truth told to the block, at a cost; W3 stated with its disconfirmer hidden, then reinforced by a coincidence",
+        "carriers": [
+          "E18",
+          "E21",
+          "E25",
+          "E29",
+          "E32",
+          "E34"
+        ],
+        "source": "S1.T1.B01.A2.E18, S1.T1.B01.A2.E21, S1.T1.B01.A2.E25, S1.T1.B01.A2.E29, S1.T1.B01.A2.E32, S1.T1.B01.A2.E34; Q-EN3; Q-XP5; BC-BOUNDED-RESPONSIBILITY"
+      },
+      {
+        "thread": "baz",
+        "movement": "arrives → a consent method (\"what would prove you wrong?\") → signs the page with his dissent → a hit-and-miss log and a private column → a bet: \"it is coming faster\"",
+        "carriers": [
+          "E16–E18",
+          "E26",
+          "E32",
+          "E35",
+          "E36"
+        ],
+        "source": "S1.T1.B01.A2.E16, S1.T1.B01.A2.E17, S1.T1.B01.A2.E18, S1.T1.B01.A2.E26, S1.T1.B01.A2.E32, S1.T1.B01.A2.E36"
+      },
+      {
+        "thread": "filaments",
+        "movement": "recognisable through recurring care and coordination (M02 lands): Mara at the block for names for her own food boxes; care helps and reverses nothing",
+        "carriers": [
+          "E34"
+        ],
+        "source": "M02; S1.T1.B01.A2.E34; BC-FILAMENT-ETHIC"
       },
       {
         "thread": "dominion",
-        "movement": "authority, classification and protection language, as footprint",
+        "movement": "latent: Lucien stops using his office's channels without voicing distrust: keeps his notebook back from an official table, trades privately for records, leaves the pump night untold, sends a routine report that asks nothing",
         "carriers": [
-          "E23"
+          "E20",
+          "E22",
+          "E24",
+          "E36"
         ],
-        "source": "v4.1b E23"
+        "source": "S1.T1.B01.A2.E20, S1.T1.B01.A2.E22, S1.T1.B01.A2.E24, S1.T1.B01.A2.E36; Q-XP3"
       },
       {
         "thread": "technarc",
-        "movement": "ambient only: sensors, protocols, access; no request to Baz",
+        "movement": "unattributed on the page: lanyards turned face in, a man at the family's door, grey cases arriving after, a city man with a turned card who takes only the times; recognised only at B02 E13; Baz never sees a case",
         "carriers": [
-          "E23"
+          "E20",
+          "E25",
+          "E31",
+          "E34",
+          "E36"
         ],
-        "source": "VAA §3 T5 (BC-TECHNARC-KIT starts at B02 E13)"
+        "source": "BC-TECHNARC-KIT pre-rungs (Q-RE1); Q-EN2; VAA §3 T5"
       },
       {
         "thread": "caro_elisabet",
         "movement": "none → recognition / instinctive safety",
         "carriers": [
-          "E28 (option)",
-          "E30"
+          "E27",
+          "E28"
         ],
-        "source": "v4.1b E30; BC-CARO-ELISABET-LADDER"
+        "source": "S1.T1.B01.A2.E27, S1.T1.B01.A2.E28; BC-CARO-ELISABET-LADDER"
       },
       {
         "thread": "world",
-        "movement": "relief: competence fun, wonder, anticipation, the night paid in full, bodies first, friendship",
+        "movement": "relief: competence fun, wonder, the night paid in full, bodies first, friendship off the clock",
         "carriers": [
-          "E21",
-          "E26",
-          "E28",
-          "S04",
-          "E31",
-          "E34",
-          "E36"
+          "E19",
+          "E23",
+          "E30",
+          "E33",
+          "E35"
         ],
-        "source": "v4.1b §6, §13 Life/Reward checksum"
+        "source": "S1.T1.B01.A2.E19, S1.T1.B01.A2.E23, S1.T1.B01.A2.E30, S1.T1.B01.A2.E33, S1.T1.B01.A2.E35 (S04, S05 retired)"
       }
     ],
     "character_state_deltas": [
       {
         "character": "Seraphine",
-        "from": "tempted to treat community knowledge as a hidden answer",
-        "to": "chooses restraint in the pressure zone despite the swamp wound's pull; saturates at the pulse; sees that useful care can exist without causal certainty",
+        "from": "tempted to treat what she perceives as a hidden answer",
+        "to": "states a theory (being looked after keeps it off) and hides its disconfirmer; warns her households under a cover name; keeps her paragraph on the file against Renée; chooses restraint and takes a coincidence as proof; overreaches at the pulse; tells the block the truth and loses Mrs. Arceneaux",
         "carriers": [
-          "E22",
+          "E18",
+          "E21",
+          "E25",
           "E29",
-          "E33",
-          "E35"
+          "E32",
+          "E34"
         ],
-        "source": "v4.1b E22, E29, E35; VAA §4"
+        "source": "S1.T1.B01.A2.E18, S1.T1.B01.A2.E21, S1.T1.B01.A2.E25, S1.T1.B01.A2.E29, S1.T1.B01.A2.E34; Q-EN3; Q-XP5"
       },
       {
         "character": "Lucien",
-        "from": "resists withdrawal",
-        "to": "accepts it; sees structure and cannot command it; shows a different self off the clock",
+        "from": "his office's proper channel; structure as containment",
+        "to": "keeps things back from an official table; commits to the ground; breaks a reasonable rule at the pump station and his name is taken; sees someone else's instruments on his chalk (recognition, not evidence); writes that it was not the ground; writes Guidry the true sentence, then files a false report naming Sal's job",
         "carriers": [
-          "E29",
-          "E33",
+          "E20",
+          "E22",
+          "E24",
+          "E31",
+          "E32",
           "E36"
         ],
-        "source": "v4.1b E29, E33, E37"
+        "source": "S1.T1.B01.A2.E20, S1.T1.B01.A2.E22, S1.T1.B01.A2.E24, S1.T1.B01.A2.E31, S1.T1.B01.A2.E32, S1.T1.B01.A2.E36; Q-EN3-4; Q-XP7"
       },
       {
         "character": "Seraphine / Lucien",
         "from": "trust",
-        "to": "trust capable of surviving conflict",
+        "to": "trust that has come through a real fight; the repair is changed behaviour (a working page carrying both methods), and two days without the morning texts stay; for one night she sees him differently, and nothing is declared",
         "carriers": [
-          "E24"
+          "E21",
+          "E30"
         ],
-        "source": "v4.1b E24 State"
+        "source": "S1.T1.B01.A2.E21, S1.T1.B01.A2.E30"
       },
       {
         "character": "Baz",
         "from": "a friend summoned",
-        "to": "a person in New Orleans first; a witness-sequence method (\"what would count as wrong?\"); the act's cautious conclusion; a friendship with Lucien independent of the case",
+        "to": "a person in New Orleans first; a consent method; his own sighting; signs with his dissent; a column kept from Seraphine and told to Lucien; chooses to stay; refuses Lucien's trap and stays his friend",
         "carriers": [
-          "E18–E19",
-          "E22",
-          "E27",
-          "E37",
+          "E16–E18",
+          "E26",
+          "E32",
+          "E35",
           "E36"
         ],
-        "source": "v4.1b E18–E19, E27, E36–E37"
+        "source": "S1.T1.B01.A2.E16, S1.T1.B01.A2.E18, S1.T1.B01.A2.E26, S1.T1.B01.A2.E35, S1.T1.B01.A2.E36"
+      },
+      {
+        "character": "Seraphine / Renée",
+        "from": "a distance held by grief",
+        "to": "an open refusal on each side; the lapsed coverage still untold",
+        "carriers": [
+          "E25"
+        ],
+        "source": "S1.T1.B01.A2.E25"
       },
       {
         "character": "Elisabet",
         "from": "absent",
-        "to": "one research visit on her own vector; productive friction with Lucien; supplies or contests one inference; creates clarity for Caro; returns to her own work. Not the trio's fourth member",
+        "to": "enters on her own research, on a visit, giving no length of stay; contests Lucien's pattern and trades for the charts; goes into the pump station by her own choice; her access is revoked and she leaves, sending Lucien her well readings unasked. Not the trio's fourth member",
         "carriers": [
-          "E23",
-          "E25 (option)",
-          "E30"
+          "E20",
+          "E22",
+          "E24",
+          "E28"
         ],
-        "source": "v4.1b E23, E25 option, E30; VAA §3 T8; MCL follow-up 2"
+        "source": "S1.T1.B01.A2.E20, S1.T1.B01.A2.E22, S1.T1.B01.A2.E24, S1.T1.B01.A2.E28; VAA §3 T8; Q-EN3"
       },
       {
         "character": "Caro",
         "from": "Seraphine's friend",
-        "to": "competent first; accepts help; safe because seen without being managed; registers interest in Elisabet's sharp public self",
+        "to": "a friendship that can say no (the dispatch times refused); competent first; safe because seen without being managed; registers interest in Elisabet's sharp public self",
         "carriers": [
-          "E28 (continuity)",
-          "E30"
+          "E27",
+          "E28"
         ],
-        "source": "v4.1b E28 continuity, E30"
+        "source": "S1.T1.B01.A2.E27, S1.T1.B01.A2.E28"
       },
       {
         "character": "Mara",
         "from": "a notebook with odd entries",
-        "to": "a continuity face for the trio's investigation; she does not join the team",
+        "to": "gathers the block's names for her own food boxes; recruits no one and does not join the team",
         "carriers": [
-          "E20"
+          "E34"
         ],
-        "source": "v4.1b E20, End states"
+        "source": "S1.T1.B01.A2.E34"
       },
       {
         "character": "Trip / Velvet Vein",
         "from": "ordinary room",
-        "to": "the night is paid (E31); rumour room (S05, E36)",
+        "to": "the night is paid; Trip refuses the front window as a watch post, and the Vein stays nobody's headquarters",
         "carriers": [
-          "E31",
-          "S05",
-          "E37"
+          "E30",
+          "E31"
         ],
-        "source": "v4.1b §4 Möbius"
+        "source": "S1.T1.B01.A2.E30, S1.T1.B01.A2.E31; BC-VELVET-VEIN-ROOM"
       }
     ],
     "soft_modulation": {
@@ -217,38 +254,50 @@
     }
   },
   "act_success_criteria": [
-    "Baz is a person before a function (arrival pleasure, no clue in the meal, no death shadow), and has a friendship with Lucien independent of the case (source: v4.1b E18, E37)",
-    "Investigation happens while walking, eating and waiting; briefing through disagreement, not exposition (source: v4.1b E19; v4.1b §11.D (embedded restoration ledger))",
-    "E22 is no lore council; Baz asks what would falsify an interpretation (source: v4.1b E22)",
-    "E23: institutions as footprint; Technarc ambient with no request to Baz; Elisabet enters on her own vector, on a visit, not for Caro and not for the Dominion (source: v4.1b E23; VAA §3 T5, T8)",
-    "E24: fear, not misunderstanding, drives the conflict; repair requires changed behaviour (source: v4.1b E24)",
-    "E25: a working model only; the narrator certifies no Corridors or Nodes (source: v4.1b E25)",
-    "E26: wonder without punishment; no new Mechanica (source: v4.1b E26)",
-    "E27 states in advance the window, the place, what they will watch for, and what counts as a miss (source: reports/B01_E15_E33_CAUSAL_EVIDENCE_FALSIFICATION_PASS_2026-09-23.md; CC §3.2)",
-    "E29 is retitled away from drift and uses pressure zone; \"swamp wound\" stays an unexplained seed; restraint is chosen and later validated (source: VAA §3 T6; BC-SWAMP-WOUND)",
-    "E30: recognition / instinctive safety; no romance episode, no mechanics lesson, no Elisabet biography; Leila not required (source: v4.1b E30)",
-    "E31: the night succeeds and is not attacked; Lacuna is a cameo only (source: v4.1b E31; VAA §3 T8; BC-LACUNA-CAMEO)",
-    "E32 → E33 → E34 run with no supplement; E33 meets its causal card (window shudder trial, no lamp); E34 puts bodies before any debrief; E35's care helps people without reversing the event (source: v4.1b E32–E35, §7; D4; CC §3)",
-    "Act close (E36, read after E37): the city adapts; the cycle shortens; the pattern accelerates; no global claim; words stay scattered (source: v4.1b E36; BC-PULSE-NAMING)",
-    "M02 lands: Filaments recognisable through recurring care and coordination, with no recruitment and no organisation chart (source: M02)",
-    "Reading order holds: E37 before E36, S05 at its file position; labels corrected only at release (source: D7; OQA B3)",
-    "A variety of pleasure and want is visible, and Caro's interest in Elisabet is more than care (source: VAA §4 execution tests)"
+    "Baz is a person before a function (arrival pleasure, no clue in the meal, no death shadow), and has a friendship with Lucien independent of the case (source: S1.T1.B01.A2.E16, S1.T1.B01.A2.E35)",
+    "Investigation happens while walking, eating and waiting; the recordings come by consent from their makers, and the order on them is there to hear with nobody certifying what it means (source: S1.T1.B01.A2.E17, from v4.1b E19; D2, D3)",
+    "E18 is no lore council; Baz asks each friend what would prove them wrong; Seraphine's withheld disconfirmer is never narrated from inside her (source: S1.T1.B01.A2.E18, from v4.1b E22)",
+    "E20: the city's interest acquires a will, unattributed: a room booked under no name, lanyards turned in, records held for \"upstairs\"; it takes and asks nothing; Elisabet enters on her own vector, on a visit, not for Caro and not for any institution (source: S1.T1.B01.A2.E20, from v4.1b E23; VAA §3 T5, T8; Q-EN2)",
+    "E21: fear, not misunderstanding, drives the conflict; repair requires changed behaviour (source: S1.T1.B01.A2.E21, from v4.1b E24)",
+    "E22: a working model only; the narrator certifies no pattern, edge, cause, Corridor or Node (source: S1.T1.B01.A2.E22, from v4.1b E25)",
+    "E23: wonder without punishment; no new Mechanica (source: S1.T1.B01.A2.E23, from v4.1b E26)",
+    "E26 states in advance the window, the place, what they will watch for, and what counts as a miss; prepare people, never prevent (source: reports/B01_E15_E33_CAUSAL_EVIDENCE_FALSIFICATION_PASS_2026-09-23.md; CC §3.2; S1.T1.B01.A2.E26)",
+    "E29 uses pressure zone, never drift; nothing places the pressure at the camp or the swamp; restraint is chosen and shown sound, and the laughter is never narrated as the cause of the fall (source: VAA §3 T6; S1.T1.B01.A2.E29)",
+    "E28: recognition / instinctive safety; no romance episode, no mechanics lesson, no Elisabet biography; the revocation reaches the page as Elisabet has it, and nobody says who decided (source: S1.T1.B01.A2.E28, from v4.1b E30)",
+    "E30: the night succeeds and is not attacked; Lacuna is a cameo only (the unnamed musician) (source: S1.T1.B01.A2.E30, from v4.1b E31; VAA §3 T8; BC-LACUNA-CAMEO)",
+    "E31 → E34 run with no supplement; E32 meets its causal card (window shudder trial, no lamp); E33 puts bodies before any debrief; E34's care helps people without reversing the event (source: S1.T1.B01.A2.E32, S1.T1.B01.A2.E33, S1.T1.B01.A2.E34, from v4.1b E32–E35, §7; D4; CC §3)",
+    "Act close (E36): the city adapts; Baz's \"faster\" is a bet, not a finding; no global claim; words stay scattered (source: S1.T1.B01.A2.E36; BC-PULSE-NAMING)",
+    "M02 lands: Filaments recognisable through recurring care and coordination, with no recruitment and no organisation chart (source: M02; S1.T1.B01.A2.E34)",
+    "The file order is the reading order: E16–E36 run in number order, and the pre-redraft E36/E37 relabel no longer applies (source: ebci/B01/REDRAFT_CONCORDANCE.md; Q-MO5)",
+    "A variety of pleasure and want is visible, and Caro's interest in Elisabet is more than care (source: VAA §4 execution tests; S1.T1.B01.A2.E27)",
+    "Wrong theories are acted on and cost: Lucien's ground (E22, E24; Elisabet's access and season, E28); Seraphine's \"looked after keeps it off\" (E18, E29); Baz's private column (E32, E35) (source: Q-EN3; Q-EN4)",
+    "A consequential disagreement among the three changes what someone does: the fight (E21), Baz's signed dissent (E26), the column kept from Seraphine (E32, E35), the trap Baz refuses (E36) (source: TCG §2, §4)",
+    "The pump station is Mid-City or canal-side, never downtown or near the Warehouse District, and is authenticated before prose (source: Q-RE4; S1.T1.B01.A2.E24)",
+    "Care may lead a piece; each piece is judged by what a character chooses and changes (source: Q-XP1)",
+    "Observation stays apart from conclusion; R8 is bounded: the events have not grown consistently larger, a finding about these events, not a law (source: Q-MO2; S1.T1.B01.A2.E32)"
   ],
   "forbidden_shortcuts": [
-    "Breath, grounding or the trio's presence controlling or cancelling the pulse (source: PF R7; readiness report (E32–35 row))",
-    "Exposition during acute aftermath; any debrief or clue in E34 (source: v4.1b E34)",
-    "A plot alert inside E31; a threat hidden in S04 (source: v4.1b E31, S04)",
-    "A Technarc request to Baz; Technarc as a named antagonist (source: VAA §3 T5)",
-    "Elisabet as Dominion, as the trio's fourth member, introduced for Caro, or staying in B01 beyond the visit (source: v4.1b E23, E25; VAA §3 T8)",
-    "A C/E romance declaration or full romance episode; an S/L physical romance payoff (source: v4.1b E30, §4)",
+    "Breath, grounding or the trio's presence controlling or cancelling the pulse (source: PF R7; readiness report (E32–35 row); S1.T1.B01.A2.E32)",
+    "Exposition during acute aftermath; any debrief or clue in E33 (source: S1.T1.B01.A2.E33, from v4.1b E34)",
+    "A plot alert or threat inside E30 (S04, which carried the same guard, is retired) (source: S1.T1.B01.A2.E30, from v4.1b E31, S04)",
+    "Anyone asking Baz for anything; Baz seeing a case or the collector; Technarc named or presented as an antagonist (source: VAA §3 T5; Q-EN2)",
+    "Elisabet as Dominion, as the trio's fourth member, introduced for Caro, or staying in B01 beyond the visit: she leaves at E28 (source: S1.T1.B01.A2.E20, S1.T1.B01.A2.E28; VAA §3 T8)",
+    "A C/E romance declaration or full romance episode; an S/L physical romance payoff (hand on hand is the ceiling) (source: S1.T1.B01.A2.E21, S1.T1.B01.A2.E28, S1.T1.B01.A2.E30)",
     "Drift as ontology or as E29's title (source: VAA §3 T6)",
-    "Exact-second prophecy; a model that becomes authority (source: v4.1b E33; CC §3)",
-    "Community knowledge as the hidden answer; a council of mystical specialists (source: v4.1b E22)",
-    "Glass as an automatic conductor; a citywide mechanical wave; a lamp failure by default (source: D4; context review (E19–27 → E31–35 row))",
+    "Exact-second prophecy; a model that becomes authority (source: S1.T1.B01.A2.E26, S1.T1.B01.A2.E32; CC §3)",
+    "Community knowledge as the hidden answer; a council of mystical specialists (source: S1.T1.B01.A2.E18, from v4.1b E22)",
+    "Glass as an automatic conductor; a citywide mechanical wave; a lamp failure by default (source: D4; S1.T1.B01.A2.E32)",
     "Global confirmation, Marrakesh, MissingThread, Tahl (source: v4.1b §9)",
-    "Numeric sorting of E36/E37 (source: D7; OQA B3)",
-    "Death foreshadowing for Baz (source: v4.1b E18, E37)",
-    "Mechanics explained in dialogue (source: Mech §60)"
+    "Any reading order but the file order (source: ebci/B01/REDRAFT_CONCORDANCE.md; Q-MO5)",
+    "Death foreshadowing for Baz (source: S1.T1.B01.A2.E16, S1.T1.B01.A2.E26, S1.T1.B01.A2.E35, S1.T1.B01.A2.E36)",
+    "Mechanics explained in dialogue (source: Mech §60)",
+    "Any faction or organisation named, or a stated agenda for the hands (source: Q-EN2; Q-AN2)",
+    "The will asking the three for anything: it takes and never asks (source: Q-EN2; S1.T1.B01.A2.E20, S1.T1.B01.A2.E31)",
+    "The narrator certifying who is behind anything, that the three are watched, or blame; an ordinary person made a proxy (source: Q-CE4; Q-XP2; Q-XP4)",
+    "Lucien voicing distrust of his office, or his thoughts judging anyone's motive (source: Q-XP3; Q-XP4)",
+    "Clock time in narration that no character acts on (source: Q-EN6)",
+    "A return to the camp, or Metairie treated as the camp (source: Q-DR7; S1.T1.B01.A2.E25)",
+    "The grey instruments called anything but a case on the page (source: Q-RE5)"
   ],
-  "_redraft_numbering_2026_09_29": "REDRAFT NUMBERING 2026-09-29 (Q-MO5, decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md; Q-AC2): the revised B01 EBCI numbers the merged outline's pieces P00-P49 as E00-E49. Act I is E01-E15, Act II E16-E36, Act III E37-E49. Episode numbers in this overlay's authored fields are pre-redraft labels (v4.1b; see the concordance in ebci/B01/REDRAFT_CONCORDANCE.md). They are kept as written; a thesis revision for the redraft is an author question (reports/B01_REVISED_EBCI_2026-09-29.md)."
+  "_redraft_numbering_2026_09_29": "REDRAFT NUMBERING 2026-09-29 (Q-MO5, decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md; Q-AC2): the revised B01 EBCI numbers the merged outline's pieces P00-P49 as E00-E49. Act I is E01-E15, Act II E16-E36, Act III E37-E49. Episode numbers in this overlay's authored fields are pre-redraft labels (v4.1b; see the concordance in ebci/B01/REDRAFT_CONCORDANCE.md). They are kept as written; a thesis revision for the redraft is an author question (reports/B01_REVISED_EBCI_2026-09-29.md). The authored fields were refreshed to the redraft's numbering and engine on 2026-09-29 under Q-RE8 (decisions/REVISED_EBCI_VEIL_PASS6_AND_TRILOGY_GUIDE_AUTHOR_ANSWERS_2026-09-29.md), which replaces the pointer above to an author question."
 }

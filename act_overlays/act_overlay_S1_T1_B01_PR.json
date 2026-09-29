@@ -5,7 +5,7 @@
   "trilogy_id": "T1",
   "_position_note": "PR is a structural position beside the three acts, not an act (Ruling 6, GATE_RULINGS_2026-09-20); this file does not count toward the 27 act overlays. Created 2026-09-27 at the B01 Act I EBCI release (decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md) to apply the ruled prologue envelope (decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md B1). Authored fields are drawn from approved sources only: v4.1b's prologue and the macro-Möbius design (approved design, decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md §2).",
   "act_thesis": "Open the saga's metaphysical horizon without explaining it: two who perceive the strain in the Veil and cannot simply intervene. Wider perception does not equal control. Cut hard to a sick child in the swamp.",
-  "_act_thesis_source": "v4.1b PROLOGUE (story job, beats, exit); macro-Möbius design §2 axes 1-5",
+  "_act_thesis_source": "v4.1b PROLOGUE (story job, beats, exit); macro-Möbius design §2 axes 1-5. Checked 2026-09-29 against the revised packet S1.T1.B01.PR.E00 under Q-RE8: the thesis and carriers are unchanged; the exit criterion and the LT-motif guard are aligned to the packet.",
   "escalation_permissions": {
     "corridor": {
       "min": "U1",
@@ -50,14 +50,15 @@
   "act_success_criteria": [
     "Brief, abstract and beautiful (source: v4.1b PROLOGUE Execution; macro-Möbius §3)",
     "Constraint is the point: wider perception does not equal control (source: v4.1b PROLOGUE; macro-Möbius axis 4)",
-    "Ends on a hard cut to the swamp: a child in distress, and nobody arrives in time (source: v4.1b PROLOGUE Exit; macro-Möbius axis 5)"
+    "Ends on a hard cut to a sick child at a swamp-edge camp, at night; the too-late belongs to E01 (source: S1.T1.B01.PR.E00, from v4.1b PROLOGUE Exit; macro-Möbius axis 5)"
   ],
   "forbidden_shortcuts": [
     "A cosmology lecture, or any explanation (source: v4.1b PROLOGUE; macro-Möbius §3)",
     "A prophecy montage or a literal preview of the Mending (source: v4.1b PROLOGUE; macro-Möbius §3)",
-    "Any LT motif: no triangle, no LuminousThread, no promise of a later reach (source: macro-Möbius §4)",
+    "Any LT motif: no triangle, no LuminousThread, no promise of a later reach; a thread is allowed as an image only (source: macro-Möbius §4; Q-OL4 #13, decisions/B01_MANUSCRIPT_RULING_CONFLICTS_AUTHOR_ANSWERS_2026-09-29.md)",
     "Naming anything: Silence and Hope are not introduced by name to the reader (source: macro-Möbius §4)",
-    "Honey Island named or linked to any future site (source: Veil audit amendments §3 O1)"
+    "Honey Island named or linked to any future site (source: Veil audit amendments §3 O1)",
+    "An image shared with E01 made into a clue; the cup (source: Q-MO3; S1.T1.B01.PR.E00)"
   ],
-  "_redraft_numbering_2026_09_29": "REDRAFT NUMBERING 2026-09-29 (Q-MO5, decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md; Q-AC2): the revised B01 EBCI numbers the merged outline's pieces P00-P49 as E00-E49. Act I is E01-E15, Act II E16-E36, Act III E37-E49. Episode numbers in this overlay's authored fields are pre-redraft labels (v4.1b; see the concordance in ebci/B01/REDRAFT_CONCORDANCE.md). They are kept as written; a thesis revision for the redraft is an author question (reports/B01_REVISED_EBCI_2026-09-29.md)."
+  "_redraft_numbering_2026_09_29": "REDRAFT NUMBERING 2026-09-29 (Q-MO5, decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md; Q-AC2): the revised B01 EBCI numbers the merged outline's pieces P00-P49 as E00-E49. Act I is E01-E15, Act II E16-E36, Act III E37-E49. Episode numbers in this overlay's authored fields are pre-redraft labels (v4.1b; see the concordance in ebci/B01/REDRAFT_CONCORDANCE.md). They are kept as written; a thesis revision for the redraft is an author question (reports/B01_REVISED_EBCI_2026-09-29.md). The authored fields were refreshed to the redraft's numbering and engine on 2026-09-29 under Q-RE8 (decisions/REVISED_EBCI_VEIL_PASS6_AND_TRILOGY_GUIDE_AUTHOR_ANSWERS_2026-09-29.md), which replaces the pointer above to an author question."
 }
