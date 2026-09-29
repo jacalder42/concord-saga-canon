@@ -13759,4 +13759,27 @@ END OF ENTRY 285
 
 ===============================================================
 
+## §286 — The B01 answers applied: F1, F2, the two hands in the ledger, Q-RE2–7, 2026-09-29
+
+**Status:** LEDGER ENTRY. Applies §285's B01 items to `ebci/B01/` and `grids/breadcrumbs.csv`. They are approved design.
+
+**Packets:**
+- **E39 (F1):** a practical cause for the failed stakeout. The car pulls in facing them with its lights on; the plate is behind the glare; the photograph is glare; Lucien steps into the road in front of a moving car, which is the danger Seraphine sees. *Pressed by* no longer says the city acted correctly (Q-XP2).
+- **E49 (F2):** the order is explicit. She leaves before her tin moves. Miss Tavie, by the tins she lent, sees the water move and cannot say when. The required observable matches.
+- **E14:** the whole-crowd fall is confirmed (Q-RE2).
+- **E04:** Lucien's first camp visit is permitted (Q-RE3).
+- **E22 and E24:** the pump station is Mid-City or canal-side, and authentication is still due (Q-RE4).
+- **E49:** Jody, and S06's Darnell (Q-RE6, Q-RE7).
+- **Breadcrumb lines** in 17 packets now match the ledger: stale "pending" clauses are removed, and the writers' report references are resolved.
+
+**Ledger (Q-RE1):**
+- **BC-TECHNARC-KIT** gains eight SOFT B01 pre-rungs, at E20, E25, E31, E34, E36, E39, E48 and E49. They are unattributed on the page, and the recognition stays with B02 E13.
+- **New SOFT row: BC-FILE-UPSTAIRS.** This is Hand 1, the file's route. It is introduced at E14, reinforced at E37, E38 and E48, and pays at B02 E08. It sits apart from the LOCKED Dominion ladder.
+
+Validation: 0 violations; all self-tests pass.
+
+END OF ENTRY 286
+
+===============================================================
+
 END RECOVERY LEDGER
