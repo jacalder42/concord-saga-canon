@@ -13837,4 +13837,29 @@ END OF ENTRY 288
 
 ===============================================================
 
+## §289 — B01 Act I prose packets derived for the redraft, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_I_PROSE_PACKETS_2026-09-29.md` and `ebci/prose/B01/B01-E00.md` … `B01-E15.md`.
+
+**What was derived:**
+- Sixteen packets, with S02 inside E07.
+- **Source:** the revised Narrative Briefs only (Q-AC2). There is no control-layer content, and no Writer Options.
+- **Content:** the conflict brief, *Pressed by* where the brief has it, exit conditions as facts only, and an approximate length. Act I targets total about 46,000 words.
+
+**Self-sweep:**
+- No codes, no future pointers, no required repairs, and no idle clock times.
+- The seven-word overlap check against the private manuscript found nothing.
+- The validator shows 0 violations.
+
+**Resolved by Claude:**
+- The two laundromats stay unlinked.
+- E14's fault theory names Clement's amplifier, in the EBCI brief and the prose packet.
+- The titles are working labels.
+
+**Drafting is not released.** That is the author's call.
+
+END OF ENTRY 289
+
+===============================================================
+
 END RECOVERY LEDGER
