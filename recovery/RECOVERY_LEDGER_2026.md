@@ -13345,4 +13345,42 @@ END OF ENTRY 270
 
 ===============================================================
 
+# 271. The cast-conflict foundations drafted: relationship register and wants lines — 2026-09-29
+
+**Status:** LEDGER ENTRY. Step 1 of `decisions/SAGA_CAST_CONFLICT_PASS_AUTHOR_ANSWERS_2026-09-29.md` (Q-CE2). Drafted by a Claude subagent and reviewed by Claude. Proposals (Tier D), for the author's approval:
+- `proposals/RELATIONSHIP_END_STATE_REGISTER_2026-09-29.md`
+- `proposals/CHARACTER_WANTS_LINES_2026-09-29.md`
+
+**The register** has 18 relationships, each with its conflict loop, end state (1.7), separate repair and touches, plus a saga map.
+- **Three protagonist bonds end without a death:**
+  - Seraphine–Elisabet: **Divergence** (B08 Mound City, over her secret);
+  - Kade–Rex: **Divergence** (B07, the post built on Rex's news);
+  - Kade and the crew: **Suspension** (shut out, met with anger; the ruled LT reach is unanswered).
+- Seraphine–Caro stays down all of B05.
+- Seraphine–Lucien converges through two real breaks (B04 E40; B08 E33 → E43).
+- Caro–Elisabet converges with B05 E10's words standing.
+- **The crew does not reach B09 E31 whole.** No ruled content changes; B09 E31–E45 and the epilogue are untouched.
+- Seven conflicts between audit proposals are recorded, not resolved.
+
+**The wants lines** give eleven characters one want each for themselves:
+- Seraphine: needed;
+- Lucien: his family's standing;
+- Baz: to belong;
+- Caro: her own Chicago;
+- Elisabet: her work, and to be right;
+- Trip: the Vein as hers;
+- Mara: the keeper of the book (conditional);
+- Rex: vindication;
+- Tahl: to see it himself;
+- Kade: to be read;
+- Lacuna: her ground, and being owed.
+
+Each has evidence and a collision.
+
+**For the author:** Q-RS1–6 (the register) and Q-WL1 (the wants lines).
+
+END OF ENTRY 271
+
+===============================================================
+
 END RECOVERY LEDGER
