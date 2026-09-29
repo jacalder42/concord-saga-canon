@@ -13974,4 +13974,30 @@ END OF ENTRY 293
 
 ===============================================================
 
+## §294 — B01 redraft E00–E04 drafted; momentum checkpoint, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_MOMENTUM_CHECKPOINT_E00_E04_2026-09-29.md`.
+
+- **Drafted:** E00–E04, 11,941 words against about 12,300 in the packets. The drafts are in the private manuscript repository (`B01/redraft/act-01/`); the old draft is untouched. No manuscript text is quoted here.
+- **Momentum:**
+  - The anticipated outcome is definite: the record, the secret renewal, and a coming collision between her statement and his *None*.
+  - Both leads choose in every piece. The cold reader gave 4 / 5.
+  - **The gap:** nobody is solving the strange yet. The packets start that at E06–E08. E05, a Life piece, is the watch item.
+- **Fixed after two reads:**
+  - Seraphine's mother was alive in E03, against her identity card.
+  - The pressure's onset in E02.
+  - Conclusions drawn from the E02 road test.
+  - Who called 911.
+  - The weekdays.
+  - Smaller continuity slips, E00's statement of what the presences are, and line tells.
+- **Questions:**
+  - **Q-MC1:** continue through E05–E09 with a second momentum check. Recommended yes.
+  - **Q-MC2:** add the *"the way you…"* simile tic to the review-side watch-list. Recommended yes.
+
+**Next:** the author's answers to Q-MC1–2.
+
+END OF ENTRY 294
+
+===============================================================
+
 END RECOVERY LEDGER
