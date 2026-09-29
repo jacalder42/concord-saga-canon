@@ -14244,4 +14244,35 @@ END OF ENTRY 306
 
 ===============================================================
 
+## §307 — B01 redraft, Act II: the narrow structural pass, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_II_STRUCTURAL_PASS_2026-09-29.md` (Q-A2C1–4, ledger §306).
+
+- **Repeated moral arrangements varied:** E27, Seraphine no longer concedes to Caro, and the disagreement stands; E31, Trip's refusal ends in an imperfect bargain; E33, Miss Tavie's order is partly for her own sake and asks something back (St. Roch), so the chapter changes a commitment. E34 opens after that visit.
+- **Predictable closure cut** at the ends of E26 and E35. **E28 trimmed** of duplicated setup and aftermath; its choice, attraction and consequence are kept.
+- **The Guidry letter's decision is on the page in E36** (Q-A2C3): Lucien leaves the reason out, signs and mails it on the Friday, seen by Baz; the bar scene no longer re-tells it. The false report follows that night.
+- One split quotation in E35 fixed. Act II is 54,672 words; the redraft about 93,400. Nothing is quoted here; the edits are in the private manuscript repository.
+
+**Next:** the Act III reconciliation.
+
+END OF ENTRY 307
+
+===============================================================
+
+## §308 — B01 redraft, Act III: the forecast account, the Act II reconciliation and the prose packets, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_III_RECONCILIATION_AND_PROSE_PACKETS_2026-09-29.md` (Q-A2C5 and the author's note on Seraphine, ledger §306).
+
+- **Calendar:** Act III runs Monday about 20 April (Carrollton, and Guidry's receipt of Lucien's letter) to Saturday about 2 May. The two middays are about 21–22 April; the lot is Wednesday about 29 April; the Square is Friday and Saturday about 1–2 May. E48 lands about three days after calendar C's late-April anchor. Thirteen briefs' dates corrected with the old wording in Notes; an additive `_calendar_redraft_act_iii_2026_09_29` note in `book_context_B01.json` (the `_calendar` note is kept as written).
+- **One forecast account:** the page's claims; its rule (inside the window and inside the lines); **Ursulines is the first and only qualifying event** (the Marigny ring now falls before the window, and one ticket hit fell inside the window but outside the lines); what was right (window, place), wrong (watch items, *larger*) and missing (who got hurt); the later bets (*faster* wrong, the two middays missed, the gathering broken, still water paid once); **the verdict owed at E48**, the first account under all three names. Forecast A's shape survives: technical success and practical inadequacy now fall on the same event.
+- **Carry from Act II** lines in all thirteen briefs; E37's *Before* corrected (Denise already watching); E41's Engine reads *W3 recommitted*.
+- **Seraphine's decision:** at E41 she chooses the hall over her own written doubt; at E46 **the asking at home is her proposal**, from her inquiry, and it decides what the three watch at the Square. No notebook entry is added.
+- **13 Act III prose packets** derived (`ebci/prose/B01/B01-E37.md` … `B01-E49.md`), target about 41,300 words (the redraft would be about 134,700). Self-sweep clean; manuscript 7-gram overlap 0; validator 0.
+
+**Next:** sequential Act III drafting with checkpoints after E41, E45 and the book's end.
+
+END OF ENTRY 308
+
+===============================================================
+
 END RECOVERY LEDGER
