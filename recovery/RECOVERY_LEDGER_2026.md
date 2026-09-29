@@ -13535,4 +13535,17 @@ END OF ENTRY 276
 
 ===============================================================
 
+# 277. The merged B01 outline gains its external-pressure column — 2026-09-29
+
+**Status:** LEDGER ENTRY. The private outline (`draft-notes/b01-engine/B01_MERGED_ENGINE_OUTLINE.md`) is replaced by a version with an *External pressure* cell on every piece. Its integrity was checked: nine sections, 50 pieces plus two supplements, about 149,900 words.
+- The pressure drifts from friction (Act I), to a will (Act II, from the reserved floor), to organised, unnamed actors (Act III).
+- Ten care-only pieces are re-driven.
+- Lucien's doubt is in behaviour only.
+
+`reports/B01_MERGED_ENGINE_OUTLINE_2026-09-29.md` carries an update note and **Q-MO6** (Lucien: behaviour only, or one spoken line). The column stays provisional until it is reconciled with the third-pressure proposal, which is still being drafted.
+
+END OF ENTRY 277
+
+===============================================================
+
 END RECOVERY LEDGER

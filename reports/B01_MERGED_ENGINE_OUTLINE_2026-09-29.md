@@ -62,7 +62,20 @@ The merge follows the answers. It carries the approved guards:
 - no return to the camp;
 - no *Resonance*.
 
-The status column fixes the overreach ChatGPT flagged. **One gap:** it was built before the author's third-pressure
+> **Update 2026-09-29:** the external-pressure column is now in the outline (the private copy is replaced). Every
+> piece carries the external pressure on its point-of-view character. It moves from ordinary friction in Act I
+> (licences, the coroner, Sal's contract, discipline at work), to a pressure with a will in Act II (from the reserved
+> floor), to organised, unnamed actors in Act III. Ten pieces that ran on care alone are re-driven by a want or the
+> external pressure. A new per-character section gives Lucien's doubt about his office **in behaviour only**:
+> - he writes down Baz's question about who booked the floor;
+> - he doesn't report the pump night or the trap;
+> - he asks R. one routine question about where his reports go;
+> - he draws the report's route, with nothing after the arrow.
+>
+> The column is **provisional** until it is reconciled with the separate third-pressure proposal. The text below
+> predates this update.
+
+The status column fixes the overreach ChatGPT flagged. **One gap (closed by the update above):** it was built before the author's third-pressure
 direction, so it has no external-pressure column. That column is being drafted separately and will be folded in
 before EBCI is revised.
 
@@ -75,3 +88,4 @@ before EBCI is revised.
 | **Q-MO3** | **The cup on Dré's sill:** carry it as a pair (the first piece and the last), or not at all | **Not carried by default.** It is the only clue that touches the boy |
 | **Q-MO4** | **Mara's proposed pressure lines** (pressure cards §9). Two pieces lean on them | **Approve them.** Otherwise those pieces carry only her manuscript acts, and the Seraphine–Mara register entry drops |
 | **Q-MO5** | **The settled numbering** (P00–P49 becomes E00–E49), and Elisabet's B02 E05 return decided at B02 packet time | **Yes,** with a ledger note for the breadcrumb locators |
+| **Q-MO6** *(added with the update)* | **Lucien's doubt: behaviour only in B01, or one spoken line?** His routine question to R. also makes R.'s *"went up in March, not by me"* read as an answer. Q-AN3 approved the clause as information, and it still is | **Behaviour only,** with the question kept. Asked together with the third-pressure proposal |
