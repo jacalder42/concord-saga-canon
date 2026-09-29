@@ -6,6 +6,8 @@ proposal drafted under `decisions/REDRAFT_ORDER_SOURCE_AND_THIRD_PRESSURE_AUTHOR
 Q-AC4). **The proposal quotes manuscript dialogue,** so it is in the private repository at
 `draft-notes/character-pressures/THIRD_PRESSURE_PROPOSAL.md`. This record paraphrases it.
 
+**Update 2026-09-29 (ledger §279):** a revised Q-MO1–5 and Q-XP1–7, after a checked ChatGPT review, replace the set below: `reports/THIRD_PRESSURE_QUESTIONS_REVIEW_RECONCILIATION_2026-09-29.md` §2.
+
 **This set replaces Q-MO1–6** in `reports/B01_MERGED_ENGINE_OUTLINE_2026-09-29.md`.
 
 **What it does not change:** no profile, pressure card, outline, EBCI brief, packet or manuscript text.

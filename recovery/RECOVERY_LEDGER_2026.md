@@ -13570,4 +13570,26 @@ END OF ENTRY 278
 
 ===============================================================
 
+## §279 — The third-pressure question set: ChatGPT's review checked, and a revised set, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/THIRD_PRESSURE_QUESTIONS_REVIEW_RECONCILIATION_2026-09-29.md`. A ChatGPT review of Q-MO1–5 and Q-XP1–7 (ledger §278), forwarded by the author, is recorded verbatim as a recommendation, not a decision.
+
+**Checked:** all twelve claims hold against the private proposal and merged outline:
+- the *two in three* quota is unjustified, and the stack forbade care from opening a scene;
+- of the four re-led Seraphine objectives, P21 and P37 are relabels with new obstacles, and P07 is a motive change needing development;
+- nothing guards ordinary pressures (Denise, Sal, confidentiality, access) from all pointing upstairs;
+- *"every source has a legitimate claim"* returns, through institutions, the legitimacy requirement Q-IT removed;
+- R8's wording overstates four events;
+- P31 can read as others having Lucien's letter;
+- the blank column risks the recording habit the author disliked;
+- Seraphine's record want is not *"pride"* by default, and pleasure was demoted to texture;
+- Lucien's knowledge and the reader's are distinct;
+- Elisabet's return condition belongs in the Veil pass, not packet time.
+
+**Revised set:** Q-MO1–5 and Q-XP1–7, revised, replace the §278 set. No new system is added. **Next, after the answers:** reconcile into the outline and pressure lines, then the Veil B02–B03 beat revision (Q-AC1).
+
+END OF ENTRY 279
+
+===============================================================
+
 END RECOVERY LEDGER
