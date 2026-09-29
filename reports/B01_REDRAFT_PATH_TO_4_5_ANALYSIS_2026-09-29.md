@@ -328,3 +328,19 @@ A projected 4.5 is not a measured one. Once the author answers, the fastest hone
 3. Compare their ratings and pull against the first panel.
 
 The test costs a fraction of a full re-read, and it shows whether a lever does what the readers said it would.
+
+## 9. Addendum: ChatGPT's four beta reads (2026-09-29, ledger §315)
+
+The author forwarded four independent ChatGPT beta reads of the same manuscript text and asked for a review first
+(`reports/B01_REDRAFT_CHATGPT_BETA_READS_REVIEW_2026-09-29.md`). The effect on this plan:
+- **L1 is strengthened:** 4 of 4 ChatGPT readers and 6 of our 10 name it.
+- **L4 is strengthened** and gains a second form, **L4b**: an opening in the official wall without a face (a purpose or a
+  finding).
+- **L6 is strengthened:** show the forecast's derivation.
+- **L7 is refined:** keep the quiet, vary the form of recovery, and stop deferring hard talks. Self-aware concealment
+  joins the pass.
+- **Three new levers:**
+  - **L13:** the telling-scope decision between E26 and E32;
+  - **L14:** meaning restated after it lands, for the line edit;
+  - **L15:** verified continuity snags.
+- **New questions:** Q-P45-10–12. They wait, like Q-P45-1–9, for after the author's read.

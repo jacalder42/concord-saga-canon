@@ -14370,4 +14370,28 @@ END OF ENTRY 314
 
 ===============================================================
 
+## §315 — B01 redraft: review of ChatGPT's four beta reads, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_CHATGPT_BETA_READS_REVIEW_2026-09-29.md`.
+
+- **The author's message:** *"I like this plan, first read and review the chatgpt beta readers attached."* It is recorded as his response to the 4.5 plan (ledger §314). **It does not answer Q-P45-1–9**, which wait for after his read, as the plan says.
+- **The reads:** four ChatGPT readers (character, mystery, momentum, wonder), sequential with a reaction before each next chapter, no scores, all complete. They read manuscript commit `ff1d412`, the same B01 text as our panel. The reports quote the manuscript and are kept privately (manuscript `draft-notes/beta-read/chatgpt/`). Nothing is quoted here.
+- **Confirmed across both panels:** the *None* reckoning belongs on the page (4/4 and 6/10, the strongest finding either panel produced); the official thread needs one real opening (4/4 and 7/10); the human promise is paid in E44 (4/4 and 10/10); the quiet is an asset whose *form* repeats.
+- **New findings, each verified against the manuscript:**
+  - the E26 *everybody on the block gets told* agreement is narrowed off the page at Ursulines (E32), where a told and an untold side are watched and Mrs. Arceneaux is hurt;
+  - the method is stated more confidently than it is shown (the forecast's derivation, the *clean* control, a leading question);
+  - self-aware concealment recurs;
+  - meaning is restated after it lands (line level);
+  - snags that hold: E29's *first one that's held still* against E01; Mr. Fontenot's date (E08 against E21); E31's unexplained *neither hit nor miss*; Walt never seen after the pump station.
+- **One reader claim does not hold:** the E11 washer setting (the reader misread).
+- **The 4.5 plan gains an addendum (§9):** L1, L4 (with L4b, an opening without a face), L6 and L3 strengthened; L7 refined; new levers L13–L15; new questions Q-P45-10–12.
+- **Debts to carry into the Veil continuity reconciliation:** Sal, Caro's login and the copied data, Walt, Hazel, Batson, Odile, Seraphine's anger at Baz.
+- **No manuscript edits during the author's read.**
+
+**Next:** the author's read; then Q-P45-1–12.
+
+END OF ENTRY 315
+
+===============================================================
+
 END RECOVERY LEDGER
