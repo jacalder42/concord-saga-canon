@@ -14195,4 +14195,19 @@ END OF ENTRY 303
 
 ===============================================================
 
+## §304 — B01 redraft, Act II: the third momentum checkpoint (E27–E31), 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_II_MOMENTUM_CHECKPOINT_E27_E31_2026-09-29.md`.
+
+- **E27–E31 drafted:** 12,020 words after revision (Act II so far about 40,800), in the private manuscript repository. Nothing is quoted here.
+- **The forward-pull read:** E27 3, E28 3, E29 4, E30 3, E31 4. **The reader would start E32 that night;** the pull is Lucien's more than Seraphine's in this stretch.
+- **The packet check:** every fixed beat delivered; the calendar holds. The highest risk, E29's narration certifying cause, is fixed (the explanation is Seraphine's belief). Lucien no longer knows of the man at the door; Elisabet gives only October; one move toward the house.
+- **The reader's fixes:** the null readings reach Lucien's shame scene; Trip's refusal no longer replays Renita's; omens around Baz removed; repeated shapes cut.
+
+**Next:** E32 (the window's fifth day), then E33–E36.
+
+END OF ENTRY 304
+
+===============================================================
+
 END RECOVERY LEDGER
