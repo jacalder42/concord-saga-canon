@@ -13665,4 +13665,47 @@ END OF ENTRY 282
 
 ===============================================================
 
+## §283 — B01's revised EBCI for the ~150k redraft; selective breadcrumb and register updates, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REVISED_EBCI_2026-09-29.md`. It covers steps (3) and (4a) of the Q-AC1 order, under the author's instruction (§280).
+
+**Built.** Fifty packets in `ebci/B01/`, one per approved merged-outline piece, numbered E00–E49 (Q-MO5):
+- **Acts:** PR E00; A1 E01–E15; A2 E16–E36; A3 E37–E49.
+- **Brief flags:** 13 U, 33 C, 4 N. The new pieces are E24, E25, E39 and E44.
+- **Length:** about 148,700 narrative words.
+- **Supplements:** S02 and S06 are inside E07 and E49.
+- **The redraft fields:** Length; Conflict with Pressed by; Exit conditions; Engine; Sign-off.
+
+`ebci/B01/REDRAFT_CONCORDANCE.md` maps the new numbers to the old.
+
+**Retired, never deleted.**
+- The 49 pre-redraft packets and 55 prose packets are in `superseded_2026-09-29/` folders, each with a status line.
+- The validator skips those folders for its live checks (a new self-test covers this).
+- The 114 pre-redraft beat rows are archived beside the packets. 159 new rows replace them.
+- In the supplement grid, S01, S03, S04 and S05 are retired; S02 is renumbered to follow E07, and S06 to follow E49.
+
+**Substrate.**
+- The act overlays and the B01 book context carry a renumbering note.
+- The A1 W3 exception moves from E15 to E14, unchanged otherwise.
+- Twelve B01 breadcrumb rows are re-mapped as locators only, with notes. BC-SWAMP-WOUND drops two stale pre-redraft locators.
+- The relationship register gains an additive note (R1's carried blame; R4's grievance).
+- The EBCI template gains the redraft fields (committed earlier, `370e6c1`).
+- The test fixture moves to A2.E30.
+
+**A correction, not a decision.**
+- *The lapsed card* is Dré's Medicaid coverage, whose renewal sat on Seraphine's desk (manuscript E01, E03).
+- The engine designs, the outline and the working lines had made it her licence or CPR card. That was a design error.
+- It is corrected in the private outline and working lines (manuscript `7fe5c7c`) and in packets E01, E03, E21, E25 and E44.
+
+**Checks.**
+- Canon scope has 0 violations. All 172 self-tests pass. There is no book-context drift.
+- A seven-word overlap check against the private manuscript found four phrases, each of which was paraphrased.
+- No faction name appears in any Narrative Brief.
+
+**For the author:** Q-RE1–8, beside Q-VB1–12 (§282). **Next:** B01 Act I's prose packets, after the answers.
+
+END OF ENTRY 283
+
+===============================================================
+
 END RECOVERY LEDGER

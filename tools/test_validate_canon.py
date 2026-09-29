@@ -1219,7 +1219,9 @@ LIVE_E33 = os.path.join(vc.REPO, "ebci", "B01", "S1.T1.B01.A2.E33.md")
 LIVE_BEATS = os.path.join(vc.REPO, "grids", "episode_beats.csv")
 
 
-def packet(sid="S1.T1.B01.A2.E31", pov="Seraphine Vael", corridor="U1", bid=None,
+# The fixture sits where BC-LACUNA-CAMEO (LOCKED) is placed: A2.E30 since the B01 redraft
+# renumbering (2026-09-29, ledger §283); it was A2.E31 before.
+def packet(sid="S1.T1.B01.A2.E30", pov="Seraphine Vael", corridor="U1", bid=None,
            carried="BC-LACUNA-CAMEO (LOCKED)", protected="none", cites=""):
     bid = bid or f"{sid}-BT01"
     return (f"# {sid} — fixture\n\n## Header\nSID:        {sid}\nPOV:        {pov}\n\n"
@@ -1295,12 +1297,12 @@ class EbciPilotChecks(unittest.TestCase):
         band = {"corridor": {"min": "U1", "max": "U4"},
                 "weather": {"min": "W0", "max": "W2"},
                 "fx": {"min": "FX0", "max": "FX2"},
-                "exceptions": [{"sid": "S1.T1.B01.A2.E31", "axis": "corridor",
+                "exceptions": [{"sid": "S1.T1.B01.A2.E30", "axis": "corridor",
                                 "value": "U6", "scope": "brief", "reason": "fixture"}]}
         self.assertEqual(packet_problems(packet(corridor="U6"),
                                          cache={"T1_B01_A2": band}), [])
         other = dict(band, exceptions=[dict(band["exceptions"][0],
-                                            sid="S1.T1.B01.A2.E30")])
+                                            sid="S1.T1.B01.A2.E31")])
         self.assertEqual(packet_problems(packet(corridor="U6"),
                                          cache={"T1_B01_A2": other}),
                          ["CHK_EPISODE_BAND"])
@@ -1336,7 +1338,7 @@ class EbciPilotChecks(unittest.TestCase):
         names = [e["name"] for e in RULES["pov_entities"]["entities"]]
         self.assertEqual(sorted(names), ["Hope", "Silence"])
         for ok in ("Silence", "Hope", "Silence + Hope"):
-            self.assertEqual(packet_problems(packet(sid="S1.T1.B01.A2.E31", pov=ok)), [], ok)
+            self.assertEqual(packet_problems(packet(sid="S1.T1.B01.A2.E30", pov=ok)), [], ok)
         import csv as _csv
         with open(os.path.join(vc.REPO, "canon", "cast_registry.csv"), encoding="utf-8",
                   newline="") as fh:
@@ -1351,7 +1353,7 @@ class EbciPilotChecks(unittest.TestCase):
                 .replace("## Obligations", "### Obligations"))
         self.assertEqual(packet_problems(text), [])
         self.assertIn("CHK_BID_FORMAT", packet_problems(
-            text.replace("S1.T1.B01.A2.E31-BT01", "S1.T1.B01.A2.E30-BT01")))
+            text.replace("S1.T1.B01.A2.E30-BT01", "S1.T1.B01.A2.E31-BT01")))
         self.assertEqual(packet_problems(text.replace("| U1 |", "| U6 |")),
                          ["CHK_EPISODE_BAND"])
 

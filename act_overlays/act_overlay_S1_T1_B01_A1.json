@@ -21,11 +21,12 @@
     },
     "exceptions": [
       {
-        "sid": "S1.T1.B01.A1.E15",
+        "sid": "S1.T1.B01.A1.E14",
         "axis": "weather",
         "value": "W3",
         "scope": "brief: the event's peak only",
-        "reason": "First civic-scale event. Recovered-packet E13 (W2->W3) is v4.1b E15 (v4.1b's own header: 'source E13'; B4 ruling, one lineage). OQA B2 (approved design) widens A1 to the E13-E14 evidence at B01 EBCI; the approved causal-card answer Q-E15-3 uses W3 at the peak only and keeps FX2, so no FX3 exception is declared and recovered E14's W3/FX3 (v4.1b E16, cleanup) is not carried. Declared at the Act I release, decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md."
+        "reason": "First civic-scale event. Recovered-packet E13 (W2->W3) is v4.1b E15 (v4.1b's own header: 'source E13'; B4 ruling, one lineage). OQA B2 (approved design) widens A1 to the E13-E14 evidence at B01 EBCI; the approved causal-card answer Q-E15-3 uses W3 at the peak only and keeps FX2, so no FX3 exception is declared and recovered E14's W3/FX3 (v4.1b E16, cleanup) is not carried. Declared at the Act I release, decisions/B01_EBCI_PILOT_REVIEW_AND_ACT_I_RELEASE_AUTHOR_RULING_2026-09-27.md.",
+        "_renumbered": "2026-09-29: the Square event (pre-redraft E15) is E14 in the redraft numbering (Q-MO5). The exception itself is unchanged."
       }
     ],
     "basis": "observed",
@@ -220,5 +221,6 @@
     "The prologue as literal preview or prophecy; any LT motif; naming Silence and Hope (source: v4.1b prologue; macro-Möbius design §4)",
     "Death foreshadowing in the Baz call (source: v4.1b E17)",
     "Honey Island named or linked to any future site (source: VAA §3 O1)"
-  ]
+  ],
+  "_redraft_numbering_2026_09_29": "REDRAFT NUMBERING 2026-09-29 (Q-MO5, decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md; Q-AC2): the revised B01 EBCI numbers the merged outline's pieces P00-P49 as E00-E49. Act I is E01-E15, Act II E16-E36, Act III E37-E49. Episode numbers in this overlay's authored fields are pre-redraft labels (v4.1b; see the concordance in ebci/B01/REDRAFT_CONCORDANCE.md). They are kept as written; a thesis revision for the redraft is an author question (reports/B01_REVISED_EBCI_2026-09-29.md)."
 }

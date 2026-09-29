@@ -119,6 +119,8 @@ no grouping and no characterisation.
 
 ## Packets for the B01 redraft (Q-IT2, Q-IT4, Q-IT5, 2026-09-29)
 
+**The source exists (2026-09-29, ledger §283):** the revised B01 EBCI is in `ebci/B01/` (50 packets, index in `ebci/B01/REDRAFT_CONCORDANCE.md`). The pre-redraft prose packets are kept in `ebci/prose/B01/superseded_2026-09-29/` and are not a source. The redraft's packets are derived act by act from the new Narrative Briefs.
+
 The ~150k redraft's packets are new, one per piece of the chosen outline (`decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_ANSWERS_2026-09-29.md`). On top of everything above:
 
 - **Source: revised B01 EBCI only (Q-AC2, 2026-09-29).** The redraft's prose packets derive from B01's EBCI Narrative

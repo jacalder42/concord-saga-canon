@@ -244,5 +244,6 @@
       "required_by": "M49",
       "in_book": "B07"
     }
-  ]
+  ],
+  "_redraft_numbering_2026_09_29": "REDRAFT NUMBERING 2026-09-29 (Q-MO5, decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md; Q-AC2): the revised B01 EBCI numbers the merged outline's pieces P00-P49 as E00-E49. Act I is E01-E15, Act II E16-E36, Act III E37-E49. Episode numbers in this book context's authored fields are pre-redraft labels (v4.1b; see the concordance in ebci/B01/REDRAFT_CONCORDANCE.md). They are kept as written; a thesis revision for the redraft is an author question (reports/B01_REVISED_EBCI_2026-09-29.md). Calendar C's anchors keep their dates: the Square (pre-redraft E15) is E14, Ursulines (E33) is E32, the lot (E45) is E46, the tins (E48) is E49."
 }
