@@ -74,3 +74,5 @@ line naming its new home. Titles are working labels, never cues for the page.
 | E47 | `S1.T1.B01.A3.E47` | The Wide Quiet | Seraphine Vael | 3,200 | U | `S1.T1.B01.A3.E46` |
 | E48 | `S1.T1.B01.A3.E48` | The Square Remembers | Lucien Kael | 3,500 | C | `S1.T1.B01.A3.E47` |
 | E49 | `S1.T1.B01.A3.E49` | Still Water | Seraphine Vael | 4,700 | C | `S1.T1.B01.A3.E48` |
+
+**E05's delivery (Q-AC1, 2026-09-29):** in the redraft, E05 is folded into E03. The reading sequence runs E04 → E06, and the E05 packet stays as the record of its obligation.

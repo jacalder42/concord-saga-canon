@@ -14103,4 +14103,27 @@ END OF ENTRY 298
 
 ===============================================================
 
+## §299 — Q-AC1–5 answered: E05 fold kept, focused Act I revision scoped, Act II obligation revised, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/REDRAFT_ACT_I_CHECKPOINT_AUTHOR_ANSWERS_2026-09-29.md`.
+
+- **Q-AC1.** The E05 fold is kept. The EBCI and prose E05 packets now carry a delivery note: the obligation is kept, there is no standalone E05, and the reading sequence is E04 → E06. The concordance carries the same note.
+- **Q-AC2.** Trim E11, provisionally.
+- **Q-AC3.** One focused revision, worked through choices and scene function:
+  - the older characters;
+  - E09's turn;
+  - the folder and Renée, kept alive by practical consequence;
+  - E14's replay;
+  - E15: Baz's distinct contribution, and Seraphine keeping a task of her own.
+- **Q-AC4.** The camp-guard reading is confirmed.
+- **Q-AC5.** The two-records realization is kept, with a causality check: the threat is scrutiny, not a documentary contradiction.
+- **The Act II obligation now reads:** Seraphine initiates a consequential line of inquiry and keeps ownership of it.
+- **The opening's standing is qualified:** the E09 near-stop and the reluctance to start Act II are reservations the scores do not cancel.
+
+**Next:** the revision pass; a continuous read of E09–E15 for forward pull; then Act II.
+
+END OF ENTRY 299
+
+===============================================================
+
 END RECOVERY LEDGER
