@@ -46,6 +46,7 @@ contradicting canon. Normally that is:
 - name and pronouns;
 - the character's scene-relevant role or relationship;
 - **at most one** stable physical or presence fact, and only if it is likely to appear.
+- **For a point-of-view character only** (Q-MC1 process fix, 2026-09-29, `decisions/REDRAFT_MOMENTUM_CHECKPOINT_E00_E04_AUTHOR_ANSWERS_2026-09-29.md`): **the foundational family facts** (who is living, who is dead, who raised them) **and where they live**. These are facts, not history or wound. Ordinary prose touches them without warning, and in the redraft's E03 a missing family fact produced a canon error.
 
 Example: *Trip (she): Velvet Vein's host; compact, socially effortless, owns the room without dominating it.*
 

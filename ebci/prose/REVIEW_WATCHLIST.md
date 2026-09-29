@@ -57,6 +57,7 @@ is rarely a problem; a pattern is. Finding an item is a reason to look, not a ve
 
 ## Line level
 
+- **"The way you…" comparisons** (Q-MC2, 2026-09-29). Is the construction repeating across a piece, or does a comparison explain an image that was already clear? **Examine it; the phrase is not banned, and there is no frequency target.**
 - **Interruptions:** a cut-off line ends in a dash; an ellipsis only trails away (Q-AR3).
 - **Spelling:** US throughout (Q-AR1).
 - **Stock constructions at density:**

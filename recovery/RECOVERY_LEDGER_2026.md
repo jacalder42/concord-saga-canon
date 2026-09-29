@@ -14000,4 +14000,24 @@ END OF ENTRY 294
 
 ===============================================================
 
+## §295 — Q-MC1–2 answered: E05–E09 released with a sharper momentum test; identity-context fix, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/REDRAFT_MOMENTUM_CHECKPOINT_E00_E04_AUTHOR_ANSWERS_2026-09-29.md`.
+
+- **Q-MC1, yes.** E05–E09 are drafted next. The next checkpoint asks four questions:
+  - Does Seraphine pursue a specific question through a chosen action?
+  - Does the result change her explanation or her next move?
+  - Does a mistaken intervention have a consequence beyond embarrassment?
+  - Does the reader want to see what she will *do* next?
+
+  The slow stretches (E03, E04, E05) stay under review. The cold read is one reader's evidence.
+- **Q-MC2, yes.** The *"the way you…"* pattern is added to `ebci/prose/REVIEW_WATCHLIST.md` to be examined, with no ban and no frequency target.
+- **Process fix.** Seraphine's family fact was **missing** from the minimum identity context, not ignored. `ebci/prose/README.md` now gives a point-of-view character's foundational family facts and home. Checker findings are bounded.
+
+**Next:** draft E05–E09, then the second momentum checkpoint.
+
+END OF ENTRY 295
+
+===============================================================
+
 END RECOVERY LEDGER
