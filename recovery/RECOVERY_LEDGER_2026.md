@@ -13291,4 +13291,25 @@ END OF ENTRY 268
 
 ===============================================================
 
+# 269. Q-CE1–7 approved: the cast-conflict pass; B01's antagonist raised — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/SAGA_CAST_CONFLICT_PASS_AUTHOR_ANSWERS_2026-09-29.md` (the author: *"Approve Q-CE1–7 as recommended"*).
+
+**Decided:**
+- A targeted cast-conflict pass. Order: foundations, then Veil beats and a packet sweep, then Neon and Loom before their EBCI.
+- No canon card edits yet.
+- ***"No blame, just inference"*: the narrator never certifies blame; characters may infer it and blame each other.**
+- Seven sign-off questions, not quotas.
+- The foundations start in parallel with the human read.
+
+**Applied:** *"equally"* is restored to the writer profile's opening line (the author's 2025-11-08 words).
+
+**Raised by the author:** *"the lack of an antagonist or strong hint towards one throughout book 1."* The approved Dominion ladder (*"B01 procedural, off-page"*) is the likely cause. A study with options follows.
+
+**Running:** the foundations drafts (the relationship end-state register and the Wants lines) and the B01 antagonist study.
+
+END OF ENTRY 269
+
+===============================================================
+
 END RECOVERY LEDGER
