@@ -14180,4 +14180,19 @@ END OF ENTRY 302
 
 ===============================================================
 
+## §303 — B01 redraft, Act II: the second momentum checkpoint (E22–E26), 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_ACT_II_MOMENTUM_CHECKPOINT_E22_E26_2026-09-29.md`.
+
+- **E22–E26 drafted:** 11,669 words after revision (Act II so far about 28,800), in the private manuscript repository. Nothing is quoted here.
+- **The forward-pull read:** E22 4, E23 3, E24 4, E25 5, E26 4. **The reader would start E27 that night;** a date is now coming. Risk: nine days invites an interlude.
+- **Seraphine's line:** judged moral rather than investigative through E25; **fixed in E26**, where her third column (said after telling) becomes the page's rule.
+- **The packet check:** every fixed beat delivered. The serious finding, Lucien's private row including the room where the boy died, is removed. Three continuity errors fixed (the E23/E24 afternoon, the charts' holder, Benoit's day); a name collision renamed; E26's page scene rebuilt so it no longer repeats E21.
+
+**Next:** E27–E31, each carrying an open thread forward.
+
+END OF ENTRY 303
+
+===============================================================
+
 END RECOVERY LEDGER
