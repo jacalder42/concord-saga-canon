@@ -13445,4 +13445,32 @@ END OF ENTRY 273
 
 ===============================================================
 
+# 274. B01's mystery and action engine approved (Q-EN1–8; Q-AN1–4) — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_MYSTERY_AND_ACTION_ENGINE_AUTHOR_ANSWERS_2026-09-29.md` (the author: *"Accept as proposed"*).
+
+**Approved:**
+- **The merged engine** is the basis for B01's ~150k redraft: B's table, with A's frame, Seraphine's hidden disconfirmer, Caro's run logs and A's counting.
+- **The other actors, "B-lite":** boxes after the events; Lucien's false 311 trap; a faceless collector; no man at the end; one signature, *only the time*.
+- The VAR note (Q-AN2); R.'s clause as information (Q-AN3); the B02 pickups at packet time (Q-AN4).
+- The wrong theories.
+- Lucien's false report costs Sal.
+- The surface rules, with the plumb line still.
+- A clock rule.
+- The cost.
+- Two more sign-off questions.
+
+**Applied:**
+- the VAR note;
+- the E45 card note (*loose things jump*);
+- the clock rule and sign-off questions in `ebci/prose/README.md`.
+
+Breadcrumb rows wait for the merged outline's piece numbers.
+
+**Running:** the merged ~150k outline, each piece with its conflict brief, exit conditions and length. It comes to the author for a check before any packet.
+
+END OF ENTRY 274
+
+===============================================================
+
 END RECOVERY LEDGER

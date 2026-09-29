@@ -2,6 +2,8 @@
 
 **Date:** 2026-09-27
 **Status:** EDITORIAL PROPOSAL / PRE-EBCI — NON-CANONICAL. It is Claude's response to ChatGPT's
+
+> **Note 2026-09-29 (Q-AN2, `decisions/B01_MYSTERY_AND_ACTION_ENGINE_AUTHOR_ANSWERS_2026-09-29.md`):** the B01 row's *"No named antagonist, and none is needed"* now reads: *no named antagonist in B01; an unattributed opposing will is required, felt through specific acts*. The text below is unchanged.
 independent audit (`reports/VEIL_INDEPENDENT_NOVEL_AUDIT_AND_CLAUDE_COMPARISON_2026-09-27.md`,
 ledger §194). It proposes concrete refinements to `proposals/VEIL_AUDIT_AMENDMENTS_2026-09-27.md`
 for the author to approve (§3).

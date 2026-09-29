@@ -3,6 +3,8 @@
 **Date:** 2026-09-27
 **Status:** PROPOSAL / PRIVATE CAUSAL CARDS — NON-CANONICAL; pre-release work approved 2026-09-27 (preflight Q7); the B01 EBCI hold stands; no packet is generated
 
+> **Note 2026-09-29 (Q-EN5, `decisions/B01_MYSTERY_AND_ACTION_ENGINE_AUTHOR_ANSWERS_2026-09-29.md`):** in the E45 card, *"hanging things swing"* is superseded. **Hanging things hang still** (the manuscript and Q-DR29), and **loose things jump**. The text below is unchanged.
+
 **Answered 2026-09-27: all questions as recommended, approved design** (`decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md` §2,
 ledger §205). Q-E33-1's district is chosen at EBCI; Q-E48-1 is Q1, still water. Q-C2's source stays a
 working hypothesis with no rule text until a Mechanica ruling.

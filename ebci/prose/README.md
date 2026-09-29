@@ -123,6 +123,10 @@ The ~150k redraft's packets are new, one per piece of the chosen outline (`decis
 - **Neighbours (Q-IT2c).** A continuity error (someone the next piece needs goes missing) is fixed in the draft. A
   structural change (a relationship no longer fits a neighbour written for the old version) is a reason to redraft the
   neighbour, not to undo the change.
+- **Clocks (Q-EN6, 2026-09-29).** No clock time in narration unless a character does something with it. A clock is
+  an object someone fights over, trades, steals or bets on, never what the protagonists do instead of acting.
+- **Two sign-off questions for every redraft piece (Q-EN8),** beside Q-CE5's seven: *does a protagonist start an act
+  with a risk in this piece?* and *is a clock doing an action's work?*
 - **Length (Q-IT2d, Q-IT5).** Each packet gives its approximate length from the outline, as an approximate word count.
   **The book aims at about 150k and may finish under it.** A piece over its target needs a specific reason, recorded
   by the checker.
