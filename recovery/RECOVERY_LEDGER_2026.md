@@ -13592,4 +13592,18 @@ END OF ENTRY 279
 
 ===============================================================
 
+## §280 — The revised Q-MO1–5 and Q-XP1–7 approved, as amended, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md`.
+
+**Author:** *"Approved as recommended and amended."* The revised set in `reports/THIRD_PRESSURE_QUESTIONS_REVIEW_RECONCILIATION_2026-09-29.md` §2 is approved design, with one qualification to Q-XP2: ordinary people keep **independent motives and agency**, and are **not categorically disconnected** from the hidden organisations. Existing organisational contact may remain (Denise can take the city's call and still decide for herself), without making every pressure part of the hidden network (Sal's interests stay his own).
+
+**The author's standing test:** the revised beats must demonstrate that choices produce the intended consequences.
+
+**Next (Q-AC1):** reconcile the answers into the outline and pressure lines; the Veil B02–B03 beat revision, with Elisabet's return condition; selective milestones; revised B01 EBCI.
+
+END OF ENTRY 280
+
+===============================================================
+
 END RECOVERY LEDGER
