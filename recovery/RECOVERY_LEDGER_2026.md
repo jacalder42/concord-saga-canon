@@ -14322,4 +14322,20 @@ END OF ENTRY 311
 
 ===============================================================
 
+## §312 — B01 redraft end-of-book checkpoint: the author's answers to Q-EB1–4, 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/REDRAFT_END_OF_BOOK_CHECKPOINT_AUTHOR_ANSWERS_2026-09-29.md` (approved design).
+
+- **Q-EB1:** the Batiste closure form is resolved in B01, as Seraphine's choice. **Applied in E44:** after the coroner's addition and Odile's call, she saves the center's form with the date and an honest line, accepting that her account on the record does not entitle her to keep the case open. The two files stay distinct; no forgiveness; no verdict on the lapse.
+- **Q-EB2:** the sign-out's consequence continues into B02. **Applied in E41:** Denise writes it up for the file, not as her verdict, and still gives her the car.
+- **Q-EB3:** no cuts before the author's read; 120–125k is a possibility to test; judge passages by what they add, not by being quiet.
+- **Q-EB4:** the author reads the complete book before B02's prose packets. The reading copy is rebuilt with the author's four annotation questions.
+- **Recorded as design changes:** calendar C now ends about 2 May (B02's opening read as mid-May or later; no B02 brief changed); forecast A's dramatic form has changed (success and failure on the same event, Ursulines). Checked across E26, E31, E32 and E48: one story. The Act III reconciliation report's *still A's shape* is corrected.
+
+**Next:** the author's read.
+
+END OF ENTRY 312
+
+===============================================================
+
 END RECOVERY LEDGER

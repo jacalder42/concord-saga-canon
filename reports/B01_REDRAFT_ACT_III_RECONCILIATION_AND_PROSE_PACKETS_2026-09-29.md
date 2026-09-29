@@ -92,7 +92,9 @@ Marigny), with Ursulines then falsifying what it rested on. On the redraft's cal
 it, so **the technical success and the practical inadequacy fall on the same event**: Ursulines is right on the window
 and the place, and wrong on everything the page told them to watch for, on *larger*, and on the hurt it never
 counted. That is still A's shape (technical success, then practical inadequacy), and the drafted E32 already scores it
-this way. D3's *any* against *next* question also closes: with the Marigny outside the window, *the next* qualifying
+this way.
+
+**Corrected 2026-09-29 (ledger §312, `decisions/REDRAFT_END_OF_BOOK_CHECKPOINT_AUTHOR_ANSWERS_2026-09-29.md` §3.2):** *still A's shape* understated the change. The central idea is kept, but **the dramatic form has changed**: D3's version split the success and the failure across two events; the redraft puts both on Ursulines. D3's *any* against *next* question also closes: with the Marigny outside the window, *the next* qualifying
 event and *any* qualifying event are the same one.
 
 ### 2.3 What succeeded and what failed
