@@ -13109,4 +13109,26 @@ END OF ENTRY 261
 
 ===============================================================
 
+# 262. Notion Calder OS pages recovered; pressure cards and the profile amendment drafted — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records three documents written under `decisions/CALDER_COMPANIONS_AND_B01_SHAPE_AUTHOR_ANSWERS_2026-09-29.md` (Q5–Q7):
+- `recovery/CALDER_OS_NOTION_PAGES_RECOVERY_2026-09-29.md`;
+- `proposals/CHARACTER_PRESSURE_CARDS_2026-09-29.md`;
+- `proposals/WRITER_PROFILE_CHARACTER_BEHAVIOR_AMENDMENT_2026-09-29.md`.
+
+**Recovered (read-only, verbatim, Tier D):** Notion Calder OS 1.17–1.20, 1.7 *Relational Physics*, and 00.07 *Pantheon*, kept separate as the tone page (Q1).
+- 1.17–1.20 and 1.7 match their export sources exactly.
+- **The compression's drift toward resolution is confirmed.** In 1.17 the Crow becomes a melodrama-cutter, and there are no light or shadow modes, no rarity rule, and *"Conflict resolves"*. 1.18 turns *collapse* into a stabilising mode. 1.19 has *"Resolution = momentum alignment"*, and turns conflict pairs into intimacy pairs.
+- 1.7 is the most friction-friendly page (Rupture, Divergence, Suspension).
+
+**Drafted (proposals, not applied):**
+- **Pressure cards** (want, protects, misreads, when threatened), from the cards only, for Seraphine, Lucien, Baz, Caro, Elisabet, Trip and Mara. Every *want* is inferred, because no card has one. **Seraphine's card has no stress or failure field; Mara has no card.** BazID states his B03 death, which must stay out of packets.
+- **The profile amendment:** §4's empathy line scoped to the narration; §5's *"People listen"* replaced by *"People talk as themselves"*; a new §5A, *People under pressure*; the pressures added to the minimum identity context.
+
+**Running:** the three-scene controlled comparison (E24, E42, E33; arms A, B and C as the proposal sets out). The profile itself is unchanged.
+
+END OF ENTRY 262
+
+===============================================================
+
 END RECOVERY LEDGER
