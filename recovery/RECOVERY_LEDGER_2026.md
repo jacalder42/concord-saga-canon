@@ -13091,4 +13091,22 @@ END OF ENTRY 260
 
 ===============================================================
 
+# 261. The Companions questions and Q-OL1–3 answered — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `decisions/CALDER_COMPANIONS_AND_B01_SHAPE_AUTHOR_ANSWERS_2026-09-29.md`, including a forwarded ChatGPT response recorded as received.
+
+**Decided (approved design):**
+- The Pantheon is the six-guide system, and the 11-20 definitions govern.
+- **Amend the writer profile to separate narrative voice from character behavior;** repair needs its own cause and time. There is no universal *"villains refuse revision"*, and no whole-Pantheon packets.
+- Characters' pressures come first from the cards' stress behaviors and failure modes, **tested by a three-scene controlled comparison** before the profile text is approved.
+- Recover Notion 1.17–1.20, 1.7 and 00.07. The Anti-Calder is a lens for protagonists too.
+- **B01's provisional shape is about 150k,** with its architecture changes, equally provisional.
+- **Order:** instruction repair → a human read → new packets → redraft. The Veil reconciliation and B02 packets wait.
+
+**Pending:** Q-OL4, the 13 manuscript-versus-ruling conflicts, to be answered separately.
+
+END OF ENTRY 261
+
+===============================================================
+
 END RECOVERY LEDGER
