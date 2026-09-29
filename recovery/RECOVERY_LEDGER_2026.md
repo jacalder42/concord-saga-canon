@@ -13548,4 +13548,26 @@ END OF ENTRY 277
 
 ===============================================================
 
+# 278. The third-pressure proposal; one question set for the merged outline — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_THIRD_PRESSURE_AND_OUTLINE_QUESTIONS_2026-09-29.md`. The proposal quotes manuscript dialogue and is in the private manuscript repository (`draft-notes/character-pressures/THIRD_PRESSURE_PROPOSAL.md`).
+
+**Found:** B01's third pressure already exists, scattered through the outline's *Opposition* cells, with no stack line and no drift. Seraphine's stack opens on care.
+
+**Proposed:**
+- **The stack order:** want, then *Pressed by* (with a legitimate claim and its drift by act), then care as a reflex with a price, then misreads, then a shadow and a constructive response. *"Two in three"*.
+- **The drift:** friction (Act I), a will that takes and never asks (Act II), then one signature across unrelated institutions (Act III). Factions stay unnamed.
+- Lines for nine characters.
+- Four Seraphine objectives re-led, with no event moved.
+- **Lucien:** fully met in behaviour. *"Question Dominion"* is met retroactively at B02 E08. Option (b), one fact and one question to Baz, is priced.
+- **Seraphine's second want:** *her own account on the record* (recommended), with pleasure as life texture.
+
+**Reconciled:** the outline's asked question to R. conflicts with the proposal's written-and-not-sent version. The latter is recommended, as it keeps Q-AN3's reading.
+
+**For the author:** Q-MO1–5 and Q-XP1–7, one set. It replaces Q-MO1–6.
+
+END OF ENTRY 278
+
+===============================================================
+
 END RECOVERY LEDGER
