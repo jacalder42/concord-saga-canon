@@ -2,6 +2,18 @@ Status: PROPOSAL — NON-CANONICAL (Tier D until the author approves it). Drafte
 the cast-conflict pass (`reports/SAGA_CAST_CONFLICT_ARCHITECTURE_AUDIT_2026-09-29.md`, Q-CE2 step 1).
 
 > **Approved 2026-09-29 (Q-RS1–6, as recommended; approved design, not canon)** in `decisions/B01_HUMAN_READ_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-09-29.md`. The text below is unchanged.
+>
+> **Note, 2026-09-29, from the B01 redraft (Q-AC1 step 3; additive; ledger §282).** The entries cite pre-redraft B01
+> numbers. The revised B01 EBCI numbers the merged outline's pieces E00–E49. **R1 in B01**, per the approved merged
+> outline §7.1 (Q-MO1):
+> - the fracture is mended by changed behaviour inside B01: the fight is at redraft E21, and the texts lapse, then
+>   resume;
+> - **a second strain is carried out of B01:** Lucien blames Seraphine for holding his arm at the dawn stakeout (redraft
+>   E39). It is answered by cooperation at E46, not by forgiveness, and never withdrawn;
+> - so **B02 E12 inherits one unspoken blame and must not replay it as a new break.**
+>
+> **R4 enters B02** warm, with a grievance on Seraphine's side: she found Baz's column at redraft E48. **R3 enters B02**
+> with Baz's silence about Sal, below the B02 E26 trigger.
 
 # Relationship end-state register
 

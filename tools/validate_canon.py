@@ -663,6 +663,18 @@ BID_RX = re.compile(r"\b(S1\.[A-Za-z0-9.]+?)-BT([A-Za-z0-9]+)\b")
 BC_ID_RX = re.compile(r"\bBC-[A-Z0-9]+(?:-[A-Z0-9]+)*\b")
 MILESTONE_ID_RX = re.compile(r"\bM\d{2}\b")
 PACKET_NAME_RX = re.compile(r"^S1\..+\.md$")
+SUPERSEDED_DIR_PREFIX = "superseded_"
+
+
+def is_superseded(relpath):
+    """A retired packet kept for the record (Q-AC2, 2026-09-29: retired with a status line, never deleted).
+
+    It lives under a `superseded_<date>/` folder beside the live packets. It is still scanned for SID
+    format and retired terms, but it is not held to the live act bands, breadcrumb placements or beat grid,
+    which have moved on.
+    """
+    return any(p.startswith(SUPERSEDED_DIR_PREFIX)
+               for p in relpath.replace(os.sep, "/").split("/")[:-1])
 BAND_FIELDS = {"CORRIDOR": "corridor", "WEATHER": "weather", "FX": "fx"}
 TITLE_WORDS = {"dr", "director", "officer", "councilwoman", "ms", "mme", "mr", "mrs"}
 OBLIGATION_LABELS = ("Continuity:", "Protected reveals:", "Amendments applied:")
@@ -1475,7 +1487,8 @@ def main():
                 text = fh.read()
             check_sids(path, text, sidfmt, violations)
             parts = rel(path).replace(os.sep, "/").split("/")
-            if parts[0] in EBCI_DIRS and PACKET_NAME_RX.match(parts[-1]):
+            if parts[0] in EBCI_DIRS and PACKET_NAME_RX.match(parts[-1]) \
+                    and not is_superseded(rel(path)):
                 check_ebci_packet(path, text, sidfmt, vocab, violations, notices,
                                   known_cast, None, None, band_cache)
 

@@ -1362,6 +1362,12 @@ class EbciPilotChecks(unittest.TestCase):
         self.assertTrue(sid_problems("S1.T1.B01.A0.E01"))
         self.assertTrue(sid_problems("S1.T1.B01.PX.E01"))
 
+    def test_a_superseded_packet_is_kept_but_not_band_checked(self):
+        """Q-AC2 (2026-09-29): retired packets stay, under superseded_<date>/, outside the live checks."""
+        self.assertTrue(vc.is_superseded("ebci/B01/superseded_2026-09-29/S1.T1.B01.A1.E17.md"))
+        self.assertFalse(vc.is_superseded("ebci/B01/S1.T1.B01.A1.E15.md"))
+        self.assertFalse(vc.is_superseded("ebci/superseded_notes.md"))
+
     def test_ebci_is_scanned_and_held_to_canon_scope(self):
         self.assertIn("ebci", vc.EBCI_DIRS)
         self.assertNotIn("ebci", vc.PROSE_DIRS)

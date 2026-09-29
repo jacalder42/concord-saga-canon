@@ -127,6 +127,26 @@ Fun: {none | light | strong} · Slice of life: {…} · Wonder: {…}
 ### Notes
 ```
 
+## The B01 redraft fields (2026-09-29)
+
+Added for the revised B01 EBCI, the one source of the ~150k redraft's prose packets (Q-AC2,
+`decisions/REDRAFT_ORDER_SOURCE_AND_THIRD_PRESSURE_AUTHOR_ANSWERS_2026-09-29.md`). They carry the approved merged
+outline's rows into the Narrative Brief, so that prose packets, which derive from the brief alone, receive them. **The
+skeleton above is otherwise unchanged; earlier packets are not retrofitted.**
+
+- **Header:** `Length: about {n} words` (Q-IT2d).
+- **Narrative brief:** a `Conflict:` block after *Want* (the preflight Q3 conflict brief, restored by Q-IT4), with:
+  - `Objective`, `Opposition` (**whose will** first), `Turn`, `Consequence`, `Unresolved`;
+  - **`Pressed by`**: the external pressure on the POV character as it stands. It gives the source's authority, stated
+    justification and whose interests it serves, and its drift. There are no faction names, and ordinary people keep
+    their own motives (Q-XP2 as amended, `decisions/THIRD_PRESSURE_REVISED_SET_AUTHOR_ANSWERS_2026-09-29.md`).
+- **`Exit conditions`** replace *Exit state*: facts only (Q-IT2b). **No field requires a repair** (Q-IT2a).
+- **Control layer:**
+  - `Engine:` under *Obligations*, listing the clues, surface rules (with epistemic status), wrong theories and trace
+    guards the piece carries;
+  - a `### Sign-off` section with Q-CE5 and Q-EN8, and the author's test: *the choice in this piece → its consequence*.
+    Control-only; never passed to prose.
+
 ## Machine checks
 
 `tools/validate_canon.py` checks every packet in `ebci/` and every row of `grids/episode_beats.csv`:
