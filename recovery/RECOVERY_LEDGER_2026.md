@@ -13068,4 +13068,27 @@ END OF ENTRY 259
 
 ===============================================================
 
+# 260. B01 tiered structural outlines — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/B01_TIERED_STRUCTURAL_OUTLINES_2026-09-29.md`. The outlines and foundations are in the private manuscript repository (`draft-notes/b01-structural-outlines/`). They are proposals; nothing is changed.
+
+**Done:**
+- **An obligations list:** 79 obligations (15 ruled, 60 approved, 4 derived), with **13 conflicts between the manuscript and the rulings**. Among them: the child is named against the Mira ruling's *"stays unnamed"*; Lacuna's cameo has become a named, recurring bassist; Elisabet is resident; E48's carry-one sits against the ruled D6.
+- **A conflict audit:** opposing wants already on the page (Renée with the coroner's file; the city; Baz's clean witnesses). None needs a new person.
+- **Nested 120k/150k/180k tiers, and an independent 120k.**
+- **Both designers choose about 150k,** with the same spine: the coroner's form as one contested object; Renée returns twice, unforgiving; Lucien's true sentence goes to the coroner; Baz dissents in writing; Mrs. Arceneaux's grievance stands.
+
+**Claude's checks:**
+- The spine meets every obligation.
+- Part of the convergence is inherited from the shared audit.
+- **The 150k outline's "75k of duplicated function" is wrong.** The map measured about 7,300; the rest is pace.
+- Every tier needs architecture changes and is a second draft.
+- Without the Calder Companions questions answered first (ledger §259), a redraft risks the same contest of consideration.
+
+**For the author, Q-OL1–4:** about 150k as a provisional shape; the order (Companions questions → human read → new packets → redraft; the Veil reconciliation and B02 packets wait); architecture changes only with a tier; rule the 13 conflicts now (the child's name and D6/T7 are the author's).
+
+END OF ENTRY 260
+
+===============================================================
+
 END RECOVERY LEDGER
