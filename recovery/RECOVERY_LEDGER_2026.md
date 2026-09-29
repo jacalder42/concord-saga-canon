@@ -13253,4 +13253,42 @@ END OF ENTRY 267
 
 ===============================================================
 
+# 268. Saga cast-conflict architecture audit — 2026-09-29
+
+**Status:** LEDGER ENTRY. Records `reports/SAGA_CAST_CONFLICT_ARCHITECTURE_AUDIT_2026-09-29.md` and its four detailed audits (`reports/SAGA_CAST_CONFLICT_AUDIT_{FOUNDATIONS,VEIL_B02_B03,NEON_B04_B06,LOOM_B07_B09}_2026-09-29.md`). The author asked whether the episode beats need revising with the Calder Companions and the conflict engine, and warned against a saga *"laid out based on perfect people providing perfect care"*. **A prose discovery, so saga-scale architecture work reopens** (Q-LS1).
+
+Separately, a mobile reading file for the author's human read was built and delivered. It is in the private manuscript repository (`draft-notes/human-read/`).
+
+**Found:**
+- **The world has stakes; the cast is a care collective.** Veil's civic spine, Neon's institutions and Loom's Lacuna–Kade line and finale carry real opposition.
+- **Lasting collisions between protagonists:** B02 2, B03 0, B04 1, B05 0, B06 1; Loom's crew 0, 0, 1.
+- Errors that cost others fall to Lucien (Veil), Seraphine (B04 E21, converted to a lesson), Tahl and Kade only.
+- **No protagonist bond ends in Divergence or Rupture** except by death.
+- **Causes:**
+  - no card has a Wants field;
+  - each core card's Hard Rule turns its flaw into care;
+  - every designed strain has a designed repair;
+  - opposition runs protagonist against antagonist only;
+  - Loom has one volatile person and eight regulators;
+  - **the packets' Change and Exit fields prescribe the repairs**, so the prose fix cannot reach them.
+- **The profile dropped the author's *"colored equally"*.**
+- No ruled row has to change. About a third of the fix is prose-level, two-thirds beat-level.
+
+**Proposals on file:** 11 foundations, 16 Veil, 24 Neon, 21 Loom.
+
+**For the author, Q-CE1–7:**
+- a targeted pass;
+- order: foundations (register, Wants lines), then Veil beats and packet sweep, then Neon and Loom before their EBCI;
+- canon cards later, as the author's edits;
+- the reading of *"no blame, just inference"*;
+- sign-off questions, not quotas;
+- restore *"equally"*;
+- start the foundations in parallel with the human read.
+
+**Not changed:** beats, packets, cards, grids, rulings, the manuscript.
+
+END OF ENTRY 268
+
+===============================================================
+
 END RECOVERY LEDGER
