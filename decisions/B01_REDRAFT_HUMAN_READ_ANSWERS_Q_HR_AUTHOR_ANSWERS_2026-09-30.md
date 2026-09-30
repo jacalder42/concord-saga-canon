@@ -157,3 +157,24 @@ parishes around the city. **It covers both of his official contacts:**
 - the city (the line, the table, the pump station).
 
 **The names are drafted** as options for Q-HR7 in `proposals/B01_NAMES_OPTIONS_Q_HR7_2026-09-30.md`.
+
+## 9. Addendum: Q-HR7 answered (author, 2026-09-30)
+
+> *"All as recommended"* (to `proposals/B01_NAMES_OPTIONS_Q_HR7_2026-09-30.md`).
+
+**Ruled names:**
+
+| What | Name |
+| --- | --- |
+| **Mara's new first name** (cast row A01) | **Inez**. *Mara* becomes a retired alias for A01 only. **G08 Mara Niht is unaffected** |
+| **Seraphine's workplace** | **The Beaulieu Center for Family Services**, *the center* in use |
+| **Lucien's cover** | **The Hollen Institute for Civic Continuity**, Vienna, his employer on the form, running **the Regional Review of Unexpected Public Costs** |
+
+**The real-world check was run before adoption.** Web searches found **no real organization** by any of the three names.
+- One faint echo: *Hollen* is close to *Hollein*, as in Hans Hollein, the Viennese architect.
+- It is an association, not a collision. It is noted in case the author prefers another spelling.
+
+**When it applies.** Per §3, **the cast registry, the retired-alias list and every packet that carries these names
+change together, when the revision's packets are built.** Until then:
+- the B01 redraft, the EBCI and the B02 and B03 packets still say *Mara* and *the center*;
+- the validator's POV check reads the registry, so the registry and the packets must change in one step.

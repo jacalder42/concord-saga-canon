@@ -14673,4 +14673,20 @@ END OF ENTRY 328
 
 ===============================================================
 
+## §329 — B01 redraft: Q-HR7 answered, names ruled, 2026-09-30
+
+**Status:** LEDGER ENTRY. Appends §9 to `decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md`. The author: *"All as recommended."*
+
+- **Ruled names:**
+  - **Inez** is Mara's new first name (A01 only; G08 Mara Niht is unaffected);
+  - **the Beaulieu Center for Family Services** is Seraphine's workplace (*the center*);
+  - **the Hollen Institute for Civic Continuity** (Vienna) is Lucien's cover employer, running **the Regional Review of Unexpected Public Costs**.
+- **Real-world check:** web searches found no real organization by these names. One faint echo, *Hollen* / Hans Hollein (the Viennese architect), is noted.
+- **When the rename lands:** the registry, the retired-alias row and the packets change together at the revision's packet build, because the POV check reads the registry. Nothing is renamed yet.
+- **No manuscript edits during the read.**
+
+END OF ENTRY 329
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -4,6 +4,8 @@
 **Status:** PROPOSAL, non-canonical. These are options for the author to choose from. **Nothing is named until he
 chooses.**
 
+**Answered 2026-09-30: all as recommended** (`decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md` §9). The names are Inez, the Beaulieu Center for Family Services, and the Hollen Institute for Civic Continuity running the Regional Review of Unexpected Public Costs.
+
 **What it answers.** Q-HR7 in `decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md`, with the
 direction the author gave there:
 - Seraphine's workplace gets an institutional name, shortened in use to *the center*;
