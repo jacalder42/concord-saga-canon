@@ -14621,4 +14621,20 @@ END OF ENTRY 325
 
 ===============================================================
 
+## §326 — B01 redraft: the *None*'s hint, by the author, 2026-09-30
+
+**Status:** LEDGER ENTRY. Appends §6 to `decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md`.
+
+- **The author's answer to "the one thing to weigh":** Lucien's **breath hitches** when he writes or confirms the *None*, hinting at his discomfort with the falsehood. This is approved design; it is the Q-HR5c hint.
+- **What it settles:**
+  - Seraphine does not react aloud or learn of the *None* early;
+  - A1's later discovery stands.
+- **Placement at the revision:** E04 (writing it, alone) or E10 (signing it again in front of Guidry).
+- **A working note:** the hitch hints, and the form's clear question carries the meaning (profile §12 on stock tells).
+- **No manuscript edits during the read.**
+
+END OF ENTRY 326
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -86,3 +86,22 @@ from Lucien and the page, not from her.
 | --- | --- | --- |
 | **Q-HR6** | **Why is Lucien on the coroner's contract list?** | **The timber brief is his cover. The contract list is his real assignment's doing.** The Dominion's observation posting has him put his name where the city's unusual incidents are recorded, which is where a coroner's contract inspector gets sent. This makes the inspection at the house where Dré died the assignment working, not a coincidence. It also gives the *None* a second motive: writing down his own episode would put him on record at exactly the kind of incident he was sent to watch quietly. That connects to E38's *keep a low profile*. **It decides what the Dominion sent him to observe**, within B1's *"observation posting"* and *"Virelli knows NOLA only as a case file"* |
 | **Q-HR7** | **Names.** (a) The center's institutional name. (b) Mara's new first name | **The author's to choose.** Options can be offered on request. Both should be fictional and checked against the cast registry for clashes |
+
+## 6. Addendum: the *None*'s hint (author, 2026-09-30)
+
+> *"In response to your 'one thing to weigh' - I think Lucien could have hitched in his breathing, hinting at his
+> discomfort with the falsehood."*
+
+**Accepted as the Q-HR5c hint (approved design).** When he writes the *None*, or confirms it, **Lucien's breath hitches.**
+It is a small physical sign of his discomfort with the falsehood.
+
+**It resolves "the one thing to weigh":**
+- **Seraphine does not react aloud and does not learn of the *None* early.**
+- **A1's later discovery stands.**
+
+**Placement, at the revision:**
+- **E04**, where he writes it alone in the truck; or
+- **E10**, where he signs it a second time at Guidry's counter, in front of a witness who could notice.
+
+**It works as a hint, not as the whole of the moment.** Profile §12 warns against stock physical tells doing all the
+emotional work. The form's question must still be clear (Q-HR5c) for the hitch to point at something.
