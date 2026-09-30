@@ -14637,4 +14637,22 @@ END OF ENTRY 326
 
 ===============================================================
 
+## §327 — B01 redraft: the hint in two steps, and Lucien's cover as a parish review (author), 2026-09-30
+
+**Status:** LEDGER ENTRY. Appends §7 to `decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md`.
+
+- **The *None*'s hint, in two steps (approved design):**
+  - E04: a hitch or sigh as he writes it, showing only that he is uncomfortable;
+  - E10: a further hint showing what he is uncomfortable with.
+- **Q-HR6, the author's lean:** the cover is **work helping the parish review unexpected costs and events**, a plausible reason to be at a child's death for the coroner. **The timber becomes his expertise and his work with Sal, not his brief.** It replaces the earlier recommendation, which is withdrawn.
+- **Why it fits:** the page's phrase for his brief (*the relation between what was recorded and what was done*), his canon card (*civic … systems bureau*) and the Dominion's observation posting.
+- **Q-HR6a, open:**
+  - the camp is past the parish line, but Lucien's other institutional contacts are the city's;
+  - so the commissioner is either the neighbouring parish alone or a regional, multi-parish review.
+- **Q-HR7 (names) stays open. No manuscript edits during the read.**
+
+END OF ENTRY 327
+
+===============================================================
+
 END RECOVERY LEDGER

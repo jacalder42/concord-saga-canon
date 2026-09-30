@@ -105,3 +105,44 @@ It is a small physical sign of his discomfort with the falsehood.
 
 **It works as a hint, not as the whole of the moment.** Profile §12 warns against stock physical tells doing all the
 emotional work. The form's question must still be clear (Q-HR5c) for the hitch to point at something.
+
+## 7. Addendum: the hint in two steps, and Q-HR6 (author, 2026-09-30)
+
+> *"I think the hitch or sigh alone could make it clear he's uncomfortable with something. E10 could give a further hint
+> letting the reader what Lucien is uncomfortable with.*
+> *Q-hr6 - it seems difficult to resolve a timber study and the coroner's report. Unless Renee home is included in the
+> area of study and he is reviewing all municipal costs associated with the timber area (which help link in swamp stuff
+> later), but that still feels like a tenuous link. Perhaps his cover is helping the Parish review unexpected costs /
+> events, which makes a more plausible connection to the death, and the timber can still be woven in…?"*
+
+**The hint, in two steps (approved design; refines §6):**
+- **E04:** a hitch or a sigh as he writes the *None*. It says only that he is uncomfortable with something.
+- **E10:** a further hint that tells the reader **what** he is uncomfortable with, when he confirms it at Guidry's
+  counter.
+
+**Q-HR6: the author's direction, as a lean.**
+- **The cover is work helping the parish review unexpected costs and events.** That gives him a plausible reason to
+  inspect the house where a child died, for the coroner. The timber study stops being his brief.
+- **The timber is woven in instead:**
+  - as his professional expertise, which is why the review sends a structural engineer;
+  - through his hands-on work with Sal.
+- **What it replaces:** the recommendation in §5, which kept the timber brief as the cover and tied the coroner list to
+  the Dominion. That recommendation is withdrawn.
+- **What it fits:**
+  - the page's own phrase for his brief, *the relation between what was recorded and what was done*, which reads
+    naturally as a review of costs against events;
+  - Lucien's canon card (*a structural analyst within a civic … systems bureau*);
+  - the Dominion's observation posting (B1). A review of a parish's unexpected events is a legitimate way to see every
+    unusual incident, which is what the Dominion wants watched.
+
+**One check for the revision: which authority commissions the review.**
+- **The camp is past the parish line.** Guidry is a neighbouring parish's coroner (E04, E10).
+- **Lucien's other institutional contacts in B01 are the city's:**
+  - the city's line and letters;
+  - the city's table (E21);
+  - the pump station (E24).
+- **So there are two possible commissioners:**
+  - **the neighbouring parish alone**, which puts his city contacts outside his cover;
+  - **a regional review across the parishes around the city**, which covers both.
+
+**This is left to the author** (Q-HR6a). The cover organization's name stays Q-HR7.
