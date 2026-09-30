@@ -14499,4 +14499,21 @@ END OF ENTRY 320
 
 ===============================================================
 
+## §321 — B01 redraft: projected edits, gathered for the author's read, 2026-09-30
+
+**Status:** LEDGER ENTRY. Records a private working summary (manuscript `draft-notes/revision/PROJECTED_EDITS.md` and `.html`), written at the author's request for review during his human read and his listen through ElevenReader.
+
+- **What it gathers:** every edit projected so far (§313–§320), tiered and then listed chapter by chapter:
+  - **10 verified fixes** (F1–F10), including four fact-checks;
+  - **9 additions** needing a yes (A1–A9): the *None* on the page in two beats (E39 and after the gate), the Ursulines decision, five causal links, one positive rule, a romance through-line inside the ceiling, an opening in the official wall, jeopardy for a lead, one prologue interlude, field-notes supplements. About +8–12k words, landing near 150k;
+  - **4 passes:** rest placement and the form of recovery, repeated shapes, restated meaning, phone length;
+  - **the threads to decide:** 9 promises, 7 clues, with texture left alone;
+  - **the refusals;**
+  - **the author's decisions:** Q-P45-1–12 and Q-PL1–3.
+- **Nothing is decided and nothing is edited.** It becomes the consolidated revision list (§316) after the author's read. It quotes no manuscript text in this repository.
+
+END OF ENTRY 321
+
+===============================================================
+
 END RECOVERY LEDGER
