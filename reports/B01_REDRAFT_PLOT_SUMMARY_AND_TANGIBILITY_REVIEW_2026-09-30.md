@@ -194,3 +194,16 @@ These join the one consolidated revision list (§316) and the 4.5 plan (Q-P45-1�
 **The one thing to take from this review:** readers can follow the book and want to continue, but at the end they can
 name no opponent and no result on the mystery. **A plan-by-plan spine, with an opposition that pushes on each plan, is
 the most direct fix.** Most of it can be built from what is already on the page.
+
+## 8. Correction (2026-09-30, ledger §320)
+
+A forwarded review and a bounded causal trace correct this report
+(`reports/B01_REDRAFT_PLOT_REVIEW_RECONCILIATION_AND_CAUSAL_TRACE_2026-09-30.md`):
+- **§2's headline, *thin on plot spine*, overstates the evidence.** B01 has several connected plots whose governing
+  objective does not stay visible at every join.
+- **§3.4 is corrected:** E39's disclosure is summarized, but Seraphine's reaction is dramatized. The *None* and the
+  Ursulines decision are absent.
+- **§4 is corrected:** the glass notice is explained later (E36), not a slip.
+- **§5 is corrected:** E09/E10 and E10/E25 are ambiguous phrasing, not contradictions.
+- **Q-PL1–3 are replaced** by the revised set in that report's §5. The counts here are diagnostic labels, not
+  measurements.

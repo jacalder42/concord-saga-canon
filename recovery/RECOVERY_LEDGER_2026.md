@@ -14475,4 +14475,28 @@ END OF ENTRY 319
 
 ===============================================================
 
+## §320 — B01 redraft: the plot review reconciled, and a bounded causal trace, 2026-09-30
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_PLOT_REVIEW_RECONCILIATION_AND_CAUSAL_TRACE_2026-09-30.md`, a correction appended to the §319 report (its §8), and two private files (manuscript `draft-notes/plot-review/CAUSAL_TRACE.md` and `DISCLOSURES_AND_TIMELINE_CHECK.md`).
+
+- **A forwarded review of §319:** *"the book lacks a plot spine" is stronger than the evidence*; the book has several connected plots whose governing objective may not stay visible. It asks for *"a bounded causal review, not yet approve all three revision proposals."* Every point holds and is accepted.
+- **Causal trace (manuscript only):**
+  - *Can they protect people?* is Seraphine's line and her atonement, **not the book's governing question as written**.
+  - calls → page: loose; page → trap: causal as events, sequential as protection; trap → gathering: sequential (the gathering comes from E40–E41); gathering → tins: causal for water, loose as protection.
+  - **The trap is Lucien's divergence** (knowledge-seeking, costing Sal and Seraphine). A strength; not to be recast as care.
+  - Five minimal gaps, each a line or beat.
+- **Disclosures:**
+  - Seraphine learning Lucien's *None* is **ABSENT**. Her E48 nod at *my letter* is a continuity gap.
+  - E39's chain is summarized, with her reaction **dramatized**; §319 corrected.
+  - The Ursulines decision is **ABSENT** (implied, then reported as fact at E34).
+- **The glass notice is EXPLAINED-LATER** by E36's six-week tickets; not a slip, and not to become enemy foreknowledge.
+- **E10 and E09/E10 are ambiguous phrasing,** not contradictions.
+- **The 24 threads, reclassified:** 9 promises, 7 clues, 7 intentional texture. Texture needs nothing.
+- **Q-PL1–3 revised:** keep the plots plural and close the five gaps; decide the promises and clues only; clarity fixes with no new plot obligation. All after the author's read.
+- **No manuscript edits during the author's read.**
+
+END OF ENTRY 320
+
+===============================================================
+
 END RECOVERY LEDGER
