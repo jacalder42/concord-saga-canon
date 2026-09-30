@@ -14655,4 +14655,22 @@ END OF ENTRY 327
 
 ===============================================================
 
+## §328 — B01 redraft: Q-HR6a answered (regional); Q-HR7 name options drafted, 2026-09-30
+
+**Status:** LEDGER ENTRY. Appends §8 to `decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md`, and adds `proposals/B01_NAMES_OPTIONS_Q_HR7_2026-09-30.md` (PROPOSAL).
+
+- **Q-HR6a, answered** (author: *"Regional gives us more flexibility and better cover for him"*): Lucien's cover is a regional, multi-parish review of unexpected costs and events. It covers both the neighboring parish's coroner and the city.
+- **Q-HR7 options, each checked clean** against the cast registry, the held and retired lists, `canon/`, `ebci/`, the canon repo and the B01 redraft:
+  - **Mara's new first name:** Inez (recommended), Ernestine, Winifred, Geraldine, Hortense;
+  - **the center:** the Beaulieu Center for Family Services (recommended), Esplanade, Tri-Parish;
+  - **Lucien's cover:** the Hollen Institute for Civic Continuity, Vienna, running the Regional Review of Unexpected Public Costs (recommended), Meridian Public Risk, or the Halvard Foundation for Urban Resilience.
+  - Four candidates were dropped as already in use.
+  - A real-world check of the chosen organization names is due before adoption.
+- **A verified factual slip found:** the redraft says *the county* about ten times (E02, E09, E12, E21, E37). Louisiana has parishes. It is added to the correction list for after the read.
+- **No manuscript edits during the read.**
+
+END OF ENTRY 328
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -146,3 +146,14 @@ emotional work. The form's question must still be clear (Q-HR5c) for the hitch t
   - **a regional review across the parishes around the city**, which covers both.
 
 **This is left to the author** (Q-HR6a). The cover organization's name stays Q-HR7.
+
+## 8. Addendum: Q-HR6a answered (author, 2026-09-30)
+
+> *"Regional gives us more flexibility and better cover for him."*
+
+**Answered (approved design).** Lucien's cover is a **regional** review of unexpected costs and events across the
+parishes around the city. **It covers both of his official contacts:**
+- the neighboring parish's coroner (the camp);
+- the city (the line, the table, the pump station).
+
+**The names are drafted** as options for Q-HR7 in `proposals/B01_NAMES_OPTIONS_Q_HR7_2026-09-30.md`.
