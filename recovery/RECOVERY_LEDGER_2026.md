@@ -14416,4 +14416,20 @@ END OF ENTRY 316
 
 ===============================================================
 
+## §317 — Sudowrite review scope: chapter level only (author instruction), 2026-09-30
+
+**Status:** LEDGER ENTRY. Records `decisions/SUDOWRITE_REVIEW_SCOPE_AUTHOR_INSTRUCTION_2026-09-30.md`.
+
+- **The author:** *"I think this shows that sudowrite should only review at a chapter level."* It follows §316.
+- **Operational reading** (the author may amend it):
+  - Sudowrite feedback is gathered one chapter at a time.
+  - It is weighed only for what lies inside that chapter: mechanics, dramatized versus summarized, explanation tails, clarity, and plausibility flags (which go to a fact-check).
+  - It is not evidence for cross-chapter continuity, pacing, chapter endings, book-level promises or repetition. Any such claim is checked against the manuscript and becomes at most a salience question.
+  - Book-level reading stays with sequential whole-book readers, the author's first.
+- **Nothing else changes.** No manuscript edits during the author's read.
+
+END OF ENTRY 317
+
+===============================================================
+
 END RECOVERY LEDGER
