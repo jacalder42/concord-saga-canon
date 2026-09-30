@@ -14448,4 +14448,31 @@ END OF ENTRY 318
 
 ===============================================================
 
+## §319 — B01 redraft: plot summaries and story tangibility review, 2026-09-30
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_PLOT_SUMMARY_AND_TANGIBILITY_REVIEW_2026-09-30.md`. The summaries and chapter cards are private (manuscript `draft-notes/plot-review/`: `SUMMARIES.md`, `ACT_I_CHAPTERS.md`, `ACT_II_CHAPTERS.md`, `ACT_III_CHAPTERS.md`).
+
+- **The author's request, while he reads by hand:** *"I wonder if we are thin on Plot."* He asked for a one-page book summary, act summaries and chapter summaries, and a *"story tangibleness review"* asking a fifth grader's questions.
+- **The method:** three readers, one per act, in order, reading only the manuscript. Each wrote a card per chapter before reading the next (who did what to whom, why, what changed, why care, plot event, noticeability, and good or confusing questions). They produced a threads ledger and an end-of-book fifth-grader test.
+- **The finding: not thin on events, thin on plot spine.**
+  - 35 of 50 chapters carry a real plot event.
+  - The fifth-grader questions are 96 good against 20 confusing.
+  - Of 77 threads, 13 end unclear and 11 dropped.
+  - At the end the fifth grader names no opponent (*"nobody with a face"*) and no result on the mystery.
+  - The story question changes every act; only the folder runs start to finish, and it is quiet from E11 to E43 except E21 and E25.
+  - The plot is tangible where the crew has a plan with a test (the page, the trap, the gathering). Act I has no plan until E12 and E15.
+  - The opposition acts but never wants anything nameable, and never pushes on a plan.
+  - Three decisive turns are off the page.
+- **Verified against the manuscript:**
+  - E09 and E10 read as a contradiction about Renée asking;
+  - E10's *closed the file* reads against E25;
+  - the city's glass notice appears before any glass event (E32);
+  - clues that are present but easy to miss are listed.
+- **Three questions for after the read:** Q-PL1 (a plan-by-plan spine that B01 can answer; candidate: *can they protect people from it*); Q-PL2 (the 24 unclear or dropped threads); Q-PL3 (the verified confusions). They join the consolidated revision list.
+- **No manuscript edits during the author's read.**
+
+END OF ENTRY 319
+
+===============================================================
+
 END RECOVERY LEDGER
