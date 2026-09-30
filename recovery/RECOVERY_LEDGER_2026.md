@@ -14432,4 +14432,20 @@ END OF ENTRY 317
 
 ===============================================================
 
+## §318 — Sudowrite review scope: the author's context note, 2026-09-30
+
+**Status:** LEDGER ENTRY. Appends §3 to `decisions/SUDOWRITE_REVIEW_SCOPE_AUTHOR_INSTRUCTION_2026-09-30.md` and §8 to `reports/B01_REDRAFT_SUDOWRITE_BETA_COMMENTS_REVIEW_2026-09-30.md`.
+
+- **The author:** the Sudowrite read was blind, with *"Nothing in story bible, etc. Just the whole manuscript dumped into one window. So it may have better utility for reading when used more fully."*
+- **What this changes:**
+  - §316's findings are recorded as describing that configuration, not the tool's ceiling.
+  - The chapter-level scope stands for blind runs.
+  - A fuller configuration may earn a wider scope if its cross-chapter claims check out against the manuscript.
+  - Any story bible is filled from prose-facing material only (writer profile, identity context, packets, earlier *Ends*), never raw EBCI, canon or recovery.
+- **No manuscript edits during the author's read.**
+
+END OF ENTRY 318
+
+===============================================================
+
 END RECOVERY LEDGER

@@ -148,3 +148,10 @@ The 4.5 plan's levers and the questions Q-P45-1–12 are that list's middle and 
 **No new question is added.** This review refines Q-P45-1 (E39 as the first beat) and adds five fact-check items to
 Q-P45-12. **Neither changes any recommendation's scale:** no structural overhaul and no word-count target, as ChatGPT
 also says.
+
+## 8. Addendum: how the read was run (author, 2026-09-30, ledger §318)
+
+The author notes that this was a **blind** read: no story bible, with the whole manuscript in one window. §2's
+"consistent with passage-by-passage processing" and §3's missing memory should be read as findings about **that
+configuration**, not about what Sudowrite can do when set up fully. The scope instruction
+(`decisions/SUDOWRITE_REVIEW_SCOPE_AUTHOR_INSTRUCTION_2026-09-30.md` §3) now records this.

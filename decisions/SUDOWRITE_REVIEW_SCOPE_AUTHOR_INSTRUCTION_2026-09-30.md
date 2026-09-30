@@ -39,3 +39,22 @@ This is the operational reading of the instruction. The author may amend it.
    - the author's own read, first;
    - our simulated panels (ledger §313);
    - ChatGPT's sequential readers (ledger §315).
+
+## 3. Context added by the author (same day)
+
+> As a note, this was a blind read for sudowrite. Nothing in story bible, etc. Just the whole manuscript dumped into one
+> window. So it may have better utility for reading when used more fully.
+
+**What this changes:**
+- **The §316 findings describe that configuration, not the tool's ceiling.** The whole manuscript was in one window, with
+  no story bible and no chapter structure. The false continuity claims and the missing book-level view may come from
+  that set-up.
+- **The chapter-level scope stands for blind runs like this one.** A fuller configuration may earn a wider scope. It is
+  judged the same way: **check its cross-chapter claims against the manuscript**, and widen the scope only if they hold.
+- **If a story bible is populated,** fill it from prose-facing material only:
+  - the writer profile;
+  - identity context;
+  - the chapter's prose packet and earlier *Ends*.
+
+  It should not be filled from raw EBCI, canon or recovery material. Sudowrite's generation features read the story bible
+  too, and the rule against feeding those to prose generation (CLAUDE.md §9, item 6) applies.
