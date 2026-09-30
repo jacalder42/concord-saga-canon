@@ -14591,4 +14591,34 @@ END OF ENTRY 324
 
 ===============================================================
 
+## §325 — B01 redraft: the author's answers to Q-HR1–5, 2026-09-30
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md` (author ruling; approved design for the post-read revision). The author held his answers, then released them. **No manuscript text is edited; the read continues.**
+
+- **Q-HR1:** the contrast-construction family is kept only where the rejected alternative is expected or the contrast changes the meaning. **Applied now** to writer profile §12, widening the existing *"it wasn't X, it was Y"* line.
+- **Q-HR2:** E00's presences get behavioural clues and return slightly more engaged, intrigued by something happening. They **may be named or may speak to each other**, which amends the prologue packet's no-names guard. Placement is the book's last beat or just before the last chapter, whichever fits.
+- **Q-HR3:** Renée is the mother. Her grief is made believable (the author: *"almost unbelievable"* as it stands). The renewal is forgotten in the emergency, and Odile's CPR line reminds Seraphine. She raises it with Odile in a later phone call (E09).
+- **Q-HR4:**
+  - the center gets an institutional name;
+  - Trip's E03 line is fixed;
+  - **Mara (A01) is renamed.** The new name is not yet chosen, and the registry is unchanged until it is.
+- **Q-HR5a–d:**
+  - **Lucien is with the Dominion under a Dominion-supplied cover organization.** This amends A4's *legitimate bureau* and answers B1's open cover form;
+  - the cover name and the *None* sit in separate fields on the form;
+  - the *None* is made legible, and the page hints that it matters;
+  - his point of view may think about the cover, more as he grows closer to Seraphine. This amends the entry state's *not a field agent* and the overlays' no-distrust rule, as far as the cover needs.
+- **A1 stays as designed:** Seraphine still discovers the *None* later.
+- **Deferred to the revision's packet build:**
+  - A01's registry row and its alias;
+  - B01's entry state;
+  - the overlays' forbidden shortcuts;
+  - the affected packets.
+- **New questions:**
+  - **Q-HR6:** why Lucien is on the coroner's contract list. The author finds the timber-brief link unclear. Recommended: the brief is the cover, and the list is the Dominion assignment's doing;
+  - **Q-HR7:** the center's name and Mara's new name.
+
+END OF ENTRY 325
+
+===============================================================
+
 END RECOVERY LEDGER
