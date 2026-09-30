@@ -14544,4 +14544,25 @@ END OF ENTRY 322
 
 ===============================================================
 
+## §323 — B01 redraft: the author's first human-read notes (E00–E12), recorded and checked, 2026-09-30
+
+**Status:** LEDGER ENTRY. Records author notes (`decisions/B01_REDRAFT_HUMAN_READ_NOTES_E00_E12_AUTHOR_NOTES_2026-09-30.md`, not rulings) and their check (`reports/B01_REDRAFT_HUMAN_READ_NOTES_E00_E12_CHECK_2026-09-30.md`). **No manuscript text is edited during the read.** Nothing is quoted from the manuscript.
+
+- **Four directions for the revision after the read:**
+  - fewer *she X, not Y* sentences. About 170 pattern candidates; added now to `ebci/prose/REVIEW_WATCHLIST.md`, which is review side only;
+  - E00's two presences get behavioural clues to who they are (him, silence; her, hope), not names, and reprise before B01 ends. This settles most of Q-P45-7 (A8);
+  - E01's mother grieves visibly. Seraphine keeps the renewal in her car and raises it with Odile later, which reverses the E01 step scene of §292–§293;
+  - Seraphine's workplace gets a name, and no boss is named Mara.
+- **One proposal:** Lucien's *None* is the wrong word; perhaps a fictitious employer; the Dominion is exposed later; Technarc is felt but unnamed in B01.
+- **The check finds:**
+  - **Her boss is already Denise.** The Mara confusion comes from Trip's E03 line, which names Mara before Mara appears. Separately, Mara (A01), Mara Niht (G08) and Mira (L01) are a real saga-level name clash.
+  - **Most of note 5 is already approved design:** the Dominion sent Lucien (B1, A4); B01's *upstairs* is revealed as the Dominion at B02 E08 (BC-FILE-UPSTAIRS); Technarc is felt and recognized at B02 E13 (BC-TECHNARC-KIT).
+  - **New would be** a name for his employer in B01, which would amend the B01 overlays' no-organisation rule and the E04/E10 guards, and a different object for the lie. A1 and the E36/E48 payoffs rest on the lie being about the room.
+  - **A housekeeping flag, not changed:** B01's entry state still reads *"who sent him … is OPEN"*, which is stale against B1 and A4.
+- **Q-HR1–5 await the author.**
+
+END OF ENTRY 323
+
+===============================================================
+
 END RECOVERY LEDGER

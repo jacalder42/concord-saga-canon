@@ -109,3 +109,12 @@ The source is the author's own read of B01 (`decisions/B01_HUMAN_READ_AND_FOUNDA
   risk something, or only receive?
 - **Is a time, a count or a tally doing the work of an action?**
 
+
+## Added after the author's read of the redraft (2026-09-30)
+
+The source is the author's first read notes on the redraft
+(`decisions/B01_REDRAFT_HUMAN_READ_NOTES_E00_E12_AUTHOR_NOTES_2026-09-30.md`, note 1). It is a question, as above.
+
+- **Is a *this, not that* correction doing the work?** For example, *she X, not Y*, *not X but Y*, or *Not X.* on its
+  own. The author: *"useful for important or unexpected items, but … used too commonly and reads as an ai trope."* Keep
+  it where the contrast is itself the news; elsewhere, state the thing.
