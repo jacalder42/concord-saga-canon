@@ -14565,4 +14565,30 @@ END OF ENTRY 323
 
 ===============================================================
 
+## §324 — B01 redraft read notes: the author's clarifications, and ChatGPT's replies checked, 2026-09-30
+
+**Status:** LEDGER ENTRY. Appends §5 to `decisions/B01_REDRAFT_HUMAN_READ_NOTES_E00_E12_AUTHOR_NOTES_2026-09-30.md` and §7 to `reports/B01_REDRAFT_HUMAN_READ_NOTES_E00_E12_CHECK_2026-09-30.md`. No manuscript text is edited or quoted.
+
+- **The author's clarifications:**
+  - **Mara:** her introduction and role are unclear, and later her name as well.
+  - **The renewal:** it is forgotten in the emergency, not hidden. Odile's line during the resuscitation reminds her, and what she says or withholds afterward is the choice.
+  - **Lucien:** he is with the Dominion, on its assignment, and **the fictitious organization is his Dominion-supplied cover.** This amends A4's *legitimate bureau*, awaiting confirmation. **He read *None* as answering who reviewed the scene.**
+- **Verified clarity defect:** E10 refers to the *None*'s line only as the one *that included the inspector*, which reads as a reviewer field. **The page never names Lucien's office;** E24 gives its name off the page.
+- **ChatGPT's replies are checked:**
+  - **Hold:**
+    - the pattern pass widened to *not because*, *not quite* and *not this, but that*;
+    - the reprise must show a changed response;
+    - grief specific to Renée, not louder;
+    - Odile knows the coverage lapsed, not about the desk;
+    - check before renaming Mara;
+    - **make the form intelligible first, with the cover and the lie in separate fields;**
+    - keep an immediate consequence for Seraphine.
+  - **Does not hold:** its preferred intermediary whose Dominion tie Lucien does not understand. That conflicts with B1, with A4 and with the author.
+- **A craft risk is noted:** a knowing cover in Lucien's point of view must not become the narrator hiding what he knows.
+- **Q-HR2, Q-HR3 and Q-HR5a–d are revised; Q-HR1 and Q-HR4 stand.**
+
+END OF ENTRY 324
+
+===============================================================
+
 END RECOVERY LEDGER

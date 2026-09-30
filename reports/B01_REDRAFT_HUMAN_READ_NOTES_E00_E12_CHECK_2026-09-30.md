@@ -193,3 +193,69 @@ The note keeps the mechanic and faults the word. There are two readings:
 | **Q-HR5** | Lucien. (a) Is *None* the wrong **word** (the same lie about the room, worded differently) or the wrong **kind** of lie (affiliation)? (b) Should B01 name a front for his office? (c) If so, is it a legitimate bureau he believes in (A4), or a fabricated cover he knowingly uses? | (a) **Keep the lie about the room.** A1, Seraphine's contradicting statement and the E36/E48 payoffs rest on it. Change the word only if it reads wrong. (b) **Yes. It is the cleanest way to the intrigue the note wants**, and it fits B1, A4, BC-FILE-UPSTAIRS and B02 E08. (c) **Legitimate, per A4**, so the question at B02 E08 is what he knew. A fabricated cover changes his B01 arc and needs its own ruling |
 
 **Nothing here is applied** until the author answers. The notes join the consolidated revision list after his read.
+
+## 7. Addendum: the author's clarifications and ChatGPT's replies (2026-09-30)
+
+The author forwarded his discussion of these notes with ChatGPT. His own words are in the notes file §5. This section
+checks both against the manuscript and canon, and revises the questions.
+
+### 7.1 What the manuscript shows
+
+**The *None*'s line reads two ways.**
+- **E04** gives the full heading: conditions affecting the health or safety of occupants, *including the inspector*.
+- **E04 also shows the honest sentence he could have written**, which makes the intent clear on a careful read.
+- **E10 refers back to it only as the long line *that included the inspector*.** Read alone, especially by ear, that
+  sounds like a field about **who** inspected, not **what happened** to him.
+
+**The author's reading is the natural one for that phrasing.** A human reader missing it outweighs every AI panel that
+praised the mechanic. **This is a clarity defect, now verified.**
+
+**Lucien's assignment is half on the page.**
+- **E04 states his brief:** the city's historic timber stock, its failure modes, and how its records relate to what was
+  done. He put his name on the coroner's contract list as part of it. He writes weekly notes to *the office*.
+- **The office is never named.** In E24 he gives its name to security *in full*, but the name is not printed.
+
+**So the page holds an empty slot where the author's cover organization would go.** Withholding the name was by design:
+the B01 overlays forbid *"a bureau name; who sent Lucien"*.
+
+### 7.2 ChatGPT's replies
+
+| ChatGPT says | Verdict |
+| --- | --- |
+| **The *X, not Y* pass should include *not because*, *not quite* and *not this, but that*, without replacing them with another repeated pattern** | **Holds.** It is folded into the watch-list question's intent: state the thing |
+| **E00's reprise should show a changed response, not only watching again.** Placing it before the human coda keeps the book's final emphasis on ordinary people; ending on the presences makes it cosmic | **Holds.** It revises my recommendation (Q-HR2). The author's *"perhaps the epilogue ends with them"* leans to the end, so placement stays his |
+| **Grief should be specific to Renée, not more crying.** Examples: failed comprehension, a repeated practical act, being unable to leave him, anger aimed somewhere unexpected | **Holds** |
+| **Keep two facts apart: Odile knows the coverage lapsed; she need not know the renewal sat on Seraphine's desk** | **Holds, and the page already does it.** Odile's CPR line says she thought Seraphine *had the paper*. The author's clarification keeps that line |
+| **Seraphine's boss is Denise; the note exposes an unclear introduction, not a duplicate name. Check before renaming** | **Holds.** It matches §4. The author agrees and adds that the name clashes later |
+| **Make the form intelligible first:** who commissioned him, why he may inspect, who receives the report, exactly what he falsifies. **The cover affiliation and the observation report can be separate fields** | **Holds.** It is the key finding |
+| **Its preference: a real intermediary organization whose tie to the Dominion Lucien does not understand** | **Does not hold.** It conflicts with canon (B1: the Dominion sends him; A4: *he knows who sent him*) and with the author's own account. ChatGPT itself calls it *"an alternative invention"* |
+| **Keep an immediate personal consequence for Seraphine,** or the change trades a present betrayal for a future explanation | **Holds.** The *None* is that consequence; A1 pays it |
+
+### 7.3 One craft risk in the author's direction
+
+**If Lucien knowingly carries a Dominion cover, B01 is partly told from inside his knowledge.** The page may call it
+*the office*, as he would. But a whole book of his point of view that never lets him think what he knows can read as the
+narrator hiding a card.
+
+**Where the concealment belongs:**
+- **in what he tells others**, which the cover makes natural;
+- **not in what the narration lets him think.**
+
+**It also amends three things:**
+- B01's entry state (*not a field agent*);
+- the overlays' rule against his distrusting his office;
+- A4's *legitimate*.
+
+### 7.4 Questions, revised
+
+These replace Q-HR2, Q-HR3 and Q-HR5 in §6. Q-HR1 and Q-HR4 stand; Q-HR4 is now about Mara's entrance and role first,
+and her name second.
+
+| # | Question | Recommended |
+| --- | --- | --- |
+| **Q-HR2** | E00's reprise: **what changes in them because of B01**, and is it the book's last beat or just before the human coda? | **A changed response is required.** Placement is the author's: he leans to the end, and ChatGPT argues for before the coda. Either keeps the cosmology unstated |
+| **Q-HR3** | E01, as clarified: she forgets the renewal in the emergency; Odile's CPR line reminds her; afterward she withholds it. **Where does she first raise it with Odile?** And Renée's grief: specific, not louder | **E09**, where Odile passes on Renée's question. For Renée: one or two specific behaviours from ChatGPT's list |
+| **Q-HR5a** | **Confirm: the Dominion supplies Lucien's cover organization** (amends A4's *legitimate*) | The author's direction; recorded, awaiting confirmation |
+| **Q-HR5b** | **Both tensions, in separate fields?** The form's commissioning or employer line carries the cover name. The observation line carries his false denial of what happened to him | **Yes.** The cover makes the institutional mystery tangible from E04. The *None* keeps the present betrayal of Seraphine that A1 pays |
+| **Q-HR5c** | **Make the *None* legible.** Reword the observation heading so the reader knows it asks what happened to people in the room, the inspector included. Fix E10's shortened reference. Consider whether *None* is still the right entry once the question is unmistakable | **Yes, at the revision.** The word may then stand, since its force was the lie beside her account. The author judges on reread |
+| **Q-HR5d** | How much does Lucien's point of view let him think about the cover in B01? | **Enough that it is not a narrator's trick:** he knows, and the page shows him knowing, without naming the Dominion until B02 E08 (§7.3) |

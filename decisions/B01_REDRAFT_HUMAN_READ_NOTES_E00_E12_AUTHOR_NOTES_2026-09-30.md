@@ -59,3 +59,19 @@ Most of note 5 is already approved design. The details are in the report's §6.
 - **After the author's read**, in the one consolidated revision list (ledger §316).
 - **The later chapters wait for his read.** These notes cover E00–E12 only.
 - **Note 5, and the clarifications in notes 3 and 4, wait on Q-HR1–5.**
+
+## 5. The author's clarifications (2026-09-30, after a discussion with ChatGPT)
+
+> *"Mara is unclear in intro and role and later in name.*
+> *- leaving / forgetting the paper in the car doesn't have to be intentional, she's responding to an emergency and Odile
+> mentioning it during resuscitation reminds her.*
+> *- my recollection is that Lucien is with Dominion and he is in New Orleans on assignment from them. My thought is the
+> fake organization is his cover assignment from Dominion. My read was that the "None" referred to his role reviewing the
+> scene, and if there was reviewer, who would have made the report, etc."*
+
+| Note | What the clarification settles | Status |
+| --- | --- | --- |
+| **4** | The problem is **Mara's introduction and role**: who she is, what she does, and how her work differs from Seraphine's workplace. It is not a duplicate boss. **Her name is a separate, later problem** | Direction. Renaming remains open (Q-HR4) |
+| **3(b)** | **Forgetting the renewal is not a choice.** She is answering an emergency, and Odile's line during the resuscitation reminds her. **Odile's line stays.** What Seraphine says or withholds afterward is the consequential choice | Direction. It replaces the reading *"elects to leave"* in §2 |
+| **5** | **Lucien is with the Dominion, and in New Orleans on its assignment. The fictitious organization is his Dominion-supplied cover.** | Author direction. **It amends A4's *"legitimate bureau"*** (`decisions/OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-09-27.md`). It fits B1 (*"the cover's exact form is open"*) and the recovered *fabricated cover* variant. **Confirmation asked** (Q-HR5, revised) |
+| **5** | **The author read *None* as answering who reviewed the scene, not as denying Lucien's own experience.** The mechanic did not reach its reader | **A verified clarity defect**, from the author's own read; see the report's §7 |
