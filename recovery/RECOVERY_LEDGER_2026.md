@@ -14516,4 +14516,32 @@ END OF ENTRY 321
 
 ===============================================================
 
+## §322 — B01 redraft: the revision themes, and both revision notes revised after ChatGPT's review, 2026-09-30
+
+**Status:** LEDGER ENTRY. Records two private working summaries (manuscript `draft-notes/revision/`) and their revision. Nothing is decided and nothing in the manuscript is edited. It quotes no manuscript text in this repository.
+
+- **`REVISION_THEMES.md` / `.html`, at the author's request:** the §321 list as eleven general notes, one per kind of revision, so that he reads *"a single general note"* instead of hundreds of line comments. Notes 1–5 are mostly craft; 6–9 need a yes; 10–11 are guardrails.
+- **ChatGPT reviewed both notes; every point was checked against the manuscript and holds.** Both are revised:
+  - **Tier 1 is split** into corrections (F1–F4, F6), checks (F9, fact-checks, not established errors) and optional clarifications and one planting (F5, F7, F8, F10; the glass notice is already explained later).
+  - **A1 is rewritten to a brief:** make Seraphine's discovery of the *None* explicit, let it change her judgment or conduct, and show that change later. The injury is the denial placed in the official record beside her testimony and signed twice, not the lie itself, which she already knows. Placement is open, because E39 is already dense. The 3–4k word estimate and any romantic outcome are withdrawn.
+  - **A2 gets three options to choose first:** a deliberate reversal of E26's agreement, a limit on whom they could reach, or a failure to recognize the arrangement they had rejected. Each makes the characters morally different.
+  - **A3 is audited join by join.** Join 4 (the E40 crush reaching Seraphine) is a plot decision that changes her responsibility. Join 5 (rings as a warning) is largely on the page (E46, E48).
+  - **A4, *rings first*, is on hold for an ending decision.** A reliable warning conflicts with E49 as written: watching water is called a bet, her tin is still when she leaves for Jody, and the onset is missed. The kinds of payoff to choose among are an observation, a bounded protective practice or a predictive warning.
+  - **A5** is judged with A1: continued attraction is not repaired trust.
+  - **A6** is specified by what each variant changes for the crew.
+  - **A7** is reframed as *which existing cost fails to persist*. Lucien's work, Sal's trust and the danger at the car are already there, and so is Seraphine's write-up.
+  - **A8 and A9 are optional experiments.** A9 must replace exposition, not duplicate the forecast or the verdict.
+  - **The combined total near 150k is removed.** It is not evidence that the additions belong together.
+- **The themes are corrected:**
+  - rests are judged by function, not position;
+  - the watchers are separated from the institutional consequences, which already change options, and who caused what stays uncertain;
+  - notes 1–5 are no longer called plot-free;
+  - note 1's rule is kept within the established point of view.
+- **Priorities now:** the *None* discovery and the Ursulines decision; then the per-join audit; then selective compression; then the separate options; *rings first* held.
+- **No manuscript edits during the author's read.**
+
+END OF ENTRY 322
+
+===============================================================
+
 END RECOVERY LEDGER
