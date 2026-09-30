@@ -14394,4 +14394,26 @@ END OF ENTRY 315
 
 ===============================================================
 
+## §316 — B01 redraft: review of the Sudowrite beta comments and ChatGPT's review of them, 2026-09-30
+
+**Status:** LEDGER ENTRY. Records `reports/B01_REDRAFT_SUDOWRITE_BETA_COMMENTS_REVIEW_2026-09-30.md`.
+
+- **The material:** the author forwarded Sudowrite's beta export (728 comments: Maya 295, Anton 313, Joan 120) and ChatGPT's review of it, with its summary: *useful passage-level feedback, unreliable as evidence of a sustained whole-book read*. Both carry manuscript passages and are kept privately (manuscript `draft-notes/beta-read/sudowrite/`). Nothing is quoted here.
+- **The check:** every comment mapped to its chapter (728/728, the same text as our panels), and the 274 critical comments were read. **ChatGPT's verdict holds**, and so do its four continuity checks (E12, E25, E46, E49 are setups already on the page). Two more of Joan's claims are also false (Trip's naming, E16; R. as the colleague, E48). E25's two cards are noted for the line edit. The comments almost never address book-level promises, so their silence on the *None*, the prologue or the official thread is not evidence against the panels.
+- **Corroborated:**
+  - meaning restated after it lands (now named by all three panels, Q-P45-11);
+  - uncomfortable agency works;
+  - the quiet scenes carry the life.
+- **New and specific:** both of Lucien's disclosures to Seraphine are out of scene (E39's chain of choices, in summary; E48's *None*). **E39 is proposed as the natural place for Q-P45-1's first beat**; the placement stays the author's.
+- **Five plausibility flags go to a fact-check, not to edits:** E14, E17, E23, E38, and E47 (check that no mechanism is implied). They join Q-P45-12.
+- **Rejected**, with ChatGPT: Baz's E26 dissent; the E34 windows advice; explaining every motive; restoring unity. **Also rejected:** E49's *help both*; moving Odile's E01 line. E23 and E43's unrecorded wonders are left to the author (L11).
+- **Agreed with ChatGPT:** one consolidated revision list after the author's read, in three classes (verified errors, sustained problems, preference-dependent), drawn from all four sources with his read first. **No new question**; no structural overhaul or word target.
+- **No manuscript edits during the author's read.**
+
+**Next:** the author's read; then the consolidated list and Q-P45-1–12.
+
+END OF ENTRY 316
+
+===============================================================
+
 END RECOVERY LEDGER
