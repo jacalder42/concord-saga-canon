@@ -15547,5 +15547,40 @@ END OF ENTRY 354
 
 ===============================================================
 
+## §355 — The craft pass done; source studies of the supplied texts; Q-SR1–4, 2026-10-01
+
+**The craft pass** (`reports/B01_DRAFT3_CRAFT_PASS_AND_SOURCE_STUDIES_2026-10-01.md`): CS-01–CS-22 are applied in 21
+chapters by sixteen revisers, under the brief in the manuscript's `draft-notes/craft-study/`.
+- **Action:** the stakeout's plan comes before the night (E39), and the dawn watch is in scene (E48).
+- **Romance:** Q-RM1 beat 6 is restored (E41); **E19's response is re-aimed at Lucien**; several further beats are on
+  the page.
+- **Ensemble:** Seraphine and Baz on the page (E23); Dré from his family (E44); Dolores's choice (E40); E32's comic
+  cluster costed.
+- **Checks:** continuity check with five clause fixes; no guard breached; 132,880 words.
+- The reading copies are rebuilt, headed *craft pass (2026-10-01)* (manuscript `23fac13`).
+
+**The source studies.** The author supplied:
+- the *HWFWM*, *DCC* and *Primal Hunter* mailboxes;
+- *Bride*, *Rivers of London* and *The Graveyard Book*, as text.
+
+The texts were read from the uploads and the scratchpad only, and quoted in short phrases. They are not in either
+repository. ChatGPT's readings largely hold:
+- *HWFWM* 23 of 26 claims confirmed, *DCC* 10 of 13;
+- *Primal Hunter*'s mailbox holds teasers only;
+- one overstatement each in *Bride* and *Graveyard*, and slips in *Rivers*.
+
+**For Silence and Hope** (the author's question): a presence is legible by what it does and cannot do, can be wrong,
+says least when strangest, and is named only in passing.
+
+**Open:** Q-SR1–4 (`proposals/B01_DRAFT3_SOURCE_STUDY_QUESTIONS_2026-10-01.md`):
+- thirteen one-beat candidates (GB, RV, BR), one of them recommended no;
+- the prologue's counting presence;
+- a profile line on presences, and a time test for the watch-list;
+- timing.
+
+END OF ENTRY 355
+
+===============================================================
+
 
 END RECOVERY LEDGER
