@@ -15181,4 +15181,48 @@ END OF ENTRY 343
 
 ===============================================================
 
+## §344 — The Jazz Framework recovered; a jazz-lens read of draft 3; Q-JZ1–6, 2026-10-01
+
+**The author's request:** *"I think we are missing a writing mechanic, review Notion and the chat exports for the Jazz
+Framework. I think that could help our rhythm and pace issue."* A forwarded ChatGPT note proposed restoring it as a
+reading test, not as packet fields.
+
+**Recovered** in `recovery/JAZZ_FRAMEWORK_SOURCE_RECOVERY_2026-10-01.md`:
+- the lineage, 2025-11-09 → 12-09;
+- the author's own definition and rules, against the accepted assistant text;
+- the techniques, and the *Episode Jazz* packet block;
+- eleven conflicts, including three readings of Rhythm, and *Intent* colliding with Mechanica;
+- **two Notion pages, recovered for the first time:**
+  - *00.02 Jazz Framework*, which matches the export word for word;
+  - Calder OS *1.8 Braid & Groove Frameworks*.
+
+**Verified:** only the five axis names reached the repository. The packet block was dropped at the 09-27 EBCI preflight,
+and no ruling dropped it.
+
+**A diagnostic read of draft 3 through the lens** (`reports/B01_DRAFT3_JAZZ_LENS_READ_2026-10-01.md`; private full read
+in the manuscript's `draft-notes/draft3/read/JAZZ_LENS_READ.md`):
+- the book is not elevator jazz;
+- **about two-thirds of what it finds was already known;**
+- **new:**
+  - a rule for which watcher hints to keep, from the author's own sentence on breadcrumb pace;
+  - rests that change versus rests that only recover;
+  - a keep-or-cut test for refrains;
+  - the E37–E44 cadence run.
+
+Its claims were spot-checked. One was corrected: the tag line is shared by two men word for word, and a third uses a
+shortened form.
+
+**Proposed** (`proposals/JAZZ_FRAMEWORK_RESTORATION_PROPOSAL_2026-10-01.md`):
+- a short profile section, *§3A Structure under the page*, from the author's rules;
+- a revision reading test;
+- not the five-field packet block.
+
+**Q-JZ1–6 await the author**, including whether the read's moves 1–5 go into draft 3 now, as a narrow rhythm pass, or
+after his read. **Nothing is applied before he answers.**
+
+END OF ENTRY 344
+
+===============================================================
+
+
 END RECOVERY LEDGER
