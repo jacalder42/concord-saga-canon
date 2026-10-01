@@ -9,6 +9,14 @@ justify themselves separately (Q-D3-5, Q-D3-6 and, new in version 2, the romance
 dedicated romance read of draft 3 (manuscript `draft-notes/draft3/read/ROMANCE_TRACE.md`). **What version 1 recommended
 and version 2 changes is marked in each section.**
 
+**Adjusted by `proposals/B01_FORWARD_TENSION_AND_VISIBILITY_PROPOSAL_2026-10-01.md` §4** (same day, ledger §339):
+- the reckoning's term bites on the lot's account;
+- the misreading shows its decision and exposure;
+- the plant stays at *no plant*;
+- compression cuts repeated recovery.
+
+That proposal's Q-VZ1–5 are answered together with this brief.
+
 **Five confirmations are needed before work starts:** Q-FB1, Q-FB2, Q-D3-5a, Q-D3-6a and Q-RM1. §3 and §4 are approved as
 method.
 

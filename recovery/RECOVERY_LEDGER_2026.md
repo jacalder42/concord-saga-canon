@@ -14991,4 +14991,51 @@ END OF ENTRY 338
 
 ===============================================================
 
+
+## §339 — Forward tension, the concealed groups and the phenomenon's visibility: inventory, trace and Q-VZ1–5, 2026-10-01
+
+**What arrived:** two ChatGPT reviews forwarded by the author, with no ruling yet.
+- One asks whether B01 serves action and adventure readers.
+- One answers the author's question to it: are the shadowy groups visible enough, and is the rule on the phenomenon's
+  visibility too limiting for engagement?
+
+**Checked two ways.**
+- **The constraint inventory:** `reports/B01_VISIBILITY_CONSTRAINT_INVENTORY_2026-10-01.md`, every governing rule with
+  its authority. **The author's own rulings bar explanation and control, and require definite, checkable events.**
+  These limits are approved design or assistant guards, not his rulings:
+  - every finding kept from becoming a rule (Q-MO1/Q-MO2 and the packets);
+  - one shared signature for both hands (Q-EN2);
+  - *it takes and never asks*;
+  - wonder kept out of the investigation.
+- **A forward-tension read of draft 3** (manuscript `draft-notes/draft3/read/FORWARD_TENSION_TRACE.md`, private):
+  - the hidden presence never makes the crew's next move harder;
+  - the two hands read as one *they*;
+  - findings are withdrawn until progress feels illusory (E32–E48);
+  - wonder is quarantined;
+  - E11, E19 and E30 restore the prior condition;
+  - E48 settles five tensions before the finale.
+- **One claim of the reviews was corrected:** no rule limits definite perception. The limit is what is retained and used.
+
+**The proposal:** `proposals/B01_FORWARD_TENSION_AND_VISIBILITY_PROPOSAL_2026-10-01.md`.
+- **Keep:** no names, no explanation, no control.
+- **Q-VZ1:** characters may keep and use a local, provisional working rule; the narrator states no law; A4 stays held.
+- **Q-VZ2:** the two hands are told apart by method (paper and permission against instruments and collection).
+- **Q-VZ3:** a felt response. E37's oxygen form lands the morning after the E48 refusal, honestly ambiguous; Hand 2's
+  withdrawal from the city's line is optional. *It takes and never asks* is retired.
+- **Q-VZ4:** Lucien keeps the E23 river-note reading.
+- **Q-VZ5a–e:** the *two o'clock* hour traced to the crew's own window; Mrs. Carmouche's report as a crew choice; Lucien
+  admits the false complaint at a cost; E11 carries the second *None*; one disclosure is left open into E49.
+- **Not recommended:**
+  - the collector at E49 (it conflicts with Q-EN2);
+  - *rings first* in the honest account (A4);
+  - names;
+  - a fight or chase.
+
+**The focused brief (version 2) stands, adjusted by the proposal's §4.** Q-FB1, Q-FB2, Q-D3-5a, Q-D3-6a, Q-RM1 and
+Q-VZ1–5 await the author together.
+
+END OF ENTRY 339
+
+===============================================================
+
 END RECOVERY LEDGER
