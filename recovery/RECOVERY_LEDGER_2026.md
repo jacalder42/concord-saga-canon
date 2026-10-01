@@ -15455,4 +15455,32 @@ END OF ENTRY 351
 ===============================================================
 
 
+## §352 — B01 draft 3: the integrated revision, done, 2026-10-01
+
+**The revision** (`reports/B01_DRAFT3_INTEGRATED_REVISION_REPORT_2026-10-01.md`): one reviser per piece under the
+approved brief, with **E27, E38 and E42** and **E46 and E48** revised as sets. Applied:
+- the factual repairs and the 14 approved character changes;
+- the line patterns, judged by the one test with no quotas;
+- structural cuts that keep every causal step;
+- **option C:** Caro's objection is to entrusted information, redaction does not settle it, and she owns the
+  compromise;
+- **T4-32:** the letter is acknowledged at E46, and its content is news at E48;
+- **T4-20:** the presences' water is unlinked from her place.
+
+**The continuity check** fixed three seams. **E23's age line** was completed for the same fact as T1-02.
+
+**Correction.** The consolidation's rejection X-01 was wrong: E06 does mark a young man as Black, in Seraphine's point
+of view. `reports/B01_DRAFT3_PRE_INTEGRATION_REVIEWS_2026-10-01.md` and the integration list are corrected with dated
+notes.
+
+**Measured:** 135,115 → 132,410 words. The reading copies are rebuilt, headed *integrated revision (2026-10-01)*; the
+complete Markdown copy is blob `02cec30…`.
+
+**Next: the author's read from the start.** Card review is queued.
+
+END OF ENTRY 352
+
+===============================================================
+
+
 END RECOVERY LEDGER

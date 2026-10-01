@@ -72,8 +72,10 @@ escalating where his card calls him a brake. **Those are recorded as card update
 ## 3. The consolidation
 
 Every high- and medium-severity finding and every factual claim was checked against the text.
-- **7 findings were rejected as false.** The most important: a claim that a character's race is marked at E06 (no one's
-  is). Two of Claude's own spot-checks also turned out to be non-defects: Miss Tavie's surname at E49, and the two
+- **7 findings were rejected as false.** *(Correction, 2026-10-01: the one called most important here, that no
+  character's race is marked at E06, was itself wrong. E06 does mark a young man as Black, in Seraphine's point of view.
+  The E06 reviser caught it during the integrated revision; see `reports/B01_DRAFT3_INTEGRATED_REVISION_REPORT_2026-10-01.md`
+  §3. The finding that her own heritage was absent from the page stood, and is answered at E16.)* Two of Claude's own spot-checks also turned out to be non-defects: Miss Tavie's surname at E49, and the two
   *seventeenths*.
 - **What remains:**
   - 50 corrections, and 7 source-side corrections;

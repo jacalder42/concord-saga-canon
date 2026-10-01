@@ -270,7 +270,7 @@ and E44–E45 must not lose a half.
 
 ## 7. Rejected as false (8)
 
-A claim that E06 marks a character's race (no one's race is marked; the heritage gap stands); a simile said to recur in E48
+*(Withdrawn 2026-10-01: E06 does mark a young man as Black, in Seraphine's point of view, so the original claim was right. The heritage gap still stood.)* A simile said to recur in E48
 (it is only in E42); a refrain said to be shared by Trip and Caro (both uses are Caro's); Elisabet's two name forms as an
 inconsistency (ruled design); a second pantry visit in E48 (the same Monday); an unshown exchange of phone numbers (the page
 places them together); the gray case said to be re-described at E48 and E49 (only a phrase there); and the claim that the
