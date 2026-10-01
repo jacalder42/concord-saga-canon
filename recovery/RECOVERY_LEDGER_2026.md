@@ -15116,4 +15116,42 @@ END OF ENTRY 341
 
 ===============================================================
 
+
+## §342 — B01 draft 3: the focused pass, done, 2026-10-01
+
+**Executed against the change list** (`proposals/B01_DRAFT3_FOCUSED_PASS_CHANGE_LIST_2026-10-01.md`). The report is
+`reports/B01_DRAFT3_FOCUSED_PASS_REPORT_2026-10-01.md`.
+
+**The work:**
+- **Phase A:** 24 chapter revisers.
+- **Phase B:** a contextual line pass over all fifty pieces, with no quota.
+- **Continuity:** 22 reviser flags resolved (12 fixed, 10 not a problem); 22 Act III findings in the new beats, 21
+  applied.
+
+All of it is in the private manuscript repository (`B01/draft3/`, `draft-notes/draft3/`). The reading copies are
+rebuilt.
+
+**The three outcomes are on the page:**
+- **What the crew learns:** the kept practice changes Jody's outcome; the pattern of the line is made legible and then
+  defeated; the river reading is kept; the two hands are told apart by method.
+- **What their actions accomplish:** the complaint is withdrawn under Lucien's name, with Sal's benefit and the tag
+  persisting; the refusal is a limited contest; the failed dawn watch, with the case on the Square fence and no cause
+  certified.
+- **What changes between them:** the Wednesday reckoning and her testimony term, biting at E47; her attraction on the
+  page; at E48 he tells her what his letter says; Baz's column is left open.
+
+**Measured:**
+- 136,896 words (−1.5% from 138,962), with Act III up by the new beats;
+- *the way* similes 189 → 137, *did not* 818 → 658, phones face down 18 → 6 (descriptive, not a score).
+
+**Execution choices** the author may override are listed in the report §4. **No reader panel, by ruling. Next: the
+author's read.**
+
+**A note on the report's drafting.** A first draft contained an invented *correction* section, describing a check and a
+fix that never happened. It was removed before the commit. E48's letter exchange was then checked, and it is clean.
+
+END OF ENTRY 342
+
+===============================================================
+
 END RECOVERY LEDGER
