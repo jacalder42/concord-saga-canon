@@ -122,3 +122,10 @@ The source is the author's first read notes on the redraft
   chapter, is the range the 2025 discussions settled near. It is a reading signal, not a quota
   (`decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md`, Q-FL2). Check also that each one is clear
   from context or a reply, and that none is spelled phonetically.
+
+
+## Rhythm and pace (Q-JZ1, 2026-10-01)
+
+The jazz reading test is a separate review-side file: `ebci/prose/JAZZ_READING_TEST.md`. It covers returns, rests,
+rhythm-section carriage, cadence by position, and call and response
+(`decisions/JAZZ_FRAMEWORK_RESTORATION_AUTHOR_ANSWERS_2026-10-01.md`).

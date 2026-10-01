@@ -15225,4 +15225,41 @@ END OF ENTRY 344
 ===============================================================
 
 
+## §345 — Q-JZ1–6 answered as recommended; the Jazz Framework restored as design, 2026-10-01
+
+**The author:** *"As recommended for all 6"* (`decisions/JAZZ_FRAMEWORK_RESTORATION_AUTHOR_ANSWERS_2026-10-01.md`,
+approved design).
+
+**Applied:**
+- **Writer profile §3A *Structure under the page*** (Q-JZ1–2), from the author's own rules:
+  - structure, not product;
+  - accent;
+  - a return carries a change;
+  - the rhythm section carries the hooks;
+  - a rest changes something;
+  - a conversation of solos.
+
+  The optional *words of power* line is not included.
+- **`ebci/prose/JAZZ_READING_TEST.md`**, review side only (Q-JZ1, Q-JZ5, Q-JZ6):
+  - returns;
+  - rests that change or recover;
+  - rhythm-section carriage;
+  - cadence by position;
+  - call and response;
+  - no interpretation inside a peak.
+
+  The braid is recorded as background, and the 2-and-4 pulse is not used. Pointers were added in the README and the
+  watch-list.
+- **No packet block.**
+- **Pointer notes on the axes** in `canon/saga_overview.md` and `rules/saga_context_S1.json` (Q-JZ3): Composer's Hand,
+  never *Intent*.
+
+**Next:** the narrow rhythm pass on draft 3 (Q-JZ4: the read's moves 1–5 and 7; E48's re-order held), then the author's
+read.
+
+END OF ENTRY 345
+
+===============================================================
+
+
 END RECOVERY LEDGER

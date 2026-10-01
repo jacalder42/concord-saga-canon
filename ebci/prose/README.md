@@ -170,6 +170,11 @@ engine tic and AI tell.
 
 `WRITER_PROFILE_JA_CALDER.md` is the one stable instruction set that accompanies every packet (**approved 09-27** for Veil). **No per-character voice layer:** at a character's first substantial POV appearance only, one card line about how they notice or think may be promoted; after that the preceding prose governs. It is **recovered, not invented**: `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md` registers every source, its provenance and the conflicts. It carries no scores, ratios or required beats.
 
+**§3A *Structure under the page*** (Q-JZ1, 2026-10-01) carries the author's Jazz Framework as tendencies. **The
+framework is not a packet field.** No *Episode Jazz* block appears in the EBCI or prose packets. Its review side is
+`JAZZ_READING_TEST.md`, which is never part of the drafting stack. It runs at each act checkpoint, and once on B02's
+prose packets after they are derived (Q-JZ5, `decisions/JAZZ_FRAMEWORK_RESTORATION_AUTHOR_ANSWERS_2026-10-01.md`).
+
 ## Guards for B01 Act II and after
 
 From the Act I checkpoints (`decisions/B01_ACT_I_DRAFTING_CHECKPOINT_AUTHOR_ANSWERS_2026-09-28.md`,
