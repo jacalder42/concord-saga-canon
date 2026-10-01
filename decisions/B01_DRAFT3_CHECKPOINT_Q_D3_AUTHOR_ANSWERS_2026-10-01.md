@@ -3,6 +3,8 @@
 **Date:** 2026-10-01
 **Status:** CURRENT AUTHOR RULING. Approved design for the next revision of B01 draft 3.
 
+**Amended the same day** by `decisions/B01_DRAFT3_Q_D3_AMENDED_AUTHOR_ANSWERS_2026-10-01.md` (the author adopted a review's intent: a reckoning with a purpose, a verified plant, selective compression, a contextual line pass with no quota, an ending test, and causal ownership). Where the two conflict, the amended answers govern.
+
 **What it does:** accepts the six recommendations in `reports/B01_DRAFT3_CHECKPOINT_2026-10-01.md` §6.
 
 **What it does not change:**

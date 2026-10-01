@@ -14916,4 +14916,44 @@ END OF ENTRY 336
 
 ===============================================================
 
+
+## §337 — The Q-D3 answers amended after a review; the focused brief and four questions, 2026-10-01
+
+**The author forwarded a ChatGPT review of the Q-D3 recommendations:** *"I agree with their intent"*. The answers are
+amended in `decisions/B01_DRAFT3_Q_D3_AMENDED_AUTHOR_ANSWERS_2026-10-01.md`:
+- the reckoning needs a specific dramatic purpose, and it replaces E48's discovery exchange;
+- the E20 plant waits on verifying the woman's institution;
+- compression is selective, by each chapter's function, with no percentage;
+- the line pass is contextual, with no quota; the counts describe, they do not score;
+- both endings are tested before anything is cut;
+- Q-D3-6 is judged by causal ownership.
+
+**Checked** (`reports/B01_DRAFT3_Q_D3_REVIEW_RECONCILIATION_2026-10-01.md`): every claim of the review holds.
+
+**Two findings the review could not see:**
+- **Seeding E48's woman as one of Baz's three** (lanyards turned in, Hand 2's pre-rungs) would merge the two concealed
+  hands. Seeding her through Lucien's report of the woman at the table, the fourth person, would not.
+- **Seraphine already owns a chain:** her E27 ask, Caro's printout at E42, her retraction at E46. Its middle, her
+  misreading that sized the gathering, is off the page.
+
+**The ending test:** one fresh reader (manuscript `draft-notes/draft3/read/ENDING_TEST.md`). The bar passage reads as
+a second ending; the door link is felt. The reader ranked first cutting the bar passage to about 150 words, with no
+tidy-up and no stated meaning. The reader found *why only one* on the nose.
+
+**The brief:** `proposals/B01_DRAFT3_FOCUSED_REVISION_BRIEF_2026-10-01.md`. The Q-D3-6 proposal is revised in place (its
+§0): the glass-ticket transfer is withdrawn as the recommendation; the new one is an E44 beat that puts her misreading on
+the page.
+
+**Four questions await the author:**
+- **Q-FB1:** the reckoning changes their working terms (nothing of hers goes into what he writes for anyone);
+- **Q-FB2:** the plant through Lucien's report, or none;
+- **Q-D3-5a:** the bar passage to about 150 words, and *why only one* cut;
+- **Q-D3-6a:** the E44 beat.
+
+**Then:** packets, one pass, the line pass last, a continuity check. No new reader panel.
+
+END OF ENTRY 337
+
+===============================================================
+
 END RECOVERY LEDGER

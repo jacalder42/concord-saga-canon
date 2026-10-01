@@ -8,6 +8,31 @@ Q-D3-6a.**
 **What it does not change:** no ruling, card, packet or chapter. It adds no event: it reassigns where an existing
 discovery starts. **It quotes no manuscript text.**
 
+## 0. Revised 2026-10-01: the recommendation changes
+
+**The author adopted a review's intent** (`decisions/B01_DRAFT3_Q_D3_AMENDED_AUTHOR_ANSWERS_2026-10-01.md`): this
+proposal is judged by **causal ownership**, meaning what follows because Seraphine chooses or notices something, and not
+by discovery count. **Her E27 ask already counts as initiating.**
+
+**Checked against draft 3** (`reports/B01_DRAFT3_Q_D3_REVIEW_RECONCILIATION_2026-10-01.md` §3), she already owns a chain:
+1. her E27 ask, refused;
+2. Caro printing the dispatch times at E42;
+3. her public retraction from page nine at E46.
+
+**Only its middle is off the page.** Her misreading of the pages, which drives the gathering's size, happens between E42
+and E45.
+
+**The new recommendation is a beat at the start of E44**, in her point of view, before Renée:
+- she reads Caro's pages as proof that people alone fall;
+- she decides to bring everyone on her list, not only Inez's;
+- E45's late call to Inez is that decision.
+
+It runs to about 200 words, with no new event. E46's retraction then pays a reading the reader watched her make.
+
+**Option A below, the glass-ticket origin, is withdrawn as the recommendation.** It transferred a discovery more than it
+gave her a cause, and it stays listed as an alternative. Options B and C stand as written. **The question is now Q-D3-6a
+in `proposals/B01_DRAFT3_FOCUSED_REVISION_BRIEF_2026-10-01.md` §6.** The original text follows unchanged.
+
 ## 1. The problem
 
 The acquisitions editor's read (`reports/B01_DRAFT3_CHECKPOINT_2026-10-01.md` §5) found that Seraphine's weakness is
