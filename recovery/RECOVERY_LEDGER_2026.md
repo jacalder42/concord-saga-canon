@@ -15350,4 +15350,44 @@ END OF ENTRY 348
 ===============================================================
 
 
+## §349 — The pre-integration reviews, and the integration list, 2026-10-01
+
+**The author's instruction**
+(`decisions/B01_DRAFT3_PRE_INTEGRATION_REVIEWS_AUTHOR_INSTRUCTION_2026-10-01.md`):
+- Claude's five suggested reviews;
+- one reader per major character, judged against the cards and rulings;
+- narration readers, judged against the Calder profile.
+
+**Fourteen read-only reviews ran on draft 3 at `0031847`**; they are private in the manuscript's `draft-notes/draft3/review/`:
+- seven character readers: Seraphine, Lucien, Baz, Caro, Inez, Trip, and the presences and cameos;
+- three narration readers;
+- a fresh blind read: 4 / 5 as a reader, 3.5 / 5 as an editor, would read book two;
+- vocabulary wear;
+- counting against action;
+- Seraphine's agency.
+
+**Synthesis:** `reports/B01_DRAFT3_PRE_INTEGRATION_REVIEWS_2026-10-01.md`.
+- No guard is breached.
+- Where the page and a card disagree, the page usually reads better, so the cards will be updated.
+- A new layer of narrator stock phrases has appeared.
+- Explaining has moved to just after the peaks.
+- Some words are overloaded (*line*, *window*, the forecast's five names).
+- 62% of counting scenes lead somewhere, but E48 reports its risky acts instead of showing them.
+- Seraphine's agency is intact (40.7%).
+
+**Consolidated and verified:** `proposals/B01_DRAFT3_INTEGRATION_LIST_2026-10-01.md`, with no quotes; the full list is
+private.
+- 50 corrections and 7 source-side corrections;
+- 20 patterns;
+- 14 structural cuts, including the times block;
+- 31 author decisions;
+- 7 findings rejected as false.
+
+**The list and its 31 decisions await the author.** The integrated revision follows his answers.
+
+END OF ENTRY 349
+
+===============================================================
+
+
 END RECOVERY LEDGER
