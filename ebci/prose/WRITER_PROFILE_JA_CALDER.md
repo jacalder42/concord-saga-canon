@@ -122,7 +122,7 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 ## 12. Line-level tells to avoid
 
 - **Em dashes: sparingly** in narration. **In dialogue, a line that is cut off or interrupted ends in a dash; an ellipsis is only for a speaker actually trailing away.**
-- **US spelling throughout.** American vocabulary for American characters and points of view. Lucien may keep European word choices where they are his.
+- **US spelling throughout.** American vocabulary for American characters and points of view. Lucien may keep European word choices where they are his, and so may Baz (T4-11, 2026-10-01).
 - No *"it wasn't X, it was Y"* constructions, **and the rest of the family used by habit:** *she X, not Y*; *not X but Y*; *Not X.* on its own; *not because*; *not quite*. **Keep one only where the rejected alternative is what the reader would expect, or where the contrast changes the meaning.** Otherwise state the thing, and do not swap in another repeated pattern.
 - No strings of similes.
 - No meta jokes after a reveal.

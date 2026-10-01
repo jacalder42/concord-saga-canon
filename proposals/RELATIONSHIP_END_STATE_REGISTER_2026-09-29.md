@@ -882,3 +882,5 @@ cause · `r` a ruled beat, unchanged · `†` death ends it · `·` apart or abs
   Mending's integration (unchanged) is where the crew is at its best, and it arrives from somewhere.
 - **Ruled beats carry the end states without changing:** M05 (R1, R15), M33 (R1, R2, R5), M44 (R12), M52 (R13), M53
   (R10, R12, R14), M35 (R13).
+
+**Note, 2026-10-01 (T1-S6, T4-06; `decisions/B01_DRAFT3_INTEGRATION_LIST_AUTHOR_ANSWERS_2026-10-01.md`):** R1's B01 line predates the 10-01 terms of the reckoning (Q-FB1) and is superseded for B01 by the focused-pass change list §1.3; R1's B02 E21 trigger echoes B01 E21. Queued for card review.

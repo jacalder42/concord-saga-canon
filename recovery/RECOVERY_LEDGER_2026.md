@@ -15416,4 +15416,43 @@ END OF ENTRY 350
 ===============================================================
 
 
+## §351 — The integration list answered as recommended, including T4-32, 2026-10-01
+
+**The author:** *"As recommended for all, including T4-32"*
+(`decisions/B01_DRAFT3_INTEGRATION_LIST_AUTHOR_ANSWERS_2026-10-01.md`, approved design).
+
+**Released:**
+- T1a and T1b;
+- T2 under one test, with no quotas;
+- T3, which never cuts a causal step;
+- all 33 decisions;
+- the private revisers' brief, version 2.
+
+**Design changes:**
+- Q-TM1: option C, with Caro's compromise kept;
+- Q-TM2: *records as contested objects*, by a dated note on the engine ruling;
+- Q-TM3: E48's woman keeps the times;
+- **T4-32 amends change-list B4**, also by a dated note: Lucien acknowledges at E46 that he wrote a correction, and E48
+  carries what it says and what came of it;
+- T4-20: the presences' water is kept, unlinked from the place she left;
+- T4-11: the European-vocabulary permission extends to Baz (profile §12);
+- T4-10: a ruling scope.
+
+**Canon-side corrections:**
+- T1-S2 (the E21 prose packet), T1-S3 (the E41 cameo note) and T1-S4 (the README; the pressure-card note);
+- T1-S6 (a note in the relationship register);
+- integration notes on the E27, E38, E42, E46, E48 and E49 packets, both layers.
+
+**T1-S5 is flagged:** `canon/pov/baz_arnaud_pov.md` ends mid-line in §VII; repair it from its source at card review.
+
+**Card items are queued for card review, not applied:** T4-01, 03, 06, 15, 18 and 19. T4-17 is a B02 packet note.
+
+**Next:** the integrated revision of draft 3, then a continuity check, fresh reading copies, and the author's read from
+the start.
+
+END OF ENTRY 351
+
+===============================================================
+
+
 END RECOVERY LEDGER

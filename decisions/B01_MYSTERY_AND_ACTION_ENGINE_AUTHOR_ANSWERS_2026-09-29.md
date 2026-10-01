@@ -38,3 +38,5 @@ Q-EN2 also answers the antagonist questions, Q-AN1–4 in `proposals/B01_ANTAGON
 
 **One merged ~150k outline,** with every piece carrying what a packet needs: the conflict brief, exit conditions and
 a length. It comes to the author for a check before any prose packet is derived.
+
+**Note, 2026-10-01 (Q-TM2, `decisions/B01_DRAFT3_INTEGRATION_LIST_AUTHOR_ANSWERS_2026-10-01.md`):** *clocks as contested objects* is restated as **records as contested objects**: who went down, where, and what was done, with time as one field. Q-EN2's signature, *they want only the time*, is unchanged.

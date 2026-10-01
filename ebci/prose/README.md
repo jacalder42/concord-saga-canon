@@ -62,7 +62,7 @@ protects, habitually misreads, when threatened*), and those of any character who
 (`decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_ANSWERS_2026-09-29.md`).
 
 - They come from `proposals/CHARACTER_PRESSURE_CARDS_2026-09-29.md` as approved: its §9 for Seraphine (revised) and
-  Inez (formerly Mara; once the author approves her lines), and the draft cards for the rest. **Each character's approved *wants for themselves* line goes with them** (Q-WL1, 2026-09-29, §9). **Working drafting lines, not canon.**
+  Inez (formerly Mara; her lines approved provisionally 09-29, Q-MO4; their draft-3 evidence is the Batson line, T1-S4, 2026-10-01), and the draft cards for the rest. **Each character's approved *wants for themselves* line goes with them** (Q-WL1, 2026-09-29, §9). **Working drafting lines, not canon.**
 - **Never** a line that states or implies a future event (Baz's B03 death, for example), and never the full card.
 - A pressure is given as it stands at this point in the book. A **susceptibility** that the book has not yet enacted is
   marked as one, not given as a habit.

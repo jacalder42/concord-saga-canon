@@ -53,7 +53,7 @@ author may override them.
 | B1 | **The reckoning (Q-FB1).** It is about accountability. He admits why he signed; his cover limits only who reads his notes. She hears where the answer stops and says so. **She says what the *None* did to her.** Her term: he may not submit, paraphrase or speak for her account without her agreement. She leaves dissatisfied, with no touch | E46, the evening, in her point of view **[execution]** |
 | B2 | **The term bites:** he cannot report her part of the lot to Guidry or to the line without her | E47–E48 |
 | B3 | **Reciprocity: evidence of her attraction**, separate from the reckoning. Q-RM1 candidates 1, 2, 4 and 7 carry it, with the E30–E31 join | E19, E30, E39, E46 |
-| B4 | **E48's discovery exchange is replaced.** He reports the file's closing and his letter; her nod is informed. Her part of the honest account is in her own hand. Cool and specific | E48 |
+| B4 | **E48's discovery exchange is replaced.** He reports the file's closing and his letter; her nod is informed. Her part of the honest account is in her own hand. Cool and specific. **Amended 2026-10-01 (T4-32, `decisions/B01_DRAFT3_INTEGRATION_LIST_AUTHOR_ANSWERS_2026-10-01.md`):** at E46 he acknowledges briefly that he has written a correction of his own statement, which excuses nothing; at E48 what it says and what came of it are news | E46, E48 |
 | B5 | **Baz's column stays unsettled into E49** (Q-VZ5e) | E48–E49 |
 | B6 | **His restraint costs him** (Q-RM1 candidate 8): to say what he feels, he would first have to tell her who reads his notes | E48 |
 

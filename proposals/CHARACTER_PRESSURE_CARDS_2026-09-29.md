@@ -623,3 +623,4 @@ stands at that point in the book.
 | Kade | To matter: to be read and answered |
 | Lacuna | Her ground: her people, and being owed |
 
+**Note, 2026-10-01 (T1-S4, T4-01; `decisions/B01_DRAFT3_INTEGRATION_LIST_AUTHOR_ANSWERS_2026-10-01.md`):** Inez's lines cite redraft evidence; in draft 3 the evidence is the Batson line (E40 → E45 → E46). Seraphine's line that she resists arriving early is amended at card review: in B01 her early, uninvited arrivals are on the page (E07, E18, E25, E44), and E29's restraint lands because of them.
