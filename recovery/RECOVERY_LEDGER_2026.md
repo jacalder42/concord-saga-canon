@@ -14762,4 +14762,21 @@ END OF ENTRY 331
 
 ===============================================================
 
+## §332 — Q-MS1–6 and Seraphine's language strand answered, 2026-10-01
+
+**Status:** LEDGER ENTRY. Appends §4 to `decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md`. The author: *"As you recommend for all."*
+
+- **Q-MS1:** green keeps both readings; no hue code in prose.
+- **Q-MS2:** the science basis stays a proposal, with a possible backstage Mechanica appendix at the line-by-line review; never in drafting.
+- **Q-MS3:** the trio's prismatic quality is structural colour, first seen at the Mending threshold in B09. Elisabet's ungated prismatic edges are corrected at card review.
+- **Q-MS4:** where two characters share a motif, the one on the page wins: the notebook is Baz's, Tahl has the recorder, lanterns are Elias's, still water is the phenomenon's, and rings belong to no one.
+- **Q-MS5:** no standing description layer; first-appearance card lines start from the author's 11-01 words.
+- **Q-MS6:** the falls and the stopped hands stay the phenomenon's own.
+- **Q-FL4:** Seraphine's Louisiana French comes from her elders, in both registers, mostly as forms of address.
+- **No manuscript edits during the read.**
+
+END OF ENTRY 332
+
+===============================================================
+
 END RECOVERY LEDGER

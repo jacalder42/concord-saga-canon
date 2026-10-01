@@ -2,6 +2,8 @@
 
 Status: PROPOSAL, non-canonical (Tier D). Drafted 2026-10-01 on the author's answers to Q-SY1–7 (`recovery/SYMBOLISM_MOTIF_BIBLE_SOURCE_RECOVERY_2026-09-30.md` §6; ledger §330; the answers are recorded in `decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md`).
 
+**Q-MS1–6 answered 2026-10-01, all as recommended** (`decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md` §4). The proposal stays Tier D reference material. Its accepted answers are approved design.
+
 **Does not change:** any rule, card, grid, packet, the writer profile or manuscript text. `rules/symbols/`, `rules/Resonance-v1.md` and `rules/Mechanica-v4.md` are unchanged. It gives the phenomenon no frequency, level or mechanism, and picks no winner where sources conflict. Retired names appear only as evidence. Manuscript chapters are cited by number and a one-word label.
 
 ---

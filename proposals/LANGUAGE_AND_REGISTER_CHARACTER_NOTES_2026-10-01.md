@@ -6,7 +6,7 @@
   with *"Proceed"*.
 - **Baz's tell (§3) is derived from his canon card**, at the author's direction *"Base Baz's off of his backstory"*. He
   may adjust it.
-- **Seraphine's strand (§4) is still open.**
+- **Seraphine's strand (§4) is answered 2026-10-01, as recommended** (the decision's §4).
 
 **What this does not change:** no manuscript text. The tells enter each character's identity context when the revision's
 packets are built.
@@ -53,7 +53,7 @@ A tell appears at moments of stress, tenderness or habit. A whole book may use i
 
 **Before use:** a native-speaker check of any Arabic or Marseille French (Q-FL6, Q-FL8).
 
-## 4. Seraphine (open)
+## 4. Seraphine (answered 2026-10-01: her elders, both registers, mostly forms of address)
 
 **Approved (Q-FL4):** a few words of her family's Louisiana French, heard more under pressure and carried by cadence.
 **Honorifics and nicknames carry much of it.** The author: *"Honorifics and nicknames are common and important in that

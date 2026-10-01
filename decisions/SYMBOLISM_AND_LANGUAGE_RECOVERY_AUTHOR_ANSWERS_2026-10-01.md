@@ -59,3 +59,20 @@ cards.
 | `canon/characters/ElisabetID.md` | Her two name forms |
 | `proposals/LANGUAGE_AND_REGISTER_CHARACTER_NOTES_2026-10-01.md` | The tells, Baz's derived tell, and Seraphine's open strand |
 | `proposals/LITERARY_MOTIF_AND_SCIENCE_BASIS_PROPOSAL_2026-10-01.md` | Q-SY1's proposal, with the science basis |
+
+## 4. Addendum: Q-MS1–6 and Seraphine's strand (author, 2026-10-01)
+
+> *"As you recommend for all"*
+
+**All answered as recommended (approved design).** The questions are in
+`proposals/LITERARY_MOTIF_AND_SCIENCE_BASIS_PROPOSAL_2026-10-01.md` §7.
+
+| # | Accepted |
+| --- | --- |
+| **Q-MS1** | **Green: both readings are recorded** (strain, grounding). **No hue code in prose:** green appears when something is green. `rules/symbols/COLOR_SEMANTICS.md` is unchanged until the Mechanica line-by-line review, which may keep *grounding* as art and visual-effects vocabulary only |
+| **Q-MS2** | **The science basis stays a proposal for now.** At the Mechanica line-by-line review, a short backstage appendix to Mechanica is considered, subject to D5 and naming no frequency. **It never enters the drafting stack** |
+| **Q-MS3** | **The trio's prismatic quality is structural colour:** angle-dependent and non-glowing. **It is first seen at the Mending threshold in B09.** Any earlier Loom glimpse needs a named exception. **Elisabet's ungated *faint prismatic edges*** (`ElisabetAppearance`, and the related cue in `ElisabetRender`) **is corrected at card review**, not now |
+| **Q-MS4** | **When a motif belongs to two characters, the one already on the page wins:** the notebook is Baz's, and Tahl carries the recorder; still water is the phenomenon's, and Saeko keeps empty rooms and soft white fabric; lanterns are Elias's alone; rings belong to no person |
+| **Q-MS5** | **No standing layer for how a point-of-view character describes things.** A first-appearance card line starts from the author's 2025-11-01 words (Seraphine *complex and technical*; Lucien *proper and aloof*, with candour; Elisabet *raw, upfront and simple*) and the story's evidence |
+| **Q-MS6** | **The falls with a steady frame (E14) and hands stopping at once (E08, E49) stay the phenomenon's own,** inside the causal cards' one OPEN link. They get no physical explanation |
+| **Q-FL4 strand** | **Seraphine's Louisiana French comes from her family's elders, in both registers (Cajun and Creole), mostly as forms of address** rather than full sentences |
