@@ -15521,5 +15521,31 @@ END OF ENTRY 353
 
 ===============================================================
 
+## §354 — Q-CS1–4 answered; the writer profile carries no always/never craft rules, 2026-10-01
+
+**The answers:** *"As recommended for all, including CS-07"* (`decisions/B01_DRAFT3_REFERENCE_CRAFT_STUDY_AUTHOR_ANSWERS_2026-10-01.md`).
+- Q-CS1 is A: a narrow pass now, before the read from the start.
+- CS-01–CS-22 are released. CS-05 is her own thought; **CS-07 re-aims the E19 response at Lucien**.
+- Q-CS3's six lines are added without absolutes.
+
+**The author's instruction:** the Calder profile carries no *always* or *never* craft rules. Anything can be done if its
+cost can be surmounted.
+- **Applied:**
+  - a governing paragraph;
+  - every craft absolute restated as a costed default;
+  - the ruled limits marked *(ruled)* and unchanged.
+- **The catastrophe rule was a flattening, confirmed.** The humour system's own §4.3 (gallows humour, brief, followed by
+  silence or cost) and §6 had been dropped, and only its §5 forbidden list was kept. The profile now carries the gallows
+  rule. The system gets an additive note; its text is unchanged.
+
+**The sources:**
+- The three Patreon mailboxes arrived and are extracted to the scratchpad, never to either repository.
+- **The three PDFs did not reach the session** (*Bride*, *Rivers of London*, *The Graveyard Book*). They need
+  re-attaching.
+
+END OF ENTRY 354
+
+===============================================================
+
 
 END RECOVERY LEDGER

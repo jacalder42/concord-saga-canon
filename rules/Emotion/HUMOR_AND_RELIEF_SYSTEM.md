@@ -120,6 +120,8 @@ These are **explicitly non-canon**:
 
 Humor cannot be a weapon.
 
+> **Note, 2026-10-01 (additive; author instruction, `decisions/B01_DRAFT3_REFERENCE_CRAFT_STUDY_AUTHOR_ANSWERS_2026-10-01.md`).** For prose, read this list with §4.3 (gallows humour under extreme pressure, brief and sharp, followed by silence or cost) and §6 (good humour under pressure is rare and costly). The writer profile restates each item as a costed default rather than a ban: the author ruled that the Calder profile carries no *always* or *never* craft rules. This section's text is unchanged; rewording it would need its own ruling.
+
 ---
 
 ## 6. HUMOR UNDER PRESSURE
