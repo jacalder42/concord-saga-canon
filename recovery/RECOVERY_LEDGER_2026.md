@@ -14802,4 +14802,36 @@ END OF ENTRY 333
 
 ===============================================================
 
+## §334 — B01 draft 3: packets updated for the change list, 2026-10-01
+
+**Status:** LEDGER ENTRY. 82 files changed: B01 EBCI briefs and prose packets for E00–E04, E08–E12, E14–E15, E17, E19–E21, E23–E26, E28–E34, E36–E49. Each has a dated draft-3 line and a notes entry saying what changed.
+
+**Execution choices (the author may override):**
+- **Introductions:**
+  - the Beaulieu Center is introduced in E01;
+  - Trip knows Seraphine as someone Inez's pantry sends people to (E03);
+  - Elisabet's formal name form is at E20, where she introduces herself.
+- **Mr. Fontenot (F4):** one episode, early March, reported at E21.
+- **A2 sits at the end of E31** (Easter evening, before the window).
+- **E34, join 2:** every household on the block goes onto Inez's pad, the untold side first.
+- **A1 at E44:** Renée's copy of the statement.
+- **A6 at E48:** a stranger at a table asks Seraphine for the record of times. Lucien is the point of view and the witness. The price: the city's holds stay on, Mr. Vidrine's tanks included, and the narration never certifies who could have lifted them.
+- **A5:** Lucien names what he feels in his own thoughts, once (E48).
+- **H2:** the presences' reprise comes after the coda (E49).
+- **The checks (F9):** E14's officer, E17's phone and E23's app are kept and made plausible.
+- **The rest:**
+  - E25: the stranger's card becomes a lanyard badge;
+  - E42: Caro's anger is answered;
+  - E47: Miss Hazel's door stays closed.
+
+**Also amended:**
+- the Act III overlay's forbidden *"the will asking the three for anything"*, which now allows the one A6 opening;
+- twelve beat rows in `grids/episode_beats.csv`, to match the briefs.
+
+**Carried to B02:** the city's holds, Sal's stop-work and Denise's write-up, for the Veil continuity check.
+
+END OF ENTRY 334
+
+===============================================================
+
 END RECOVERY LEDGER
