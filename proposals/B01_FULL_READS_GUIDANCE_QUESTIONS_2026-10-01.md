@@ -1,51 +1,67 @@
-# Questions from the full reads of the reference works
+# Questions from the full reads of the reference works (version 2)
 
 **Date:** 2026-10-01
-**Status:** PROPOSAL, awaiting the author. It follows `reports/B01_FULL_READS_OF_REFERENCE_WORKS_2026-10-01.md`.
+**Status:** PROPOSAL, version 2, awaiting the author. It follows
+`reports/B01_FULL_READS_OF_REFERENCE_WORKS_2026-10-01.md`. Version 2 adopts a forwarded review, checked in
+`reports/B01_FULL_READS_GUIDANCE_REVIEW_RECONCILIATION_2026-10-01.md`. Version 1 is in git history.
 
-**What it does not change:** nothing until answered.
+**What it does not change:** nothing until answered. **No ruled limit changes.** §9's *not the mechanism* and
+*nobody reads minds* stay exactly as they are.
 
-## Q-RL1 — Writer profile lines
+**The principle of version 2:** the reference works show a range of successful approaches. The profile should preserve
+that range, not turn it into eight more repeatable moves. So version 2 adds fewer lines. Most are merged into lines the
+profile already has, and the specific devices stay in the private reference as options.
 
-Eight short lines, costed, with no *always* or *never*:
+## Q-RL1 — Writer profile: five merged edits, one new line
 
-| § | Line |
-| --- | --- |
-| §3A | **State the number once, then follow one case.** A count sets the obstacle, and one case shown in full carries it. A count repeated to show diligence costs the reader |
-| §3A | **A recurring gesture earns its return by changing, or by failing once.** A missing habit can be the alarm |
-| §4 | **Care is specific:** a practical act in the currency of one pair, often hiding its own work. Comfort can be refused in the speaker's own idiom. Care given the same way to everyone reads as nobody's |
-| §4 | **Description sees with the point of view's trade, want or fear:** what is missing, one ordinary detail, a second look that corrects the first |
-| §5 | **A speech is heard as a tactic.** The listener may grade it, compress it or miss it. People reach a fear through its safe version first, and confessions come out wrong |
-| §5 | **A misunderstanding can live across scenes and drive choices.** People reveal things without knowing their weight |
-| §5A | **Institutions arrive as a person** with a job, a workload or a stock phrase, and procedure can outrank awe. **Status shows in forms of address and in where people stand or sit** |
-| §9 | **The strange gets a size without a mechanism:** effects first, and the cause never; a working rule learned at a cost with its cause left open; a proper test that comes back empty; accounts that compete and are never certified; two senses that disagree; a messenger who doesn't know either |
+| § | Edit | Replaces in version 1 |
+| --- | --- | --- |
+| §2 *(new line)* | **Attention belongs to the point-of-view character.** Their work, desire, fear, pleasure, curiosity and relationships shape what they notice. Choose details that matter in this moment | The description line, which read as a three-step recipe |
+| §3A *Scene or summary* *(extended)* | Add: **Use counts when scale, a discrepancy or a threshold changes a decision.** Summarize repeated collection; dramatize the case or contested choice that makes the information matter | *State the number once, then follow one case* |
+| §5 *People talk as themselves* *(extended)* | Add: **Dialogue changes through the listener's response.** People may answer the claim, resist its purpose, misunderstand it or hear it accurately. Clarity and eloquence vary with the person, the relationship and the pressure. **A misunderstanding may persist** when the evidence, trust, access or stakes sustain it, and later choices reflect what each person believes. Check whether an obvious question would plausibly resolve it | *A speech is heard as a tactic*, and the misunderstanding line |
+| §5A *Kindness can intrude* *(extended)* | Add: **Care reflects the relationship:** what this person notices, offers, accepts or resists. Its meaning depends on their history, timing and cost. Care can be welcome, intrusive, ordinary or misunderstood | *Care is specific*, without the requirement that it hide its work |
+| §5A *(new line)* | **Institutional pressure is concrete:** what someone can grant, demand, delay or refuse. Representatives have their own interests and degrees of discretion, and their conduct need not explain the whole institution | *Institutions arrive as a person* (a form, a delay or two offices' conflicting instructions also count) |
+| §9 *(new line)*, beside the ruled lines | **Make the strange concrete through observable effects and consequential choices,** within the approved visibility limits. Keep observation apart from interpretation. Let investigations establish bounded findings where the story permits, while the mechanism stays unexplained *(ruled)* | The catalogue of empty tests, uncertified accounts, disagreeing senses and messengers. It risked making a rule of the frustration the book is trying to reduce |
 
-**Recommended: yes, all eight.** They reinforce the ruled limits and change none of them.
+**Moved to the review side, not into the profile:**
+- **The recurring-gesture question** goes to `REVIEW_WATCHLIST.md`: *What does this recurrence contribute here:
+  recognition, comfort, tension or change? If it only repeats the same information, consider cutting it.* An unchanged
+  gesture can carry affection, continuity or stubbornness. It need not fail to justify itself.
+- **Forms of address and physical position as status signals**, and **a missing habit as an alarm**, stay in the private
+  reference as options, so that power exchanges do not all acquire chairs, thresholds and titles.
 
-## Q-RL2 — The library's role
+**Recommended: yes, as written.** Each line is costed, and none sets a rate.
 
-The notes and syntheses become **a private craft reference**:
-- revisers and reviewers use it;
-- drafting briefs from B02 on may name a technique, described and never quoted;
-- **it never enters a prose packet.**
+## Q-RL2 — The reference's role, with the drafting stack closed
 
-A pointer to it goes in `ebci/prose/README.md`. **Recommended: yes.**
+**The source studies and syntheses are a private reference for review and for preparing briefs.**
+- They never become an additional document in the drafting stack. `ebci/prose/README.md` already says *nothing else
+  enters the stack*, and that there is *no layer between packets and prose*.
+- Approved general principles reach drafting only through the writer profile.
+- Episode-specific requirements reach it only through the established EBCI-to-prose-packet process.
+- **No technique is required merely because a reference work uses it well.**
 
-## Q-RL3 — B01
+A one-line pointer to this effect goes in the README. **Recommended: yes.**
 
-A read-only *realism* read of the current draft against the fifteen techniques, producing candidates.
-- **A (recommended):** after the author's read, joined to his notes as one list. That keeps his read from waiting on
-  another pass.
-- **B:** now, with the candidates held until his read ends.
+## Q-RL3 — B01: after the author's read, and about problems, not coverage
 
-## Q-RL4 — A world question: the strange and mood
+**A, with a revised remit.** After the author's read, join the realism read to his notes as one list.
+- It assesses **reader difficulties, not technique coverage**. *This chapter lacks a misheard confession* is not a
+  finding.
+- For each candidate it gives:
+  - the passage and the reader's difficulty;
+  - what already works and must survive;
+  - the smallest useful intervention, which may be a cut;
+  - the benefit, and the cost to voice, pace or continuity.
+- The reference may suggest a solution only after a difficulty has been identified.
 
-One reader proposed that the phenomenon answers people's moods.
-- In B01 the phenomenon has no will, and nothing explains it.
-- Mechanica §42A treats empathy as a responsive medium, but at the scale of the veil, not individual mood.
+**Recommended: yes.**
 
-**Recommended:**
-- no change for Veil;
-- record the idea for the next Mechanica review, before Neon.
+## Q-RL4 — The strange and mood (a world question)
 
-This is the author's to rule; Claude does not decide it.
+**No change for Veil.** A phenomenon that responds physically to mood is a world rule, not a prose technique.
+- It differs from a frightened or hopeful person interpreting the same event differently, which deepens point of view
+  without changing what the phenomenon does. That is already allowed.
+- **Record the idea as unapproved material** for a future Mechanica review, **not as an expected Neon development.**
+
+**Recommended: yes.** It is the author's to rule.

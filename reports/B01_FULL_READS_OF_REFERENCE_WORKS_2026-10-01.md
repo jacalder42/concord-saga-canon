@@ -67,7 +67,7 @@ independently by several readers and across works. The strongest are:
 - protagonists as observers;
 - the strange too vague.
 
-**What the works do worse than Calder:**
+**What the works do worse than Calder:** *(Correction, 2026-10-01: read this as **risks observed in these samples**. It is not a claim of superiority, because no concrete comparison supports one. See `reports/B01_FULL_READS_GUIDANCE_REVIEW_RECONCILIATION_2026-10-01.md`.)*
 - moral speeches and fluent self-diagnosis;
 - friends diagnosing the protagonist in the same words;
 - house refrains;

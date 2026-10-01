@@ -15637,5 +15637,30 @@ END OF ENTRY 357
 
 ===============================================================
 
+## §358 — A forwarded review of Q-RL1–4, checked; version 2 of the guidance questions, 2026-10-01
+
+**The review** (`reports/B01_FULL_READS_GUIDANCE_REVIEW_RECONCILIATION_2026-10-01.md`): **thirteen of its fourteen
+points hold; one does not apply.**
+- The profile already covered six of version 1's eight areas.
+- The README bars an extra layer in the drafting stack.
+- The §9 catalogue risked making a rule of unadvancing frustration.
+- The report's *worse than Calder* overclaimed, and is corrected by a dated note to *risks observed in these samples*.
+- The point about missing titles does not apply: the report never treats them as gaps.
+
+**Version 2** (`proposals/B01_FULL_READS_GUIDANCE_QUESTIONS_2026-10-01.md`):
+- **Q-RL1:** five merged edits and one new line, in §2, §3A, §5, §5A and §9; the ruled lines are unchanged. The
+  recurring-gesture question moves to the watch-list. Address and position, and the missing habit, stay in the private
+  reference as options.
+- **Q-RL2:** the reference never enters the drafting stack; principles arrive only through the profile, and specifics
+  only through EBCI and the packets.
+- **Q-RL3:** after the author's read, assessing problems, not coverage.
+- **Q-RL4:** no change for Veil; the mood idea is recorded as unapproved.
+
+**Nothing in the profile has changed.** Q-RL1–4 (version 2) await the author.
+
+END OF ENTRY 358
+
+===============================================================
+
 
 END RECOVERY LEDGER
