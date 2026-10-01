@@ -15325,4 +15325,29 @@ END OF ENTRY 347
 ===============================================================
 
 
+## §348 — Integrate the corrections before the re-read, 2026-10-01
+
+**The author:** *"My inclination is to integrate the corrections prior to my restarting the read with the fresh draft.
+Before we generate that, I think there are a few more reviews / analyses to be done."*
+(`decisions/B01_DRAFT3_INTEGRATION_BEFORE_REREAD_AUTHOR_INSTRUCTION_2026-10-01.md`)
+
+**Q-TM4 is answered:** no narrow times pass now.
+
+**The order is:**
+1. the remaining reviews and analyses;
+2. the integration list;
+3. one integrated revision, with a continuity check and fresh reading copies;
+4. his read, from the start.
+
+**Still open:**
+- Q-TM1–3;
+- E48's re-order;
+- the optional romance trim;
+- which reviews.
+
+END OF ENTRY 348
+
+===============================================================
+
+
 END RECOVERY LEDGER
