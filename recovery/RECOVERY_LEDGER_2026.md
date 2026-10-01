@@ -15702,4 +15702,29 @@ END OF ENTRY 360
 ===============================================================
 
 
+## §361 — The pre-read revision done; reading copies ready for the author's read, 2026-10-01
+
+**Report:** `reports/B01_DRAFT3_PRE_READ_REVISION_REPORT_2026-10-01.md` (quote-free).
+
+- **The realism read:** five readers returned 43 candidates, the five flagged items included. Each was verified against
+  the text, and the ones that are not reader difficulties were dropped. E48's *this morning* was consistent; the facts
+  sheet is clarified.
+- **The list:** 17 corrections, 23 recommended, **no choices**, so the work did not stop. The list is private, in the
+  manuscript's `draft-notes/draft3/notes-pr/PRE_READ_REVISION_LIST.md`.
+- **The revision:**
+  - one brief and three revisers, one per act;
+  - all items were applied, plus C18, found while revising (E32);
+  - the continuity check covered 41 changes and made one follow-on fix (E06);
+  - no guard was breached;
+  - 132,837 words.
+- **The reading copies** are rebuilt and headed *pre-read revision (2026-10-01)*.
+- **Commits:** manuscript `4ffd137` → `f2837b7`.
+
+**Next: the author's read from the start.**
+
+END OF ENTRY 361
+
+===============================================================
+
+
 END RECOVERY LEDGER
