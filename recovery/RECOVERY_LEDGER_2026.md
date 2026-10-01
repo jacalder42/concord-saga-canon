@@ -15078,4 +15078,42 @@ END OF ENTRY 340
 
 ===============================================================
 
+
+## §341 — Q-SA1–3 answered with qualifications; the focused pass's change list and packets, 2026-10-01
+
+**The answer.** The author forwarded, without comment, a ChatGPT review of the standalone report as his reply to Q-SA1–3.
+It is recorded as his answer in `decisions/B01_DRAFT3_STANDALONE_QUESTIONS_AUTHOR_ANSWERS_2026-10-01.md`; he may override
+it.
+- **Q-SA1:** yes to wider compression. *15–20k* is an impression, not an amount; the E39 suspense is protected.
+- **Q-SA2:** yes; a hint keeps its space only if it does something now.
+- **Q-SA3:** yes, only with a concrete consequence for an on-page attempt, and with no certified cause.
+- **Four approved points are tightened.**
+- **The change list must separate** what the crew learns, what their actions accomplish, and what changes between them.
+
+**The change list:** `proposals/B01_DRAFT3_FOCUSED_PASS_CHANGE_LIST_2026-10-01.md`, the single source.
+- **Learning:** L1–L5. L1, the kept practice, visibly changes Jody's outcome at E49 with no proof claimed.
+- **Accomplishments:** A1–A6. **A5 is Q-SA3's design, built from existing material:**
+  - Mrs. Carmouche's true report to the line;
+  - Lucien's dawn watch at the lot;
+  - no case comes to the lot; one waits on the Square fence;
+  - his post moves.
+- **Between them:** B1–B6.
+- **A chapter table:** 24 chapters.
+- **Global rules:** the hands told apart by method; *no law stated by the narrator*; *takes and never asks* retired; the
+  hint test; the line pass last.
+
+**Applied to the substrate:**
+- dated focused-pass notes on the EBCI and prose packets of the 24 chapters;
+- *a rule stated as a law* → *a law stated by the narrator* in the E06, E07 and E29 packets;
+- the A2 and A3 overlays' *takes and never asks* retired, with Q-VZ2's two methods and Q-SA3;
+- notes on `BC-TECHNARC-KIT` and `BC-FILE-UPSTAIRS`.
+
+Validator 0, self-tests OK.
+
+**Next:** the revision of the manuscript, the line pass, a continuity check, and the reading copies.
+
+END OF ENTRY 341
+
+===============================================================
+
 END RECOVERY LEDGER
