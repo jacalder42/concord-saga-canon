@@ -15038,4 +15038,44 @@ END OF ENTRY 339
 
 ===============================================================
 
+
+## §340 — All ten answered as recommended; the standalone read; Q-SA1–3, 2026-10-01
+
+**The author:** *"As recommended for all 10."* Recorded in
+`decisions/B01_DRAFT3_FOCUSED_PASS_AND_VISIBILITY_AUTHOR_ANSWERS_2026-10-01.md`: Q-FB1, Q-FB2, Q-D3-5a, Q-D3-6a, Q-RM1
+and Q-VZ1–5. **Corrected the same day:** Q-VZ3's optional Hand 2 response had no recommendation, so *as recommended*
+does not decide it. It is re-offered as Q-SA3.
+
+**The standalone read.** The author asked ChatGPT whether B01 stands alone, and found the answer to have merit but to
+need *"a new full read"*. One fresh senior-editor reader read all fifty pieces, told to assume no sequel (manuscript
+`draft-notes/draft3/read/STANDALONE_READ.md`, private). The report is
+`reports/B01_DRAFT3_STANDALONE_READ_2026-10-01.md`.
+
+**Findings:**
+- **3.5 / 5 as a standalone.**
+- The earned result (Dré's file closed with the whole truth) comes from confession, not from the investigation.
+- The investigation loses ground from E32.
+- The opposition reaches no result.
+- The romance ends one-sided.
+- It runs 15–20k words long.
+- It agrees with ChatGPT and with the forward-tension trace.
+
+**Mapped onto the approved ten.** Most of it is covered. Execution points:
+- in the reckoning she says what the *None* did to her;
+- the working practice is used in the climax (not *rings first*, which stays held under A4);
+- Lucien's admission withdraws the complaint on the record, while the tag persists;
+- the refusal's protection of the record is made legible.
+
+**Three questions:**
+- **Q-SA1:** compression beyond the four chapters, under the same rules. Includes access negotiations, the E39 stakeout,
+  E41's stair coda, explained implications and successive closing beats. E31's window with Trip is compressed, not cut.
+- **Q-SA2:** keep the series breadcrumbs (Q-VZ2, the ledger's B02 payoffs), and thin their repetition in the line pass.
+- **Q-SA3:** the cases stop following the city's line after the stakeout, a seen response.
+
+All three are recommended yes.
+
+END OF ENTRY 340
+
+===============================================================
+
 END RECOVERY LEDGER
