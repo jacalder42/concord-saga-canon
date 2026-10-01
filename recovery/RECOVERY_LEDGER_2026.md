@@ -14689,4 +14689,45 @@ END OF ENTRY 329
 
 ===============================================================
 
+## §330 — Source recoveries: the symbolism / motif bible, and foreign language and cultural register, 2026-10-01
+
+**Status:** LEDGER ENTRY. Records two source recoveries written at the author's question: *"Have we ingested the symbolism bible? … Also I recall some discussion about when to use cultural affectations and foreign language words."* Both are non-canonical and change nothing. The key author quotes are spot-checked against the export. No manuscript prose is quoted.
+
+**`recovery/SYMBOLISM_MOTIF_BIBLE_SOURCE_RECOVERY_2026-09-30.md`:**
+- **What is ingested:** only the world-level half. The author saved the *Symbol & Motif System (Memory Edition v2)* (*"Save it"*, December 2025), and it was expanded into the five `rules/symbols/` files on 2026-01-05. Those files are a sensory and visual-effects grammar, not a literary motif bible.
+- **What is missing:**
+  - per-character motif sets (two conflicting, unsaved versions);
+  - per-character metaphor domains;
+  - the object motifs in the Tier-1 backstories of 2025-12-10;
+  - city and environment dialects;
+  - the 11-10 personal-glyph system;
+  - two lines in the author's own words: Lucien's eyes, and the trio's prismatic quality in Loom.
+- **Conflicts recorded, with no winner picked:**
+  - green as strain versus grounding;
+  - personal glyphs versus the art cards' ban on body symbols;
+  - the four-channels-only rule versus object motifs.
+- **None of it reaches the prose drafting stack.** The redraft's working motifs grew from the story.
+- **Q-SY1–7 await the author.**
+
+**`recovery/FOREIGN_LANGUAGE_AND_CULTURAL_REGISTER_SOURCE_RECOVERY_2026-09-30.md`:**
+- **The author started it** (2025-11): *"translated vs kept true"*; *"recognizable but not kitschy phrases. Greetings, Goodbyes, Affectations, Insults, Exhalations, Rituals"*; locals, not tourists; Cajun and Creole kept distinct; *"Concord is not Disney World"*.
+- **ChatGPT's Lexicon Protocol LR-1–10 was approved in chat but never reached the repository.** Its rules:
+  - keep a word whose meaning is clear from context;
+  - gloss once, inline, never in a footnote;
+  - translate anything that carries plot;
+  - leave rituals untranslated;
+  - the point-of-view character sets how much is understood;
+  - no phonetic accents.
+- **Per-character tells were approved in chat and lost from the cards:** Lucien German and French, Caro Spanish, Elisabet Icelandic, Rex his Singapore rhythm.
+- **The redraft today:** one foreign word in dialogue (E19, italicized) and no tells.
+- **Conflicts recorded:**
+  - density;
+  - italics;
+  - the spelling *Elisabet* versus *Elísabet*.
+- **Q-FL1–8 await the author.**
+
+END OF ENTRY 330
+
+===============================================================
+
 END RECOVERY LEDGER
