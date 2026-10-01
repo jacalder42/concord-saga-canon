@@ -14834,4 +14834,57 @@ END OF ENTRY 334
 
 ===============================================================
 
+
+## §335 — B01 draft 3 revised, continuity-checked and read; Q-D3-1–6 for the author, 2026-10-01
+
+**What:** the draft-3 revision released at §333 is done.
+- **The method was the author's: packets first (§334), then one reviser per chapter**, act by act. Each reviser worked
+  from the profile, the change list and a shared continuity sheet.
+- **Every change-list item is on the page.** A4 is held.
+- **The checkpoint report:** `reports/B01_DRAFT3_CHECKPOINT_2026-10-01.md`. It quotes no manuscript text.
+
+**Draft 3 lives in the private manuscript repository** (`B01/draft3/`). The working notes are in `draft-notes/draft3/`,
+and the HTML, EPUB and Markdown reading copies in `draft-notes/human-read/`.
+
+**Measured:**
+- 138,962 words, +0.6%;
+- contrast constructions 210 → 113;
+- triple-*and* chains 447 → 328;
+- the peaks faster (E47's mean sentence 15.5 → 10.8 words; E14's 10.8 → 8.3).
+
+**Continuity:**
+- four checkers (one per act, one cross-book) reported about 56 findings; 59 fixes applied, each logged;
+- her copy of her statement is now the witness box alone, so E44 is her first sight of his line;
+- R. is planted at E04;
+- Darnell is planted at E16 as a Vein regular, not E30's pianist (Q-V3).
+
+**Packet corrections (canon):**
+- **E41:** the write-up is for the tank sign-out (Q-EB2). It had wrongly said *the car*, an error in the §334 update.
+- **E09 and E10:** the `When` lines now match the page.
+- **E30:** a note on the cameo.
+
+**Two blind whole-book reads:**
+- **The target reader:** 4 / 5; would buy book two.
+- **The editor:** 4 / 5; acquire, conditional on revision.
+
+**Pull:** 4.5 / 3.5 / 4.5 by act. E44 rates 5. Both readers say Seraphine acts and her costs persist.
+
+**Still holding it at 4:**
+- no private scene for the *None* reckoning;
+- a faceless "upstairs" until E48;
+- Act II's stacked rests;
+- repeated shapes and line habits.
+
+**Q-D3-1–6 await the author's read of draft 3:**
+1. a private reckoning scene after E46;
+2. E48's woman seeded once at E20;
+3. compress E19, E27, E35 and E43;
+4. a measured line-habit pass;
+5. trim E49's Vein coda, with no mid-book glimpse;
+6. a proposal for one more initiating move for Seraphine.
+
+END OF ENTRY 335
+
+===============================================================
+
 END RECOVERY LEDGER
