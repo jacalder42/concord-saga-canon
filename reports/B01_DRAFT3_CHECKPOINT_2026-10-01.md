@@ -5,6 +5,8 @@
 by `decisions/B01_DRAFT3_RELEASE_AUTHOR_ANSWERS_2026-10-01.md` (ledger §333–§334), executed against
 `proposals/B01_DRAFT3_REVISION_CHANGE_LIST_2026-10-01.md`.
 
+**Answered 2026-10-01:** Q-D3-1–6 accepted as recommended (`decisions/B01_DRAFT3_CHECKPOINT_Q_D3_AUTHOR_ANSWERS_2026-10-01.md`); Q-D3-6's proposal is `proposals/B01_DRAFT3_SERAPHINE_INITIATING_MOVE_PROPOSAL_2026-10-01.md` (Q-D3-6a pending).
+
 **What it does not change:** no ruling, card, rule or grid. Four packet lines are corrected to the page (§4). **It
 quotes no manuscript text.** The draft is in the private manuscript repository, `B01/draft3/`. The working notes are in
 `draft-notes/draft3/`:

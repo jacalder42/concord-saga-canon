@@ -14887,4 +14887,33 @@ END OF ENTRY 335
 
 ===============================================================
 
+
+## §336 — Q-D3-1–6 accepted; the Q-D3-6 proposal written, 2026-10-01
+
+**The author:** *"Agreed to 1-6. Provide proposal for 6"*. The answers are recorded in
+`decisions/B01_DRAFT3_CHECKPOINT_Q_D3_AUTHOR_ANSWERS_2026-10-01.md` (approved design):
+1. a private *None* scene after E46's shaking;
+2. E48's woman seeded once at E20;
+3. E19, E27, E35 and E43 compressed to about half;
+4. a measured line-habit pass, run last;
+5. E49's Vein coda trimmed, with no mid-book glimpse of the presences;
+6. a proposal first.
+
+**The proposal:** `proposals/B01_DRAFT3_SERAPHINE_INITIATING_MOVE_PROPOSAL_2026-10-01.md`.
+- It maps who starts each investigative move in Acts II–III. Seraphine's line is the people; the physical evidence is
+  the men's.
+- **Recommended, option A:** the glass-ticket line starts with her. The idea and the terms are hers at E34: repair bills
+  are a record nobody had to tell; the block and the time, no names. The legwork, the crack and the *faster* bet stay
+  Baz's at E36. Reading his sheets changes her decision at E37 and E41: she stops waiting for the next page. It costs
+  about 350–500 words, and adds no event.
+- **Alternatives:** B, she notices the hold sheet at E37 (offered as an optional beat); C, the ring credited to her (not
+  recommended).
+
+**Q-D3-6a awaits the author.** Then one revision pass covers Q-D3-1, 2, 3, 5 and 6, packets first, with Q-D3-4 last and
+a continuity check.
+
+END OF ENTRY 336
+
+===============================================================
+
 END RECOVERY LEDGER
