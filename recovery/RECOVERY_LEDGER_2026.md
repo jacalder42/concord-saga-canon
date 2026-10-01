@@ -14779,4 +14779,27 @@ END OF ENTRY 332
 
 ===============================================================
 
+## §333 — B01 draft 3 released; the change list; Inez applied across the substrate, 2026-10-01
+
+**Status:** LEDGER ENTRY. Records `decisions/B01_DRAFT3_RELEASE_AUTHOR_ANSWERS_2026-10-01.md` and `proposals/B01_DRAFT3_REVISION_CHANGE_LIST_2026-10-01.md` (approved design).
+
+- **The author, most of the way through Act I:** *"implement the changes discussed so far and produce a new draft."* **The no-edits hold ends for draft 3.**
+- **A2 is a limit on reach (triage).**
+- **A1 is a new beat between E39 and E46,** executed at E44 through Renée's copy of Lucien's statement.
+- **A3, A5, A6 and A7 are in;** A4 is held, A8 superseded, A9 out.
+- **The method: packets first, then a revision with reviewed diffs.**
+- **P5 is added, and profile §3 gains *tempo follows the scene's temperature*.** The evidence: the redraft runs at nearly one tempo; the peaks read no faster than the rests; E47, an event, measures slowest.
+- **Applied:**
+  - **A01 Mara is renamed Inez** in the registry, with a retired alias row, and in the B01–B03 EBCI packets, the B01 prose packets, the beat grid, B01's book context and overlays, the template example and the self-test fixture. Provenance documents keep *Mara*; G08 Mara Niht is unaffected.
+  - **B01's entry state** records Lucien's Dominion-supplied cover (the Hollen Institute, the regional review). The earlier OPEN is gone.
+  - **The overlays** allow the cover employer and the Beaulieu Center by name; the Dominion and Technarc stay unnamed.
+- **Next:**
+  - packet updates for the affected episodes;
+  - then the chapter revision into the manuscript's `B01/draft3/`;
+  - continuity, a read and a report.
+
+END OF ENTRY 333
+
+===============================================================
+
 END RECOVERY LEDGER

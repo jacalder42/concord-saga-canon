@@ -32,7 +32,7 @@ line naming its new home. Titles are working labels, never cues for the page.
 | E05 | `S1.T1.B01.A1.E05` | The Room Is Still Open | Seraphine Vael | 2,300 | C | `S1.T1.B01.A1.E06` |
 | E06 | `S1.T1.B01.A1.E06` | The Waiting Room | Seraphine Vael | 2,900 | U | `S1.T1.B01.A1.E07` |
 | E07 | `S1.T1.B01.A1.E07` | Instability in the Square | Seraphine Vael | 3,000 | U | `S1.T1.B01.A1.E08` |
-| E08 | `S1.T1.B01.A1.E08` | Closing Time | Mara / M | 2,200 | C | `S1.T1.B01.A1.E09` |
+| E08 | `S1.T1.B01.A1.E08` | Closing Time | Inez | 2,200 | C | `S1.T1.B01.A1.E09` |
 | E09 | `S1.T1.B01.A1.E09` | Don't Carry It Alone | Seraphine Vael | 2,600 | C | `S1.T1.B01.A1.E10` |
 | E10 | `S1.T1.B01.A1.E10` | The Form, Re-signed | Lucien Kael | 2,800 | C | `S1.T1.B01.A1.E11` |
 | E11 | `S1.T1.B01.A1.E11` | The Things He Still Does | Lucien Kael | 2,200 | U | `S1.T1.B01.A1.E12` |
@@ -64,12 +64,12 @@ line naming its new home. Titles are working labels, never cues for the page.
 | E37 | `S1.T1.B01.A3.E37` | The Long Hum | Seraphine Vael | 2,500 | C | `S1.T1.B01.A3.E38` |
 | E38 | `S1.T1.B01.A3.E38` | The Card and the Trade | Lucien Kael | 3,500 | C | `S1.T1.B01.A3.E39` |
 | E39 | `S1.T1.B01.A3.E39` | The Stop-Work and the Stakeout | Lucien Kael | 2,500 | N | none (new) |
-| E40 | `S1.T1.B01.A3.E40` | Civic Fractures | Mara / M | 3,300 | U | `S1.T1.B01.A3.E40` |
+| E40 | `S1.T1.B01.A3.E40` | Civic Fractures | Inez | 3,300 | U | `S1.T1.B01.A3.E40` |
 | E41 | `S1.T1.B01.A3.E41` | After the Breaking | Seraphine Vael | 3,600 | C | `S1.T1.B01.A3.E41` |
 | E42 | `S1.T1.B01.A3.E42` | Nobody Is Graceful When Exhausted | Caro | 3,200 | C | `S1.T1.B01.A3.E42` |
 | E43 | `S1.T1.B01.A3.E43` | Something Strange That Doesn't Hurt | Bastien "Baz" Arnaud | 1,800 | C | `S1.T1.B01.A3.E43` |
 | E44 | `S1.T1.B01.A3.E44` | The Second Statement | Seraphine Vael | 2,200 | N | none (new) |
-| E45 | `S1.T1.B01.A3.E45` | Mara's Gathering | Mara / M | 3,200 | C | `S1.T1.B01.A3.E44` |
+| E45 | `S1.T1.B01.A3.E45` | Inez's Gathering | Inez | 3,200 | C | `S1.T1.B01.A3.E44` |
 | E46 | `S1.T1.B01.A3.E46` | The Rebound | Lucien Kael + Seraphine Vael | 4,100 | C | `S1.T1.B01.A3.E45` |
 | E47 | `S1.T1.B01.A3.E47` | The Wide Quiet | Seraphine Vael | 3,200 | U | `S1.T1.B01.A3.E46` |
 | E48 | `S1.T1.B01.A3.E48` | The Square Remembers | Lucien Kael | 3,500 | C | `S1.T1.B01.A3.E47` |

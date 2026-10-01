@@ -77,7 +77,7 @@ perceive strain but cannot intervene; reveal no cosmology or future.*
   value, to make a check pass. An unnamed one-scene witness takes an anonymous class; a field that does
   not apply is `N/A`, not a placeholder that looks like a claim.
 - **Identity hygiene:** where a name is ambiguous in the cast registry, the control layer records the
-  cast id (for example A01, the Filament Mara, not G08 Mara Niht).
+  cast id (for example A01, the Filament Inez (formerly Mara), not G08 Mara Niht).
 - **The calendar is approximate.** The header gives a rough *when*; exact dates are not set unless
   continuity requires them.
 

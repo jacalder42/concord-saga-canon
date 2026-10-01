@@ -62,7 +62,7 @@ protects, habitually misreads, when threatened*), and those of any character who
 (`decisions/WRITER_PROFILE_AMENDMENT_AND_REDRAFT_PACKET_RULES_AUTHOR_ANSWERS_2026-09-29.md`).
 
 - They come from `proposals/CHARACTER_PRESSURE_CARDS_2026-09-29.md` as approved: its §9 for Seraphine (revised) and
-  Mara (once the author approves her lines), and the draft cards for the rest. **Each character's approved *wants for themselves* line goes with them** (Q-WL1, 2026-09-29, §9). **Working drafting lines, not canon.**
+  Inez (formerly Mara; once the author approves her lines), and the draft cards for the rest. **Each character's approved *wants for themselves* line goes with them** (Q-WL1, 2026-09-29, §9). **Working drafting lines, not canon.**
 - **Never** a line that states or implies a future event (Baz's B03 death, for example), and never the full card.
 - A pressure is given as it stands at this point in the book. A **susceptibility** that the book has not yet enacted is
   marked as one, not given as a habit.
@@ -80,7 +80,7 @@ protects, habitually misreads, when threatened*), and those of any character who
   pressure part of the hidden network. No faction vocabulary, and never forward.
 - **Seraphine's second want** is *her own account on the record*, with its motive shown per scene, never labelled
   pride by default; **pleasure** (*a room that doesn't need her*) stays an actionable want.
-- **Mara's lines** are provisional (Q-MO4).
+- **Inez's (formerly Mara's) lines** are provisional (Q-MO4).
 - The per-character lines by act quote the manuscript, so they live in the private manuscript repository
   (`draft-notes/character-pressures/THIRD_PRESSURE_WORKING_LINES.md`) and enter packets only as they stand at the piece.
 

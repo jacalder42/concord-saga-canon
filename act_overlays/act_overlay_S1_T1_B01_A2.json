@@ -83,7 +83,7 @@
       },
       {
         "thread": "filaments",
-        "movement": "recognisable through recurring care and coordination (M02 lands): Mara at the block for names for her own food boxes; care helps and reverses nothing",
+        "movement": "recognisable through recurring care and coordination (M02 lands): Inez at the block for names for her own food boxes; care helps and reverses nothing",
         "carriers": [
           "E34"
         ],
@@ -218,7 +218,7 @@
         "source": "S1.T1.B01.A2.E27, S1.T1.B01.A2.E28"
       },
       {
-        "character": "Mara",
+        "character": "Inez",
         "from": "a notebook with odd entries",
         "to": "gathers the block's names for her own food boxes; recruits no one and does not join the team",
         "carriers": [
@@ -291,10 +291,10 @@
     "Any reading order but the file order (source: ebci/B01/REDRAFT_CONCORDANCE.md; Q-MO5)",
     "Death foreshadowing for Baz (source: S1.T1.B01.A2.E16, S1.T1.B01.A2.E26, S1.T1.B01.A2.E35, S1.T1.B01.A2.E36)",
     "Mechanics explained in dialogue (source: Mech §60)",
-    "Any faction or organisation named, or a stated agenda for the hands (source: Q-EN2; Q-AN2)",
+    "Any faction or organisation named, or a stated agenda for the hands (source: Q-EN2; Q-AN2). Amended 2026-10-01: Lucien's cover employer (the Hollen Institute) and the Beaulieu Center are ordinary named organisations and allowed; the Dominion and Technarc stay unnamed (Q-HR5b, Q-HR7)",
     "The will asking the three for anything: it takes and never asks (source: Q-EN2; S1.T1.B01.A2.E20, S1.T1.B01.A2.E31)",
     "The narrator certifying who is behind anything, that the three are watched, or blame; an ordinary person made a proxy (source: Q-CE4; Q-XP2; Q-XP4)",
-    "Lucien voicing distrust of his office, or his thoughts judging anyone's motive (source: Q-XP3; Q-XP4)",
+    "Lucien's thoughts judging anyone's motive (source: Q-XP3; Q-XP4). Amended 2026-10-01: he may think about his cover and the people behind it, more as he grows closer to Seraphine, without naming the Dominion (Q-HR5d)",
     "Clock time in narration that no character acts on (source: Q-EN6)",
     "A return to the camp, or Metairie treated as the camp (source: Q-DR7; S1.T1.B01.A2.E25)",
     "The grey instruments called anything but a case on the page (source: Q-RE5)"

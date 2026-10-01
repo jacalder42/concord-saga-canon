@@ -1326,7 +1326,7 @@ class EbciPilotChecks(unittest.TestCase):
 
     def test_pov_must_be_a_known_cast_member(self):
         self.assertEqual(packet_problems(packet(pov="ensemble")), ["CHK_POV", "CHK_POV"])
-        for ok in ("Seraphine Vael", 'Bastien "Baz" Arnaud', "Mara / M", "Trip",
+        for ok in ("Seraphine Vael", 'Bastien "Baz" Arnaud', "Inez", "Trip",
                    "Seraphine + Lucien"):
             self.assertEqual(packet_problems(packet(pov=ok)), [], ok)
         self.assertEqual(beats_problems([["S1.T1.B01.A2.E31", "Nobody", "U1", "W0",
