@@ -15482,5 +15482,44 @@ END OF ENTRY 352
 
 ===============================================================
 
+## §353 — The reference craft studies, tested against B01 draft 3, 2026-10-01
+
+**What happened.** The author forwarded four ChatGPT craft studies and asked for a review of example text, to improve
+dialogue, action and romance scenes. The studies covered:
+- the openings of three Royal Road serials;
+- the openings of five reference books;
+- *Bride*'s opening, with two late Patreon chapters;
+- eight late *HWFWM* chapters.
+
+**Claude did not read the source texts.** The network policy blocks the serial hosts, and the files were supplied to
+ChatGPT. So the review tests what the studies propose for B01 against draft 3 itself. Five read-only readers covered
+dialogue, action, romance, ensemble/humour/quiet, and what the later studies add. Claude then verified the main claims;
+one candidate was withdrawn as already done.
+
+**Findings** (`reports/B01_DRAFT3_REFERENCE_CRAFT_STUDIES_REVIEW_2026-10-01.md`):
+- Draft 3 already passes most of the tests. Its risks are repetition and over-articulacy, not missing conflict.
+- What is real:
+  - the stakeout's plan is absent before the night (E39);
+  - the dawn watch is summarized twice (E48);
+  - the finale is hard to picture (E49);
+  - Seraphine's tenderness is not selective;
+  - a comic cluster sits around the main triage injury (E32);
+  - an empty return (Dolores);
+  - no Seraphine–Baz exchange on the page;
+  - no family portrait of Dré.
+- **Q-RM1 beat 6 (E41) was lost to the integrated revision's T3-02 trim without being flagged.**
+
+**Open:** Q-CS1–4 (`proposals/B01_DRAFT3_REFERENCE_CRAFT_STUDY_QUESTIONS_2026-10-01.md`):
+- the timing;
+- the candidates CS-01–CS-22, which are private, in the manuscript's `draft-notes/craft-study/`;
+- six profile lines;
+- whether to read the sources independently.
+
+**Nothing changed:** no manuscript, profile, packet or ruling.
+
+END OF ENTRY 353
+
+===============================================================
+
 
 END RECOVERY LEDGER
