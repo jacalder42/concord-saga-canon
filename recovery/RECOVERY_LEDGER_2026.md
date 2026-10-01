@@ -15291,4 +15291,38 @@ END OF ENTRY 346
 ===============================================================
 
 
+## §347 — The author's read note on times; a trace; Q-TM1–4, 2026-10-01
+
+**The note** (verbatim in `decisions/B01_DRAFT3_HUMAN_READ_NOTE_TIMES_AUTHOR_NOTES_2026-10-01.md`): too much focus on
+times, or the language should change. In E27, what matters is people's privacy, not the timestamp. **It repeats his
+09-29 note on time and counting.**
+
+The redesign after that note made time a designed object:
+- *clocks as contested objects*;
+- the watchers' signature, *they want only the time*;
+- Q-VZ2.
+
+**The trace** (private, the manuscript's `draft-notes/draft3/read/TIMES_TRACE.md`):
+- 139 passages make time-recording their subject, rising from 0.6 to 1.3 per 1,000 words across the acts;
+- recaps rise from 5% to 25%;
+- half are the crew's method, and half of those are bookkeeping;
+- the watchers' line occurs about 18 times, counting recaps;
+- **in none of the 11 ethics arguments is the time itself the private thing**;
+- E27 is contradicted by E36 and E42.
+
+Spot-checked against the text.
+
+**Proposed** (`proposals/B01_DRAFT3_TIMES_AND_PRIVACY_PROPOSAL_2026-10-01.md`): option C.
+- Privacy and the record carry the crew's arguments.
+- The recaps and bookkeeping are cut.
+- The watchers' line is thinned to its essential occurrences, and *the times* become the watchers' word.
+- Q-TM2 restates *clocks* as ***records* as contested objects**, by note.
+
+**Q-TM1–4 await the author.** Nothing is applied.
+
+END OF ENTRY 347
+
+===============================================================
+
+
 END RECOVERY LEDGER
