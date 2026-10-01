@@ -14956,4 +14956,39 @@ END OF ENTRY 337
 
 ===============================================================
 
+
+## §338 — The focused brief revised (version 2): a second review and a romance trace, 2026-10-01
+
+**What arrived:**
+- **The author forwarded a second ChatGPT review**, as his *"first thoughts on romance angle"*. It tightens four of the
+  brief's recommendations and assesses the romance.
+- **A dedicated romance read of draft 3** (manuscript `draft-notes/draft3/read/ROMANCE_TRACE.md`, private) found:
+  - the romance is lopsided: Lucien's inner life and Seraphine's actions;
+  - she seeks him for his own sake five times, never seeks his touch, and her point of view registers wanting him only
+    twice, each time capped by the next line;
+  - he seeks her ten times;
+  - E32–E38 carries no charge;
+  - E48's named feeling half-jumps;
+  - after E44 her care survives but her attraction barely shows.
+
+**`proposals/B01_DRAFT3_FOCUSED_REVISION_BRIEF_2026-10-01.md` is rewritten as version 2:**
+- **Q-FB1:** the term is her control over the use of her testimony. His cover limits what he can disclose, not his
+  account of why he signed. The scene is about accountability, and is not rewarded with closeness.
+- **Q-FB2:** the head count does not identify the woman. The plant is a design choice; recognition does not give purpose.
+  The recommendation is now no plant, unless a recurring participant is wanted.
+- **Q-D3-5a:** no fixed length.
+- **Q-D3-6a:** the benefit is stated accurately. It is causal responsibility, not method success. Her method already
+  succeeds on the page: the E27 ask leads to the scope finding at E46, and the third column to the page's rule. The
+  sequencing is checked: the gathering's size is still open at E44.
+- **New §7, the romance through-line:** eight in-scene candidates, one line or one beat each, inside A5's ceiling, for
+  her deliberate desire, charge in E32–E38, and restraint that costs.
+- **Compression** now protects the attraction found in E19, E27 and E35.
+
+**Five confirmations await the author:** Q-FB1, Q-FB2, Q-D3-5a, Q-D3-6a and Q-RM1. No decision is recorded yet: the
+author called these first thoughts.
+
+END OF ENTRY 338
+
+===============================================================
+
 END RECOVERY LEDGER
