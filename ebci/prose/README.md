@@ -199,3 +199,19 @@ These describe how narrative behaviour changes; they do not add scenes:
 
 **Drafting reads the manuscript's continuity layer** (`draft-notes/B01_ACT_I_CONTINUITY.md` in the private repository)
 for anything later prose must remember.
+
+## Language list per book (Q-FL8, 2026-10-01)
+
+**Each book keeps a list of every non-English word and local term on its pages.** For each word it records:
+- the meaning;
+- the pronunciation;
+- the speaker;
+- the chapter.
+
+**When:**
+- It is built at the book's revision, not during drafting.
+- Its lines get a native-speaker or sensitivity read at copyedit.
+- The same list serves an audiobook or ElevenReader pass.
+
+**Source:** `decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md`. **The rules for using such words
+are writer profile §12A.**

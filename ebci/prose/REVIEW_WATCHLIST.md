@@ -118,3 +118,7 @@ The source is the author's first read notes on the redraft
 - **Is a *this, not that* correction doing the work?** For example, *she X, not Y*, *not X but Y*, or *Not X.* on its
   own. The author: *"useful for important or unexpected items, but … used too commonly and reads as an ai trope."* Keep
   it where the contrast is itself the news; elsewhere, state the thing.
+- **Is the other language thinning or thickening?** Roughly one non-English word or local term per scene, a handful per
+  chapter, is the range the 2025 discussions settled near. It is a reading signal, not a quota
+  (`decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md`, Q-FL2). Check also that each one is clear
+  from context or a reply, and that none is spelled phonetically.

@@ -14730,4 +14730,36 @@ END OF ENTRY 330
 
 ===============================================================
 
+## §331 — Symbolism and language: the author's answers applied, and the motif proposal, 2026-10-01
+
+**Status:** LEDGER ENTRY. Records `decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md`, an author ruling (approved design) answering Q-SY1–7 and Q-FL1–8 of §330.
+
+**Applied now:**
+- writer profile §12A *Language and register*: plain type for non-English words, superseding LR-9 and CR-Lang-02 from 2025; meaning from context; no phonetic accents; honorifics and nicknames; sparing and never kitsch;
+- the density question in the watch-list;
+- the per-book language list in the prose README;
+- **Lucien's eyes convey intent** (`LucienAppearance`, Q-SY6);
+- **Elísabet Arnardóttir formal, Elisabet everyday** (`ElisabetID`, Q-FL7; file names and the registry key unchanged).
+
+**Two new proposals:**
+- **`proposals/LANGUAGE_AND_REGISTER_CHARACTER_NOTES_2026-10-01.md`:**
+  - the per-character tells as permissions;
+  - Baz's tell derived from his canon card: Marseille French for precision and swearing, his mother's Algerian Arabic only in tenderness or grief, and above all translating *for* others;
+  - Seraphine's family strand still open.
+- **`proposals/LITERARY_MOTIF_AND_SCIENCE_BASIS_PROPOSAL_2026-10-01.md`** (Q-SY1, Tier D). Its science basis for the sensory elements, at the author's *"there needs to be a basis of science behind elements"*:
+  - the RP = Will × Emotion × Intent analogy to F = ma;
+  - resonance explains "one material at a time";
+  - the B01 page events mapped: ears, glass, rings before movement and the still plumb line fit; recordings and chalk fit with care; the bodily falls stay the phenomenon's own;
+  - light and colour as surface behaviour, not codes;
+  - per-character motifs with provenance, story-grown preferred, collisions listed.
+  - **Q-MS1–6 await the author.**
+
+**Retired:** personal glyphs on bodies (Q-SY5); Tahl's triangle is the one personal sign.
+
+**No manuscript edits during the read.**
+
+END OF ENTRY 331
+
+===============================================================
+
 END RECOVERY LEDGER

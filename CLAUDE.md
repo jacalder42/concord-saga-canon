@@ -294,7 +294,13 @@ or `rules/`.
   - **the symbolism / motif bible.** Only its world-level half is in `rules/symbols/`; the literary motifs are missing, and none of it reaches drafting. **Q-SY1–7.**
   - **foreign language and cultural register.** The author's 2025-11 rules and the approved Lexicon Protocol never reached the repo. **Q-FL1–8.**
 
-  Both question sets await the author. The redraft's *the county* (about ten uses) is a verified slip; Louisiana has parishes. No manuscript edits until the read ends. **A provenance correction:** the B02 Act III audit's titles ("The Threshold Event", "No Reset") are not in its cited source. Drift is recovered; "No Reset" as a titled closing episode is audit synthesis. The approved "drift plus No Reset" design stands. When released, work against the saga-lock report's §6 Veil handoff (author 2026-09-26: primary cast is not intended to remain together for the full saga; see `decisions/SAGA_CAST_SEPARATION_AND_GLOBAL_THEATERS_AUTHOR_RULING_2026-09-26.md`, `proposals/SAGA_GEOGRAPHY_CAST_DISTRIBUTION_MATRIX_PASS1_2026-09-26.md`, and `proposals/SAGA_THEATER_LEDGER_PASS1_2026-09-26.md`). Then recalibrate pressure and proceed to the book/act/episode milestones that B08's end sequence waits on.
+  **Both are answered 10-01** (`decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md`, ledger §331):
+  - writer profile §12A *Language and register*;
+  - Lucien's eyes line and Elisabet's two name forms on their cards;
+  - the language character notes, with Baz's derived tell;
+  - **the literary motif proposal with a science basis** (`proposals/LITERARY_MOTIF_AND_SCIENCE_BASIS_PROPOSAL_2026-10-01.md`).
+
+  **Q-MS1–6 await the author.** The redraft's *the county* (about ten uses) is a verified slip; Louisiana has parishes. No manuscript edits until the read ends. **A provenance correction:** the B02 Act III audit's titles ("The Threshold Event", "No Reset") are not in its cited source. Drift is recovered; "No Reset" as a titled closing episode is audit synthesis. The approved "drift plus No Reset" design stands. When released, work against the saga-lock report's §6 Veil handoff (author 2026-09-26: primary cast is not intended to remain together for the full saga; see `decisions/SAGA_CAST_SEPARATION_AND_GLOBAL_THEATERS_AUTHOR_RULING_2026-09-26.md`, `proposals/SAGA_GEOGRAPHY_CAST_DISTRIBUTION_MATRIX_PASS1_2026-09-26.md`, and `proposals/SAGA_THEATER_LEDGER_PASS1_2026-09-26.md`). Then recalibrate pressure and proceed to the book/act/episode milestones that B08's end sequence waits on.
 - **`LT_RULES_POST_MENDING.md` §6** has a named exception for the B9 epilogue handshake,
   enabled by Tahl's echo (2026-09-26).
 - **Elias Tier-1 cards corrected 2026-09-26** (E1–E10, author-approved;

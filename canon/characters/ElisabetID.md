@@ -2,6 +2,7 @@
 
 ## I. Core Identity
 - **Name:** Elisabet Arnardóttir
+- **Name forms** (added 2026-10-01, Q-FL7, `decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md`): **Elísabet Arnardóttir**, in native spelling, in formal situations (introductions, documents, her own signature); **Elisabet** in everyday use. Both are her name
 - **Role Function:** strategic clarity anchor; systems analyst; precision-under-pressure axis
 - **Saga Position:** cognitive stabilizer within the core ensemble; translates complexity into navigable reality
 - **Hard Rule:** Elisabet’s clarity is never emotional denial; it is disciplined perception used as care

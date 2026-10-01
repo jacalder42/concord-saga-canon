@@ -62,6 +62,7 @@ Face:
 Expression:
 - neutral, assessing  
 - emotion shows in micro-tightening around eyes or mouth  
+- **his eyes convey intent:** where his attention and purpose are pointed shows in his gaze before he speaks. Physical only; they never glow (added 2026-10-01, Q-SY6, `decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md`)  
 
 Hair:
 - dark, neat  
