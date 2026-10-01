@@ -15684,4 +15684,22 @@ END OF ENTRY 359
 ===============================================================
 
 
+## §360 — A pre-read revision instructed; the realism read moves before the author's read, 2026-10-01
+
+**The instruction** (`decisions/B01_DRAFT3_PRE_READ_REVISION_AUTHOR_INSTRUCTION_2026-10-01.md`): the author's read from
+the start will take a couple of days, so draft 3 is to be improved as much as possible first.
+- **Q-RL3 is re-timed:** the realism read now comes before the read. Its scope is unchanged (reader difficulties, not
+  technique coverage).
+- **Inputs:** the realism read and five flagged items (E49, E48 ×2, E00, E39).
+- **One verified list** in three groups; CORRECTIONS and RECOMMENDED proceed; **one stop, only for CHOICES.**
+- Then one revision, a continuity check, metrics, *pre-read revision* reading copies and a quote-free report.
+
+**Started:** five read-only realism readers (Act I; E16–E26; E27–E36; E37–E43; E44–E49), briefed in the manuscript's
+`draft-notes/draft3/notes-pr/READ_BRIEF.md`. Baseline: manuscript `5c2913c`, 133,050 words.
+
+END OF ENTRY 360
+
+===============================================================
+
+
 END RECOVERY LEDGER
