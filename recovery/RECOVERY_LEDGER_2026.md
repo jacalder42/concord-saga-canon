@@ -15154,4 +15154,31 @@ END OF ENTRY 342
 
 ===============================================================
 
+
+## §343 — ChatGPT's full read of draft 3, reconciled; seven credibility repairs, 2026-10-01
+
+**What arrived.** The author forwarded a ChatGPT full read of draft 3, without comment. It read reading-copy blob
+`dbf2f6d…`, built at manuscript commit `dedfbcc`, **before the focused pass.** It assessed the proposals as proposals.
+
+**Reconciled** in `reports/B01_DRAFT3_CHATGPT_FULL_READ_RECONCILIATION_2026-10-01.md`:
+- **Its verdicts agree with what the focused pass did.** One caution is noted: use the romance beats selectively. All
+  eight were kept, one line each, and the author may trim them.
+- **Its seven new findings were checked against the current text, and repaired:**
+  - E32: Baz's motive for not warning Mrs. Arceneaux; the plate days;
+  - E37: the hold sheet reduced to an overlap (an execution choice);
+  - E36: ticket time against event time, and non-leading questions;
+  - E39: the stakeout's staging made credible;
+  - E48: the household checks drive the final test, the window is practical, and the refusal claims only what it kept;
+  - E49: Baz's *a lot of chance* is his delight, and the form's ordinary cause is kept.
+- **Also fixed:** E44's call now says the file closes Friday.
+
+**A correction to two earlier reports:** the file's closing was scheduled. The crew changed what truth is attached
+before it closes; they did not cause the closing.
+
+**The current reading copy** is blob `7436d17…`. **Next: the author's read.**
+
+END OF ENTRY 343
+
+===============================================================
+
 END RECOVERY LEDGER
