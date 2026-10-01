@@ -34,7 +34,7 @@ Each episode is drafted from these and nothing else:
 5. **From Act II on, one standing instruction** (Q-AR4): *Continue these people and this novel. Do not reproduce Act I's
    successful shapes.*
 
-**Nothing else enters the stack.** The review-side watch-list (`REVIEW_WATCHLIST.md`) never does. No length numbers
+**Nothing else enters the stack.** **The private craft reference** (the manuscript's `draft-notes/craft-study/`: the full reads of the reference works and their syntheses) **is for review and for preparing briefs only, and never enters the stack** (Q-RL2, 2026-10-01, `decisions/B01_FULL_READS_GUIDANCE_AUTHOR_ANSWERS_2026-10-01.md`). General principles reach drafting only through the writer profile, and episode specifics only through EBCI and the prose packet. No technique is required because a reference work uses it well. The review-side watch-list (`REVIEW_WATCHLIST.md`) never does. No length numbers
 (Q-AR5) and no web-serialisation concerns: web installments are derived later from the finished manuscript. **For the
 B01 redraft, Q-IT2(d) supersedes Q-AR5:** each packet carries its approximate length (below).
 

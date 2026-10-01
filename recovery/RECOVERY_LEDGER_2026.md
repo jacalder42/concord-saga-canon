@@ -15662,5 +15662,26 @@ END OF ENTRY 358
 
 ===============================================================
 
+## §359 — Q-RL1–4 (version 2) answered and applied, 2026-10-01
+
+**The answer:** *"Yes proceed"* (`decisions/B01_FULL_READS_GUIDANCE_AUTHOR_ANSWERS_2026-10-01.md`), with a forwarded
+review's two wording checks:
+- §9 keeps *observable effects* and *consequential choices*;
+- additions merge into existing passages.
+
+**Applied:**
+- **Writer profile:** §2, §3A, §5, §5A and §9 are consolidated in place. §9's observed/interpretation line is replaced by
+  the consolidated line, which absorbs it. **Every *(ruled)* line is unchanged, checked.**
+- **`REVIEW_WATCHLIST.md`:** the recurrence question.
+- **`ebci/prose/README.md`:** the private craft reference never enters the drafting stack.
+
+**Q-RL3 (after the read) and Q-RL4 (no mood rule for Veil) are recorded.** No manuscript change.
+
+**Next: the author's read from the start.**
+
+END OF ENTRY 359
+
+===============================================================
+
 
 END RECOVERY LEDGER

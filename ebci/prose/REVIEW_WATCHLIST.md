@@ -135,3 +135,11 @@ rhythm-section carriage, cadence by position, and call and response
 **A time earns its place when it contradicts something or is impossible.** Keep it there. Cut a time that only logs.
 This sits under *records as contested objects*, and the reviewer applies it by judgment, not by count
 (`decisions/B01_DRAFT3_SOURCE_STUDY_AND_FULL_READS_AUTHOR_ANSWERS_2026-10-01.md`).
+
+## Recurrence (Q-RL1, 2026-10-01)
+
+**What does this recurrence contribute here: recognition, comfort, tension or change?** If it only repeats the same
+information, consider cutting it. An unchanged gesture can carry affection, continuity or stubbornness. It need not
+fail or change to justify itself. Forms of address, physical position and a missing habit are options in the private
+craft reference, not requirements
+(`decisions/B01_FULL_READS_GUIDANCE_AUTHOR_ANSWERS_2026-10-01.md`).
