@@ -15582,5 +15582,28 @@ END OF ENTRY 355
 
 ===============================================================
 
+## §356 — Q-SR1–4 answered; full reads of the reference works instructed, 2026-10-01
+
+**The answers:** *"Whichever you recommend"* (`decisions/B01_DRAFT3_SOURCE_STUDY_AND_FULL_READS_AUTHOR_ANSWERS_2026-10-01.md`).
+- **Q-SR1:** the beats GB-01–03, RV-01–05 and BR-01–04 are approved. BR-05 is declined.
+- **Q-SR2:** the prologue's counting presence is kept.
+- **Q-SR3:**
+  - writer profile §9 gains a costed *Presences* line;
+  - `ebci/prose/REVIEW_WATCHLIST.md` gains the time test (keep a time that contradicts; cut one that only logs).
+- **Q-SR4:** a small pass now, before the author's read.
+
+**Instruction: full, in-depth reads** of the reference works, as models of realistically human dialogue, interaction,
+action, description and systems:
+- the rest of *Bride*;
+- every substantive *HWFWM* and *DCC* chapter in the author's mailboxes: about 1.13 million and 485,000 words, read in
+  about 80,000-word assignments.
+
+The notes are private. The texts stay out of both repositories. A synthesis and any guidance candidates follow, for the
+author's approval.
+
+END OF ENTRY 356
+
+===============================================================
+
 
 END RECOVERY LEDGER

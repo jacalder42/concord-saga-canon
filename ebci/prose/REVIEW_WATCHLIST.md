@@ -129,3 +129,9 @@ The source is the author's first read notes on the redraft
 The jazz reading test is a separate review-side file: `ebci/prose/JAZZ_READING_TEST.md`. It covers returns, rests,
 rhythm-section carriage, cadence by position, and call and response
 (`decisions/JAZZ_FRAMEWORK_RESTORATION_AUTHOR_ANSWERS_2026-10-01.md`).
+
+## Times and records (Q-SR3, 2026-10-01)
+
+**A time earns its place when it contradicts something or is impossible.** Keep it there. Cut a time that only logs.
+This sits under *records as contested objects*, and the reviewer applies it by judgment, not by count
+(`decisions/B01_DRAFT3_SOURCE_STUDY_AND_FULL_READS_AUTHOR_ANSWERS_2026-10-01.md`).
