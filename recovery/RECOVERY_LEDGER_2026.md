@@ -15605,5 +15605,37 @@ END OF ENTRY 356
 
 ===============================================================
 
+## §357 — The source-study pass done; the reference works read in full; Q-RL1–4, 2026-10-01
+
+**The source-study pass (Q-SR1)** (`reports/B01_FULL_READS_OF_REFERENCE_WORKS_2026-10-01.md` §1):
+- **Applied in seven chapters:** E00, E14, E21, E29, E33, E48 and E49.
+- **RV-04 at E42 was moot.** The page carries it, and a clause would have read Seraphine's mind.
+- **Checks:** one continuity fix; no guard breached; 133,050 words.
+- **Commits:** manuscript `ded1307` and `2ef51f2`; the reading copies are rebuilt.
+- E49's new times line is borderline on its condition, and is left for the author.
+
+**The full reads, per the author's instruction:**
+- ***HWFWM:*** 14 readers, about 377 chapters, about 1.0 million words.
+- ***DCC:*** 6 readers, Books 6–9, about 440,000 words.
+- ***Bride:*** completed.
+- ***Rivers of London*** and ***The Graveyard Book*** were read earlier.
+- ***Primal Hunter:*** teasers only.
+
+The notes, two syntheses and an index are private, in the manuscript's `draft-notes/craft-study/`. The source texts stayed
+in the scratchpad.
+
+**Result:** fifteen strong techniques, each found independently across readers and works, and at least two answers to
+each of the seven named B01 weaknesses. A never-borrow list follows the ruled limits.
+
+**Open:** Q-RL1–4 (`proposals/B01_FULL_READS_GUIDANCE_QUESTIONS_2026-10-01.md`):
+- eight costed profile lines;
+- the library's role (never in prose packets);
+- when to do a B01 realism read;
+- a world question: does the strange answer mood?
+
+END OF ENTRY 357
+
+===============================================================
+
 
 END RECOVERY LEDGER
