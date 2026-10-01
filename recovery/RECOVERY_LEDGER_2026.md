@@ -15262,4 +15262,33 @@ END OF ENTRY 345
 ===============================================================
 
 
+## §346 — B01 draft 3: the rhythm pass (Q-JZ4), done, 2026-10-01
+
+**The pass** carried out the jazz-lens read's moves 1–5 and 7 on draft 3, in the private manuscript repository
+(`reports/B01_DRAFT3_RHYTHM_PASS_REPORT_2026-10-01.md`):
+- one reviser per chapter, 24 chapters;
+- cuts, compressions and minimal re-joins only;
+- under a brief that put the earlier protections above the read.
+
+**What changed:**
+- Lucien's interior hint restatements are thinned. Q-SA2's lines, L2 and A5 are kept.
+- Retellings are cut, and E44 is the one full folder telling.
+- The E37–E44 ending run is broken.
+- The rests that only recover are shortened in place.
+- Interpretation is out of the peaks. A6 stays shown.
+
+**Move 6, E48's re-order, is held.**
+
+**Checked:** a continuity checker fixed two seams (E33 and E44). E35's attribution was clarified.
+
+**Measured:** 137,551 → 135,115 words (−1.8%). The reading copies are rebuilt, and the complete Markdown copy is blob
+`d3410c4…`.
+
+**Next: the author's read.**
+
+END OF ENTRY 346
+
+===============================================================
+
+
 END RECOVERY LEDGER
