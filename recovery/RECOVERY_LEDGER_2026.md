@@ -15390,4 +15390,30 @@ END OF ENTRY 349
 ===============================================================
 
 
+## §350 — ChatGPT's review of the integration list, reconciled; version 2 and a revisers' brief, 2026-10-01
+
+**What arrived.** The author forwarded a ChatGPT review of the integration list (§349). It advised against approving the
+31 recommendations as one package.
+
+**Checked against the text** (`reports/B01_DRAFT3_INTEGRATION_LIST_REVIEW_RECONCILIATION_2026-10-01.md`): **all seven
+points hold.**
+- E49's still tin and the rings are compatible. Version 1's claim that the facts sheet was stale is withdrawn, and T4-20
+  is restated.
+- Caro's E42 compromise is kept inside option C. Her patient detail becomes a decision (T4-33).
+- The list's quotas are removed, replaced by one test.
+- E46 is silent about Lucien's mailed correction. New decision T4-32 recommends an acknowledgment at E46, which **amends
+  change-list item B4**.
+- Causal steps are protected. Two version-1 cuts that would have damaged them (E48's premise line; E44's misreading) are
+  corrected.
+- T1 is split: 35 factual repairs, 14 character-affecting changes for approval. Elisabet's card is unchanged.
+- **"No story problem" is withdrawn.** The aim is a more consequential book.
+
+**Version 2** is `proposals/B01_DRAFT3_INTEGRATION_LIST_2026-10-01.md`, with 33 decisions. The private revisers' brief is
+`REVISION_BRIEF_V2.md`. **Both await the author.**
+
+END OF ENTRY 350
+
+===============================================================
+
+
 END RECOVERY LEDGER
