@@ -29,9 +29,11 @@
 
 ## VI. Education / Pre-Saga Trajectory
 - **Education:** University of Vienna
+- **Education, correction** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`, R5): read **TU Wien (Technische Universität Wien)**, not the University of Vienna. The Universität Wien teaches no engineering or architecture; architecture and structural engineering in Vienna are taught at TU Wien. The line above is kept as the superseded reading
 - **Fields:** architecture / structural systems / ethical design frameworks
 - **Pre-Veil Role:** structural analyst within a civic or cultural systems bureau
 - **Skill identity (compressed):** pattern containment; risk prevention; ethical delay; system stability analysis
+- **B01 working arrangement** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`, approved design): an **external consultant to Broussard & Lowe Engineering** (provisional name; the author did not name a firm), a local, Louisiana-licensed firm holding the parish's inspection contract, **placed there through his Hollen Institute cover**. The firm's licensed engineer signs the firm's findings; Lucien seals nothing. His *None* is **his own personal statement on the coroner's form**, so its weight and its falseness stand. At Sal's he is unpaid labour, and Sal decides. Immigration status: see `proposals/CAST_IMMIGRATION_FUNDING_AND_LOGISTICS_RECORD_2026-10-02.md` (categories provisional)
 
 ## VII. Psychological Architecture (Identity Loop)
 - **Core wound:** emotional closeness leads to loss or destabilization

@@ -18,6 +18,7 @@
 ## IV. Family Structure & Emotional Ecology
 - **Mother:** **Dr. Elaine Davis** — African American political science professor; intellectual center; moral clarity
 - **Father:** **Dr. Arvind Narayan** — Tamil Indian structural engineer or data-systems analyst; precision, pattern-thinking, discipline; emotionally understated
+- **Flag, not a change** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`, R4): **Tahl's surname *Morgan* is neither parent's** (Davis, Narayan). It matters for the next-of-kin notice and the obituary in B06–B07. The reason (a chosen or working name, a family name, or a change) is **for the author to set**. Nothing above is changed
 - **Sibling:** none (solitude foundational)
 - **Household dynamic:** loving but emotionally contained; intellectual rigor as love language; achievement expected; burnout minimized
 

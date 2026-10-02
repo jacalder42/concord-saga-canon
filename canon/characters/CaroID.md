@@ -34,6 +34,7 @@
 - **Education:** municipal / community-based training
 - **Professional Track:** EMT / paramedic
 - **Pre-Saga Occupation:** frontline emergency medical responder in Chicago
+- **Professional track, correction** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`, R5): Caro is a **paramedic**. EMT and paramedic are different licences with different scopes and are **not** interchangeable. In Chicago she was a **Chicago Fire Department paramedic** (the city's municipal EMS is CFD). Her move south implies NREMT certification plus a Louisiana licence (offstage). A return to patient care in Chicago would need a current Illinois licence. Supersedes "EMT / paramedic" above and §X's "used interchangeably"
 - **Skill identity (compressed):** triage, rapid assessment, physical intervention, crisis endurance
 
 ## VII. Formative Events (Identity-Relevant)
@@ -58,5 +59,6 @@
 - **Backstory duplication:** multiple near-identical FINAL CANON blocks exist; treated as reinforcement, not conflict
 - **Sibling variance:** Ana appears inconsistently; Mateo is load-bearing and locked
 - **Job-title phrasing:** EMT / paramedic used interchangeably; treated as non-conflicting municipal emergency role
+- **Job-title phrasing, superseded** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`): she is a paramedic; see §VI
 
 END — CAROLINA “CARO” ALVAREZ IDENTITY CANON

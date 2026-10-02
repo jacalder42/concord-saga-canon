@@ -9,6 +9,7 @@
 ## II. Geographic Origin
 - **Birthplace:** Marseille, France — multicultural port city with layered identities
 - **Neighborhood:** Northern Marseille districts (La Belle de Mai or Le Panier) — immigrant-dense, working-class, high-motion community environment
+- **Neighborhood, correction** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`, R5): **Le Panier is Marseille's old town** (2nd arrondissement, by the Vieux-Port), not a northern district. The *quartiers nord* are the 13th–16th arrondissements; **La Belle de Mai is in the 3rd**. Read the line above as "Le Panier (old town, 2nd) or La Belle de Mai (3rd)"; the choice between them is unchanged and the line is kept as the superseded reading
 - **Emotional Home:** Marseille street-level civic reality; port logistics rhythm; lived multicultural negotiation
 
 ## III. Cultural Origin / Heritage

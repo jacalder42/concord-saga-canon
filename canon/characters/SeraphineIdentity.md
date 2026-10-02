@@ -167,6 +167,8 @@ Tremé Community Resource & Care Center (TCRCC)
 
 She is trusted, overcommitted, and quietly indispensable.
 
+**Supersession note** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`, R5): her employer is the **Beaulieu Center for Family Services** in Tremé (Q-HR7, ledger §329; `decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md`), superseding *Tremé Community Resource & Care Center (TCRCC)* above. Her supervisor is **Denise**; her colleague is **Marisol**. The manuscript calls her a *caseworker* or *care coordinator*. The lines above are kept as the superseded reading. Registry rows for Denise and Marisol wait for the next card review.
+
 ---
 
 ## VIII. IMMEDIATE PRE-SAGA STATE

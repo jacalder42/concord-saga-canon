@@ -62,6 +62,7 @@
 ## XI. Canon Conflict Ledger (Preserved Record)
 - **Name variants:** Elisabet consistently identified as Arnardóttir in FINAL CANON; earlier drafts without surname treated as incomplete
 - **Parent naming variance:** Solveig / Henrikur appear in some drafts; emotional ecology identical; names intentionally unbound
+- **Flag, not a change** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`, R5): *Arnardóttir* is a patronymic and already implies a father named **Örn or Arnar** (unless it is matronymic). *Henrikur* cannot be her father under the patronymic and is not an Icelandic form (*Hinrik* is). The card's "names intentionally unbound" needs reconciling with her surname; **the author decides**. Nothing above is changed
 - **Sibling Ari:** optional, additive, non-load-bearing
 - **Role phrasing variance:** systems analyst / crisis modeler / anomaly detector treated as non-conflicting language
 
