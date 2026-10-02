@@ -15889,4 +15889,20 @@ END OF ENTRY 367
 ===============================================================
 
 
+## §368 — Elisabet's father is Örn; the firm kept; Guidry's follow-up agreed, 2026-10-02
+
+- **Elisabet's father:** *"as recommended"*. Her father is **Örn**, so *Arnardóttir* stands. `ElisabetID.md` carries
+  a dated note.
+- **The firm:** *"kept, not concerned"*.
+- **Guidry's follow-up:** *"agreed"*. It was already applied at E38 and E48.
+- Recorded as an addendum to `decisions/REALISM_FOLLOWUPS_TAHL_FIRM_GUIDRY_AUTHOR_ANSWERS_2026-10-02.md`.
+- **No manuscript change.**
+
+**The realism follow-ups are closed. Next: the author's read.**
+
+END OF ENTRY 368
+
+===============================================================
+
+
 END RECOVERY LEDGER

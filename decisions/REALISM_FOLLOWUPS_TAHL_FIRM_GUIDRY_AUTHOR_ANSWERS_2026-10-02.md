@@ -18,3 +18,11 @@
    - at E38 his voicemail asks Lucien to get himself looked at and say so, and tells him the firm has taken him off
      its site visits for the coroner's office until they talk;
    - at E48 a clause keeps it standing until Lucien has been looked at.
+
+## Addendum, 2026-10-02 (ledger §368)
+
+The author answered the held item and confirmed the other two:
+- **Elisabet's father:** *"as recommended"*. He is **Örn**, and her surname stays *Arnardóttir*. Her card carries a
+  dated note. No manuscript change.
+- **The firm:** *"kept, not concerned"*. Broussard & Lowe Engineering stands.
+- **Guidry's follow-up:** *"agreed"*. It is already applied at E38 and E48.
