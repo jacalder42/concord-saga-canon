@@ -15905,4 +15905,38 @@ END OF ENTRY 368
 ===============================================================
 
 
+## §369 — The under-120k test: Sudowrite's import report and ChatGPT's self-assessment reviewed, 2026-10-02
+
+- **The test:** the author had ChatGPT compress B01 draft 3 to under 120k words so he could try Sudowrite's novel
+  import, which is capped at 120k. ChatGPT's version is 116,044 words, built on manuscript `8586e9e`, the version before
+  the realism pass.
+- **Claude's review:** worse than its source on balance.
+  - About fifteen serious losses, and new errors in E04, E12, E34, E37, E46 and E49.
+  - A guard breach at E49: standing water responds to a watcher's attention.
+  - All italics lost.
+  - Gains: fewer contrast constructions, and two small new beats at E13 and E30.
+- **Sudowrite's report and story bible:**
+  - Its summaries are accurate.
+  - It agrees with the existing findings on Act II's procedural pacing (§347) and the prologue (Q-HR2).
+  - It reads the phenomenon as "community presence shields", missing E46's refutation; the author's read should check
+    for this.
+  - Its advice to reduce POVs, recast the watchers, encode the mechanics in its story bible, and use Rewrite > Shorter
+    is declined, each for a stated reason.
+- **ChatGPT's self-assessment:**
+  - Its statistics and examples are verified.
+  - Its pattern diagnosis matches the existing over-articulacy finding (§353, §359).
+  - Not adopted: keeping its version as the working draft.
+  - Its scene priorities and the E13/E30 beats go to the post-read list.
+- **Queued after the read:** the E36 → E44 → E48 correction gap, where E44 still shows only the *None*.
+- Report: `reports/B01_UNDER_120K_TEST_SUDOWRITE_IMPORT_AND_CHATGPT_SELF_ASSESSMENT_REVIEW_2026-10-02.md`. The author
+  agreed to it being saved (*"yes that's fine"*). It quotes no manuscript text.
+- **No manuscript change.** Revision is held until the author releases it.
+
+**Next: the author's read.**
+
+END OF ENTRY 369
+
+===============================================================
+
+
 END RECOVERY LEDGER
