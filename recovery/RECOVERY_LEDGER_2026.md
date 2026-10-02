@@ -15810,4 +15810,33 @@ END OF ENTRY 364
 ===============================================================
 
 
+## §365 — The governance checks answered; realism list v2, three answers and one direction, 2026-10-02
+
+**Answers:** `decisions/PROTAGONIST_REALISM_AND_GOVERNANCE_CHECKS_AUTHOR_ANSWERS_2026-10-02.md`.
+- **The Dominions in Neon are an arc:** a rise into prominence, then waning power by Neon's end. Matching notes are
+  on `canon/factions/Dominions.md` and in the Track-1 proposal.
+- **M24's regional readings** stand if they fit the narrative.
+- **B05's POL supplement:** yes.
+- **Realism v2:**
+  - Caro's patient is de-identified;
+  - the fatigue scenes get rest or cover;
+  - Lucien is to be **an external consultant of an existing organization holding a corporate license**.
+- **Checked:** Louisiana licenses engineering firms, and a licensed firm's work must be done by, or under the
+  responsible charge (*direct control and personal supervision*) of, a licensed engineer.
+
+**Proposed arrangement, to confirm:** a local engineering firm, licensed and holding the parish contract, engages
+Lucien as a consultant. His cover's Regional Review supplies him.
+- The firm's licensed engineer has responsible charge and signs the firm's findings.
+- Lucien's *None* stays his personal statement on the coroner's form, the *including the inspector* line. It is not
+  sealed work, so its weight and its falseness both stand.
+
+**Open:**
+- the remaining conduct items D5–D9;
+- the records items (C3–C9 of v2).
+
+END OF ENTRY 365
+
+===============================================================
+
+
 END RECOVERY LEDGER

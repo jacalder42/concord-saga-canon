@@ -106,6 +106,11 @@ Dominions are visible, authoritative, and confident.
 
 Dominions become **ideological DNA**, not central actors.
 
+> **Note, 2026-10-02 (author, approved design; ledger §365):** the Neon era is an **arc within the trilogy**. The
+> Dominions **rise into overt prominence early in Neon**, as mundane governments buckle (Q-GV2), then **wane by
+> Neon's end**, when institutional legitimacy erodes and their doctrines pass on as ideological DNA (the list above).
+> The two readings are stages of the same arc, not a contradiction.
+
 ---
 
 ### LOOM ERA

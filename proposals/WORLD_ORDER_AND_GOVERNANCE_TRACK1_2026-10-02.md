@@ -285,3 +285,13 @@ From the block (AS; G5):
 One competent and one failing official in B07–B08; a B09 A1 scene where institutions try to keep order and fail;
 one governance glimpse per movement. **All of it stays inside M51: no official knows the site.** Recorded as
 addenda on the B07, B08 and B09 pass-3 architecture.
+
+---
+
+## Addendum, 2026-10-02 (author answers; ledger §365)
+
+- **The Dominions in Neon are an arc:** they rise into overt prominence early in Neon, then wane by Neon's end, when
+  their doctrines pass on as ideological DNA. The card carries a matching note.
+- **M24's regional readings** (Chicago: Denial-stability under strain; the Southwest: Denial-stability, then
+  Fracture after the Rupture) are kept *if they fit the narrative* when those books are drafted.
+- **B05's fourth supplement**, the POL behind the throttling, is approved.
