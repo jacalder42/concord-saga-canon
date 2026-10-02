@@ -15727,4 +15727,23 @@ END OF ENTRY 361
 ===============================================================
 
 
+## §362 — E01 realism; the paramedics take Dré to the hospital; the story is present day, 2026-10-02
+
+**Answers:** `decisions/B01_E01_REALISM_TRANSPORT_AND_STORY_PERIOD_AUTHOR_ANSWERS_2026-10-02.md`.
+- **The E01 realism review** (Medicaid renewal, 911 routing, dispatcher CPR for a child, EMS, the death
+  investigation) found the chapter mostly accurate. Three fixes are applied (manuscript `bcdcc8e`): no lay pulse check;
+  the call is transferred across the parish line and the house tried; Odile wants a person, not a phone.
+- **The author's choice:** the paramedics take Dré to the hospital and Renée rides with him. Seraphine stays with Odile
+  for the deputies' reports. The coffee confrontation is cut. The coroner stays, because Louisiana law makes a child's
+  sudden death a coroner's case wherever it happens.
+- **The period:** present day, and no year on the page (approved design).
+
+**Started:** one reviser for E01 and E02 together. The brief is private, in the manuscript's
+`draft-notes/draft3/notes-e01/`.
+
+END OF ENTRY 362
+
+===============================================================
+
+
 END RECOVERY LEDGER
