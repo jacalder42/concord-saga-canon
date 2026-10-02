@@ -15965,4 +15965,20 @@ END OF ENTRY 370
 ===============================================================
 
 
+## §371 — Sudowrite's import of the under-120k version: three findings held for discussion, 2026-10-02
+
+- The import is accepted under the cap.
+- **At the author's instruction, three findings are noted for a dedicated discussion after his read:**
+  - the shielding theory reads as the book's thesis, despite E46; E01's contrast and E29's laughter scene feed it, and
+    it touches Mechanica §42A;
+  - Act II's measuring outings still drag; the question is structural;
+  - the E44 confession may lack the dread that leads up to it.
+- The import's advice to tie Lucien's isolation to his vulnerability is declined.
+- Recorded as an addendum to `reports/B01_DRAFT3_UNDER_120K_HUMANISM_PASS_REPORT_2026-10-02.md`. **No change.**
+
+END OF ENTRY 371
+
+===============================================================
+
+
 END RECOVERY LEDGER

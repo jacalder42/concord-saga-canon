@@ -66,3 +66,30 @@ The complete Markdown and the DOCX files are the import candidates for Sudowrite
 The eight revisers and one checker used about 1.8 million subagent tokens.
 
 **Next: the author's read, and the Sudowrite import test on this version.**
+
+---
+
+## Addendum, 2026-10-02: Sudowrite's import of this version
+
+The author imported this version into Sudowrite, and it was accepted under the 120k cap. **At his instruction, three
+findings are noted for a dedicated discussion later**, after his read. They are not acted on now.
+
+1. **The shielding theory reads as the book's thesis.** Both imports take *"the pressure targets people carrying
+   burdens alone"* as the book's revelation, even with E46's refutation now explicit. Two things keep the reading alive:
+   - E01's grief line is a contrast (grief leans; the pressure does not), and the import read only the half that
+     supports the theory.
+   - E29's laughter scene is vivid evidence for the theory, and nothing answers it.
+
+   This touches Mechanica §42A: empathy is a responsive medium, not a virtue gate. **Declined:** the import's advice to
+   make Lucien's isolation the reason he is vulnerable. It would turn the theory into a rule and explain the
+   phenomenon.
+
+   **Question for the author:** may readers leave B01 half-believing Seraphine's wrong theory, or should E29 or E46 do
+   more?
+2. **Act II's pacing is still flagged after an 11% cut.** What remains is structural: the number of measuring outings.
+   One option is to combine several into a single escalating sequence. This is a structural decision, not a trim.
+3. **The E44 confession may feel abrupt.** The confession was kept verbatim, but some of the dread leading up to it may
+   have been cut. Check it at the read. Sudowrite's Expand tool is not to be used.
+
+Minor: the import misattributes a fall to Mrs. Arceneaux, and it conflates the E25 visit with the E44 confession.
+**No change is made.**
