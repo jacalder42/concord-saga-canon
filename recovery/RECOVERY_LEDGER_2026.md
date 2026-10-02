@@ -15839,4 +15839,36 @@ END OF ENTRY 365
 ===============================================================
 
 
+## §366 — The realism pass approved and applied; reading copies rebuilt, 2026-10-02
+
+**The answer:** *"approved"*, recorded in `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`.
+The report is `reports/B01_DRAFT3_REALISM_PASS_REPORT_2026-10-02.md` (quote-free).
+
+**Manuscript:**
+- three revisers, one per act, worked from one brief;
+- every approved item was applied;
+- Lucien is now an external consultant to a licensed firm (provisionally Broussard & Lowe Engineering);
+- one office label stands;
+- the continuity check covered 47 changes, including the E01–E02 transport, and made 6 fixes;
+- the facts sheet is updated;
+- 132,972 words;
+- the reading copies (HTML, EPUB, Markdown, three DOCX) are headed *realism pass (2026-10-02)*;
+- commits: manuscript `d7bcbd1` and `58ac718`.
+
+**Canon:**
+- dated card notes on Lucien, Baz, Caro and Seraphine, with flags on Elisabet and Tahl;
+- the immigration, funding and logistics record (approved design, off the page);
+- validator 0, 171 self-tests OK.
+
+**Open:**
+- Elisabet's father's name, Tahl's surname, the firm's name;
+- C2, Guidry's follow-up, which was not re-put to the author.
+
+**Next: the author's read.**
+
+END OF ENTRY 366
+
+===============================================================
+
+
 END RECOVERY LEDGER
