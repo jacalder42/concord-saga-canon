@@ -73,6 +73,9 @@ The handle becomes a meme **without him**.
 - Followers disagree on what Brightbreak “means”
 - Contradiction strengthens it rather than weakening it
 - Absorbs some Neon Rebellion splinters; others dissolve or stay independent *(author ruling 2026-09-26)*
+  - *Note, 2026-10-02 (Q-GV5, approved design; `decisions/GOVERNANCE_AND_CIVIC_BREAKDOWN_AUTHOR_ANSWERS_2026-10-02.md`):*
+    *Neon Rebellion* is the officials' and the press's word for the resonant populist rising; the leaderless
+    movement takes it up, and Kade is its accidental voice. The ruled lineage above is unchanged.
 
 The movement is **larger than Elias**, but he learns to steer it.
 

@@ -151,3 +151,15 @@ is the rear action and the flare; the last cluster is the rest of the Mending.**
 The breathing veil, held jointly. Kade's first post after the Mending, pressed by Lacuna's hand. A
 question from the sky that he can answer, **and the book closing before he does**, which leads back to
 *The Conversation in the Sky*.
+
+---
+
+## Addendum, 2026-10-02: civic texture (Q-GV10)
+
+**Approved design** (`decisions/GOVERNANCE_AND_CIVIC_BREAKDOWN_AUTHOR_ANSWERS_2026-10-02.md` Q-GV10; context `proposals/WORLD_ORDER_AND_GOVERNANCE_TRACK1_2026-10-02.md` §12, §14). Appended; the body above is unchanged.
+
+- **A B09 Act I scene where institutions try to keep order and fail** (the author's accepted realism note, NS 14180).
+  Its episode is chosen at EBCI; the road south (E01–E15) is where it falls.
+- **One governance glimpse per movement**, one scope signal each. No generic obstruction.
+- **All of it stays inside M51: no official knows the site**, and the factions learn it only in Act III.
+- **Post-Mending stays at the epilogue**, *"perfectly imperfect"* (G13): no new authority.

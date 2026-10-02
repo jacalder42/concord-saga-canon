@@ -133,3 +133,16 @@ Southwest.
 - **Places:** Seraphine and Lucien in NOLA, together; Caro in Chicago; Elisabet in Reykjavík; Rex in
   Singapore; Tahl in the Southwest; Kade in NOLA.
 - **Tahl:** paying for the Last Clear Act; carrying a warning he cannot source.
+
+---
+
+## Addendum, 2026-10-02: the throttling's public order (Q-GV6)
+
+**Approved design** (`decisions/GOVERNANCE_AND_CIVIC_BREAKDOWN_AUTHOR_ANSWERS_2026-10-02.md` Q-GV6; context `proposals/WORLD_ORDER_AND_GOVERNANCE_TRACK1_2026-10-02.md` §10). Appended; the body above is unchanged.
+
+- **The host's throttling of MT at E11 and E39 complies with a public order.** The host is not acting alone against
+  Tahl; it is obeying an order it can point to. The cost stays Tahl's (G4's cost, as above).
+- **One POL supplement carries the order** (its public face, framed as safety or misinformation control). It is a
+  fourth supplement beside S01–S03; its working placement is near E11, before E39, and is chosen at EBCI.
+- **No national shutdown.** Late Veil had soft framing only; B06/B07 blackouts stay local and uneven. MT stays the
+  last broadly working public channel (M26). No new named official or body.

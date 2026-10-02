@@ -177,3 +177,16 @@ The deferral is ended.
 - **Kade**: complicit, followed, lying to himself. **Lacuna**: in NOLA, building a lie big enough for
   the factions. **Caro**: in the Gulf, building the road in.
 - **Seraphine**: believes the price is hers. **Lucien** has seen her hide it.
+
+---
+
+## Addendum, 2026-10-02: civic texture (Q-GV10)
+
+**Approved design** (`decisions/GOVERNANCE_AND_CIVIC_BREAKDOWN_AUTHOR_ANSWERS_2026-10-02.md` Q-GV10; context `proposals/WORLD_ORDER_AND_GOVERNANCE_TRACK1_2026-10-02.md` §12, §14). Appended; the body above is unchanged.
+
+- **One competent and one failing official across B07–B08** (see the B07 addendum); either may fall in B08, chosen
+  at EBCI.
+- **One governance glimpse per movement**: Santa Fe, Mound City and Serpent Mound each get at least one (POL
+  supplement or background), one scope signal each. No generic obstruction.
+- **All of it stays inside M51: no official knows the site.** Officials may read the remnant's *"Louisiana"*
+  inference as the public does; none knows Honey Island.

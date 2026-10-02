@@ -89,6 +89,13 @@ No single Dominion figure is indispensable.
 
 Dominions are visible, authoritative, and confident.
 
+> **Note, 2026-10-02 (Q-GV2, approved design; `decisions/GOVERNANCE_AND_CIVIC_BREAKDOWN_AUTHOR_ANSWERS_2026-10-02.md`):**
+> *hidden nature, visible instruments.* In Veil, "visible" means their **instruments**: their offices and advisories
+> act in public under ordinary names, and a public body signs what they recommend (Q-GV3). Their **nature**
+> (doctrine, lineage, resonance knowledge) stays hidden. B01 keeps them unnamed. Q-GV2 also records the Neon era as
+> their rise into overt prominence (the author's G3); the Neon-era section below is not changed by this note. The
+> line above is kept as written. Context: `proposals/WORLD_ORDER_AND_GOVERNANCE_TRACK1_2026-10-02.md`.
+
 ---
 
 ### NEON ERA

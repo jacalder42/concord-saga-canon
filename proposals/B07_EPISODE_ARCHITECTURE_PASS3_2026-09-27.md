@@ -144,3 +144,18 @@ west; Kade stays, estranged from Lacuna.
 - **In New Orleans:** Kade, with MT and Elias; Lacuna, estranged from him, with her people.
 - **Knowledge:** the channel has the shape; the public has an accusation and a broken district.
 - **Seraphine:** drawn, doubting the old way, and told nothing of its price.
+
+---
+
+## Addendum, 2026-10-02: civic texture (Q-GV10, Q-GV7)
+
+**Approved design** (`decisions/GOVERNANCE_AND_CIVIC_BREAKDOWN_AUTHOR_ANSWERS_2026-10-02.md` Q-GV10, Q-GV7; context `proposals/WORLD_ORDER_AND_GOVERNANCE_TRACK1_2026-10-02.md` §7, §12, §14). Appended; the body above is unchanged.
+
+- **One competent and one failing official across B07–B08** (the author's accepted realism note, NS 42926). Which
+  book carries which, and where, is chosen at EBCI; B07's Uptown episodes (E28, E32) are the natural home for the
+  failing one, and nothing here places it.
+- **One governance glimpse per movement** (the Loom cadence): POL supplements or background (bulletin, broadcast,
+  checkpoint residue), one scope signal each. No generic obstruction is added to meet it.
+- **Early B07 carries the end of the legitimacy break** that begins in the B06 epilogue (Q-GV7): the official account
+  of Santa Fe has failed in public.
+- **All of it stays inside M51: no official knows the site.**

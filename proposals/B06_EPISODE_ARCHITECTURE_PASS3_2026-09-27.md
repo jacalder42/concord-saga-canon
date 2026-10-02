@@ -146,3 +146,19 @@ Tahl dies at the still-open rupture, and Silence collects his echo.**
   Singapore. **The long legs to the funeral** begin (G7).
 - **The world:** Technarc's authority is broken in Singapore, and its hardliners are a remnant; the
   Choirless have used force in NOLA; the Neon Rebellion is leaderless.
+
+---
+
+## Addendum, 2026-10-02: the legitimacy break (Q-GV7)
+
+**Approved design** (`decisions/GOVERNANCE_AND_CIVIC_BREAKDOWN_AUTHOR_ANSWERS_2026-10-02.md` Q-GV7; context `proposals/WORLD_ORDER_AND_GOVERNANCE_TRACK1_2026-10-02.md` §7). Appended; the body above is unchanged.
+
+- **The saga's collapse shape is A + light B**: a slow, regionally uneven slide, then a sudden break.
+- **The sudden break is a legitimacy break, not a physical cause.** The official account fails publicly in **the B06
+  epilogue and early B07**: what officials said about Santa Fe is seen not to hold. Santa Fe does not physically cause
+  worldwide degradation (M24's note stands); ruled M20, M38 and M39 are untouched.
+- **Candidate carriers in the epilogue (not placements):** S02 (the first official account of the Santa Fe dead) is the account that
+  fails; the failure is seen as the confirmation spreads (E46) and the public reads Kade's grief (E48). Exact
+  placement is chosen at EBCI; no new episode or row.
+- **The site secret holds** (M51): the break is about Santa Fe and trust, never Honey Island. The exit state's
+  *"the world"* line gains this reading: officials' credibility is broken in public as B07 opens.

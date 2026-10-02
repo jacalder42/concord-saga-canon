@@ -15774,4 +15774,40 @@ END OF ENTRY 363
 ===============================================================
 
 
+## §364 — Q-GV1–10 answered and applied (approved design); a provenance correction, 2026-10-02
+
+**The answer:** *"proceed as recommended"*. Recorded in `decisions/GOVERNANCE_AND_CIVIC_BREAKDOWN_AUTHOR_ANSWERS_2026-10-02.md`.
+
+**Applied, additively:**
+- **`proposals/WORLD_ORDER_AND_GOVERNANCE_TRACK1_2026-10-02.md`**, approved design. It carries the Track-1 block
+  verbatim, G1–G18, the reconciliations, the response modes, A + light B (a legitimacy break), the military
+  direction, the cover term *Neon Rebellion*, and the comms ladder.
+- Dated notes, with no line rewritten:
+  - on `canon/factions/Dominions.md` (Q-GV2) and `canon/factions/Brightbreak.md` (Q-GV5);
+  - in the grid notes for M18, M35, M42 and M24 (Q-GV5, Q-GV8). No status changed, and the book contexts show no
+    drift.
+- **B02 E27:** the city's emergency office issues the clearance order on a Dominion recommendation (Q-GV3).
+- **Addenda** to the B05–B09 pass-3 architecture proposals (Q-GV6, Q-GV7, Q-GV10).
+- Validator 0; 171 self-tests OK.
+- **Not applied:** B01 and `rules/`. Q-GV4 waits for the next B01 revision.
+
+**Provenance correction (to §363 and the recovery's wording).** The Track-1 block at WB l.11516 sits in a `## USER`
+turn, but **it is an assistant compile-box that the author pasted back**. The original is in
+`2025-11-30__Project_review_and_guidance__692c44d7.md` l.15768–15820. It condenses a discussion the author drove; his
+own words there are at l.13110, 13833 and 14074. Its weight is therefore *author-saved assistant text*, not the
+author's own words. The approval stands, because it was made on the recommendations.
+
+**Open, for the author:**
+- The Dominions card's Neon section (*"Direct power wanes"*) sits against Q-GV2's *rise into overt prominence*. The
+  note flags it; the section is unchanged.
+- The M24 readings chosen for Chicago (Denial-stability under strain) and the Southwest (Denial-stability, then
+  Fracture after the Rupture) are provisional.
+- B05 gains a fourth supplement, the POL.
+- **The protagonist realism pass (list v2) is still open.**
+
+END OF ENTRY 364
+
+===============================================================
+
+
 END RECOVERY LEDGER
