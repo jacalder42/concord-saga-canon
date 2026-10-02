@@ -15746,4 +15746,32 @@ END OF ENTRY 362
 ===============================================================
 
 
+## §363 — Governance and civic breakdown recovered from the export; Q-GV1–10, 2026-10-02
+
+**The author's request:** check whether the governmental and regulatory breakdown intent developed in the chat exports
+was missed (*"There was a healthy amount of intent developed."*). A forwarded ChatGPT implementation audit was weighed
+alongside.
+
+**Recovery:** `recovery/GOVERNANCE_AND_CIVIC_BREAKDOWN_SOURCE_RECOVERY_2026-10-02.md`. The readers' notes are in
+`recovery/governance_source_notes_2026-10-02/`.
+- Three readers covered all 70 conversations: 94 findings.
+- **The 09-23 Dec. 1 pass found only one governance passage.** It missed four things:
+  - the author's own **Track-1 *World Order / Governance & Leaks*** block (iceberg governance, governance by trilogy,
+    four response modes for mundane governments, a perimeter rhythm, a leak taxonomy, comms crackdown → MT);
+  - his question whether *Neon Rebellion* is the governments' term;
+  - his military direction;
+  - the chosen collapse model, **A + light B**.
+- **None of the frame reached `rules/` or `canon/`.** What reached the repository came by other routes, and is
+  consistent with it: the B02–B04 policy chain, the faction cards, M24 and the B07 architecture.
+- **Absent:** curfews, military doctrine, a government map. **Contradicted in part:** the Dominions' Veil-era
+  visibility on their card.
+- **The forwarded audit's main claims hold.**
+
+**Open:** Q-GV1–10. None is ruled, and no substrate changed.
+
+END OF ENTRY 363
+
+===============================================================
+
+
 END RECOVERY LEDGER
