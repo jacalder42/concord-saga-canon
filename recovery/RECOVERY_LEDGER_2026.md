@@ -15871,4 +15871,22 @@ END OF ENTRY 366
 ===============================================================
 
 
+## §367 — Realism follow-ups: Tahl's surname, the firm, Guidry; Elisabet's father held, 2026-10-02
+
+**Answers:** `decisions/REALISM_FOLLOWUPS_TAHL_FIRM_GUIDRY_AUTHOR_ANSWERS_2026-10-02.md`.
+- **Tahl** chose *Morgan* for his media goals. Recorded on his card.
+- **The firm** is kept as Broussard & Lowe Engineering. The author was told that a real *Lowe Engineers* has a New
+  Orleans office.
+- **Guidry's follow-up**, applied in the manuscript:
+  - E38: Lucien is to get himself looked at, and the firm has taken him off its site visits until they talk;
+  - E48: it stands until he is looked at;
+  - the facts sheet is updated.
+- **Elisabet's father *Arnar*** is held. *Arnardóttir* takes its patronymic from **Örn**. A father named Arnar
+  needs *Arnarsdóttir*. The author is asked to confirm.
+
+END OF ENTRY 367
+
+===============================================================
+
+
 END RECOVERY LEDGER
