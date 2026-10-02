@@ -15939,4 +15939,30 @@ END OF ENTRY 369
 ===============================================================
 
 
+## §370 — The under-120k humanism pass released and done, 2026-10-02
+
+- **Released:** *"go"*, to four decisions:
+  - release revision for one pass;
+  - Q-TM1–3 as recommended;
+  - a target of about 117–118k;
+  - ChatGPT's E13 and E30 beats.
+
+  Recorded in `decisions/B01_DRAFT3_UNDER_120K_HUMANISM_PASS_AUTHOR_ANSWERS_2026-10-02.md`.
+- **Done:** one combined cut-and-humanism pass by act, with eight revisers and a private brief.
+  - B01 went from 132,976 to **118,186 words**, under Sudowrite's 120k cap.
+  - Time bookkeeping, recaps and restated meaning were cut. Words were spent on distinct dialogue agendas, privacy
+    arguments and thought inside action.
+  - The E44 correction gap is closed, E46's refutation is explicit, and an E49 guard line is removed.
+- **Continuity check:** no break; four judgement calls are left for the author's read.
+- **Reading copies:** the HTML, EPUB, Markdown and three act DOCX files are rebuilt, headed *under-120k humanism pass*.
+- Manuscript commit `6d3f01f`. Report:
+  `reports/B01_DRAFT3_UNDER_120K_HUMANISM_PASS_REPORT_2026-10-02.md`.
+
+**Next: the author's read, and the Sudowrite import test.**
+
+END OF ENTRY 370
+
+===============================================================
+
+
 END RECOVERY LEDGER
