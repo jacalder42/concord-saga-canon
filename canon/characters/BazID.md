@@ -52,4 +52,6 @@
 ## X. Canon Conflict Ledger (Preserved Record)
 - **No major conflicting identity packages** recorded in the current Baz source set provided in this chat.
 
+- **Dated note, 2026-10-03 (approved design, Q-PI2):** Baz **was** Dominion, alongside Lucien in Vienna, and **left when he learned what they were studying**. This supersedes, for B01, the NGO-only path above and the 2025-11-27 timing (Baz still in Vienna during B01). He knows more than he says and keeps it from Lucien for Lucien's safety. Why he left can come out before the end of B01; what he knows about the phenomenon comes out at the end of B01 (Q-PI3 as amended). The Dominion is looking for him (Q-PI5). `decisions/B01_PRESSURE_INTRIGUE_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-10-03.md`.
+
 END — BAZ (BASTIEN “BAZ” ARNAUD) IDENTITY CANON

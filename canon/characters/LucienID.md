@@ -58,4 +58,6 @@
 - **No major conflicting identity packages** remain active for Lucien in the current source set.
 - **Sibling presence (Elena Kael):** retained as canon unless explicitly removed; functions as early rupture imprint.
 
+- **Dated note, 2026-10-03 (approved design, Q-PI1):** Lucien knows he is Dominion and that the Hollen Institute is a cover, but **not** that his review has him finding instances of the phenomenon for the people behind it. He is used, not complicit. `decisions/B01_PRESSURE_INTRIGUE_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-10-03.md`.
+
 END — LUCIEN KAEL IDENTITY CANON

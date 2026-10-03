@@ -231,3 +231,5 @@ They are the institutional antagonist the world must learn to live beyond.
 - `VirelliEBCI.md`
 - Antagonist Architecture Bible
 - Veil System Canon
+
+- **Dated note, 2026-10-03 (approved design, Q-PI5):** in B01 the Dominion is one of two pressures. Its people are procedural and ordinary-looking, with one named face; they are looking for Baz and are interested in Lucien's notes. References are occluded; their form is open, and the ladder may move.

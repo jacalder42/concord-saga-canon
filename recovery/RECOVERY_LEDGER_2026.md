@@ -16058,4 +16058,26 @@ END OF ENTRY 374
 ===============================================================
 
 
+## §375 — Q-PI1–8 and Q-SF1–9 answered; heat ceiling retired; card and profile notes, 2026-10-03
+
+- **Answered:** *"Accept rest as approved unless amended by above."* All recommended answers are approved design, with
+  these amendments:
+  - oblique Dominion references and Technarc clues have **no preferred form**;
+  - **the R-rating ceiling (from ChatGPT) and the book-level heat ladder are retired**; the author edits for excess;
+  - Baz's reveal of the phenomenon comes at the end of B01, and his reason for leaving the Dominion can come earlier.
+
+  Recorded in `decisions/B01_PRESSURE_INTRIGUE_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-10-03.md`.
+- **Applied:**
+  - writer profile §5A: *Mystery is not stasis*;
+  - writer profile §11: the R line retired; the ladder retired; clinical terms a costed default; consent and *nothing
+    strange creates desire* stay ruled; B01 keeps no kiss;
+  - dated notes on LucienID (used, not complicit), BazID (former Dominion; supersedes the NGO-only path and the 11-27
+    timing), Technarc and Dominions (the two pressures).
+- **Next:** the B02/B03 alignment check (report only), then the B01 packets, then one revision.
+
+END OF ENTRY 375
+
+===============================================================
+
+
 END RECOVERY LEDGER

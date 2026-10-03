@@ -78,6 +78,8 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 - **Humour and courage are the voice's; characters can fail at both.** A character can joke cruelly, make a reckless choice, or override someone. The narration neither rewards it nor looks away from what it costs.
 - **Manufactured friction costs credibility:** cruelty for texture, villains made by rigidity, invented arguments. Friction comes from what people want and protect.
 
+**Mystery is not stasis** (Q-SF2, 2026-10-03). The cause stays unexplained; progress does not. A scene that tests something should leave the characters able to believe or do something they could not before: a door closed, a practice that helped, a finding limited to what was measured. A point-of-view character may be confidently wrong, and the page may let it stand. A supporting character may care and still misread what someone needs. Attraction may bend a practical decision without a word said. Nobody has to state what a scene meant. Lucien may conceal where he comes from while openly pursuing what he wants to know.
+
 ## 6. Humour
 
 - **Humour is honesty, not decoration.** It vents pressure, punctures pretension and makes hard things sayable. It is **earned, spontaneous and local to the pressure in the scene.**
@@ -124,11 +126,11 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 
 - **Emotion over physicality. Heat is earned through emotional truth**, and every intimate scene changes the relationship.
 - **Consent is present** *(ruled)*: spoken, unspoken between people who know each other, and renegotiated when things shift. **Nothing strange creates desire or replaces consent** *(ruled)*.
-- **Physical detail stays selective and character-specific.** Sensuality comes through attention, proximity, choice and response rather than anatomical inventory or explicit mechanics. The ceiling is an **R rating** *(ruled)*.
-- **Clinical terms, graphic mechanics, kink-coded language and supernatural-arousal metaphors are outside the ceiling** *(ruled)*.
+- **Physical detail stays selective and character-specific.** Sensuality comes through attention, proximity, choice and response rather than anatomical inventory or explicit mechanics. **No fixed rating ceiling** (author, 2026-10-03: these are novels for adults, and the author edits anything that goes too far; the earlier *R rating* line came from a forwarded ChatGPT text and is retired).
+- **Clinical terms, graphic mechanics and kink-coded language usually read as outside this voice** (a costed default since 2026-10-03, no longer a ceiling). **Supernatural-arousal metaphors stay out**, because nothing strange creates desire *(ruled, above)*.
 - **Intimacy during active danger costs the danger or the intimacy;** it usually belongs to the aftermath.
 - **Romantic attention is selective.** It differs from how this person attends to everyone else, and it changes a response. Tenderness given equally to everyone doesn't signal desire.
-- **In the first three books:** spark and warmth are common; real heat is rare; the most explicit level does not appear *(ruled)*.
+- **Heat develops at the pace the relationship earns on the page** (author, 2026-10-03). The book-level heat ladder (*"spark and warmth common; real heat rare; the most explicit level absent in the first three books"*) is retired: it suited saga planning but delayed development at line level. In B01 heat rises through touch, brushes of skin, rescues and collisions; there is no kiss and nothing romantic is declared aloud (Q-PI8, approved design).
 
 ## 12. Line-level tells to avoid
 

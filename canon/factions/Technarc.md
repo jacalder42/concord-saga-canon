@@ -222,3 +222,5 @@ They are the institutional antagonist of **logic divorced from humanity**.
 - `canon/pov/HanWeiPOV.md` *(path corrected 2026-09-27; was `han_wei_pov.md`)*
 - Antagonist Architecture Bible
 - Mechanica v4
+
+- **Dated note, 2026-10-03 (approved design, Q-PI5):** in B01, Technarc is one of two pressures: unnamed researchers who own the sensor boxes and want the record of where and when the phenomenon happens. It is felt, never named. Clues are understood only in later books; their form is open, and no example is preferred.
