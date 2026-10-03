@@ -16265,4 +16265,21 @@ END OF ENTRY 382
 - **"Proceed":** one B01 revision, act by act, from the packets updated at §384.
 - Recorded as §5 of `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
 
+## §386 — B01 draft 3: the pressure, intrigue and heat revision done, 2026-10-03
+
+- **Report:** `reports/B01_DRAFT3_PRESSURE_DESIGN_REVISION_REPORT_2026-10-03.md`. The revision was released at §385.
+- **Method:** seven revisers worked from the updated packets under one private brief with fixed shared facts. A
+  continuity check followed, with ten fixes.
+- **Result:** B01 is 119,844 words. A new E50 epilogue (Silence and Hope; *Veil* once) is added.
+- **On the page now:**
+  - the E39 cover kiss and confrontation;
+  - Caldas Ren at E20, E36, E43 and E48;
+  - the researchers' tag at E31, E34 and E39;
+  - Elisabet's flirting;
+  - Baz's E26 reason and E48 disclosure;
+  - the pending certificate held at Guidry's discretion.
+- **Reading copies:** rebuilt in the private manuscript repository.
+- **Not included:** the style-experiment picks and the §371–§372 held findings.
+- **Next:** the author's read.
+
 END RECOVERY LEDGER
