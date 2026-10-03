@@ -16080,4 +16080,31 @@ END OF ENTRY 375
 ===============================================================
 
 
+## §376 — The B02/B03 alignment check for the B01 pressure design, 2026-10-03
+
+- **Written:** `reports/B02_B03_ALIGNMENT_CHECK_FOR_B01_PRESSURE_DESIGN_2026-10-03.md` (report only).
+- **B02 and B03 take the new design without moving any episode.** The Dominion is still first named at B02 E08; the
+  ladder stays, as recommended. B02 E34 and B03 E14 fit better than before. A9 (Baz expects the Dominion at the
+  Warehouse) holds.
+- **Six conflicts found:**
+  - B02 E26: Baz's procedural-only concession;
+  - B02 E23: the group-knowledge note;
+  - the Warehouse: it must not read as a Dominion reprisal;
+  - B03 E17: the mirror of protection-as-insult;
+  - B02 E13: the novelty of the case;
+  - B02's method arc: it holds only if Baz knew *that* the Dominion watches, not *how*.
+- **D1–D6 await the author:**
+  - D1: the scope of what Baz knows;
+  - D2: E26;
+  - D3: Lucien's knowledge timeline;
+  - D4: the Dominion's face recurring in Veil;
+  - D5: the E17 mirror and the Warehouse guard;
+  - D6: the first Seraphine–Lucien kiss in B03 Act II.
+- No packet change.
+
+END OF ENTRY 376
+
+===============================================================
+
+
 END RECOVERY LEDGER
