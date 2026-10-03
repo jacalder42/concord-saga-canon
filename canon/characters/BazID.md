@@ -56,4 +56,6 @@
 
 - **Dated note, 2026-10-03 (approved design, B1–B2):** he left after the Dominion withheld warnings from a neighbourhood to keep its observations clean, and people were hurt. He discloses this at B01 E26, after hearing himself propose an uninformed "control group" that Seraphine refuses. How much he knows about the phenomenon stays secret until B01's end. His risk: anyone who knows what he knows becomes a liability to the people who sent Lucien. `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
 
+- **Dated note, 2026-10-03 (approved design, ledger §387):** after one failed attempt on the lot (B01 E46), his silence until E48 is his choice. At B01 E49, forced by Seraphine, he and Lucien tell her who these people are (unnamed) and what they want, Baz among it; he may say the people with the cases are not the same people. **The book ends on his suspicion that what they seek is the Veil**: a suspicion, spoken, not certified by the narrator and not explained. `decisions/B01_REVISION_REVIEWS_AND_ENDING_REVEAL_AUTHOR_ANSWERS_2026-10-03.md`.
+
 END — BAZ (BASTIEN “BAZ” ARNAUD) IDENTITY CANON

@@ -62,4 +62,6 @@
 
 - **Dated note, 2026-10-03 (approved design, F3):** *used, not complicit* holds **for B01 only**. He suspects at B01's end, is given the camp clause at B02 E08 and has it confirmed at B02 E34; from then on his silence is a choice he owns. `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
 
+- **Dated note, 2026-10-03 (approved design, ledger §387):** at B01 E49 Seraphine forces the telling, and Lucien and Baz tell her who these people are, unnamed: Lucien works for them through the Institute, Baz used to, and Caldas is theirs; and what they want: the record of where and when, the people who can feel it, and Baz. From B02 she **knows**; the observe → suspect → learn chain is superseded, and B03 E17's confession is lightened. His E48 belief about his review rests only on routes shown in B01 (his letter, Guidry's upstairs copy, the camp report by another hand, the Institute). `decisions/B01_REVISION_REVIEWS_AND_ENDING_REVEAL_AUTHOR_ANSWERS_2026-10-03.md`.
+
 END — LUCIEN KAEL IDENTITY CANON
