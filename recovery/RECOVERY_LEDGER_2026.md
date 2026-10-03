@@ -16143,4 +16143,21 @@ END OF ENTRY 378
 ===============================================================
 
 
+## §379 — Caldas Ren is the B01 Dominion face; "no blame, just inference" reopened, 2026-10-03
+
+- **Caldas Ren is approved** as the Dominion's named face from B01: surveillance, then intimidation in B02, then lethal
+  pursuit in B03. This answers Q-PI5's face and alignment D4.
+- **Reopened by the author:** *"no blame, just inference" should not be considered settled.* Heavy implication or
+  outright suspicion of Caldas and the Dominion is permitted.
+  - This unsettles the 09-27 Warehouse answer, Q-CE4's narrator reading, and alignment D5's *never a cause* guard.
+  - Whether the narration may state cause outright is open. The working default is implication and suspicion, with no
+    narrator statement of fact.
+- Recorded as addendum 2 to `decisions/HAN_WEI_ON_PAGE_AUTHOR_DIRECTION_2026-10-03.md`, with a Dominions card note.
+- **Still open:** alignment D1–D3 and D6, and the D5 mirror.
+
+END OF ENTRY 379
+
+===============================================================
+
+
 END RECOVERY LEDGER

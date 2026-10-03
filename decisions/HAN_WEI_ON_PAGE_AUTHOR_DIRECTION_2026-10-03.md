@@ -55,3 +55,29 @@ Candidate placements (Claude's recommendation, for the author):
    character would need an exit in B01 and adds nothing Caldas does not already carry.
 
    **Awaiting the author's yes.**
+
+---
+
+## Addendum 2, 2026-10-03: Caldas Ren, and blame reopened
+
+- **The B01 Dominion face is Caldas Ren** (*"Yes Caldas works well"*). He gets one arc across Veil:
+  - surveillance in B01, looking for Baz;
+  - intimidation in B02;
+  - lethal pursuit in B03.
+
+  This answers Q-PI5's face and the alignment check's D4.
+- **"No blame, just inference" is reopened.** The author:
+
+  > *should not be considered settled. I'd be fine with heavy implication or outright suspicion of Caldas and/or
+  > Dominion.*
+
+  It applies, at minimum, to the B03 Warehouse and Baz's death. **Heavy implication and outright suspicion of Caldas
+  and the Dominion are permitted**, both in the characters' suspicion and in the page's implication.
+- **The earlier readings are no longer settled:**
+  - the 09-27 Warehouse answer, *"no blame just inference"*;
+  - Q-CE4's reading, *"the narrator never certifies blame"*;
+  - the alignment check's guard, *"the Dominion's pursuit is never a cause"* (its D5).
+
+  **Still open:** whether the narration may state outright that Caldas or the Dominion caused the death. Until the
+  author decides, the working default is **heavy implication and characters' suspicion, with no narrator statement of
+  fact**.
