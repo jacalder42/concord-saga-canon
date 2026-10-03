@@ -16313,4 +16313,13 @@ END OF ENTRY 382
 - **Agent's choice:** a Caldas sighting at the Square at E49, made by the packet agent; flagged to the author.
 - **Next:** the author's read.
 
+## §389 — The third revision review; the Veil basis; the Act II restructure map, 2026-10-03
+
+- **Input:** ChatGPT's review of manuscript `9079864`, with a fresh blind read (7.5 / 10; mystery comprehension and payoff 5.5).
+- **Verified and fixed:** in E49 Lucien no longer says he doesn't know their name; he knows it and withholds it (manuscript `2bcf70b`, import copy synced).
+- **Answered** (`decisions/B01_VEIL_BASIS_AND_ACT_II_RESTRUCTURE_AUTHOR_ANSWERS_2026-10-03.md`):
+  - Baz's Veil guess rests on a word he once saw in Vienna (option A);
+  - a consequence beat follows at E49;
+  - an Act II scene-function map comes next: condense the procedural investigation and give the space to outside pressure and mystery. Each merge waits for the author.
+
 END RECOVERY LEDGER
