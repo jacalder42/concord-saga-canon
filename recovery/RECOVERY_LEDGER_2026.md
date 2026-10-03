@@ -16322,4 +16322,13 @@ END OF ENTRY 382
   - a consequence beat follows at E49;
   - an Act II scene-function map comes next: condense the procedural investigation and give the space to outside pressure and mystery. Each merge waits for the author.
 
+## §390 — E49's Veil basis applied; the Act II scene-function map written, 2026-10-03
+
+- **E49:** Baz saw the word on a folder tab in Vienna. After his line, Seraphine keeps her log in private marks from then on. Packets updated (canon `e4ef961`), manuscript `38b178a`, import copy synced at 116,954.
+- **The map:** `proposals/B01_ACT_II_SCENE_FUNCTION_MAP_2026-10-03.md`.
+  - Five procedural clusters condensed, freeing about 2,560 words.
+  - Twelve new pressure and mystery beats (N1–N12), adding about 1,780–1,900.
+  - Act II nets about −700; the book stays near 119.1k.
+  - **Q-AM1–13 await the author.**
+
 END RECOVERY LEDGER
