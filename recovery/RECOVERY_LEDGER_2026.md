@@ -16000,4 +16000,30 @@ END OF ENTRY 372
 ===============================================================
 
 
+## §373 — The structural-foundations proposal, 2026-10-03
+
+- **The author instructed one short proposal** on the rules and plot mechanisms that keep recreating B01's weaknesses
+  (`decisions/B01_STRUCTURAL_FOUNDATIONS_PROPOSAL_AUTHOR_INSTRUCTION_2026-10-03.md`).
+- **Written:** `proposals/B01_STRUCTURAL_FOUNDATIONS_PROPOSAL_2026-10-03.md`. It draws on a read-only provenance trace of
+  eight rules and on sourced Louisiana procedure research.
+- **Rules:**
+  - Only R2, the E49 guard *nothing confirms anything worked*, is an assistant guard that genuinely constrains, and it
+    conflicts with D6.
+  - The rest are author rulings or approved design, and the problems around them come from execution habits.
+  - *Veil felt / Neon quantified* was a question, never ruled.
+- **Plot mechanisms:** about 30 patches across five areas.
+  - **Inspection:** a dwelling hazard check, requested because a generator was running and the CO result is equivocal.
+    The *None* stays a concealment of his own experience.
+  - **Case closure:** a pending certificate while autopsy labs return. Seraphine's statement keeps the environmental
+    question open; Renée's agency is kept.
+  - **The false complaint** is kept.
+  - **The forecast** becomes one claim stated on the page.
+  - **E06:** Keon moves on his own.
+- **Q-SF1–9 await the author.** No canon or manuscript change.
+
+END OF ENTRY 373
+
+===============================================================
+
+
 END RECOVERY LEDGER
