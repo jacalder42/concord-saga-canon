@@ -16026,4 +16026,36 @@ END OF ENTRY 373
 ===============================================================
 
 
+## §374 — B01 pressure, intrigue and heat: author direction recorded; one decision packet, 2026-10-03
+
+- **The author's direction:**
+  - the factions and resonance become more visible and drive the plot;
+  - more mystery and intrigue, action or confrontation, and more romantic heat;
+  - **Lucien and Baz's Dominion fit restored.** Lucien is still Dominion and unknowingly used to find instances. Baz
+    left when he learned and is torn about telling Lucien.
+  - Baz reveals his knowledge at the end of B01, and Silence and Hope react;
+  - two pressures: researchers (Technarc?) and the Dominion, who are looking for Baz.
+- **Record check:**
+  - Lucien's Dominion tie is the author's own (09-30). What he knows of resonance was never specified.
+  - Baz leaving before B01 was only a 09-22 assistant proposal. The 11-27 export has him still at the Dominion in B01,
+    and BazID has no Dominion.
+  - The Silence-and-Hope B01 epilogue is the author's own 2025-11-10 idea, newly recovered.
+- **His answers to the collisions (approved design):**
+  - occluded Dominion references, with the ladder movable;
+  - Resonance stays off the page, and Baz's way of revealing may make Silence and Hope wonder whether he knows about
+    the Veil;
+  - Technarc unnamed, with later-book clues;
+  - *only the time* retired;
+  - the romance ceiling raised without a kiss.
+
+  Recorded in `decisions/B01_PRESSURE_INTRIGUE_AND_HEAT_DIRECTION_AUTHOR_ANSWERS_2026-10-03.md`.
+- **Packet:** `proposals/B01_PRESSURE_INTRIGUE_DECISION_PACKET_2026-10-03.md`. Q-PI1–8, plus Q-SF1–9 (Q-SF4 is
+  superseded by Q-PI5), await the author.
+- No card, packet or manuscript change yet. The B02/B03 alignment check comes first after the answers.
+
+END OF ENTRY 374
+
+===============================================================
+
+
 END RECOVERY LEDGER
