@@ -16282,4 +16282,19 @@ END OF ENTRY 382
 - **Not included:** the style-experiment picks and the §371–§372 held findings.
 - **Next:** the author's read.
 
+## §387 — Two reviews of the revision; the ending reveal, 2026-10-03
+
+- **Inputs:** two forwarded ChatGPT reviews of manuscript `be46704`, a fresh blind full read (7.5 / 10) and a revision-focused review. All their claims were verified:
+  - the E07/E06 contradiction;
+  - E48's reporting history against E24;
+  - the phone theft's missing consequence;
+  - E25's certificate wording;
+  - "only times" at E20;
+  - Baz's quick recognition and his unexplained silence.
+- **Answered** (`decisions/B01_REVISION_REVIEWS_AND_ENDING_REVEAL_AUTHOR_ANSWERS_2026-10-03.md`, approved design):
+  - fixes (a), (b), (d) and (e) as recommended;
+  - **(c) replaced:** Seraphine forces the telling at E49, and Baz closes on his suspicion that what they seek is *the Veil*. Silence and Hope react in E50. The Dominion stays unnamed until B02 E08.
+- **Amends:** Q-PI4, §383 F1's B02 chain, and §385 C2 (*Veil* now appears at E49 and E50).
+- **Next:** the packets, then the manuscript pass.
+
 END RECOVERY LEDGER
