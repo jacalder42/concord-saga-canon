@@ -16297,4 +16297,20 @@ END OF ENTRY 382
 - **Amends:** Q-PI4, §383 F1's B02 chain, and §385 C2 (*Veil* now appears at E49 and E50).
 - **Next:** the packets, then the manuscript pass.
 
+## §388 — B01 draft 3: the ending-reveal revision done, 2026-10-03
+
+- **Report:** `reports/B01_DRAFT3_ENDING_REVEAL_REVISION_REPORT_2026-10-03.md`.
+- **Packets:** updated at canon `10dc97d`.
+- **Manuscript:** five revisers, then a continuity check with three fixes.
+- **On the page now:**
+  - E49: Seraphine forces the telling, which closes on Baz's *Veil* suspicion;
+  - E50: Silence and Hope react;
+  - the phone pays off at E48;
+  - Baz's weight at E26 and his failed attempt at E46;
+  - the review fixes;
+  - the Act II trims (−1,459 words).
+- **Length:** the working draft is 119,906 words. A separate Sudowrite import copy (116,658 words) is in the manuscript's `B01/import-2026-10-03/`.
+- **Agent's choice:** a Caldas sighting at the Square at E49, made by the packet agent; flagged to the author.
+- **Next:** the author's read.
+
 END RECOVERY LEDGER
