@@ -15981,4 +15981,23 @@ END OF ENTRY 371
 ===============================================================
 
 
+## §372 — The Act I style experiment and ChatGPT's combined trial; four findings held, 2026-10-03
+
+- **Four style drafts of Act I** (Gaiman, Hazelwood, Dinniman, HWFWM) are written on the author's instruction. They are
+  private, kept to the same scenes, points of view and facts, and breach no guard.
+- **ChatGPT's combined trial** is saved unchanged (30,399 words). Its reviews score 8/10 as before, and it is not
+  continuity-checked.
+- **Four findings are held for the post-read discussion:**
+  - the supporting cast all behave alike;
+  - E06's decision reads as arranged;
+  - E15 restates E12;
+  - patterning recurs at the level of whole scenes.
+- **Recommended:** the author's own picks feed one bounded revision; the trial is not adopted wholesale.
+- Recorded as addendum 2 to `reports/B01_DRAFT3_UNDER_120K_HUMANISM_PASS_REPORT_2026-10-02.md`. **No change.**
+
+END OF ENTRY 372
+
+===============================================================
+
+
 END RECOVERY LEDGER

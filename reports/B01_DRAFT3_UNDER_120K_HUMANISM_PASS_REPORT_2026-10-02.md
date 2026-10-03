@@ -93,3 +93,34 @@ findings are noted for a dedicated discussion later**, after his read. They are 
 
 Minor: the import misattributes a fall to Mrs. Arceneaux, and it conflates the E25 visit with the E44 confession.
 **No change is made.**
+
+---
+
+## Addendum 2, 2026-10-03: the Act I style experiment and ChatGPT's combined trial
+
+**The experiment.** On the author's instruction, Act I was rewritten in four reference styles: Gaiman, Hazelwood,
+Dinniman and HWFWM.
+- The drafts are private, in the manuscript repository's `draft-notes/style-experiment/`, each about 33–35k words.
+- Each keeps the same scenes, points of view and facts as the current draft.
+- No guard is breached; the only search hit is an idiom in Hazelwood's E03, *"could have kissed the floor"*.
+
+**ChatGPT's combined trial.** ChatGPT then merged them into a combined Act I trial, saved unchanged (30,399 words) in
+`style-experiment/chatgpt-combined/`.
+- Its two blind reviews score it 8/10 overall, the same as before. Dialogue rose a point.
+- The trial has not been continuity-checked.
+- It introduces two unverified details: a joint Lucien–Baz job in Marseille (E15), and a guard who keeps moving during
+  the E06 freeze.
+
+**At the author's instruction, four findings are added for the post-read discussion:**
+1. **The supporting cast all behave alike.** Most secondary characters notice what is happening, give practical care,
+   correct someone and then step back. The book needs some who misunderstand, get distracted, help in the wrong way, or
+   care without insight. This goes beyond the shared-register problem in profile §5A.
+2. **E06's decision still reads as arranged.** Sending Keon so that nobody blames him is a calculation made for the
+   plot. An ordinary caseworker's reflex, with her doubt coming afterward, would read better.
+3. **E15 restates E12.** The missing edge is already known. E15's real material is the witnesses' reliability,
+   Seraphine keeping her own log, and Lucien recruiting Baz while hiding what happened at the house.
+4. **The pattern repeats at the level of whole scenes.** Cups, hands, notebooks, pauses and quiet closing gestures recur
+   from scene to scene. Fixing sentence constructions alone cannot remove this.
+
+**Recommended:** the trial is not adopted wholesale. The author's own picks from the four style drafts and the trial
+feed one bounded revision. **No change is made.**
