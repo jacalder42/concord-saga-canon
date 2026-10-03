@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "act_id": "S1.T1.B01.EP",
+  "book_id": "B01",
+  "trilogy_id": "T1",
+  "_position_note": "EP is a structural position beside the three acts, not an act (Ruling 6, GATE_RULINGS_2026-09-20); this file does not count toward the 27 act overlays. Created 2026-10-03 for the new B01 epilogue packet S1.T1.B01.EP.E50 (Silence and Hope close B01; proposals/B01_PRESSURE_DESIGN_PACKET_PLACEMENT_MAP_2026-10-03.md §3 and §5; decisions/B01_PRESSURE_INTRIGUE_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-10-03.md Q-PI7), following the B03 EP pattern (act_overlays/act_overlay_S1_T1_B03_EP.json). **It declares no new envelope**: the band is A3's, inherited verbatim. No authored field is filled.",
+  "act_thesis": "TODO",
+  "escalation_permissions": {
+    "corridor": {
+      "min": "U1",
+      "max": "U5"
+    },
+    "weather": {
+      "min": "W0",
+      "max": "W2"
+    },
+    "fx": {
+      "min": "FX0",
+      "max": "FX2"
+    },
+    "exceptions": [],
+    "basis": "inherited",
+    "source": "act_overlays/act_overlay_S1_T1_B01_A3.json (verbatim; no epilogue envelope is ruled)",
+    "basis_note": "A positional container inheriting A3's band, not a fourth act and not a new envelope, as B03's EP (Q-V3-4). The prologue's U7/FX3 permission (OPEN_QUESTIONS B1) is ruled for PR only and is not extended here; E50's POV is non-mortal, so its CORRIDOR is N/A (Q-B2-6)."
+  },
+  "deltas": "TODO",
+  "act_success_criteria": "TODO",
+  "forbidden_shortcuts": "TODO"
+}

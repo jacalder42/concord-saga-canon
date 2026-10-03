@@ -1288,7 +1288,7 @@ class EbciPilotChecks(unittest.TestCase):
         self.assertEqual(packet_problems(packet(corridor="U6")), ["CHK_EPISODE_BAND"])
         # A position with no overlay has no band (B01 has no epilogue).
         self.assertIn("CHK_EPISODE_BAND",
-                      packet_problems(packet(sid="S1.T1.B01.EP.E49")))
+                      packet_problems(packet(sid="S1.T1.B02.EP.E48")))
         # The prologue's own envelope (ruled B1) admits U7.
         self.assertNotIn("CHK_EPISODE_BAND",
                          packet_problems(packet(sid="S1.T1.B01.PR.E00", corridor="U7")))

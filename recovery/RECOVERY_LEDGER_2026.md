@@ -16239,4 +16239,23 @@ END OF ENTRY 382
   - profile §11's B01 heat line.
 - **Not changed:** the B01 packets (the build applies these answers), B02's other romance beats, ruled canon.
 
+## §384 — B01 packets updated to the pressure, intrigue and heat design, 2026-10-03
+
+- **Map:** `proposals/B01_PRESSURE_DESIGN_PACKET_PLACEMENT_MAP_2026-10-03.md`. It applies Q-PI, Q-SF, the Han Wei / Caldas direction, D3 and §383's H1–H2 and B1–B2. Its C2 (no *Veil* on B01's page; Silence and Hope ask about *what they hold*) and C5 (option A: Caro meets Elisabet at E28) are **applied provisionally**, pending the author.
+- **EBCI packets edited in place, by act, with tags "(10-03, map §n)":**
+  - **PR and Act I:** E01, E02, E04, E06, E10, E14, E15. The dwelling hazard check and the pending certificate; Keon acts on his own; Lucien's position in one line; Baz as a Vienna colleague; the 10-02 transport.
+  - **Act II:** E16, E19–E26, E28–E31, E34–E36. Baz recognises Caldas at E20, and Caldas is glimpsed at E36. Elisabet's flirting runs E20–E28. Baz says why he left at E26; E30 has sparks. Technarc's recurring clue, a white printed asset tag with a *TD-* code, is fixed at E31 and reused at E34 and E39. Standing guards G1–G3 are replaced.
+  - **Act III:** E37–E49. At E39 the cover kiss comes as the collector passes, then the confrontation (Lucien's phone and photographs are lost), and both call the kiss nothing. Caldas finds Baz in City Park at E43. Lucien pulls Seraphine from a crush at E46. At E48 Baz tells Lucien privately what he knew. At E49 Seraphine observes Lucien's face.
+  - **New epilogue:** `S1.T1.B01.EP.E50`, Silence and Hope, with an EP overlay (`act_overlays/act_overlay_S1_T1_B01_EP.json`).
+- **Prose packets:** re-derived for every changed brief, and E50's is new.
+- **Grids:**
+  - `episode_beats.csv`: nine rows retexted, E39 split, and E43, E48 and E50 rows added.
+  - `breadcrumbs.csv`: E50 added to BC-SILENCE-HOPE-OBSERVE and BC-MACRO-MOBIUS-SKY; BC-TECHNARC-KIT gains the clue note.
+  - The concordance has E50, about 150,700 words; reading positions now read "of 53".
+- **Tool:** `test_episode_band`'s no-epilogue fixture moves from B01 to B02, because B01 now has an epilogue.
+- **Flags:**
+  - E02's exit has Renée's look at the camp the morning after, which needs her back from the hospital; left to the manuscript.
+  - Older focused-pass notes below the rule in prose packets E19, E20, E23, E30, E31, E35, E36 and E42 carry control terms (E20: *Hand 2*); not touched.
+- **Not changed:** the manuscript, B02/B03 packets and ruled canon.
+
 END RECOVERY LEDGER

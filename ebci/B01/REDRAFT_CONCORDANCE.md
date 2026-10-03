@@ -12,6 +12,7 @@ line naming its new home. Titles are working labels, never cues for the page.
 - **A1:** E01–E15.
 - **A2:** E16–E36.
 - **A3:** E37–E49.
+- **EP:** E50 (added 2026-10-03: Silence and Hope close B01; `proposals/B01_PRESSURE_DESIGN_PACKET_PLACEMENT_MAP_2026-10-03.md` §3; overlay `act_overlays/act_overlay_S1_T1_B01_EP.json`, A3's band inherited).
 
 **Supplements:**
 - **S02** is specified inside E07 (reading position 9).
@@ -19,8 +20,8 @@ line naming its new home. Titles are working labels, never cues for the page.
 - **S01, S03, S04 and S05 are retired** (`grids/supplement_deployment.csv`).
 
 **Totals:**
-- **Briefs:** 13 U, 33 C, 4 N.
-- **Narrative length:** about 148,700 words, the sum of the packets' *Length* lines. The supplements are extra.
+- **Briefs:** 13 U, 33 C, 5 N (E50 added 2026-10-03; was 4 N).
+- **Narrative length:** about 150,700 words, the sum of the packets' *Length* lines. The supplements are extra. *(2026-10-03: was about 148,700; E43 +800, E48 +700, E50 +500.)*
 
 | New | SID | Working title | POV | Length | Brief | Supersedes (pre-redraft) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -67,12 +68,13 @@ line naming its new home. Titles are working labels, never cues for the page.
 | E40 | `S1.T1.B01.A3.E40` | Civic Fractures | Inez | 3,300 | U | `S1.T1.B01.A3.E40` |
 | E41 | `S1.T1.B01.A3.E41` | After the Breaking | Seraphine Vael | 3,600 | C | `S1.T1.B01.A3.E41` |
 | E42 | `S1.T1.B01.A3.E42` | Nobody Is Graceful When Exhausted | Caro | 3,200 | C | `S1.T1.B01.A3.E42` |
-| E43 | `S1.T1.B01.A3.E43` | Something Strange That Doesn't Hurt | Bastien "Baz" Arnaud | 1,800 | C | `S1.T1.B01.A3.E43` |
+| E43 | `S1.T1.B01.A3.E43` | Something Strange That Doesn't Hurt | Bastien "Baz" Arnaud | 2,600 | C | `S1.T1.B01.A3.E43` |
 | E44 | `S1.T1.B01.A3.E44` | The Second Statement | Seraphine Vael | 2,200 | N | none (new) |
 | E45 | `S1.T1.B01.A3.E45` | Inez's Gathering | Inez | 3,200 | C | `S1.T1.B01.A3.E44` |
 | E46 | `S1.T1.B01.A3.E46` | The Rebound | Lucien Kael + Seraphine Vael | 4,100 | C | `S1.T1.B01.A3.E45` |
 | E47 | `S1.T1.B01.A3.E47` | The Wide Quiet | Seraphine Vael | 3,200 | U | `S1.T1.B01.A3.E46` |
-| E48 | `S1.T1.B01.A3.E48` | The Square Remembers | Lucien Kael | 3,500 | C | `S1.T1.B01.A3.E47` |
+| E48 | `S1.T1.B01.A3.E48` | The Square Remembers | Lucien Kael | 4,200 | C | `S1.T1.B01.A3.E47` |
 | E49 | `S1.T1.B01.A3.E49` | Still Water | Seraphine Vael | 4,700 | C | `S1.T1.B01.A3.E48` |
+| E50 | `S1.T1.B01.EP.E50` | What They Hold | Silence + Hope | 500 | N | none (new, 2026-10-03; takes the reprise formerly inside E49) |
 
 **E05's delivery (Q-AC1, 2026-09-29):** in the redraft, E05 is folded into E03. The reading sequence runs E04 → E06, and the E05 packet stays as the record of its obligation.
