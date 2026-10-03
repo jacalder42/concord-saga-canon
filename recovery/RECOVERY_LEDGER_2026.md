@@ -16331,4 +16331,12 @@ END OF ENTRY 382
   - Act II nets about −700; the book stays near 119.1k.
   - **Q-AM1–13 await the author.**
 
+## §391 — Q-AM1–13 answered, with a caution on time, 2026-10-03
+
+- **Answered** (`decisions/B01_ACT_II_SCENE_FUNCTION_MAP_AUTHOR_ANSWERS_2026-10-03.md`): all as recommended, N1 omitted.
+- **The author's caution:** *"the obsession over time is still present."* It binds this revision:
+  - the new beats carry no clock-time detail (N9 pays for what households saw and kept);
+  - touched Act II scenes cut time bookkeeping the plot doesn't turn on.
+- **Next:** packets, revision, continuity check, import copy, reading copies.
+
 END RECOVERY LEDGER
