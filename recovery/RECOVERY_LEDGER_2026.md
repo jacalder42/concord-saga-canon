@@ -16258,4 +16258,11 @@ END OF ENTRY 382
   - Older focused-pass notes below the rule in prose packets E19, E20, E23, E30, E31, E35, E36 and E42 carry control terms (E20: *Hand 2*); not touched.
 - **Not changed:** the manuscript, B02/B03 packets and ruled canon.
 
+## §385 — The packet build's open items answered; the B01 revision released, 2026-10-03
+
+- **C2 (author lean):** *Veil* appears once on B01's page, in E50, as Silence and Hope's own word for what they hold. E50's EBCI and prose packets are updated.
+- **C5:** option A is confirmed. **E02:** Renée's look is left to the manuscript.
+- **"Proceed":** one B01 revision, act by act, from the packets updated at §384.
+- Recorded as §5 of `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
+
 END RECOVERY LEDGER

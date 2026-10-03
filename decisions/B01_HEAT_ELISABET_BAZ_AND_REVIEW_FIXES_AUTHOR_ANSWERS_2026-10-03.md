@@ -51,3 +51,12 @@ Claude's recommendation was:
 - B01 packets: the build applies H1, H2, B1 and B2.
 - B02's romance beats beyond E23: these are evaluated, not edited.
 - Ruled canon.
+
+## 5. Follow-up answers, 2026-10-03 (the packet build's open items)
+
+The author answered the placement map's (`proposals/B01_PRESSURE_DESIGN_PACKET_PLACEMENT_MAP_2026-10-03.md`) open items and released the revision (*"Proceed"*):
+
+- **C2.** *"I lean toward using the word Veil once (it will likely be in the book name too)."* **The word *Veil* appears once on B01's page**, in E50, as Silence and Hope's own word for what they hold, unexplained. This is a lean, applied as approved design; it supersedes the provisional *no Veil*. *Resonance* stays off Veil's page (Q-V3-2).
+- **C5.** Yes, option A: Caro first meets Elisabet at E28, watching the flirting there.
+- **E02.** Yes: Renée's look at the camp the morning after is left to the manuscript revision.
+- **"Proceed"** releases one B01 revision, act by act, from the updated packets (ledger §384).
