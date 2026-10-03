@@ -16107,4 +16107,26 @@ END OF ENTRY 376
 ===============================================================
 
 
+## §377 — Han Wei appears on the page, 2026-10-03
+
+- **Asked:** when Virelli and the other major antagonists appear.
+- **Answered from the placement record:**
+  - Virelli is off the page through Veil, with his one placed beat at M05 (B04 A2);
+  - Helena carries the Dominion in B02–B03;
+  - Caldas Ren appears at B03 E21;
+  - Han Wei stays off the page and never confronts the protagonists;
+  - Saeko and Ito appear from B04 A2 (M14);
+  - Elias appears from B07 A1.
+- **The author's direction:** *"Han Wei should appear at some point, not in B1 is fine (foreshadowing would also be
+  fine)."* Recorded in `decisions/HAN_WEI_ON_PAGE_AUTHOR_DIRECTION_2026-10-03.md`. The *no named Technarc leader*
+  guardrail is retired for him, and the Technarc card carries a note.
+- **Open:** his first placement (candidates B03 E28, B04 M13, B06 M17), and whether he confronts the protagonists.
+- **Also noted:** the B01 Dominion named face (Q-PI5) cannot be Virelli without reversing his off-page rule. Helena,
+  Caldas Ren or a new person are the candidates; this ties to alignment item D4.
+
+END OF ENTRY 377
+
+===============================================================
+
+
 END RECOVERY LEDGER
