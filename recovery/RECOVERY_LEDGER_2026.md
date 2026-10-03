@@ -16190,4 +16190,37 @@ END OF ENTRY 381
 ===============================================================
 
 
+## §382 — B02/B03 packets aligned to the B01 pressure design; the first kiss at B03 E21, 2026-10-03
+
+- **20 packets edited, each change tagged:**
+  - B02: E08, E12, E13, E21, E22, E23, E26, E27, E31, E34, E41;
+  - B03: E14, E16, E17, E18, E21, E28, E31, E36, E44.
+
+  The changes cover:
+  - Lucien's knowing obedience from B02, confirmed at E34;
+  - Baz knowing *that*, not *how*, and his sharper E26 objection;
+  - Caldas at B02 E27 and B03 E14;
+  - Han Wei's brief on-page presence at B03 E28;
+  - the E17 mirror named once;
+  - the reopened blame rule at the Warehouse;
+  - the heat menu.
+- **The first Seraphine–Lucien kiss is at B03 E21** (D6, placed for payoff). It pays off:
+  - Lucien's B02 E21 promise not to use the vulnerable names he read, which holds when Caldas canvasses for exactly
+    such a list and she asks him;
+  - B01's held-back heat, B02 E31 and B03 E18.
+
+  E21's doubt survives the kiss. Its HEAT field stays as it was, to match the beats grid; set it at the B03 prose
+  stage.
+- **Blame guard:** the standing Veil guard *"the Warehouse is 'no blame, just inference'"* is replaced across the
+  B02/B03 packets with the reopened rule (§379).
+  - B01 packets with other *no blame* lines are left for the B01 packet build.
+  - At B03 E21, Caldas may now be recognised as the man from B01 and B02. H15 / Q-VB9's *nothing identifies him* is
+    superseded by D4.
+- **The BC-DOMINION-LADDER note is added.** Validation exits 0, and all 171 self-tests pass.
+
+END OF ENTRY 382
+
+===============================================================
+
+
 END RECOVERY LEDGER
