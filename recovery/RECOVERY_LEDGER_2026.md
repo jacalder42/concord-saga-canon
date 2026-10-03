@@ -16160,4 +16160,22 @@ END OF ENTRY 379
 ===============================================================
 
 
+## §380 — Alignment D1–D6 answered, 2026-10-03
+
+- **D1–D5 are approved as recommended:**
+  - Baz knows *that*, not *how*;
+  - a sharper objection at B02 E26;
+  - Lucien's knowledge runs from suspicion at B01's end to confirmation at B02 E34;
+  - Caldas recurs at B02 E27 and B03 E14;
+  - the E17 mirror is named once, under the reopened blame rule.
+- **D6:** the first Seraphine–Lucien kiss goes *"wherever fits the story and layout needs best"*. The working placement
+  is B03 A2, between E18 and E30, and may move with a recorded reason.
+- Recorded in `decisions/B02_B03_ALIGNMENT_D1_D6_AUTHOR_ANSWERS_2026-10-03.md`.
+- **Next:** B02/B03 packet edits, then the B01 packets.
+
+END OF ENTRY 380
+
+===============================================================
+
+
 END RECOVERY LEDGER
