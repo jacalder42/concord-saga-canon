@@ -54,4 +54,6 @@
 
 - **Dated note, 2026-10-03 (approved design, Q-PI2):** Baz **was** Dominion, alongside Lucien in Vienna, and **left when he learned what they were studying**. This supersedes, for B01, the NGO-only path above and the 2025-11-27 timing (Baz still in Vienna during B01). He knows more than he says and keeps it from Lucien for Lucien's safety. Why he left can come out before the end of B01; what he knows about the phenomenon comes out at the end of B01 (Q-PI3 as amended). The Dominion is looking for him (Q-PI5). `decisions/B01_PRESSURE_INTRIGUE_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-10-03.md`.
 
+- **Dated note, 2026-10-03 (approved design, B1–B2):** he left after the Dominion withheld warnings from a neighbourhood to keep its observations clean, and people were hurt. He discloses this at B01 E26, after hearing himself propose an uninformed "control group" that Seraphine refuses. How much he knows about the phenomenon stays secret until B01's end. His risk: anyone who knows what he knows becomes a liability to the people who sent Lucien. `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
+
 END — BAZ (BASTIEN “BAZ” ARNAUD) IDENTITY CANON

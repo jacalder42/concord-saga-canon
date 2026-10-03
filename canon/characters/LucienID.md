@@ -60,4 +60,6 @@
 
 - **Dated note, 2026-10-03 (approved design, Q-PI1):** Lucien knows he is Dominion and that the Hollen Institute is a cover, but **not** that his review has him finding instances of the phenomenon for the people behind it. He is used, not complicit. `decisions/B01_PRESSURE_INTRIGUE_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-10-03.md`.
 
+- **Dated note, 2026-10-03 (approved design, F3):** *used, not complicit* holds **for B01 only**. He suspects at B01's end, is given the camp clause at B02 E08 and has it confirmed at B02 E34; from then on his silence is a choice he owns. `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
+
 END — LUCIEN KAEL IDENTITY CANON

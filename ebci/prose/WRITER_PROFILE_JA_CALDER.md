@@ -130,7 +130,7 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 - **Clinical terms, graphic mechanics and kink-coded language usually read as outside this voice** (a costed default since 2026-10-03, no longer a ceiling). **Supernatural-arousal metaphors stay out**, because nothing strange creates desire *(ruled, above)*.
 - **Intimacy during active danger costs the danger or the intimacy;** it usually belongs to the aftermath.
 - **Romantic attention is selective.** It differs from how this person attends to everyone else, and it changes a response. Tenderness given equally to everyone doesn't signal desire.
-- **Heat develops at the pace the relationship earns on the page** (author, 2026-10-03). The book-level heat ladder (*"spark and warmth common; real heat rare; the most explicit level absent in the first three books"*) is retired: it suited saga planning but delayed development at line level. In B01 heat rises through touch, brushes of skin, rescues and collisions; there is no kiss and nothing romantic is declared aloud (Q-PI8, approved design).
+- **Heat develops at the pace the relationship earns on the page** (author, 2026-10-03). The book-level heat ladder (*"spark and warmth common; real heat rare; the most explicit level absent in the first three books"*) is retired: it suited saga planning but delayed development at line level. In B01 heat rises through touch, brushes of skin, rescues and collisions; there is no kiss and nothing romantic is declared aloud (Q-PI8, approved design). **Amended 10-03 (H1, approved design):** B01 has one kiss, a pretext cover kiss at E39 that both of them call nothing, with sparks at E30 and charge at E46; nothing romantic is declared aloud.
 
 ## 12. Line-level tells to avoid
 

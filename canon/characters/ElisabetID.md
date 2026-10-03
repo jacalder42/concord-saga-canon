@@ -67,4 +67,6 @@
 - **Sibling Ari:** optional, additive, non-load-bearing
 - **Role phrasing variance:** systems analyst / crisis modeler / anomaly detector treated as non-conflicting language
 
+- **Dated note, 2026-10-03 (approved design, H2):** in B01 (E20–E28) she flirts openly with both Seraphine and Lucien, because she enjoys directness and not to audition pairings; flirting is not her whole personality. Caro watches with amusement and interest. Recovered design from `proposals/B01_CHARACTER_LIFE_ENTRY_EXIT_AUDIT_PASS1_2026-09-22.md`. `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
+
 END — ELISABET ARNARDÓTTIR IDENTITY CANON v1.1

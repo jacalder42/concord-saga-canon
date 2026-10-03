@@ -85,7 +85,12 @@ took about 21 on its own.
 ## 3. Verified procedure
 
 Sources: Louisiana R.S. 13:5713; R.S. 40:2019 (child death review); SB 29 (2026); the CDC child death-scene protocol;
-case reporting. URLs are in the session record. Some statute points come from search excerpts and are marked as
+case reporting. URLs (added 10-03, F2):
+legis.la.gov/Legis/Law.aspx?d=763362 (R.S. 13:5713); legis.la.gov/legis/Law.aspx?d=98002 (R.S. 40:2019);
+legis.la.gov/Legis/ViewDocument.aspx?d=1436684 and d=1449228 (SB 29); ldh.la.gov/bureau-of-family-health/state-child-death-review-panel;
+cdc.gov/mmwr/preview/mmwrhtml/00042657.htm; legis.la.gov/Legis/ViewDocument.aspx?d=1099501; portal.ct.gov/-/media/ocme/faq/faq.pdf
+(pending certificates, by comparison); lailluminator.com/2023/08/16/children-account-for-one-third-of-louisianas-medicaid-roll-removals/;
+consumerreports.org/medical-transportation/when-its-critical-to-call-an-ambulance. Some statute points come from search excerpts and are marked as
 uncertain there.
 
 ### 3.1 The inspection
@@ -124,8 +129,9 @@ uncertain there.
     coroner's judgment.
 - **Why the family wants closure.** A pending certificate delays life insurance, benefits and the paperwork.
 - **The repaired lever.** Seraphine's statement describes an unexplained pressure in the room where the child died,
-  something a reader of the file cannot distinguish from an environmental symptom. While it stands, Guidry must keep the
-  environmental question open, or record the manner as undetermined.
+  something a reader of the file cannot distinguish from an environmental symptom. While it stands, Guidry **can**, at his
+  discretion, keep the environmental question open or record the manner as undetermined, and he chooses to. Nothing
+  obliges him (amended 10-03, F2).
 - **Renée's agency:**
   - She has the right to the reports.
   - She asks Seraphine to amend or withdraw her paragraph.

@@ -16223,4 +16223,20 @@ END OF ENTRY 382
 ===============================================================
 
 
+## §383 — B01 heat, Elisabet, Baz, and ChatGPT's review fixes, 2026-10-03
+
+- **Input:** ChatGPT's review of canon 282fc0c and manuscript dc796c2 (five findings, all verified) and the author's note on B01 heat (*"What would Ali Hazelwood do?"*).
+- **Answered** (`decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`, approved design, amends Q-PI8):
+  - B01 gets a pretext cover kiss at E39, sparks at E30 and charge at E46;
+  - Elisabet's flirting with both leads is restored (E20–E28; recovered from the 09-22 character audit);
+  - B03 E21 is the first kiss that counts (provisional);
+  - Baz left over warnings withheld to keep observations clean, and discloses this at E26; his phenomenon knowledge stays secret to B01's end.
+- **Applied:**
+  - B02 E23: observe, suspect, then learn at E34;
+  - B03 E21: the Caldas line and the kiss line;
+  - dated notes on LucienID (B01-only scope), BazID and ElisabetID;
+  - the structural-foundations proposal §3 (*must* softened to discretion, sources listed);
+  - profile §11's B01 heat line.
+- **Not changed:** the B01 packets (the build applies these answers), B02's other romance beats, ruled canon.
+
 END RECOVERY LEDGER
