@@ -20,9 +20,10 @@ Status: CURRENT AUTHOR ANSWERS (approved design), 2026-10-03.
   one from Baz for his. The Warehouse guard is governed by the reopened blame rule (ledger §379): heavy implication and
   suspicion of Caldas or the Dominion are permitted. Whether the narrator may state cause is open; the working default
   is that the narration does not.
-- **D6, the first Seraphine–Lucien kiss.** It goes **wherever it best fits the story and layout**. The placement is
-  delegated to the architecture. The working placement is **B03 Act II**, after E18 and before E30, apart from Caro and
-  Elisabet's E24, and not caused by the Warehouse. It may move if the packets show a better fit, with the reason
+- **D6, the first Seraphine–Lucien kiss.** It goes **wherever it best fits the story and the payoff**. The author clarified
+  that *"my 'layout' was meant to be payoff"*. The placement is delegated to the architecture: the episode where the
+  kiss best pays off what B01–B03 have set up between them. The working placement is **B03 Act II**, after E18 and before E30, apart from Caro and
+  Elisabet's E24, and not caused by the Warehouse. It may move if the packets show a better payoff, with the reason
   recorded.
 
 ## What changes next

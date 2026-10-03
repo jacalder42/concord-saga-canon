@@ -16178,4 +16178,16 @@ END OF ENTRY 380
 ===============================================================
 
 
+## §381 — D6 clarified: story and payoff, 2026-10-03
+
+- **The author clarified:** *"my 'layout' was meant to be payoff."* The first kiss goes wherever it best fits the story
+  and pays off what B01–B03 have set up between Seraphine and Lucien.
+- The D6 line in `decisions/B02_B03_ALIGNMENT_D1_D6_AUTHOR_ANSWERS_2026-10-03.md` is corrected in place. It had recorded
+  "layout" before the clarification.
+
+END OF ENTRY 381
+
+===============================================================
+
+
 END RECOVERY LEDGER
