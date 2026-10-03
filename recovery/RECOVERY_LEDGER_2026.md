@@ -16129,4 +16129,18 @@ END OF ENTRY 377
 ===============================================================
 
 
+## §378 — Han Wei's placement and confrontation; the B01 Dominion face recommended, 2026-10-03
+
+- **Placement approved as recommended:** foreshadowed in B01–B02, brief in B03 around E28, real page time at B04 M13.
+- **Han Wei confronts the protagonists.** This reverses *"never confronts"*; where and how is open.
+- **The B01 Dominion face:** the author accepts Helena or Caldas, or a new character who would end in B01. **Claude
+  recommends Caldas Ren** (C02: surveillance → intimidation → lethal pursuit, giving one Veil arc across B01–B03).
+  Awaiting the author's yes.
+- Recorded as an addendum to `decisions/HAN_WEI_ON_PAGE_AUTHOR_DIRECTION_2026-10-03.md`, with a Technarc card note.
+
+END OF ENTRY 378
+
+===============================================================
+
+
 END RECOVERY LEDGER

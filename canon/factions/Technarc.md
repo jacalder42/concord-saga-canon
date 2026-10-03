@@ -226,3 +226,4 @@ They are the institutional antagonist of **logic divorced from humanity**.
 - **Dated note, 2026-10-03 (approved design, Q-PI5):** in B01, Technarc is one of two pressures: unnamed researchers who own the sensor boxes and want the record of where and when the phenomenon happens. It is felt, never named. Clues are understood only in later books; their form is open, and no example is preferred.
 
 - **Dated note, 2026-10-03 (approved design):** **Han Wei appears on the page at some point** in the saga. He does not appear in B01, though he may be foreshadowed there. His placement is open. `decisions/HAN_WEI_ON_PAGE_AUTHOR_DIRECTION_2026-10-03.md`.
+- **Dated note, 2026-10-03 (approved design):** Han Wei's placement is foreshadowed in B01–B02, brief in B03 around E28, with real page time at B04 M13. **He confronts the protagonists**, reversing *"never confronts"*; where and how is open.

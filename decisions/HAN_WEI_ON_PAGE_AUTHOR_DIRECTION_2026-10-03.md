@@ -29,3 +29,29 @@ Candidate placements (Claude's recommendation, for the author):
 - Technarc's trajectory toward being *rendered obsolete*.
 - The hardliner remnant.
 - Any packet or manuscript text.
+
+---
+
+## Addendum, 2026-10-03: the author's answers
+
+1. **Placement: approved as recommended.**
+   - Han Wei is foreshadowed in B01–B02. Clues come in any form, and Technarc stays felt, not named.
+   - He appears briefly in B03, around E28.
+   - He has real page time at B04 A2, M13 (Protocol 9).
+2. **He confronts the protagonists:** *"yes he needs to, otherwise we wouldn't have made a character for him."* This
+   reverses the card text and A5 design line *"he never confronts the protagonists."* Where and how he confronts them
+   is open. His exit, *model failure*, is not changed by this answer.
+3. **The Dominion's named face in B01:** *"Helena or Caldas would be fine unless a new character would be better. If
+   it's a new character they may need to meet their end in B1 to not effect future books."*
+
+   **Claude's recommendation is Caldas Ren** (registry C02). His registry function is *"doctrine arriving at the door;
+   surveillance → intimidation → lethal pursuit"*: procedural and ordinary, and already in Veil (B03 E21, the Warehouse
+   perimeter). That gives one arc:
+   - surveillance in B01, looking for Baz;
+   - intimidation in B02;
+   - lethal pursuit in B03.
+
+   Helena (C04, Lucien's aunt) is better kept as the family-and-conditioning carrier of B02's first request. A new
+   character would need an exit in B01 and adds nothing Caldas does not already carry.
+
+   **Awaiting the author's yes.**
