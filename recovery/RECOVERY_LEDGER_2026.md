@@ -16553,4 +16553,28 @@ END OF ENTRY 382
   `SeraphineIdentity.md`.
 - **Also:** E42's space-heater winter stays; *"Are you the kits?"* stays at E45 only.
 
+## §408 — The rebuild/revise batch is done, 2026-10-04
+
+- **Report:** `reports/B01_DRAFT3_REBUILD_REVISE_BATCH_REPORT_2026-10-04.md`. The briefs, notes, logs and continuity
+  reports are private, in the manuscript's `draft-notes/rebuild/`.
+- **What ran:**
+  - the calibrations entered draft 3;
+  - E35, E46 and E42 went in from the blind test, with the triage's fixes;
+  - E48 was rebuilt;
+  - the spans in E28, E41 and E49 were rebuilt;
+  - the revisions applied the intervention map;
+  - a line pass ran on each act (124 logged changes);
+  - three continuity checks ran, and every definite and probable finding is fixed.
+- **Guards** are checked book-wide.
+- **Length:** B01 is **136,346** words (+12,375). That is above the archaeology's +5k–10k estimate; most of the excess is
+  in the rebuilds and the test winners.
+- **Reading copies** are rebuilt, headed *rebuild-revise batch (2026-10-04)*.
+- **Q-RB1–6 await the author:**
+  - the firm name;
+  - E48's protected clause;
+  - E49's still-angry line;
+  - the Vein's two midnights;
+  - the import copy at 136k;
+  - E35's light line.
+
 END RECOVERY LEDGER
