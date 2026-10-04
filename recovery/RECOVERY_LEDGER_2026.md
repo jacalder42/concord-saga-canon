@@ -16491,4 +16491,18 @@ END OF ENTRY 382
 - **Private notes:** manuscript `draft-notes/draft3/packet-repair/`.
 - **Next:** the three-chapter test (running).
 
+## §403 — The rewrite-or-revise test result, 2026-10-04
+
+- **Report:** `reports/B01_REWRITE_OR_REVISE_TEST_RESULT_2026-10-04.md`. Private material is in manuscript
+  `draft-notes/rr-test/`.
+- **The author's verdict, given blind, before the key was opened:**
+  - E35: rebuilt;
+  - E42: revised;
+  - E46: rebuilt, close.
+- **The others:** ChatGPT agrees; the model judges split on E42 and E46.
+- **The rule gives a selective rebuild:** rebuild the layered, function-heavy chapters and revise the healthy ones. It
+  does not give a whole-book rewrite. ChatGPT's *rebuild wins everything* reading is corrected by the key: its preferred
+  E42 is the revision.
+- **Next:** a chapter triage, REBUILD or REVISE, for the author's approval.
+
 END RECOVERY LEDGER
