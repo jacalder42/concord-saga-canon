@@ -16468,4 +16468,27 @@ END OF ENTRY 382
 - **No open author question remains** from the staging, play and compression work. The packet repair and the
   three-chapter test proceed.
 
+## §402 — B01's packets repaired (U1–U7), 2026-10-04
+
+- **Rules:** `ebci/prose/README.md`, *Packet repairs after the compression audit*. Profile §12A is clarified (Q-CA4),
+  and cut quotas are retired.
+- **Scope:** all 51 B01 prose packets carry a dated repair line. Life beats are promoted as functions, and the approved
+  recovery functions (Q-CA, Q-PA) are written in as fixed beats or permissions.
+- **Rebuild blocks:** E03 (the Vein), E28 (surgical first), E41, the E46 table, E48 (narrow). Re-stage blocks: E13's
+  supper, E43's City Park.
+- **Estimates:** raised where beats were added (E03, E08, E13, E16, E37, E39, E42, E44, E46 to about 5,500, E48).
+- **Fixed beats synced** that the prose had and the packets lacked:
+  - E09, E10, E15;
+  - E38 (Guidry's voicemail);
+  - E44 (the Batiste form; Guidry's call);
+  - E45 (Mrs. Batson's return);
+  - E47 (the procedure written together).
+- **Stale packets synced:** E23, E48, E49, and the S06 grid row.
+- **Notes that had sat below the rule,** where the writer would receive them, are moved above it: E11, E18, E19, E30,
+  E33, E40, E41, E45, E47.
+- **E43's anti-farewell guard is restored;** it had been dropped on 10-03.
+- **E11:** Q-VZ5d's second *None* is kept as an obligation; the prose lost it.
+- **Private notes:** manuscript `draft-notes/draft3/packet-repair/`.
+- **Next:** the three-chapter test (running).
+
 END RECOVERY LEDGER
