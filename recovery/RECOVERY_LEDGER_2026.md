@@ -16377,4 +16377,21 @@ END OF ENTRY 382
 - **How it classifies:** FAT / MUSCLE / MIXED / SUPERSEDED.
 - **The rules:** the old text is evidence, not authority; there is no word target; no prose is revised.
 
+## §396 — B01 draft 3: the dialogue staging pass done, 2026-10-04
+
+- **Report:** `reports/B01_DRAFT3_DIALOGUE_STAGING_PASS_REPORT_2026-10-04.md`.
+- **The revision:** 24 chapters, all eighteen holds applied. Under the author's caution, III-2's plain *"I'm angry"*
+  is cut too: behavior carries it.
+- **Verification:**
+  - two blind dialogue reads: distinct people, believable misreads, consequences that persist. The organization
+    disclosures at E48–E49 still read as delivered.
+  - a continuity check: two slips and one formatting fix.
+- **Length:** the working draft is 123,973 words. A new import copy is at 116,971 (`B01/import-2026-10-05/`).
+- **Author request, 10-04:** after the compression report, *"an honest evaluation about whether or not the manuscript
+  should be re-written with the current rules etc vs revised."*
+- **The author's addenda to §395:**
+  - test whether the primary cast lost more texture in compression than secondary and community characters;
+  - flag revision-scar scenes as REBUILD candidates.
+- **Next:** the play audit, the compression audit, then the rewrite-or-revise evaluation.
+
 END RECOVERY LEDGER
