@@ -16409,4 +16409,38 @@ END OF ENTRY 382
   225k manuscript, forwarded 10-04 and kept private as supplementary evidence, argues compression cut the runway for
   play. The archaeology audit tests that.
 
+## §398 — The compression archaeology audit done, 2026-10-04
+
+- **Report:** `reports/B01_COMPRESSION_ARCHAEOLOGY_AUDIT_2026-10-04.md`, read-only. The audit itself is private
+  (manuscript `draft-notes/draft3/archaeology/`).
+- **Baseline:** the 225k first draft (`68f8eac`).
+- **Lineage:** the current text is a ground-up redraft from packets plus draft-3 passes. It shares 0.01% of its
+  ten-word runs with the 225k text.
+- **Verdict:** leaner (counting, procedure, recaps) **and** thinner (after-scenes, bodies, witnesses, off-duty time,
+  ambient community, Lucien off-duty, Seraphine's one-line interior).
+- **On the hypothesis: MIXED / DIFFERENT CAUSE.**
+  - **The main cause is specification.** 52 named life beats sat in Writer options, which prose packets exclude; none
+    was promoted, and about 20 never reached the page.
+  - **The second cause is draft 3:** the under-120k pass's cut quota, and beats added at unchanged estimates.
+  - **The primary-cast hypothesis is confirmed**, with mechanisms: witnesses as the lawful heat channel; secondaries
+    who own a want; the wordless, witnessed object as the cure.
+- **Scale:**
+  - five REBUILD spans (about 2.6%);
+  - about +5k to +10k new words to recover the high-value functions;
+  - modest regrowth; no target.
+- **Upstream fixes U1–U7.**
+- **Q-CA1–23 await the author.**
+
+## §399 — The rewrite-or-revise evaluation, 2026-10-04
+
+- **Report:** `reports/B01_REWRITE_OR_REVISE_EVALUATION_2026-10-04.md`. The author asked for it 10-04.
+- **The recommendation:**
+  - neither a whole-book rewrite now nor another whole-book additive round;
+  - repair the packets first (U1–U7) and retire cut quotas;
+  - test three chapters written two ways, revised (A) and rebuilt from repaired packets (B): E46 scarred, E35
+    layered, E42 control;
+  - the author judges blind, and the result sets the scope (selective rebuild, partial, whole rewrite, or revise);
+  - then one integrated pass and his read.
+- **Q-RR1–5 await the author.**
+
 END RECOVERY LEDGER
