@@ -16368,4 +16368,13 @@ END OF ENTRY 382
 - **The III-2 caution:** characters are not required to name their emotions.
 - **Next:** the revision, a blind dialogue read, a continuity check and the copies. Then a separate read-only audit of heat, flirting, innuendo, humor and banter (brief private), which reports before any prose changes.
 
+## §395 — A compression archaeology audit queued, 2026-10-04
+
+- **Instruction:** `decisions/B01_COMPRESSION_ARCHAEOLOGY_AUDIT_AUTHOR_INSTRUCTION_2026-10-04.md`. The full brief is
+  private (manuscript `draft-notes/draft3/COMPRESSION_ARCHAEOLOGY_BRIEF.md`).
+- **What it is:** after the play audit, a read-only comparison of the 200k+ B01 against the current draft. It asks
+  whether compression made B01 leaner, thinner, or both, and where.
+- **How it classifies:** FAT / MUSCLE / MIXED / SUPERSEDED.
+- **The rules:** the old text is evidence, not authority; there is no word target; no prose is revised.
+
 END RECOVERY LEDGER
