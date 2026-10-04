@@ -16542,4 +16542,15 @@ END OF ENTRY 382
   - **one new family fact**, from E03: her father's Saturday record, which replaces draft 3's song in her
     mother's car.
 
+## §407 — Calibrations released; the batch begins, 2026-10-04
+
+- **The author's answer:** *"All approved as recommended."*
+- **Decision:** `decisions/B01_REBUILD_CALIBRATIONS_RELEASE_AUTHOR_ANSWERS_2026-10-04.md`.
+- **Released:**
+  - E03's Velvet Vein section and E26 enter draft 3;
+  - the batch runs in the triage order.
+- **New family fact:** her father's Saturday Sugar Boy Crawford record. It is now a dated note on
+  `SeraphineIdentity.md`.
+- **Also:** E42's space-heater winter stays; *"Are you the kits?"* stays at E45 only.
+
 END RECOVERY LEDGER

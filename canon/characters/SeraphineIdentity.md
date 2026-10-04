@@ -53,6 +53,7 @@ Survival is shared.
 
 - **Father:** Marcus Broussard  
   Quiet, steady; works in skilled labor or city maintenance
+  *(Added 2026-10-04, approved design: on Saturdays he played a Sugar Boy Crawford record with the screen door open and his toolbox on the steps. `decisions/B01_REBUILD_CALIBRATIONS_RELEASE_AUTHOR_ANSWERS_2026-10-04.md`.)*
 
 - **Older Brother:** Andre Broussard  
   Protective, grounding, provided humor and normalcy
