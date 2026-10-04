@@ -16352,4 +16352,13 @@ END OF ENTRY 382
 - **For the author:** E17.4's protected "two hours and ten minutes".
 - **Next:** the author's read.
 
+## §393 — The dialogue staging, conflict and human behavior pass instructed, 2026-10-04
+
+- **The author's two concerns, raised during his read:**
+  - descriptive and physical text is thinned, so intent and emotion are easy to misread;
+  - PCM is still misapplied: arguments resolve inside the scene, and characters rarely misread each other.
+- **The brief:** he forwarded a ChatGPT brief, adopted as the working brief and kept private in the manuscript repository.
+- **Decision:** `decisions/B01_DIALOGUE_STAGING_AND_CONFLICT_PASS_AUTHOR_INSTRUCTION_2026-10-04.md`.
+- **Order:** audit, holds, revision, a blind dialogue read, a continuity check, then the copies.
+
 END RECOVERY LEDGER
