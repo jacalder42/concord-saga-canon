@@ -16577,4 +16577,13 @@ END OF ENTRY 382
   - the import copy at 136k;
   - E35's light line.
 
+## §409 — Q-RB5 answered: no import copy for this draft, 2026-10-04
+
+- **The author's answer:** *"I am not concerned about a Sudowrite import for this draft."*
+- **Effect:**
+  - No import copy is built from the batch draft.
+  - The manuscript's `B01/import-2026-10-05/` predates the batch and is stale. It is kept as a record and is not
+    refreshed.
+- **Still open:** Q-RB1–4 and Q-RB6.
+
 END RECOVERY LEDGER
