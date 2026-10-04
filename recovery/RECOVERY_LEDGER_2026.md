@@ -16443,4 +16443,21 @@ END OF ENTRY 382
   - then one integrated pass and his read.
 - **Q-RR1–5 await the author.**
 
+## §400 — Q-RR1–5, Q-CA1–23 and Q-PA1–10 approved, 2026-10-04
+
+- **Decision:** `decisions/B01_REWRITE_OR_REVISE_COMPRESSION_AND_PLAY_AUTHOR_ANSWERS_2026-10-04.md`. The author's
+  answer: *"proceed as recommended"*.
+- **The order:**
+  1. packet repair (U1–U7), with cut quotas retired;
+  2. the three-chapter test (E46, E35, E42), revised against rebuilt;
+  3. the author's blind judgment, which sets the scope;
+  4. one integrated pass;
+  5. his read.
+- **Standing rules from now:**
+  - life beats are promoted from Writer options as functions;
+  - an added beat raises the estimate or names the kept texture;
+  - line-pass exemptions;
+  - §12A covers accent and dialect only.
+- **Still open:** E17.4.
+
 END RECOVERY LEDGER
