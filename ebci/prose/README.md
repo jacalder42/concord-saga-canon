@@ -16,7 +16,8 @@ separate **private** repository, `jacalder42/concord-saga-manuscript` (live 2026
   causal-card terminology and observation classes; tracking; provenance; future-book pointers;
   validator language; editorial explanations of why something matters later; **Writer Options**.
 - **Writer Options enter a prose packet only by explicit, episode-specific promotion**, recorded in the
-  packet's status line.
+  packet's status line. **From 2026-10-04 (U1) promotion is expected, not exceptional:** every rest, friendship or
+  aftermath piece promotes at least one life beat (see *Packet repairs after the compression audit*, below).
 - **Shapes differ.** A packet omits every field that does not help its scene. A Life/Reward episode may
   be a handful of lines; an event episode carries only the page-safe observational limits it needs.
 - **Only what is below the rule** in each file is given to a writer or to Sudowrite. The status line
@@ -154,6 +155,50 @@ The ~150k redraft's packets are new, one per piece of the chosen outline (`decis
 - **Length (Q-IT2d, Q-IT5).** Each packet gives its approximate length from the outline, as an approximate word count.
   **The book aims at about 150k and may finish under it.** A piece over its target needs a specific reason, recorded
   by the checker.
+
+## Packet repairs after the compression audit (U1–U7, 2026-10-04)
+
+Approved 2026-10-04 (`decisions/B01_REWRITE_OR_REVISE_COMPRESSION_AND_PLAY_AUTHOR_ANSWERS_2026-10-04.md`, Q-CA13–15,
+Q-RR1; evidence in `reports/B01_COMPRESSION_ARCHAEOLOGY_AUDIT_2026-10-04.md`).
+
+**Why.** The audit found the redraft's packets put each piece's named life beat in *Writer Options*. The writer never
+received those: 52 life beats were specified, none promoted, and about 20 never reached the page. Separately, beats were
+added at unchanged length estimates, so texture was displaced. These rules apply to B01's repair and to every packet
+from now on, B02 and B03 included.
+
+- **U1. Promote life beats as functions.**
+  - Every rest, friendship or aftermath piece carries at least one life beat in its prose packet.
+  - The beat is framed as what it does, not as a prop to place. For example: *"Baz's care is cooking; Lucien's is
+    following instructions exactly"*, not *"eggs"*.
+  - Other pieces promote one where the Narrative Brief leaves a person without an ordinary want.
+  - The status line records each promotion.
+- **U2. Additions pay for themselves.** A packet that gains a beat either raises its length estimate or names the
+  texture the beat must not displace. Examples: *keep the park as a scene*; *her body after*; *the lot keeps working
+  around the table*.
+- **U3. After-scenes and witnesses are allowed.**
+  - An *Ends* line may allow a short after-scene: what the body or the room does once the event is over.
+  - A location list or mystery guard does not exclude witnesses by default.
+  - Strangers and neighbors who read the leads as a pair are the lawful channel for heat in B01, where nothing
+    romantic is said aloud.
+- **U4. Cost lines name the residue.** Not *it costs her*, but what the act leaves in the body or the day. For example:
+  *her hands remember holding his*.
+- **U5. Line-pass exemptions.** A line pass or trim does not cut, as repetition or restated meaning:
+  - **felt duration**, which is not the same as counted duration;
+  - a character's **habitual lines**;
+  - **negative reception that carries information** (*she was not bracing*);
+  - **one private sentence of want** inside a peak.
+
+  Profile §12A's phonetic-spelling line covers accent and dialect, not a place name whose pronunciation is the
+  subject of a scene.
+- **U6. Stale-packet sync.** Any manuscript pass that changes a packet's fixed beat updates that packet in the same
+  unit of work.
+- **U7. Disclosure pieces.** A piece whose *Already true* list runs long carries, by specification:
+  - **one non-answer**: a neighboring answer, a deferral or a refusal;
+  - **one interruption**, from the world or a third party;
+
+  so that information is extracted, not delivered.
+- **No cut quotas (Q-RR1).** No revision of the working draft cuts to a word target or a per-chapter percentage. The
+  Sudowrite import copy is a separate derived artifact and may be trimmed; the draft may not.
 
 ## The workflow
 
