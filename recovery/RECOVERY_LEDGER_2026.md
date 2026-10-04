@@ -16597,4 +16597,13 @@ END OF ENTRY 382
 - **Kept as they are:** E49's behavior line, the Vein's cut midnights and E35's light lines.
 - **Reading copies** are rebuilt.
 
+## §411 — The last open B01 line items are answered, 2026-10-04
+
+- **The author's answer:** *"As recommended."*
+- **E49:** *"You leaving first"* is kept as written.
+- **E23:** the *for years* age line was already applied; the item is closed.
+- **E17:** Clement is placed on the Cabildo side, and his voice matches E14 and E15.
+- **Recorded in** the manuscript's continuity sheet. The reading copies are rebuilt.
+- **Nothing in B01's draft is open** before the author's read.
+
 END RECOVERY LEDGER
