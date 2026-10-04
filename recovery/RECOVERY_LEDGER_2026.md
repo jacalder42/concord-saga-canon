@@ -16518,4 +16518,13 @@ END OF ENTRY 382
 - **Spans proposed for rebuilding** inside revised chapters: E03 (the Vein), E28, E41, E49.
 - **Q-TR1–9 await the author.**
 
+## §405 — Triage approved, with two calibrations first, 2026-10-04
+
+- **Decision:** `decisions/B01_REBUILD_REVISE_TRIAGE_AUTHOR_ANSWERS_2026-10-04.md`. Q-TR1–9 are approved as
+  recommended.
+- **The author's condition:** two calibrations go to him before the batch:
+  - **E26**, the full rebuild;
+  - **E03's Velvet Vein**, the section rebuild.
+- **Next:** the two calibrations, then the batch once he releases it.
+
 END RECOVERY LEDGER
