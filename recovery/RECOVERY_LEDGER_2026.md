@@ -16339,4 +16339,17 @@ END OF ENTRY 382
   - touched Act II scenes cut time bookkeeping the plot doesn't turn on.
 - **Next:** packets, revision, continuity check, import copy, reading copies.
 
+## §392 — B01 draft 3: the Act II restructure done, 2026-10-04
+
+- **Report:** `reports/B01_DRAFT3_ACT_II_RESTRUCTURE_REPORT_2026-10-04.md`.
+- **On the page:**
+  - packets at canon `7165aa0`;
+  - condensations C1–C5;
+  - new pressure and mystery beats N2–N12;
+  - the author's time caution applied across Act II.
+- **Process:** the first reviser run hit the usage limit, so its partial edits are stashed and the groups restarted clean. The continuity check made six fixes.
+- **Length:** the working draft is about 119,725 words. A new import copy is at 117,564 (`B01/import-2026-10-04/`).
+- **For the author:** E17.4's protected "two hours and ten minutes".
+- **Next:** the author's read.
+
 END RECOVERY LEDGER
