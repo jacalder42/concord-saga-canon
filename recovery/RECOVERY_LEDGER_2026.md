@@ -16361,4 +16361,11 @@ END OF ENTRY 382
 - **Decision:** `decisions/B01_DIALOGUE_STAGING_AND_CONFLICT_PASS_AUTHOR_INSTRUCTION_2026-10-04.md`.
 - **Order:** audit, holds, revision, a blind dialogue read, a continuity check, then the copies.
 
+## §394 — The staging audits answered; a play audit instructed, 2026-10-04
+
+- **The audits:** three, one per act, covering 144 conversations (private, manuscript `draft-notes/draft3/staging-audit/`).
+- **The holds:** all eighteen approved as recommended (`decisions/B01_DIALOGUE_STAGING_HOLDS_AND_PLAY_AUDIT_AUTHOR_ANSWERS_2026-10-04.md`).
+- **The III-2 caution:** characters are not required to name their emotions.
+- **Next:** the revision, a blind dialogue read, a continuity check and the copies. Then a separate read-only audit of heat, flirting, innuendo, humor and banter (brief private), which reports before any prose changes.
+
 END RECOVERY LEDGER
