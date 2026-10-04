@@ -16606,4 +16606,12 @@ END OF ENTRY 382
 - **Recorded in** the manuscript's continuity sheet. The reading copies are rebuilt.
 - **Nothing in B01's draft is open** before the author's read.
 
+## §412 — Full B01 redraft experiment instructed, 2026-10-04
+
+- **Decision:** `decisions/B01_FULL_REDRAFT_EXPERIMENT_AUTHOR_INSTRUCTION_2026-10-04.md`.
+- **What it is:** a blank-page redraft of all 51 pieces, from the repaired packets and the latest rulings, written to the
+  manuscript's `B01/experiment-2026-10-04/`.
+- **Draft 3** is untouched and remains the working draft.
+- **What follows:** continuity checks and reading copies, then a comparison for the author.
+
 END RECOVERY LEDGER
