@@ -16505,4 +16505,17 @@ END OF ENTRY 382
   E42 is the revision.
 - **Next:** a chapter triage, REBUILD or REVISE, for the author's approval.
 
+## §404 — B01 triage proposed: rebuild or revise, 2026-10-04
+
+- **Proposal:** `proposals/B01_REBUILD_REVISE_TRIAGE_2026-10-04.md`. The table is private (manuscript
+  `draft-notes/rr-test/TRIAGE.md`).
+- **The rubric, from the test:** rebuild where the leads deliver disclosure or method to one another and the repaired
+  packet adds a lot; revise where secondaries with their own errands own the scene and a set piece already exists.
+- **The classes:**
+  - **4 REBUILD:** E26, E35, E46, E48 (12% of words);
+  - **23 REVISE;**
+  - **24 KEEP.**
+- **Spans proposed for rebuilding** inside revised chapters: E03 (the Vein), E28, E41, E49.
+- **Q-TR1–9 await the author.**
+
 END RECOVERY LEDGER
