@@ -16460,4 +16460,12 @@ END OF ENTRY 382
   - §12A covers accent and dialect only.
 - **Still open:** E17.4.
 
+## §401 — E17.4 answered, 2026-10-04
+
+- **Answered:** option B, recorded as an addendum to the §400 decision. The narration's clock goes (*most of the
+  afternoon*); Baz's spoken *two hours and ten minutes* stays as his tell.
+- **Applied:** draft 3, the import copy and the reading copies (manuscript `28adb15`).
+- **No open author question remains** from the staging, play and compression work. The packet repair and the
+  three-chapter test proceed.
+
 END RECOVERY LEDGER

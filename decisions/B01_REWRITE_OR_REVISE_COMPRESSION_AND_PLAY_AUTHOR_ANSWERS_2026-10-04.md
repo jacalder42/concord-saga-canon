@@ -70,3 +70,13 @@ adopted. In short:
 - **Rulings, cards and the reveal architecture:** unchanged.
 - **The import copy** stays a separate derived artifact; the cut quota is retired for the working draft only.
 - **E17.4's protected *two hours and ten minutes*** stays an open question.
+
+## 5. Addendum, 2026-10-04: E17.4 answered
+
+The author answered *"yes, b"*:
+- the narration's *two hours and ten minutes* becomes *most of the afternoon*;
+- Baz's spoken correction to Tamika keeps the exact figure, as his one-up and his tell.
+
+This is felt duration in narration, and counted duration only where a character does something with it (U5). It is
+applied in draft 3, the import copy and the reading copies (manuscript `28adb15`). §4's open item is closed.
+
