@@ -14,7 +14,7 @@ carry the sources for each item.
 - No card, rule, grid row or ruling. No category below is chosen; each is a candidate with its conditions.
 - The later-book logistics (§3) are **research and possible routes, not settled events**. They do not amend Tahl's
   death specifics, the route clocks, M10, M20, M55 or any B04–B09 design.
-- No employer, sponsor, outlet or host institution is invented here, except Broussard & Lowe Engineering, which the
+- No employer, sponsor, outlet or host institution is invented here, except Galloway & Lowe Engineering, which the
   approval itself names, provisionally.
 
 ---
@@ -33,7 +33,7 @@ provisional, and the default reading is that the matter is handled offstage.
 | --- | --- |
 | Nationality | Austrian |
 | Prior residence | Vienna |
-| Work | B01: external consultant to **Broussard & Lowe Engineering** (provisional name), a Louisiana-licensed firm holding the parish's inspection contract; the firm's licensed engineer signs findings; his *None* is his personal statement on the coroner's form. Unpaid labour at Sal's (Sal decides) |
+| Work | B01: external consultant to **Galloway & Lowe Engineering** (provisional name), a Louisiana-licensed firm holding the parish's inspection contract; the firm's licensed engineer signs findings; his *None* is his personal statement on the coroner's form. Unpaid labour at Sal's (Sal decides) |
 | Funding | Through his **Hollen Institute** cover (Dominion-supplied); not otherwise set |
 | Sponsor | Not set. The consultancy now gives a sponsor route |
 

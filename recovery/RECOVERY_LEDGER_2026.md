@@ -16586,4 +16586,15 @@ END OF ENTRY 382
     refreshed.
 - **Still open:** Q-RB1–4 and Q-RB6.
 
+## §410 — Q-RB1–4 and Q-RB6 answered, 2026-10-04
+
+- **The author's answer:** *"Yes to all."*
+- **Decision:** `decisions/B01_BATCH_REPORT_Q_RB_AUTHOR_ANSWERS_2026-10-04.md`.
+- **Applied:**
+  - **Lucien's firm** is renamed *Galloway & Lowe*, in the manuscript (E04), the E04 EBCI packet, `LucienID.md` (with a
+    dated note) and three proposals.
+  - **E48** takes *"when the boy across the street did"*.
+- **Kept as they are:** E49's behavior line, the Vein's cut midnights and E35's light lines.
+- **Reading copies** are rebuilt.
+
 END RECOVERY LEDGER
