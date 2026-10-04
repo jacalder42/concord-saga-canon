@@ -16394,4 +16394,19 @@ END OF ENTRY 382
   - flag revision-scar scenes as REBUILD candidates.
 - **Next:** the play audit, the compression audit, then the rewrite-or-revise evaluation.
 
+## §397 — The heat, humor and banter audit done, 2026-10-04
+
+- **Report:** `reports/B01_DRAFT3_PLAY_AUDIT_HEAT_HUMOR_BANTER_2026-10-04.md`, read-only. The tables are private
+  (manuscript `draft-notes/draft3/play-audit/`).
+- **Verdict:** play is rationed by design and lives mainly with the community cast. The leads' play peaks at E19 and
+  E30 and is gone by E49. The defects are small:
+  - Elisabet's flirt formula, five times;
+  - an unused beat of Lucien's attention at E15;
+  - Seraphine's Act I attraction;
+  - a shared retort.
+- **Scale:** 13 interventions, 4 HIGH; about +100 to +250 words recommended.
+- **Q-PA1–10 await the author,** flagged as provisional until the compression audit reports. ChatGPT's review of the
+  225k manuscript, forwarded 10-04 and kept private as supplementary evidence, argues compression cut the runway for
+  play. The archaeology audit tests that.
+
 END RECOVERY LEDGER
