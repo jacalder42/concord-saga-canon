@@ -16527,4 +16527,19 @@ END OF ENTRY 382
   - **E03's Velvet Vein**, the section rebuild.
 - **Next:** the two calibrations, then the batch once he releases it.
 
+## §406 — The two rebuild calibrations are written, 2026-10-04
+
+- **Written in the private manuscript repository** (`draft-notes/rebuild/calibration/`), not yet in draft 3:
+  - **E03, the Velvet Vein section** rebuilt from the repaired packet: the section runs 592 → 1,635 words,
+    the chapter 3,817 against a ~3,800 estimate; everything before the section is unchanged.
+  - **E26, the full rebuild**: 4,119 words against a ~3,400 estimate. The fixed beats are kept. Benoit's
+    circled, unticked name is planted, so E47's existing recall of it is paid. The store sits across from the
+    barrels, as in E18.
+- **Checked:** no faction names, no *Veil*, no *Resonance*, no clock-time bookkeeping, no Baz omen.
+- **A comparison reading copy** (HTML and EPUB) puts each beside its current chapter.
+- **Awaiting the author:**
+  - his release of the batch;
+  - **one new family fact**, from E03: her father's Saturday record, which replaces draft 3's song in her
+    mother's car.
+
 END RECOVERY LEDGER
