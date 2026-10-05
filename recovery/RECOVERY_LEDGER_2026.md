@@ -16741,4 +16741,23 @@ END OF ENTRY 382
 - **No manuscript edits.** No card, rule or packet changed.
 - **Next:** Sessions B (voice, card-versus-prose) and C (rungs, grid, numbering, calendar).
 
+## §421 — Lived-in Louisiana language: diagnosis and proposal, 2026-10-05
+
+- **The direction (user, in chat):** the merged B01 lacks Cajun and Creole influence and dialect, for a book set in New
+  Orleans among natives.
+- **Proposal:** `proposals/B01_LIVED_IN_LOUISIANA_LANGUAGE_PROPOSAL_2026-10-05.md`.
+- **Diagnosis, by script:**
+  - Louisiana French in native speech: 2 uses.
+  - Cajun-English calques and NOLA greetings: 0.
+  - Only the civic and courtesy layer is present.
+- **Root cause:** the author's 2025-11-10 Cajun/Creole split never reached the stack. §12A treats native speech as a
+  sparing foreign tell, and no B01 packet carries a speech-community note.
+- **Proposed:**
+  - four speech communities (Acadiana Cajun/Black Creole; downtown Black New Orleans; Yat; the Northshore family, to
+    confirm);
+  - the guardrails (no phonetic spelling, real usage only, community readers);
+  - a profile §12B;
+  - a B01 pilot or dialogue pass.
+- **Q-LL1–5 await the author.** No manuscript, card, rule or packet changed.
+
 END RECOVERY LEDGER
