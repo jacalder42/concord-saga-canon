@@ -16810,4 +16810,13 @@ END OF ENTRY 382
 - **Questions:** Q-PM15–19 and Q-CP1–17 await the author.
 - No manuscript, card, rule or packet changed.
 
+## §425 — Q-CP1 answered: Odile's camp re-anchored east, 2026-10-05
+
+- **The author's answer:** *"Q-CP1 a."*
+- **Decision:** `decisions/B01_POST_MERGE_REVIEW_Q_CP1_AUTHOR_ANSWER_2026-10-05.md`.
+- **Applied:** in the private manuscript (`fd03fde`), eight lines in E01–E03 and E09 now point to the Pearl River
+  country, matching canon's Honey Island site. The reading copies are rebuilt.
+- This settles the §5 correction note on the Louisiana-language decision.
+- **Next:** Session C of the post-merge review.
+
 END RECOVERY LEDGER
