@@ -16851,4 +16851,48 @@ END OF ENTRY 382
   - the reading copies renumbered Chapters 1–48, with a concordance; episode keys are unchanged.
 - No canon file changed. The packet, overlay and registry notes go to the post-read sync pass.
 
+## §428 — Dialogue voice sheets and editorial lenses: instruction and drafts, 2026-10-05
+
+*(Written by a sidebar session as "§424" in a patch the author handed to this session. Applied here, renumbered, because
+§424–§427 were already taken. The text below is the patch's, unchanged apart from the number.)*
+
+- **The author's instruction, in chat:** *"yes, let's craft full dialogue voice sheets, I suspect nuance was lost during
+  archiving and compression,"* and that the editorial lenses should be created, the deferral being *"more exclusive than
+  is appropriate for this phase of development."*
+- **Decision:** `decisions/DIALOGUE_VOICE_SHEETS_AND_EDITORIAL_LENSES_AUTHOR_INSTRUCTION_2026-10-05.md`. Lifts the
+  2026-09-19 deferral for authoring the lens fields. Q-WP3 stands; the sheets are review-side.
+- **Survey finding (the author's suspicion, checked):**
+  - his 2025-11-01 words (Seraphine *complex and technical*; Lucien *proper and aloof*; Elisabet *raw, upfront and
+    simple*) differ from the distilled cards, and Q-MS5 recorded the conflict without resolving it;
+  - the 2025-11-30 *Voice systems* design (six-step naming ladder, suppression, metaphor rails, regulation in cadence,
+    MODE/HEAT/FX/RES modulation) is not in `canon/` or `rules/`;
+  - the protagonist cards carry a surface-affect line where the antagonist cards carry a speech field.
+- **Written:** `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md` (ten cast sheets, Elias, four antagonists, collision
+  table, naming ladder, revision tests; speech habits tagged `[I]`; no sample lines; no dialect) and
+  `proposals/EDITORIAL_LENSES_AUTHORING_PROPOSAL_2026-10-05.md` (all 23 fields, a ready patch).
+- **Found:** the repository's board focus lines differ from the Codex v2.1 backup in the export for all nine lenses
+  (Q-EL1). The export holds simulated board debates quoting named real people; they were not used.
+- **Limit:** the manuscript is private and was not read. The sheets are untested against the page (Q-DV4).
+- **Open:** Q-DV1–5; Q-EL1–3. No card, rule, packet, grid, profile line or manuscript text changed.
+
+## §429 — Supplements labelled separately; the voice work reconciled; the open-questions register, 2026-10-05
+
+- **The author, in chat:**
+  - *"Prologue, Chapters, Epilogue all are fine. I think Supplemental texts should be tracked differently, Interlude is
+    fine as preliminary place holder."*
+  - He supplied the sidebar's patch (§428) and its page-voice files.
+- **Applied** (private manuscript): the reading copies label S-keyed supplements *Supplement* and I-keyed pieces
+  *Interlude*, both unnumbered. Canon tracking of interludes stays open (Q-GC2-5); supplements already have
+  `grids/supplement_deployment.csv`.
+- **The sidebar's page-voice findings and dialogue extract** are saved, private, in the manuscript's `draft-notes/voice/`.
+  They are reconciled with Session B in `draft-notes/post-merge-review/voice-reconciliation.md`:
+  - the numbers agree;
+  - the voices differ by profile, but short lines of Seraphine, Lucien and Baz are interchangeable;
+  - **Session B's "Lucien not formal" is corrected to "formal in diction, not in contraction avoidance";**
+  - the page sides with the author's 2025-11-01 words, which is evidence for Q-DV2.
+- **Merged questions:** Q-V1 (Q-PM15 + Q-DV1), Q-V2 (Q-PM16, Q-PM17, Q-DV2), Q-V3 (Q-PM19 + Q-DV4).
+- **Register:** `reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md`, every open question deduplicated, grouped by when it
+  needs deciding, with this session's answers listed.
+- `decisions/README.md` now indexes this session's decision files.
+
 END RECOVERY LEDGER
