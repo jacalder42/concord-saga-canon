@@ -17021,4 +17021,30 @@ END OF ENTRY 382
     author);
   - pronunciations the narrator's sheet marks *author to confirm*.
 
+## §436 — B01 merged: book-wide Level B and listening attribution pass done; reading copies rebuilt, 2026-10-05
+
+- **Authority:** §435 (`decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`).
+- **Done in the private manuscript** (commits `bc27895` to `0192907`; logs in `draft-notes/listening-pass/`):
+  - the small fixes, including Caro's E21 call setting up E27's breakfast;
+  - **Level B Louisiana speech** across the 46 chapters outside the pilot: 46 changes, four of them adjusted or reverted
+    on review (a doubled pronoun counts as a new grammar feature under LB6; a souvenir phrase the pilot had withdrawn;
+    a softened sharp line; a repeated tag);
+  - **speaker attribution for listening:** 139 tags or beats.
+- **Book-wide check:**
+  - *Mais* is in 9 chapters, one each;
+  - *cher* belongs to Odile, and once to Mrs. Arceneaux;
+  - *me, I* is Odile's only;
+  - sentence-final *yeah* is spread across 9 speakers;
+  - no new grammar, eye dialect, italics or folklore;
+  - *Veil* only at E49 and E50; 0 Dominion, Technarc, Resonance or *county*.
+- **Reading copies rebuilt** as *merged draft, listening pass (2026-10-05)*, with POV headings: 5,980 of 5,980 source
+  paragraphs present, about 174,000 words. A **listening EPUB** (`B01_MERGED_LISTEN.epub`) has silent scene breaks,
+  framed supplements and spoken forms for shorthand (*w/*, *~*, *St.* before a name).
+- **For the author:**
+  - the community-read findings (Q-LB9);
+  - pronunciations the narrator's sheet marks *author to confirm*;
+  - three speakers left open on purpose (E46:167, E48:381, E48:399);
+  - E43's two Caldas paragraphs, which may hide a cut reply;
+  - E49's Velvet Vein cutaway, under a *Seraphine* heading.
+
 END RECOVERY LEDGER
