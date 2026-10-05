@@ -16633,4 +16633,17 @@ END OF ENTRY 382
   - the line pass;
   - draft 3 stays the working draft until then.
 
+## §414 — The merge is approved, 2026-10-05
+
+- **The author's answer:** *"yes as recommended"* (Q-EX1–5).
+- **Decision:** `decisions/B01_REDRAFT_EXPERIMENT_MERGE_AUTHOR_ANSWERS_2026-10-05.md`.
+- **The merge:** a merged B01 is built in the manuscript's `B01/merged-2026-10-05/`:
+  - Acts I–II are built on the experiment;
+  - Act III is built on draft 3;
+  - each act takes its blind reader's imports.
+- **Also:**
+  - draft 3's E26 is restored;
+  - a line pass removes the de-echo artifacts;
+  - draft 3 stays the working draft until the merge is read.
+
 END RECOVERY LEDGER
