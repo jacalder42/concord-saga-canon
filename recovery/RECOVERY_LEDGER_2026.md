@@ -16646,4 +16646,18 @@ END OF ENTRY 382
   - a line pass removes the de-echo artifacts;
   - draft 3 stays the working draft until the merge is read.
 
+## §415 — The merged B01 is built and continuity-checked, 2026-10-05
+
+- **Report:** `reports/B01_MERGED_DRAFT_BUILD_AND_CONTINUITY_REPORT_2026-10-05.md`. The prose and working notes are
+  private, in the manuscript's `B01/merged-2026-10-05/` and `draft-notes/merge/`.
+- **The merge:**
+  - Acts I–II are built on the experiment, with draft 3's imports and draft 3's E26;
+  - Act III is built on draft 3, with the experiment's imports, reconciled to the merged Acts I–II.
+- **Continuity:** three read-only checks found 9 definite, 15 probable and 22 judgment items. **All definite and probable
+  findings are fixed,** and most judgment items. E42 is back to the packet's one mishap.
+- **Guards and protected lines hold.**
+- **Length:** **173,713 words** (Act I 50,665; Act II 72,422; Act III 50,626).
+- **Reading copies:** in the manuscript's `draft-notes/human-read/B01_MERGED_*`.
+- **Next:** the author's read. Draft 3 stays the working draft until then.
+
 END RECOVERY LEDGER
