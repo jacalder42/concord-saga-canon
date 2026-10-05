@@ -167,9 +167,11 @@ conflict. ND-013 carries a correction note. One item is **flagged, not a questio
 09-19 source gave Kade an MT function *during* the Mending, and M33 has none (M52 puts him at
 the rear).
 
-**Deferred by ruling until recovery and distillation complete:** authoring the 23 (count corrected
-2026-09-27; was "~40") `Asks`/`Flags`/`Protects` fields in `canon/editorial_lenses.md` — never by inference from
-board members' published work.
+**Authored 2026-10-05 by author approval** (Q-EL1–2, `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`;
+was deferred by the 2026-09-19 ruling): the 23 `Asks`/`Flags`/`Protects` fields in `canon/editorial_lenses.md`, from
+`proposals/EDITORIAL_LENSES_AUTHORING_PROPOSAL_2026-10-05.md`. Each lens carries the Codex short line as its label and the
+2025-12-06 backup line as its definition. **Still never by inference from, or attributed to, board members' published
+work.** Fields for the archetype panel and the Publication Advisory Group: not yet (Q-EL3).
 
 ---
 

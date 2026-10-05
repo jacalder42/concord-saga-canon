@@ -73,4 +73,6 @@
 
 - **Note (added 2026-10-05, author-approved, card fact):** **her B01 exit is open-ended:** at E48 she texts Lucien that **her university is re-filing her season** (so she will be back in New Orleans), signed **"E."** This is the bridge to her B02 A1 stay. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
+- **Note (added 2026-10-05, author-approved, approved design, Q-VI4 and Q-VI8): voice.** **Upfront about facts and judgments** (the author's 2025-11-01 *"raw upfront and simple"*), **sparing about feelings** (this card's *withheld*): both are kept, and they describe different things. Uncontracted for verdicts and contracted for working talk is **a hypothesis for B02 to test** (seven B01 lines). ***Raw* is a register to spend later**, not her B01 default. **Humor default (Q-VI8):** dry verdicts and plain flirtation. *Voice systems* (2025-11-30) is **Tier D design** (Q-VI13): evidence of intent in side-by-side reviews, not canon. Review-side; the drafting stack is unchanged (Q-WP3, with Q-VI1's clause). Side by side in `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md`. (author 2026-10-05, "Yes, all as recommended", `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, from `proposals/DIALOGUE_VOICE_INTENT_VS_PAGE_2026-10-05.md`)
+
 END — ELISABET ARNARDÓTTIR IDENTITY CANON v1.1

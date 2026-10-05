@@ -122,6 +122,7 @@ The source is the author's first read notes on the redraft
   chapter, is the range the 2025 discussions settled near. It is a reading signal, not a quota
   (`decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md`, Q-FL2). Check also that each one is clear
   from context or a reply, and that none is spelled phonetically.
+  - **Narrowed 2026-10-05 by Q-LB5 (a)** (`decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, approved design): the rough figure above covers **foreign words**. For **Louisiana speech** the check runs both ways: a local with several lines and no marker is as much a fault as a marker in every line of a scene (profile §12B).
 
 
 ## Rhythm and pace (Q-JZ1, 2026-10-01)

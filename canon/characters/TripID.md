@@ -73,4 +73,6 @@
 - **Role phrasing variance:** owner / host / nightlife anchor; she owns the Vein and tends her own bar, so *bartender* describes what she does, not her position
 - **Note (added 2026-10-05, author-approved, CP12):** amended to match §VI. **Was: "bartender / host / nightlife anchor used interchangeably; non-conflicting".** T4-19, approved in `decisions/B01_DRAFT3_INTEGRATION_LIST_AUTHOR_ANSWERS_2026-10-01.md`; (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
+- **Note (added 2026-10-05, author-approved, approved design, Q-VI7 and Q-VI8): voice.** The card and the page agree and stand. *Voice systems*' **innuendo is retired** (it conflicts with this card's *kind*); its **nicknames as gifts** stay **available, not owed**. **Humor default (Q-VI8):** dry and kind. *Voice systems* (2025-11-30) is **Tier D design** (Q-VI13): evidence of intent in side-by-side reviews, not canon. Review-side; the drafting stack is unchanged (Q-WP3, with Q-VI1's clause). Side by side in `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md`. (author 2026-10-05, "Yes, all as recommended", `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, from `proposals/DIALOGUE_VOICE_INTENT_VS_PAGE_2026-10-05.md`)
+
 END — TRIP IDENTITY CANON

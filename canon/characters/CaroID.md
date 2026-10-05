@@ -62,4 +62,6 @@
 - **Job-title phrasing:** EMT / paramedic used interchangeably; treated as non-conflicting municipal emergency role
 - **Job-title phrasing, superseded** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`): she is a paramedic; see §VI
 
+- **Note (added 2026-10-05, author-approved, approved design, Q-VI6 and Q-VI8): voice.** **Two modes:** long off the scene (storyteller, report-giver, needler), short on it. **Two pressures:** short when the pressure is for someone else; talkative, even angry run-on, when it is about Seraphine. **Humor default (Q-VI8): hyperbole, then truth** (*joke → truth*, as *Voice systems* designed and the page found). Her Spanish in warmth **waits for B02**, where it is designed to rise; nothing is forced into B01. Her run stories are watched, not thinned, in B01. *Voice systems* (2025-11-30) is **Tier D design** (Q-VI13): evidence of intent in side-by-side reviews, not canon. Review-side; the drafting stack is unchanged (Q-WP3, with Q-VI1's clause). Side by side in `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md`. (author 2026-10-05, "Yes, all as recommended", `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, from `proposals/DIALOGUE_VOICE_INTENT_VS_PAGE_2026-10-05.md`)
+
 END — CAROLINA “CARO” ALVAREZ IDENTITY CANON

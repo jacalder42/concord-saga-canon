@@ -54,6 +54,7 @@ Example: *Trip (she): Velvet Vein's host; compact, socially effortless, owns the
 - **Do not import** full cards, histories, future roles or hidden significance.
 - **Do not repeat** anything the preceding prose has already established. Once a character is on the page, the prose governs.
 - It is **not a character-voice layer.** Q-WP3's one card line about how a POV character notices still applies at their first substantial POV appearance, and only there.
+- **A local's speech community** (Q-LB10 (c), 2026-10-05, `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`): for a Louisiana-born character, the identity context at their **first appearance** carries **one line naming their speech community** (for example, downtown New Orleans English; Pearl River Cajun; Yat), for packets derived from 2026-10-05 on. The rules for it are profile §12B. It is the only speech line; nothing else of a per-character voice enters the stack.
 - The facts come from `canon/characters/` and `canon/cast_registry.csv`. They are assembled per episode in the drafting stack, not kept as a new document.
 
 ### Character pressures (Q-IT1, Q-IT3, 2026-09-29)
@@ -213,7 +214,7 @@ engine tic and AI tell.
 
 ## The writer profile
 
-`WRITER_PROFILE_JA_CALDER.md` is the one stable instruction set that accompanies every packet (**approved 09-27** for Veil). **No per-character voice layer:** at a character's first substantial POV appearance only, one card line about how they notice or think may be promoted; after that the preceding prose governs. It is **recovered, not invented**: `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md` registers every source, its provenance and the conflicts. It carries no scores, ratios or required beats.
+`WRITER_PROFILE_JA_CALDER.md` is the one stable instruction set that accompanies every packet (**approved 09-27** for Veil). **No per-character voice layer:** at a character's first substantial POV appearance only, one card line about how they notice or think may be promoted; after that the preceding prose governs. **Amended 2026-10-05 by Q-VI1** (`decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, approved design): after that the preceding prose governs, *unless the author, in a side-by-side review, pulls a designed trait back.* The review-side record of those decisions is `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md`; it never enters the stack. It is **recovered, not invented**: `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md` registers every source, its provenance and the conflicts. It carries no scores, ratios or required beats.
 
 **§3A *Structure under the page*** (Q-JZ1, 2026-10-01) carries the author's Jazz Framework as tendencies. **The
 framework is not a packet field.** No *Episode Jazz* block appears in the EBCI or prose packets. Its review side is

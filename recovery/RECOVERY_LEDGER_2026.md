@@ -16993,4 +16993,32 @@ END OF ENTRY 382
   phenomenon kept; *hold* thinned; Lucien's French available.
 - **Questions Q-VI1–13** for the author. They supersede Q-V1–3, Q-DV3, Q-DV5 and Q-PM6.
 
+## §435 — Listening, realism and the side-by-side questions answered "all as recommended"; applied, 2026-10-05
+
+- **The author's answers:** the five listening items, in chat. Then, asked whether it covers the rest: **"Yes, all as
+  recommended."** Recorded in `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`
+  (approved design).
+- **Applied in canon:**
+  - **Profile §12B, *Louisiana speech*.** Q-LB1–10 as answered. The Q-LB9 community-read summary is a placeholder until
+    the author supplies the findings.
+  - **README:** Q-WP3 gains the side-by-side clause (Q-VI1). A local's identity context carries one speech-community
+    line (Q-LB10).
+  - **Watch-list:** the density note is two-sided (Q-LB5).
+  - **Voice sheets:** rewritten in side-by-side form (Q-VI11). *Voice systems* is Tier D (Q-VI13).
+  - **Cards:** notes on six cards for Q-VI2–8, and Seraphine's Q-LB1–2.
+  - **Editorial lenses:** the 23 fields authored, with both wordings, the Notion line as label and the backup as
+    definition (Q-EL1–2). CLAUDE.md §4 is updated. Q-EL3: not yet.
+  - **Narrator's sheet:** `ebci/prose/AUDIO_NARRATION_SHEET_B01.md`, a production reference outside the drafting stack.
+    It covers pronunciations, voices and performance, and carries the casting note.
+- **Applied in the private manuscript:**
+  - POV chapter headings;
+  - a text-to-speech listening EPUB;
+  - Q-PS1–3, Q-PM10, Rieux, Caro's two touches, and Lucien's one French word at E48;
+  - the book-wide Level B and speaker-attribution pass, running by act (logs in `draft-notes/listening-pass/`).
+- **Open:**
+  - the community-read findings (Q-LB9);
+  - the Hazelwood lens field's word *ladder*, which may mean the retired heat ladder or the relationship ladder (for the
+    author);
+  - pronunciations the narrator's sheet marks *author to confirm*.
+
 END RECOVERY LEDGER
