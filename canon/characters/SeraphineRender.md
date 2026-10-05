@@ -19,6 +19,8 @@ It may be iterated without affecting story canon.
 - calm, empathetic presence
 - human-scale realism (not stylized)
 
+**Note (added 2026-10-05, author-approved, speech strand):** *Black Creole–Cajun* is a heritage token and stands. Her speech strand is Cajun-dominant with Black Creole family (`SeraphineIdentity.md` §II note; `decisions/B01_LIVED_IN_LOUISIANA_LANGUAGE_AUTHOR_ANSWERS_2026-10-05.md`). The token's Creole-first order says nothing about voice, and nothing visual changes. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 ---
 
 ## BODY PROPORTION RATIOS (PRIMARY SHAPE CONTROL)

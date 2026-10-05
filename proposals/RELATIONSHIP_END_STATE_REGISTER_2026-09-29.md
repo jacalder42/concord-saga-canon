@@ -186,6 +186,8 @@ E26, E31; B03 E18, E21; B04 E18, E40, E45; B06 E26, E28; B08 E33 (L10's interior
 Silence's care goes to B09 E10, as B8-7 says). PROPOSED ROW: M57 (wording kept; its note would record the one thing
 left standing).
 
+**Note (added 2026-10-05, author-approved, Q-RG7):** B01's end state for R1 is **three injuries standing, unrepaired**: **his blame at E39** (for holding his arm at the dawn stakeout), **the *None*** (his false statement on the coroner's form, which she learns at E44–E48), and **the Institute** (who he works for, told at E49). The *Current design*'s **"its one fracture repaired inside B01 E24"** (redraft E21, per the 09-29 note at the top) **is superseded**: the E21 fight still happens, but B01 no longer ends on a repair. B02 inherits all three; the 09-29 note's instruction that B02 E12 must not replay the blame as a new break stands. The entry's later course is unchanged by this note. Approved design: the 10-03 B01 decisions (`decisions/B01_PRESSURE_INTRIGUE_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-10-03.md`; `decisions/B01_REVISION_REVIEWS_AND_ENDING_REVEAL_AUTHOR_ANSWERS_2026-10-03.md`, ledger §387). (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 ---
 
 ### R2. Caro – Elisabet
@@ -276,6 +278,8 @@ he decided (`BC-ASKED-HIM-HERE`).
 
 **Touches.** RULED: the death timing and M11, untouched. AD: B03 E17 (its Keep line moves to E26), E26.
 
+**Note (added 2026-10-05, author-approved, Q-RG7):** this entry predates B01's 2026-10-03 end states. **B01 now ends R3 told, betrayed and not repaired:** Baz's secret (his Dominion past and why he left, kept from Lucien for Lucien's safety) is told to Lucien privately at **E48**, and it **lands as a betrayal** (Q-PI4, `decisions/B01_PRESSURE_INTRIGUE_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-10-03.md`). So R3 enters B02 with the betrayal standing, not at *"B02 E07 shorthand"*, and the first secret in the friendship is Baz's, not Lucien's; the B02–B03 loop above (Lucien withholding from Baz, confessed at B03 E17) is read with that. The 09-29 note at the top (*"Baz's silence about Sal"*) is superseded by the betrayal. Whether the B02 packets aligned on 10-03 (ledger §382) already carry this is not checked here. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 ---
 
 ### R4. Baz – Seraphine
@@ -306,6 +310,8 @@ when he dies elsewhere; B04 **E02** the rescuer's name, **E09** *"The Person She
 **Uses.** B02-4.
 
 **Touches.** AD: B02 E22, E26; B03 E27. Nothing ruled is changed.
+
+**Note (added 2026-10-05, author-approved, Q-RG7):** this entry predates B01's 2026-10-03 end states and records no B01 strain. **B01 now ends R4 with a grievance on Seraphine's side** (she found Baz's column at E48, as the 09-29 note at the top records) and with her **knowledge that he is wanted** by the people behind the Institute (told at E49; `decisions/B01_REVISION_REVIEWS_AND_ENDING_REVEAL_AUTHOR_ANSWERS_2026-10-03.md`, ledger §387). R4 enters B02 warm but with that grievance standing; the B02 E22 trigger above is read with it. Whether the B02 packets aligned on 10-03 (ledger §382) already carry this is not checked here. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 ---
 

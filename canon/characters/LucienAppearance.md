@@ -50,6 +50,8 @@ Tells:
 
 **Forbidden:** swagger, looseness, flamboyance.
 
+**Note (added 2026-10-05, author-approved, CP11):** the *Forbidden* lines and *designed rather than relaxed* on this card are **visual baselines**. **Rare unguarded moments are allowed in prose** (B01 E31 and E35, framed on the page as rare). The baseline stands. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 ---
 
 ## IV. FACE, HAIR & EXPRESSION

@@ -16901,4 +16901,53 @@ END OF ENTRY 382
 - **Added:** `reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md` §6, with one recommendation and reason per open
   question. Advisory; nothing is decided or changed.
 
+## §431 — B01 open questions answered "all as recommended", except voice, language and lens; Q-LL5 done, 2026-10-05
+
+- **The author's answer, in chat:** *"all as recommended but: Voice, language and lens - we need to consider original
+  intent and design side by side with the written prose, it is not certain that the written form wins 100%. Q-LL5 has
+  been done, proposed form is approved."*
+- **Recorded:** `decisions/B01_OPEN_QUESTIONS_ALL_AS_RECOMMENDED_AUTHOR_ANSWERS_2026-10-05.md` (approved design). The
+  register (`reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md`) gains a §7 status section.
+- **Accepted:** the register's §6.1–6.3, §6.5 and §6.6.
+- **Not accepted as written:** §6.4. Voice sheets, lenses, tells and §12B go to side-by-side intent-versus-page
+  proposals. The page does not win by default.
+- **Q-LL5 is done, and the pilot form is approved.** The level-B-elders form (24 items) is applied to the merged B01.
+- **Applied to the merged B01** (private manuscript repository, commits `ef0caef` and `4b41a51`; private log
+  `draft-notes/post-merge-review/EDITS-ALL-AS-RECOMMENDED-2026-10-05.md`):
+  - the pilot;
+  - the Q-PM1–3 usage diff (61 changes);
+  - 23 page edits (Q-CP3, Q-CP6, Q-GC1-5, Q-GC2-1, Q-GC3-6, Q-CA1–5).
+  Reading copies rebuilt; every source paragraph present; guards clean.
+- **Q-EL1, checked in Notion:** the Codex v2.1 page (edited 2025-11-23) matches the repository's focus lines word for
+  word. The 12-06 backup's longer lines are a later reconstruction. Both are carried to the side-by-side review.
+- **Q-GC2-8, the pump-station realism check, is done** (private note
+  `draft-notes/post-merge-review/pump-station-research.md`). 21 claims were checked: 9 supported, 12 plausible, 0
+  contradicted. Some sources were read only as search extracts, because the proxy blocked their sites. The station stays
+  an unnamed fictional composite (modelled on DPS 7, with DPS 2's building). Do not name DPS 7: it had a reported
+  failure in July 2026, and the page's staff handle access badly. **Three optional fixes for the author:**
+  - **Q-PS1.** E24, *on most of the day*: distinguish the constant-duty pumps from the storm pumps.
+  - **Q-PS2.** E24, the chart recorders: panel-mounted, and the image fits a circular chart, not a drum.
+  - **Q-PS3.** E24, the pool-per-second figure: one pump is about a backyard pool every 2–3 seconds. Fix Lucien's
+    arithmetic, or give the boast to Walt.
+- **Provisional names:** Odile Doucet; Seraphine's card brother Remy Broussard.
+
+## §432 — Cards, registry and relationship register brought to the approved B01 end states, 2026-10-05
+
+- **Authority:** §431 (the register's §6.5, with the approved card facts from §422–§425).
+- **Notes:** every change is a dated note citing its question ID. Amended lines keep the old text in a "Was:" note.
+- **Cards changed:**
+  - Seraphine: Q-CP2 birthplace and ages; Q-CP4 brother renamed Remy; Q-CP5 §XI to the page's E01 event; speech
+    strand; Tante Colette; Denise and Marisol; Miss Tavie's; Caro.
+  - Lucien: Q-CP7–CP11 (role, cover, statement, knowledge, render baselines, heat ladder retired); the phone habit
+    *described*.
+  - Baz: Q-CP9; family, history and Caldas sightings.
+  - Caro: Q-CP13, EMT to paramedic; the E49 shift.
+  - Elisabet: Q-CP14.
+  - Trip: Q-CP12, owner of the Vein.
+- **Registry:** notes on C02, C04 and B11 (Q-CP17: to be named Rieux at the line pass). **Ten new rows B12–B21:** Odile
+  Doucet, Renée Batiste, Dré Batiste, Miss Tavie, Denise, Marisol, Guidry, Sal Ferrara, Mr. Ledet, Renita.
+- **The relationship register (Q-RG7):** R1, R3 and R4 notes record B01's standing injuries; R1's E21 repair is
+  superseded.
+- **Checks:** validator 0; self-tests pass. Whether the B02 packets already carry R3 and R4 is not yet checked.
+
 END RECOVERY LEDGER

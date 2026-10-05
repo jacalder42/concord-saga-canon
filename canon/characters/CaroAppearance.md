@@ -96,9 +96,13 @@ Her VFX read as **supportive and stabilizing**, never destructive.
 ## VI. WARDROBE & MATERIALS
 
 ### Veil
-- EMT gear  
+- paramedic gear  
 - hoodies, utility jackets  
 - work boots, sneakers  
+
+**Note (added 2026-10-05, author-approved, CP13):** amended to *paramedic*. **Was: "EMT gear".** It follows the 2026-10-02 ID correction (`CaroID.md` §VI; ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`): EMT and paramedic are different licences and are not interchangeable; she is a paramedic. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
+**Note (added 2026-10-05, author-approved, card fact):** off duty in B01 she wears a **CHICAGO FIRE DEPT sweatshirt** (B01 E42), consistent with her CFD paramedic past. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 ### Neon
 - reinforced civilian layers  
@@ -139,6 +143,8 @@ Stress:
 - clipped movements  
 - visible fatigue in shoulders  
 
+**Note (added 2026-10-05, author-approved, card fact):** after a long call her **hand keeps closing on nothing** (B01 E28, after she holds a trapped driver's head); the tell is **paid at E49**, when she names it herself as something her hand does after a long one. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 ---
 
 ## VIII. ENSEMBLE PRESENCE
@@ -155,7 +161,8 @@ Caro makes spaces **safer to exist in**.
 
 ## IX. TRILOGY EVOLUTION
 
-**Veil:** crisp EMT readiness  
+**Veil:** crisp paramedic readiness  
+*(Note, added 2026-10-05, author-approved, CP13: amended. **Was: "crisp EMT readiness".** It follows the 2026-10-02 ID correction (`CaroID.md` §VI; ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`): EMT and paramedic are different licences and are not interchangeable; she is a paramedic. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6))*  
 **Neon:** overworked resilience, visible strain  
 **Loom:** deliberate pacing, intentional care  
 **Post-Mending:** stable, warm, chosen motion  

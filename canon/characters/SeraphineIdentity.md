@@ -42,6 +42,10 @@ Emotion is communal.
 Grief is witnessed.  
 Survival is shared.
 
+**Note (added 2026-10-05, author-approved, CP2):** the page governs. She was **born in Abbeville** (the birthplace above stands) and **raised in Lafayette**, where the family lived until **the car wreck, around age 11**, of which she was the sole survivor (§III). After the wreck she was **raised by Tante Colette in Tremé** (§IV). The formative-imprint ages in §VI shift to fit (see the note there). Formative years in Acadiana support her Cajun-dominant voice (Q-LL1). Nothing above is deleted; this note adds the Lafayette childhood and the age at the wreck, which the card did not state. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
+**Note (added 2026-10-05, author-approved, speech strand):** her speech strand is **Cajun-dominant with Black Creole family** (`decisions/B01_LIVED_IN_LOUISIANA_LANGUAGE_AUTHOR_ANSWERS_2026-10-05.md`, Q-LL1). The *Cultural Lineage* line above describes heritage and stands; read it with this note for voice, since its Creole-first order is not a statement about which strand dominates her speech. On the page this shows as a faint Lafayette lilt under a New Orleans accent. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 ---
 
 ## III. FAMILY ECOLOGY & PRIMARY LOSS
@@ -55,16 +59,18 @@ Survival is shared.
   Quiet, steady; works in skilled labor or city maintenance
   *(Added 2026-10-04, approved design: on Saturdays he played a Sugar Boy Crawford record with the screen door open and his toolbox on the steps. `decisions/B01_REBUILD_CALIBRATIONS_RELEASE_AUTHOR_ANSWERS_2026-10-04.md`.)*
 
-- **Older Brother:** Andre Broussard  
-  Protective, grounding, provided humor and normalcy
+- **Older Brother:** Remy Broussard  
+  Protective, grounding, provided humor and normalcy  
+  **Note (added 2026-10-05, author-approved, CP4):** renamed. **Was: Andre Broussard.** *Andre* collided with the dead child **Dré** of B01 E01 (*Dré* is a short form of *André*); the brother predates Dré's naming and is unnamed on the page, so the change costs nothing. **Remy** is a provisional name chosen to implement the recommendation; the author may change it. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 ### The Accident (Foundational Trauma)
 
 - A **non-metaphysical car wreck** kills:
   - Danielle Broussard  
   - Marcus Broussard  
-  - Andre Broussard
+  - Remy Broussard *(was: Andre Broussard; renamed 2026-10-05, CP4, see the note above)*
 - **Seraphine is the sole survivor**
+- **Note (added 2026-10-05, author-approved, CP2):** the wreck happens **around age 11**, while the family lives in Lafayette. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 There is:
 - no prophecy  
@@ -107,6 +113,8 @@ Core teaching:
 
 Seraphine adopts the name **Vael** not as reinvention, but as belonging.
 
+**Note (added 2026-10-05, author-approved, card fact):** **Tante Colette** is the aunt of B01 E33 who cut bread toward her heart, a habit Seraphine watched many times; she is the same Tante Colette named at E25, whose counter Seraphine sat at after the wreck (`decisions/B01_LIVED_IN_LOUISIANA_LANGUAGE_AUTHOR_ANSWERS_2026-10-05.md`, card fact). (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 ---
 
 ## V. SOCIOECONOMIC POSITION
@@ -143,6 +151,8 @@ She learns to hold rooms before she learns why.
    Tutoring, mediation, youth programs, elder support.  
    Discovers she naturally de-escalates conflict.
 
+**Note (added 2026-10-05, author-approved, CP2):** the ages above were set for an early move to Tremé. With the wreck **around age 11** and her childhood **in Lafayette** (§II note), they shift to fit: the Porch Listen (1) belongs to her Acadiana childhood; the Second Line After Loss (2) and Neighborhood Hurt (3), which follow the loss and belong to Tremé, move to **after the wreck, from about 11 into her early teens**; Hurricane Displacement (4) and Early Community Work (5) stand. The order of the imprints is kept; the exact shifted ages are provisional. Was: *Second Line After Loss (Age 9–10)*, *Neighborhood Hurt (Age 11–13)*, with the Tremé life starting before them. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 ---
 
 ## VII. EDUCATION & PRE-SAGA WORK
@@ -170,6 +180,12 @@ She is trusted, overcommitted, and quietly indispensable.
 
 **Supersession note** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`, R5): her employer is the **Beaulieu Center for Family Services** in Tremé (Q-HR7, ledger §329; `decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md`), superseding *Tremé Community Resource & Care Center (TCRCC)* above. Her supervisor is **Denise**; her colleague is **Marisol**. The manuscript calls her a *caseworker* or *care coordinator*. The lines above are kept as the superseded reading. Registry rows for Denise and Marisol wait for the next card review.
 
+**Note (added 2026-10-05, author-approved, card facts):** B01 work facts from the merged B01, approved at the card review:
+- **Denise** is her supervisor of many years (registry row added 2026-10-05). Her disciplinary steps in B01: a "watch" warning at **E09**; at **E37** she takes the Ursulines block off Seraphine's caseload and gives it to Marisol; at **E41** a written warning over a client's will-call oxygen tank.
+- **Marisol** is a caseworker colleague at the center who takes over the Ursulines block (registry row added 2026-10-05).
+- Registry rows for Denise and Marisol now exist (see `canon/cast_registry.csv`), which answers the line above.
+(author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 ---
 
 ## VIII. IMMEDIATE PRE-SAGA STATE
@@ -180,6 +196,8 @@ She is trusted, overcommitted, and quietly indispensable.
 - Feels responsibility without authority  
 
 She survives by staying regulated.
+
+**Note (added 2026-10-05, author-approved, card fact):** her home is **the upstairs of Miss Tavie's house in Tremé, rented for six years** at B01's start (an old white clapboard house with an outside side stair). Miss Tavie, her elderly widowed landlady downstairs, has a registry row (added 2026-10-05). (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 ---
 
@@ -213,12 +231,22 @@ She seeks accountability without cruelty.
 
 ---
 
-## XI. THE PROLOGUE EVENT — THE CHILD IN THE SWAMP
+## XI. THE E01 EVENT — THE CHILD IN THE SWAMP
 
-- Seraphine rushes to help a critically ill child  
+- Seraphine rushes to help a critically ill child, **Dré Batiste**, seven, at his grandmother's fishing camp  
 - Conditions are hostile and time-bound  
-- She arrives **too late**  
-- The child dies  
+- She arrives **while he is still alive**, does CPR, and **he dies in her care**  
+- The death is in **B01 E01**; the prologue is **E00** (Silence and Hope)  
+- Her own share of the chain: **the coverage renewal for Dré sat unfinished on her desk for three weeks** before his death  
+
+**Note (added 2026-10-05, author-approved, CP5):** revised to the page, which is approved design. **Was:**
+> ## XI. THE PROLOGUE EVENT — THE CHILD IN THE SWAMP
+> - Seraphine rushes to help a critically ill child
+> - Conditions are hostile and time-bound
+> - She arrives **too late**
+> - The child dies
+
+What was wrong: the card had her arrive too late and called the death the prologue event; on the page she arrives in time to attempt CPR and he dies in her care, the death is E01 and not the prologue (E00 is Silence and Hope's), and her unfinished renewal is part of the chain. The lines below stand. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 This loss echoes her own survival:
 
@@ -271,6 +299,7 @@ shared load over solitary endurance.
 
 - **Lucien:** structure meets warmth; Silence ↔ Thread  
 - **Caro:** shared grounding and triage  
+  **Note (added 2026-10-05, author-approved, card fact):** Caro is her **best friend**. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)  
 - **Elisabet:** clarity without emotional erasure  
 - **Tahl:** grief held without myth  
 - **Kade:** moral north star without certainty  

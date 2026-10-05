@@ -69,4 +69,8 @@
 
 - **Dated note, 2026-10-03 (approved design, H2):** in B01 (E20–E28) she flirts openly with both Seraphine and Lucien, because she enjoys directness and not to audition pairings; flirting is not her whole personality. Caro watches with amusement and interest. Recovered design from `proposals/B01_CHARACTER_LIFE_ENTRY_EXIT_AUDIT_PASS1_2026-09-22.md`. `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
 
+- **Note (added 2026-10-05, author-approved, CP14; also Q-RG3–5):** the H2 note above is **narrowed to the page**: her flirtation is **open with Lucien** and **light with Seraphine**, and **Caro learns of it by text in E28** (a flirtatious text to Lucien, read aloud), rather than watching it. What differed: the H2 note said *both … openly* and *Caro watches*. B01 is full; she stays from B02 A1, where this can grow. The H2 note is kept as the superseded reading. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
+- **Note (added 2026-10-05, author-approved, card fact):** **her B01 exit is open-ended:** at E48 she texts Lucien that **her university is re-filing her season** (so she will be back in New Orleans), signed **"E."** This is the bridge to her B02 A1 stay. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 END — ELISABET ARNARDÓTTIR IDENTITY CANON v1.1

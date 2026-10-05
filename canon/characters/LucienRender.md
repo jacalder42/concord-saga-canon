@@ -19,6 +19,8 @@ Key impressions:
 
 He should never appear flamboyant, relaxed, or casually expressive.
 
+**Note (added 2026-10-05, author-approved, CP11):** this prohibition, and the *Forbidden* lists on this card, are **visual baselines** for image generation, not limits on behaviour in prose. **Rare unguarded moments are allowed in prose** (in B01 he laughs openly at a stranger's table at Easter, E31, and eats with his elbows on the paper, E35, framed on the page as rare). The visual baseline stands. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 ---
 
 ## II. PHYSICAL PROFILE (NON-NEGOTIABLE)

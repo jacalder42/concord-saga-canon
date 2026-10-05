@@ -54,6 +54,7 @@
 - **Neon:** action becomes sustained triage; endurance costs accumulate
 - **Loom:** action reframed as sustainable care; pacing and delegation learned
 - **Post-Mending:** care-through-action persists, now shared and communal
+- **Note (added 2026-10-05, author-approved, card fact):** at B01's end (E49) she is **working the festival Saturday shift** and phones Seraphine **from a run in Algiers** (Orleans Parish; she does not leave New Orleans in B01). (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 ## X. Canon Conflict Ledger (Preserved Record)
 - **Backstory duplication:** multiple near-identical FINAL CANON blocks exist; treated as reinforcement, not conflict

@@ -226,3 +226,17 @@ Grouped by **when** a decision is needed:
 interludes their own tracking, separate from `supplement_deployment.csv`: a concordance and overlay note now, and a SID
 form for interludes when the grid is next changed. That last needs a ruling, because the SID grammar has no interlude
 slot.
+
+## 7. Status, 2026-10-05 (after the author's answer)
+
+**Answered:** *"all as recommended but: Voice, language and lens…"*
+(`decisions/B01_OPEN_QUESTIONS_ALL_AS_RECOMMENDED_AUTHOR_ANSWERS_2026-10-05.md`, ledger §431).
+- §6.1–6.3, §6.5 and §6.6 are accepted as recommended. The page items are applied; the line-pass and sync-pass items
+  are scheduled.
+- **§6.4 is not accepted as written.** Intent and page go side by side, and neither wins by default. New questions come
+  from the two side-by-side proposals.
+- **Q-LL5 is done, and the pilot form is approved and applied.**
+- **Still open:**
+  - the §6.4 set (re-posed);
+  - Level B book-wide;
+  - the three optional pump-station fixes (Q-PS1–3, ledger §431).

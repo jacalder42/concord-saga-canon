@@ -32,7 +32,8 @@ She should never read as glamorous, mystical, or heroic-by-design.
 
 Skin tone: Latina / Mexican-American range
 
-Optional: light under-eye fatigue consistent with EMT work
+Optional: light under-eye fatigue consistent with paramedic work  
+*(Note, added 2026-10-05, author-approved, CP13: amended. **Was: "consistent with EMT work".** It follows the 2026-10-02 ID correction (`CaroID.md` §VI; ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`): EMT and paramedic are different licences and are not interchangeable; she is a paramedic. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6))*
 
 ---
 
@@ -76,7 +77,8 @@ Stillness feels temporary, not natural.
 ## V. WARDROBE & MATERIAL LANGUAGE
 
 ### Veil Era
-- EMT uniforms  
+- paramedic uniforms  
+*(Note, added 2026-10-05, author-approved, CP13: amended. **Was: "EMT uniforms".** It follows the 2026-10-02 ID correction (`CaroID.md` §VI; ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`): EMT and paramedic are different licences and are not interchangeable; she is a paramedic. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6))*  
 - hoodies, utility jackets  
 - work boots, sneakers  
 
@@ -156,7 +158,9 @@ Caro often moves *between* others, stabilizing space physically.
 
 ## IX. GENERATIVE PROMPT — BASE (PORTRAIT)
 
-“compact strong Latina woman, EMT paramedic aesthetic, dark hair tied back, expressive brown eyes, practical clothing, cinematic realistic portrait, warm natural lighting, grounded human presence, no supernatural effects”
+“compact strong Latina woman, paramedic aesthetic, dark hair tied back, expressive brown eyes, practical clothing, cinematic realistic portrait, warm natural lighting, grounded human presence, no supernatural effects”
+
+**Note (added 2026-10-05, author-approved, CP13):** amended. **Was: "EMT paramedic aesthetic".** It follows the 2026-10-02 ID correction (`CaroID.md` §VI; ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`): EMT and paramedic are different licences and are not interchangeable; she is a paramedic. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 ---
 

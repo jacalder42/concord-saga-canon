@@ -134,6 +134,8 @@ With Seraphine:
 **Heat Permissions:**  
 H0–H1 common · H2 under grief/safety · H3 only after devotion · H4 avoided
 
+**Note (added 2026-10-05, author-approved, CP10):** the **H0–H4 heat levels above are retired**: the book-level heat ladder and ceiling were retired on 2026-10-03 (`decisions/B01_PRESSURE_INTRIGUE_AND_FOUNDATIONS_AUTHOR_ANSWERS_2026-10-03.md`, ledger §375). The *Heat Permissions* line is kept as the superseded reading. **B01's heat design** is **sparks at E30**, **a pretext cover kiss at E39** (which both later call nothing) and **charge at E46** (`decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`, ledger §383). The traits list above is not changed by this note. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
 ---
 
 ## IX. EBCI ACROSS TRILOGIES

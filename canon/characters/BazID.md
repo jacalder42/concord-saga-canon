@@ -22,6 +22,7 @@
 - **Mother:** **Samira** — French-Algerian nurse / community health worker; warm, protective, strong-willed; bilingual cultural navigation; teaches emotional literacy without softness
 - **Sibling:** one younger sister (protective bond; responsibility imprint)
 - **Household dynamic:** love expressed through work, responsibility, and steadiness; community proximity; moral clarity formed in civic stress
+- **Note (added 2026-10-05, author-approved, card fact):** his mother, living and still working as a nurse in Marseille, **calls him on Sundays and Wednesdays**. He **learned his way of questioning from her at 11**, carrying her bag on the wards on Saturdays. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 ## V. Socioeconomic Position
 - **Class position:** working-class / lower-middle, materially constrained
@@ -32,6 +33,12 @@
 - **Education route (source-set):** university track in communications / journalism / investigative sociology (exact major varies in phrasing across source text)
 - **Parallel work:** translation, civic mediation, NGO documentation, small investigative collectives
 - **Skill identity (compressed):** interviewing; precision listening; triangulation; calm witness presence; grounded empathy without resonance framing
+- **Note (added 2026-10-05, author-approved, card facts):** facts on the merged B01 page, now on the card:
+  - **Work before B01:** documentation for a **housing group in Houston**; earlier, **tenants' unions** and **a flood inquiry**. He works by written consent.
+  - **With Lucien:** a past job with Lucien **in Vienna, working at the same table**, for the same people (consistent with the Q-PI2 note below).
+  - **B01 home:** a mat on **Lucien's floor, upstairs at Mr. Ledet's** (registry row for Mr. Ledet added 2026-10-05); later in B01 he decides to stay in New Orleans and looks at **a room in Mid-City**.
+  - **Caldas Ren (registry C02) in B01:** seen by Baz on Poydras (E20) and on St. Claude (E36); approaches him in City Park (E43), naming Lucien; present at the Square (E49), where Baz names him to Seraphine as theirs.
+  (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 ## VII. Psychological Architecture (Identity Loop)
 - **Core wound (compressed):** if truth is missed or softened, harm follows
@@ -57,5 +64,7 @@
 - **Dated note, 2026-10-03 (approved design, B1–B2):** he left after the Dominion withheld warnings from a neighbourhood to keep its observations clean, and people were hurt. He discloses this at B01 E26, after hearing himself propose an uninformed "control group" that Seraphine refuses. How much he knows about the phenomenon stays secret until B01's end. His risk: anyone who knows what he knows becomes a liability to the people who sent Lucien. `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
 
 - **Dated note, 2026-10-03 (approved design, ledger §387):** after one failed attempt on the lot (B01 E46), his silence until E48 is his choice. At B01 E49, forced by Seraphine, he and Lucien tell her who these people are (unnamed) and what they want, Baz among it; he may say the people with the cases are not the same people. **The book ends on his suspicion that what they seek is the Veil**: a suspicion, spoken, not certified by the narrator and not explained. `decisions/B01_REVISION_REVIEWS_AND_ENDING_REVEAL_AUTHOR_ANSWERS_2026-10-03.md`.
+
+- **Note (added 2026-10-05, author-approved, CP9):** **the B01 reveal is his guess.** The one word *Veil* comes from a folder tab he saw and never opened; on the page he says he does not know how any of it works. The §387 note supersedes, for B01, Q-PI3's *"what he knows about the phenomenon comes out at the end of B01"*: what B01 delivers is the guess. **What he knows beyond that is for B02.** (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 END — BAZ (BASTIEN “BAZ” ARNAUD) IDENTITY CANON

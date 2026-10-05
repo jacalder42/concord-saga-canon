@@ -30,7 +30,8 @@
 - **Primary cost:** emotional labor rendered invisible as hospitality
 
 ## VI. Occupation / Pre-Saga Trajectory
-- **Primary Occupation:** bartender / host at the Velvet Vein
+- **Primary Occupation:** owner and host of the Velvet Vein, behind her own bar
+- **Note (added 2026-10-05, author-approved, CP12):** amended. **Was: "bartender / host at the Velvet Vein".** What was wrong: the card made her an employee; the page makes her the Vein's owner (her window, her regulars, her house rules), and T4-19, approved in `decisions/B01_DRAFT3_INTEGRATION_LIST_AUTHOR_ANSWERS_2026-10-01.md` already ruled that she owns it. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 - **Professional identity:** curator of atmosphere; conflict diffuser; threshold gatekeeper
 - **Skill identity (compressed):** conversational redirection; tension deflection; selective disclosure; controlled access
 - **Pre-Saga Trajectory:** nightlife work chosen deliberately as a position of information flow and safety, not as fallback or escape
@@ -69,6 +70,7 @@
 ## XII. Canon Conflict Ledger (Preserved Record)
 - **Name ambiguity:** Trip’s legal name intentionally undisclosed across canon; treated as identity choice, not omission
 - **Family naming variance:** Tally Baptiste (mother) and Birdie James (auntie/drag parent) now locked; earlier ambiguities superseded
-- **Role phrasing variance:** bartender / host / nightlife anchor used interchangeably; non-conflicting
+- **Role phrasing variance:** owner / host / nightlife anchor; she owns the Vein and tends her own bar, so *bartender* describes what she does, not her position
+- **Note (added 2026-10-05, author-approved, CP12):** amended to match §VI. **Was: "bartender / host / nightlife anchor used interchangeably; non-conflicting".** T4-19, approved in `decisions/B01_DRAFT3_INTEGRATION_LIST_AUTHOR_ANSWERS_2026-10-01.md`; (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 END — TRIP IDENTITY CANON

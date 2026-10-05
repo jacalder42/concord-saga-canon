@@ -21,6 +21,7 @@
 - **Father:** **Karl Kael** — cultural archivist; gentle, deferential, emotionally repressed; affection expressed indirectly
 - **Sibling Context:** one older sister (**Elena Kael**) who leaves Vienna in early adulthood due to household rigidity
 - **Household dynamic (compressed):** upper-middle academic legitimacy; emotional excess discouraged; conflict managed through silence and withdrawal rather than confrontation
+- **Note (added 2026-10-05, author-approved, card fact):** he keeps **his father's old throat-lozenge tin**, which now holds his needles and buttons (B01 E11). (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 ## V. Socioeconomic Position
 - **Class position:** upper-middle-class academic household
@@ -31,9 +32,17 @@
 - **Education:** University of Vienna
 - **Education, correction** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`, R5): read **TU Wien (Technische Universität Wien)**, not the University of Vienna. The Universität Wien teaches no engineering or architecture; architecture and structural engineering in Vienna are taught at TU Wien. The line above is kept as the superseded reading
 - **Fields:** architecture / structural systems / ethical design frameworks
-- **Pre-Veil Role:** structural analyst within a civic or cultural systems bureau
+- **Pre-Veil Role:** structural analyst with site responsibility
+- **Note (added 2026-10-05, author-approved, CP11):** widened. **Was:** *structural analyst within a civic or cultural systems bureau.* What was wrong: the page gives him site authority in Vienna (he has sent men home from his own sites there), which a bureau analyst would not have. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 - **Skill identity (compressed):** pattern containment; risk prevention; ethical delay; system stability analysis
 - **B01 working arrangement** (added 2026-10-02, author-approved, ledger §366, `decisions/PROTAGONIST_REALISM_PASS_AND_LUCIEN_CONSULTANCY_AUTHOR_ANSWERS_2026-10-02.md`, approved design): an **external consultant to Galloway & Lowe Engineering** (provisional name; renamed 2026-10-04 from *Broussard & Lowe*, which shared Seraphine's family surname; `decisions/B01_BATCH_REPORT_Q_RB_AUTHOR_ANSWERS_2026-10-04.md`), a local, Louisiana-licensed firm holding the parish's inspection contract, **placed there through his Hollen Institute cover**. The firm's licensed engineer signs the firm's findings; Lucien seals nothing. His *None* is **his own personal statement on the coroner's form**, so its weight and its falseness stand. At Sal's he is unpaid labour, and Sal decides. Immigration status: see `proposals/CAST_IMMIGRATION_FUNDING_AND_LOGISTICS_RECORD_2026-10-02.md` (categories provisional)
+- **Note (added 2026-10-05, author-approved, CP7):** on the page his **Review brief is costs from old structures, with timber as its material** (a merged brief: the costs and events falling on the parishes, studied through the building stock and its timber). This is accepted and keeps Q-HR6's intent: the brief is the Regional Review of Unexpected Public Costs, and structural timber remains his professional expertise (`decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md`, ledger §327–§328). What differed: Q-HR6 moved timber out of the brief and into his expertise; the page reports timber as part of what he files. No page change. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+- **Note (added 2026-10-05, author-approved, CP8):** the **coroner's hazard-check form** is his **personal statement**, filed under the **Hollen Institute as his employer**; the firm's (Galloway & Lowe's) own signed report is **separate and off the page**. *"I'm an engineer"* is his own way of describing himself (he is TU Wien trained); it is not a claim to a Louisiana licence. This reads with the working-arrangement line above, which stands. No page change. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+- **Note (added 2026-10-05, author-approved, B01 facts):** facts on the merged B01 page, now on the card:
+  - **Lodging:** he rents the **upstairs room of Mr. Ledet's house**, up a side stair (registry row for Mr. Ledet added 2026-10-05); from Act II **Baz sleeps on his floor**.
+  - **Reporting:** **R.** is his desk contact at the Institute in Vienna, receiving his **weekly note and monthly report**. Whether R. is Helena Kael (registry C04) is not stated on the page.
+  - **Phone habit:** on the phone to the Institute he says *I* and *the brief*, never *we* (a page detail, recorded as observed).
+  (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 ## VII. Psychological Architecture (Identity Loop)
 - **Core wound:** emotional closeness leads to loss or destabilization
@@ -63,5 +72,7 @@
 - **Dated note, 2026-10-03 (approved design, F3):** *used, not complicit* holds **for B01 only**. He suspects at B01's end, is given the camp clause at B02 E08 and has it confirmed at B02 E34; from then on his silence is a choice he owns. `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
 
 - **Dated note, 2026-10-03 (approved design, ledger §387):** at B01 E49 Seraphine forces the telling, and Lucien and Baz tell her who these people are, unnamed: Lucien works for them through the Institute, Baz used to, and Caldas is theirs; and what they want: the record of where and when, the people who can feel it, and Baz. From B02 she **knows**; the observe → suspect → learn chain is superseded, and B03 E17's confession is lightened. His E48 belief about his review rests only on routes shown in B01 (his letter, Guidry's upstairs copy, the camp report by another hand, the Institute). `decisions/B01_REVISION_REVIEWS_AND_ENDING_REVEAL_AUTHOR_ANSWERS_2026-10-03.md`.
+
+- **Note (added 2026-10-05, author-approved, CP9):** refines F3's *suspects*. At B01's end he has **worked out what he has been doing for them** (his review has been finding instances for them), **without proof**; B02 E08 (the camp clause) and B02 E34 confirm it. What differed: F3 said *suspects*, while the page (E48, E49) has him reach the conclusion. The F3 chain stands, with *suspects* read as *has worked it out, unproven*. No page change. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
 END — LUCIEN KAEL IDENTITY CANON
