@@ -16760,4 +16760,24 @@ END OF ENTRY 382
   - a B01 pilot or dialogue pass.
 - **Q-LL1–5 await the author.** No manuscript, card, rule or packet changed.
 
+## §422 — Lived-in Louisiana language: map approved; pilot run, 2026-10-05
+
+- **The author's answer:** *"Map is right. Odile is in the Honey Island Swamp area, right? So, that would be Cajun more
+  than Creole. Run the pilot on those four chapters."*
+- **He also supplied sources** placing Honey Island as an eastern enclave of Cajun waterway culture.
+- **Decision:** `decisions/B01_LIVED_IN_LOUISIANA_LANGUAGE_AUTHOR_ANSWERS_2026-10-05.md` (approved design).
+  - Q-LL1: the four-community map; Seraphine is Cajun-dominant; Odile's family is Cajun.
+  - Q-LL3: a four-chapter pilot.
+  - Swamp folklore is kept off the page without a ruling (profile §9).
+- **The pilot:** E01, E10, E33 and E34, at two levels (A lexical; B adding word order). It is in the private
+  manuscript's `B01/pilot-louisiana-language-2026-10-05/`, with a log and a highlighted reading copy.
+  - 16 one-line edits.
+  - No grammar features and no phonetic spelling.
+  - The merged B01 and draft 3 are untouched.
+- **Open:**
+  - Q-LL2 (the level, to be judged on the pilot);
+  - Q-LL4 (profile §12B);
+  - Q-LL5 (community readers);
+  - two card facts (Odile's Cajun family; *Tante Colette* as the aunt in E33).
+
 END RECOVERY LEDGER
