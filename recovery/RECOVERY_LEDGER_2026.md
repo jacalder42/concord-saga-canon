@@ -16670,4 +16670,26 @@ END OF ENTRY 382
   - the E04/E26 cardigan is varied in E04 at the next pass.
 - **Next:** the author's read of the merged B01. Draft 3 stays the working draft until then.
 
+## §417 — A blind beta-reader panel on the merged B01, 2026-10-05
+
+- **The author's instruction:** *"Run a blind beta-reader panel on the merged draft."*
+- **Report:** `reports/B01_MERGED_DRAFT_BETA_READER_PANEL_2026-10-05.md`. The notes and synthesis are private, in the
+  manuscript's `draft-notes/beta-read-merged/`.
+- **The panel:** the same ten personas and brief as 09-29 (§313). Each read the whole book blind, E00–E50.
+- **Result:**
+  - all ten give 4 stars and would read Book Two (09-29: 3.5–4);
+  - mean pull 4.21 (09-29: 4.11), rising by act from 3.98 to 4.48.
+- **Convergence:**
+  - the human promise is paid (10 / 10);
+  - the investigation is paid only in part (10 / 10);
+  - Elisabet leaves too soon (9 / 10);
+  - rest chapters follow peaks predictably (8 / 10);
+  - Caro is under-used (7 / 10);
+  - five readers each name Lucien's withholding loop, the late face of the opposition, the absent watchers, and no
+    positive rule or win;
+  - four name the romance ending cold.
+- **Questions:** Q-MB1–6 wait for after the author's read. Several asks meet guards or approved design, recorded in the
+  report's §5.
+- **No manuscript edits.** Draft 3 stays the working draft until the author has read the merged B01.
+
 END RECOVERY LEDGER
