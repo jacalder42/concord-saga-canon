@@ -16973,4 +16973,24 @@ END OF ENTRY 382
 - **Questions Q-LB1–10** for the author. **Gap:** the community readers' findings are recorded in neither repository
   (Q-LB9).
 
+## §434 — Dialogue voice: intent and page side by side, 2026-10-05
+
+- **Authority:** §431. The page does not win by default.
+- **Written:**
+  - `proposals/DIALOGUE_VOICE_INTENT_VS_PAGE_2026-10-05.md` (proposal, prose-free). For each of the six leads it gives
+    every trait, the designed intent with its tier, the page counts, how the two relate, options, a recommendation and
+    the B01 change. It also records the recovered naming ladder (Tier D).
+  - The private evidence is in the manuscript's `draft-notes/voice/INTENT_VS_PAGE_EVIDENCE.md`.
+- **Source findings:**
+  - The author's 2025-11-01 words describe how each lead **narrates**, from an earlier version of the world.
+  - The *Voice systems* draft was never approved (Tier D).
+  - The repeated-word counts are smaller on tag-attributed lines.
+  - Two lines in the sidebar dialogue file are misattributed.
+  - Lucien's *I* / *the brief* habit is reported on the page, never spoken.
+  - His *we* rises across the acts (0 → 5 → 11).
+- **Recommendations go both ways.** The page updates the design: Seraphine's direct, technical voice and her commands;
+  Lucien's formality in diction; his humour. The design pulls the page back: Seraphine's uncertainty about the
+  phenomenon kept; *hold* thinned; Lucien's French available.
+- **Questions Q-VI1–13** for the author. They supersede Q-V1–3, Q-DV3, Q-DV5 and Q-PM6.
+
 END RECOVERY LEDGER
