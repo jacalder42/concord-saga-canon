@@ -16841,4 +16841,14 @@ END OF ENTRY 382
 - **The post-merge review (Sessions A–C, §420, §424, §426) is complete.** Its questions await the author.
 - No manuscript, grid, packet, overlay or card changed.
 
+## §427 — Q-GC1-2, Q-GC3-1 and Q-PM20 answered and applied, 2026-10-05
+
+- **The author's answer:** *"Q-GC1-2 a; renumber the reading copy; rings: b."*
+- **Decision:** `decisions/B01_POST_MERGE_REVIEW_Q_GC1_2_Q_GC3_1_Q_PM20_AUTHOR_ANSWERS_2026-10-05.md` (approved design).
+- **Applied in the private manuscript** (`9129b9e`):
+  - the St. Tammany coroner in Lacombe (9 lines, with travel adjusted);
+  - no rings-first warning acted on at E46 or E48 (A4 held);
+  - the reading copies renumbered Chapters 1–48, with a concordance; episode keys are unchanged.
+- No canon file changed. The packet, overlay and registry notes go to the post-read sync pass.
+
 END RECOVERY LEDGER
