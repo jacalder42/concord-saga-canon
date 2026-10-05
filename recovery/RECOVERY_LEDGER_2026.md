@@ -16792,4 +16792,22 @@ END OF ENTRY 382
   is untouched.
 - **Open:** Q-LL4, profile §12B. Recommended after the readers report.
 
+## §424 — Post-merge review of the merged B01, Session B, 2026-10-05
+
+- **What:** read-only Tasks 5 (voice distinctiveness) and 6 (card versus prose) of the post-merge review brief (§420).
+- **Report:** `reports/B01_MERGED_POST_MERGE_REVIEW_SESSION_B_2026-10-05.md`. The full notes are private, in the
+  manuscript's `draft-notes/post-merge-review/`.
+- **Voice:**
+  - Seraphine, Lucien and Baz are barely separable from their lines alone: a blind classifier scores 34% against 29%
+    chance. Caro is the most distinct.
+  - Lucien is not formal on the page.
+  - Elisabet's register drifts.
+  - Caro appears in 8 of 49 chapters, none from E04 to E26.
+  - Four cards share one voice verb.
+- **Cards:** 23 conflicts, condensed to Q-CP1–17. Ten registry rows are recommended.
+- **Correction:** Odile's camp is at Honey Island in canon, but the page points west of the city. Claude's earlier
+  confirmation was from canon only; a correction note is added to the language decision, §5. This is Q-CP1.
+- **Questions:** Q-PM15–19 and Q-CP1–17 await the author.
+- No manuscript, card, rule or packet changed.
+
 END RECOVERY LEDGER

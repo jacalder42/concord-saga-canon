@@ -48,3 +48,15 @@ review (post-merge Session B, Task 6) as a new fact.
 
 **Still open:** Q-LL4 (profile §12B and the packet notes). Recommended: write it after the readers report, so §12B
 carries their corrections and not the pilot's guesses.
+
+## 5. Correction note, 2026-10-05 (additive; the answers above are unchanged)
+
+**Odile's location is not settled on the page.** Claude confirmed Honey Island to the author from canon (E01's beat row
+`BC-HONEY-ISLAND-SITE`) without checking the manuscript. The post-merge card review found that the page points west of
+New Orleans:
+- an exit passed on the way to LaPlace;
+- cane on her road;
+- tide readings for Grand Isle and Port Fourchon on her radio.
+
+It never names the place. The Cajun-family answer stands either way. Where the camp is, is a separate question:
+Q-CP1, in `reports/B01_MERGED_POST_MERGE_REVIEW_SESSION_B_2026-10-05.md`.
