@@ -16705,4 +16705,21 @@ END OF ENTRY 382
   - Caro in the finale, and a reason to expect Elisabet back.
 - **Unchanged:** E44's discovery, the guards and the protected lines.
 
+## §419 — The beta-panel pass on the merged B01 is done, 2026-10-05
+
+- **Report:** `reports/B01_MERGED_DRAFT_BETA_PANEL_PASS_REPORT_2026-10-05.md`. The prose and logs are private, in the
+  manuscript's `draft-notes/beta-pass/`.
+- **Changes:**
+  - a new wordless watchers interlude, I01, after E36;
+  - E48 restaged around a private scene, with Lucien volunteering the lost phone;
+  - E49's tin result analysed, with A4 still held;
+  - Caro in the finale, and Elisabet's text signalling her return (a new fact, for the card review);
+  - E11, E35 and E43 trimmed;
+  - two elder-feeds beats varied (E08, E09).
+- **Continuity:** 2 probable slips and 5 judgment items, all fixed.
+- **Guards and protected lines hold.**
+- **Length:** 173,456 words.
+- **Reading copies:** rebuilt, headed *merged draft, beta-panel pass*.
+- **Next:** the author's read.
+
 END RECOVERY LEDGER
