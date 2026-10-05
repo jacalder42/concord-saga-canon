@@ -16692,4 +16692,17 @@ END OF ENTRY 382
   report's §5.
 - **No manuscript edits.** Draft 3 stays the working draft until the author has read the merged B01.
 
+## §418 — Q-MB1–6 answered; the beta-panel pass runs before the author's read, 2026-10-05
+
+- **The author's answer:** *"Approved, run the pass now"*, to the recommendations Claude gave in chat (the report had
+  none).
+- **Decision:** `decisions/B01_MERGED_DRAFT_BETA_PANEL_Q_MB_AUTHOR_ANSWERS_2026-10-05.md` (approved design).
+- **The pass, on the merged B01:**
+  - a wordless watchers interlude after E36;
+  - E48 restaged around a private Seraphine–Lucien scene, with Lucien volunteering the lost phone;
+  - E49's tin result analysed, with A4 still held;
+  - E11, E35 and E43 trimmed, and one or two elder-feeds beats varied;
+  - Caro in the finale, and a reason to expect Elisabet back.
+- **Unchanged:** E44's discovery, the guards and the protected lines.
+
 END RECOVERY LEDGER
