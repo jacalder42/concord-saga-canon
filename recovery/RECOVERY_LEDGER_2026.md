@@ -16660,4 +16660,14 @@ END OF ENTRY 382
 - **Reading copies:** in the manuscript's `draft-notes/human-read/B01_MERGED_*`.
 - **Next:** the author's read. Draft 3 stays the working draft until then.
 
+## §416 — The merged draft's open choices are answered, 2026-10-05
+
+- **The author's answer:** *"All as recommended."*
+- **Decision:** `decisions/B01_MERGED_DRAFT_OPEN_CHOICES_AUTHOR_ANSWERS_2026-10-05.md`.
+- **The answers:**
+  - E21 keeps the imported line;
+  - E42's coffee can stays cut;
+  - the E04/E26 cardigan is varied in E04 at the next pass.
+- **Next:** the author's read of the merged B01. Draft 3 stays the working draft until then.
+
 END RECOVERY LEDGER
