@@ -16819,4 +16819,26 @@ END OF ENTRY 382
 - This settles the §5 correction note on the Louisiana-language decision.
 - **Next:** Session C of the post-merge review.
 
+## §426 — Post-merge review of the merged B01, Session C; the review is complete, 2026-10-05
+
+- **What:** read-only Tasks 7–10 (relationship rungs, grid conformance, chapter numbering, calendar), on the merged B01
+  after Q-CP1.
+- **Report:** `reports/B01_MERGED_POST_MERGE_REVIEW_SESSION_C_2026-10-05.md`. The notes, beat tables and calendar cues
+  are private, in the manuscript's `draft-notes/post-merge-review/`.
+- **Results:**
+  - Rungs: no unexplained jumps or drops.
+  - Grid: 164 of 166 beats on the page; every POV matches; no episode's function changed.
+  - Calendar: about 24 February to 2 May, consistent with calendar C. Easter 5 April with Tuesday 17 March implies
+    2026.
+- **Conflicts:**
+  - rings first against A4 (E46, E48), which corrects Session A's re-check;
+  - Baz's third reason (E32);
+  - obligation #9 moved to E33;
+  - the relationship register's E21 repair;
+  - a Saints "summer" playoff.
+- **Q-CP1 knock-on:** the coroner's office is in the wrong parish (Q-GC1-2).
+- **Recommended:** one canon sync pass after the author's read.
+- **The post-merge review (Sessions A–C, §420, §424, §426) is complete.** Its questions await the author.
+- No manuscript, grid, packet, overlay or card changed.
+
 END RECOVERY LEDGER
