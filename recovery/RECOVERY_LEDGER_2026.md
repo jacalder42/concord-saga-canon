@@ -16895,4 +16895,10 @@ END OF ENTRY 382
   needs deciding, with this session's answers listed.
 - `decisions/README.md` now indexes this session's decision files.
 
+## §430 — Recommendations added to the open-questions register, 2026-10-05
+
+- **The author's request, in chat:** *"list recommendations for each."*
+- **Added:** `reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md` §6, with one recommendation and reason per open
+  question. Advisory; nothing is decided or changed.
+
 END RECOVERY LEDGER

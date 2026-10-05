@@ -130,3 +130,99 @@ Grouped by **when** a decision is needed:
 | Q-GC3-1 | No rings-first warning acted on in B01; A4 held (2 lines) | §427 |
 | Q-PM20 | The reading copy renumbered (Prologue, Chapters 1–48, Epilogue), with a concordance. **Follow-up, 10-05:** supplements are labelled *Supplement*, and interludes keep *Interlude* as a placeholder | §427, §429 |
 | Q-PM5 | The inexact "book-wide" claim is recorded in the ledger | §420 |
+
+## 6. Recommendations (Claude, 2026-10-05; advisory, for the author to accept or change)
+
+### 6.1 The page: story and continuity
+
+| ID | Recommended | Why |
+| --- | --- | --- |
+| Q-RG1 | Keep the kiss as written. **Amend the wording** to "a pretext kiss that runs a beat past the pretext" | The overrun is the point: the cover becomes true. E48's "called nothing" already prices it |
+| Q-RG2 | **Keep** | It is about exposure, and nobody names a feeling. Within the guard |
+| Q-RG3–5, Q-GC2-10 | **Accept the page; narrow the H2 note** to: open with Lucien, light with Seraphine, Caro learns of it | B01 is full; Elisabet stays from B02 A1, where this can grow |
+| Q-RG6, Q-PM18 | **Add two light touches** at the line pass: one Caro call around E21 and one text around E25 | 7 of 10 panel readers flagged it, and it costs a few lines |
+| Q-RG8 | **Keep** as a rhyme | It sets up the pretext, then pays it |
+| Q-RG9 | **Leave it for B02** | B01 already carries three standing injuries |
+| Q-CP2 | **The page governs.** Born in Abbeville; raised in Lafayette; the wreck around age 11; then Tante Colette in Tremé. The card's ages move | No page change. Formative years in Acadiana support her Cajun-dominant voice (Q-LL1) |
+| Q-CP3 | **(b)** Renée is Batiste by marriage. Odile gets her own Cajun surname (E04:129, E04:157) | It fixes the clash and gives Odile her Honey Island identity |
+| Q-CP6 | **(a)** Change E24:11 to Vienna only | The page contradicts itself; one phrase fixes it |
+| Q-CP7 | **(a)** Accept the merged brief (costs, with timber as its material); card note | It matches the page and keeps Q-HR6's intent |
+| Q-CP8 | **(b)** Card note: the coroner's form is his personal statement; the firm's report is separate. Keep *"I'm an engineer"* | No page change |
+| Q-CP9 | **(a)** Card notes: Lucien has worked it out without proof; Baz's guess is the reveal. B02 confirms | It matches the page and §387 |
+| Q-GC1-3 | **(a)** Confirm the move to E33; update the grid, packet and overlay | The beta pass did it on purpose |
+| Q-GC2-1 | **(c)** Make the third reason one Baz catches and refuses in himself | It turns a logic slip into character, in one line |
+| Q-GC1-1 | **Keep** | It is the Honey Island anchor (Q-CP1) |
+| Q-GC1-4 | **Amend the overlay** to the page | The page's lean works |
+| Q-GC1-5 | **Change the greeting** | The guard against death foreshadowing for Baz is approved design |
+| Q-GC1-6 | **Keep it as a miscount**; record it as deliberate | It is character, not a clue |
+| Q-GC2-2 | **Keep**; packet note | The lag argument needs the times |
+| Q-GC2-3 | **Keep "settlement"** if Q-CP7 (a) is accepted; packet note | Consistent with the merged brief |
+| Q-GC2-4 | **(a)** The gravel-voiced singer is the Lacuna cameo; record it in the packet and BC-LACUNA-CAMEO | It needs no page change |
+| Q-GC2-8 | **(a)** A short desk-research pass on Sewerage & Water Board pump stations, falling back to "fictional composite" | Cheap, and the scene carries plot |
+| Q-GC3-5 | **(c)** Carry Mrs. Picou's folder to B02 as casework | A payoff at E47/E48 would clutter the climax |
+| Q-GC3-6 | **(b)** Cut "where" at E44:85 and E46:473 | The Keep line is a guard |
+| Q-GC3-9 | **Keep** | Judgment; it reads |
+| Q-PM13 | **Keep** I01:3 | Correlation in the presences' register, echoing E00; no mechanism |
+| Q-PM14 | **Leave it** | Readers assume a replacement keeps the number |
+
+### 6.2 The page: calendar
+
+| ID | Recommended | Why |
+| --- | --- | --- |
+| Q-CA4 | **"The winter the Saints made the playoffs"**, with the grass line checked | A one-word fix |
+| Q-CA1 | **(b)** One line of texture each. The strongest is a **St. Joseph's altar through Sal's Sicilian family** (E15's week); then green beads on 17 March; palms in E27 | Lived-in New Orleans, and it feeds the Louisiana-language direction |
+| Q-CA2 | **(b)** Keep the festival a small local weekend, with Jazz Fest crowds spilling in once | 1 May fits Jazz Fest; it avoids misdating French Quarter Fest |
+| Q-CA3 | **(b)** One clause in E36: the ten days ran out on Wednesday | The reader loses track otherwise |
+| Q-CA5 | **(b)** Save "window" for the ten days; the later ones are "the watch" | It is a key term |
+| Q-CA7 | **(a)** Accept 2026. Easter 5 April and Mardi Gras 17 February are correct for 2026. Check the other fixtures against it | The weekdays already fix it |
+
+### 6.3 The page: line and usage
+
+| ID | Recommended | Why |
+| --- | --- | --- |
+| Q-PM1 | **(a)** Revert the 46 forms in Lucien's and Baz's narration | Profile §12: "where they are his". Their POV narration is theirs |
+| Q-PM2 | **(a)** Restore Elisabet's form | Not an American mouth |
+| Q-PM3 | **(a)** One mechanical pass for the 16 forms, **in one reviewed diff with Q-PM1 and Q-PM2** | One diff, one review |
+| Q-PM4 | **(a)** Keep the 9 American speakers' changes | Q-AR1: American usage in American mouths |
+| Q-PM10 | **(a)** Replace "a few hundred feet" at the line pass | A ruled limit; a non-numeric image does the same work |
+| Q-PM11 | **(a)** Accept it | The dash and the full stop work |
+| Q-PM12 | **(a)** Allowed | Equipment named in an official request |
+
+### 6.4 Voice, language and lenses
+
+| ID | Recommended | Why |
+| --- | --- | --- |
+| Q-V3 | **Do it first:** rewrite the sheets from the page, prose-free | It replaces the `[I]` inferences with evidence, and changes no prose |
+| Q-V2 | **(a)** The page reading for Seraphine and Lucien. **Elisabet:** an uncontracted baseline, loosening only when flirting or off guard | Precise second-language English, per her card, and the page's best lines |
+| Q-V1 | **Yes.** Review-side; B01 dialogue fixes limited to short replies and within-voice repetition, after the read | Q-WP3 stands |
+| Q-DV3 | **Leave humor to the page**; record the observed humor in the rewritten sheets | The page has already found it |
+| Q-DV5 | **Yes**, recover the naming ladder as a review-side proposal | It never reached canon, and it is useful for revision |
+| Q-EL1 | **Carry both wordings for now**; confirm against the Notion Codex page before choosing | The repository's "verbatim" claim and the backup disagree. Notion can be checked directly |
+| Q-EL2 | **Apply after Q-EL1**, with a dated note; update CLAUDE.md §4.1 in the same step | The deferral is lifted; the wording should settle first |
+| Q-EL3 | **Not yet.** Revisit after the lenses are used once | No demand yet |
+| Q-PM6 | **(b)** Add the unused tells to the B02 packet watch-list as available. At B01's line pass, consider one: Lucien's French at E48's private scene | A permission, not a quota |
+| Q-PM7 | **(a)** Before final. Add the non-Louisiana items (*Jæja*, *Putain*, *con*, *le mistral*, *Oye*, *Tía*) to the same reader recruitment | One drive |
+| Q-LL4 | **After the readers report** | So §12B carries their corrections |
+| Q-LL5 | **Recruit now** (the author's action) | The packet is ready |
+
+### 6.5 Cards and the registry
+
+| ID | Recommended | Why |
+| --- | --- | --- |
+| Q-CP4 | **(b)** Rename the card's brother, unless the echo is wanted | The brother predates Dré's naming, so the collision is probably accidental. He is unnamed on the page, so the change is free |
+| Q-CP5 | **(a)** Revise the card to the page | The page is approved design |
+| Q-CP10 | **(a)** Add the dated notes | Additive |
+| Q-CP11 | **(a)** Notes: render rules are visual baselines; widen the role | No page change |
+| Q-CP12 | **(a)** Write it | Already approved (T4-19) |
+| Q-CP13 | **(a)** Amend to paramedic | It follows the ID card correction |
+| Q-CP14 | **(a)** Card notes to match the page | Consistent with Q-RG3–5 |
+| Q-CP16 | **(a)** Add all ten rows | They recur in B02 |
+| Q-CP17 | **(b)** A registry note now; name him "Rieux" at the line pass | It costs little and pays the registry |
+| Q-RG7 | **(a)** Dated notes on the relationship register | B01's end states are approved design |
+
+### 6.6 Canon housekeeping
+
+**Approve as one batch for a sync pass after the author's read.** For Q-GC2-5, per the author's 10-05 direction, give
+interludes their own tracking, separate from `supplement_deployment.csv`: a concordance and overlay note now, and a SID
+form for interludes when the grid is next changed. That last needs a ruling, because the SID grammar has no interlude
+slot.
