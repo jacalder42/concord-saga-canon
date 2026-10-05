@@ -35,3 +35,16 @@ If the author wants it, it needs its own ruling.
 
 No merged-B01 or draft-3 text, card, rule, packet or profile line. Odile's Cajun family goes to the card-versus-prose
 review (post-merge Session B, Task 6) as a new fact.
+
+## 4. Round 2 answers, 2026-10-05
+
+**The answer:** *"Level B, and go denser for the elders; 2 yes, Tante; 3 now."*
+
+| # | Answer |
+| --- | --- |
+| Q-LL2 | **Level B:** lexical plus Cajun and New Orleans word order. **Denser for the elders**: Odile, Miss Tavie, Mr. Vidrine, Mrs. Arceneaux, Inez, Sal and the corner-store owner. Grammar features stay excluded until community review |
+| Card fact | **Confirmed:** the aunt in E33 who cut bread toward her heart is **Tante Colette** (E25). This is a family fact for Seraphine's card; it goes to the card review |
+| Q-LL5 | **Community readers now**, before any change reaches the merged B01. Claude cannot recruit people. It prepares the packet and brief (private, in the manuscript's `draft-notes/louisiana-language-pilot/`), and an AI linguistic pre-screen runs first, **labeled as no substitute for a community read**. **The author recruits the readers**: one per community at minimum (Cajun, ideally both Pearl River and Acadiana; Black New Orleans; Yat) |
+
+**Still open:** Q-LL4 (profile §12B and the packet notes). Recommended: write it after the readers report, so §12B
+carries their corrections and not the pilot's guesses.

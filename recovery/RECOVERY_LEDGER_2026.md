@@ -16780,4 +16780,16 @@ END OF ENTRY 382
   - Q-LL5 (community readers);
   - two card facts (Odile's Cajun family; *Tante Colette* as the aunt in E33).
 
+## §423 — Lived-in Louisiana language: Level B, denser elders, community readers now, 2026-10-05
+
+- **The author's answer:** *"Level B, and go denser for the elders; 2 yes, Tante; 3 now."*
+- **Decision:** `decisions/B01_LIVED_IN_LOUISIANA_LANGUAGE_AUTHOR_ANSWERS_2026-10-05.md` §4 (approved design).
+  - Q-LL2: Level B, denser for the elders.
+  - *Tante Colette* is the E33 aunt (a card fact).
+  - Q-LL5: community readers now. The author recruits them; Claude prepares the brief and runs an AI pre-screen,
+    labeled as no substitute.
+- **The pilot's working version:** `level-B-elders/` in the private manuscript, with 29 one-line edits. The merged B01
+  is untouched.
+- **Open:** Q-LL4, profile §12B. Recommended after the readers report.
+
 END RECOVERY LEDGER
