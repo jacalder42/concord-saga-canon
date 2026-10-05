@@ -16950,4 +16950,27 @@ END OF ENTRY 382
   superseded.
 - **Checks:** validator 0; self-tests pass. Whether the B02 packets already carry R3 and R4 is not yet checked.
 
+## §433 — Profile §12B, Louisiana speech: intent and pilot side by side, 2026-10-05
+
+- **Authority:** §431. Voice, language and lens go side by side; the page does not win by default.
+- **Written:** `proposals/WRITER_PROFILE_12B_LOUISIANA_SPEECH_SIDE_BY_SIDE_2026-10-05.md` (proposal, not applied).
+  For each area it gives the author's intent, the pilot practice, where they agree or pull apart, and a proposed line.
+- **Where they agree:**
+  - Louisiana English as the elders' everyday register;
+  - Odile's forms;
+  - plain type;
+  - no phonetic dialect;
+  - the folklore guard.
+- **Where they pull apart:**
+  - Seraphine's markers against Q-FL4's *"forms of address"*;
+  - her Tremé years;
+  - downtown "creole" carried by one word;
+  - the balance between downtown and Yat;
+  - density;
+  - grammar features;
+  - narration;
+  - where §12B lives (Q-WP3).
+- **Questions Q-LB1–10** for the author. **Gap:** the community readers' findings are recorded in neither repository
+  (Q-LB9).
+
 END RECOVERY LEDGER
