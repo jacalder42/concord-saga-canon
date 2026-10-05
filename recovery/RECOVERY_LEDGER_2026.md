@@ -16614,4 +16614,23 @@ END OF ENTRY 382
 - **Draft 3** is untouched and remains the working draft.
 - **What follows:** continuity checks and reading copies, then a comparison for the author.
 
+## §413 — The redraft experiment is done and compared blind, 2026-10-05
+
+- **Report:** `reports/B01_REDRAFT_EXPERIMENT_AND_BLIND_COMPARISON_2026-10-05.md`. The prose and comparisons are private,
+  in the manuscript.
+- **The experiment:** all 51 pieces drafted fresh, then de-echoed against draft 3 and fixed for continuity (96 edits).
+  It runs to **179,170 words**, against draft 3's 136,343.
+- **The blind comparison, one reader per act:**
+  - Acts I and II prefer the experiment as base, with draft 3's imports;
+  - Act III prefers draft 3 as base, with the experiment's imports.
+- **The experiment's defects:**
+  - Act III's rings-to-plan chain is broken;
+  - the de-echo pass left inversions and a stiff E26.
+- **Q-EX1–5 await the author:**
+  - the merge;
+  - the length;
+  - draft 3's E26 restored;
+  - the line pass;
+  - draft 3 stays the working draft until then.
+
 END RECOVERY LEDGER
