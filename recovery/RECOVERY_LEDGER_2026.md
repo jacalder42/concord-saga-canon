@@ -16722,4 +16722,23 @@ END OF ENTRY 382
 - **Reading copies:** rebuilt, headed *merged draft, beta-panel pass*.
 - **Next:** the author's read.
 
+## §420 — Post-merge review of the merged B01, Session A, 2026-10-05
+
+- **What:** a read-only review of the merged B01 after the beta-panel pass (§419), run from a post-merge review brief
+  written in a chat session. Session A covers Tasks 1–4: the spelling-copyedit audit, the language ledger, rules
+  validation, and a re-check of the beta-panel additions.
+- **Report:** `reports/B01_MERGED_POST_MERGE_REVIEW_SESSION_A_2026-10-05.md`. The full notes, with locators, are
+  private, in the manuscript's `draft-notes/post-merge-review/`.
+- **Findings:**
+  - The Q-AR1 and Q-FR4 copyedits are clean, but they touched the old track, not the merged text.
+  - The merged text has no UK spellings.
+  - The merged build's *round → around* pass (§415, "book-wide") changed 46 forms in Lucien's and Baz's narration and
+    one in Elisabet's dialogue, and missed 4 in American narration. **The §415 claim is inexact.**
+  - Three approved language tells never appear. 8 non-English items need a native-speaker check.
+  - Retired terms, *Veil* placement and the E49 telling (§387) all hold.
+  - One numbers-as-imagery candidate (E01), and one §9 candidate in the new interlude I01.
+- **Questions:** Q-PM1–14 await the author.
+- **No manuscript edits.** No card, rule or packet changed.
+- **Next:** Sessions B (voice, card-versus-prose) and C (rungs, grid, numbering, calendar).
+
 END RECOVERY LEDGER
