@@ -34,7 +34,7 @@ or a TTS engine is likely to say. **[F]** = stated by a source; **[R]** = this s
 | --- | --- | --- | --- |
 | Seraphine | SAIR-uh-feen [ATC] | French would be say-rah-FEEN. A Louisiana family would likely anglicise. Nobody on the page says it aloud as a subject | throughout |
 | Vael | VALE, one syllable [ATC] | Invented surname (her aunt's legal name, per the card). Alternative: vah-EL. Heard mostly as *Ms. Vael* | E02–E04, E08, E10, E12, E37, E44, E49 |
-| Lucien | LOO-see-en [ATC] | French father, Austrian mother. In his own mouth it may be lü-SYAN. Locals would say LOO-shun or LOO-see-en | throughout |
+| Lucien | LOO-see-en [ATC] | French mother, Austrian father (corrected 2026-10-06). In his own mouth it may be lü-SYAN. Locals would say LOO-shun or LOO-see-en | throughout |
 | Kael | KALE [ATC] | Invented. A German speaker might say KAH-el. Heard mostly as *Mr. Kael* | E04, E10, E12–E14, E20, E22, E28, E31, E38, E43, E48 |
 | Baz | BAZZ, rhymes with *jazz* [R] | Short for Bastien | E15–E49 |
 | Bastien | bahs-TYAN (French) [F, card: Marseille-born] | Said once, by Baz himself | E43 |
@@ -240,7 +240,7 @@ carry it**: a light regional colour, never a performance.
 | Character | Voice |
 | --- | --- |
 | **Seraphine** | Card appearance mid-30s [F]. Born Abbeville, raised Lafayette to about 11, then Tremé with Tante Colette [F, CP2]; Cajun-dominant with Black Creole family [F, Q-LL1]. A neutral work voice at the centre, more Louisiana at home and with elders [F, proposal §2.2]. [R] Warm alto, breath-paced, unhurried; under pressure she slows down and says less, not louder |
-| **Lucien** | Vienna; Austrian mother, French father [F]. Precise, slightly formal English, lightly accented; German under stress, French in intimacy [F, voice sheets]. [R] Mid-low baritone, measured, full sentences, a beat before names; Austrian-German colour, never stage-German |
+| **Lucien** | Vienna; French mother, Austrian father [F; corrected 2026-10-06]. Precise, slightly formal English, lightly accented; German under stress, French in intimacy [F, voice sheets]. [R] Mid-low baritone, measured, full sentences, a beat before names; Austrian-German colour, never stage-German |
 | **Baz** | Marseille, French-Algerian mother [F]. Plain, dry, quietly precise [F]. [R] Lighter and quicker than Lucien; a southern French accent in English, warmer; rephrasing for others is his tell, so let those lines sound like a translation being chosen |
 | **Caro** | Chicago, Pilsen; Mexican-American, bilingual; a paramedic [F]. [R] Fast, clipped, directive; flat Chicago vowels; humour comes in low and dry; *Oye* is the only Spanish she speaks aloud |
 | **Elisabet** | Reykjavík; Icelandic second-language English [F]. Spare, exact, slightly formal; flirts plainly with both leads [F, CP14]. [R] Even pitch, careful consonants, little contraction; the one *Jæja* is murmured |

@@ -36,7 +36,7 @@ characters.
 ### Ali Hazelwood — Relationship thermodynamics
 *Definition (Codex v2.1 backup, 2025-12-06):* Romance architecture and intimacy logic: relationship beats, emotional logic, clean motivation.
 - Asks: What does each person have to gain by moving toward the other, and what does this scene change between them? Is attention selective, different from how they attend to everyone? Is consent present?
-- Flags: tenderness given equally to everyone; heat without emotional cause; chemistry stated, not shown; romance declared aloud where B01 rules it out; a charge that is absent where the ladder expects one.
+- Flags: tenderness given equally to everyone; heat without emotional cause; chemistry stated, not shown; romance declared aloud where B01 rules it out; a charge that is absent where the relationship ladder expects one. *(Clarified 2026-10-06 (author, 2026-10-06; decisions/B01_REVIEW_FOLLOW_UPS_AUTHOR_ANSWERS_2026-10-06.md): the relationship ladder, the rungs in the relationship register; the heat ladder is retired.)*
 - Protects: the B01 heat design (sparks, the cover kiss, charge at the end); consent as ruled; nothing strange creating desire *(ruled)*; heat at the pace the relationship has earned on the page.
 
 ### Travis Deverell — Serialization discipline, plot acceleration

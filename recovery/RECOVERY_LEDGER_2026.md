@@ -17087,4 +17087,14 @@ END OF ENTRY 382
     Karl Kael) read the other way round. This predates 10-05, and the narrator's sheet copies the line;
   - three speakers left open on purpose (E46:167, E48:381, E48:399).
 
+## §438 — Review follow-ups answered: Lucien's heritage, Q-LB9, the lens ladder, 2026-10-06
+
+- **Recorded:** `decisions/B01_REVIEW_FOLLOW_UPS_AUTHOR_ANSWERS_2026-10-06.md`.
+- **Lucien's heritage** corrected on his ID card and in the narrator's sheet: **French mother, Austrian father**,
+  matching the names on the card. The manuscript states neither parent's country.
+- **Q-LB9:** nothing significant to record. The §12B placeholder is closed.
+- **Hazelwood lens:** *ladder* means the relationship ladder. Clarified in place, with a dated note.
+- **The three lines left without a speaker** go back to the author in chat, with recommended speakers. No page change
+  yet.
+
 END RECOVERY LEDGER

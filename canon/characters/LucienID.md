@@ -12,7 +12,7 @@
 - **Emotional Home:** Vienna (architecture, etiquette, institutional memory, silence-as-structure)
 
 ## III. Cultural Origin / Heritage
-- **Heritage:** mixed European (Austrian mother, French father)
+- **Heritage:** mixed European (French mother, Austrian father). *Corrected 2026-10-06 (author, 2026-10-06; decisions/B01_REVIEW_FOLLOW_UPS_AUTHOR_ANSWERS_2026-10-06.md): the names below were always French (mother) and Austrian (father); was "Austrian mother, French father".*
 - **Cultural imprint (compressed):** classical order; reputation-conscious social codes; etiquette as containment; intellectual rigor prioritized over emotional expression
 - **Identity impact:** silence and precision internalized as safety; emotional regulation framed as moral responsibility
 
