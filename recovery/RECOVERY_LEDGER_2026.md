@@ -17128,4 +17128,31 @@ END OF ENTRY 382
   *nobody says* clauses across the B01 prose packets.
 - **For the author:** Q-DQ1–12. Q-DQ4 and Q-DQ5 interpret ruled §9 limits and need a ruling.
 
+## §441 — Dialogue rules Q-DQ1–12 answered and applied, 2026-10-06
+
+- **The author's answer, in chat:** *"Approved as recommended. A caution on blanketing removal of x, not y rule.
+  Ultimately we want less artificial sounding prose."*
+- **Recorded:** `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`. Q-DQ4 and Q-DQ5 are rulings that add scope
+  sentences beside the ruled §9 lines; the rest is approved design.
+- **The author's caution:** the contrast family is amended, not scoped away. Narration is unchanged. Dialogue gets a
+  read-aloud test: a concrete correction in an argument is speech; a quotable reversal that sums something up is the
+  narrator talking through a character. No quota and no blanket ban; the aim is less artificial-sounding prose.
+- **Applied** (commit `462c1f4` and this commit):
+  - **README:** dialogue stays unwritten; U7 is a floor; residue does not govern; one dialogue-move line per lead.
+  - **Template:** guards bind what the page confirms, not what characters say.
+  - **Profile:** §4 anger line is narration-only; five §5 permissions; §9 scope sentences (ruled); §11 bans a
+    declaration only; §12 read-aloud test; §12B Seraphine's work voice.
+  - **Watch-list, voice sheets** (humour, Lucien's questions *scarce, not absent*) **and the private listening brief.**
+  - **Packets:** the permission line in all 51 B01 prose packets.
+- **B02/B03 guards re-derived** in 30 EBCI packets:
+  - 7 *nobody says* rewritten as *nobody confirms*;
+  - 3 kept with the ruling cited;
+  - 3 blame guards updated to the §379 reopening;
+  - 3 romance guards scoped to a declaration;
+  - 23 scripted lines or counts rewritten as states.
+  Claude also adjusted one rewrite (B03 E30) and added the Q-DQ4 clause to the standing *physics observed, never
+  explained* guardrail in 95 EBCI packets (B01–B03).
+- **No B01 manuscript change** (Q-DQ12).
+- **Next derivation:** the remaining U7 caps (*one only*) are struck at each packet's next derivation.
+
 END RECOVERY LEDGER
