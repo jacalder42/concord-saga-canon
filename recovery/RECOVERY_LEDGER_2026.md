@@ -17108,4 +17108,24 @@ END OF ENTRY 382
 - **Checks:** reading copies and the listening EPUB rebuilt; 5,979 of 5,979 source paragraphs present.
 - **No speaker in B01 is now unattributed by design.**
 
+## §440 — Dialogue rules constraint audit, 2026-10-06
+
+- **The author's question, in chat:** *"Evaluate if there are any current rules or restrictions that holding back
+  dialogue quality."*
+- **Written:** `reports/DIALOGUE_RULES_CONSTRAINT_AUDIT_2026-10-06.md`, a 41-rule inventory with findings and Q-DQ1–12.
+  Private evidence is in the manuscript's `draft-notes/voice/DIALOGUE_RULES_EVIDENCE_2026-10-06.md`. No rule or text is
+  changed.
+- **Findings:**
+  - Profile §5 and §5A work.
+  - The weakness is in the disclosure chapters (E39, E44, E46, E48, E49). There, packet clauses script the
+    conversations, against the README's own *no dialogue plans*.
+  - Guards meant to limit what the page confirms are written as *nobody says*, which stops characters asking.
+  - The leads have no designed difference in how they talk.
+  - *Nothing romantic aloud*, read broadly, leaves the leads only denial.
+  - Narration rules are being applied to speech.
+  - Floors are written as caps.
+- **Spot-checked by Claude:** the E39 packet's *who taught him to waltz* clause lands on the page; there are 18
+  *nobody says* clauses across the B01 prose packets.
+- **For the author:** Q-DQ1–12. Q-DQ4 and Q-DQ5 interpret ruled §9 limits and need a ruling.
+
 END RECOVERY LEDGER
