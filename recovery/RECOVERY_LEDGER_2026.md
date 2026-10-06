@@ -17097,4 +17097,15 @@ END OF ENTRY 382
 - **The three lines left without a speaker** go back to the author in chat, with recommended speakers. No page change
   yet.
 
+## §439 — The three open speakers answered "as recommended", 2026-10-06
+
+- **The author's answer, in chat:** *"As recommended"* (on the three lines reprised under §438).
+- **Applied in the private manuscript** (commit `6de6e37`):
+  - **E46:** *It came because we're all out here* becomes Mrs. Carmouche's. It now opens her self-blame, inside her
+    paragraph.
+  - **E48:** *And if it comes at three?* is Baz's.
+  - **E48:** the *What?* after the cake tins is Baz's.
+- **Checks:** reading copies and the listening EPUB rebuilt; 5,979 of 5,979 source paragraphs present.
+- **No speaker in B01 is now unattributed by design.**
+
 END RECOVERY LEDGER
