@@ -17155,4 +17155,30 @@ END OF ENTRY 382
 - **No B01 manuscript change** (Q-DQ12).
 - **Next derivation:** the remaining U7 caps (*one only*) are struck at each packet's next derivation.
 
+## §442 — B01 revised for side-by-side review: dialogue rules, the contrast family, the prologue, 2026-10-06
+
+- **Authority:** `decisions/B01_DIALOGUE_AND_PROLOGUE_REVISION_AUTHOR_INSTRUCTION_2026-10-06.md`.
+- **Done in the private manuscript.** `B01/revised-2026-10-06/` is a full copy of the merged draft, revised in place;
+  `B01/merged-2026-10-05/` is untouched. Brief, logs and continuity reports are in `draft-notes/revision-2026-10-06/`.
+- **The revision:**
+  - nine revisers: the prologue alone, and eight chapter groups;
+  - about 587 paragraphs changed;
+  - 174,010 → 174,424 words; every chapter within ±8%, and the prologue 584 → about 710.
+- **What changed:**
+  - **Disclosure chapters** (E39, E44, E46, E48): the obvious questions are asked and refused, deflected or answered
+    wrongly; anger is said aloud; there is deniable charge. E49's six telling points and Baz's last line are intact.
+  - **The leads** are separated by how they meet questions.
+  - **Artificial description and the contrast family** are trimmed in narration and speech.
+  - **The prologue** makes what the presences hold, the line between them and the worn place concrete, without naming.
+- **Continuity check, three checkers:**
+  - 7 definite fixes;
+  - 8 further fixes by Claude (for example, Baz no longer knows what he could not have seen at E49);
+  - guards clean: *Veil* only at E49:459 and E50, none of the banned terms, no clock time in narration, no
+    declaration, A4 held.
+- **Reading copies built:** `B01_REVISED_*` (MD, HTML, EPUB and a listening EPUB) and
+  `B01_SIDE_BY_SIDE_MERGED_VS_REVISED.html`, with paragraph alignment and word-level highlighting. 6,127 of 6,127 source
+  paragraphs are present.
+- **For the author:** the revisers' and checkers' flagged choices, listed in the logs. Examples: Seraphine's shout at
+  E46; the E39 collar line; the E32 curb admission before E34; the prologue's explicit stakes lines.
+
 END RECOVERY LEDGER
