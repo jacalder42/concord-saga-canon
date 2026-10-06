@@ -1,5 +1,7 @@
 Status: PROPOSAL (review-side), 2026-10-05. Tier D. Answers the author's direction to weigh original intent against the page. It changes nothing.
 
+**Answered 2026-10-05 (dated note, 2026-10-06):** Q-VI1–13 were approved *"Yes, all as recommended"* (`decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, approved design; ledger §435) and applied: Q-WP3's clause in `ebci/prose/README.md`, the side-by-side voice sheets (`proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md`), dated notes on six cards, and Lucien's one French word at E48 in the private manuscript. Read *"none is applied"* in §12 as the state before that answer.
+
 # Dialogue voice: original intent and design, side by side with the page
 
 **Authority:** `decisions/B01_OPEN_QUESTIONS_ALL_AS_RECOMMENDED_AUTHOR_ANSWERS_2026-10-05.md` §2. The author: *"we need

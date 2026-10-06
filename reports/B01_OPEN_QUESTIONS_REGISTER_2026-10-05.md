@@ -240,3 +240,15 @@ slot.
   - the §6.4 set (re-posed);
   - Level B book-wide;
   - the three optional pump-station fixes (Q-PS1–3, ledger §431).
+
+**Status update, 2026-10-06.** The *still open* list above was superseded the same day by
+`decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md` (*"Yes, all as recommended"*, approved
+design; ledger §435–§436):
+- the §6.4 set, re-posed as Q-LB1–10 and Q-VI1–13 with Q-EL1–3, is answered and applied (profile §12B, the voice
+  sheets, the card notes, the lens fields). Q-EL3 is answered *not yet*;
+- Level B book-wide: yes, applied by the pilot's method (ledger §436);
+- Q-PS1–3: yes, applied;
+- the line-pass items Q-RG6/Q-PM18 (Caro's two touches), Q-PM10 and Q-CP17 (Rieux) were brought forward and are done.
+
+Still open after it: the community readers' findings for §12B (Q-LB9, the author to supply them); the §6.6 sync-pass
+batch and the other canon sync items, after the author's read.

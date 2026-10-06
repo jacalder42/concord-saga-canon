@@ -4,6 +4,8 @@ Status: PROPOSAL, 2026-10-05. Not applied; Tier D. It drafts the §12B that Q-LL
 (`decisions/B01_LIVED_IN_LOUISIANA_LANGUAGE_AUTHOR_ANSWERS_2026-10-05.md`). Nothing in it is approved until the author
 answers §4.
 
+**Answered 2026-10-05 (dated note, 2026-10-06):** Q-LB1–10 were approved *"Yes, all as recommended"* (`decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, approved design; ledger §435) and §12B is applied in `ebci/prose/WRITER_PROFILE_JA_CALDER.md`. Read *"Not applied"* above as the state before that answer. Q-LB9's community-read summary still waits on the author's supply of the readers' findings.
+
 **Why side by side.** The author, 2026-10-05: *"Q-LL5 has been done, proposed form is approved"* (the community-reader
 check is done; the pilot's form is approved and is applied to the merged B01). And: *"Voice, language and lens - we need
 to consider original intent and design side by side with the written prose, it is not certain that the written form wins

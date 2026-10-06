@@ -30,7 +30,8 @@ characters.
 *Definition (Codex v2.1 backup, 2025-12-06):* Web-serial momentum and chaos craft: pacing, hook density, humor-chaos balance.
 - Asks: What does the reader get to enjoy here: a reversal, a rule used cleverly, a joke that costs something? Does humor stay local to the pressure in the scene? Does the pace turn?
 - Flags: scheduled comedy; three quips where one precise line would do; a joke that makes a consequence disappear (profile §6); chaos without cost; runs of episodes ending the same way.
-- Protects: gallows humor rare, brief and sharp; the rhythm section's hooks; fun tracked for presence, not capped (ruled 2026-09-27).
+- Protects: gallows humor rare, brief and sharp; the rhythm section's hooks; fun tracked for presence, not capped (author clarification 2026-09-27).
+  *Correction, 2026-10-06:* this line read *(ruled 2026-09-27)*. The source, `decisions/SAGA_LOCK_AND_B01_EBCI_PILOT_RELEASE_AUTHOR_ANSWERS_2026-09-27.md` §2, records it as an **author clarification** of what `soft_modulation` means, not a ruling; the wording is otherwise unchanged.
 
 ### Ali Hazelwood — Relationship thermodynamics
 *Definition (Codex v2.1 backup, 2025-12-06):* Romance architecture and intimacy logic: relationship beats, emotional logic, clean motivation.

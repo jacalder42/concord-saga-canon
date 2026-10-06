@@ -1,6 +1,8 @@
 Status: PROPOSAL (assistant-authored, Tier D, advisory). **Not canon.** It drafts the 23 `Asks` / `Flags` / `Protects`
 fields in `canon/editorial_lenses.md` that have been `TODO` since the migration.
 
+**Answered 2026-10-05 (dated note, 2026-10-06):** Q-EL1–2 approved *"Yes, all as recommended"* (`decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, approved design; ledger §435). §3's fields are applied to `canon/editorial_lenses.md` with both wordings (short line as label, backup line as definition); Q-EL3 is *not yet*. One correction was made in the canon copy on 2026-10-06: the Dinniman lens's *"(ruled 2026-09-27)"* reads *"(author clarification 2026-09-27)"*, per its source. Open for the author: whether the Hazelwood lens's *ladder* means the retired heat ladder or the relationship ladder (ledger §435).
+
 Authority: `decisions/DIALOGUE_VOICE_SHEETS_AND_EDITORIAL_LENSES_AUTHOR_INSTRUCTION_2026-10-05.md`, which lifts the
 2026-09-19 deferral for authoring this text.
 

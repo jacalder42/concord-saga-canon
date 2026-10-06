@@ -17047,4 +17047,44 @@ END OF ENTRY 382
   - E43's two Caldas paragraphs, which may hide a cut reply;
   - E49's Velvet Vein cutaway, under a *Seraphine* heading.
 
+## §437 — Review of the 10-05 edits, both repositories; revisions applied, 2026-10-06
+
+- **The author's instruction, in chat:** *"Review and revise as needed."*
+- **The manuscript** (private; commits `838b64f`, `a81754e`, `7ce2c37`; logs `draft-notes/listening-pass/REVIEW-ACT*.md`).
+  Four reviewers covered every change since `3cda2cc`, about 300 in all. **No wrong speaker tag was found.**
+  Revisions:
+  - **Continuity:**
+    - E15's reply to Baz's changed question;
+    - E27 now recalls Seraphine's actual E25 reply;
+    - E15's St. Joseph's sentence no longer reads as Lucien's sister.
+  - **Defects in Claude's own 10-05 inserts:**
+    - the E32 insert repeated *given up*;
+    - the E21 phone line contradicted itself.
+  - **Markers thinned:**
+    - Seraphine's *Mais* now appears in five chapters (E03, E12, E30, E33, E49): two were outside the home or family
+      condition, one was a stacked line;
+    - one of Odile's *cher*;
+    - two added sentence-final *yeah*;
+    - Lorraine's repeated topic-first shape;
+    - *Tante Cecile* back to *Aunt Cecile*, which a listener could confuse with Colette;
+    - E46's *bring* back to *take* (her work voice).
+  - **Q-CA5 refined:** the later watches are *the two hours*, not *the watch*, which a listener hears as a wristwatch
+    beside Mrs. Carmouche's. E48's missed *window* is fixed. *Window* stays the ten days.
+  - **Usage:** *round* in Lucien's and Baz's Act III narration (10 places). Q-PM1 had covered Acts I–II only.
+  - **Reading copies rebuilt:** 5,980 of 5,980 paragraphs present; *Veil* only at E49 and E50.
+- **Canon** (this commit). The reviewer found no prose leak and nothing promoted beyond approved design. Fixes, each
+  with a dated note:
+  - registry B12 (Odile's surname is on the page) and B11 (Rieux is named);
+  - a lens line had overstated an author clarification as *ruled*;
+  - the narrator's sheet: §12B is applied; Mrs. Doucet is Odile; marker keys updated; permissions are not facts;
+  - stale *open* statements in the register §7 and three proposals;
+  - CLAUDE.md §8: 171 self-tests, and the side-by-side questions answered.
+- **Correction to §436:** the Level B pass made **47** speech changes, not 46.
+- **For the author:**
+  - Q-LB9, the community-read findings;
+  - the Hazelwood lens word *ladder*;
+  - **Lucien's heritage**: his card says Austrian mother and French father, but the names it gives (Adélie Mercier-Kael,
+    Karl Kael) read the other way round. This predates 10-05, and the narrator's sheet copies the line;
+  - three speakers left open on purpose (E46:167, E48:381, E48:399).
+
 END RECOVERY LEDGER

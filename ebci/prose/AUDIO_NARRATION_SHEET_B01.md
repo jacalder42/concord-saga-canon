@@ -334,3 +334,19 @@ carry §1 regardless.
 ---
 
 *End of sheet. Corrections go in a dated note below, not into the lists above.*
+
+**Corrections, 2026-10-06** (canon review of the 10-05 commits; the lists above are unchanged):
+- **Sources.** Profile §12B is no longer a proposal: it was applied 2026-10-05 by Q-LB1–10
+  (`decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`; `ebci/prose/WRITER_PROFILE_JA_CALDER.md`
+  §12B). Read *proposal §2.2* in Seraphine's voice line as §12B.
+- **§1.2, Mrs. Doucet.** *Mrs. Doucet* in E04 **is Odile**: the Q-CP3 page edit
+  (`decisions/B01_OPEN_QUESTIONS_ALL_AS_RECOMMENDED_AUTHOR_ANSWERS_2026-10-05.md` §4) gave her the surname, and Lucien's
+  E04 calls her by it. *"Not Odile's surname on the page"* is wrong. Odile's keys include E04 (as *Mrs. Doucet*). The
+  surname stays provisional, so its pronunciation stays [ATC].
+- **§1.6 and §1.7, *Mais* and *cher*.** The keys predate the book-wide Level B pass (ledger §436). In the listening-pass
+  text *Mais* is in E01, E03, E09, E12, E23, E30, E33, E39 and E49 (once each), and *cher* in E01–E03 and E34.
+- **§2, Lucien.** *German under stress, French in intimacy* are approved **permissions**, not B01 facts: the voice
+  sheets record German as rare and French in intimacy as absent in B01, with one French word at E48 (Q-VI10). Read
+  [F] there as [design permission].
+- **§2, Elisabet.** CP14 narrows her flirtation to **open with Lucien, light with Seraphine** (`ElisabetID.md` note,
+  2026-10-05). *Flirts plainly with both leads* is the 10-03 direction before that narrowing.
