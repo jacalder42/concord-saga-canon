@@ -17234,4 +17234,21 @@ END OF ENTRY 382
 - **A usage-limit stop mid-pass** was recovered by snapshot and resume. No edit was applied twice; each editor diffed
   against the base before continuing.
 
+## §446 — ChatGPT de-mechanization audit of the final B01: checked; proposal Q-DM1–4, 2026-10-06
+
+- **Report:** `reports/B01_DEMECHANIZATION_REVIEW_RECONCILIATION_2026-10-06.md`.
+- **Every count reproduces exactly** on `B01/final-2026-10-06/`, including:
+  - *as if* 180 and *as though* 28;
+  - *looked* 639;
+  - *He looked* / *She looked* 219 sentence starts;
+  - *did not* / *didn't* 748.
+- **The review's chapters are reading order:** Chapter *n* is E(*n*+1) from Chapter 5.
+- **Assessment:**
+  - the diagnosis (*over-recorded*; de-mechanization, not humanization) holds;
+  - the §445 pass was too restrained for it;
+  - part of the cause is our own action-over-statement and gaze rules;
+  - no quotas.
+- **Proposed:** five tests in one pass (as-if, look, non-action, reaction chain, accounting), calibrated first on E01,
+  E25 and E49. **Awaits the author.**
+
 END RECOVERY LEDGER
