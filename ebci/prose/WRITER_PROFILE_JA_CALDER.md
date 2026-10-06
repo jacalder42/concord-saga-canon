@@ -68,6 +68,12 @@ Engagement over certainty. Authenticity over decorum. Consequences over dogma.
 - **Someone has to want an answer.** In a two-hander where neither person would ask, give the want to the listener or let a third voice in. (2026-10-06, Q-DQ10, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`)
 - **Being wrong out loud is information.** A confident wrong theory, said and believed, tells the reader about the speaker, and may stand. (2026-10-06, Q-DQ10, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`)
 - **Small talk may be small.** Not every exchange carries subtext; some only sound like people. (2026-10-06, Q-DQ10, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`)
+- **Action carries what speech would announce.** An illustration, not the book's text (the author supplied it, 2026-10-06, `decisions/TABLE_READ_PILOT_AND_ACTION_OVER_STATEMENT_AUTHOR_INSTRUCTION_2026-10-06.md`). Artificial: *"I need you to listen to me, not turn away," Julian said angrily. "As you know, the cartel is looking for us." / Mark looked at the floor, not at his brother. "I am scared, Julian. I want to run, not fight."* Better: *Julian gripped Mark's shoulder, forcing him around. "Look at me." / Mark wrenched free and stared at the floorboards. "We should've left last night." / "It's too late for that."* What changed:
+  - the contrast becomes a command;
+  - *as you know* goes;
+  - the stated fear becomes a concrete regret;
+  - the adverb becomes a grip;
+  - the reply answers the situation, not the words.
 
 ## 5A. People under pressure
 
