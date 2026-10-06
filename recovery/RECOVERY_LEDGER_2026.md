@@ -17198,4 +17198,23 @@ END OF ENTRY 382
   tested on the same spans; full actor play for pressure scenes. **Awaits the author.**
 - **Continuity:** three items in the revised E39 flagged for the line edit. No chapter file changed.
 
+## §444 — B01 screenplay-model performance revision, for side-by-side review, 2026-10-06
+
+- **Authority:** `decisions/B01_SCREENPLAY_MODEL_PERFORMANCE_REVISION_AUTHOR_INSTRUCTION_2026-10-06.md` (*"Make the
+  recommended changes and revise B1 for review"*).
+- **Method:** `ebci/prose/TABLE_READ_METHOD.md` §6 (added) and the pilot's amendments.
+- **Report:** `reports/B01_SCREENPLAY_MODEL_PERFORMANCE_REVISION_2026-10-06.md`.
+- **Done in the private manuscript:** `B01/performed-2026-10-06/`, with the revised draft untouched.
+  - 12 actors, about 160 proposals.
+  - 10 directors: 139 taken, 16 adapted, 4 declined; 71 gestures cut.
+  - The pilot grafts (E39, E46) and the E48 rebase.
+  - 11 continuity fixes.
+  - 7 beats restored on the judges' advice.
+  - 174,407 → 173,341 words.
+- **Blind comparison:** 12 of 12 judgments (six chapters, two judges each) prefer the performed draft.
+- **Reading copies:**
+  - `B01_PERFORMED_*` (MD, HTML, EPUB, listening EPUB);
+  - `B01_SIDE_BY_SIDE_REVISED_VS_PERFORMED.html`.
+- **Awaits the author:** his side-by-side read, and whether the screenplay model enters B02 practice at generation.
+
 END RECOVERY LEDGER
