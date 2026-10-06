@@ -178,6 +178,9 @@ requires sit beside it and name the ruling they serve
 | `B01_LIVED_IN_LOUISIANA_LANGUAGE_AUTHOR_ANSWERS_2026-10-05.md` | **Approved design.** Q-LL1: the four speech communities (Acadiana Cajun with Black Creole family; downtown Black New Orleans; Yat; the Northshore/Honey Island family); Odile's family is Cajun. Q-LL2: Level B, denser for the elders. Q-LL3: a four-chapter pilot. Q-LL5: community readers now (the author recruits them). §5 correction note on Odile's location, settled by Q-CP1 |
 | `B01_POST_MERGE_REVIEW_Q_CP1_AUTHOR_ANSWER_2026-10-05.md` | *"Q-CP1 a."* The page is re-anchored east to canon's Honey Island site (manuscript only) |
 | `B01_POST_MERGE_REVIEW_Q_GC1_2_Q_GC3_1_Q_PM20_AUTHOR_ANSWERS_2026-10-05.md` | **Approved design.** The St. Tammany coroner (Lacombe); no rings-first warning acted on in B01 (A4 held); the reading copies renumbered, with episode keys unchanged (manuscript only). A follow-up on supplements is in ledger §429 |
+| `B01_OPEN_QUESTIONS_ALL_AS_RECOMMENDED_AUTHOR_ANSWERS_2026-10-05.md` | **Approved design.** The post-merge register's §6 recommendations are accepted, except voice, language and lens, which go to side-by-side review; Q-LL5 is done and the pilot form approved (ledger §431) |
+| `B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md` | **Approved design.** Q-LB1–10 (profile §12B), Q-VI1–13 and Q-EL1–3 as recommended; POV chapter headings, a listening EPUB and the narrator's sheet; Level B book-wide (ledger §435) |
+| `B01_REVIEW_FOLLOW_UPS_AUTHOR_ANSWERS_2026-10-06.md` | **Approved design.** Lucien's heritage corrected (French mother, Austrian father); Q-LB9 nothing to record; the lens *ladder* is the relationship ladder (ledger §438) |
 
 ### Earlier rulings, which stay in `recovery/`
 
