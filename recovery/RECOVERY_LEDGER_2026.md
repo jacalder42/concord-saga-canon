@@ -17181,4 +17181,21 @@ END OF ENTRY 382
 - **For the author:** the revisers' and checkers' flagged choices, listed in the logs. Examples: Seraphine's shout at
   E46; the E39 collar line; the E32 curb admission before E34; the prologue's explicit stakes lines.
 
+## §443 — Table-read pilot: three B01 scenes played by actor agents and judged blind, 2026-10-06
+
+- **Authority:** `decisions/TABLE_READ_PILOT_AND_ACTION_OVER_STATEMENT_AUTHOR_INSTRUCTION_2026-10-06.md` (the author's
+  "Proceed").
+- **Report:** `reports/TABLE_READ_PILOT_RESULT_2026-10-06.md`. The private detail is in the manuscript repository's
+  `draft-notes/table-read/` (cards, transcripts, renderings, `PILOT_RESULTS.md`).
+- **Run:** E39, E46 and E48. Each was played by two actor agents and rendered by a writer agent, then compared by two
+  blind judges with the revised draft of the same span.
+- **Result:**
+  - the revised draft is preferred at E46 and E39;
+  - the table read is preferred at E48, the interrogation scene.
+  - Losses come from the format: a gesture every turn, and lean, telegraphic speech.
+  - Wins come from pressure and from single moments a draft misses.
+- **Recommended:** the author's screenplay model (writer drafts, actors re-perform their own lines, director merges),
+  tested on the same spans; full actor play for pressure scenes. **Awaits the author.**
+- **Continuity:** three items in the revised E39 flagged for the line edit. No chapter file changed.
+
 END RECOVERY LEDGER
