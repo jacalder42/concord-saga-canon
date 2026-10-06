@@ -7,6 +7,9 @@ R3), and **compressed** after the full-B01 audit
 (`decisions/B01_FULL_AUDIT_COMPRESSION_AND_CALENDAR_AUTHOR_RULING_2026-09-27.md`, Q-FB1). Each revision
 supersedes the earlier skeleton; the fields survive, regrouped and lighter.
 
+Amended 2026-10-06 (`decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`, Q-DQ1 and Q-DQ3): compression
+rule 3 gains *Dialogue stays unwritten*; rule 9 gains *Guards bind what the page confirms*.
+
 What it does not change: no rule, card or overlay. Packets made from it live in `ebci/`.
 
 ## Silence is permission
@@ -51,6 +54,11 @@ perceive strain but cannot intervene; reveal no cosmology or future.*
    never the choreography of the change.
    **A relationship packet needs no beat describing the transition** between Before and After: sometimes
    the whole scene is the transition (guidance, not a check; Q-V2).
+   **Dialogue stays unwritten** (2026-10-06, Q-DQ1, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`). A packet may name what a conversation must settle or
+   leave open, what each person wants from it, and what each refuses to say. It does not give lines, paraphrased
+   lines, the order of replies, or how many questions, laughs or evasions it holds. A beat that is a speech act
+   (*she tells him*, *he answers that*) is written as the state that must be true after it. Check at derivation: a
+   packet sentence that could be put in quotation marks and spoken is rewritten as a state.
 4. **Register, not schedule.** A Life/Reward brief names its register (fun, rest, wonder, friendship)
    and leaves the moments to prose.
 5. **Beats are few and loose:** the story units that must happen, in order, and nothing that merely
@@ -64,6 +72,11 @@ perceive strain but cannot intervene; reveal no cosmology or future.*
    rely on (a carry-forward, a state another brief cites) and every line that guards against a likely
    mistake, including what characters *may* do where a prohibition could be over-read (added after the
    five-packet verification, 2026-09-27).
+   **Guards bind what the page confirms, not what characters say** (2026-10-06, Q-DQ3, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`). A guard against
+   establishing a cause, a sender or a watcher does not stop a character from asking, fearing, guessing or accusing
+   aloud, rightly or wrongly; it stops the page from confirming the answer. Write it as *nobody confirms*, not *nobody
+   says*, unless a word or name is itself off the page by ruling (*Veil* outside E49–E50, faction names). B02/B03
+   speech guards are re-derived on this basis, and against the reopened *no blame, just inference* default.
 
 ## Other rules
 

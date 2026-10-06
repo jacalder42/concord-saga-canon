@@ -44,7 +44,7 @@ is rarely a problem; a pattern is. Finding an item is a reason to look, not a ve
 ## Recaps and statement
 
 - **Does a character re-list material the reader already lived through?** Give the one face that matters.
-- **Is the theme stated aloud?** Watch especially for a character's speech doing the book's thinking.
+- **Is the theme stated aloud?** Watch especially for a character's speech doing the book's thinking. A character may say what something meant to them, once, where it is contested or costs them. The question is whether the speech does the book's thinking. (2026-10-06, Q-DQ11, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`)
 
 ## Register
 

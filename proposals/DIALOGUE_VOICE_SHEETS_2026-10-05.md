@@ -17,7 +17,9 @@ layer out of drafting. **Q-VI1 adds one clause to it:** the preceding prose gove
 author, in a side-by-side review, pulls a designed trait back* (recorded in `ebci/prose/README.md`). A decision below
 marked **the design pulls back** is such a review, approved; it reaches the page only through a revision or a packet
 brief, never as a sheet in the stack. The card notes Q-VI2–VI8 call for are on the characters' ID cards (dated
-2026-10-05).
+2026-10-05). **Amended 2026-10-06** (Q-DQ9 and Q-DQ11, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`): §1's contrast-family
+line points to profile §12's read-aloud test; the humor defaults gain non-dry instruments; Lucien's questions are
+*scarce, not absent* (§3); §10 follows.
 
 **Prose-free.** Page habits are described and counted, never quoted. The evidence, with line locators, is private:
 the manuscript's `draft-notes/voice/INTENT_VS_PAGE_EVIDENCE.md`. Louisiana speech is not here: it is writer profile
@@ -53,14 +55,18 @@ is rarely a problem; a pattern is. The test for any line is whether anyone else 
 - Dialogue is emotionally honest, low on exposition, carries subtext; articulacy is uneven; two characters diagnosing
   a third in the same words have become one voice (§5).
 - Nobody explains the world to someone who lives in it unless that says something about them (§5).
-- A cut-off line ends in a dash; an ellipsis is for trailing away (§12). The contrast-construction family is a tell in
-  speech too (§12).
+- A cut-off line ends in a dash; an ellipsis is for trailing away (§12). The contrast-construction family, in speech,
+  is judged by §12's read-aloud test: would this person say it, here, to this listener? A correction made in an
+  argument is speech; a balanced, quotable reversal that sums something up is the narrator speaking through a character
+  (2026-10-06, Q-DQ9, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`). *Was: "The contrast-construction family is a tell in speech too (§12)."*
 - Native words in plain type, meaning from context (§12A); Louisiana speech by §12B.
 - Nothing spoken requires reading minds *(ruled)*.
 - **Regulation shows in cadence** ([VS] rail 5): how a person steadies themselves is audible in how they talk.
 
 **Humor defaults (Q-VI8).** Defaults, not quotas: Seraphine dry and observational; Lucien deadpan; Baz teasing, fed
 through food; Caro hyperbole, then truth; Elisabet dry verdicts and plain flirtation; Trip dry and kind.
+**Each gains one non-dry instrument where the page shows it** (2026-10-06, Q-DQ11, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`): Seraphine teasing, a little unkindly
+(as with E19's street names); Baz's broad, physical laugh; Caro's hyperbole.
 
 ## 2. Seraphine Vael (Q-VI2)
 
@@ -83,7 +89,7 @@ through food; Caro hyperbole, then truth; Elisabet dry verdicts and plain flirta
 | --- | --- | --- | --- |
 | Sentence shape | [AW] proper and aloof, candour bubbling through. [C] clean, spatial. [VS] short declaratives | Short declaratives; answers with a figure or measurement; candour late and long | Leave it (all agree) |
 | Formality | [AW] proper. [B-L] precise English | Fewest contractions per word, but takes an available contraction about as often as Seraphine; formal openers and courtesy | **Page updates design:** proper in diction and courtesy, not in contraction avoidance |
-| Questions | [AW] aloof | Almost never asks | Leave it (the scarcity is the aloofness) |
+| Questions | [AW] aloof | Almost never asks | **Scarce, not absent:** he asks in his own domain (where, how far, what held); his first personal question is a rung (2026-10-06, Q-DQ11, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`). *Was: "Leave it (the scarcity is the aloofness)"* |
 | Humor | [C] silent; Trip punctures him. [VS] humor tolerance rises over the arc | Deadpan about small domestic absurdities | **Both:** deadpan about things now; humor about himself is kept for later, so the arc is protected by kind, not amount |
 | Address | [VS] names Seraphine only; pauses before naming | Almost never says a name to a face; Seraphine never | **Page updates design:** name-avoidance is his habit; the first time he names her aloud is a rung the arc can spend |
 | Language | [B-L] German under stress; French in intimacy | German rarely; French in intimacy never | **Design pulls back, lightly:** one French word in E48's private scene (applied in the manuscript, Q-VI10); German at a peak available, not owed; French in intimacy on the B02 watch-list |
@@ -178,7 +184,7 @@ Recovered from [VS] (l.7708–7736). **A review tool only; it enters no packet**
 | *hold* | Seraphine, Tahl, Lacuna, Elias | Seraphine: what a person can carry. Others by their cards |
 | *load* / *carry* | Lucien, Seraphine | Lucien: what a structure bears. Seraphine: what a person holds |
 | Short replies | Seraphine, Lucien, Baz | Interchangeable out of context: the B01 watch item after the author's read |
-| Dry humor | Seraphine, Lucien, Baz, Caro, Elisabet, Trip | By the Q-VI8 defaults above |
+| Dry humor | Seraphine, Lucien, Baz, Caro, Elisabet, Trip | By the Q-VI8 defaults above, and each one's non-dry instrument (2026-10-06, Q-DQ11, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`) |
 
 ## 11. Narration (Q-VI12)
 

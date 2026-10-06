@@ -54,7 +54,7 @@ Example: *Trip (she): Velvet Vein's host; compact, socially effortless, owns the
 - **Do not import** full cards, histories, future roles or hidden significance.
 - **Do not repeat** anything the preceding prose has already established. Once a character is on the page, the prose governs.
 - It is **not a character-voice layer.** Q-WP3's one card line about how a POV character notices still applies at their first substantial POV appearance, and only there.
-- **A local's speech community** (Q-LB10 (c), 2026-10-05, `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`): for a Louisiana-born character, the identity context at their **first appearance** carries **one line naming their speech community** (for example, downtown New Orleans English; Pearl River Cajun; Yat), for packets derived from 2026-10-05 on. The rules for it are profile §12B. It is the only speech line; nothing else of a per-character voice enters the stack.
+- **A local's speech community** (Q-LB10 (c), 2026-10-05, `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`): for a Louisiana-born character, the identity context at their **first appearance** carries **one line naming their speech community** (for example, downtown New Orleans English; Pearl River Cajun; Yat), for packets derived from 2026-10-05 on. The rules for it are profile §12B. It is the only speech line besides a lead's one dialogue-move line (2026-10-06, Q-DQ6, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`; see *The writer profile*); nothing else of a per-character voice enters the stack. *Was: "It is the only speech line; nothing else of a per-character voice enters the stack."*
 - The facts come from `canon/characters/` and `canon/cast_registry.csv`. They are assembled per episode in the drafting stack, not kept as a new document.
 
 ### Character pressures (Q-IT1, Q-IT3, 2026-09-29)
@@ -131,6 +131,14 @@ The ~150k redraft's packets are new, one per piece of the chosen outline (`decis
   briefs, and merged or cut briefs are retired from active use with a status line (never deleted). **The merged outline
   and the amendment files are inputs to EBCI, never a parallel source for a packet.** The Control Layer stays excluded.
   *(Superseded wording, recorded: "the EBCI Narrative Brief as before, plus the outline's row for the piece".)*
+- **Dialogue stays unwritten** (2026-10-06, Q-DQ1, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`). A packet may name what a conversation must settle or leave open,
+  what each person wants from it, and what each refuses to say. It does not give lines, paraphrased lines, the order of
+  replies, or how many questions, laughs or evasions it holds. A beat that is a speech act (*she tells him*, *he answers
+  that*) is written as the state that must be true after it. Check at derivation: a packet sentence that could be put
+  in quotation marks and spoken is rewritten as a state. Applies to B02's prose packets at derivation and to the
+  author-led B01 line edit; no B01 manuscript change during the author's listen and read (Q-DQ12).
+  - **The permission line (R14, Q-DQ1).** Every prose packet carries one standing line under *What happens. Only this
+    is fixed:* — *"Everything else is yours, including what people say to each other, how often, and in what order."*
 - **A conflict brief** (preflight Q3, restored by Q-IT4): plain words, with *none* allowed where a piece has none.
   - *Objective:* what the point-of-view character is trying to do.
   - *Opposition:* **whose will** pushes back, where one exists (a person, an office, the city), and only then the
@@ -180,7 +188,9 @@ from now on, B02 and B03 included.
   - An *Ends* line may allow a short after-scene: what the body or the room does once the event is over.
   - A location list or mystery guard does not exclude witnesses by default.
   - Strangers and neighbors who read the leads as a pair are the lawful channel for heat in B01, where nothing
-    romantic is said aloud.
+    romantic is said aloud. *(Scope, 2026-10-06, Q-DQ8, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`: what is not said
+    aloud in B01 is a declaration of love or romantic intent; flirting, teasing and charged deniable lines are allowed;
+    profile §11.)*
 - **U4. Cost lines name the residue.** Not *it costs her*, but what the act leaves in the body or the day. For example:
   *her hands remember holding his*.
 - **U5. Line-pass exemptions.** A line pass or trim does not cut, as repetition or restated meaning:
@@ -194,10 +204,12 @@ from now on, B02 and B03 included.
 - **U6. Stale-packet sync.** Any manuscript pass that changes a packet's fixed beat updates that packet in the same
   unit of work.
 - **U7. Disclosure pieces.** A piece whose *Already true* list runs long carries, by specification:
-  - **one non-answer**: a neighboring answer, a deferral or a refusal;
-  - **one interruption**, from the world or a third party;
+  - **at least one non-answer**: a neighboring answer, a deferral or a refusal;
+  - **at least one interruption**, from the world or a third party;
+  - **more where these people would resist;**
 
-  so that information is extracted, not delivered.
+  so that information is extracted, not delivered. **A floor, not a cap** (2026-10-06, Q-DQ2, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`): *"One only"* and *"do not
+  add a second evasion"* are struck from packets at their next derivation. *Was: "one non-answer … one interruption".*
 - **No cut quotas (Q-RR1).** No revision of the working draft cuts to a word target or a per-chapter percentage. The
   Sudowrite import copy is a separate derived artifact and may be trimmed; the draft may not.
 
@@ -214,7 +226,7 @@ engine tic and AI tell.
 
 ## The writer profile
 
-`WRITER_PROFILE_JA_CALDER.md` is the one stable instruction set that accompanies every packet (**approved 09-27** for Veil). **No per-character voice layer:** at a character's first substantial POV appearance only, one card line about how they notice or think may be promoted; after that the preceding prose governs. **Amended 2026-10-05 by Q-VI1** (`decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, approved design): after that the preceding prose governs, *unless the author, in a side-by-side review, pulls a designed trait back.* The review-side record of those decisions is `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md`; it never enters the stack. It is **recovered, not invented**: `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md` registers every source, its provenance and the conflicts. It carries no scores, ratios or required beats.
+`WRITER_PROFILE_JA_CALDER.md` is the one stable instruction set that accompanies every packet (**approved 09-27** for Veil). **No per-character voice layer:** at a character's first substantial POV appearance only, one card line about how they notice or think may be promoted; after that the preceding prose governs. **Amended 2026-10-05 by Q-VI1** (`decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, approved design): after that the preceding prose governs, *unless the author, in a side-by-side review, pulls a designed trait back.* **Amended 2026-10-06 by Q-DQ6, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`:** *A habit the review side has recorded as residue (the watch-list, a voice report) does not govern. Each lead's identity context may carry one dialogue-move line: how this person meets a question, a disagreement and a silence (for example, answers with a measurement; asks whose; tells it as a story). Never a tic or a catchphrase.* The review-side record of those decisions is `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md`; it never enters the stack. It is **recovered, not invented**: `recovery/JA_CALDER_WRITER_PROFILE_SOURCE_RECOVERY_2026-09-27.md` registers every source, its provenance and the conflicts. It carries no scores, ratios or required beats.
 
 **§3A *Structure under the page*** (Q-JZ1, 2026-10-01) carries the author's Jazz Framework as tendencies. **The
 framework is not a packet field.** No *Episode Jazz* block appears in the EBCI or prose packets. Its review side is
