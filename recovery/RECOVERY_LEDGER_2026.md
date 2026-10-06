@@ -17217,4 +17217,21 @@ END OF ENTRY 382
   - `B01_SIDE_BY_SIDE_REVISED_VS_PERFORMED.html`.
 - **Awaits the author:** his side-by-side read, and whether the screenplay model enters B02 practice at generation.
 
+## §445 — B01 final prose pass: behavioral syntax and redundant interpretation, 2026-10-06
+
+- **Authority:** `decisions/B01_FINAL_PROSE_PASS_BEHAVIORAL_SYNTAX_AUTHOR_INSTRUCTION_2026-10-06.md`. The author's
+  proposal is carried verbatim in the private brief.
+- **Report:** `reports/B01_FINAL_PROSE_PASS_BEHAVIORAL_SYNTAX_2026-10-06.md`.
+- **Done in the private manuscript:** `B01/final-2026-10-06/`, with the performed draft untouched.
+  - Whole-book recurrence audit: three auditors, 67 candidates, about 125 passages protected.
+  - Seven editors: 68 edits (A 20, B 32, C 2, D 7, E 7).
+  - A continuity check: no definite breaks; two pronoun slips fixed.
+  - 173,341 → 172,818 words.
+- **Reading copies:**
+  - `B01_FINAL_*` (MD, HTML, EPUB, listening EPUB);
+  - `B01_SIDE_BY_SIDE_PERFORMED_VS_FINAL.html`.
+- **Awaits the author:** his side-by-side read; eight flags; the uncertain voice-or-tic list.
+- **A usage-limit stop mid-pass** was recovered by snapshot and resume. No edit was applied twice; each editor diffed
+  against the base before continuing.
+
 END RECOVERY LEDGER
