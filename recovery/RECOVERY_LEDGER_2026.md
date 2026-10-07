@@ -17449,4 +17449,13 @@ END OF ENTRY 382
 - **Next:** the specialist reads on the revised draft (character, POV and voice; banter, heat and humor), then the
   momentum and exit audit, then serialization.
 
+## §459 — B01 structural checkpoint accepted; café rulings; specialist reads begin, 2026-10-07
+
+- **Authority:** `decisions/B01_STRUCTURAL_CHECKPOINT_AND_SPECIALIST_READS_AUTHOR_INSTRUCTION_2026-10-07.md`.
+- **Accepted:**
+  - the structural revision, as the new major checkpoint (`B01/struct-2026-10-07/`, 167,345 words);
+  - the café rulings (*Seraphine's hands*; the deduction restored) are applied.
+- **Structure is frozen.** The character, POV and voice read runs next, diagnosis first; then banter, heat and humor;
+  then the fresh panel and the momentum and serialization audit.
+
 END RECOVERY LEDGER
