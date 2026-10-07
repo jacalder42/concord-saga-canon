@@ -17331,4 +17331,21 @@ END OF ENTRY 382
   - four probable slips and the umbrella, for a continuity reader.
 - **Next, per the author:** no more search-term passes. Readers next.
 
+## §452 — B01 after Pass 3: continuity cleanup; ChatGPT's sequence review checked, 2026-10-07
+
+- **ChatGPT's review of Pass 3, forwarded by the author:**
+  - It agrees that Pass 3 ends the computational passes, and that the ~171k draft is a checkpoint with no further
+    automatic cleaning.
+  - On the close calls: E06 keep cut; E42 lean restore, to be verified in the read; E46 keep cut.
+  - It proposes this sequence: continuity cleanup → **a fresh blind cover-to-cover read** asking experiential questions,
+    not hunting mechanisms → character, voice, banter, heat and humor reads informed by it → a momentum, chapter-exit
+    and serialization audit → integrated revision decisions.
+  - Word count is no longer a target.
+- **Continuity cleanup done** (private, `draft-notes/inference-pass-2026-10-07/CONTINUITY_CLEANUP.md`):
+  - E23 and E17 are fixed;
+  - E43's calendar and E47/E48's counts are verified consistent;
+  - **the umbrella goes to the author** (replaced, mended or usable; Claude leans to mended).
+- **Checkpoint:** manuscript commit `6205c8a` (170,983 words). The reading copies are rebuilt after the two fixes.
+- **Waiting on the author:** the umbrella; E42; adoption of the sequence.
+
 END RECOVERY LEDGER
