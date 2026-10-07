@@ -17379,4 +17379,18 @@ END OF ENTRY 382
   - then **(C)** Lucien's correction on the page, **(D)** a private Seraphine–Lucien scene, **(E)** the
     self-auditing page.
 
+## §455 — B01 blind-panel calls A–E and a structural design pass, 2026-10-07
+
+- **Authority:** `decisions/B01_BLIND_PANEL_AUTHOR_CALLS_AND_STRUCTURAL_DESIGN_PASS_AUTHOR_INSTRUCTION_2026-10-07.md`.
+- **Calls:**
+  - **A:** Caldas Ren becomes the face of the pressure from about reading chapter 20, wanting control of the record,
+    by redistribution.
+  - **B:** the withheld name and *Veil* are kept, and the withholding is made to cost.
+  - **C:** Seraphine learns of the *None* correction on the page.
+  - **D:** one private Seraphine–Lucien scene in chapters 38–45, transforming existing material.
+  - **E:** chapter 47's self-audit is reduced.
+- **New momentum criterion:** *what is different at the end because this chapter happened?*
+- **Next:** three read-only maps (opposition, consequence, Seraphine–Lucien), then structural rulings, before any
+  prose.
+
 END RECOVERY LEDGER
