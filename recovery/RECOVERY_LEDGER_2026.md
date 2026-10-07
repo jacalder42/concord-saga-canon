@@ -17348,4 +17348,17 @@ END OF ENTRY 382
 - **Checkpoint:** manuscript commit `6205c8a` (170,983 words). The reading copies are rebuilt after the two fixes.
 - **Waiting on the author:** the umbrella; E42; adoption of the sequence.
 
+## §453 — B01: umbrella answered; fresh blind panel started, 2026-10-07
+
+- **Author, 10-07:** *"1 b 2 now"*.
+  - **The umbrella is mended (b):** one clause at E14, *its canvas taped along one rib*.
+  - **The blind panel starts now**, ahead of the author's own read.
+- **Panel:** three blind readers (mystery; urban fantasy and serial; literary) read the whole of the Pass 3 draft cover
+  to cover.
+  - They get only the experiential questions, and no process vocabulary.
+  - They note at every chapter end whether they want the next chapter now.
+  - The setup is private, in the manuscript's `draft-notes/blind-read-2026-10-07/`.
+- **This sequence is adopted** (from the §452 review): blind read → character, voice, banter, heat and humor reads
+  informed by it → a momentum, chapter-exit and serialization audit → integrated revision decisions.
+
 END RECOVERY LEDGER
