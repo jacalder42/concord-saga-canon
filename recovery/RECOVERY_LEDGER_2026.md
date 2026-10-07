@@ -17458,4 +17458,21 @@ END OF ENTRY 382
 - **Structure is frozen.** The character, POV and voice read runs next, diagnosis first; then banter, heat and humor;
   then the fresh panel and the momentum and serialization audit.
 
+## §460 — B01 character, POV and voice read: three reads, synthesis Q-CV1–6, 2026-10-07
+
+- **Authority:** `decisions/B01_STRUCTURAL_CHECKPOINT_AND_SPECIALIST_READS_AUTHOR_INSTRUCTION_2026-10-07.md`.
+- **Three full-book diagnostic reads** of `B01/struct-2026-10-07/` (Seraphine and Lucien; Baz and Caro; the ensemble
+  and POV voice). They are private, in the manuscript's `draft-notes/character-read-2026-10-07/`. Two were rerun
+  after a usage-limit interruption.
+- **No actual arc problem; structure stays frozen.**
+  - Choice: OK. Seraphine's inside desire: WATCH (the E39 kiss has no inside from her).
+  - The Act I tilt toward Lucien: WATCH. Baz's ramp pays (one missing line on the reports). Caro's life outside the
+    phenomenon: WATCH.
+  - The secondary cast is distinct; shared formulas are the WATCH (one blur pair: Benoit and the Kerlerec store
+    owner).
+  - POVs differ in metaphor, judgment and attention; rhythm is the narrator's by design.
+  - A few house devices cross POVs.
+- **Proposed:** about 30 lines of targeted fixes inside existing scenes (Q-CV1–5), and Q-CV6 not recommended.
+  **Waiting on the author.**
+
 END RECOVERY LEDGER
