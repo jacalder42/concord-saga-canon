@@ -17522,4 +17522,21 @@ END OF ENTRY 382
 - **Proposed:** Q-BH1, about 6–8 lines; Q-BH2 optional; Q-BH3 not recommended (Clement, already declined at Q-CV6;
   E48 additions); Q-BH4 watch-list only. **Waiting on the author.**
 
+## §464 — B01 Q-BH answered; momentum and serialization audit instructed, 2026-10-07
+
+- **Authority:** `decisions/B01_BHH_ANSWERS_AND_MOMENTUM_SERIALIZATION_AUDIT_AUTHOR_INSTRUCTION_2026-10-07.md`.
+- **Q-BH:**
+  - Q-BH1 is approved (E37, E24, E31, E18);
+  - Q-BH2 is not applied (no recommendation was given);
+  - Q-BH3 is not done;
+  - Q-BH4 is watch-list only.
+- **The character and voice, and banter, heat and humor, work is closed** unless the audit finds a momentum
+  consequence.
+- **A diagnostic momentum and serialization audit at three scales** (whole book, within chapters, chapter to
+  chapter):
+  - The existing chapters are presumed the serial modules (not 1,200–1,800-word dailies).
+  - Rest chapters are classified as earned, underpowered or stall.
+  - Each chapter gets Protect / Watch / Revise.
+  - It ends with a whole-book map and a serialization verdict.
+
 END RECOVERY LEDGER
