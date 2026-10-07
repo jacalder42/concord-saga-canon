@@ -17435,4 +17435,18 @@ END OF ENTRY 382
 - **Order:** the checkpoint (`B01/infer-2026-10-07/`) → the integrated structural revision → a changed-zone check →
   the character and voice read → the banter, heat and humor read → the momentum and exit audit → serialization.
 
+## §458 — B01 integrated structural revision done, 2026-10-07
+
+- **Authority:** `decisions/B01_STRUCTURAL_DESIGN_Q_SD_AUTHOR_ANSWERS_2026-10-07.md`.
+- **Report:** `reports/B01_STRUCTURAL_REVISION_2026-10-07.md`.
+- **Done in the private manuscript:** `B01/struct-2026-10-07/`, with the checkpoint `B01/infer-2026-10-07/` untouched.
+  - Q-SD1–12 executed by seven groups.
+  - A caution check (0 fail; five fixes) and a changed-zone continuity check (every definite and probable finding
+    fixed).
+  - 170,990 → 167,345 words.
+  - E11 and E33 are merged away, so the reading copies run to 50 pieces.
+- **Reading copies:** `B01_STRUCT_*`, `B01_SIDE_BY_SIDE_INFER_VS_STRUCT.html`, `B01_STRUCTURAL_REVISION_DIFF.*`.
+- **Next:** the specialist reads on the revised draft (character, POV and voice; banter, heat and humor), then the
+  momentum and exit audit, then serialization.
+
 END RECOVERY LEDGER
