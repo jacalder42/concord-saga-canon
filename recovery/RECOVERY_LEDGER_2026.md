@@ -17475,4 +17475,23 @@ END OF ENTRY 382
 - **Proposed:** about 30 lines of targeted fixes inside existing scenes (Q-CV1–5), and Q-CV6 not recommended.
   **Waiting on the author.**
 
+## §461 — B01 Q-CV1–6 answered; the surgical character and voice pass released, 2026-10-07
+
+- **Authority:** `decisions/B01_CHARACTER_VOICE_Q_CV_AUTHOR_ANSWERS_2026-10-07.md`.
+- **Answers:**
+  - CV1a approved (Seraphine's interior receipt for the E39 kiss); CV1b and CV1c declined.
+  - CV2 approved, at E36.
+  - CV3 approved, with E42 capped at about two sentences.
+  - CV4 approved, all six.
+  - CV5 approved, constrained to the identified repetitions.
+  - CV6: no changes.
+- **Binding:** no added explicitness while differentiating (Caro reveals, Baz notices, Seraphine experiences; none
+  explains).
+- **Next:**
+  1. the CV pass in a new draft copy;
+  2. a changed-zone audit;
+  3. a banter, heat and humor *diagnostic* read (where is B01 alive, and where does it stop being alive?);
+  4. the author's decisions;
+  5. targeted changes.
+
 END RECOVERY LEDGER
