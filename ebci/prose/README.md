@@ -278,3 +278,17 @@ for anything later prose must remember.
 
 **Source:** `decisions/SYMBOLISM_AND_LANGUAGE_RECOVERY_AUTHOR_ANSWERS_2026-10-01.md`. **The rules for using such words
 are writer profile §12A.**
+
+## Rests after peaks (Q-SD12, 2026-10-07; standing rule from B02)
+
+**No rest directly after a peak unless the rest materially changes the board.** A rest passes if it:
+- moves a secret;
+- creates or pays a cost;
+- changes a relationship;
+- kills or advances a theory;
+- creates an obligation; or
+- commits someone to a choice.
+
+Quiet chapters stay legitimate; their movement need not be about a secret. The test for every chapter is *what is
+different at the end because this chapter happened?* **Source:**
+`decisions/B01_STRUCTURAL_DESIGN_Q_SD_AUTHOR_ANSWERS_2026-10-07.md`.

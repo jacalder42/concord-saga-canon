@@ -17417,4 +17417,22 @@ END OF ENTRY 382
   moves him to Caldas's side.
 - **Waiting on the author:** Q-SD1–12.
 
+## §457 — B01 structural design: Q-SD1–12 answered; the integrated revision released, 2026-10-07
+
+- **Authority:** `decisions/B01_STRUCTURAL_DESIGN_Q_SD_AUTHOR_ANSWERS_2026-10-07.md`.
+- **Answers:**
+  - Q-SD1–11 as recommended. At E49 she keeps the email. **Q-SD2 amends the 10-03 placement map:** E25's man at the
+    door moves to Caldas's side.
+  - Q-SD12 is broadened to *materially changes the board*, and added to `ebci/prose/README.md` as a B02 packet rule.
+- **The author's execution cautions are binding:**
+  - Caldas's want is never stated;
+  - the recognition of the fourth man is never confirmed by the narrator;
+  - the prop rule is a pattern, not heraldry;
+  - the walk is not overburdened, and the stair beat is not explained;
+  - C1 is kept sharp;
+  - E48 is cut fully;
+  - quiet exits stay quiet, but carry the consequence.
+- **Order:** the checkpoint (`B01/infer-2026-10-07/`) → the integrated structural revision → a changed-zone check →
+  the character and voice read → the banter, heat and humor read → the momentum and exit audit → serialization.
+
 END RECOVERY LEDGER
