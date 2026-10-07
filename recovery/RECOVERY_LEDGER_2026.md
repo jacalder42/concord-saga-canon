@@ -17506,4 +17506,20 @@ END OF ENTRY 382
 - **Next:** the banter, heat and humor diagnostic read (three questions kept separate; *where is B01 alive, and
   where does it stop being alive?*), then the author's decisions.
 
+## §463 — B01 banter, heat and humor diagnostic: three reads, synthesis Q-BH1–4, 2026-10-07
+
+- **Authority:** `decisions/B01_CHARACTER_VOICE_Q_CV_AUTHOR_ANSWERS_2026-10-07.md` (sequence, step 3).
+- **Three full-book diagnostic reads** of `B01/cv-2026-10-07/` (banter, heat, humor; one question each). They are
+  private, in the manuscript's `draft-notes/bhh-read-2026-10-07/`.
+- **Answer:** B01 is alive almost everywhere it can be, and nearly every flat stretch is earned.
+  - Humor: 31 pieces ALIVE, 17 STEADY, 2 FLAT (both earned).
+  - The author's asymmetry claim is confirmed: Seraphine's unnamed yearning adds heat.
+- **Real losses, all small:**
+  - E37 has no trace of Lucien;
+  - E24's caper goes quiet, and its ending has no thought of Seraphine;
+  - Seraphine and Baz's play narrows to method fights after E23;
+  - E18's unused tease.
+- **Proposed:** Q-BH1, about 6–8 lines; Q-BH2 optional; Q-BH3 not recommended (Clement, already declined at Q-CV6;
+  E48 additions); Q-BH4 watch-list only. **Waiting on the author.**
+
 END RECOVERY LEDGER
