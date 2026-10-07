@@ -17361,4 +17361,22 @@ END OF ENTRY 382
 - **This sequence is adopted** (from the §452 review): blind read → character, voice, banter, heat and humor reads
   informed by it → a momentum, chapter-exit and serialization audit → integrated revision decisions.
 
+## §454 — B01 fresh blind panel: four readers, synthesis, 2026-10-07
+
+- **Report:** `reports/B01_FRESH_BLIND_PANEL_READ_2026-10-07.md`. The detail is private, in the manuscript's
+  `draft-notes/blind-read-2026-10-07/`.
+- **Panel:** four blind readers (mystery; urban fantasy and serial; literary; romance), each reading the whole Pass 3
+  draft. The romance reader was added at the author's question.
+- **Result:**
+  - 4 / 5 from all four; all would buy Book Two; no "no" chapter.
+  - Converging, 4 of 4:
+    - the opposition needs a face by the midpoint;
+    - the chapter endings share one shape;
+    - rest chapters follow peaks too often;
+    - withholding reads as series management.
+- **For the author:**
+  - before any revision: **(A)** the opposition's face and **(B)** the withheld name and closing line;
+  - then **(C)** Lucien's correction on the page, **(D)** a private Seraphine–Lucien scene, **(E)** the
+    self-auditing page.
+
 END RECOVERY LEDGER
