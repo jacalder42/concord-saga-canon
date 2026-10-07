@@ -17393,4 +17393,28 @@ END OF ENTRY 382
 - **Next:** three read-only maps (opposition, consequence, Seraphine–Lucien), then structural rulings, before any
   prose.
 
+## §456 — B01 structural design pass: three maps and a merged proposal (Q-SD1–12), 2026-10-07
+
+- **Authority:** ledger §455. The maps are read-only; no prose changed. All are private, in the manuscript's
+  `draft-notes/structural-design-2026-10-07/` (`MAP1_OPPOSITION.md`, `MAP2_CONSEQUENCE.md`,
+  `MAP3_SERAPHINE_LUCIEN.md`, `PROPOSAL.md`).
+- **Findings:**
+  - **Consequence:** 46 of 52 pieces pass the author's test (one fails, five are weak). The sameness is in the exits
+    (30 of 52 restraint or object codas) and in rests placed after peaks.
+  - **Opposition:** 64 appearances, two groups sharing props. The paper hand (Caldas's side) carries, signs and pays
+    nothing; the collectors buy, install and measure.
+  - **Seraphine and Lucien:** one private, unhurried scene only (E12). Seraphine learns of the correction in two
+    paraphrased lines at E46.
+- **Proposed:**
+  - A, *the fourth at the table* (E20, E25);
+  - B, a three-step withholding cost and a pattern line;
+  - C, the correction as the turn of the E46 car scene;
+  - D, a Saturday-dusk walk opening E44;
+  - E, about −1,400 words at E48;
+  - exits ending on the change, plus E11 and E33 merged.
+  - Net about −5k to −7k words.
+- **Q-SD2 would amend approved design:** the 10-03 placement map gives E25's man at the door to Technarc; the proposal
+  moves him to Caldas's side.
+- **Waiting on the author:** Q-SD1–12.
+
 END RECOVERY LEDGER
