@@ -17316,4 +17316,19 @@ END OF ENTRY 382
 - **Waiting on the author:** the calibration diff, the six contested lines and the guardrail, before the book-wide
   Pass 3.
 
+## §451 — B01 Pass 3 (Inference & Negative Accounting): book-wide, 2026-10-07
+
+- **Authority:** `decisions/B01_PASS3_CALIBRATION_RULINGS_AND_BOOKWIDE_RELEASE_AUTHOR_ANSWERS_2026-10-07.md`.
+- **Report:** `reports/B01_DEMECHANIZATION_PASS3_INFERENCE_2026-10-07.md`.
+- **Done in the private manuscript:** `B01/infer-2026-10-07/`, with `B01/gaze-2026-10-07/` untouched.
+  - Eleven editors, with no edit objective; E49 handled conservatively.
+  - 54 deletions in all; *did not* 741 → 724; 170,983 words.
+  - The semantic-loss check found 54 of 54 OK.
+- **Reading copies:** `B01_INFER_*` (HTML, MD, EPUB, listening EPUB); `B01_SIDE_BY_SIDE_GAZE_VS_INFER.html`; diff
+  `B01_PASS3_INFERENCE_DIFF.*`.
+- **Logged for later:**
+  - same-shape chapter endings, for the momentum and serialization pass;
+  - four probable slips and the umbrella, for a continuity reader.
+- **Next, per the author:** no more search-term passes. Readers next.
+
 END RECOVERY LEDGER
