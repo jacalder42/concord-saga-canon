@@ -17251,4 +17251,21 @@ END OF ENTRY 382
 - **Proposed:** five tests in one pass (as-if, look, non-action, reaction chain, accounting), calibrated first on E01,
   E25 and E49. **Awaits the author.**
 
+## §447 — B01 de-mechanization pass 1 (*as if* / *as though*), 2026-10-07
+
+- **Authority:** `decisions/B01_DEMECHANIZATION_SEPARATE_PASSES_AND_ASIF_PASS_AUTHOR_INSTRUCTION_2026-10-07.md`. The
+  author's prompt is used verbatim, with five adjustments.
+- **Report:** `reports/B01_DEMECHANIZATION_PASS1_ASIF_2026-10-07.md`.
+- **Done in the private manuscript:** `B01/asif-2026-10-07/`, with the final draft untouched.
+  - Calibration on E01, then six revisers.
+  - 208 → 140 (65 cut, 3 recast); 172,818 → 172,243 words.
+  - No synonym swaps; no continuity break; guards hold.
+- **Reading copies:**
+  - `B01_ASIF_*` (MD, HTML, EPUB, listening EPUB);
+  - `B01_SIDE_BY_SIDE_FINAL_VS_ASIF.html`.
+- **Next, proposed:**
+  - pass 2 (reaction chain and accounting), calibrated with the author's read;
+  - pass 3 (look and non-action);
+  - a possible *like*-simile review.
+
 END RECOVERY LEDGER
