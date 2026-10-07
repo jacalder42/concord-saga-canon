@@ -17539,4 +17539,14 @@ END OF ENTRY 382
   - Each chapter gets Protect / Watch / Revise.
   - It ends with a whole-book map and a serialization verdict.
 
+## §465 — B01 Q-BH1 applied; momentum and serialization audit done, Q-MS1–4 to the author, 2026-10-07
+
+- **Q-BH1** is applied in the private manuscript's `B01/bhh-2026-10-07/` (7 lines, about 80 words: E37, E24, E31,
+  E18). The diff was checked by the coordinator; the reading copies are `B01_BHH_*`.
+- **The momentum and serialization audit:** report `reports/B01_MOMENTUM_AND_SERIALIZATION_AUDIT_2026-10-07.md`.
+  - **Findings:** no actual stall; Protect 39, Watch 11, Revise 1 (the E24 exit, a Q-BH1 regression). Of 13 rests,
+    12 are earned and E27 is underpowered.
+  - **Serialization:** yes. The chapters are the release units; the short pieces ride with neighbors.
+- **Waiting on the author:** Q-MS1–4.
+
 END RECOVERY LEDGER
