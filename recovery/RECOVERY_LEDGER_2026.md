@@ -17288,4 +17288,19 @@ END OF ENTRY 382
   - check pronouns for the ear.
 - **Book-wide pass awaits the author's read** of `B01_SIDE_BY_SIDE_ASIF_VS_GAZE.html`.
 
+## §449 — B01 de-mechanization pass 2 (gaze): book-wide, 2026-10-07
+
+- **Authority:** the author's review of the §448 calibration: expand book-wide after two calibration fixes
+  (E28's easing made concrete; E46's non-look restored) and two new guardrails (NEGATED GAZE; NO COSMETIC
+  CONVERSION).
+- **Report:** `reports/B01_DEMECHANIZATION_PASS2_GAZE_2026-10-07.md`.
+- **Done in the private manuscript:** `B01/gaze-2026-10-07/`, with `B01/asif-2026-10-07/` untouched.
+  - Ten editors by range; E00, I01 and E50 excluded; about 155 net edits, almost all cuts and compressions.
+  - *looked* 636 → 531; *He/She looked* openings 218 → 162; 172,243 → 171,283 words.
+  - Four continuity fixes and one negated look restored; no synonym swaps; guards hold.
+- **Reading copies:** `B01_GAZE_*` (MD, HTML, EPUB, listening EPUB); `B01_SIDE_BY_SIDE_ASIF_VS_GAZE.html`;
+  diffs `B01_PASS1_ASIF_DIFF.*` and `B01_PASS2_GAZE_DIFF.*`.
+- **Finding:** negation is essentially unchanged (747 → 740), so pass 3 is likely still needed; the author decides.
+- **Waiting on the author:** the pass 1 restoration list; the pass-3 decision; E22's ambiguity.
+
 END RECOVERY LEDGER
