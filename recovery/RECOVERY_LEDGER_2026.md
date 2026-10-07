@@ -17494,4 +17494,16 @@ END OF ENTRY 382
   4. the author's decisions;
   5. targeted changes.
 
+## §462 — B01 surgical character and voice pass done; the banter, heat and humor diagnostic begins, 2026-10-07
+
+- **Authority:** `decisions/B01_CHARACTER_VOICE_Q_CV_AUTHOR_ANSWERS_2026-10-07.md`.
+- **Done in the private manuscript:** `B01/cv-2026-10-07/`, with the checkpoint `B01/struct-2026-10-07/` untouched.
+  - CV1a, CV2, CV3a–c, CV4a–f and CV5 are applied by three revisers: 44 paragraphs in 27 chapters, about 135 words
+    net.
+  - The changed-zone audit found 30 OK, 7 concerns and 0 fail; all seven are fixed. No changed line explains an arc,
+    and protected material is untouched.
+- **Reading copies:** `B01_CV_*`, `B01_SIDE_BY_SIDE_STRUCT_VS_CV.html`, `B01_CV_PASS_DIFF.*`.
+- **Next:** the banter, heat and humor diagnostic read (three questions kept separate; *where is B01 alive, and
+  where does it stop being alive?*), then the author's decisions.
+
 END RECOVERY LEDGER
