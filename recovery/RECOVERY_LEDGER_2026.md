@@ -17303,4 +17303,17 @@ END OF ENTRY 382
 - **Finding:** negation is essentially unchanged (747 → 740), so pass 3 is likely still needed; the author decides.
 - **Waiting on the author:** the pass 1 restoration list; the pass-3 decision; E22's ambiguity.
 
+## §450 — B01 pass 2 accepted; Pass 3 (Inference & Negative Accounting) calibrated, 2026-10-07
+
+- **Authority:** `decisions/B01_PASS2_ACCEPTANCE_AND_PASS3_INFERENCE_CALIBRATION_AUTHOR_INSTRUCTION_2026-10-07.md`.
+- **Pass 2 accepted** (subject to a diff audit). Seven Pass 1 restores were applied. The seven continuity flags were
+  resolved before Pass 3; all were pre-existing. A new umbrella flag (E07 → E14) is recorded and not fixed.
+- **Pass 3 calibration** on E18, E31 and E48 in the private manuscript's `B01/infer-2026-10-07/`:
+  - 16 edits, all deletions; no protected passage or chapter ending touched; 43 KEEPs logged.
+  - Blind judgment: 4 of 6 prefer the edited version. Ten cuts are uncontested and six are contested lines for the
+    author.
+  - Proposed guardrail: a negation or gloss that is the only carrier of a reaction or an uninferable fact stays.
+- **Waiting on the author:** the calibration diff, the six contested lines and the guardrail, before the book-wide
+  Pass 3.
+
 END RECOVERY LEDGER
