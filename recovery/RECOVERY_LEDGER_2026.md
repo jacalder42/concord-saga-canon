@@ -17268,4 +17268,24 @@ END OF ENTRY 382
   - pass 3 (look and non-action);
   - a possible *like*-simile review.
 
+## §448 — B01 de-mechanization pass 2 (gaze, attention and reaction choreography): calibration, 2026-10-07
+
+- **Authority:** `decisions/B01_DEMECHANIZATION_PASS2_GAZE_CALIBRATION_AUTHOR_INSTRUCTION_2026-10-07.md`. The author's
+  prompt is used verbatim, with six adjustments.
+- **Calibration, in the private manuscript's `B01/gaze-2026-10-07/`:**
+  - E12, E28 and E46: 20 light edits (cuts and compressions; no recasts, no interiority);
+  - *looked* 54 → 43 in those three chapters.
+- **Blind judgment:** 6 of 6 prefer the gaze version. The intensity was *about right, slightly under*.
+- **Three fixes after judgment:**
+  - E12's softening beat restored;
+  - E46's book transition restored;
+  - E46's pronoun named, for audio.
+- **Lessons added to the adjustments:**
+  - keep softening and attraction beats;
+  - cut holding beats;
+  - mid-speech beats are the clearest wins;
+  - keep the stronger of doubled nods;
+  - check pronouns for the ear.
+- **Book-wide pass awaits the author's read** of `B01_SIDE_BY_SIDE_ASIF_VS_GAZE.html`.
+
 END RECOVERY LEDGER
