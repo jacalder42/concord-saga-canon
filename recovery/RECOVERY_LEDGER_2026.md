@@ -17549,4 +17549,24 @@ END OF ENTRY 382
   - **Serialization:** yes. The chapters are the release units; the short pieces ride with neighbors.
 - **Waiting on the author:** Q-MS1–4.
 
+## §466 — B01 Q-MS1–4 answered; serialization modules frozen; corrective pass released, 2026-10-07
+
+- **Authority:** `decisions/B01_MOMENTUM_Q_MS_AUTHOR_ANSWERS_AND_SERIALIZATION_FREEZE_2026-10-07.md`.
+- **Answers:**
+  - Q-MS1 approved (the E24 exit restored).
+  - Q-MS2 partly approved:
+    - the E27 and E28 window touches (keep *not happening yet* active);
+    - E35, Lucien carrying her message;
+    - the gray cases and the runner through progression, not synonyms;
+    - E08 and E16 as compression *tests* (proposals only);
+    - E19 and E41 declined.
+  - Q-MS3 is watch only, carried into `ebci/prose/README.md` as B02 craft guidance (shapes of withholding; active
+    waiting; progression in recurrence).
+  - Q-MS4's core verdict is approved; the release-strategy pairings stay publishing hypotheses.
+- **Frozen:**
+  - **B01's existing chapters are the default serialization modules;** the daily-episode model is retired for B01;
+  - **the waiting week (E27–E30) is a recorded structural characteristic.**
+- **Next:** the corrective pass and a changed-zone check, then **the author's read**. No further manuscript-wide
+  audit.
+
 END RECOVERY LEDGER

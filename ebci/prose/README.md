@@ -292,3 +292,18 @@ are writer profile §12A.**
 Quiet chapters stay legitimate; their movement need not be about a secret. The test for every chapter is *what is
 different at the end because this chapter happened?* **Source:**
 `decisions/B01_STRUCTURAL_DESIGN_Q_SD_AUTHOR_ANSWERS_2026-10-07.md`.
+
+## Withholding and waiting (Q-MS3 and the waiting-week finding, 2026-10-07; craft guidance from B02)
+
+- **Withholding needs different dramatic shapes.** Silence, lying, distraction, partial disclosure, competing
+  obligations, mistaken assumptions, interruption and deliberate refusal are all withholding. Do not let every
+  withheld thing read as one character deciding *not today*, or as the author saying *later*.
+- **Waiting must stay active for the reader.** In a *claim → waiting → window* stretch, the danger is not that the
+  characters wait, but that the reader stops waiting, because the anticipated event has faded from working memory.
+  Keep *not happening yet* present through what is already happening, not through narrator reminders and not by
+  adding events.
+- **Repeated sightings show progression.** When something recurs (a pursuer, an object, a visitor), a later
+  appearance changes where the observer's understanding, behavior or stakes have changed. Otherwise it repeats
+  plainly, with no cosmetic variation.
+
+**Source:** `decisions/B01_MOMENTUM_Q_MS_AUTHOR_ANSWERS_AND_SERIALIZATION_FREEZE_2026-10-07.md`.
