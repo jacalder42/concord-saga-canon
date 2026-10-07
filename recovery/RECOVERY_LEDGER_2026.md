@@ -17586,4 +17586,11 @@ END OF ENTRY 382
   checkpoint.
 - **Next:** the author's read. No further manuscript-wide audit.
 
+## §468 — B01 compression tests answered, 2026-10-07
+
+- **Author:** *"8 keep; 16 yes to recommended, no to optional."*
+- E08 is kept. E16's recommended cut (37 words: the old highway's motels, daiquiri hut and tire-shop strip) is applied
+  in the private manuscript's `B01/ms-2026-10-07/`. The optional cut (Baz's write-it-down habit) is declined.
+- Reading copies `B01_MS_*` are rebuilt. **Next: the author's read.**
+
 END RECOVERY LEDGER
