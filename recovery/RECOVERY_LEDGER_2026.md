@@ -17569,4 +17569,21 @@ END OF ENTRY 382
 - **Next:** the corrective pass and a changed-zone check, then **the author's read**. No further manuscript-wide
   audit.
 
+## §467 — B01 momentum corrective pass done; reading draft ready for the author, 2026-10-07
+
+- **Authority:** `decisions/B01_MOMENTUM_Q_MS_AUTHOR_ANSWERS_AND_SERIALIZATION_FREEZE_2026-10-07.md`.
+- **Done in the private manuscript:** `B01/ms-2026-10-07/` (about 167,700 words).
+  - E24's exit is restored.
+  - The waiting window is kept active in E27 and E28.
+  - Lucien carries Seraphine's message in E35.
+  - One gray-case progression change at E48; every other appearance is left as it is.
+- **One proposed line was reverted:** an E36 line linking the collectors' runner to the rental man (Caldas's side),
+  which would have blurred the two hands.
+- **Compression tests (proposals only):**
+  - E08: KEEP;
+  - E16: a light COMPRESS (37 words, plus an optional 19), awaiting the author.
+- **The changed-zone check is clean.** Reading copies: `B01_MS_*`; side by side and diff against the structural
+  checkpoint.
+- **Next:** the author's read. No further manuscript-wide audit.
+
 END RECOVERY LEDGER
