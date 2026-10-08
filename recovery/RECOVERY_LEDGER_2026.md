@@ -17679,4 +17679,20 @@ END OF ENTRY 382
   resonance suspense, opposition, a 150k function map, a guard cost register), then the engine-sheet proposal with
   questions.
 
+## §476 — B01 engine-sheet proposal written; Q-ES1–14 to the author, 2026-10-08
+
+- **Evidence:** five read-only analyses of the integration draft in the private manuscript
+  (`draft-notes/engine-sheet-2026-10-08/`: mystery ledger, resonance suspense, opposition, a 150k function map, a guard
+  cost register of 21 guards with kinds). They read a checking text that predated the integration's final fix round
+  (84 lines; now rebuilt); every item is re-verified against the chapter files at packet build.
+- **Proposal:** `proposals/B01_ENGINE_SHEET_PROPOSAL_2026-10-08.md`. Mystery: B01 has the engine but lacks assembly;
+  central question *is it only where I am?*, answered *it keeps to places, and it does not come for her*; three
+  explanations landing aloud once; a 20-item clue ledger; the Veil question *which way does it lean*. Resonance: no new
+  event, eight suspense changes (S1–S8). Opposition: Caldas a move per act (Act III an invented exchange, with a
+  fallback); the retriever as the collectors' recurring face; an implied Technarc thread (the *TD-* tag on his card;
+  TD = the faction card's *Technarc Directorate*); one collision at Lacoste's spike. Length: about 13.4k without cutting
+  muscle; an honest landing of about 153–156k. Corrections listed (including E48's *That's how she knew*, which merges
+  the hands). Exceptions shown with their price, per the standing direction.
+- **Q-ES1–14 await the author.**
+
 END RECOVERY LEDGER
