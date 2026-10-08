@@ -148,8 +148,11 @@ The ~150k redraft's packets are new, one per piece of the chosen outline (`decis
   - *Unresolved:* what the next pieces inherit.
   - No numeric ladders, codes or True/False conflict.
 - **No required repair (Q-IT2a).** No packet requires a repair to close a piece. Where the story needs one, the
-  packet names **what causes it and what stays changed**. A caused repair may come later in the same piece, given its
-  own time on the page; it is never a free ending.
+  packet names **what causes it and what stays changed**. **After a breach** (a lie found out, a confidence broken, a
+  choice made over someone), **the repair needs a later piece**: at least one piece passes with the cost visible before
+  any term is set, and terms are shown by acts, not agreed. *(Amended 2026-10-08, Q-V2-6,
+  `decisions/B01_INTEGRATION_V2_AUTHOR_ANSWERS_2026-10-08.md`. The earlier text allowed "a caused repair … later in the
+  same piece, given its own time on the page; it is never a free ending.")*
 - **Exit conditions (Q-IT2b).** Only the facts the next piece depends on: elapsed time, place, who is present, who
   holds an object, open commitments. There are no clock times unless the story needs one, and never the next piece's
   events or meaning.
@@ -164,6 +167,9 @@ The ~150k redraft's packets are new, one per piece of the chosen outline (`decis
 - **Length (Q-IT2d, Q-IT5).** Each packet gives its approximate length from the outline, as an approximate word count.
   **The book aims at about 150k and may finish under it.** A piece over its target needs a specific reason, recorded
   by the checker.
+  *(2026-10-08, Q-V2-2: **no hard word-count targets for the B01 integration revision**; length lands where the
+  approved changes put it. B01 is written serial-first, most likely for Ream, then independent release, with
+  traditional publication possibly later.)*
 
 ## Packet repairs after the compression audit (U1–U7, 2026-10-04)
 
@@ -187,8 +193,9 @@ from now on, B02 and B03 included.
 - **U3. After-scenes and witnesses are allowed.**
   - An *Ends* line may allow a short after-scene: what the body or the room does once the event is over.
   - A location list or mystery guard does not exclude witnesses by default.
-  - Strangers and neighbors who read the leads as a pair are the lawful channel for heat in B01, where nothing
-    romantic is said aloud. *(Scope, 2026-10-06, Q-DQ8, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`: what is not said
+  - Strangers and neighbors may read the leads as a pair, and **may be wrong, crude, nosy or self-interested**; no
+    more than one per act is simply right *(amended 2026-10-08, Q-V2-6; the earlier text made them "the lawful channel
+    for heat in B01")*. Nothing romantic is said aloud. *(Scope, 2026-10-06, Q-DQ8, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`: what is not said
     aloud in B01 is a declaration of love or romantic intent; flirting, teasing and charged deniable lines are allowed;
     profile §11.)*
 - **U4. Cost lines name the residue.** Not *it costs her*, but what the act leaves in the body or the day. For example:
@@ -307,3 +314,36 @@ different at the end because this chapter happened?* **Source:**
   plainly, with no cosmetic variation.
 
 **Source:** `decisions/B01_MOMENTUM_Q_MS_AUTHOR_ANSWERS_AND_SERIALIZATION_FREEZE_2026-10-07.md`.
+
+## Emotional realism (Q-V2-6, 2026-10-08)
+
+Approved 2026-10-08 (`decisions/B01_INTEGRATION_V2_AUTHOR_ANSWERS_2026-10-08.md`; evidence in
+`proposals/B01_INTEGRATION_PROPOSAL_V2_LENSES_2026-10-08.md` §2). Applies to the B01 integration revision and to every
+packet from now on, B02 and B03 included.
+
+**Revision rules.**
+1. **Behaviour over naming in narration.** No sentence glosses what a gesture, glance or object meant. If the object
+   cannot carry it, the scene needs a better object.
+2. **Readings of people are fallible.** At least once per act a point-of-view character reads someone wrongly, acts
+   on it, and pays later. A read can be wrong, and the narration need not correct it.
+3. **No repair in the scene of the breach** (README, Q-IT2a as amended).
+4. **Confessions come out badly**: partial, defensive, late or forced. The listener answers as themselves (anger, a
+   practical demand, a change of subject, a misunderstanding), not as a counsellor.
+5. **Minor characters have agendas and bad days.** A stranger who comments on the leads is wrong, crude or selling
+   something (U3 as amended).
+6. **A no that matters stays a no at least once**, or sets a price that is paid later.
+7. **Articulacy is spent, not given.** Under pressure a character gets one articulate sentence about feelings at most,
+   more often an accusation than a fair self-account.
+8. **Feelings ride on records and decisions**: a form field, a struck name, an object moved.
+9. **Grief and guilt leak sideways**: an unfair, unrepaired act of displaced anger is allowed and sometimes needed.
+10. **Catharsis is deferred.** No mood lifts on cue; relief arrives later as behaviour.
+
+**Packet rules.**
+- *What this scene is for* states plot function; *What it costs or changes* states **observable exit facts** (who
+  knows what, who holds what, who is speaking to whom, what is locked away). No relational adjectives (*trust*, *seen
+  clearly*, *real*) and no before/after emotional states.
+- **Reader experience** stays in EBCI for planning and is **not carried into prose packets**.
+- **"Rung" is retired as a story job.** A relationship step is an exit fact (*she has not called him since Thursday*),
+  not a piece's purpose.
+- Each piece's pressure stack carries a **Misreads (a person)** line: how the point-of-view character is likely to
+  misread someone present, as things stand.

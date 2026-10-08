@@ -17637,4 +17637,16 @@ END OF ENTRY 382
   drafting-system fixes; B02/B03 and saga plants; B02/B03 packet edits listed for later). Version 1 marked superseded.
 - **Q-V2-1–10 await the author.**
 
+## §472 — B01 integration v2 approved; drafting-system fixes applied, 2026-10-08
+
+- **Author:** Q-V2-1–10 approved as recommended; serial first (most likely Ream), then independent, traditional
+  possibly later; **no hard word-count targets this round**; **"ripples", not "rings"**, for the precursor.
+  Recorded in `decisions/B01_INTEGRATION_V2_AUTHOR_ANSWERS_2026-10-08.md` (approved design).
+- **Applied (Q-V2-6):** `ebci/prose/README.md` Q-IT2a amended (repair after a breach needs a later piece), U3 amended
+  (strangers may be wrong), the length line noted (no targets this round), a new section *Emotional realism* (ten
+  rules, packet rules, *Misreads (a person)*); `templates/EBCI_PACKET_TEMPLATE.md` rule 3 note; one line beside profile
+  §9's ruled *nobody reads minds*. Earlier wording kept inline.
+- **Next:** revision packets for the changed chapters, then the revision in a new manuscript folder, the checks, and
+  the author's read.
+
 END RECOVERY LEDGER

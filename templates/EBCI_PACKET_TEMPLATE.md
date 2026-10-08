@@ -52,6 +52,9 @@ perceive strain but cannot intervene; reveal no cosmology or future.*
    The causal card stays authoritative behind the packet.
 3. **Relationships name the rung:** the state **before** and **after**. Never the emotional mechanism,
    never the choreography of the change.
+   *(Amended 2026-10-08, Q-V2-6: "rung" is retired as a story job; before and after are **observable facts**, not
+   emotional states; Reader experience is planning only and is not carried into prose packets; see
+   `ebci/prose/README.md`, Emotional realism.)*
    **A relationship packet needs no beat describing the transition** between Before and After: sometimes
    the whole scene is the transition (guidance, not a check; Q-V2).
    **Dialogue stays unwritten** (2026-10-06, Q-DQ1, `decisions/DIALOGUE_RULES_Q_DQ_AUTHOR_ANSWERS_2026-10-06.md`). A packet may name what a conversation must settle or
