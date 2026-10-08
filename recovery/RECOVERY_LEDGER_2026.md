@@ -17606,4 +17606,19 @@ END OF ENTRY 382
   three fixes are one move (an earlier on-page opposition contact).
 - **Q-AX1–4 await the author.** Recommended: hold the freeze until his read; verify the dropped threads now.
 
+## §470 — B01 unrestricted ideation and integration proposal; Q-UI1–9 to the author, 2026-10-08
+
+- **Author instruction 10-08** (`decisions/B01_UNRESTRICTED_REVISION_IDEATION_AUTHOR_INSTRUCTION_2026-10-08.md`):
+  intervene now (answers Q-AX1); ideas without restrictions, then the least destructive integration. The freezes are
+  lifted for this ideation only.
+- **Done, paper only:** four blind designers (opposition, mystery, set pieces, structure) read the whole draft and
+  the hostile reads; a constraint inventory graded about 115 constraints by strength. All private, in the
+  manuscript's `draft-notes/unrestricted-ideation-2026-10-08/`.
+- **Proposal:** `proposals/B01_UNRESTRICTED_IDEATION_INTEGRATION_PROPOSAL_2026-10-08.md`. Nine convergent moves
+  (a central question at the end of Act I; the offer and Caldas in the middle; discovery for confession; working
+  rules with a precursor; *they knew before*; a caused climax; a decided ending; the same five rests folded). Tiered:
+  14 grafts that reopen nothing; 8 reshapes; 10 ideas declined because they reopen rulings (the camp, the prop rule,
+  Caldas speaking *Veil*).
+- **Q-UI1–9 await the author.** Recommended: Tier 1 in full plus R1(a), R2–R8; about 150–160k; A4 reopened.
+
 END RECOVERY LEDGER
