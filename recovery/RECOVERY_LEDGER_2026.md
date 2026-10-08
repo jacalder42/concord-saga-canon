@@ -17659,4 +17659,13 @@ END OF ENTRY 382
   watchers' *rings*; two fixes inside protected beats; rule-page statuses; the *midday* rumour).
 - **Next:** the author's read; reading copies `B01_INT_*` and a side-by-side against the 10-07 draft.
 
+## §474 — B01 integration revision: four open items answered and applied, 2026-10-08
+
+- **Author:** *"1 yes / 2 as recommended / 3 as recommended / 4 as recommended"*, recorded in
+  `decisions/B01_INTEGRATION_REVISION_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-08.md` (approved design).
+- **Applied in the private manuscript:** the watchers' *rings* become *ripples* (E00, E50); E48 marks the rule page's
+  statuses in Lucien's pencil (*held*, *once, at the lot. Half.*, the new line bare); the two protected-beat fixes stay
+  unmade; the *midday* rumour stays a crowd rumour. Reading copies, side-by-side and diff rebuilt (about 171,600 words).
+- **Next:** the author's read of `B01/int-2026-10-08/`.
+
 END RECOVERY LEDGER
