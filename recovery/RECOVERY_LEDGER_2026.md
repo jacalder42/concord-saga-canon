@@ -17621,4 +17621,20 @@ END OF ENTRY 382
   Caldas speaking *Veil*).
 - **Q-UI1–9 await the author.** Recommended: Tier 1 in full plus R1(a), R2–R8; about 150–160k; A4 reopened.
 
+## §471 — B01 lens analyses and integration proposal v2; Q-V2-1–10 to the author, 2026-10-08
+
+- **Author follow-up 10-08** (recorded in `decisions/B01_UNRESTRICTED_REVISION_IDEATION_AUTHOR_INSTRUCTION_2026-10-08.md`):
+  genre structure; mystery, conflict/action, systems and romance lenses; emotional weather and unrealistic emotional
+  intelligence; B02/B03 and saga inputs; before any Q-UI answer.
+- **Done, paper only:** eight analyses (one a full read for emotional realism; one across all 95 B02/B03 packets), private
+  in the manuscript's `draft-notes/unrestricted-ideation-2026-10-08/LENS_*.md`.
+- **Findings:** opening and romance on genre norm; opposition 35–45 points late; no working rule used at the climax; EQ
+  inflation (oracle minor characters, same-scene repair, the contract reflex) is larger than weather and is caused
+  mostly by packet rules; B01's saga miniature is *keeping it* against *carrying it together*.
+- **Version 1 corrected:** G1's yellow line is the city's published response, not foreknowledge (verified in the
+  Supplement); G5 dropped; G8 and R8 replaced (legal realism; R8's file is the camp's, near M51 and E50's question).
+- **Proposal:** `proposals/B01_INTEGRATION_PROPOSAL_V2_LENSES_2026-10-08.md` (V1–V41; ten emotional-realism rules and
+  drafting-system fixes; B02/B03 and saga plants; B02/B03 packet edits listed for later). Version 1 marked superseded.
+- **Q-V2-1–10 await the author.**
+
 END RECOVERY LEDGER

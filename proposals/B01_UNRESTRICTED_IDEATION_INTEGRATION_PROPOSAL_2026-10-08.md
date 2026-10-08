@@ -1,6 +1,8 @@
 # B01: unrestricted ideation, integrated — least-destructive proposal, 2026-10-08
 
 Status: PROPOSAL (non-canonical, Tier D), for the author's answers. Paper only: it changes no manuscript text, ruling,
+
+**Superseded 2026-10-08 by version 2** (`proposals/B01_INTEGRATION_PROPOSAL_V2_LENSES_2026-10-08.md`), after the author asked for genre, lens, B02/B03 and saga analyses before answering. Version 2 corrects G1, drops G5, replaces G8 and R8, and replaces Q-UI1–9 with Q-V2-1–10. This file is kept as the record.
 card, grid or packet. Authority for the work: `decisions/B01_UNRESTRICTED_REVISION_IDEATION_AUTHOR_INSTRUCTION_2026-10-08.md`.
 The four designs, the constraint inventory and the designers' brief are private, in the manuscript's
 `draft-notes/unrestricted-ideation-2026-10-08/`. No prose is quoted here.
