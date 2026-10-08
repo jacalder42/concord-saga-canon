@@ -17593,4 +17593,17 @@ END OF ENTRY 382
   in the private manuscript's `B01/ms-2026-10-07/`. The optional cut (Baz's write-it-down habit) is declined.
 - Reading copies `B01_MS_*` are rebuilt. **Next: the author's read.**
 
+## §469 — B01 antagonistic cover-to-cover read; Q-AX1–4 to the author, 2026-10-08
+
+- **Author:** *"Perform antagonistic cover to cover read and analysis. Is there enough resolution, is there enough
+  plot, etc."* Read-only; `B01/ms-2026-10-07/` unchanged.
+- **Report:** `reports/B01_ANTAGONISTIC_COVER_TO_COVER_READ_2026-10-08.md`; private notes and synthesis in the
+  manuscript's `draft-notes/antagonistic-read-2026-10-08/`.
+- **Three blind hostile readers, 3 / 5 each.** Plot for the length is short in named stretches (Ch 11, 14, 17, 32);
+  the personal questions resolve, the genre questions pause; the opposition is first named about 81% through and never
+  meets the crew in a contest; payoffs come by confession rather than discovery.
+- **Assessment:** the case mostly attacks ruled design (occluded Dominion, Caldas, Veil at E49–E50, the freeze); the
+  three fixes are one move (an earlier on-page opposition contact).
+- **Q-AX1–4 await the author.** Recommended: hold the freeze until his read; verify the dropped threads now.
+
 END RECOVERY LEDGER
