@@ -28,3 +28,18 @@ does not change any ruling, card, grid or manuscript file, and it releases no re
    which ruling it would reopen, and what B02/B03 inherit. The best ideas are then fitted in the least destructive
    way (graft → reshape → reopen a ruling), and the result goes to the author as one proposal with questions.
 3. **Nothing enters the manuscript** until the author answers.
+
+## Follow-up instruction, 2026-10-08 (before any Q-UI answer)
+
+> *Before deciding on recommendations, consider the typical structure and flow of books in this genre(s). Let's
+> consider optimal changes from a mystery lens, a conflict/action lens, a systems lens, a romance lens, etc.*
+>
+> *A long running point of discussion has been a concern about the book turning into hand-wavey emotional weather, and
+> unrealistic character emotional intelligence.*
+>
+> *Consider B2 and B3 material that could inform our adjustments or be setup/foreshadowed better. Then do the same at a
+> saga level.*
+
+**Effect:** Q-UI1–9 are not answered yet. Before recommendations are final, eight read-only analyses run: genre
+structure, mystery, conflict and action, systems, romance, emotional realism (a full read), B02/B03 as inputs, and the
+saga as an input. The integration proposal is then revised (version 2). Paper only.
