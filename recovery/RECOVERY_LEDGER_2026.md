@@ -17668,4 +17668,15 @@ END OF ENTRY 382
   unmade; the *midday* rumour stays a crowd rumour. Reading copies, side-by-side and diff rebuilt (about 171,600 words).
 - **Next:** the author's read of `B01/int-2026-10-08/`.
 
+## §475 — B01 engine sheet instructed; 150k target; costed guards, 2026-10-08
+
+- **Author, on the integration draft:** it grew instead of tightening; mystery is becoming B01's and Veil's engine;
+  the opposition is thin beyond Caldas; the resonance events need suspense as B01's near-antagonist. Then: **about 150k
+  this round**; **a subtle, implied Technarc connection for the retriever**; **no true always/never rules, only
+  escalating costs for revealing**; *"Proceed"*. Recorded in
+  `decisions/B01_ENGINE_SHEET_AND_COSTED_GUARDS_AUTHOR_INSTRUCTION_2026-10-08.md`.
+- **Next:** five read-only analyses in the private manuscript (`draft-notes/engine-sheet-2026-10-08/`: mystery ledger,
+  resonance suspense, opposition, a 150k function map, a guard cost register), then the engine-sheet proposal with
+  questions.
+
 END RECOVERY LEDGER
