@@ -17649,4 +17649,14 @@ END OF ENTRY 382
 - **Next:** revision packets for the changed chapters, then the revision in a new manuscript folder, the checks, and
   the author's read.
 
+## §473 — B01 integration revision done, 2026-10-08
+
+- **Done in the private manuscript:** `B01/int-2026-10-08/` (the 10-07 reading draft kept as the checkpoint): revision
+  packets, nine revisers, a lead fix round, three whole-book checks and a final fix round. 44 chapters; about 171,500
+  words (no targets); every V-item on the page; guards hold; emotional weather 0.98 → 0.70 and inflated emotional
+  intelligence 1.43 → 0.95 per chapter.
+- **Report:** `reports/B01_INTEGRATION_REVISION_REPORT_2026-10-08.md`. Four small items left for the author (the
+  watchers' *rings*; two fixes inside protected beats; rule-page statuses; the *midday* rumour).
+- **Next:** the author's read; reading copies `B01_INT_*` and a side-by-side against the 10-07 draft.
+
 END RECOVERY LEDGER
