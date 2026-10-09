@@ -17977,4 +17977,14 @@ END OF ENTRY 382
   - Q-SM5 reversed (the apology stays owed into B02).
 - **Sequence (usage-limited):** one pass in `B01/br-2026-10-09/`, checks, then the EPUB and MD only.
 
+## §501 — B01 brutal-round pass done, 2026-10-09
+
+- **Done in the private manuscript:** `B01/br-2026-10-09/` (dc kept as the checkpoint).
+  - five revisers;
+  - a combined check-and-fix;
+  - EPUB and MD only (Q-BR11).
+- **Result:** about 141.4k words (from 163.4k); no guard breach.
+- **Report:** `reports/B01_BRUTAL_ROUND_PASS_REPORT_2026-10-09.md`.
+- **Next:** the author's read; three small items await him; serial modules and other copies are deferred.
+
 END RECOVERY LEDGER
