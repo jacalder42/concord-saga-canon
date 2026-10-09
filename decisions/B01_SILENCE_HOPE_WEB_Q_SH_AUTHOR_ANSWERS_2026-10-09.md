@@ -26,3 +26,17 @@ the next Mechanica §42A review.
 
 - The direct conflict. The author asked for the effects of taking **A, C and D together** before deciding; that analysis
   is running.
+
+## Follow-up on the direct conflict (author, 10-09): a lean, not yet a decision
+
+> *I lean A narrower C and D. We could also consider an alternate C event if the room is better saved for B2.
+> Consider if Baz arrives from Houston with baggage. Perhaps Caldas was already pursuing / intimidating him there.
+> Consider if e49 should be split into two chapters, are there other chapters this should be considered for as well?*
+
+**Lean:** A (medical exempt), a narrow C and D (the gallery).
+
+**Two studies are running before the decision:**
+
+- **Baz's Houston baggage**, with Caldas already pursuing or intimidating him there (offstage, before B01), and an
+  alternate narrow-C event that saves the Mid-City room for B02;
+- **chapter splits**, for E49 and any other chapter where a split would help.
