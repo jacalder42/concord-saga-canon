@@ -17870,4 +17870,16 @@ END OF ENTRY 382
 - **Also done:** E38 C4 and the E39/E39A confession-run fix are in `B01/cor-2026-10-09/`.
 - **Q-DC1–4 and Q-SH1–6 await the author.**
 
+## §493 — B01: Q-SH1–6 approved; A + C + D under analysis, 2026-10-09
+
+- **Author:** *"Agreed as recommended on SH items"*, recorded in
+  `decisions/B01_SILENCE_HOPE_WEB_Q_SH_AUTHOR_ANSWERS_2026-10-09.md` (approved design):
+  - the E49 tab beat;
+  - E00's net;
+  - Seraphine's web ladder (E03 / E30 / E41 / E49);
+  - E50 on her feeling;
+  - a new Act I interlude I00;
+  - the breadcrumb row and the B02 E41 note.
+- ***"Consider effects of yes to A C D"*:** the combined direct-conflict analysis is running.
+
 END RECOVERY LEDGER
