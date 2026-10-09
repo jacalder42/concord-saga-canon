@@ -17810,4 +17810,17 @@ END OF ENTRY 382
   results.
 - **Q-PC1–5 await the author** (`PRE_PASS_CHECKS_RESULTS.md`, private); then the correction pass.
 
+## §489 — B01: Q-PC1–5 approved; the correction pass starts, 2026-10-09
+
+- **Author:** *"Proceed as recommended"*, recorded in `decisions/B01_PRE_PASS_CHECKS_Q_PC_AUTHOR_ANSWERS_2026-10-09.md`:
+  - E23 stays folded;
+  - P1–P4 restored;
+  - the E48 plan with O2;
+  - L added;
+  - the ending confirmed, with its positioning line.
+- **Checks:** B02 does not depend on the Square reaching the line. V3 is canon-consistent but in tension with Q-GV2, so
+  it is not in this pass.
+- **The pass:** made in the private manuscript's new `B01/cor-2026-10-09/`, copied from `B01/eng-2026-10-09/`, which is
+  kept as the checkpoint. The engine branch was merged into the session branch so that both drafts are in one tree.
+
 END RECOVERY LEDGER
