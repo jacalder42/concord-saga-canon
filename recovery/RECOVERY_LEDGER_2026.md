@@ -17742,4 +17742,14 @@ END OF ENTRY 382
   in the private draft and `ebci/prose/AUDIO_NARRATION_SHEET_B01.md`; recorded as a follow-up in
   `decisions/B01_ENGINE_REVISION_ACCEPTANCE_AUTHOR_ANSWER_2026-10-09.md`.
 
+## §482 — B01 engine draft: editorial review, 2026-10-09
+
+- **Read-only review** of `B01/eng-2026-10-09/` (private): five full reads (three act ranges, Act II split in two, and
+  one cover-to-cover), slips checked against the text. Report: `reports/B01_ENGINE_DRAFT_EDITORIAL_REVIEW_2026-10-09.md`;
+  synthesis and reader files private in the manuscript's `draft-notes/eng-review-2026-10-09/`.
+- **Verdict 4 / 5** (middle 4.5; Book Two yes). Problems: the repeated withholding beat; a late, polite opposition; the
+  answer not in Seraphine's mouth; E48 as a ledger; about 7–10k of recaps and charm spans; under-paid threads.
+- **One design question for the author:** an earlier unnamed *who*-side contact in Act I. Nothing changed; the
+  author's read comes first.
+
 END RECOVERY LEDGER
