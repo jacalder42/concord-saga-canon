@@ -17853,4 +17853,21 @@ END OF ENTRY 382
   - PRs after this pass.
 - **Running:** the E38–E39A revision; two design studies (direct conflict; Silence and Hope).
 
+## §492 — B01: direct-conflict and Silence/Hope/web design studies, 2026-10-09
+
+- **Written** (private: the manuscript's `draft-notes/author-answers-2026-10-09b/`; summary
+  `proposals/B01_DIRECT_CONFLICT_AND_SILENCE_HOPE_WEB_OPTIONS_2026-10-09.md`).
+- **Direct conflict, recommended A (*medical exempt*):**
+  - a new chapter at about 80%, a civic contest the crew wins at Lucien's cost;
+  - Q-SD3 relaxed;
+  - about +2–2.6k words.
+- **Web, built on the author's direction:**
+  - Seraphine's E03 / E30 / E41 / E49 ladder;
+  - the prologue's net;
+  - the E49 tab beat;
+  - E50 on her feeling;
+  - an Act I interlude, a lean yes.
+- **Also done:** E38 C4 and the E39/E39A confession-run fix are in `B01/cor-2026-10-09/`.
+- **Q-DC1–4 and Q-SH1–6 await the author.**
+
 END RECOVERY LEDGER
