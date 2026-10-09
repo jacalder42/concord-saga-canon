@@ -17895,4 +17895,24 @@ END OF ENTRY 382
   - BazID's City Park locator corrected from E43 to E27A.
 - **Awaiting the author**, with Q-DC1–9.
 
+## §495 — B01: direct conflict, Houston and splits approved; the dc pass starts, 2026-10-09
+
+- **Author:** *"Proceed as recommended"*, plus a note: *a direct hint, reference or implication toward the Dominion
+  research program is OK*. Q-GV2 is relaxed to that extent; the faction stays unnamed. Recorded in
+  `decisions/B01_DIRECT_CONFLICT_HOUSTON_AND_SPLITS_AUTHOR_ANSWERS_2026-10-09.md`.
+- **Accepted:**
+  - A + C-1 + D;
+  - medium Houston baggage;
+  - Sal's line changed;
+  - E49 and E34 split;
+  - no length target.
+- **Applied (additive):**
+  - dated notes on `canon/characters/BazID.md` and `canon/factions/Dominions.md`;
+  - a C02 locator note (E27A);
+  - breadcrumb row `BC-WEB-FELT` (PROVISIONAL payoff).
+- **Next:**
+  - the pass in the manuscript's new `B01/dc-2026-10-09/` (cor kept as the checkpoint);
+  - checks and reading copies;
+  - PRs.
+
 END RECOVERY LEDGER
