@@ -17943,4 +17943,12 @@ END OF ENTRY 382
 - **Report:** `reports/B01_DC_SURGICAL_REVISION_MAP_2026-10-09.md`.
 - **Next:** Q-SM1–8 await the author.
 
+## §498 — B01: Q-SM1–8 approved; a protected-list audit, a critic read and a brutal round instructed, 2026-10-09
+
+- **Answered:** Q-SM1–8 as recommended (`decisions/B01_SURGICAL_MAP_Q_SM_AND_BRUTAL_ROUND_AUTHOR_ANSWERS_2026-10-09.md`).
+- **Instructed:** a critical audit of the protected scenes and prose (adjust around the cores, unprotect where no longer
+  needed); a book-critic read; brutal, unrestricted revision proposals on length, repetition and lack of resolution.
+- **Sequencing (the lead's):** the bounded pass is held for one integrated proposal. Each proposal is tagged with what
+  it reopens.
+
 END RECOVERY LEDGER
