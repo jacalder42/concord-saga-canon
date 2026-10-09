@@ -33,3 +33,16 @@ How they are being handled:
 - **The final chapter (E49A):** revised so its revelations have room.
 - **Inez:** audited for an independent agenda. The supplement option comes back as a proposal, with a draft for the
   author's choice.
+
+## Addendum, 10-09: the follow-ups done and the Inez supplement
+
+- **Done:**
+  - Ch 30 (E37) revised for clarity, with seven small edits and no beats cut;
+  - E49A given breathing room;
+  - Inez fixes F1 (her kept word at E34A) and F3 (E41A *again*).
+- **The author's answer to the Inez audit was *"A yes"*:**
+  - an Inez POV supplement, `S03` (about 1,120 words), goes between E44 and E46;
+  - **Mrs. Batson returns as a name.**
+
+  The lead adjusted the opening of `S03` so the delivery comes by a parish van while her own truck stays held (E41A;
+  Q-DC3).

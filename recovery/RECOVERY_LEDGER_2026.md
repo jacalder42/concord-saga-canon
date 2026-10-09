@@ -17997,4 +17997,14 @@ END OF ENTRY 382
   - the final chapter (E49A) given room, especially the Institute/collectors distinction;
   - an Inez agenda audit, with a supplement option.
 
+## §503 — B01: the follow-ups done; the Inez supplement inserted, 2026-10-09
+
+- **Done in `B01/br-2026-10-09/`:**
+  - Ch 30 clarity;
+  - E49A breathing room;
+  - Inez F1/F3;
+  - `S03`, the Inez POV supplement (the author's *"A yes"*; Mrs. Batson returns).
+- **Result:** about 142.9k words; EPUB and MD rebuilt.
+- **Record:** the addendum to `decisions/B01_TRANSMISSION_Q_TX_AND_FOLLOWUPS_AUTHOR_ANSWERS_2026-10-09.md`.
+
 END RECOVERY LEDGER
