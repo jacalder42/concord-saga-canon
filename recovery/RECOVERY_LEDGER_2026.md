@@ -17760,4 +17760,14 @@ END OF ENTRY 382
   `decisions/B01_ENGINE_DRAFT_REVIEW_AND_ANTAGONISTIC_RERUN_AUTHOR_ANSWER_2026-10-09.md` (approved design).
 - **Running:** three blind hostile readers on `B01/eng-2026-10-09/` (private).
 
+## §484 — B01 engine draft: antagonistic re-run done; merged correction list, 2026-10-09
+
+- **Re-run** (the 10-08 personas and questions, blind) on `B01/eng-2026-10-09/`: **3.5 / 5 from all three** (10-08: 3);
+  no DNF; the opposition is named at ~26% (was ~81%) and met at ~35%. Still convergent: the opposition is survived, never
+  beaten; the late truths arrive by confession; the genre plot pauses (ruled design).
+- **Merged correction list** (private, `draft-notes/eng-review-2026-10-09/MERGED_CORRECTION_LIST.md`); report
+  `reports/B01_ENGINE_DRAFT_ANTAGONISTIC_RERUN_AND_MERGED_LIST_2026-10-09.md`. It corrects §482: E49's line on the
+  opposition's want is a probable guard conflict (A3). **Q-EC1–8 await the author** (recommended: A, B, C1 a + b, C2; no
+  new Act I contact; no length target).
+
 END RECOVERY LEDGER
