@@ -17752,4 +17752,12 @@ END OF ENTRY 382
 - **One design question for the author:** an earlier unnamed *who*-side contact in Act I. Nothing changed; the
   author's read comes first.
 
+## §483 — B01 engine draft: antagonistic re-run before the corrections, 2026-10-09
+
+- **Author:** the review's corrections *"sound like the right corrections"*; on Claude's recommendation, *"Proceed"*:
+  an antagonistic re-run **before** the corrections (the 10-08 personas and questions, blind, comparable), then one
+  merged correction list for the author, one pass, a changed-chapter blind check, and his read. Recorded in
+  `decisions/B01_ENGINE_DRAFT_REVIEW_AND_ANTAGONISTIC_RERUN_AUTHOR_ANSWER_2026-10-09.md` (approved design).
+- **Running:** three blind hostile readers on `B01/eng-2026-10-09/` (private).
+
 END RECOVERY LEDGER
