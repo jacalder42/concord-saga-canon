@@ -213,6 +213,79 @@ manuscript folder (the integration draft kept as the checkpoint) → a changed-z
 plus a word count against the target → reading copies → the author's read. The serial module list is regenerated from
 the result.
 
+---
+
+## 10. Addendum, 2026-10-09: single-purpose scenes and handoffs (Q-ES15–18)
+
+**The author's question:** *are there any scenes that are only serving one purpose? If so, could those scenes be cut
+and their purpose/payoff handed off to a compatible scene?* Four readers segmented the whole book into scenes (328 in
+the four tallies; the `---` breaks plus unbroken chapters), tagged each scene's functions (only what changes or is
+planted counts), and decided every single-function scene: keep, hand off (to a named receiving scene, with what moves,
+point of view, calendar, knowledge state, gain and price), or merge. Private evidence: `F1`–`F4` beside the other
+analyses.
+
+**The finding: B01 is dense at scene level.** Few scenes carry only one job, and most of those are short pauses or
+plants that pay off within the same chapter. The real slack is restatement *inside* multi-function scenes, which the
+cut map already counts.
+
+| Stretch | Scenes | Single-function (or one trivial second) | Decided | New words saved beyond the cut map |
+| --- | --- | --- | --- | --- |
+| Act I (Prologue–Ch 11, S02) | 107 | 18 | 9 keep; merges and one handoff | ~450 |
+| Act II, Ch 12–23 | 69 | 20 | 15 merge or hand off, 1 cut, 4 keep; 69 → 49 scenes, 16 gain a function | ~1,100 |
+| Act II, Ch 24–34 and I01 | 79 | 14 | merges A–I; protected and rest scenes kept | ~820 |
+| Act III, Ch 35–E50 | 73 | 14 | 5 keep, 7 merge, 4 hand off | ~700 |
+| **Total** | **328** | **66** | | **~3.1k** |
+
+**What it does to the length:** the honest landing in §5 moves from about 153–156k to **about 150–153k**, with no scene
+of real function cut and no new scene added. Every engine-sheet addition has a landing place inside an existing scene
+(none needs a new one), which is what keeps the net from regrowing.
+
+**The strongest handoffs and merges** (all within one point of view and day unless noted):
+
+1. **Ch 21:** Isaiah's clip and Tamika's typed consent shown once, at the card table, to all three of them.
+2. **Ch 17:** Lucien forms the ground theory and Elísabet takes it apart in the same scene.
+3. **Ch 12:** the *map of her* and the unsent letter become one scene; the central question goes into the letter.
+4. **Ch 43:** Guidry's call moves onto the Cathedral steps, on speaker: Lucien chooses to let the others hear his file
+   (one line of Guidry's needs handling, since the others now hear it).
+5. **Ch 8:** three short scenes fold into Seraphine's pacing scene, which gains a theory killed and the reason her phone
+   is face up.
+6. **Ch 28:** the four wrong days and the school windows' sign (S2–S3) replace the chapter's recap paragraph.
+7. **Ch 30:** Lucien's correction to Guidry folds into the laundromat; Caldas's bus-stop sighting folds into the Lacoste
+   collision.
+8. **Ch 41:** Lucien's sitting datum (nobody hurt where people sat when he shouted) is said aloud, the only evidence on
+   the page for the plan the crew uses at the Square.
+
+**Kept on purpose:** protected beats; the interlude; the only pure-reward rest in Act II (Ch 26); St. Roch (it pays
+twice, at Ch 33 and Ch 43; the suspense analysis's proposed cut is withdrawn); Mr. Duplessis (packet E37's named beat
+and the chapter's only rest; cutting it is offered at its price, about 450 words); Sal (Ch 9); the goose (Ch 23, which
+sets up Caldas's line); the river note; the microsleep; the silence holding (Ch 42).
+
+**Corrections to this proposal found by the scene pass:**
+
+- **The cut map's Ch 16 Denise cut is withdrawn.** Ch 31's *you said it twice* pays off Seraphine's two *this week*
+  promises in that scene. It is compressed instead (about 340 out), keeping both promises and Denise's deadline.
+- **The Lacoste collision's date (§4) is fixed:** Ch 31 is eight days after it, not three, and a glazier open on Sunday
+  needs a line; the collision moves to the next weekday morning, or Lacoste's Sunday hours are stated.
+- **R1 gives Seraphine the retriever's face before Kerlerec**, which the knowledge ledger's prints and the Ch 44 film
+  match must then agree with (re-read at packet build).
+- **Moving the school sign into Ch 28** needs Baz's choice on the page: he keeps it (recommended, his silence costs) or
+  tells.
+- **S1 already exists** in Ch 9 (Sal's cost); the Ch 12 addition only links it to the tick.
+- **One small fix:** the city's notice should give the same 311 number the later glass notice uses.
+
+**Flags, not decisions:** two plants with no B01 payoff (Mrs. Arceneaux's dish towel, which can be paid in one clause at
+Ch 39; the hum, planted three times in Act II and left as a series plant for B03); one unpaid line at the Vein
+(Ch 3: *she did not know who had come in*), which either pays or goes.
+
+**Questions:**
+
+| Q | Question | Recommended |
+| --- | --- | --- |
+| Q-ES15 | Apply the scene merges and handoffs in F1–F4, with every engine-sheet addition landing inside an existing scene; landing about 150–153k | Yes |
+| Q-ES16 | Caldas's typed name: (a) only in Ch 11, where Lucien reads the summons alone, at no cost; or (b) Baz also sees it in Ch 15 and hides it (a stronger move; rewrites his lobby recognition, about 60 words) | (a) |
+| Q-ES17 | Ch 14's *Melpomene* call at the gate (a heat beat whose payload sc 8 and Ch 18 already carry): cut, or keep a 25-word version | The 25-word version |
+| Q-ES18 | The oxygen-account email moved beside Seraphine's second refusal (Ch 43) gives the refusal an immediate price but invites the reader to blame the woman (the reopened *no blame, just inference*); or place it at Ch 42, ambiguous and without the price | Ch 42 |
+
 ## What this does not change
 
 No ruling, card, rule, grid row, packet or manuscript text changes. The integration draft (`B01/int-2026-10-08/`) stays

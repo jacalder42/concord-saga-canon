@@ -17695,4 +17695,16 @@ END OF ENTRY 382
   the hands). Exceptions shown with their price, per the standing direction.
 - **Q-ES1–14 await the author.**
 
+## §477 — B01 engine sheet addendum: single-purpose scenes and handoffs; Q-ES15–18, 2026-10-09
+
+- **Author:** *are there any scenes that are only serving one purpose? … could those scenes be cut and their
+  purpose/payoff handed off to a compatible scene?*
+- **Done:** four private scene readings (`draft-notes/engine-sheet-2026-10-08/F1`–`F4`): 328 scenes segmented and
+  tagged; 66 carry one function (or one trivial second); every one decided (keep, hand off, merge). B01 is dense at scene
+  level: about 3.1k words saved beyond the cut map, moving the honest landing to about 150–153k with no scene of real
+  function cut, and every engine addition placed inside an existing scene.
+- **Corrections to the proposal:** the cut map's Ch 16 Denise cut withdrawn (it would break Ch 31); the Lacoste
+  collision's date; R1's knowledge consequence; the school sign needs Baz's choice; S1 already in Ch 9; one 311 number.
+- **Recorded in** `proposals/B01_ENGINE_SHEET_PROPOSAL_2026-10-08.md` §10. **Q-ES1–18 await the author.**
+
 END RECOVERY LEDGER
