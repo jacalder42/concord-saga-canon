@@ -17987,4 +17987,14 @@ END OF ENTRY 382
 - **Report:** `reports/B01_BRUTAL_ROUND_PASS_REPORT_2026-10-09.md`.
 - **Next:** the author's read; three small items await him; serial modules and other copies are deferred.
 
+## §502 — B01: the transmission approved and inserted; follow-ups on Ch 30, the final chapter and Inez, 2026-10-09
+
+- **Answered:** Q-TX1–4, all yes (`decisions/B01_TRANSMISSION_Q_TX_AND_FOLLOWUPS_AUTHOR_ANSWERS_2026-10-09.md`).
+  - `T01` is inserted after E01 in `B01/br-2026-10-09/`.
+  - V3 is reopened for this document only.
+- **Instructed:**
+  - Ch 30 (E37) revised for structural clarity;
+  - the final chapter (E49A) given room, especially the Institute/collectors distinction;
+  - an Inez agenda audit, with a supplement option.
+
 END RECOVERY LEDGER
