@@ -17791,4 +17791,11 @@ END OF ENTRY 382
 - **Q-UD1–12** (private) supersede Q-EC1–8 and Q-AT1–11, and await the author. Recommended: one correction pass on ENG
   with restorations, then a changed-chapter blind check and a continuity check, then his read; no length target.
 
+## §487 — B01 engine draft: Q-UD1–12 agreed; four pre-pass checks instructed, 2026-10-09
+
+- **Author:** *"Agreed"* to Q-UD1–12 as recommended (O1 amends approved E48 design), recorded in
+  `decisions/B01_ENGINE_DRAFT_CONSOLIDATED_DECISIONS_Q_UD_AUTHOR_ANSWERS_2026-10-09.md`.
+- **Added before the pass:** test the E23/E24 chapter break; a few INT-only secondary-character details; E48's setup
+  prepared earlier without growth; a final payoff audit for one more narrow discovery. Running.
+
 END RECOVERY LEDGER
