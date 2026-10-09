@@ -17798,4 +17798,16 @@ END OF ENTRY 382
 - **Added before the pass:** test the E23/E24 chapter break; a few INT-only secondary-character details; E48's setup
   prepared earlier without growth; a final payoff audit for one more narrow discovery. Running.
 
+## §488 — B01 engine draft: four pre-pass checks done; adversarial review answered, 2026-10-09
+
+- **Checks (private, the manuscript's `draft-notes/eng-review-2026-10-09/PC1`–`PC4`):**
+  - keep E23 folded;
+  - four small INT secondary-character restorations (~110 words);
+  - E48's plan stays but its furniture moves earlier (about −350), which funds O2 (Lucien brings Sal the withdrawal);
+  - **no further discovery is earned**: the ending plus P1/V1/V2 is the right choice, with one optional E49 beat and
+    one watch item (the Square case's timing) for the blind check.
+- **A forwarded adversarial reader review** (payoff, Lucien's accountability, an opposition loss) is answered by those
+  results.
+- **Q-PC1–5 await the author** (`PRE_PASS_CHECKS_RESULTS.md`, private); then the correction pass.
+
 END RECOVERY LEDGER
