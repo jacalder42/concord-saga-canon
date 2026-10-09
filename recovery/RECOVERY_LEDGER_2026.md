@@ -17727,4 +17727,13 @@ END OF ENTRY 382
   priced cuts); three small pre-existing items (the Square woman's program, Kiara/Kiana, a jack count).
 - **Next:** the author's read (reading copies `B01_ENG_*`, side-by-side against the integration draft).
 
+## §480 — B01 engine revision accepted; serial modules regenerated, 2026-10-09
+
+- **Author:** *"Proceed"* on the engine revision report: the draft is accepted at about 157k (156,781 words) and the
+  serial module list is regenerated (47 modules, private). Recorded in
+  `decisions/B01_ENGINE_REVISION_ACCEPTANCE_AUTHOR_ANSWER_2026-10-09.md` (approved design).
+- **Corrections made** under existing guards: the Square woman's program removed (prop rule); the gallery's jack count.
+  Kiara/Kiana left for the author. Reading copies rebuilt.
+- **Next:** the author's read of `B01/eng-2026-10-09/`.
+
 END RECOVERY LEDGER
