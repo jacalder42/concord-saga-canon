@@ -17707,4 +17707,13 @@ END OF ENTRY 382
   collision's date; R1's knowledge consequence; the school sign needs Baz's choice; S1 already in Ch 9; one 311 number.
 - **Recorded in** `proposals/B01_ENGINE_SHEET_PROPOSAL_2026-10-08.md` §10. **Q-ES1–18 await the author.**
 
+## §478 — B01 engine sheet answered: Q-ES1–18, 2026-10-09
+
+- **Author:** *"I lean toward 43"* (Q-ES18: the oxygen-account email in Ch 43, against the recommended Ch 42, staged so
+  blame stays inference), then *"Rest as recommended"*. Recorded in
+  `decisions/B01_ENGINE_SHEET_Q_ES_AUTHOR_ANSWERS_2026-10-09.md` (approved design).
+- **Next:** revision packets for the changed chapters, the revision in a new manuscript folder (the integration draft
+  kept as the checkpoint), changed-zone continuity, causality and guard checks with a word count against about
+  150–153k, reading copies, and the author's read. The serial module list is regenerated from the result.
+
 END RECOVERY LEDGER
