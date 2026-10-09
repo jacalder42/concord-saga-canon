@@ -17838,4 +17838,19 @@ END OF ENTRY 382
   - four B02 notes.
 - **Next:** the author's read.
 
+## §491 — B01: answers to the post-correction open questions, 2026-10-09
+
+- **Recorded in** `decisions/B01_CORRECTION_PASS_OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-10-09.md`:
+  - P4 cut;
+  - V3 seeds B02 (Q-GV2 *too strict*, per the author);
+  - carry-forward notes added to B02 E01, B02 E05 and B03 E15 (control layer);
+  - rental and Sal's lines left;
+  - **a direct conflict is required for B01 to stand alone** (design options first);
+  - the confession run corrected;
+  - C4 added;
+  - the folder-tab beat at E49;
+  - Silence and Hope as hint-givers, the prologue and once per act (design options first);
+  - PRs after this pass.
+- **Running:** the E38–E39A revision; two design studies (direct conflict; Silence and Hope).
+
 END RECOVERY LEDGER
