@@ -17951,4 +17951,17 @@ END OF ENTRY 382
 - **Sequencing (the lead's):** the bounded pass is held for one integrated proposal. Each proposal is tagged with what
   it reopens.
 
+## §499 — B01 DC: brutal round done, integrated proposal Q-BR1–11, 2026-10-09
+
+- **Done (private manuscript, `draft-notes/brutal-round-2026-10-09/`):**
+  - two blind critic reads (3½ and 3 / 5; both put the publishable weight at about 115–125k);
+  - a protected-list audit (78 items; the approved list is about 45, grown to about 110 by assistant maps; about 6.4k
+    recoverable around cores);
+  - four unrestricted designs (length, repetition, resolution, structure).
+- **Integrated proposal:** three scales (about 150–155k / 135–140k / 120–125k). Recommended: seven movements with three
+  POV owners. No ruled canon is reopened.
+- **Correction:** Q-SM5 contradicts B02 E05 (the apology is still owed); reversal proposed.
+- **Report:** `reports/B01_DC_BRUTAL_ROUND_CRITIC_READS_AND_INTEGRATED_PROPOSAL_2026-10-09.md`.
+- **Next:** Q-BR1–11 await the author.
+
 END RECOVERY LEDGER
