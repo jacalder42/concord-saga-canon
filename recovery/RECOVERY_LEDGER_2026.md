@@ -17770,4 +17770,14 @@ END OF ENTRY 382
   opposition's want is a probable guard conflict (A3). **Q-EC1–8 await the author** (recommended: A, B, C1 a + b, C2; no
   new Act I contact; no length target).
 
+## §485 — B01 engine draft: the author's Act I–III thoughts, analysed, 2026-10-09
+
+- **Author:** eleven thoughts across the three acts: narrowing, Lucien's cost and learning, Seraphine's own want, a
+  false suspicion, an early sighting, the payoff, closure, a concrete answer, the withheld name, and the antagonists'
+  positions.
+- **Done:** three read-only analyses against the guards and the keep-list; a proposal
+  `proposals/B01_ENGINE_DRAFT_AUTHOR_THOUGHTS_OPTIONS_2026-10-09.md` (full version private). It extends the merged list
+  (§484), withdraws its A4 (a protected line) and flags its B4 trims on protected spans. **Q-AT1–11 await the author**,
+  together with Q-EC1–8.
+
 END RECOVERY LEDGER
