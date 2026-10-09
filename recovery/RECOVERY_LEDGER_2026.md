@@ -17780,4 +17780,15 @@ END OF ENTRY 382
   (§484), withdraws its A4 (a protected line) and flags its B4 trims on protected spans. **Q-AT1–11 await the author**,
   together with Q-EC1–8.
 
+## §486 — B01 engine draft: forwarded assessment and INT → ENG comparison; one decision set, 2026-10-09
+
+- **Author forwarded** a whole-novel assessment of ENG. It was checked against the text: two small misstatements, and
+  its priorities match the Q-EC/Q-AT items. It adds Elísabet's objective and protection of texture, and asks for an
+  INT → ENG comparison before any change.
+- **Comparison done** (three readers, both drafts in full): ENG is the better base everywhere (E41 the exception); about
+  1.8k words of muscle to restore; new seams listed. Report:
+  `reports/B01_ENGINE_DRAFT_ASSESSMENT_AND_INT_COMPARISON_2026-10-09.md`.
+- **Q-UD1–12** (private) supersede Q-EC1–8 and Q-AT1–11, and await the author. Recommended: one correction pass on ENG
+  with restorations, then a changed-chapter blind check and a continuity check, then his read; no length target.
+
 END RECOVERY LEDGER
