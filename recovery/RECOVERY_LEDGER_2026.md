@@ -17882,4 +17882,17 @@ END OF ENTRY 382
   - the breadcrumb row and the B02 E41 note.
 - ***"Consider effects of yes to A C D"*:** the combined direct-conflict analysis is running.
 
+## §494 — B01: Baz's Houston baggage, alternate C and chapter splits studied, 2026-10-09
+
+- **Private studies** in the manuscript's `draft-notes/author-answers-2026-10-09b/`:
+  `DESIGN_BAZ_HOUSTON_AND_C.md` (Q-BH1–6) and `DESIGN_CHAPTER_SPLITS.md` (Q-SP1–5).
+- **Recommended:**
+  - medium Houston baggage: a funder's review asked who took the tenants' statements; Baz refused to release the consents
+    and carries the box. It is paper only and offstage, so it is backstory, and Caldas's ladder is unchanged;
+  - alternate C = C-1, the same review demanding the consents, which saves the Mid-City room for B02;
+  - Sal's *"Houston called"* becomes *"The owner called"*;
+  - split E49 (event / reckoning) and E34; keep the others;
+  - BazID's City Park locator corrected from E43 to E27A.
+- **Awaiting the author**, with Q-DC1–9.
+
 END RECOVERY LEDGER
