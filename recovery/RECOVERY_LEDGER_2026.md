@@ -17928,4 +17928,19 @@ END OF ENTRY 382
 - **Report:** `reports/B01_DIRECT_CONFLICT_PASS_REPORT_2026-10-09.md`.
 - **Next:** the author's read; then the PRs to `main` (answer 11, §491).
 
+## §497 — B01 DC: surgical revision map, 2026-10-09
+
+- **Asked by:** a forwarded full read of the DC draft, which recommended a chapter-by-chapter surgical map toward about
+  145k.
+- **Done:** three range readers, read only (manuscript `draft-notes/surgical-map-2026-10-09/`).
+- **Result:** T1/T2/T3 = −1,168 / −2,463 / −6,327 words (0.7 / 1.5 / 3.9%). **145k is not reachable without reopening
+  protected or approved material.** Priority 1 is a matter of audibility (about 35 words). Flags:
+  - the *Bastien* name gap;
+  - record naming;
+  - Act I's restrained endings;
+  - Lucien's apology to Elísabet;
+  - Mr. Vidrine's tank.
+- **Report:** `reports/B01_DC_SURGICAL_REVISION_MAP_2026-10-09.md`.
+- **Next:** Q-SM1–8 await the author.
+
 END RECOVERY LEDGER
