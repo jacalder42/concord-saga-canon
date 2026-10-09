@@ -17823,4 +17823,19 @@ END OF ENTRY 382
 - **The pass:** made in the private manuscript's new `B01/cor-2026-10-09/`, copied from `B01/eng-2026-10-09/`, which is
   kept as the checkpoint. The engine branch was merged into the session branch so that both drafts are in one tree.
 
+## §490 — B01 correction pass done, 2026-10-09
+
+- **Done in the private manuscript:** `B01/cor-2026-10-09/`, with `B01/eng-2026-10-09/` kept as the checkpoint.
+  - Process: packets, ten reviser groups, three checks, one fix round, and reading copies `B01_COR_*` plus a
+    side-by-side against ENG.
+  - **158,085 words.**
+  - No guard breach; all causal chains hold; 104 of 118 items delivered, none missing.
+  - **Blind read 4 / 5**; the collectors' foreknowledge reads as *suggested, never confirmed*.
+- **Report:** `reports/B01_CORRECTION_PASS_REPORT_2026-10-09.md`.
+- **Open:**
+  - P4 (Caro's calendar), held because it reverses Q-ES13;
+  - V3 (Q-GV2 tension);
+  - four B02 notes.
+- **Next:** the author's read.
+
 END RECOVERY LEDGER
