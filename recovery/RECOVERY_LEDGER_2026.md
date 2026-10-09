@@ -17716,4 +17716,15 @@ END OF ENTRY 382
   kept as the checkpoint), changed-zone continuity, causality and guard checks with a word count against about
   150–153k, reading copies, and the author's read. The serial module list is regenerated from the result.
 
+## §479 — B01 engine revision done, 2026-10-09
+
+- **Done in the private manuscript:** `B01/eng-2026-10-09/` (the integration draft kept as the checkpoint): revision
+  packets (G1–G17, 42 key packets, ten groups), ten revisers, a second-reader trim, three whole-book checks and one fix
+  round. Every approved Q-ES item is on the page; no guard breach; every causal chain holds.
+- **Length: 156,802 words**, above the approved ~150–153k: the groups and the trim stopped at the same floor rather
+  than cut working material.
+- **Report:** `reports/B01_ENGINE_REVISION_REPORT_2026-10-09.md`. Left for the author: the length (accept ~157k or name
+  priced cuts); three small pre-existing items (the Square woman's program, Kiara/Kiana, a jack count).
+- **Next:** the author's read (reading copies `B01_ENG_*`, side-by-side against the integration draft).
+
 END RECOVERY LEDGER
