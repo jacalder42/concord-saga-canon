@@ -36,3 +36,29 @@ changes no ruling, card, rule or grid row. B02/B03 packets receive control-layer
 - The direct-conflict design (answer 6).
 - The Silence and Hope design (answer 9, second part).
 - Any amendment to Q-GV2.
+
+## Follow-up: Seraphine feels the web (author, 10-09)
+
+**The author's idea:** *"Could Seraphine feel a hint of the Veil, perhaps an interconnected web between people, etc. Is
+that what prompts Silence and Hope's close."*
+
+**His answers to Claude's five questions:**
+
+> *1 agreed 2 I think the web and events can be separate. The web is where the Veil still works, the events are the
+> harbingers of its failures, where the Veil has worn too thin. 3 agreed mostly. We're talking about a million word long
+> progression. It shouldn't be a straight line of revelation. It should operate like a sine curve with hills and valleys
+> along an overall trajectory. 4 I think her feeling is what prompt Silence and Hope, Baz just gives it a name for the
+> reader around the same time. 5. Yes*
+
+Recorded as **direction for the design study** (approved design once the study's options are chosen):
+
+1. She feels it in a small ladder of moments, as sensation and image only. Nothing is named or certain.
+2. **The web is where the Veil still works; the events are the harbingers of its failures, where it has worn too thin.**
+   The web is felt between people; the events keep to places. B01's answer stands.
+3. **Revelation runs as a sine curve with hills and valleys along an overall trajectory**, across the million-word saga,
+   not a straight line. B01's ladder has its own rise and fall and is the saga's first rise.
+4. **Her feeling is what draws Silence and Hope's attention in E50.** Baz's word names it for the reader at about the
+   same time.
+5. The prologue's threads and networks echo what she later feels.
+
+It changes no Mechanica text. Point 2 is consistent with Mechanica §42A: the wounds are the cap's breaks.
