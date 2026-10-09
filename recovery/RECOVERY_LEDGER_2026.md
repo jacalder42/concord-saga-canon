@@ -17915,4 +17915,17 @@ END OF ENTRY 382
   - checks and reading copies;
   - PRs.
 
+## §496 — B01 direct-conflict pass done, 2026-10-09
+
+- **Done in the private manuscript:** `B01/dc-2026-10-09/` (cor kept as the checkpoint).
+  - Seraphine's web ladder, the prologue's net, I00, E50 on her feeling;
+  - E41A (medical exempt); C-1 (the Houston review); D (the gallery); Baz's Houston box;
+  - one research-program hint;
+  - E34 and E49 split.
+- **Process:** six reviser groups (two relaunched after a usage-limit stop), three checks, one fix round, reading copies
+  `B01_DC_*`, 50 serial modules.
+- **Results:** 163,423 words; no guard breach; blind read 4 / 5.
+- **Report:** `reports/B01_DIRECT_CONFLICT_PASS_REPORT_2026-10-09.md`.
+- **Next:** the author's read; then the PRs to `main` (answer 11, §491).
+
 END RECOVERY LEDGER
