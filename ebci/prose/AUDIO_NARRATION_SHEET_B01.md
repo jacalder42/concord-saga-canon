@@ -94,7 +94,7 @@ or a TTS engine is likely to say. **[F]** = stated by a source; **[R]** = this s
 | Mrs. Delahoussaye | DEL-uh-HOO-sigh | | E21 |
 | Mrs. Duhon; Mrs. Dupuy | DOO-hon; doo-PWEE [ATC] | | E10; E47 |
 | Jalen Plaisance | JAY-len PLAY-zahns [ATC] | | E46 |
-| Kiana; Yvette | kee-AH-nuh; ee-VET | | E40 |
+| Janelle; Yvette | juh-NELL; ee-VET | | E40 |
 | Delphine; Odette; Cecile | del-FEEN; oh-DET; seh-SEEL | | E37; E34; E29 |
 | Miss Gant; Mr. Alcide | GANT; al-SEED | | E34; E31 |
 | Chuy; Uncle Beto; Tía | CHOO-ee; BEH-toh; TEE-ah [F, ledger] | The soccer family in Baz's E43 | E43 |

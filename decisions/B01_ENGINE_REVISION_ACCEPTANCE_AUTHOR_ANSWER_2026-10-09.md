@@ -33,3 +33,11 @@ list is regenerated from its order (which the report said would follow approval)
 ## What this does not change
 
 The approved Q-ES answers and every guard; `B01/int-2026-10-08/` stays as the checkpoint.
+
+## Follow-up, 2026-10-09: Kiana renamed
+
+> *Rename Kiana*
+
+The young woman on Inez's list at Ch 34 (E40) is renamed **Janelle**, a name used nowhere else in the draft, so she is
+no longer confused with Kiara (Ch 20, E25). Applied in `B01/eng-2026-10-09/` and the audio narration sheet; reading
+copies rebuilt. She is a minor, unregistered character; no card or registry row changes.

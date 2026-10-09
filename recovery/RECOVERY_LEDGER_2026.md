@@ -17736,4 +17736,10 @@ END OF ENTRY 382
   Kiara/Kiana left for the author. Reading copies rebuilt.
 - **Next:** the author's read of `B01/eng-2026-10-09/`.
 
+## §481 — B01: Kiana renamed Janelle, 2026-10-09
+
+- **Author:** *"Rename Kiana"*. The minor character at Ch 34 (E40) is now **Janelle**, distinct from Kiara (Ch 20); applied
+  in the private draft and `ebci/prose/AUDIO_NARRATION_SHEET_B01.md`; recorded as a follow-up in
+  `decisions/B01_ENGINE_REVISION_ACCEPTANCE_AUTHOR_ANSWER_2026-10-09.md`.
+
 END RECOVERY LEDGER
