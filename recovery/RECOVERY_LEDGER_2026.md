@@ -17964,4 +17964,17 @@ END OF ENTRY 382
 - **Report:** `reports/B01_DC_BRUTAL_ROUND_CRITIC_READS_AND_INTEGRATED_PROPOSAL_2026-10-09.md`.
 - **Next:** Q-BR1–11 await the author.
 
+## §500 — B01: Q-BR1–11 answered; the brutal-round pass starts, 2026-10-09
+
+- **Answered:** `decisions/B01_BRUTAL_ROUND_Q_BR_AUTHOR_ANSWERS_2026-10-09.md`.
+  - Option 2 (seven movements);
+  - the protected list reset;
+  - the repetition rules;
+  - Shape A;
+  - Caldas presented as the opposition, with his side named "the Institute" at E49A and revealed there as one part;
+  - the folder tab planted;
+  - Inez's POV removed;
+  - Q-SM5 reversed (the apology stays owed into B02).
+- **Sequence (usage-limited):** one pass in `B01/br-2026-10-09/`, checks, then the EPUB and MD only.
+
 END RECOVERY LEDGER
