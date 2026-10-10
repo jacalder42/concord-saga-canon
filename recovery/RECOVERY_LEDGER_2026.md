@@ -18043,4 +18043,17 @@ END OF ENTRY 382
   event.
 - **The author's test:** rules may be reopened if worth the cost and the saga does not break.
 
+## §507 — B01: Q-OW1–6 approved, 2026-10-10
+
+- **Recorded in:** `decisions/B01_OPPOSITION_WIN_CLIMAX_Q_OW_AUTHOR_ANSWERS_2026-10-10.md`.
+- **Approved:**
+  - the desk-note supplement `S04`;
+  - the R. request refused at E22;
+  - the bet and the partial identification;
+  - the microphone climax;
+  - the physical arrival (reverses *sub-audible / no damage*);
+  - the filming.
+- **Downstream:** B02's intimidation beat becomes a full scene.
+- **Next:** one bounded pass in `B01/br-2026-10-09/`.
+
 END RECOVERY LEDGER
