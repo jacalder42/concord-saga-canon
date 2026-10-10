@@ -18017,4 +18017,20 @@ END OF ENTRY 382
   - EPUB and MD rebuilt (about 142.9k words).
 - **Protected unless a blind reader finds a problem:** the transmission, the Inez supplement and the coda.
 
+## §505 — B01: blind critic reads of the br draft, 2026-10-10
+
+- **Done:** the same two critic personas as §499, blind, on the br draft (about 142.9k words). The reads are in the
+  private manuscript's `draft-notes/blind-reads-2026-10-10/`.
+- **Scores:** literary 3½ / 5, genre 3 / 5 (unchanged from §499).
+- **Where they converge:**
+  - cut to about 110–115k;
+  - the opposition on stage with a costly mid-book contest;
+  - the investigation should win one thing;
+  - *Veil* should be seeded earlier.
+
+  Neither registered the E31 folder-tab plant or the E49A tally as a win.
+- **Checked:** the line-tic counts are overstated (*"said, to the"* 17, not 30+; *long moment* 5). The genre critic's
+  cut list includes E27A, the opposition's on-stage scene, which works against its own ask.
+- **Next:** the author decides.
+
 END RECOVERY LEDGER
