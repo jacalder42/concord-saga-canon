@@ -18056,4 +18056,16 @@ END OF ENTRY 382
 - **Downstream:** B02's intimidation beat becomes a full scene.
 - **Next:** one bounded pass in `B01/br-2026-10-09/`.
 
+## §508 — B01: Q-OW pass done, 2026-10-10
+
+- **Done in `B01/br-2026-10-09/`:**
+  - the desk-note supplement `S04`;
+  - E22/E25 (R.'s request refused; the round lost);
+  - A (the folder tab, E31/E36);
+  - the bet (E48), the microphone climax with a physical arrival (E49), and the count as the check with the patch kept
+    off R.'s copy (E49A).
+- **Checks:** one check-and-fix found eight fixes; the guards hold.
+- **Result:** about 143.9k words; EPUB and MD rebuilt.
+- **For the author:** seven possibles in the manuscript's `draft-notes/opposition-win-climax-2026-10-10/CHECK_AND_FIX.md`.
+
 END RECOVERY LEDGER
