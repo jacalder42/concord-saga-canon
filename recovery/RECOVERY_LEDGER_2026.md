@@ -18033,4 +18033,14 @@ END OF ENTRY 382
   cut list includes E27A, the opposition's on-stage scene, which works against its own ask.
 - **Next:** the author decides.
 
+## §506 — B01: A and B approved; a design proposal on the opposition, a win and the climax instructed, 2026-10-10
+
+- **Recorded in:** `decisions/B01_BLIND_READ_FOLLOWUP_OPPOSITION_WIN_CLIMAX_AUTHOR_DIRECTION_2026-10-10.md`.
+- **Approved:**
+  - A: the folder-tab plant made visible;
+  - B: the tally becomes a prediction the crew acts on.
+- **Instructed:** proposals on the opposition earlier, a bigger win (partial identification) and a stronger climax
+  event.
+- **The author's test:** rules may be reopened if worth the cost and the saga does not break.
+
 END RECOVERY LEDGER
