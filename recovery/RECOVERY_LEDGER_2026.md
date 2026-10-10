@@ -17742,4 +17742,330 @@ END OF ENTRY 382
   in the private draft and `ebci/prose/AUDIO_NARRATION_SHEET_B01.md`; recorded as a follow-up in
   `decisions/B01_ENGINE_REVISION_ACCEPTANCE_AUTHOR_ANSWER_2026-10-09.md`.
 
+## §482 — B01 engine draft: editorial review, 2026-10-09
+
+- **Read-only review** of `B01/eng-2026-10-09/` (private): five full reads (three act ranges, Act II split in two, and
+  one cover-to-cover), slips checked against the text. Report: `reports/B01_ENGINE_DRAFT_EDITORIAL_REVIEW_2026-10-09.md`;
+  synthesis and reader files private in the manuscript's `draft-notes/eng-review-2026-10-09/`.
+- **Verdict 4 / 5** (middle 4.5; Book Two yes). Problems: the repeated withholding beat; a late, polite opposition; the
+  answer not in Seraphine's mouth; E48 as a ledger; about 7–10k of recaps and charm spans; under-paid threads.
+- **One design question for the author:** an earlier unnamed *who*-side contact in Act I. Nothing changed; the
+  author's read comes first.
+
+## §483 — B01 engine draft: antagonistic re-run before the corrections, 2026-10-09
+
+- **Author:** the review's corrections *"sound like the right corrections"*; on Claude's recommendation, *"Proceed"*:
+  an antagonistic re-run **before** the corrections (the 10-08 personas and questions, blind, comparable), then one
+  merged correction list for the author, one pass, a changed-chapter blind check, and his read. Recorded in
+  `decisions/B01_ENGINE_DRAFT_REVIEW_AND_ANTAGONISTIC_RERUN_AUTHOR_ANSWER_2026-10-09.md` (approved design).
+- **Running:** three blind hostile readers on `B01/eng-2026-10-09/` (private).
+
+## §484 — B01 engine draft: antagonistic re-run done; merged correction list, 2026-10-09
+
+- **Re-run** (the 10-08 personas and questions, blind) on `B01/eng-2026-10-09/`: **3.5 / 5 from all three** (10-08: 3);
+  no DNF; the opposition is named at ~26% (was ~81%) and met at ~35%. Still convergent: the opposition is survived, never
+  beaten; the late truths arrive by confession; the genre plot pauses (ruled design).
+- **Merged correction list** (private, `draft-notes/eng-review-2026-10-09/MERGED_CORRECTION_LIST.md`); report
+  `reports/B01_ENGINE_DRAFT_ANTAGONISTIC_RERUN_AND_MERGED_LIST_2026-10-09.md`. It corrects §482: E49's line on the
+  opposition's want is a probable guard conflict (A3). **Q-EC1–8 await the author** (recommended: A, B, C1 a + b, C2; no
+  new Act I contact; no length target).
+
+## §485 — B01 engine draft: the author's Act I–III thoughts, analysed, 2026-10-09
+
+- **Author:** eleven thoughts across the three acts: narrowing, Lucien's cost and learning, Seraphine's own want, a
+  false suspicion, an early sighting, the payoff, closure, a concrete answer, the withheld name, and the antagonists'
+  positions.
+- **Done:** three read-only analyses against the guards and the keep-list; a proposal
+  `proposals/B01_ENGINE_DRAFT_AUTHOR_THOUGHTS_OPTIONS_2026-10-09.md` (full version private). It extends the merged list
+  (§484), withdraws its A4 (a protected line) and flags its B4 trims on protected spans. **Q-AT1–11 await the author**,
+  together with Q-EC1–8.
+
+## §486 — B01 engine draft: forwarded assessment and INT → ENG comparison; one decision set, 2026-10-09
+
+- **Author forwarded** a whole-novel assessment of ENG. It was checked against the text: two small misstatements, and
+  its priorities match the Q-EC/Q-AT items. It adds Elísabet's objective and protection of texture, and asks for an
+  INT → ENG comparison before any change.
+- **Comparison done** (three readers, both drafts in full): ENG is the better base everywhere (E41 the exception); about
+  1.8k words of muscle to restore; new seams listed. Report:
+  `reports/B01_ENGINE_DRAFT_ASSESSMENT_AND_INT_COMPARISON_2026-10-09.md`.
+- **Q-UD1–12** (private) supersede Q-EC1–8 and Q-AT1–11, and await the author. Recommended: one correction pass on ENG
+  with restorations, then a changed-chapter blind check and a continuity check, then his read; no length target.
+
+## §487 — B01 engine draft: Q-UD1–12 agreed; four pre-pass checks instructed, 2026-10-09
+
+- **Author:** *"Agreed"* to Q-UD1–12 as recommended (O1 amends approved E48 design), recorded in
+  `decisions/B01_ENGINE_DRAFT_CONSOLIDATED_DECISIONS_Q_UD_AUTHOR_ANSWERS_2026-10-09.md`.
+- **Added before the pass:** test the E23/E24 chapter break; a few INT-only secondary-character details; E48's setup
+  prepared earlier without growth; a final payoff audit for one more narrow discovery. Running.
+
+## §488 — B01 engine draft: four pre-pass checks done; adversarial review answered, 2026-10-09
+
+- **Checks (private, the manuscript's `draft-notes/eng-review-2026-10-09/PC1`–`PC4`):**
+  - keep E23 folded;
+  - four small INT secondary-character restorations (~110 words);
+  - E48's plan stays but its furniture moves earlier (about −350), which funds O2 (Lucien brings Sal the withdrawal);
+  - **no further discovery is earned**: the ending plus P1/V1/V2 is the right choice, with one optional E49 beat and
+    one watch item (the Square case's timing) for the blind check.
+- **A forwarded adversarial reader review** (payoff, Lucien's accountability, an opposition loss) is answered by those
+  results.
+- **Q-PC1–5 await the author** (`PRE_PASS_CHECKS_RESULTS.md`, private); then the correction pass.
+
+## §489 — B01: Q-PC1–5 approved; the correction pass starts, 2026-10-09
+
+- **Author:** *"Proceed as recommended"*, recorded in `decisions/B01_PRE_PASS_CHECKS_Q_PC_AUTHOR_ANSWERS_2026-10-09.md`:
+  - E23 stays folded;
+  - P1–P4 restored;
+  - the E48 plan with O2;
+  - L added;
+  - the ending confirmed, with its positioning line.
+- **Checks:** B02 does not depend on the Square reaching the line. V3 is canon-consistent but in tension with Q-GV2, so
+  it is not in this pass.
+- **The pass:** made in the private manuscript's new `B01/cor-2026-10-09/`, copied from `B01/eng-2026-10-09/`, which is
+  kept as the checkpoint. The engine branch was merged into the session branch so that both drafts are in one tree.
+
+## §490 — B01 correction pass done, 2026-10-09
+
+- **Done in the private manuscript:** `B01/cor-2026-10-09/`, with `B01/eng-2026-10-09/` kept as the checkpoint.
+  - Process: packets, ten reviser groups, three checks, one fix round, and reading copies `B01_COR_*` plus a
+    side-by-side against ENG.
+  - **158,085 words.**
+  - No guard breach; all causal chains hold; 104 of 118 items delivered, none missing.
+  - **Blind read 4 / 5**; the collectors' foreknowledge reads as *suggested, never confirmed*.
+- **Report:** `reports/B01_CORRECTION_PASS_REPORT_2026-10-09.md`.
+- **Open:**
+  - P4 (Caro's calendar), held because it reverses Q-ES13;
+  - V3 (Q-GV2 tension);
+  - four B02 notes.
+- **Next:** the author's read.
+
+## §491 — B01: answers to the post-correction open questions, 2026-10-09
+
+- **Recorded in** `decisions/B01_CORRECTION_PASS_OPEN_QUESTIONS_AUTHOR_ANSWERS_2026-10-09.md`:
+  - P4 cut;
+  - V3 seeds B02 (Q-GV2 *too strict*, per the author);
+  - carry-forward notes added to B02 E01, B02 E05 and B03 E15 (control layer);
+  - rental and Sal's lines left;
+  - **a direct conflict is required for B01 to stand alone** (design options first);
+  - the confession run corrected;
+  - C4 added;
+  - the folder-tab beat at E49;
+  - Silence and Hope as hint-givers, the prologue and once per act (design options first);
+  - PRs after this pass.
+- **Running:** the E38–E39A revision; two design studies (direct conflict; Silence and Hope).
+
+## §492 — B01: direct-conflict and Silence/Hope/web design studies, 2026-10-09
+
+- **Written** (private: the manuscript's `draft-notes/author-answers-2026-10-09b/`; summary
+  `proposals/B01_DIRECT_CONFLICT_AND_SILENCE_HOPE_WEB_OPTIONS_2026-10-09.md`).
+- **Direct conflict, recommended A (*medical exempt*):**
+  - a new chapter at about 80%, a civic contest the crew wins at Lucien's cost;
+  - Q-SD3 relaxed;
+  - about +2–2.6k words.
+- **Web, built on the author's direction:**
+  - Seraphine's E03 / E30 / E41 / E49 ladder;
+  - the prologue's net;
+  - the E49 tab beat;
+  - E50 on her feeling;
+  - an Act I interlude, a lean yes.
+- **Also done:** E38 C4 and the E39/E39A confession-run fix are in `B01/cor-2026-10-09/`.
+- **Q-DC1–4 and Q-SH1–6 await the author.**
+
+## §493 — B01: Q-SH1–6 approved; A + C + D under analysis, 2026-10-09
+
+- **Author:** *"Agreed as recommended on SH items"*, recorded in
+  `decisions/B01_SILENCE_HOPE_WEB_Q_SH_AUTHOR_ANSWERS_2026-10-09.md` (approved design):
+  - the E49 tab beat;
+  - E00's net;
+  - Seraphine's web ladder (E03 / E30 / E41 / E49);
+  - E50 on her feeling;
+  - a new Act I interlude I00;
+  - the breadcrumb row and the B02 E41 note.
+- ***"Consider effects of yes to A C D"*:** the combined direct-conflict analysis is running.
+
+## §494 — B01: Baz's Houston baggage, alternate C and chapter splits studied, 2026-10-09
+
+- **Private studies** in the manuscript's `draft-notes/author-answers-2026-10-09b/`:
+  `DESIGN_BAZ_HOUSTON_AND_C.md` (Q-BH1–6) and `DESIGN_CHAPTER_SPLITS.md` (Q-SP1–5).
+- **Recommended:**
+  - medium Houston baggage: a funder's review asked who took the tenants' statements; Baz refused to release the consents
+    and carries the box. It is paper only and offstage, so it is backstory, and Caldas's ladder is unchanged;
+  - alternate C = C-1, the same review demanding the consents, which saves the Mid-City room for B02;
+  - Sal's *"Houston called"* becomes *"The owner called"*;
+  - split E49 (event / reckoning) and E34; keep the others;
+  - BazID's City Park locator corrected from E43 to E27A.
+- **Awaiting the author**, with Q-DC1–9.
+
+## §495 — B01: direct conflict, Houston and splits approved; the dc pass starts, 2026-10-09
+
+- **Author:** *"Proceed as recommended"*, plus a note: *a direct hint, reference or implication toward the Dominion
+  research program is OK*. Q-GV2 is relaxed to that extent; the faction stays unnamed. Recorded in
+  `decisions/B01_DIRECT_CONFLICT_HOUSTON_AND_SPLITS_AUTHOR_ANSWERS_2026-10-09.md`.
+- **Accepted:**
+  - A + C-1 + D;
+  - medium Houston baggage;
+  - Sal's line changed;
+  - E49 and E34 split;
+  - no length target.
+- **Applied (additive):**
+  - dated notes on `canon/characters/BazID.md` and `canon/factions/Dominions.md`;
+  - a C02 locator note (E27A);
+  - breadcrumb row `BC-WEB-FELT` (PROVISIONAL payoff).
+- **Next:**
+  - the pass in the manuscript's new `B01/dc-2026-10-09/` (cor kept as the checkpoint);
+  - checks and reading copies;
+  - PRs.
+
+## §496 — B01 direct-conflict pass done, 2026-10-09
+
+- **Done in the private manuscript:** `B01/dc-2026-10-09/` (cor kept as the checkpoint).
+  - Seraphine's web ladder, the prologue's net, I00, E50 on her feeling;
+  - E41A (medical exempt); C-1 (the Houston review); D (the gallery); Baz's Houston box;
+  - one research-program hint;
+  - E34 and E49 split.
+- **Process:** six reviser groups (two relaunched after a usage-limit stop), three checks, one fix round, reading copies
+  `B01_DC_*`, 50 serial modules.
+- **Results:** 163,423 words; no guard breach; blind read 4 / 5.
+- **Report:** `reports/B01_DIRECT_CONFLICT_PASS_REPORT_2026-10-09.md`.
+- **Next:** the author's read; then the PRs to `main` (answer 11, §491).
+
+## §497 — B01 DC: surgical revision map, 2026-10-09
+
+- **Asked by:** a forwarded full read of the DC draft, which recommended a chapter-by-chapter surgical map toward about
+  145k.
+- **Done:** three range readers, read only (manuscript `draft-notes/surgical-map-2026-10-09/`).
+- **Result:** T1/T2/T3 = −1,168 / −2,463 / −6,327 words (0.7 / 1.5 / 3.9%). **145k is not reachable without reopening
+  protected or approved material.** Priority 1 is a matter of audibility (about 35 words). Flags:
+  - the *Bastien* name gap;
+  - record naming;
+  - Act I's restrained endings;
+  - Lucien's apology to Elísabet;
+  - Mr. Vidrine's tank.
+- **Report:** `reports/B01_DC_SURGICAL_REVISION_MAP_2026-10-09.md`.
+- **Next:** Q-SM1–8 await the author.
+
+## §498 — B01: Q-SM1–8 approved; a protected-list audit, a critic read and a brutal round instructed, 2026-10-09
+
+- **Answered:** Q-SM1–8 as recommended (`decisions/B01_SURGICAL_MAP_Q_SM_AND_BRUTAL_ROUND_AUTHOR_ANSWERS_2026-10-09.md`).
+- **Instructed:** a critical audit of the protected scenes and prose (adjust around the cores, unprotect where no longer
+  needed); a book-critic read; brutal, unrestricted revision proposals on length, repetition and lack of resolution.
+- **Sequencing (the lead's):** the bounded pass is held for one integrated proposal. Each proposal is tagged with what
+  it reopens.
+
+## §499 — B01 DC: brutal round done, integrated proposal Q-BR1–11, 2026-10-09
+
+- **Done (private manuscript, `draft-notes/brutal-round-2026-10-09/`):**
+  - two blind critic reads (3½ and 3 / 5; both put the publishable weight at about 115–125k);
+  - a protected-list audit (78 items; the approved list is about 45, grown to about 110 by assistant maps; about 6.4k
+    recoverable around cores);
+  - four unrestricted designs (length, repetition, resolution, structure).
+- **Integrated proposal:** three scales (about 150–155k / 135–140k / 120–125k). Recommended: seven movements with three
+  POV owners. No ruled canon is reopened.
+- **Correction:** Q-SM5 contradicts B02 E05 (the apology is still owed); reversal proposed.
+- **Report:** `reports/B01_DC_BRUTAL_ROUND_CRITIC_READS_AND_INTEGRATED_PROPOSAL_2026-10-09.md`.
+- **Next:** Q-BR1–11 await the author.
+
+## §500 — B01: Q-BR1–11 answered; the brutal-round pass starts, 2026-10-09
+
+- **Answered:** `decisions/B01_BRUTAL_ROUND_Q_BR_AUTHOR_ANSWERS_2026-10-09.md`.
+  - Option 2 (seven movements);
+  - the protected list reset;
+  - the repetition rules;
+  - Shape A;
+  - Caldas presented as the opposition, with his side named "the Institute" at E49A and revealed there as one part;
+  - the folder tab planted;
+  - Inez's POV removed;
+  - Q-SM5 reversed (the apology stays owed into B02).
+- **Sequence (usage-limited):** one pass in `B01/br-2026-10-09/`, checks, then the EPUB and MD only.
+
+## §501 — B01 brutal-round pass done, 2026-10-09
+
+- **Done in the private manuscript:** `B01/br-2026-10-09/` (dc kept as the checkpoint).
+  - five revisers;
+  - a combined check-and-fix;
+  - EPUB and MD only (Q-BR11).
+- **Result:** about 141.4k words (from 163.4k); no guard breach.
+- **Report:** `reports/B01_BRUTAL_ROUND_PASS_REPORT_2026-10-09.md`.
+- **Next:** the author's read; three small items await him; serial modules and other copies are deferred.
+
+## §502 — B01: the transmission approved and inserted; follow-ups on Ch 30, the final chapter and Inez, 2026-10-09
+
+- **Answered:** Q-TX1–4, all yes (`decisions/B01_TRANSMISSION_Q_TX_AND_FOLLOWUPS_AUTHOR_ANSWERS_2026-10-09.md`).
+  - `T01` is inserted after E01 in `B01/br-2026-10-09/`.
+  - V3 is reopened for this document only.
+- **Instructed:**
+  - Ch 30 (E37) revised for structural clarity;
+  - the final chapter (E49A) given room, especially the Institute/collectors distinction;
+  - an Inez agenda audit, with a supplement option.
+
+## §503 — B01: the follow-ups done; the Inez supplement inserted, 2026-10-09
+
+- **Done in `B01/br-2026-10-09/`:**
+  - Ch 30 clarity;
+  - E49A breathing room;
+  - Inez F1/F3;
+  - `S03`, the Inez POV supplement (the author's *"A yes"*; Mrs. Batson returns).
+- **Result:** about 142.9k words; EPUB and MD rebuilt.
+- **Record:** the addendum to `decisions/B01_TRANSMISSION_Q_TX_AND_FOLLOWUPS_AUTHOR_ANSWERS_2026-10-09.md`.
+
+## §504 — B01: Chapter 30 split and an E49A beat (author, 10-10)
+
+- **Answered:** after a forwarded review, the author approved two targeted changes (the addendum to
+  `decisions/B01_TRANSMISSION_Q_TX_AND_FOLLOWUPS_AUTHOR_ANSWERS_2026-10-09.md`).
+- **Done in `B01/br-2026-10-09/`:**
+  - E37/E38 split, giving 44 numbered chapters;
+  - one beat in E49A;
+  - EPUB and MD rebuilt (about 142.9k words).
+- **Protected unless a blind reader finds a problem:** the transmission, the Inez supplement and the coda.
+
+## §505 — B01: blind critic reads of the br draft, 2026-10-10
+
+- **Done:** the same two critic personas as §499, blind, on the br draft (about 142.9k words). The reads are in the
+  private manuscript's `draft-notes/blind-reads-2026-10-10/`.
+- **Scores:** literary 3½ / 5, genre 3 / 5 (unchanged from §499).
+- **Where they converge:**
+  - cut to about 110–115k;
+  - the opposition on stage with a costly mid-book contest;
+  - the investigation should win one thing;
+  - *Veil* should be seeded earlier.
+
+  Neither registered the E31 folder-tab plant or the E49A tally as a win.
+- **Checked:** the line-tic counts are overstated (*"said, to the"* 17, not 30+; *long moment* 5). The genre critic's
+  cut list includes E27A, the opposition's on-stage scene, which works against its own ask.
+- **Next:** the author decides.
+
+## §506 — B01: A and B approved; a design proposal on the opposition, a win and the climax instructed, 2026-10-10
+
+- **Recorded in:** `decisions/B01_BLIND_READ_FOLLOWUP_OPPOSITION_WIN_CLIMAX_AUTHOR_DIRECTION_2026-10-10.md`.
+- **Approved:**
+  - A: the folder-tab plant made visible;
+  - B: the tally becomes a prediction the crew acts on.
+- **Instructed:** proposals on the opposition earlier, a bigger win (partial identification) and a stronger climax
+  event.
+- **The author's test:** rules may be reopened if worth the cost and the saga does not break.
+
+## §507 — B01: Q-OW1–6 approved, 2026-10-10
+
+- **Recorded in:** `decisions/B01_OPPOSITION_WIN_CLIMAX_Q_OW_AUTHOR_ANSWERS_2026-10-10.md`.
+- **Approved:**
+  - the desk-note supplement `S04`;
+  - the R. request refused at E22;
+  - the bet and the partial identification;
+  - the microphone climax;
+  - the physical arrival (reverses *sub-audible / no damage*);
+  - the filming.
+- **Downstream:** B02's intimidation beat becomes a full scene.
+- **Next:** one bounded pass in `B01/br-2026-10-09/`.
+
+## §508 — B01: Q-OW pass done, 2026-10-10
+
+- **Done in `B01/br-2026-10-09/`:**
+  - the desk-note supplement `S04`;
+  - E22/E25 (R.'s request refused; the round lost);
+  - A (the folder tab, E31/E36);
+  - the bet (E48), the microphone climax with a physical arrival (E49), and the count as the check with the patch kept
+    off R.'s copy (E49A).
+- **Checks:** one check-and-fix found eight fixes; the guards hold.
+- **Result:** about 143.9k words; EPUB and MD rebuilt.
+- **For the author:** seven possibles in the manuscript's `draft-notes/opposition-win-climax-2026-10-10/CHECK_AND_FIX.md`.
+
 END RECOVERY LEDGER
