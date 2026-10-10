@@ -46,3 +46,12 @@ How they are being handled:
 
   The lead adjusted the opening of `S03` so the delivery comes by a parish van while her own truck stays held (E41A;
   Q-DC3).
+
+## Addendum, 10-10: two targeted checks after a forwarded review
+
+The author answered *"Yes to both"*. Both are approved design.
+
+1. **Chapter 30 is split at the Carrollton transition.** E37 is Seraphine's half and E38 is Lucien's. No text is cut.
+   This partly reverses ST-05's merge, which was approved as part of Q-BR1.
+2. **E49A gets a beat of about 30 words** before *"She turned to Baz"*, so Lucien's *ten days* land on Seraphine
+   before the organizational revelations.

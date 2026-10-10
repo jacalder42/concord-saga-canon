@@ -18007,4 +18007,14 @@ END OF ENTRY 382
 - **Result:** about 142.9k words; EPUB and MD rebuilt.
 - **Record:** the addendum to `decisions/B01_TRANSMISSION_Q_TX_AND_FOLLOWUPS_AUTHOR_ANSWERS_2026-10-09.md`.
 
+## §504 — B01: Chapter 30 split and an E49A beat (author, 10-10)
+
+- **Answered:** after a forwarded review, the author approved two targeted changes (the addendum to
+  `decisions/B01_TRANSMISSION_Q_TX_AND_FOLLOWUPS_AUTHOR_ANSWERS_2026-10-09.md`).
+- **Done in `B01/br-2026-10-09/`:**
+  - E37/E38 split, giving 44 numbered chapters;
+  - one beat in E49A;
+  - EPUB and MD rebuilt (about 142.9k words).
+- **Protected unless a blind reader finds a problem:** the transmission, the Inez supplement and the coda.
+
 END RECOVERY LEDGER
