@@ -18068,4 +18068,12 @@ END OF ENTRY 382
 - **Result:** about 143.9k words; EPUB and MD rebuilt.
 - **For the author:** seven possibles in the manuscript's `draft-notes/opposition-win-climax-2026-10-10/CHECK_AND_FIX.md`.
 
+## §509 — B01: two small calls applied, 2026-10-12
+
+- **Answered:** the author, *"1 add it 2 vary"*.
+- **Applied at E49:**
+  - *"Baz's phone had his."* is added before Lucien's protected *"…You leaving first."*;
+  - the oil spill no longer echoes E46's coffee *"sheet"*.
+- **Reading copies:** EPUB and MD rebuilt.
+
 END RECOVERY LEDGER
