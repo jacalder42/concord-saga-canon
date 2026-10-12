@@ -18328,4 +18328,14 @@ END OF ENTRY 382
   - a draft audit (an experiment ledger, a repetition map, Elisabet and the Vein, Caldas's costs).
 - **Next:** one revision proposal with questions. No manuscript edits before the author answers.
 
+## §531 — B01: two more author directions (act shape; Lucien's Vienna contact), 2026-10-12
+
+- **Recorded** as items 8 and 9 of `decisions/B01_BRAID_PANEL_RESPONSE_AUTHOR_DIRECTION_2026-10-12.md`:
+  - **The act shape:** Act I is normal lives kept, Act II is the investigation taking over, Act III is a struggle for
+    headway before a disaster.
+  - **Lucien's Vienna contact:** Lucien has a named contact in Vienna he checks in with. When he loses trust in that
+    contact, he reaches out to Baz.
+- **The studies now cover both.** The Dominion study and the draft audit now include N. as the candidate contact, the
+  trust break, and how the draft measures against each act's shape.
+
 END RECOVERY LEDGER
