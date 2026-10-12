@@ -18201,4 +18201,15 @@ END OF ENTRY 382
 - **Proposal:** `proposals/B01_STANDALONE_REVIEW_AND_REDESIGN_PROPOSAL_2026-10-12.md`. **Q-SN0–14 await the author**,
   including Q-SN0: whether the set arcs are Baz, Tahl and Kade.
 
+## §521 — B01 standalone review: the braid model and three more directions (author, 2026-10-12)
+
+- **Recorded in** `decisions/B01_STANDALONE_BRAID_AND_OPPOSITION_DIRECTION_AUTHOR_NOTES_2026-10-12.md`, before Q-SN0–14
+  are answered.
+- **The braid:** the "two novels" are two melodies, braided. Seraphine carries the social and literary melody across the
+  saga; the trilogy leads (Baz, Tahl, Kade) drive the investigation melody; **Lucien is the Veil link**, the only reason
+  Seraphine and Baz interact; Rex, Elisabet, Lacuna and others carry the link later.
+- **Also:** Ren may be openly violent where it pays; the woman in cream shoes stays as an unexplained observer (a
+  Technarc seed); length soft cap 120k, hard cap about 135–140k, both exceedable at an escalating cost.
+- **Next:** braided redesigns of B01 on this model, then a version 2 proposal replacing §520's integration.
+
 END RECOVERY LEDGER
