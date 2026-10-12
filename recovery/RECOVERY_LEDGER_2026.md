@@ -18294,4 +18294,17 @@ END OF ENTRY 382
   author, including the softened Q-ST6 wording and Rieux making Caldas spell his name.
 - **Next:** the author's read. Open: whether ~121.2k stands. Then the B02/B03 packet catch-up.
 
+## §529 — B01 braided revision: viability and marketability review, 2026-10-12
+
+- **Author:** *"Review the latest draft on the repo. There are significant changes to consider the viable and
+  marketability of."* The latest draft is the braided revision (§528), fast-forwarded into this session's branches.
+- **Done (read-only):** four simulated readers on the whole book: an acquiring editor (4 / 5, acquire with revisions
+  on a literary-speculative / book-club list), a serial editor (3.5 / 5 serial), an average reader (4 / 5, would buy
+  Book Two; the author's mystery, romance and conflict tests pass at the personal level) and a br → braid regression
+  read (4 / 5).
+- **Converging:** the phenomenon gives too little and *the Veil* lands cold; the opposition still blurs at its edges;
+  the middle repeats; too many names; 121k long for the category.
+- **Report:** `reports/B01_BRAID_VIABILITY_AND_MARKETABILITY_REVIEW_2026-10-12.md`, with suggested decisions. Nothing
+  changed in the manuscript.
+
 END RECOVERY LEDGER
