@@ -22,6 +22,11 @@ to consider before proceeding"*:
 4. **Length.** 120k is a soft cap; the hard cap is about 135–140k, *"similar to our other rules. Nothing is impossible, it
    has to be able to pay an escalating cost. If 150k makes it the best book ever written, that's fine."*
 
+5. **Romance (follow-up, same day).** *"The romantic holds and limitations have also been tool proposed, they are free
+   to change as best serves the saga and reader payoff."* This opens the no-second-kiss and no-declaration holds, the
+   cover kiss that "didn't count", B03 E21 as *the first kiss that counts*, the heat limits and the chosen-distance
+   ending, each costed like everything else.
+
 ## What this changes in the proposal
 
 - The §2–§4 recommendation fused the two novels (the opposition pressing on the Batiste file). Under this direction the

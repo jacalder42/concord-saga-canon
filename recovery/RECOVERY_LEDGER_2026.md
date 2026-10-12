@@ -18212,4 +18212,11 @@ END OF ENTRY 382
   Technarc seed); length soft cap 120k, hard cap about 135–140k, both exceedable at an escalating cost.
 - **Next:** braided redesigns of B01 on this model, then a version 2 proposal replacing §520's integration.
 
+## §522 — B01 standalone review: the romantic holds opened (author, 2026-10-12)
+
+- **Author:** *"the romantic holds and limitations have also been tool proposed, they are free to change as best serves
+  the saga and reader payoff."* Added to `decisions/B01_STANDALONE_BRAID_AND_OPPOSITION_DIRECTION_AUTHOR_NOTES_2026-10-12.md`
+  as item 5. Open, costed: the second-kiss and declaration holds, the cover kiss, B03 E21 as the first kiss that counts,
+  the heat limits, the chosen-distance ending. Relayed to the two braid designers mid-run.
+
 END RECOVERY LEDGER
