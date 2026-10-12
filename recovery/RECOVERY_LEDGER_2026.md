@@ -18307,4 +18307,13 @@ END OF ENTRY 382
 - **Report:** `reports/B01_BRAID_VIABILITY_AND_MARKETABILITY_REVIEW_2026-10-12.md`, with suggested decisions. Nothing
   changed in the manuscript.
 
+## §530 — B01 braid: the viability review answered; polish pass and Interlude (author, 10-12)
+
+- **Recorded in:** `decisions/B01_BRAID_VIABILITY_REVIEW_AUTHOR_ANSWERS_2026-10-12.md`.
+- **Answers:** 1, the polish pass, yes; 2, stay around 120–125k; 3, serial first, installments align with chapters. **The
+  Interlude comes back** (it reverses Q-SB10's cut). Verify whether supplement text has been lost, and consider serial-only
+  versus novel inclusion.
+- **Running:** the polish pass into the manuscript's `B01/polish-2026-10-12/` (braid kept as the checkpoint); a supplement
+  lineage audit.
+
 END RECOVERY LEDGER
