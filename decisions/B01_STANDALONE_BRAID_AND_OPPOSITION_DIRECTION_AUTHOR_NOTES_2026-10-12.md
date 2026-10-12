@@ -27,6 +27,10 @@ to consider before proceeding"*:
    cover kiss that "didn't count", B03 E21 as *the first kiss that counts*, the heat limits and the chosen-distance
    ending, each costed like everything else.
 
+6. **Clarification of item 1 (same day).** *"You took my intent with 'The only reason Seraphine and Baz interact' too
+   far. My intention is Lucien is the only reason they meet, otherwise their paths would not have crossed. (ie Baz would
+   not come to New Orleans) They obviously can interact once meeting."* The link is causal, not a routing rule.
+
 ## What this changes in the proposal
 
 - The §2–§4 recommendation fused the two novels (the opposition pressing on the Batiste file). Under this direction the

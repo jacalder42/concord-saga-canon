@@ -18233,4 +18233,14 @@ END OF ENTRY 382
 - **Proposal:** `proposals/B01_STANDALONE_BRAID_REDESIGN_PROPOSAL_V2_2026-10-12.md`, superseding §520's recommendation
   and Q-SN1–13. **Q-SB0–13 await the author.**
 
+## §524 — B01 standalone review: the link clarified, causal not routing (author, 2026-10-12)
+
+- **Author:** *"You took my intent … too far. My intention is Lucien is the only reason they meet, otherwise their paths
+  would not have crossed (ie Baz would not come to New Orleans). They obviously can interact once meeting."*
+- **Assistant error corrected:** §521's brief and both braid designs read it as a rule routing every Seraphine–Baz
+  contact through Lucien. Withdrawn. Added as item 6 of
+  `decisions/B01_STANDALONE_BRAID_AND_OPPOSITION_DIRECTION_AUTHOR_NOTES_2026-10-12.md`; the v2 proposal is corrected in
+  place (a dated note, §1, §2.6, §3, §5, Q-SB6). The scenes cut or rerouted on that ground (the dance, the towel visit,
+  the lunch errand) are restored as available. The private designs keep their text, read with this correction.
+
 END RECOVERY LEDGER

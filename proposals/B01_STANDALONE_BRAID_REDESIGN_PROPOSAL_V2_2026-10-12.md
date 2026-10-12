@@ -7,6 +7,13 @@ Every change below is a question for the author (§6). Ledger §523.
 `proposals/B01_STANDALONE_REVIEW_AND_REDESIGN_PROPOSAL_2026-10-12.md`. That proposal's diagnosis (§1) still stands.
 Q-SN0 and Q-SN14 carry over as Q-SB0 and Q-SB13.
 
+**Corrected 2026-10-12 (ledger §524).** The first version read the author's *"the only reason Seraphine and Baz ever
+interact"* as a routing rule: every Seraphine–Baz contact had to pass through Lucien. That overreached. **The author's
+intent is causal: Lucien is the only reason their paths cross.** Without him Baz would never come to New Orleans. Once
+they have met, they interact freely. §1, §2 item 6, §3, §4, §5 and Q-SB6 are corrected below. The two designs' routing
+of Seraphine–Baz scenes through Lucien is withdrawn, and the scenes they rerouted or cut on that ground are restored as
+available: the dance, the towel visit and the lunch errand.
+
 **Built on the author's direction of 10-12**
 (`decisions/B01_STANDALONE_BRAID_AND_OPPOSITION_DIRECTION_AUTHOR_NOTES_2026-10-12.md`, ledger §521–§522):
 - the two novels are **two melodies, braided**;
@@ -31,7 +38,7 @@ counterpoint) and **2, the Composer** (theme and harmony). They are private, in 
 | The reader's question | Will she put the whole truth of that room on Dré's file, and give the choice back to the people whose lives it is? | Who is watching the city fall, what do they want with the people who feel it, and will they take Baz? | Can he stay in both rooms without each one paying for the other? |
 | Opposition | **No villain:** a legitimate, opposed want. Renée needs the paragraph off for a clean certificate and burial policy (Lorraine presses it). Behind that: Odile, Denise and the center, the block's rumour, and Seraphine's own wish to carry everyone | **Caldas Ren**, the one face of the askers, openly menacing. The **boxes** keep one silent face (the dented green car). **The woman in cream shoes** is an unexplained observer belonging to neither | Himself: *None*, his reports, his silence |
 | Climax | **Sunday: Renée's kitchen**, moved to the final weekend and unforced | **Saturday: the festival**. The tins, the microphone, Caldas's hand on Baz, *"I live here"*, the word | **Sunday night at her stair**: his own written account, given to her |
-| Closure | *"Put it in"*; Batiste closed honestly; Odile lost; Miss Hazel's pie tin | A warning that needs nobody to feel it first; Caldas leaves with nothing; Baz stays; the two watchers told apart; *the Veil* | The link breaks from both sides. Before it breaks, he authorises the direct contact he can no longer carry |
+| Closure | *"Put it in"*; Batiste closed honestly; Odile lost; Miss Hazel's pie tin | A warning that needs nobody to feel it first; Caldas leaves with nothing; Baz stays; the two watchers told apart; *the Veil* | The link breaks from both sides. What he joined (Seraphine and Baz) holds without him |
 
 **Tempo.**
 - **Act I** is Seraphine's melody, with Lucien's investigation under it. **The Act I turn is Lucien bringing Baz**
@@ -66,8 +73,9 @@ counterpoint) and **2, the Composer** (theme and harmony). They are private, in 
    - She is drawn to times, glass and water.
    - She appears about five times, never in a scene of her own.
    - She leaves a Technarc seed that the book never explains.
-6. **The link rule.** Every Seraphine–Baz contact runs through Lucien (his presence, errand, sheet or instruction).
-   The rerouted or cut contacts are their dance, the towel visit and the lunch errand.
+6. **The link is causal (corrected, §524).** Lucien is the reason Seraphine and Baz ever meet: he asks Baz to New
+   Orleans and brings him into her room. After that they interact on their own terms. The designs' routing of every
+   contact through Lucien is withdrawn.
 7. **The final weekend:**
    - **Friday:** Caldas exposes Lucien to her.
    - **Saturday:** the festival (B), where Baz names the Institute.
@@ -98,7 +106,7 @@ counterpoint) and **2, the Composer** (theme and harmony). They are private, in 
 | --- | --- | --- | --- |
 | **A's clock** | The **90-day reconsideration** (already in br Ch 18/37) closes Monday 4 May. Telling makes it signable in time | Guidry closes the file on Monday. Renée complains to the center | **The 90-day clock**, subject to a realism check of Louisiana practice. It gives Melody A a deadline of its own |
 | **Ledet's injury** | A new break-in chapter: Ledet put down the side stair (about 59%) | Caldas's own hand breaks Ledet's wrist (about 70%), which forces Baz's river-wall confession and eviction | **Design 2's placement and cause**, which turn the violence into Baz's confession. Whether by Caldas's hand or his men's is a test (Q-SB4) |
-| **The link after Lucien and Baz break** | Strict to the end. Even the last tie happens on Lucien's *"Tell her"* | Strict until the break (about N29). After it, Seraphine and Baz meet directly four times, awkwardly and on terms | **Design 2.** The break is the baton pass. The direct thread B01 hands B02 (the address) is made outside the link |
+| **The link after Lucien and Baz break** | (Both designs routed contacts through Lucien; withdrawn by the correction, §524) | — | Seraphine and Baz's own bond, built after Lucien introduced them, outlasts the link's break. The address she is trusted with is what B01 hands B02 |
 | **The link's leaks, B into A** | Baz lies to Lucien that the boxes hurt Ledet → Lucien's false Kerlerec report → *Kerlerec 900* on the bulletin that holds Mr. Vidrine's oxygen | (Not built as a chain) | **Design 1's chain.** It makes the link causal in both directions, at the cost of legibility (tested) |
 | **Romance in late April** | She asks him up on 25 April and he comes up. No declaration aloud | A second kiss (*"Then tell me Saturday"*). At the stair he says *"I'm in love with you"*, and she answers *"I know"* and doesn't let him up | **Design 2's declaration at the stair**, tested with and without it. It pays the romance in the book that started it |
 | **Baz at the festival** | Seraphine's POV. Lucien claims Baz *"on my report"* in front of her | A new Baz-POV barrier chapter | Keep it only if a blind read shows it adds something; folding it back saves about 2.7k |
@@ -132,7 +140,7 @@ counterpoint) and **2, the Composer** (theme and harmony). They are private, in 
 ## 5. Tests before any rewrite
 
 1. **Paper test.** A two-page synopsis goes to two fresh blind readers (the casual and urban-fantasy profiles). At the
-   Ch 22 line, ask: what are the two stories, who opposes each, and why are Seraphine and Baz ever in a room?
+   Ch 22 line, ask: what are the two stories, who opposes each, and how did Seraphine and Baz come to know each other?
    **Pass:** they name Caldas and Bastien or *the first one*, Renée's certificate, and Lucien, unprompted.
 2. **The kitchen's placement.** Compare br Ch 37 in place against the moved Sunday kitchen, with a one-page bridge.
    Ask which hits harder and whether she chooses it. **If it fails:** the kitchen stays before the lot, and the rest
@@ -140,7 +148,7 @@ counterpoint) and **2, the Composer** (theme and harmony). They are private, in 
 3. **The violence.** Draft the Ledet scene and the river wall against br Ch 33. Ask: does Caldas frighten, is the
    violence earned, does he stay a person?
 4. **The stair**, drafted with and without the declaration.
-5. **The link audit**, run on the outline: count Seraphine–Baz scenes without Lucien.
+5. **The link's cost**, run on the outline: does every intersection Lucien carries cost him something on the page?
 6. **Realism:** the 90-day reconsideration against Louisiana practice and br Ch 18's wording.
 7. **If the tests pass:** an integrated outline, then packets (the only redraft source), then the revision into a new
    folder, with the br draft kept as the checkpoint. Then the standing checks and the author's read.
@@ -170,8 +178,9 @@ hands on Baz at the festival.
 **Q-SB5 · The woman in cream shoes.** An unexplained observer on the boxes' side, appearing about five times and never
 in a scene of her own, with the *"Human variance"* seed. **Recommended: yes.**
 
-**Q-SB6 · The link rule.** Strict until Lucien and Baz break, then a few direct meetings; the address is the baton
-(Design 2). **Recommended: yes.**
+**Q-SB6 · The link (corrected, §524).** Lucien is the reason Seraphine and Baz meet (he brings Baz to New Orleans and
+into her room); once met, they interact freely, and their bond outlasts the link's break. The address is the baton.
+**Recommended: yes.**
 
 **Q-SB7 · The link's leak into Melody A.** Baz's lie → Lucien's false report → the hold on Mr. Vidrine's oxygen
 (Design 1). **Recommended: yes**, if the paper test shows it is legible.
