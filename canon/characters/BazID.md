@@ -70,3 +70,16 @@
 - **Note (added 2026-10-05, author-approved, approved design, Q-VI5 and Q-VI8): voice.** The page adds **register-reading** (he hears what a person's word choice gives away) and his ***who* and *whose* questions** about ownership and consent (a copy is not a yes) **beside** his designed tell, **translation**, not in place of it. Translation and his mother's Arabic (for grief) **stay available for B02–B03**: permissions, not plans (B02 watch-list). **Humor default (Q-VI8):** teasing affection, often through food. *Voice systems* (2025-11-30) is **Tier D design** (Q-VI13): evidence of intent in side-by-side reviews, not canon. Review-side; the drafting stack is unchanged (Q-WP3, with Q-VI1's clause). Side by side in `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md`. (author 2026-10-05, "Yes, all as recommended", `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, from `proposals/DIALOGUE_VOICE_INTENT_VS_PAGE_2026-10-05.md`)
 
 END — BAZ (BASTIEN “BAZ” ARNAUD) IDENTITY CANON
+
+- **Dated note, 2026-10-09 (approved design, Q-BH1–5; `decisions/B01_DIRECT_CONFLICT_HOUSTON_AND_SPLITS_AUTHOR_ANSWERS_2026-10-09.md`):**
+  - **Houston baggage.** Before B01, a funder's review of the Houston housing group asked who had taken the tenants'
+    statements. The group's grant went *under review*. Baz refused to release the consent forms and took his name off
+    the report. He carries a taped box of the consents into B01.
+  - **The pressure was on paper only, offstage and unsigned.** It is backstory: Caldas's ladder (surveillance in B01) is
+    unchanged, and Baz has not seen Caldas since Vienna until E20/E27A.
+  - **In B01 (C-1),** the same review demands the consents (E48). Baz refuses, and his director backs him. At B01's end
+    the grant is still under review, and the Mid-City room is kept for B02.
+  - **B02:** its Caldas intimidation beat is that review arriving in person (Q-BH6).
+  - **Locator correction:** the City Park approach above is at **E27A** in the current B01 keys, not E43, which is the
+    older key.
+

@@ -234,3 +234,9 @@ They are the institutional antagonist the world must learn to live beyond.
 
 - **Dated note, 2026-10-03 (approved design, Q-PI5):** in B01 the Dominion is one of two pressures. Its people are procedural and ordinary-looking, with one named face; they are looking for Baz and are interested in Lucien's notes. References are occluded; their form is open, and the ladder may move.
 - **Dated note, 2026-10-03 (approved design):** the B01 named face is **Caldas Ren** (C02): surveillance in B01, intimidation in B02, lethal pursuit in B03. Heavy implication and outright suspicion of Caldas and the Dominion in Baz's death are permitted; *no blame, just inference* is reopened. `decisions/HAN_WEI_ON_PAGE_AUTHOR_DIRECTION_2026-10-03.md` addendum 2.
+- **Dated note, 2026-10-09 (author; `decisions/B01_DIRECT_CONFLICT_HOUSTON_AND_SPLITS_AUTHOR_ANSWERS_2026-10-09.md`):**
+  - **Paper pressure is surveillance.** Unsigned, inferred pressure *"from up"* on Baz's Houston work (offstage) and in
+    B01 (E48) counts as **surveillance**. Caldas's B01 → B02 → B03 ladder is unchanged.
+  - **The author allows a direct hint, reference or implication toward the Dominion research program in B01.** Q-GV2's
+    hiding of their nature and resonance knowledge is relaxed to that extent. The faction stays unnamed on B01's page.
+
