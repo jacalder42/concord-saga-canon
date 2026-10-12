@@ -18281,4 +18281,17 @@ END OF ENTRY 382
 - **Next:** revision packets from the integrated outline as amended, then the revision into the manuscript's
   `B01/braid-2026-10-12/` (br kept as the checkpoint), checks, reading copies, report.
 
+## §528 — B01 braided revision done and checked, 2026-10-12
+
+- **Done (private, the manuscript's `B01/braid-2026-10-12/`):** packets from the integrated outline as amended by
+  Q-ST1–7, then six revisers in parallel (G1–G6). Four read-only checkers covered dates and names, the causal chains,
+  the guards and Q-ST items, and wording and length. One fix round followed. br stays as the checkpoint.
+- **Result:** 47 units, **121,192 words** (Acts 33.5k / 56.1k / 31.7k), about 1% over the 120k soft cap. Reading copies
+  `B01_BRAID_COMPLETE_READING_COPY.md` and `B01_BRAID.epub`, headed *braided revision (2026-10-12)*.
+- **Checks:** 8 definite, 14 probable and 13 style findings. All definite and probable findings are fixed. No fixed
+  guard was breached, every Q-ST item is on the page, and all eight causal chains are intact.
+- **Report:** `reports/B01_BRAIDED_REVISION_REPORT_2026-10-12.md`. Its §4 lists the packet and reviser choices for the
+  author, including the softened Q-ST6 wording and Rieux making Caldas spell his name.
+- **Next:** the author's read. Open: whether ~121.2k stands. Then the B02/B03 packet catch-up.
+
 END RECOVERY LEDGER
