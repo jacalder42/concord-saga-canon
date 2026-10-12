@@ -18311,4 +18311,21 @@ END OF ENTRY 382
   coinage).
 - **Next:** the author's decision on trims and additions.
 
+## §530 — B01 braided draft: author direction after the blind panel, 2026-10-12
+
+- **Author's direction:** seven points, recorded in `decisions/B01_BRAID_PANEL_RESPONSE_AUTHOR_DIRECTION_2026-10-12.md`
+  (approved design direction).
+  1. Caldas loses something for hurting someone.
+  2. Summarize the repetitive investigation and confession elements.
+  3. Silence and Hope need another moment.
+  4. The mystery pays off for real, including about the Veil and resonance (*"stop with holding everything interesting"*).
+  5. Caldas does something drastic to a "first", per canon.
+  6. More Elisabet and the Vein.
+  7. Every experiment yields quantifiable wins or losses, and no two share a shape.
+- **Running:** three read-only studies, in the manuscript's private `draft-notes/braid-panel-response-2026-10-12/`:
+  - the canon on the Dominion and "firsts";
+  - the canon on the Veil, resonance, and Silence and Hope (what B01 may pay off, and which guards move);
+  - a draft audit (an experiment ledger, a repetition map, Elisabet and the Vein, Caldas's costs).
+- **Next:** one revision proposal with questions. No manuscript edits before the author answers.
+
 END RECOVERY LEDGER
