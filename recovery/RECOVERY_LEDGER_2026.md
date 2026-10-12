@@ -18378,4 +18378,21 @@ END OF ENTRY 382
   - Q-RV4–6 are reframed. Q-RV6 asks whether calm softens the event itself; the recommendation is "partly, never a
     switch".
 
+## §534 — B01 braided draft, revision 2: Q-RV1–14 approved as recommended, 2026-10-12
+
+- **Author:** *"Approved as recommended."* Recorded in
+  `decisions/B01_BRAID_REVISION_2_Q_RV_AUTHOR_ANSWERS_2026-10-12.md` (approved design).
+- **Approved:**
+  - **Caldas pays:** Mr. Ledet's report goes up, and a desk note takes Caldas off the street.
+  - **Vernice held for "evaluation":** 30 April, on a statement her persuaded sister signs.
+  - **The resonance arc:** the crew's counted model, confirmed by the folder's sheet at Ch 30, forecasts the festival.
+    Calm partly softens the event.
+  - **Silence and Hope:** an interlude after Ch 22.
+  - **Elisabet and the Vein:** five Elisabet beats; the Vein as Trip's switchboard.
+  - **The result rule.**
+  - **An Act III race.**
+  - **Marius** (C03) as Lucien's contact.
+- **Card notes:** `LucienID.md` and registry C03.
+- **Next:** packets, then the revision into a new manuscript folder, then checks, then a short blind read.
+
 END RECOVERY LEDGER
