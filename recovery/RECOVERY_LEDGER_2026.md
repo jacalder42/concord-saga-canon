@@ -18137,4 +18137,11 @@ END OF ENTRY 382
   whether Ch 14's *"stays out of the room"* is meant to be ambiguous; Ch 43's *"the schoolboy's phone"* (older text).
 - **Reading copies:** EPUB and MD rebuilt (about 146k words).
 
+## §516 — B01: clarity follow-ups, H2, H3 and the edit-profile run (author, 10-12)
+
+- **Recorded in:** `decisions/B01_CLARITY_FOLLOWUPS_H2_H3_AND_EDIT_PROFILE_RUN_AUTHOR_ANSWERS_2026-10-12.md`.
+- **Answers:** R6's new wording yes; Ch 14's ambiguity kept; Ch 43's *"schoolboy's phone"* fixed; H2 integrated (the
+  90-day reconsideration, with the family's distrust of the system); H3 as recommended; the edit profile run book-wide.
+- **Correction:** §514's note that Mr. Lionel's wrist was unsupported was an assistant error; the H1 row is applied.
+
 END RECOVERY LEDGER
