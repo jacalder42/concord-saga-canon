@@ -18316,4 +18316,23 @@ END OF ENTRY 382
 - **Running:** the polish pass into the manuscript's `B01/polish-2026-10-12/` (braid kept as the checkpoint); a supplement
   lineage audit.
 
+## §531 — B01 polish pass done; supplement lineage audit, 2026-10-12
+
+- **Done (private, the manuscript's `B01/polish-2026-10-12/`; braid kept as the checkpoint):** four revisers, then a check
+  (11 fixes, no guard breach). **121,107 words**, inside the author's 120–125k band. Reading copies
+  `B01_POLISH_COMPLETE_READING_COPY.md` and `B01_POLISH.epub`.
+  - **The Interlude is restored** after Ch 26 (Ursulines' aftermath), in the Prologue's and Epilogue's terms; the
+    watchers only perceive.
+  - **Ch 38 is split** (installments = chapters): Ch 38 ends on Rieux's *R-E-N*; the new Ch 39 carries *"Yes. The
+    Institute"*, *the Veil* with a concrete basis (the one word on the Vienna folder's tab, seen on a locked cabinet's
+    files), and the address. The book has 42 chapters; *Veil* still appears twice.
+  - Caldas's force on the page at Ledet's rail (Ch 30); the *Ren* reminder; a staged finding (*it has an edge*, Ch 24);
+    the Vienna folder made memorable; fixed descriptors for the recurring unknowns; fewer Act III names; Sal's beat; the
+    earrings paid; the pump station staged; counting and silent-ending trims.
+- **Supplement audit** (private, `draft-notes/polish-pass-2026-10-12/SUPPLEMENT_AUDIT.md`): 13 units across the drafts.
+  Nothing the braid depends on is lost; the losses are texture (the Velvet Vein, the community's wrong theories, the
+  altar). S01, S03–S05 were retired 09-29 for length (§283); S02 and I01 by Q-SB10; I00 by Q-BR1. **Recommended:** the
+  novel keeps T, NOTE, S2, I01 and S3; S02, S01 (with S04), S05, S06 and *Sawdust* become serial-only bonuses after
+  revision to current canon; I00 retired; the field notes were never built. **Awaits the author.**
+
 END RECOVERY LEDGER
