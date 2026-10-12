@@ -18335,4 +18335,12 @@ END OF ENTRY 382
   novel keeps T, NOTE, S2, I01 and S3; S02, S01 (with S04), S05, S06 and *Sawdust* become serial-only bonuses after
   revision to current canon; I00 retired; the field notes were never built. **Awaits the author.**
 
+## §532 — B01 supplements: novel and serial-only (author, 10-12)
+
+- **Recorded in:** `decisions/B01_SUPPLEMENTS_NOVEL_AND_SERIAL_AUTHOR_ANSWERS_2026-10-12.md`.
+- **Answer:** *"Supplements as recommended, revise the serial-only ones."* The novel keeps T, NOTE, S2, I01 and S3 (S3
+  regains its contradictory-advice pair); S02, S01 (with S04), S05, S06 and *Sawdust* become serial-only bonuses, revised
+  to current canon; I00 retired.
+- **Running:** the S3 restoration and the five serial bonuses, into the manuscript's `B01/polish-2026-10-12/serial/`.
+
 END RECOVERY LEDGER
