@@ -18185,4 +18185,20 @@ END OF ENTRY 382
 - **Running (read-only, private `draft-notes/standalone-review-2026-10-12/`):** a chapter function map and a
   fixed-versus-open constraint inventory, then independent standalone redesigns, then one integrated proposal.
 
+## §520 — B01 standalone review: three redesigns and an integrated proposal, Q-SN0–14, 2026-10-12
+
+- **Done (read-only; private, the manuscript's `draft-notes/standalone-review-2026-10-12/`):** a chapter function map
+  (51 units: the thread, opposition, mystery and relationship ledgers), a fixed-versus-open constraint inventory, and
+  three independent redesigns (A genre engine, B character-first, C radical restructure), each at about 116–120k.
+- **Verdict:** two novels in one: a 4.5-star literary novel about Dré's record and a 3-star investigation beside it. The
+  opposition wants nothing Seraphine is struggling over.
+- **Convergence (all three):** Caldas as the one face (the cream-shoes woman, the review man and the caller merged); a
+  stated want early; a costed ladder; five learnable rules; the festival climax; the *Veil* tab visibly withheld at the
+  midpoint; a closing romance beat; Ch 9 motivated; about 40–50 names cut; the mistral cut.
+- **Recommended integration:** B's spine with C's want (*the first one*: her paragraph and log) and the public festival
+  climax; Renée's kitchen moved to the final weekend if a blind test passes; Lucien's POV kept, with his own written
+  account as the closing beat.
+- **Proposal:** `proposals/B01_STANDALONE_REVIEW_AND_REDESIGN_PROPOSAL_2026-10-12.md`. **Q-SN0–14 await the author**,
+  including Q-SN0: whether the set arcs are Baz, Tahl and Kade.
+
 END RECOVERY LEDGER
