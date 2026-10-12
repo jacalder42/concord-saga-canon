@@ -18269,4 +18269,16 @@ END OF ENTRY 382
   one visible loss for Caldas; the wrists; the bulletin beat; the watchers told apart earlier; the February bill;
   names). Then packets and the revision.
 
+## §527 — B01 braided redesign: Q-ST1–7 answered; Renita and R. renamed; the revision starts, 2026-10-12
+
+- **Author:** *"Yes to 1-6, yes to 7 and generate new appropriate names for them."* Recorded in
+  `decisions/B01_BRAID_TEST_RESULTS_Q_ST_AUTHOR_ANSWERS_2026-10-12.md` (approved design).
+- **Adopted:** the four test results (the Sunday kitchen; Caldas's own hand; the stair without the declaration; the
+  barrier folded into Ch 38); one visible loss for Caldas; Mrs. Arceneaux's hip; the bulletin beat; the watchers told
+  apart by the midpoint; the February bill.
+- **Names:** Renita → **Philomène** (registry B21, dated note); R. → **N.** (`canon/characters/LucienID.md`, dated note).
+  B02 E08's "R." joins the packet catch-up.
+- **Next:** revision packets from the integrated outline as amended, then the revision into the manuscript's
+  `B01/braid-2026-10-12/` (br kept as the checkpoint), checks, reading copies, report.
+
 END RECOVERY LEDGER
