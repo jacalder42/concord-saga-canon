@@ -18343,4 +18343,15 @@ END OF ENTRY 382
   to current canon; I00 retired.
 - **Running:** the S3 restoration and the five serial bonuses, into the manuscript's `B01/polish-2026-10-12/serial/`.
 
+## §533 — B01 serial-only bonuses revised; S3 pair restored, 2026-10-12
+
+- **Done (private, the manuscript's `B01/polish-2026-10-12/serial/`):** five serial-only bonuses revised to current canon
+  and checked against the book (two small fixes): *Around the City* (after Ch 6), *Sawdust* (after Ch 11), *House Notes*
+  (after Ch 12, since it names Darnell and Lucien), *Between Sets* (after Ch 26 and the Interlude), *The Vein, Before
+  Opening* (after Ch 42). About 3,775 words; none plants or spoils anything. Release map in
+  `draft-notes/polish-pass-2026-10-12/SERIAL_BONUSES.md`; reading file `draft-notes/human-read/B01_POLISH_SERIAL_BONUSES.md`.
+- **Novel:** S3 regains the contradictory-advice pair (22 words); reading copies rebuilt.
+- **Reviser choices for the author:** cousin Frankie → Vincent; the altar dated *the nineteenth*, no weekday; Trip opens
+  the Vein in the coda; *"Clearance Sale"* renamed (it echoed B02's clearance order).
+
 END RECOVERY LEDGER
