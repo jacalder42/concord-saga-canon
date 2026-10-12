@@ -18109,4 +18109,13 @@ END OF ENTRY 382
   book-wide edit-profile method).
 - **Fixed:** three defects left by applying the Ch 1 annotations.
 
+## §513 — B01: final audit queue answered; reader clarity direction (author, 10-12)
+
+- **Recorded in:** `decisions/B01_FINAL_AUDIT_QUEUE_AND_READER_CLARITY_AUTHOR_ANSWERS_2026-10-12.md`.
+- **Answers:** R1–R8 yes; O1–O3 yes; O4–O5 not taken; H1's spot-check method yes (Ch 9, Ch 43, Ch 40 control); H2 and H3
+  open.
+- **Author direction:** the opposition visible, aggressive and clear; the mystery, the romance and the conflict legible
+  to the average adult reader without perfect memory. A clarity proposal precedes any broad pass.
+- **Applied in `B01/br-2026-10-09/`:** R1–R8; O1–O3 under the clarity direction.
+
 END RECOVERY LEDGER
