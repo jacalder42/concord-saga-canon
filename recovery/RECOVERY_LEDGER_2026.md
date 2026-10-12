@@ -18253,4 +18253,20 @@ END OF ENTRY 382
   the stair with and without the declaration, the barrier chapter). Then the outline, packets and the revision.
 - **Owed by the author:** names for Renita and R.
 
+## §526 — B01 braided redesign: tests done; Q-ST1–7, 2026-10-12
+
+- **Done (private, the manuscript's `draft-notes/standalone-review-2026-10-12/`):** the integrated outline (41 chapters,
+  about 121k, or 119.4k without 38A) and a two-page synopsis; a realism check of the 90-day reconsideration; a paper
+  test (two blind readers, 3.5 and 3 / 5 for the plan); four sample tests (six drafts) judged blind by three readers
+  against the current chapters.
+- **Results, all 3–0:** Renée's kitchen on the final Sunday beats br Ch 37; Caldas's own hand on Ledet's wrist beats his
+  men and br Ch 33; the stair **without** the declaration; the barrier folded into Seraphine's Ch 38 (no 38A).
+- **Paper test:** the braid, the link and the chain are legible. Weak: Caldas lets go at the climax, the watchers still
+  blur, two wrists collide, and the oxygen step is too quick.
+- **Realism:** the rule is real. A child's coverage is approved through the date of death, and the old form can't be
+  mailed. The clock needs one real bill in the earliest uncovered month to bite.
+- **Report:** `reports/B01_BRAID_REDESIGN_TEST_RESULTS_2026-10-12.md`. **Q-ST1–7 await the author** (adopt the results;
+  one visible loss for Caldas; the wrists; the bulletin beat; the watchers told apart earlier; the February bill;
+  names). Then packets and the revision.
+
 END RECOVERY LEDGER
