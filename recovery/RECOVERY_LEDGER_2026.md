@@ -18294,4 +18294,21 @@ END OF ENTRY 382
   author, including the softened Q-ST6 wording and Rieux making Caldas spell his name.
 - **Next:** the author's read. Open: whether ~121.2k stands. Then the B02/B03 packet catch-up.
 
+## §529 — B01 braided draft: blind panel and reviews, 2026-10-12
+
+- **Author:** *"Blind read and reviews first, then we can discuss manuscript status and if trim or addition is needed."*
+- **Done (private, the manuscript's `draft-notes/blind-panel-braid-2026-10-12/`):** ten blind reads of the 121k braided
+  draft (the seven 10-12 panel profiles, two critics, one antagonistic reader) and a synthesis that checks the readers'
+  factual claims against the page.
+- **Scores:** the panel mean is **4.0** (br 3.7). Both critics give 4 and the hostile reader 3.5. Nobody would quit, all
+  ten would read Book Two, and nine read one braided story.
+- **Converged:** *"the Veil"* arrives cold (10 of 10), the repeating middle (10 of 10), the opposition is late or
+  foggy (9), and prose tics (9).
+- **Length:** cut about 8–12k and add about 3–5k, a net of about −5k to −9k (about 112–116k). Not required: 121k is
+  within Q-SB12.
+- **Report:** `reports/B01_BRAID_BLIND_PANEL_AND_REVIEWS_2026-10-12.md`. It lists new page defects (Mr. Lionel's "good
+  hand", the April glass line, the Wednesday openings) and one packet conflict (*"The boxes"* in Ch 25 before the Ch 26
+  coinage).
+- **Next:** the author's decision on trims and additions.
+
 END RECOVERY LEDGER
