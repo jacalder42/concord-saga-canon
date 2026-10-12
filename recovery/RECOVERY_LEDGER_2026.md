@@ -18118,4 +18118,12 @@ END OF ENTRY 382
   to the average adult reader without perfect memory. A clarity proposal precedes any broad pass.
 - **Applied in `B01/br-2026-10-09/`:** R1–R8; O1–O3 under the clarity direction.
 
+## §514 — B01: clarity proposal and H1 spot-check approved (author, 10-12)
+
+- **Recorded in:** `decisions/B01_CLARITY_PROPOSAL_AND_H1_SPOT_CHECK_AUTHOR_ANSWERS_2026-10-12.md`.
+- **Approved as recommended:** the ten clarity decisions (the *askers* and *boxes* nicknames, one tell per party, Baz's
+  intake recognition, costed refusals, three mystery checkpoints, stated desire and results, one planned contest, the
+  Ch 43 re-sort cut). H1's spot-check edits for Ch 9, Ch 43 and Ch 40, less one unsupported row.
+- **Applied in:** the private manuscript's `B01/br-2026-10-09/`.
+
 END RECOVERY LEDGER
