@@ -18126,4 +18126,15 @@ END OF ENTRY 382
   Ch 43 re-sort cut). H1's spot-check edits for Ch 9, Ch 43 and Ch 40, less one unsupported row.
 - **Applied in:** the private manuscript's `B01/br-2026-10-09/`.
 
+## §515 — B01: clarity pass done, 2026-10-12
+
+- **Applied in** the private manuscript's `B01/br-2026-10-09/`: the ten approved clarity decisions (§514), by three
+  revisers, with H1's spot-check edits for Ch 9, Ch 40 and Ch 43 (the unsupported row skipped; check rows applied only
+  where verified). The nicknames *askers* and *boxes* are coined by Miss Tavie at Ch 28.
+- **Checked:** continuity, guards and seams; 14 small fixes; no guard breach. Logs and `CHECK_AND_FIX.md` in
+  `draft-notes/final-audit-2026-10-12/`.
+- **For the author:** R6's wording changed (Lucien's phone was stolen that morning: *"Nothing. Wed. L. New phone."*);
+  whether Ch 14's *"stays out of the room"* is meant to be ambiguous; Ch 43's *"the schoolboy's phone"* (older text).
+- **Reading copies:** EPUB and MD rebuilt (about 146k words).
+
 END RECOVERY LEDGER
