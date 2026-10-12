@@ -18076,4 +18076,16 @@ END OF ENTRY 382
   - the oil spill no longer echoes E46's coffee *"sheet"*.
 - **Reading copies:** EPUB and MD rebuilt.
 
+## §510 — B01: the author's Prologue and Ch 1 annotations applied; counting restraint (author, 10-12)
+
+- **Recorded in:** `decisions/B01_PROLOGUE_CH1_AUTHOR_ANNOTATIONS_AND_COUNTING_RESTRAINT_2026-10-12.md`.
+- **Applied:** 58 annotations mapped to the br draft's E00/E01.
+  - The watchers: record and stories.
+  - The screen door: tape holding, wire broken.
+  - Gail's warning moved to an overheard radio handoff (E25 adjusted).
+  - Renée's anomaly dropped.
+  - The kitchen-light ritual.
+- **Book-wide:** counting restraint.
+- **Reading copies:** EPUB and MD rebuilt.
+
 END RECOVERY LEDGER
