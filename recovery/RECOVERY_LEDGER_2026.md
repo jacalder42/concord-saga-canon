@@ -18243,4 +18243,14 @@ END OF ENTRY 382
   place (a dated note, §1, §2.6, §3, §5, Q-SB6). The scenes cut or rerouted on that ground (the dance, the towel visit,
   the lunch errand) are restored as available. The private designs keep their text, read with this correction.
 
+## §525 — B01 standalone braided redesign: Q-SB0–13 answered, 2026-10-12
+
+- **Author:** *"Q-SB0 confirmed; the rest as recommended."* Recorded in
+  `decisions/B01_STANDALONE_BRAID_REDESIGN_Q_SB_AUTHOR_ANSWERS_2026-10-12.md` (approved design).
+- **Set arcs confirmed:** Baz, Tahl, Kade, plus the B09 direction.
+- **Next (Q-SB13):** the tests first: an integrated outline and two-page synopsis, a realism check of the 90-day
+  reconsideration, a paper test, and blind sample chapters (the moved kitchen, the Ledet scene by hand and by his men,
+  the stair with and without the declaration, the barrier chapter). Then the outline, packets and the revision.
+- **Owed by the author:** names for Renita and R.
+
 END RECOVERY LEDGER
