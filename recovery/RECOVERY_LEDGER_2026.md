@@ -18088,4 +18088,15 @@ END OF ENTRY 382
 - **Book-wide:** counting restraint.
 - **Reading copies:** EPUB and MD rebuilt.
 
+## §511 — B01: trimmed final audit started; concordance moved; the author's edit profile, 2026-10-12
+
+- **Recorded in:** `decisions/B01_FINAL_AUDIT_TRIMMED_SCOPE_AND_AUTHOR_EDIT_PROFILE_2026-10-12.md`.
+- **Running (read-only, seven agents):**
+  - provenance;
+  - consequences;
+  - evidence and ending;
+  - style with the author's edit profile;
+  - three simulated fresh readers.
+- **Reports:** the private manuscript's `draft-notes/final-audit-2026-10-12/`.
+
 END RECOVERY LEDGER
