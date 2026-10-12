@@ -18156,4 +18156,23 @@ END OF ENTRY 382
 - **Checked:** continuity and guards; one seam fixed; no guard breach. Notes in `draft-notes/edit-profile-run-2026-10-12/`.
 - **Reading copies:** EPUB and MD rebuilt (about 145k words).
 
+## §518 — B01: two forwarded reviews checked; a seven-reader blind panel on the br draft, 2026-10-12
+
+- **Author:** forwarded two automated "Story Overview" reviews (*"while some of their specifics are not quite right, the
+  overall strengths and weaknesses are good to consider"*) and asked for blind readers on the newest manuscript, to be
+  followed by a review of B01 as a standalone novel.
+- **Done (read-only; private files in the manuscript's `draft-notes/review-intake-2026-10-12/` and
+  `draft-notes/blind-panel-2026-10-12/`):**
+  - a claim check of both reviews against the br draft (§517 state, about 145k): all 12 strengths still present; of the
+    weaknesses, about 10 addressed, about 17 partly, 7 still holding; Review B misdescribes the premise (gravity, a
+    corporation, emotional targeting);
+  - seven blind readers on a clean copy: 3½ / 3½ / 4 / 3½ / 4 / 4 / 3½ (mean 3.7); all would read Book Two; the editor
+    would acquire with revisions at 115–125k.
+- **Converging:** the opposition (7 of 7); a repeating middle, lowest at Ch 28–29 and Ch 20–22 (7 of 7); *the Veil*
+  arriving cold, with no reader registering the Ch 25 folder-tab plant (6 of 7); Book One rather than a standalone
+  (7 of 7). Planted oddities (the glass notice, the river note, the mistral, Peterhead, Keon, Duplessis) are not in
+  `grids/breadcrumbs.csv` or the B02/B03 packets.
+- **Report:** `reports/B01_BR_BLIND_PANEL_AND_FORWARDED_REVIEWS_2026-10-12.md`. Nothing changed in the manuscript.
+- **Next:** the standalone-novel review of B01, with the author.
+
 END RECOVERY LEDGER
