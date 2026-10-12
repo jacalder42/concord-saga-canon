@@ -1,12 +1,19 @@
 # B01 braided draft: revision 2 proposal (answers to the author's nine directions)
 
 Status: PROPOSAL (Tier D until answered), 2026-10-12. Ledger §532.
+
+**Version 2, the same day (ledger §533).** It follows the author's ruling `decisions/B01_SILENCE_CONFIRMATION_AND_RESONANCE_LIFT_AUTHOR_RULING_2026-10-12.md`:
+- the silence and confirmation guards are lifted;
+- *resonance* may appear on the page;
+- the "first one" flag is withdrawn.
+
+§2.2's flag is removed, §2.3 is rewritten, and Q-RV4–6 are reframed.
 - **Answers:** `decisions/B01_BRAID_PANEL_RESPONSE_AUTHOR_DIRECTION_2026-10-12.md` (items 1–9).
 - **Built on:** the blind panel (`reports/B01_BRAID_BLIND_PANEL_AND_REVIEWS_2026-10-12.md`) and three private studies in the manuscript's `draft-notes/braid-panel-response-2026-10-12/`:
   - `CANON_DOMINION_FIRSTS.md`
   - `CANON_VEIL_RESONANCE.md`
   - `DRAFT_AUDIT.md`
-- **It changes nothing** until the author answers Q-RV1–14. No ruling is amended, unless Q-RV6 is answered "yes".
+- **It changes nothing** until the author answers Q-RV1–14. The guards the author lifted are recorded in the ruling above; Q-RV6 would retire the "no control" design guard in part.
 
 ---
 
@@ -79,52 +86,60 @@ Cost: about +0.6–0.9k, in the C41 Monday coda or a short Baz beat, plus the no
 
 Cost: about +1.2–1.8k, in a short Baz section or at the head of Ch 37's Square scene. Ch 36 (the silence) is untouched.
 
-**Flag:**
-- Keep "the first one" out of Caldas's mouth; the draft already says "who felt it first".
-- The phrase collides with Tahl's locked B06 line "the first one has to be last".
-- B01's sense of "first" must stay a person, never a place.
+### 2.3 Real payoffs: the Veil and resonance (item 4), revised
 
-### 2.3 Real payoffs: the Veil and resonance (item 4)
+The author has lifted the silence and confirmation guards, and *resonance* may appear. That opens the win the book has
+lacked. **The crew's investigation produces a working model of resonance, names it, and uses it to make a forecast
+that comes true.**
 
-**Finding.** Almost everything that keeps B01 silent is approved design, which the author's new direction can lift, not ruled canon:
-- *Veil* only twice, never explained;
-- Baz knows nothing;
-- the empty folder;
-- the felt net never tied to the events;
-- the Interlude cut.
+**The investigation's arc (Acts II–III):**
+1. **The crew builds its own rules from counted tests.** Each rule is scored on Lucien's board (§2.6):
+   - It gathers where many people carry a lot at once: grief, crowds, the repast, the wedding.
+   - It keeps to places where it has gathered before: two tins of four moved, both on St. Ann.
+   - Water and old glass go first: ripples before the fall, three times of three.
+   - It comes faster as it builds: the gaps between events close.
+   - It is not her: her tin moved while she was away.
+2. **The folder gives the other side's word for it.**
+   - The page Baz took from Vienna is an Institute sheet. It names what the crew has been counting **resonance**: feeling pressing on the world, gathering, keeping to places.
+   - It names what holds it **the Veil**, thinner in some places, where things come through.
+   - It says why the Institute wants people who feel it first: they find the thin places.
+   - The crew reads it and recognises its own rules. **The page confirms that their model is right.** This is now allowed, and it is the investigation's earned win.
+   - Baz's "I think they're looking for the Veil" becomes knowledge, not a guess.
+3. **The model forecasts the festival, and the forecast is met** (§2.7).
+   - From the closing gaps, the returning places and the biggest crowd of the year, they forecast the Square, Saturday, a two-hour window.
+   - The city refuses to cancel. They prepare instead: posts, tins, the microphone, sitting.
+   - It comes on the Square inside the window. That is the book's biggest counted win: a prediction met, and the injury score of people who sat against people who stood.
+4. **Seraphine's net is the same thing.**
+   - She says aloud that what she has felt since the Vein is resonance between people.
+   - The Silence and Hope interlude (§2.4) shows the reader it is true.
+   - Nothing names her role or what she will become.
 
-The rulings that stay still allow a great deal. Characters may theorise aloud, even correctly. The page and the narrator never confirm.
+**What stays reserved** (their own rulings, not silence rules):
+- the hard cap, the Loom and the soul that powers it, the cycle, Mira;
+- the four-wound chain and the original tear;
+- the Mending site;
+- Tahl's B06 wound pattern;
+- the finale's answer.
 
-**Recommended: the "substantial" tier.**
-- **The folder holds one page.** It is a typed sheet from Vienna that Baz took and could not interpret. It states the Institute's working picture, as their claim:
-  - something **holds** what people feel;
-  - it is **thinner in some places**;
-  - where it is thin, things **come through**;
-  - the Institute wants people who **feel it first**, because such people find the thin places.
-- **When it is read.** At the river wall (Ch 30), or held to the weekend (Q-RV5). Caldas wants the page back, so S2's line about it gets a real object.
-- **The crew has already tested that picture, and won with counts:**
-  - it keeps to places (two of four tins moved, both on St. Ann);
-  - the water goes first (ripples before the fall, three times);
-  - it is not her (her tin moved while she was away);
-  - one minute, many places (Caro's printout);
-  - a crowd that is told comes through better (the sit-down score, §2.6);
-  - it comes where many people carry a lot at once (Seraphine's theory, revised by the count).
-- **Seraphine says aloud** that the net she has felt since the Vein is the same thing. It stays her theory; the others may doubt it.
-- **Baz's line.** "I think they're looking for the Veil" becomes "That's what they call it", with the page behind it. The word may be used from Act II, by more than Baz.
-- **What stays reserved:**
-  - for the finale: the cap, the soul, the Loom, the cycle, the wound chain, Silence and Hope as named holders;
-  - the site;
-  - anything outside New Orleans, which is B02's "New Orleans is not unique".
-- **What this tier spends:**
-  - the framing of one B03 beat (E01, Lucien's map);
-  - two B02 control notes (E22, E41), which change from "he has nothing" to "he has their picture, not how it works".
+**What stays as a world rule:**
+- The public does not acknowledge any of it (Mechanica §6). The city refuses the forecast as a man's notebook.
+- No powers.
 
-**The bold tier** is the other option (Q-RV6). It means:
-- a held limit stated outright;
-- the word *resonance* on the page;
-- calm softening the events.
+**The model's limits.** The Institute's sheet is their picture: it says *where* and *what feeds it*. It does not say *why it is wearing thin* or *what holds it*. Those stay open questions for B02 and B03.
 
-It needs rulings amended, and it spends reveals reserved for B07, B08 and Neon. **Not recommended.**
+**What this spends:**
+- **B02:** "New Orleans is not unique" stays B02's, as long as every B01 finding stays in the city. The E22 and E41 control notes change from "he has nothing" to "he has their picture".
+- **B03:** E01's framing of Lucien's map becomes an extension of the model, not its discovery.
+- **Neon:** "emotional amplification is visible" (Mechanica §7.2) is partly anticipated; Neon's version becomes public and quantified.
+- **Breadcrumbs:** the `BC-WEB-FELT` rung moves earlier.
+
+**One open question (Q-RV6): does calm soften the event itself?**
+- Canon says crowds multiply resonance. A told, seated, calm crowd could measurably shrink the festival event, and that would be a second, larger win.
+- Until now the "no control" design guard said the warning helps people and never touches the event.
+- **Recommended:** a partial yes.
+  - The festival event is measurably smaller than the lot's: shorter, fewer windows. The crew's count shows it.
+  - The page lets the reader and the crew wonder whether the calm did it, and the Silence and Hope interlude or the Epilogue confirms that the net held better where people held together.
+  - It must not become a technique the crew can switch on. That keeps control out of B01 and leaves Neon room.
 
 ### 2.4 Silence and Hope: another moment (item 3)
 
@@ -287,9 +302,9 @@ That is inside the soft cap, or at it.
 | Q-RV1 | Caldas pays: L2, Mr. Ledet's report under R-E-N "goes up", plus L1, an unsigned desk note takes the street and Baz off him | Yes, both |
 | Q-RV2 | The drastic act: Vernice held for "evaluation" on a city-signed order, Thursday 30 April, seen by Baz, carried out by Rieux, released Monday with a signed statement; the preacher's absence as the plant | Yes |
 | Q-RV3 | Who signs the statement behind the order: an unknown "interested party", or her sister, persuaded by a kind man | Her sister, the darker and more canon-true option (harm delegated, protection as coercion) |
-| Q-RV4 | Reveal tier: substantial (the Institute's picture on one page, tested and won with counts; Seraphine's theory unconfirmed; *Veil* used from Act II) | Yes |
-| Q-RV5 | When the folder's page is read: at the river wall (Ch 30) or at the weekend | At the river wall, so Act III runs on it |
-| Q-RV6 | The bold tier, with the word *resonance* on the page (needs a ruling on profile §9) | No |
+| Q-RV4 | The resonance arc in §2.3 (revised): the crew's counted rules; the folder's sheet names *resonance* and *the Veil* and confirms their model; the festival forecast is met; Seraphine's net confirmed through the interlude; the reserved reveals stay reserved | Yes |
+| Q-RV5 | When the folder's sheet is read: at the river wall (Ch 30) or at the weekend | At the river wall, so Act III's forecast is built on it |
+| Q-RV6 | Does calm soften the event itself? | Partly: the festival event is measurably smaller than the lot's and the page lets the calm be the likely reason, confirmed by Silence and Hope, but never as a switch the crew controls |
 | Q-RV7 | Silence and Hope: an interlude after Ch 22 (fallback: after Ch 30) | After Ch 22 |
 | Q-RV8 | Elisabet: the five beats in §2.5, no return in person | Yes |
 | Q-RV9 | Elisabet in person in Act III, against her approved Ch 20 departure | No |

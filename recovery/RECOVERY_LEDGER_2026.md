@@ -18359,4 +18359,23 @@ END OF ENTRY 382
   - It lands at about 117–121k.
 - **Q-RV1–14 await the author.**
 
+## §533 — Silence, confirmation and vocabulary guards lifted; *resonance* may appear; proposal version 2, 2026-10-12
+
+- **Author ruling** (`decisions/B01_SILENCE_CONFIRMATION_AND_RESONANCE_LIFT_AUTHOR_RULING_2026-10-12.md`):
+  - **Keeping silent:** the guard is lifted. The page may say what the phenomenon is.
+  - **Knowing and confirmation:** lifted. Characters may know causes, and the page and the narrator may confirm a
+    finding the story has established.
+  - ***Resonance*:** may appear on the page.
+  - **The "first one" flag:** withdrawn, because its tie to Tahl's B06 line is not clear.
+  - **What stands:** the reserved saga reveals (the cap, the Loom, the soul, the cycle, Mira, the wound chain, the
+    site, the finale) and the world rules (no public metaphysics, no powers, nobody reads minds).
+- **Writer profile §9:** three dated amendment notes (the *Not the mechanism* line and its Q-DQ4 scope, the
+  settle-the-cause clause, the vocabulary line). The ruled text stays visible above each note.
+- **Proposal version 2** (`proposals/B01_BRAID_REVISION_2_PROPOSAL_2026-10-12.md`):
+  - §2.3 is rewritten. The crew builds counted rules of resonance. The folder's Institute sheet names *resonance* and
+    *the Veil* and confirms their model. The model forecasts the festival, and the forecast is met: the investigation's
+    win.
+  - Q-RV4–6 are reframed. Q-RV6 asks whether calm softens the event itself; the recommendation is "partly, never a
+    switch".
+
 END RECOVERY LEDGER
