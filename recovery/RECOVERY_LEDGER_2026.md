@@ -18338,4 +18338,25 @@ END OF ENTRY 382
 - **The studies now cover both.** The Dominion study and the draft audit now include N. as the candidate contact, the
   trust break, and how the draft measures against each act's shape.
 
+## §532 — B01 braided draft: revision 2 proposal, 2026-10-12
+
+- **Studies done** (private, the manuscript's `draft-notes/braid-panel-response-2026-10-12/`):
+  - **The Dominion and "firsts":** canon backs a coercive "interview" over a disappearance. Caldas's own side makes
+    him pay. The best fit for Lucien's contact is Marius Holt (C03).
+  - **The Veil and resonance:** almost every silence guard is approved design. The "substantial" tier needs no ruling
+    amended.
+  - **The draft audit:** about 50 tests, and five wins on the page that are never scored. The "table page" shape occurs
+    11 times. Act III has no disaster race. The Vein is Trip's bar.
+- **Proposal:** `proposals/B01_BRAID_REVISION_2_PROPOSAL_2026-10-12.md`.
+  - Caldas pays: Mr. Ledet's report goes up, and a desk note takes the street from him.
+  - Vernice is held for "evaluation" on 30 April.
+  - The folder's page gives the Institute's picture, already tested and won with counts.
+  - A Silence and Hope interlude after Ch 22.
+  - More Elisabet and the Vein.
+  - The result rule.
+  - An Act III forecast, refused by the city.
+  - Marius, with the trust breaking at Ch 10–11.
+  - It lands at about 117–121k.
+- **Q-RV1–14 await the author.**
+
 END RECOVERY LEDGER
