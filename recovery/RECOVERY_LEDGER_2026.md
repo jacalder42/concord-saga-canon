@@ -18099,4 +18099,14 @@ END OF ENTRY 382
   - three simulated fresh readers.
 - **Reports:** the private manuscript's `draft-notes/final-audit-2026-10-12/`.
 
+## §512 — B01: trimmed final audit done; decision queue, 2026-10-12
+
+- **Reports:** the private manuscript's `draft-notes/final-audit-2026-10-12/`.
+  - Provenance, consequences, evidence and ending, style with the author's edit profile.
+  - Three simulated readers: 3.5 / 4 / 3.5, all would read Book Two.
+- **Verdict:** preserve the ending; Ch 43 needs no change; no structural change is justified.
+- **Queue:** R1–R8 recommended (local continuity and consistency), O1–O5 optional, H1–H3 hold (including the
+  book-wide edit-profile method).
+- **Fixed:** three defects left by applying the Ch 1 annotations.
+
 END RECOVERY LEDGER
