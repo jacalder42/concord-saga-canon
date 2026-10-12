@@ -18144,4 +18144,16 @@ END OF ENTRY 382
   90-day reconsideration, with the family's distrust of the system); H3 as recommended; the edit profile run book-wide.
 - **Correction:** §514's note that Mr. Lionel's wrist was unsupported was an assistant error; the H1 row is applied.
 
+## §517 — B01: H2, H3 and the edit-profile run done, 2026-10-12
+
+- **Applied in** the private manuscript's `B01/br-2026-10-09/`:
+  - H2: the family's distrust of mailed forms (Ch 3), the 90-day reconsideration raised and refused (Ch 18), and
+    Seraphine not asking again before the closure line (Ch 37). Her confession and the closure line stand.
+  - H3: Lucien was looked at (nothing to treat); Guidry keeps him off the coroner's work while the file is open, and
+    Lowe keeps him on his other jobs (Ch 41).
+  - The author's edit profile across every chapter not already edited: seven revisers, about 150 edits (about 1 per
+    1,000 words); then 46 edits thinning eight repeated formulas book-wide.
+- **Checked:** continuity and guards; one seam fixed; no guard breach. Notes in `draft-notes/edit-profile-run-2026-10-12/`.
+- **Reading copies:** EPUB and MD rebuilt (about 145k words).
+
 END RECOVERY LEDGER
