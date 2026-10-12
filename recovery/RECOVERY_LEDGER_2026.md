@@ -18219,4 +18219,18 @@ END OF ENTRY 382
   as item 5. Open, costed: the second-kiss and declaration holds, the cover kiss, B03 E21 as the first kiss that counts,
   the heat limits, the chosen-distance ending. Relayed to the two braid designers mid-run.
 
+## §523 — B01 standalone review: two braided redesigns and proposal version 2, Q-SB0–13, 2026-10-12
+
+- **Done (private, `draft-notes/standalone-review-2026-10-12/BRAID_DESIGN_1_CONDUCTOR.md`, `…_2_COMPOSER.md`):** two
+  independent braided redesigns on the author's §521–§522 direction, each about 121k.
+- **They agree:** Melody A (the record: Seraphine; no villain, Renée's legitimate want) and Melody B (the watching:
+  Lucien in Act I, Baz from Act II; Caldas the one asker, openly menacing); Lucien bringing Baz is the Act I turn; every
+  Seraphine–Baz contact runs through Lucien; Mr. Ledet hurt and a hand on Baz at the festival; the cream-shoes woman an
+  unexplained observer; a final weekend (festival Saturday, Renée's kitchen Sunday, Lucien's stair Sunday night); the
+  kiss counts and B03 E21 becomes the return.
+- **They differ on:** A's clock (the 90-day reconsideration recommended); Ledet's placement; the link after the
+  Lucien–Baz break; the B-into-A leak; the declaration.
+- **Proposal:** `proposals/B01_STANDALONE_BRAID_REDESIGN_PROPOSAL_V2_2026-10-12.md`, superseding §520's recommendation
+  and Q-SN1–13. **Q-SB0–13 await the author.**
+
 END RECOVERY LEDGER
