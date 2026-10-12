@@ -18175,4 +18175,14 @@ END OF ENTRY 382
 - **Report:** `reports/B01_BR_BLIND_PANEL_AND_FORWARDED_REVIEWS_2026-10-12.md`. Nothing changed in the manuscript.
 - **Next:** the standalone-novel review of B01, with the author.
 
+## §519 — B01: standalone-novel review instructed, everything open but the trilogy leads and B09's direction, 2026-10-12
+
+- **Author:** *"Proceed with standalone review. Everything is on the table for change and modification. I would say the
+  only set items are the three trilogy lead character arcs, and the general direction of B9 finale and epilogue."*
+  Recorded in `decisions/B01_STANDALONE_REVIEW_SCOPE_AUTHOR_INSTRUCTION_2026-10-12.md`.
+- **Read as:** set = Baz, Tahl and Kade's arcs (`pov_baton_pass`) and the B09 finale/epilogue direction; Seraphine's
+  B01 arc open except where B09 constrains it (to confirm).
+- **Running (read-only, private `draft-notes/standalone-review-2026-10-12/`):** a chapter function map and a
+  fixed-versus-open constraint inventory, then independent standalone redesigns, then one integrated proposal.
+
 END RECOVERY LEDGER
