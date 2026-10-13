@@ -18422,4 +18422,20 @@ END OF ENTRY 382
   - no to the single-reader structural suggestions.
 - **Next:** the author's read, then the B02/B03 packet catch-up.
 
+## §536 — B01 braided draft, revision 2: Q-R2-1–7 approved as recommended, 2026-10-13
+
+- **Author:** *"Proceed as recommended."* Recorded in `decisions/B01_BRAID_REVISION_2_Q_R2_AUTHOR_ANSWERS_2026-10-13.md`
+  (approved design).
+- **Approved:**
+  - Revision 2 (`B01/braid2-2026-10-12/`) is the working draft, with coordinator decisions D1–D13.
+  - The crew states its own rule before Ch 30, so that the sheet confirms it.
+  - One uncertified inference ties the boxes to the 24 March model.
+  - Who searched Lucien's room stays uncertified.
+  - The length holds at about 120k until his read.
+  - One line pass: Inez's introduction once, the Ch 41 cup, Mr. Vidrine's oxygen plainer, the three tag phrases
+    thinned.
+  - No to the single-reader suggestions.
+- **Next:** the edits in place, a focused check, the reading copies rebuilt; then the author's read and the B02/B03
+  packet catch-up.
+
 END RECOVERY LEDGER
