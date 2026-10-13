@@ -18395,4 +18395,31 @@ END OF ENTRY 382
 - **Card notes:** `LucienID.md` and registry C03.
 - **Next:** packets, then the revision into a new manuscript folder, then checks, then a short blind read.
 
+## §535 — B01 braided draft, revision 2: built, checked and read blind, 2026-10-13
+
+- **Report:** `reports/B01_BRAID_REVISION_2_REPORT_2026-10-13.md`.
+- **Draft:** the manuscript's `B01/braid2-2026-10-12/` (51 units), **120,140 words** (landing range 117–121k). Built by six
+  revisers from packets, checked by four read-only checkers, then one fix round (every definite and probable finding,
+  about 3,000 words of texture trims). The first braided draft stays the checkpoint. Reading copies `B01_BRAID2_*`.
+- **On the page:** every Q-RV item, all 26 scores, and every guard that stays. *Veil* appears five times and
+  *resonance* only on the sheet and in the crew's speech.
+- **Coordinator decisions D1–D13**, which the author may override, include:
+  - the sitting tally recounted to seven;
+  - the "nice man" moved to Thursday morning;
+  - the Interlude's first tug made placeless;
+  - two small edits to copied units (Ch 40's tins; the Transmission's *Charlie-Seven*).
+- **Short blind read:** casual reader 4 / 5 and mystery reader 4 / 5, both would read Book Two; genre critic 3.5 / 5.
+  They converge on three points:
+  - the repeating middle;
+  - the concept handed over by the sheet, not deduced;
+  - the opposition's side left withheld.
+- **Q-R2-1–7 await the author.** Recommended:
+  - accept the draft;
+  - move the crew's own statement of the rule before Ch 30;
+  - one inference tying the boxes to the 24 March model;
+  - hold the length until his read;
+  - one small line pass;
+  - no to the single-reader structural suggestions.
+- **Next:** the author's read, then the B02/B03 packet catch-up.
+
 END RECOVERY LEDGER
