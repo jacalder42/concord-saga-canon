@@ -18438,4 +18438,23 @@ END OF ENTRY 382
 - **Next:** the edits in place, a focused check, the reading copies rebuilt; then the author's read and the B02/B03
   packet catch-up.
 
+## §537 — B01 braided draft, revision 2: Q-R2 edits applied, 2026-10-13
+
+- **Applied in place** in the manuscript's `B01/braid2-2026-10-12/` (log: `draft-notes/braid-r2-2026-10-12/Q_R2_EDIT_LOG.md`).
+  It now runs **120,358 words**, and the reading copies `B01_BRAID2_*` are rebuilt.
+- **Q-R2-2.** At Ch 29, on the curb at Carrollton, Seraphine states the crew's rule from her own log: the wedding, the
+  repast and the Square; a crowd carrying a lot together. Neither *resonance* nor *Veil* is used, and the sheet's wording
+  is avoided. Ch 30 now reads her line back off the sheet. Ch 35 sharpens the rule instead of discovering it.
+- **Q-R2-3.** At Ch 39, Seraphine's inference only: the woman in cream shoes was on the Square on 17 March, looking at
+  her watch, a week before the model the city's holds rest on. Nobody is named and nothing is certified.
+- **Q-R2-6.** Four line-pass changes:
+  - Inez is introduced once (Ch 3), with Ch 6 and Ch 7 eased.
+  - The Ch 41 cup now reads *"since the night of the river wall"*.
+  - Mr. Vidrine's oxygen lands in one sentence at Ch 39.
+  - The tag phrases are kept at the first use and the one that matters (Ch 14 and 39; Ch 10 and 39; Ch 26 and 39), and
+    varied elsewhere. Caldas still holds nothing.
+- **Checked:** the phrase placements by search, and no *resonance* or *Veil* before the sheet. One older item is left
+  alone: Ch 30's cup taken *"down from the shelf"* (the cups stand on a towel by the sink in Ch 25 and Ch 41).
+- **Next:** the author's read of revision 2, then the B02/B03 packet catch-up.
+
 END RECOVERY LEDGER
