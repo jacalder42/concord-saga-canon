@@ -18661,4 +18661,23 @@ ever merged, its entries are renumbered with a note.
   - **Loom:** the aftermath of that, ending in the Mending.
 - **Running:** packets, then revision 4 in the manuscript's `B01/braid4-2026-10-14/`. Revision 3 is kept as the checkpoint.
 
+## §548 — B01 revision 4: built, checked, fixed and read blind, 2026-10-14
+
+- **Report:** `reports/B01_BRAID_REVISION_4_REPORT_2026-10-14.md`. The draft is the manuscript's `B01/braid4-2026-10-14/`
+  (52 units, 119,889 words; old C39 split into C39 + C40). The reading copies are headed *revision 4, checked
+  (2026-10-14)*. Revision 3 stays the checkpoint.
+- **Process (Q-SH §3):** packets; eight revisers; four checks (one definite guard breach found and fixed: C36's
+  mockingbird); one fix round of 30 logged items; a spot-check, with no guard breach.
+- **Shape:** complete loops 9 → 5; written endings 45 → 25; debrief-only scenes ≈ 13 → 2; flat scenes 63 → 33. Rule 6
+  is applied: one confession per character per act.
+- **Blind read:** mystery 4, casual 4, critic 3.5. These are the same as revision 2. The new question finds the felt
+  repetition mainly in Caldas Ren's soft approach (all three readers), the deputy rerun (Ch 32/38) and the twice-read
+  card. All three say the stolen sheet confirms the crew's model rather than being beaten by it.
+- **Q-R4-1–9 await the author** (recommended: vary Caldas and cut one visit; make the sheet wrong in one line the crew
+  has disproved; change the Ch 38 refusal; one unattributed clue for the Ch 25 break-in; a small pass, then his read).
+  The critic's camp return, Elisabet in person and a settled Seraphine–Lucien scene are declined under existing
+  rulings.
+- **Not changed:** no ruling, card, rule or grid. Ch 36's *"If I falter, everything collapses"* is the ruled seed of
+  her false belief and stays.
+
 END RECOVERY LEDGER
