@@ -18757,4 +18757,15 @@ ever merged, its entries are renumbered with a note.
   unnamed ("B", "him", "his mentor") until his own POV. Recorded as an addendum in
   `decisions/B01_REWRITE_Q_MO_AUTHOR_ANSWERS_2026-10-14.md` and in `proposals/B01_REWRITE_MACRO_OUTLINE_2026-10-14.md` §0 and §3 (Ch 4, 8, 10, 11).
 
+## §558 — B01 rewrite: scene cards (Phase 2b), two independent checks, fixes applied, 2026-10-14
+
+- **Cards:** manuscript branch `claude/rewrite-2026-10-14`, `draft-notes/rewrite-2026-10-14/` (`CARD_BRIEF.md`, `CARDS_ACT1.md`, `CARDS_ACT2A.md`,
+  `CARDS_ACT2B.md`, `CARDS_ACT3.md`; about 160 scenes, targets about 110,000 words). Two independent checks (`OUTLINE_CHECK.md`,
+  `OUTLINE_CHECK_2.md`) and the coordinator's rulings (`FIX_DECISIONS.md`) are applied.
+- **Rulings made by the coordinator, for author confirmation:** the folder sits in Lucien's room and Baz moves it where Caldas can see; *VEIL*
+  is first printed at Ch 30; Seraphine hears Baz's Confession herself; the working names are **the Floor** (Caldas's side) and **the Cases**
+  (the instrument side), *Review* is Lucien's employer line; the "since February" camp line is cut; the forecast is an openly stated bet, not
+  gap arithmetic.
+- **Next:** author review of the cards, then drafting by act. No drafting, PRs or merges have begun.
+
 END RECOVERY LEDGER
