@@ -18457,4 +18457,20 @@ END OF ENTRY 382
   alone: Ch 30's cup taken *"down from the shelf"* (the cups stand on a towel by the sink in Ch 25 and Ch 41).
 - **Next:** the author's read of revision 2, then the B02/B03 packet catch-up.
 
+## §538 — First tear, hard cap and Breathable Veil: conversation recovered and reconciliation proposed, 2026-10-13
+
+- **Recovered:** the author supplied an external assistant conversation, "Veil refinement", on 2026-10-13. It is kept verbatim in
+  `recovery/FIRST_TEAR_HARD_CAP_CONVERSATION_2026-10-13.md` (Tier D, original, not to be altered).
+- **Checked against** the canon and manuscript branches `claude/manuscript-review-feedback-ekjyqj` (canon c1f58ad, manuscript 66498e8),
+  through the braid revision 2 reading copy.
+- **Finding:** most of the conversation's physics is already in Mechanica §42A, the Sept 27 hard-cap answers and `SeraphineIdentity.md`
+  §XII. The Oct 12 lift ruling removes most of the conflicts with the E01/E18 packets and the Oct 9 engine answers. The reserved
+  reveals (the four-wound chain and its order, the cap, the Loom, Mira) keep the origin of the first tear off B01's page.
+- **Proposed** in `proposals/FIRST_TEAR_HARD_CAP_RECONCILIATION_PROPOSAL_2026-10-13.md`: six open questions, Q-FT1–Q-FT6 (trigger moment;
+  whether the camp is Honey Island; the E01/E18 prohibitions after the lift; dog behavior; the first tear on early pages; the
+  vocabulary in §42A). Recommendations are the assistant's, not rulings.
+- **Corrections to the conversation:** the child is Dré Batiste, not *Dez*; the porch beat is in Ch 1, not the prologue.
+- **Changed:** nothing in `rules/`, `canon/`, `grids/`, `ebci/`, `decisions/` or the manuscript.
+- **Next:** the author's read of braid revision 2 and the decision on whether braid is B01's final direction; then Q-FT1–Q-FT6.
+
 END RECOVERY LEDGER
