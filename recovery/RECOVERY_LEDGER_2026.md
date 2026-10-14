@@ -18720,4 +18720,17 @@ ever merged, its entries are renumbered with a note.
   superseded and kept. No PRs or merges to `main`.
 - **Next:** author answers Q-KN1–8, then the knowledge map and ladders.
 
+## §552 — B01 rewrite: Q-KN1–8 answered, 2026-10-14
+
+- **Author:** answered Q-KN1–8 (Baz holds the *why*: power, harnessing; Lucien holds the *what*: events, an undefined force, ozone and
+  weather frames; Baz withholds from Lucien for his safety, which seeds Caldas hunting Baz; capital-C Confessions only; the camp may be
+  revisited and backstory wounds may enter B01; open to naming the faction, lean Act III; B02/B03 re-plan: yes). Recorded in
+  `decisions/B01_REWRITE_Q_KN_AUTHOR_ANSWERS_2026-10-14.md` (approved design).
+
+## §553 — B01 rewrite: the knowledge map and ladders (Phase 1 proposal), 2026-10-14
+
+- `proposals/B01_REWRITE_ENGINE_KNOWLEDGE_MAP_AND_LADDERS_2026-10-14.md`: the central error (people and instruments both wrong), a
+  waypoint knowledge map, five ladders (mystery, opposition, romance, action, Confessions), a payoff ledger, carry-over and drop list,
+  Q-EN1–6. **Next:** author answers, then the beat outline.
+
 END RECOVERY LEDGER
