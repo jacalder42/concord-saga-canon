@@ -122,7 +122,7 @@ Left: what braid 2 shows. Right: where the proposed physical events could sit. C
 | Ch 1: Odile: "He's gone"; Seraphine has the words ready and holds the coffee; Odile's hand on her knee | The conversation's proposed trigger (P5) | If a tear occurs here it must be a small change on top of an already-full pressure. Nothing on the page registers a change at this point |
 | Ch 2: the fullness thins "around forty" (counted), then her ears open | Aftermath | Consistent with a bounded local effect that decays |
 | Ch 4: Lucien at the camp; the yellow dog under the porch is ordinary | | |
-| Ch 9: fullness again at the Square | Later manifestation | |
+| Ch 9: a midnight walk; the fullness runs at least fourteen blocks from a bottle tree, only Seraphine feels it; Lucien, across the street, feels the corner post lean at 23:51 and goes down; she checks her phone at 23:52 | Later manifestation | Corrected 2026-10-13 (full read): the earlier draft of this row said "at the Square" |
 | Ch 30: the sheet: "It keeps to places where it has gathered before"; "The Veil is thinner in some places than in others. Where it is thin, things come through" | The crew's own account of the mechanism, in the characters' terms | This is the nearest the page comes to the conversation's model, and it stops short of origin |
 
 **What the page establishes and the conversation must respect.** The pressure exists before the notification, is not grief, is bounded to the place, and decays. A trigger at the notification therefore adds at most a subtle change. If the author prefers the trigger to be the effort (the CPR), the card's "care + urgency + helplessness" fits better and the page needs nothing. If the author prefers the notification, the porch needs, at most, one small unexplained physical detail, and the earlier effect needs to be read as precursor. Either choice is a back-room decision for B03 and B09, not a B01 requirement.
@@ -136,9 +136,9 @@ The Oct 13 brief asked for four distinct receipts. Braid 2 already has them. The
 | Receipt | Where braid 2 delivers it | Verified |
 | --- | --- | --- |
 | **1. Connection**: apparently unrelated disturbances are one class | The folder's sheet, Ch 30: line 1, "What is reported as tremor, stopping, cracked glass and disturbed water is one thing. We call it resonance."; Lucien checks each line against the crew's counts | Read |
-| **2. Discrimination**: falsify a rival explanation | A rival explanation (carbon monoxide) appears at Ch 2 and Ch 8; the crew's deduction at Ch 29 and Ch 35 (the wedding, the repast, the Square: crowds carrying a lot together) separates crowd feeling from equipment or an environmental hazard | Located by search; not read for adequacy |
-| **3. Prediction**: anticipate a disturbance from evidence the reader has | The festival forecast, Ch 37–39, built on the sheet read at Ch 30 (Q-RV5) | Located by search |
-| **4. Application**: use it to reduce harm, at a visible cost | The Square climax (Isaiah, the river wall, Ch 38–41) | Located by search |
+| **2. Discrimination**: falsify a rival explanation | Carbon monoxide is raised by Guidry (Ch 2) and disproved at the camp: the meter reads zero in every room, the generator sat 130+ ft downwind and had been removed (Ch 4). Ch 13 and Ch 15 add falsifiers (a street that stopped around one woman at her stove; Lucien's protocol); Ch 20 and Ch 24 rule out groundwater and the ground ("Not the ground") | Read (full read, 2026-10-13) |
+| **3. Prediction**: anticipate a disturbance from evidence the reader has | Lucien's two-day forecast before Carrollton (Ch 29); the counts 24, 10, 9 days and the Saturday bet at the Square (Ch 35), met at Ch 39. The crew's rule is stated at Ch 29 and confirmed by the sheet at Ch 30 | Read |
+| **4. Application**: use it to reduce harm, at a visible cost | The Saturday Square (Ch 38–39): sitting down when told spares the gallery (seven hurt otherwise, none where they sat). Costs: Seraphine's onset record, Vernice's four days and her voice, Baz's arm. The river wall is where the sheet is read (Ch 30), not the climax | Read |
 
 **Gap the conversation's brief would add, and I'd decline:** the brief wants the mystery to solve toward a common initiating event. B01's engine answers (Oct 9) and the reserved-reveals ruling both keep that out. The earned conclusion is "it keeps to places and thin places let it through", not "it started at the swamp because of Seraphine".
 
@@ -231,3 +231,63 @@ Where the conversation's model is weak:
 1. **Now:** this proposal and the verbatim conversation sit on a branch. No `main`, no pull request, no manuscript edit.
 2. **After the author's read of braid 2 and the decision on whether braid is B01's final direction:** answer Q-FT1–Q-FT6, record the answers as a ruling in `decisions/`, then apply the additive changes in §7.
 3. **Manuscript:** touch only if Q-FT1 or Q-FT4 asks for it. The recommendation is no change.
+
+---
+
+## 12. Full read of braid revision 2 (added 2026-10-13, after the Q-FT answers)
+
+**Method, stated plainly.** I read lines 1–2150 myself (Prologue to Ch 9). Lines 2150–9751 (Ch 9's end to the Epilogue) were read in full by five parallel readers, each given a line range and the same questions, and I checked their key quotes against the text. One reader misread Ch 35 (see 12.2); I corrected it. The Ch 18 and Ch 24 day counts and the Ch 31 phone timing below come from readers and are not independently checked.
+
+### 12.1 What the full read shows about the first tear
+
+1. **The prologue already stages the tear as pending.** Silence and Hope: *"Is it giving?" "Not yet."* and *"And when it gives?"* (unanswered). The screen door's tape holds while the wire beneath it is broken. So the page itself says the cap has not given when the boy is feverish. The author's lean (the tear at "He's gone") fits this better than any earlier trigger: the fullness during the CPR is the stored pressure leaking at a thin point before the give.
+2. **The porch has the right beat.** Ch 1: Odile says "He's gone"; Seraphine "already had the words, all of them, in order... The rest of it belonged to her"; "She held the coffee."; then Odile's hand lands, which Seraphine "had not seen it coming". That is the guilt-and-fear moment the lean describes, with an unfilled beat between recognition and the hand. Nothing else on the page needs to change for a give to sit there.
+3. **The page is consistent with a give at that moment.** The fullness is "as even as it had been" afterward and still there at first light (Ch 2), so nothing in the text shows a change at the notification and nothing contradicts one.
+4. **The first NOLA manifestation follows within two days.** Dré dies on a Tuesday night; on the Thursday Lucien notices the corner post lean (Ch 4), before he enters the camp on Saturday. Nothing connects them on the page.
+5. **The camp is already the first case in the crew's record.** Ch 35: Seraphine tells Baz about the front room *"the morning after the boy died, the front room with nobody in it, the same as the night before"* and Baz writes *"Empty room, morning after. Had it already."* (This is the crew's test of "carrying nothing, found as hard", and the camp passes it.) Ch 29: Marius writes that *"the report on the camp went up in March. Not by me."* The Institute treats the camp file as significant.
+6. **The page's epistemics already keep the origin open.** Ch 38: Elisabet sorts known, inferred and unknown, and the unknown is *"why it is thinner where it is thin"*. Ch 40: Seraphine's added statement says *"I do not claim the pressure harmed him or caused anything. I do not claim to know what it was."* The sheet (Ch 30) never says where the Veil is thin.
+7. **The Epilogue leaves the door open.** Silence and Hope feel the net hold and hear "the Veil" named below. The last image: *"Somewhere at the edge of the low wet country, a little standing water in a ditch trembled and was still again, and where it began, neither of them saw."* The prologue's "first tug" comes from the same country. Nothing is revealed and the origin is left for a later book.
+
+### 12.2 A reader's error corrected
+
+A reader reported that Ch 35 treats the camp's room as unaffected the next morning. The text says the opposite: the room was *the same as the night before*, with nobody in it. It supports the first-tear reading.
+
+### 12.3 Q-FT3 recommendation (delegated): narrow, do not delete
+
+- **Observation:** the braided page nowhere states a cause of the first event, and its own characters decline to (12.1 item 6). The old E01 packet line "grief, feeling and Intent cause nothing" is therefore already honored on the page, and the E18 bar on "any link to the camp or to a site" is already overtaken: the braid links the camp to the phenomenon through the empty-room test.
+- **Recommendation:** replace both with one narrowed guard: *the narrator and the characters never state that the camp is the origin, that the first event had a cause, or that Seraphine did anything to cause it; ordinary grief is not a cause.* This keeps Q-FT5 (no) and the reserved reveals, and drops only the parts the lift ruling and the braid have already overtaken.
+- **Timing:** the E01 and E18 packets belong to the pre-braid structure (E-numbered episodes; the braid is Ch 1–43). Edit them only after the author decides that braid is B01's final direction. Until then the narrowed guard is a proposal.
+
+### 12.4 Q-FT4 recommendation (delegated): yes to a subtle oddity, but in water, not in an animal
+
+- **What the page already does.** The yellow dog is posted at the mouth of the shell road, leads her in, makes no sound all night, then goes off "like an alarm" at the siren; Dré says "There's a dog in the road" and the dog is in the road. The cat watches the dog from the freezer and sits against Seraphine in the night. That is already the oddity.
+- **Why not add animal behavior.** Across the whole book no animal reacts to any event: not at the Square, the lot, Ursulines, Carrollton, Lacoste or the festival. The one near-exception is Mr. Ledet's cat dropping off the rail as a wrist breaks (Ch 30), which is a person's act, not the phenomenon. The crew's rules and the sheet name *still water and fine surfaces*, never animals ("Still water and fine surfaces show it first", sheet line 5). An animal that senses it at the camp would add a rule the book never states, and invite the question why no animal reacts later. Colors also collide: gray is the book's surveillance motif (the case, the suit, the hair), the camp cat is gray, Bijou is gray; yellow would pair with Ch 26's orange cat.
+- **What fits the book.** Water is its own instrument. The coffee is already in Seraphine's hands at the give ("She held the coffee."), and the crew's later rule is *"ripples, then legs"* (coffee ripples before the Square drops, Ch 26 and Ch 34). A single line at the notification, such as the surface of the coffee shivering though her hands are still, would plant that rule in Ch 1, keep an ordinary explanation (her hands shook earlier in the same scene), and carry no resonance language. The dog's dish (filled in Ch 1) is a second candidate. Frogs falling silent after the generator is the conversation's idea; it is an animal reaction and falls under the objection above.
+- **Recommendation:** no new animal behavior. If the author wants a trace at the give, use the coffee. This answers the author's lean (a subtle oddity, not resonance) without breaking the book's own rule. It is a manuscript change and waits for the author.
+
+### 12.5 Q-FT1: nothing further is needed
+
+The page supports the lean as it stands. Leave the trigger undecided in canon, with the lean recorded. If the give needs a trace later, the coffee line is the cheapest option. Seraphine's later thought in Ch 36 (*"If I falter, everything collapses"*) is a possible hook but is in her mind alone.
+
+### 12.6 Continuity points noticed in the full read (for the author's read, not for this proposal)
+
+These are not first-tear issues. They come from the readers and are marked where I did not check them.
+
+| Where | Point |
+| --- | --- |
+| Ch 6 / Ch 10 / Ch 29 / Ch 38 | The wedding at the Cabildo is a Saturday earlier in March; the amp event in the Square is Tuesday 17 March. The crew's date list in Ch 38 has only 17 March ("The Square had had it twice"), and the Ch 29 card question is "Prior to the seventeenth of March". The earlier events (Ch 5 on a Wednesday, Ch 6 on the Saturday) sit outside that count. Check whether the omission is deliberate |
+| Ch 37 | Vernice calls the wedding "In Lent, a Saturday" |
+| Ch 18 | "third afternoon" / "since Wednesday" against an entry dated Saturday (unchecked) |
+| Ch 24 | Baz's "three afternoons" on Mrs. Arceneaux's porch against a Wednesday spent in the car (unchecked) |
+| Ch 27 / Ch 29 | A glass report for "Wednesday afternoon" is filed Friday 17 April and already cited in a Monday 20 April bulletin (unchecked) |
+| Ch 30 / Ch 31 | Timing of Lucien's new phone's first message (unchecked) |
+| Ch 20 / Ch 16 | Elisabet's permit revocation is dated "this morning" but follows a night visit a week earlier (unchecked) |
+| Ch 32 / Ch 38 | Caldas Ren and the gray man named "R-E-N": the same man? Unstated |
+| Ch 32 | "Nothing has ever happened on Kerlerec" against incidents there (unchecked) |
+| Ch 40 | "Tomorrow's the ninetieth day" on Sunday 3 May fits a coverage end of 3 February |
+| Ch 19 / Ch 22 | Baz dancing "with a bus driver's wife" (Ch 23) is not shown in Ch 22 |
+
+### 12.7 What does not change
+
+The §8 recommendations stand: Q-FT1 undecided with the lean recorded; Q-FT2 page silent on Honey Island; Q-FT5 no; Q-FT6 drafting vocabulary only. Nothing in `rules/`, `canon/`, `ebci/` or the manuscript is changed.
+

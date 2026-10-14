@@ -18485,4 +18485,22 @@ END OF ENTRY 382
 - **Changed:** nothing in `rules/`, `canon/`, `grids/`, `ebci/` or the manuscript.
 - **Next:** the full read of braid 2, and the Q-FT3 and Q-FT4 recommendations from it.
 
+## §540 — First tear: braid revision 2 read in full; Q-FT3 and Q-FT4 recommendations, 2026-10-13
+
+- **Instruction:** *"make updates to plan then read Braid fully"* (`decisions/FIRST_TEAR_Q_FT_AUTHOR_ANSWERS_2026-10-13.md` §1).
+- **Read:** `draft-notes/human-read/B01_BRAID2_COMPLETE_READING_COPY.md` (9,751 lines). Lines 1–2150 were read directly; lines 2150–9751
+  by five parallel readers whose key quotes were checked against the text; one reader error was corrected
+  (proposal §12.2).
+- **Recorded** in `proposals/FIRST_TEAR_HARD_CAP_RECONCILIATION_PROPOSAL_2026-10-13.md` §12:
+  - the prologue stages the tear as pending ("Is it giving?" "Not yet."), the Ch 1 porch has the beat, and the Epilogue leaves the
+    origin open, so the author's lean needs no page change;
+  - Q-FT3: narrow the E01/E18 prohibitions to one guard (no stated cause, no stated origin, no Seraphine-as-cause), after the
+    author decides whether braid is final;
+  - Q-FT4: no new animal behavior (no animal reacts to any event in the book); if a trace is wanted at the give, use the coffee
+    in her hands, which also plants the crew's later "ripples, then legs";
+  - corrections to §4 (Ch 9 is a night walk, not the Square) and §5 (the receipt mapping now rests on a full read);
+  - a continuity list for the author's read (§12.6), several items unchecked.
+- **Changed:** nothing in `rules/`, `canon/`, `grids/`, `ebci/`, `decisions/` or the manuscript.
+- **Next:** the author's decision on whether braid is B01's final direction; then, if wanted, the Q-FT3 guard and the Q-FT4 coffee line.
+
 END RECOVERY LEDGER
