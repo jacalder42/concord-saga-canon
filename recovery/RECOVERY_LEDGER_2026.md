@@ -18517,4 +18517,38 @@ END OF ENTRY 382
 - **Next:** the author's read of revision 3 (or a blind panel on it, if wanted); then the B02/B03 packet catch-up, which is when the
   E01 and E18 packets are brought into line.
 
+## §542 — B01 revision 3 reviewed; follow-ups done; the intended-but-not-done gap identified, 2026-10-14
+
+- **Author:** *"Proceed as recommended. I also think more substantial revisions were intended that occurred."* Recorded in
+  `decisions/B01_REVISION_3_REVIEW_FOLLOWUPS_AUTHOR_INSTRUCTION_2026-10-14.md`.
+- **Branches fast-forwarded** into `claude/manuscript-review-feedback-ekjyqj`:
+  - canon `claude/first-tear-reconciliation-2026-10-13` (§538–§541);
+  - manuscript `claude/braid3-2026-10-13` (revision 3).
+- **Done:**
+  - Revision 3's Ch 1 *"fine rings"* → *"fine ripples"*, under the 10-08 terminology ruling.
+  - The revision 3 builders' repository path is fixed; the md, epub and html copies are rebuilt; the reviewer package
+    is corrected.
+  - CLAUDE.md §8 is updated.
+- **Review findings:**
+  - The 10-13 Mechanica citations are accurate (§42A.2; `SeraphineIdentity.md` §XII).
+  - The validator and self-tests pass.
+  - Caldas Ren and the *R-E-N* man are the same man (Ch 39).
+- **Gap** (`proposals/B01_REVISION_3_GAP_AND_FIRST_TEAR_FOLLOWUP_PROPOSAL_2026-10-14.md`):
+  - Two of the 10-13 conversation's directions were never put to the author: Version B as approved design, and the B01
+    revelation level (*the swamp event initiated a persistent local disturbance*). The second was declined by the assistant,
+    and the approved Q-FT3 guard forecloses it.
+  - The page already holds the empirical traces: Ch 2's forty paces, both ways, and Ch 4's lean four days later. They are
+    bound to the place and do not decay. Nobody on the page says so.
+  - Branch `claude/latest-draft-review-uupnx5` carries 10-12 author decisions that revisions 2 and 3 do not: the viability
+    answers, the supplement and serial-only decisions, the polish draft and five serial bonuses. Its ledger §529–§533
+    collide with ours.
+- **Q-R3-1–6 await the author.** Recommended:
+  - Version B as approved design;
+  - the guard amended so the camp may be named as the first place known, still holding;
+  - Seraphine's *"something answered"* at Ch 2;
+  - a breadcrumb row;
+  - port the 10-12 decisions after a port list;
+  - a ledger summary entry now, and renumbering only on any merge.
+- **Next:** the author's answers, then a revision 3 change pass of about 400–700 words, checks, and the short blind read.
+
 END RECOVERY LEDGER
