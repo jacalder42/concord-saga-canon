@@ -18707,4 +18707,17 @@ ever merged, its entries are renumbered with a note.
   C41's call-back, the sheet's origin line, and Caldas's hat.
 - **Draft:** 120,104 words; reading copies `B01_BRAID4_*`, headed *small pass*. **Next: the author's read.**
 
+## §551 — B01: rewrite from a new outline; Baz and Lucien already know, 2026-10-14
+
+- **Author:** *"I still lean rewrite vs reuse…"*; confessions must be realistic; *"Lucien knows WHAT they want, and Baz knows WHY
+  they want it."* Recorded in `decisions/B01_REWRITE_AND_KNOWING_BAZ_LUCIEN_AUTHOR_DIRECTION_2026-10-14.md` (approved design
+  direction; not ruled canon).
+- **Proposal:** `proposals/B01_REWRITE_KNOWLEDGE_MODEL_AND_PLAN_2026-10-14.md`: the knowledge model, a confession budget,
+  a six-phase plan, Q-KN1–8. Reopens, for B01 only, Q-PI1/F3/CP9 (Lucien) and Q-PI2/§387/CP9 (Baz).
+- **Diagnostics:** manuscript branch `claude/diagnostics-2026-10-14` (`draft-notes/diagnostics-2026-10-14/SYNTHESIS.md`):
+  255 scenes, about 130 KEEP; faults are structural, repeated and character-level.
+- **Branches:** `claude/braid3-2026-10-13` (manuscript) and `claude/first-tear-reconciliation-2026-10-13` (canon) are marked
+  superseded and kept. No PRs or merges to `main`.
+- **Next:** author answers Q-KN1–8, then the knowledge map and ladders.
+
 END RECOVERY LEDGER
