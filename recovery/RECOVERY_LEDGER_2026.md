@@ -18733,4 +18733,15 @@ ever merged, its entries are renumbered with a note.
   waypoint knowledge map, five ladders (mystery, opposition, romance, action, Confessions), a payoff ledger, carry-over and drop list,
   Q-EN1–6. **Next:** author answers, then the beat outline.
 
+## §554 — B01 rewrite: Q-EN1–6 answered, 2026-10-14
+
+- **Author:** answered Q-EN1–6 (the sheet is Baz's stolen folder, likely his final straw; the solved mystery is provisional and may change
+  for the best narrative vector; the nicknames are to be rethought; Dominion named in Act III). Recorded in
+  `decisions/B01_REWRITE_Q_EN_AUTHOR_ANSWERS_2026-10-14.md` (approved design).
+
+## §555 — B01 rewrite: the macro outline (Phase 2a proposal), 2026-10-14
+
+- `proposals/B01_REWRITE_MACRO_OUTLINE_2026-10-14.md`: 44 chapters in three acts (what is it / who wants it / what is it to us), POV
+  split, changes from braid 4, chapter table, checks, Q-MO1–5. **Next:** author answers, then scene cards (Phase 2b).
+
 END RECOVERY LEDGER
