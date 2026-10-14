@@ -14,3 +14,12 @@ These answer `proposals/B01_REWRITE_MACRO_OUTLINE_2026-10-14.md` §5 (first vers
 | Q-MO3 | **Agreed.** Baz does not feel the events. |
 | Q-MO4 | **Agreed.** The instrument side opened the box in Lucien's room; Baz assumes Caldas. |
 | Q-MO5 | **Agreed.** Lucien's Confession moves earlier (Ch 38), with the deputy and Elisabet after it (Ch 39). |
+
+## Addendum (author, 2026-10-14, later): Lucien's arc and "B"
+
+> *"I can see Lucien originally only reporting to Vienna, then gradually becoming less and less comfortable with their instructions, and he
+> starts reaching out to Baz for guidance. Perhaps Baz is left unnamed until his POV, maybe the communication is with "B" and Lucien can
+> internally register it going to "B" or "him" or his "mentor""*
+
+Approved design direction: Lucien reports only to Vienna at first; his growing discomfort leads him to reach out to **B**, his mentor, who is
+**unnamed until Baz's POV (Ch 11)**. Recorded in the macro outline §0 (refinement). Ledger §557.

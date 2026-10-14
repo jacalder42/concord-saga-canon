@@ -11,6 +11,17 @@ summoned? Perhaps the summon happens at the close of Act I and is told from Baz'
 Baz's arrival (old Ch 3), the sideways warning (old Ch 8), his presence at the funeral and "Bastien" in the Square. Act I closes
 on **Baz's summons, in his POV (Ch 11)**; he reaches the city on 1 April. The book is **43 chapters**.
 
+**Refinement (author, same day, on Lucien and "B"):** *"I can see Lucien originally only reporting to Vienna, then gradually becoming less and
+less comfortable with their instructions, and he starts reaching out to Baz for guidance. Perhaps Baz is left unnamed until his POV, maybe
+the communication is with 'B' and Lucien can internally register it going to 'B' or 'him' or his 'mentor'."* Taken as follows:
+- **Lucien's reporting arc:** Ch 4 he reports **only to Vienna** (a curated note to the Institute desk). By Ch 8 the instructions sit badly
+  (the instrument failure, the Institute's questions) and he makes his **first unsent, then sent, message to "B"**, whom his POV calls
+  *B*, *him* or *his mentor* and never by name. Ch 10 (the Square) he writes "Come." The reader learns the name **Baz** in Ch 11, his POV.
+- **Baz is Lucien's mentor** (the senior hand at the Vienna table, who left). This fits canon's *same table, for the same people* and
+  leaves the ages unstated. Lucien thinks of Baz as a trusted former mentor who went into community work; he does not know Baz holds the *why*.
+- **What the reader sees in Act I:** Lucien's pull toward an outside voice and Baz's replies (what he asks, what he refuses to put in
+  writing), without a name or a face. Seraphine does not meet "B" until Ch 12–14.
+
 What it changes:
 - **Act I Baz is a voice at a distance.** Lucien writes and phones an old friend in Houston (Ch 4, 8, 10) beside his curated notes to
   the Institute. The reader sees **what Baz does not say** in his replies ("don't put it in writing; tell me where"), so his
@@ -59,14 +70,14 @@ Columns: POV; date; trigger and shape; the turn; the ladder rung (engine §4a); 
 | T | watcher | — | file | "if there's another one, this wasn't nothing" | — | K |
 | 2 | S | Wed 18 | morning at the camp / walk + procedure | the edge at 40–60 steps; Guidry will not write in the margin | 1 | K |
 | 3 | S | Fri 20 | the bar / ordinary life | she hides the folder from Caro; the room "draws in like a bag" | seed 14 | A |
-| 4 | L | Mon 23 | coroner's office / procedure + mutual lies | instruments read zero; he feels it; writes "None"; he writes the Institute a lean note and **Baz** a short one; Baz's reply: "Don't put it in writing." | 2 | K/A |
+| 4 | L | Mon 23 | coroner's office / procedure + mutual lies | instruments read zero; he feels it; writes "None"; he reports **only to Vienna**, a lean note; the omissions are his | 2 | K/A |
 | 5 | S | Tue 24 | public office / event | a room stops together; the city notice dated today | 3 | A |
 | 6 | S | Wed 25 | block / event + aftermath | it goes to the loudest; her warning makes her "the one who knew" | 3 | A |
 | 7 | S | Fri 27 | funeral / ritual | a gray-haired man at the back; Renée; the 4 May window | — | A |
-| 8 | L | Sat 28 | craft / procedure | the failed post: right numbers, the error persists; the unsent true note; a call with Baz, who only asks questions | 2 | K/A |
+| 8 | L | Sat 28 | craft / procedure | the failed post: right numbers, the error persists; the unsent true note; **his first message to "B" (his mentor, unnamed)**; the reply only asks questions and will not take it in writing | 2 | K/A |
 | 9 | S+L | Sun 29 | night walk | two phones, 23:51/23:52, 14 blocks; the pact; each lies by omission | 4 | A |
-| 10 | S+L | Tue 31 | the Square / event | the Square falls at once; the mule; a hum first; cream shoes; the City knows Rieux's notes within hours; Lucien: "Come." | 4, 5 | A |
-| 11 | **B** | Tue 31–Wed 1 Apr | Houston / the summons, internal | he reads it; what he knows, what it costs to tell, what the people who sent Lucien will do; he goes | — | N |
+| 10 | S+L | Tue 31 | the Square / event | the Square falls at once; the mule; a hum first; cream shoes; the City knows Rieux's notes within hours; Lucien writes "B": "Come." | 4, 5 | A |
+| 11 | **B** | Tue 31–Wed 1 Apr | Houston / the summons, internal | **first time the name Baz is on the page**; he reads "Come."; what he knows, what it costs to tell, what the people who sent Lucien will do; he goes | — | N |
 
 ### Act II — Who wants it?
 | # | POV | Date | Trigger / shape | The turn | Rung | Lineage |
@@ -124,6 +135,6 @@ Q-MO1 is answered by §0. **Open for the cards (Q-MO6–7):**
 | # | Question | Recommendation |
 |---|---|---|
 | Q-MO6 | Act I now has 11 chapters, one fewer than braid 4. Add a chapter, or let it run short? | Let it run short; the Baz summons gives Act I its closing turn. |
-| Q-MO7 | Who does Lucien think Baz is, when he writes to him in Act I? | An old Vienna colleague who left for community work; a trusted outsider, not a Dominion hand. Baz knows more and does not say. |
+| Q-MO7 | Who does Lucien think "B" is? | **Answered by the refinement:** his mentor from the Vienna table, left for community work; unnamed until Ch 11. Baz knows more and does not say. |
 
 Next: Phase 2b, scene cards for every chapter, three acts in parallel with a consistency pass.

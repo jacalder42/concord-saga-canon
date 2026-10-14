@@ -18751,4 +18751,10 @@ ever merged, its entries are renumbered with a note.
   `decisions/B01_REWRITE_Q_MO_AUTHOR_ANSWERS_2026-10-14.md` (approved design); the macro outline is revised to 43 chapters
   (`proposals/B01_REWRITE_MACRO_OUTLINE_2026-10-14.md` §0). **Next:** scene cards (Phase 2b).
 
+## §557 — B01 rewrite: Lucien reports only to Vienna, then reaches out to "B" (his mentor), 2026-10-14
+
+- **Author:** Lucien first reports only to Vienna, grows uncomfortable with their instructions, and reaches out to Baz for guidance; Baz stays
+  unnamed ("B", "him", "his mentor") until his own POV. Recorded as an addendum in
+  `decisions/B01_REWRITE_Q_MO_AUTHOR_ANSWERS_2026-10-14.md` and in `proposals/B01_REWRITE_MACRO_OUTLINE_2026-10-14.md` §0 and §3 (Ch 4, 8, 10, 11).
+
 END RECOVERY LEDGER
