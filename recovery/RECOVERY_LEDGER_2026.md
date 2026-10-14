@@ -18551,4 +18551,57 @@ END OF ENTRY 382
   - a ledger summary entry now, and renumbering only on any merge.
 - **Next:** the author's answers, then a revision 3 change pass of about 400–700 words, checks, and the short blind read.
 
+## §543 — B01 revision 3: Q-R3-1–6 approved as recommended, 2026-10-14
+
+- **Author:** *"Approved as recommended."* Recorded in `decisions/B01_REVISION_3_Q_R3_AUTHOR_ANSWERS_2026-10-14.md`
+  (approved design).
+- **Approved:**
+  - **Version B for the backstory.** Stored pressure is the load, and Seraphine's involuntary convergence is the last
+    disturbance. The camp is a persistent local disturbance, and the moment stays open.
+  - **The braid guard amended.** The camp may be named as the first place known and still holding. No cause, no *why
+    there*, and nothing of Seraphine's part on the page.
+  - **Her *"something answered"*** at Ch 2.
+  - **A breadcrumb row.**
+  - **The 10-12 polish-line decisions ported** after a port list.
+  - **The ledger summary** of the older branch (§544).
+- **Done:**
+  - a dated note on `canon/characters/SeraphineIdentity.md` §XII;
+  - `grids/breadcrumbs.csv` row BC-CAMP-HOLDING (PROVISIONAL);
+  - the validator and self-tests pass.
+- **Next:** the revision 3 change pass, the port list, checks, and the short blind read.
+
+## §544 — Summary of branch `claude/latest-draft-review-uupnx5` (its ledger §529–§533, 2026-10-12)
+
+The branch split off after §528 and was never merged. Its five entries carry the same numbers as §529–§533 on this line, but
+record different work. Recorded here so the record is whole on one line (Q-R3-6). Nothing on that branch is rewritten. If it is
+ever merged, its entries are renumbered with a note.
+
+- **Its §529:** a viability and marketability review of the first braided draft, by four simulated readers: an acquiring
+  editor 4 / 5, a serial editor 3.5, an average reader 4, a regression read 4.
+  - Report: `reports/B01_BRAID_VIABILITY_AND_MARKETABILITY_REVIEW_2026-10-12.md` (on that branch).
+- **Its §530:** author answers, `decisions/B01_BRAID_VIABILITY_REVIEW_AUTHOR_ANSWERS_2026-10-12.md` (on that branch).
+  - A polish pass.
+  - Stay around 120–125k.
+  - Serial first, with installments aligned to chapters.
+  - The Interlude returns.
+  - Audit supplement losses.
+- **Its §531:** the polish draft, in the manuscript's `B01/polish-2026-10-12/`, 121,107 words.
+  - The Interlude after Ch 26.
+  - Ch 38 split.
+  - The Vienna folder made memorable.
+  - Fixed descriptors for the recurring unknowns.
+  - Fewer Act III names.
+  - Sal's beat, the earrings, the pump station.
+  - Trims.
+  - A supplement lineage audit.
+- **Its §532:** author answers, `decisions/B01_SUPPLEMENTS_NOVEL_AND_SERIAL_AUTHOR_ANSWERS_2026-10-12.md` (on that branch).
+  - The novel keeps T, NOTE, S2, I01 and S3, with S3's contradictory-advice pair restored.
+  - S02, S01 (with S04), S05, S06 and *Sawdust* become serial-only bonuses.
+  - I00 is retired.
+- **Its §533:** five serial-only bonuses revised to that branch's canon, about 3,775 words, and S3's pair restored.
+  - Reviser choices left for the author: cousin Frankie → Vincent; the altar dated *the nineteenth*; Trip opens the Vein in the
+    coda; *"Clearance Sale"* renamed.
+- **Standing on this line:** revision 2 was built in parallel from the same checkpoint and does not carry this work. Its
+  decisions are ported per Q-R3-5, once the port list is approved.
+
 END RECOVERY LEDGER

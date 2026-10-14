@@ -267,6 +267,8 @@ Care + urgency + helplessness exceed the Veil’s buffering capacity.
 
 Seraphine does not perceive this as power.
 
+> **Note, 2026-10-14 (approved design, `decisions/B01_REVISION_3_Q_R3_AUTHOR_ANSWERS_2026-10-14.md` Q-R3-1; ledger §543).** Read with Mechanica §42A.2. The hard cap's stored pressure supplies the load, and the camp was a point near threshold. Her involuntary convergence (care, urgency, helplessness, grief without release) is the last disturbance, and the boundary gives there. She is causally involved and not culpable, and ordinary grief does not tear the Veil. The camp stays a persistent, bounded local disturbance. The moment stays open, with the author's lean to the notification ("He's gone"; Q-FT1). On B01's page she senses only that something answered when it shouldn't have; she never learns her part, and the page never states why it began there.
+
 ---
 
 ## XIII. ETHICAL NEAR-FAILURE
