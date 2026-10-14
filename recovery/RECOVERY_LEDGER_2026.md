@@ -18604,4 +18604,25 @@ ever merged, its entries are renumbered with a note.
 - **Standing on this line:** revision 2 was built in parallel from the same checkpoint and does not carry this work. Its
   decisions are ported per Q-R3-5, once the port list is approved.
 
+## §545 — B01: author direction on narrative shape, a solved mystery and the trilogy knowledge curve, 2026-10-14
+
+- **Recorded in:** `decisions/B01_SHAPE_SOLVED_MYSTERY_AND_TRILOGY_KNOWLEDGE_AUTHOR_DIRECTION_2026-10-14.md` (direction for the
+  next proposal).
+- **The direction:**
+  1. remove the repetitive shape of the investigation and interactions;
+  2. a solved B01 mystery, *what is happening and why*: resonance anomalies and the thinning Veil;
+  3. by the end of Veil the characters know what resonance is and how it works; Neon is *the emplacement of resonance*, Loom
+     *the aftermath*;
+  4. the problem is the shape of the narrative action, not the word count; every scene should vary its shape.
+- **The referenced attachment** was not received in this session.
+- **Verified against revision 3:** not yet addressed.
+  - The repeating middle was named by all three blind reads of revision 2 and held at Q-R2-5.
+  - The page says only that the Veil is *thinner in some places* (Ch 30), and leaves *why it is thinner where it is thin* unknown
+    (Ch 38). It never says the Veil is thinning.
+  - The 10-14 change pass is compatible, but small.
+- **Next:**
+  - a read-only shape audit of revision 3, every unit's action shape;
+  - then one proposal: the shape changes; *thinning* as B01's answer with its *why* still reserved; the knowledge curve
+    checked against B02–B09.
+
 END RECOVERY LEDGER
