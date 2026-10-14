@@ -18744,4 +18744,11 @@ ever merged, its entries are renumbered with a note.
 - `proposals/B01_REWRITE_MACRO_OUTLINE_2026-10-14.md`: 44 chapters in three acts (what is it / who wants it / what is it to us), POV
   split, changes from braid 4, chapter table, checks, Q-MO1–5. **Next:** author answers, then scene cards (Phase 2b).
 
+## §556 — B01 rewrite: Q-MO1–5 answered; Baz arrives by summons, 2026-10-14
+
+- **Author:** Q-MO2–5 agreed; Q-MO1 revised: Baz arrives in or near Act II to set up the Seraphine/Lucien chemistry, appears in Act I only
+  in communication with Lucien, and is summoned at the close of Act I in his own POV. Recorded in
+  `decisions/B01_REWRITE_Q_MO_AUTHOR_ANSWERS_2026-10-14.md` (approved design); the macro outline is revised to 43 chapters
+  (`proposals/B01_REWRITE_MACRO_OUTLINE_2026-10-14.md` §0). **Next:** scene cards (Phase 2b).
+
 END RECOVERY LEDGER
