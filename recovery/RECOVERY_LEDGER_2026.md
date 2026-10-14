@@ -18625,4 +18625,29 @@ ever merged, its entries are renumbered with a note.
   - then one proposal: the shape changes; *thinning* as B01's answer with its *why* still reserved; the knowledge curve
     checked against B02–B09.
 
+## §546 — B01 shape audit and the shape / solved-mystery proposal, 2026-10-14
+
+- **The attachment the author referred to** (§545) arrived as `Veil_refinement.docx`. Checked paragraph by paragraph, it is the
+  same conversation already kept verbatim in `recovery/FIRST_TEAR_HARD_CAP_CONVERSATION_2026-10-13.md`; the only differences are
+  how its tables render. It is not stored again. Its §3–§4 (*each manifestation should reveal a different property*; *the
+  protagonists can progressively reconstruct a causal chain*) are the principle the proposal builds on.
+- **Shape audit of revision 3** (private, the manuscript's `draft-notes/shape-audit-2026-10-14/`): 268 scenes, each classed by
+  driver, engine, turn, ending, result and stakes.
+  - The loop (event → tally → table argument → refusal → conditional yes) runs complete nine times, with about 20 partial runs.
+  - Refusal-then-conditional-yes is the default conversation.
+  - Written-line endings dominate.
+  - A withhold → confess loop runs six times in seven Act II chapters.
+  - Act III has ten phone or text deliveries.
+  - In Ch 40–43 nobody acts against resistance in the present.
+- **Proposal:** `proposals/B01_SHAPE_AND_SOLVED_MYSTERY_PROPOSAL_2026-10-14.md`:
+  - every event teaches one new property, in a shape that fits it;
+  - seven shape rules, as costed defaults;
+  - *the thinning Veil* inferred by the crew at Ch 35, with *why* reserved;
+  - chapter-level change maps for all three acts, with the last act made active;
+  - the trilogy knowledge curve checked;
+  - the port list folded in.
+- **Q-SH1–10 await the author.** Recommended: yes to Q-SH1–8; Q-SH9 (*emplacement*) and Q-SH10 (*aftermath*) need his
+  meaning.
+- **Next:** his answers, then packets, revision 4, four checks including a second shape audit, and a short blind read.
+
 END RECOVERY LEDGER
