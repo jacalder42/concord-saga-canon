@@ -18680,4 +18680,17 @@ ever merged, its entries are renumbered with a note.
 - **Not changed:** no ruling, card, rule or grid. Ch 36's *"If I falter, everything collapses"* is the ruled seed of
   her false belief and stays.
 
+## §549 — B01 revision 4: Q-R4-1–9 answered; the small pass is running, 2026-10-14
+
+- **Author:** *"Proceed as recommended."* Recorded in `decisions/B01_BRAID_REVISION_4_Q_R4_AUTHOR_ANSWERS_2026-10-14.md`
+  (approved design).
+- **Approved:**
+  - Caldas varied, with one visit cut (Ch 28 or Ch 38) and one register change;
+  - the stolen sheet wrong in one line the crew has disproved;
+  - Ch 38's deputy refusal changed in place, form and stakes;
+  - one unattributed clue to the Ch 25 break-in;
+  - Ch 37's card in one line.
+- **Kept:** the deliberate echoes; no face for the boxes; Ch 36's *"If I falter"* line.
+- **Next:** the small pass in `B01/braid4-2026-10-14/`, a spot-check, then the author's read. No further blind panel.
+
 END RECOVERY LEDGER
