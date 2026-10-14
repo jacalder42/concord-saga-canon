@@ -131,3 +131,30 @@ the casual reader six, but the new question's answers fall mostly on the opposit
   stand.
 - The camp guard as amended, *ripples* not *rings*, and *resonance* and *Veil* from C30 on all stand.
 - Revision 3 stays the checkpoint.
+
+## 6. Addendum, 2026-10-14: the small pass (Q-R4-1–5)
+
+Q-R4-1–9 were answered as recommended (`decisions/B01_BRAID_REVISION_4_Q_R4_AUTHOR_ANSWERS_2026-10-14.md`, ledger
+§549). One reviser made the pass in the same folder, logging every change (`draft-notes/braid4-2026-10-14/SMALL_PASS_LOG.md`).
+A spot-check followed (`SMALL_PASS_SPOT_CHECK.md`). It found no definite problem and three probables, which the
+coordinator fixed with four style items.
+
+- **Q-R4-1, Caldas.**
+  - His in-person visit at Ch 28 is cut. Mr. Vidrine reports the offer in scene, and Seraphine refuses to his face.
+    No later line assumes they met there.
+  - Each later visit gets one new detail (a clean mat, shaving soap, reading glasses, a visitor sticker, a lanyard
+    turned face in).
+  - At Ch 38 his register changes: he names what he wants, the book itself, by noon tomorrow, and takes the chair.
+  - What he wins and loses is unchanged.
+  - Three survivals of the old formula sit in protected text and stay: Ch 30's *"sorry"*, Lorraine's note at Ch 41
+    (whose apology was restored at Ch 17 so the call-back holds), and the stair at Ch 42.
+- **Q-R4-2, the sheet.** Line 5 now claims old glass shows it first. Lucien and Baz break it from the page's own
+  counts (Ursulines; Lacoste's new plate). Ch 35's quotation matches. Nothing says why.
+- **Q-R4-3, the deputy.** He refuses at the stage scaffold, in front of a sergeant and a festival staffer, and has the
+  refusal written down under his own name. Its consequence stands.
+- **Q-R4-4, the break-in.** A snipped tail of black tie lies on the floor of Lucien's room at Ch 25. The gray cases are
+  fastened with the same ties (Ch 23, Ch 29). It is never named or confirmed.
+- **Q-R4-5, the card.** Ch 37 gives it in one line.
+
+**Draft:** 120,104 words. The reading copies are headed *revision 4, checked, small pass (2026-10-14)*.
+**Next:** the author's read. No further blind panel.

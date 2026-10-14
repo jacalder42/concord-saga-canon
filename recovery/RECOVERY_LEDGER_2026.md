@@ -18693,4 +18693,18 @@ ever merged, its entries are renumbered with a note.
 - **Kept:** the deliberate echoes; no face for the boxes; Ch 36's *"If I falter"* line.
 - **Next:** the small pass in `B01/braid4-2026-10-14/`, a spot-check, then the author's read. No further blind panel.
 
+## §550 — B01 revision 4: the small pass is done and spot-checked, 2026-10-14
+
+- **Done:** Q-R4-1–5 in `B01/braid4-2026-10-14/` (log and spot-check in the manuscript's
+  `draft-notes/braid4-2026-10-14/`), recorded in `reports/B01_BRAID_REVISION_4_REPORT_2026-10-14.md` §6.
+  - Caldas's Ch 28 visit is cut and reported through Mr. Vidrine; his later visits are varied, with a register change
+    at Ch 38.
+  - The stolen sheet is wrong on old glass, and the crew catches it.
+  - The Ch 38 deputy refuses at the scaffold.
+  - A tie-tail clue sits in the Ch 25 room.
+  - Ch 37's card is one line.
+- **Spot-check:** no definite problem. Three probables were fixed by the coordinator: Ch 17's apology restored for
+  C41's call-back, the sheet's origin line, and Caldas's hat.
+- **Draft:** 120,104 words; reading copies `B01_BRAID4_*`, headed *small pass*. **Next: the author's read.**
+
 END RECOVERY LEDGER
