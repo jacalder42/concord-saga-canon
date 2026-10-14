@@ -18650,4 +18650,15 @@ ever merged, its entries are renumbered with a note.
   meaning.
 - **Next:** his answers, then packets, revision 4, four checks including a second shape audit, and a short blind read.
 
+## §547 — B01 revision 4: Q-SH1–10 answered; the revision is running, 2026-10-14
+
+- **Author:** *"Approved as recommended 9 emplacement was a typo, it was meant to be embracement (and exploitation) 10 yes.
+  Proceed."* Recorded in `decisions/B01_SHAPE_Q_SH_AUTHOR_ANSWERS_2026-10-14.md` (approved design).
+- **Approved:** Q-SH1–8 as recommended. Q-SH7 is both contests (Day 90 at the center; Mr. Ledet's report at the precinct).
+- **The trilogy curve:**
+  - **Veil:** what resonance is and how it works; B01 learns the Veil is thinning, with *why* reserved.
+  - **Neon:** *embracement* (a typo for *emplacement* corrected) and exploitation of resonance.
+  - **Loom:** the aftermath of that, ending in the Mending.
+- **Running:** packets, then revision 4 in the manuscript's `B01/braid4-2026-10-14/`. Revision 3 is kept as the checkpoint.
+
 END RECOVERY LEDGER
