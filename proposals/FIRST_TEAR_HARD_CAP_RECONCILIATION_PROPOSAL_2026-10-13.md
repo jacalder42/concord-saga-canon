@@ -4,6 +4,8 @@
 **Status:** PROPOSAL / DESIGN. NON-CANONICAL (Tier D).
 > **Answered 2026-10-13** (`decisions/FIRST_TEAR_Q_FT_AUTHOR_ANSWERS_2026-10-13.md`, ledger §539). Q-FT1: undecided, with a lean to the notification. Q-FT2: page silent on Honey Island, a later link allowed. Q-FT3 and Q-FT4: delegated to what serves the saga, to be settled after a full read of braid 2. Q-FT5: no. Q-FT6: drafting vocabulary only. The body below is unchanged.
 
+> **Applied 2026-10-13** (`decisions/FIRST_TEAR_PROCEED_AUTHOR_INSTRUCTION_2026-10-13.md`, ledger §541). The narrowed Q-FT3 guard is approved design for braid; the Q-FT4 coffee line is in revision 3 (`B01/braid3-2026-10-13/`, manuscript repository). **Correction to §12.6:** checked against the unit files, the Ch 18, Ch 24, Ch 27/29 glass-report, Ch 6/37 "In Lent" and Ch 20 revocation items are not errors; those rows were reader flags and are withdrawn. Open for the author's read: whether the Ch 38 date list should include the 4 March office and the 7 March wedding, and whether Caldas Ren and the "R-E-N" man are the same.
+
 **Changes nothing.** No ruling, card, rule, grid row, packet or manuscript file is altered by this document. Mechanica §42A is not amended. The braided draft is not edited.
 
 **Written against:** the canon branch `claude/manuscript-review-feedback-ekjyqj` at c1f58ad (2026-10-13), and the manuscript on the same branch at 66498e8, read through `draft-notes/human-read/B01_BRAID2_COMPLETE_READING_COPY.md` (revision 2, 120,358 words).

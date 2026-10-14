@@ -18503,4 +18503,18 @@ END OF ENTRY 382
 - **Changed:** nothing in `rules/`, `canon/`, `grids/`, `ebci/`, `decisions/` or the manuscript.
 - **Next:** the author's decision on whether braid is B01's final direction; then, if wanted, the Q-FT3 guard and the Q-FT4 coffee line.
 
+## §541 — First tear: Q-FT3 guard and Q-FT4 trace approved; braid revision 3 made for reviewers, 2026-10-13
+
+- **Author:** *"Let's proceed with those updates and revise Braid manuscript for reviewers."* Recorded in
+  `decisions/FIRST_TEAR_PROCEED_AUTHOR_INSTRUCTION_2026-10-13.md` (approved design).
+- **Approved:** the narrowed guard for braid (no stated cause, origin, or Seraphine-as-cause; ordinary grief is not a cause) and
+  one coffee-rings line at the Ch 1 notification. Q-FT1 stays undecided. No `ebci/` packet is edited.
+- **Done (manuscript repository, branch `claude/braid3-2026-10-13`, commit 0d22b5b):** `B01/braid3-2026-10-13/` is braid 2 plus the
+  17-word line in C01; braid 2 is unchanged. Reading copies (md, epub, html) rebuilt; 120,375 words. A blind-read package
+  (`draft-notes/blind-read-r3-2026-10-13/`) is prepared and has not been run.
+- **Corrected:** proposal §12.6. The continuity items for Ch 18, Ch 24, the glass report, "In Lent" and the Ch 20 revocation were checked
+  against the unit files and are not errors. Two items stay open for the author's read.
+- **Next:** the author's read of revision 3 (or a blind panel on it, if wanted); then the B02/B03 packet catch-up, which is when the
+  E01 and E18 packets are brought into line.
+
 END RECOVERY LEDGER
