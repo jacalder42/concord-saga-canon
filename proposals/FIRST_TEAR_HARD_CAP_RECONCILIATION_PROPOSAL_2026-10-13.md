@@ -2,6 +2,8 @@
 
 **Date:** 2026-10-13
 **Status:** PROPOSAL / DESIGN. NON-CANONICAL (Tier D).
+> **Answered 2026-10-13** (`decisions/FIRST_TEAR_Q_FT_AUTHOR_ANSWERS_2026-10-13.md`, ledger §539). Q-FT1: undecided, with a lean to the notification. Q-FT2: page silent on Honey Island, a later link allowed. Q-FT3 and Q-FT4: delegated to what serves the saga, to be settled after a full read of braid 2. Q-FT5: no. Q-FT6: drafting vocabulary only. The body below is unchanged.
+
 **Changes nothing.** No ruling, card, rule, grid row, packet or manuscript file is altered by this document. Mechanica §42A is not amended. The braided draft is not edited.
 
 **Written against:** the canon branch `claude/manuscript-review-feedback-ekjyqj` at c1f58ad (2026-10-13), and the manuscript on the same branch at 66498e8, read through `draft-notes/human-read/B01_BRAID2_COMPLETE_READING_COPY.md` (revision 2, 120,358 words).

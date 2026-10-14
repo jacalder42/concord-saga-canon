@@ -18473,4 +18473,16 @@ END OF ENTRY 382
 - **Changed:** nothing in `rules/`, `canon/`, `grids/`, `ebci/`, `decisions/` or the manuscript.
 - **Next:** the author's read of braid revision 2 and the decision on whether braid is B01's final direction; then Q-FT1–Q-FT6.
 
+## §539 — First tear: Q-FT1–6 answered, 2026-10-13
+
+- **Author:** answers recorded in `decisions/FIRST_TEAR_Q_FT_AUTHOR_ANSWERS_2026-10-13.md`.
+- **Recorded:**
+  - Q-FT1 stays undecided; the author leans to the notification ("He's gone"), the Veil tearing alongside her heart and fears.
+  - Q-FT2: the page stays silent on Honey Island; a later link is allowed.
+  - Q-FT3 and Q-FT4: delegated to what serves the saga; the author leans yes on a subtle, non-resonance animal oddity.
+  - Q-FT5: no. Q-FT6: drafting vocabulary only.
+- **Instruction:** update the plan, then read braid revision 2 in full (report only).
+- **Changed:** nothing in `rules/`, `canon/`, `grids/`, `ebci/` or the manuscript.
+- **Next:** the full read of braid 2, and the Q-FT3 and Q-FT4 recommendations from it.
+
 END RECOVERY LEDGER
