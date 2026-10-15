@@ -120,6 +120,7 @@ Act I shows effects on bodies, balance, the eye, water, a hung weight, sound and
 | Balance lost by many at once | a sharp step up | Ch 10 Square |
 | A low, level tone picked up by microphones, and by some people | can come with the load or without it (16.3); comes before a sharp step (Ch 10: 11 s) | Ch 10 video |
 | Small battery devices fail off | only at a sharp step; no fault is found afterwards; some come back on their own | Ch 9 both phones, Ch 10 amplifier and phones |
+| Hearing dulls or drops out for people inside (a perceptual effect: microphones and loggers record ambient sound normally throughout) | a strong, even region; bounded (about twelve blocks at most in B01) | Ch 36 (Act III) |
 
 **Does not:** move the ground (wells and pencils flat), register on electrical meters, react through animals, carry information, read minds, or leave anything written into a recording beyond the tone. The page never states this table. The most a character may reach by Ch 21 is "it steps; it does not shake" (14.1) and "it has an edge and a slope".
 
@@ -127,3 +128,9 @@ Act I shows effects on bodies, balance, the eye, water, a hung weight, sound and
 - **Ch 10 amplifier:** the scene proves only that the note did not need the mains. Lucien's line names the battery, the boy's phone or something else. **16.3** removes the amplifier: the note is recorded over water with no amplifier or speaker present. **Amendment for 16.3:** two phones of different makes record it (Lucien's and Seraphine's), so the trace does not depend on one device's processing. Ch 32 (Caro's data) inherits both files.
 - **Ch 4 lintel:** settled in §10 (a real displacement of the hung line inside a bounded core).
 - **Ch 9 clocks:** the agreement is between Lucien's wind-up watch and the pharmacy sign. Both phones were dead at the minute, so no phone time enters the result.
+
+## 12. H9 calibration for Act III (added 2026-10-15 after the fifth external review)
+- **Place clause** ("watch the places it has been"): supported by repeat observations (the school on Wed 1 and Wed 8; the Fri 24 Apr forecast), **not confirmed**. A repeat at a place that was hit before does not show that such places are uniquely likely.
+- **Shared-load clause** ("comes where people carry one load together"): **contradicted** by the Sat 25 Apr empty lot and by the untold Ursulines control moving on Sat 2 May, while the told Lafitte control stays quiet.
+- **H9 overall:** still the working survivor; it **needs revision**; no character states it as a law. B01 ends with a partly wrong model, by design.
+- **Ch 36 result (perceptual hearing loss with normal microphone records):** the effect acts on the hearers' perception, not on sound in the air. This does **not** decide whether the cause is an external field or something people generate or shape (§8 stands).

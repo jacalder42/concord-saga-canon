@@ -18800,4 +18800,13 @@ ever merged, its entries are renumbered with a note.
 - Prose corrections: Ch 4 lintel reading made unambiguous (a metre of cord; read from the hall); Ch 9 Lucien's phone is dead too (the carrier-time line cut); Ch 10 Lucien names the battery and the phone as alternatives to the mains.
 - Nothing here changes established canon. All values remain working values pending author confirmation.
 
+## §563 — B01 rewrite: Act II drafted; fourth and fifth external reviews; Act III rulings, 2026-10-15
+
+- Act II prose (Ch 12–30, Interlude; about 50,400 words) drafted on manuscript branch `claude/rewrite-2026-10-14` (`B01/rewrite-2026-10-15/act-02/`), audited (shape/dialogue in two halves; continuity), fixed, verified; then a focused cross-act review of Acts I–II (`drafts/REVIEW_CROSS_ACT_I_II.md`) and a cross-act fix round (evidence claims narrowed; Seraphine's agency; Interlude watchers made observational).
+- Act III cards amended by Revision log 8 (consequences and continuity). Fifth external review: conditional approval to draft. Coordinator rulings: `draft-notes/rewrite-2026-10-14/RULINGS_ACT3.md`.
+- Canon used, not changed: Baz's surname is **Arnaud** (`canon/characters/BazID.md`); "Foix" occurs only in an unsaved staging source (`sources/chatgpt_export_2026-09/2025-11-30__Voice_systems__692bde50.md`, Naming Bible v4 staging) and is not canon. Samira (mother, nurse, Marseille, Wednesday and Sunday calls) matches BazID.
+- Mechanics ledger (proposal): §10 gains a perceptual hearing row (Ch 36); §12 calibrates H9 (place clause supported, not confirmed; shared-load clause contradicted; overall working, needs revision).
+- Vernice's Ch 37 detention is grounded in La. R.S. 28:53.2 (coroner's order for protective custody on a private-signature statement), abused through an engineered statement. Mr. Vidrine's oxygen: concentrator primary, E cylinders as backup (about 5–6 h each at 2 L/min).
+- Nothing here changes established canon. All values remain working values pending author confirmation.
+
 END RECOVERY LEDGER
