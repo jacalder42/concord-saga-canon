@@ -100,3 +100,30 @@ inside it (laughter lowers it, a camera raises it); it is bounded and stable for
 - The Ch 21 ring result is an **observation**: the measured edge and the bob/cup readings changed with what the people inside it were doing (laughter, a camera). The characters may infer that **attention or collective behavior influences it**. They **do not** conclude that emotion itself produces the pressure, and they do not choose between an external field and something people generate or shape. Both remain open. Each instrument is recorded with what it actually detects (see the cards).
 - The replacement hypothesis (H9) is a **working hypothesis** in every card, never a proven rule. Four misses outside the band are evidence against distance, not proof of H9.
 - Baz's untold block (Ch 24) is a **consequential mistake** with a recognized ethical cost; Seraphine keeps her agency (she chose the test design; she chooses her response).
+
+## 9. First Tear chronology against the Act I prose (added after the third external review, 2026-10-15)
+The drafted Ch 1 shows three observations: (a) the weight is in the room during Seraphine's compressions, before Gail takes over; (b) it is still there after Dre is carried out and after Odile is told; (c) the coffee surface in fine ripples after the notification, which Seraphine puts down to her hands. Working assignment (the prose does not change):
+- (a) is **stage 2, precursor**: the stored load at a near-threshold point, felt by bodies in the house.
+- The **threshold** falls inside the window of the death, between (a) and (b). It is not located more exactly than that, and nothing on the page marks it (stage 4: no perceptible change). Gail's hand stays a perceptual marker only (§5). The trigger stays undecided (Q-FT1).
+- (b) and (c) are **stage 5, residual wound** observations. So is everything in Ch 2 (the room unchanged with nobody in it; the edge at 40–60 steps).
+- By design no Ch 1 observation tells before from after. The first evidence that only the residual can explain is persistence with nobody in the room and a bounded edge (Ch 2). The ledger claims no more than that.
+
+## 10. One thing, several expressions (bounded list; private; added 2026-10-15)
+Act I shows effects on bodies, balance, the eye, water, a hung weight, sound and electronics. The private bound: these are expressions of **one local quantity** that has a strength and changes over space and time. Each expression has its own threshold. Nothing outside this list happens in B01.
+
+| Expression | When it shows | Act I instances |
+|---|---|---|
+| Ear fullness, a directionless weight in the body | lowest threshold; strength only, no direction | Ch 1, 2, 9 |
+| The eye's sense of vertical bent (a post leans; the bob does not) | a weak slope, felt by the body, below what moves an instrument | Ch 4.1, Ch 9 (Kerlerec) |
+| A hung mass leans | only across a **steep slope** (an edge or an inner core), toward the stronger side; never in a uniform region | Ch 4.3 lintel (4 mm on a metre of cord, room side only, read three times including from the hall: the instrument moves; it is not the observer), Ch 4.4 road edge 40–55 paces |
+| Free water surfaces in fine, even ripple | high strength or a fast change | Ch 1.6 coffee, Ch 5.2 podium cup, Ch 6.3 puddle |
+| Balance lost by many at once | a sharp step up | Ch 10 Square |
+| A low, level tone picked up by microphones, and by some people | can come with the load or without it (16.3); comes before a sharp step (Ch 10: 11 s) | Ch 10 video |
+| Small battery devices fail off | only at a sharp step; no fault is found afterwards; some come back on their own | Ch 9 both phones, Ch 10 amplifier and phones |
+
+**Does not:** move the ground (wells and pencils flat), register on electrical meters, react through animals, carry information, read minds, or leave anything written into a recording beyond the tone. The page never states this table. The most a character may reach by Ch 21 is "it steps; it does not shake" (14.1) and "it has an edge and a slope".
+
+## 11. Instrument independence (added 2026-10-15)
+- **Ch 10 amplifier:** the scene proves only that the note did not need the mains. Lucien's line names the battery, the boy's phone or something else. **16.3** removes the amplifier: the note is recorded over water with no amplifier or speaker present. **Amendment for 16.3:** two phones of different makes record it (Lucien's and Seraphine's), so the trace does not depend on one device's processing. Ch 32 (Caro's data) inherits both files.
+- **Ch 4 lintel:** settled in §10 (a real displacement of the hung line inside a bounded core).
+- **Ch 9 clocks:** the agreement is between Lucien's wind-up watch and the pharmacy sign. Both phones were dead at the minute, so no phone time enters the result.

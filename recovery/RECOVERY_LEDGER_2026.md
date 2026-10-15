@@ -18792,4 +18792,12 @@ ever merged, its entries are renumbered with a note.
 - **Author decisions open:** the Epilogue's "thinner and faster" (Q-SH3 approved it for the watchers, not the crew); whether Ursulines is "on the line" (default) or outside the band;
   working numbers (millimetres, cells, times); Lacoste has no street number in the manuscript (only "on St. Claude"). **Next:** author release of Act I for prose.
 
+## §562 — B01 rewrite: Act I drafted; third external review; mechanics ledger §9–§11, 2026-10-15
+
+- Act I prose (Prologue, Ch 1–11, Transmission; about 27,500 words) drafted from the v4 cards on manuscript branch `claude/rewrite-2026-10-14` (`B01/rewrite-2026-10-15/act-01/`), then audited (shape/dialogue; continuity) and corrected in one fix round.
+- Third external review (`draft-notes/rewrite-2026-10-14/EXTERNAL_REVIEW_3_ACT1.md`): conditional pass; no structural rebuild. Its reported duplicate paragraph in Ch 2 is not present in the branch text (checked).
+- Mechanics ledger (proposal) gains §9 (First Tear chronology mapped to the drafted Ch 1 observations; threshold inside the window of the death; trigger still undecided, Q-FT1), §10 (one local quantity, bounded list of expressions with thresholds; what it does not do), §11 (instrument independence: amplifier alternatives, two-phone recording at 16.3, lintel reading, clocks).
+- Prose corrections: Ch 4 lintel reading made unambiguous (a metre of cord; read from the hall); Ch 9 Lucien's phone is dead too (the carrier-time line cut); Ch 10 Lucien names the battery and the phone as alternatives to the mains.
+- Nothing here changes established canon. All values remain working values pending author confirmation.
+
 END RECOVERY LEDGER
