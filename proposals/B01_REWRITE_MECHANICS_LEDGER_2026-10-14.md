@@ -14,8 +14,8 @@ Five concepts kept apart (reconciled model, ledger §538–§541; `proposals/FIR
 |---|---|---|---|
 | 1 | **Preexisting stress** | The hard cap stores what it blocks. Storage concentrates at the thinnest points. The camp is a near-threshold point (why it is thin: OPEN, never stated) | Nothing in Ch 1. The Prologue's "far side" image only |
 | 2 | **Precursor** | Weeks of low-level leakage at that point before 17 March | The boy's fever line ("a dog in the road"); no animal reacts |
-| 3 | **Triggering interaction** | A small disturbance at a point already near failure: Seraphine's involuntary convergence of care, urgency and helplessness at the last moment, **the beat where Gail's hand stops Seraphine's arms (card 1.4)**; the phone declaration at 1.6 is procedural. Causally involved, not culpable; ordinary grief does not tear the Veil. (The author's lean on the moment, "He's gone", is carried by this beat; Q-FT1 remains undecided) | The pressure is already in the room before Dre dies and does not come from grief (page fact); no sentence says what changed at the stopping of her arms |
-| 4 | **Localized release** | The concentrated load is released at the camp and felt as a weight by everyone in the house, bounded, even, directionless | **No change is perceptible at the beat.** The weight met earlier (1.3) is the same weight after; the page never marks a release. The coffee surface in fine ripples; the room unchanged in the morning with no one in it |
+| 3 | **Threshold / trigger (undecided, Q-FT1)** | **Working model:** the accumulated pressure at the camp reaches its threshold **during Dre's death**. **The trigger is not decided**: nothing here claims that Gail's hand, the ending of compressions, a medical act, or Seraphine's effort *caused* the failure; Seraphine's involuntary convergence of care, urgency and helplessness is one candidate for the last disturbance (Q-R3-1, causally involved, not culpable), and ordinary grief does not tear the Veil. Keep four things apart: **threshold** (when the boundary can no longer hold), **trigger** (what makes it fail, if anything), **release** (the discharge), **observation** (what a person perceives) | Nothing. The pressure is already in the room before Dre dies and does not come from grief (page fact). |
+| 4 | **Localized release** | The concentrated load is released at the camp and felt as a weight by everyone in the house, bounded, even, directionless | **No change is perceptible at any beat.** The weight met earlier (1.3) is the same weight after; the page never marks a release or says what changed. The coffee surface in fine ripples; the room unchanged in the morning with no one in it |
 | 5 | **Residual wound** | A persistent bounded disturbance remains: the first place known, still holding | Edge at 40–60 steps; the camp "still holding" (Ch 33, one echo Ch 43) |
 
 **Hard-cap consistency.** B01 shows only local releases at thin points. The cap is not breached, tested or named. Release size is not tied to trigger size; no
@@ -56,7 +56,7 @@ glass breakage tickets, Elisabet's well loggers, pump-station charts, phone micr
 | H6 | **Distance from a source point** | Lucien's first prediction | An event outside the predicted band | **Ch 21 (logged miss), closed Ch 26–27** |
 | H7 | **A person who starts it** (first feeler, carrier) | the Floor; Baz's folder | "Who first" has no answer; Seraphine is cleared by non-reporting detectors | Ch 26, 34 |
 | H8 | **Crowd density alone** | Seraphine, Caro | A packed hall that does nothing; a small repast that does | Ch 21–22, 34 |
-| H9 | **Returns to places it has gathered, under shared load** (the survivor) | the crew, from Ch 21 | Forecast of repeat sites (Ch 34, 39) | supports the Apr 24 and May 2 bets |
+| H9 | **Returns to places it has gathered, under shared load** (the *working* survivor; not a law) | the crew, from Ch 21 | Forecast of repeat sites (Ch 34, 39) | supports the Apr 24 and May 2 bets |
 
 **The Ch 21 inference (acceptance test 2).** After the repast ring: *the edge is not tied to the ground or the buildings; it tracks the shared state of the people
 inside it (laughter lowers it, a camera raises it); it is bounded and stable for a day.* That is a physical result won by a measurement. It is the basis of H9.
@@ -79,6 +79,8 @@ inside it (laughter lowers it, a camera raises it); it is bounded and stable for
 - **The wrong choice (Ch 24):** he keeps the Ursulines block untold as the control, to protect his cover and the experiment's cleanliness. Mrs. Arceneaux breaks her hip.
 - **What it costs him (Ch 24–30):** the one thing he wanted to keep, Lucien's trust and Lucien's distance from Dominion. Lucien learns Baz knew, and walks out at Ch 30.
 
+**Perceptual marker (observation only).** Card 1.4 (Gail's hand on Seraphine's arms) is the beat Seraphine and the reader *perceive as the moment it ends*. It is an **observation anchor**, not a physical cause: it is where a later book (B03/B09) may point back and say "that was when", and the B01 page claims nothing. The ending of compressions is medically appropriate and is never framed as causing anything.
+
 ## 6. Card amendments this ledger requires (to be applied in the cards)
 
 1. **Ch 1–2:** add a private-ledger line only; nothing on the page changes except the card for 1.x/2.x noting the five stages above.
@@ -93,3 +95,8 @@ inside it (laughter lowers it, a camera raises it); it is bounded and stable for
 ## 7. Added after the third check (OUTLINE_CHECK_3)
 - Four dots outside the band, none inside: Wed 8 school, Thu 9 ring, Mon 13 Ursulines, Tue 14 Bayou. The Wed 1 April school-gate hit and the Wed 8 repeat give H9 a real repeat. Fri 24 is run with a control (Inez's Lafitte lunch) and the Ch 37 canvass has a baseline.
 - Numbers in the cards (shop-floor millimetres, canvass cells, event times) are working values; the author or the drafter confirms them against the book.
+
+## 8. Interpretation limits (added after the second external review)
+- The Ch 21 ring result is an **observation**: the measured edge and the bob/cup readings changed with what the people inside it were doing (laughter, a camera). The characters may infer that **attention or collective behavior influences it**. They **do not** conclude that emotion itself produces the pressure, and they do not choose between an external field and something people generate or shape. Both remain open. Each instrument is recorded with what it actually detects (see the cards).
+- The replacement hypothesis (H9) is a **working hypothesis** in every card, never a proven rule. Four misses outside the band are evidence against distance, not proof of H9.
+- Baz's untold block (Ch 24) is a **consequential mistake** with a recognized ethical cost; Seraphine keeps her agency (she chose the test design; she chooses her response).
