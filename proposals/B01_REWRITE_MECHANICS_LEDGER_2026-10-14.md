@@ -14,12 +14,14 @@ Five concepts kept apart (reconciled model, ledger §538–§541; `proposals/FIR
 |---|---|---|---|
 | 1 | **Preexisting stress** | The hard cap stores what it blocks. Storage concentrates at the thinnest points. The camp is a near-threshold point (why it is thin: OPEN, never stated) | Nothing in Ch 1. The Prologue's "far side" image only |
 | 2 | **Precursor** | Weeks of low-level leakage at that point before 17 March | The boy's fever line ("a dog in the road"); no animal reacts |
-| 3 | **Triggering interaction** | A small disturbance at a point already near failure: Seraphine's involuntary convergence of care, urgency and helplessness at the last moment, the notification "He's gone". Causally involved, not culpable; ordinary grief does not tear the Veil | The pressure is already in the room before Dre dies and does not come from grief (page fact); no sentence says what changed at the notification |
-| 4 | **Localized release** | The concentrated load is released at the camp and felt as a weight by everyone in the house, bounded, even, directionless | The weight; the coffee surface going to fine ripples; the room unchanged in the morning with no one in it |
+| 3 | **Triggering interaction** | A small disturbance at a point already near failure: Seraphine's involuntary convergence of care, urgency and helplessness at the last moment, **the beat where Gail's hand stops Seraphine's arms (card 1.4)**; the phone declaration at 1.6 is procedural. Causally involved, not culpable; ordinary grief does not tear the Veil. (The author's lean on the moment, "He's gone", is carried by this beat; Q-FT1 remains undecided) | The pressure is already in the room before Dre dies and does not come from grief (page fact); no sentence says what changed at the stopping of her arms |
+| 4 | **Localized release** | The concentrated load is released at the camp and felt as a weight by everyone in the house, bounded, even, directionless | **No change is perceptible at the beat.** The weight met earlier (1.3) is the same weight after; the page never marks a release. The coffee surface in fine ripples; the room unchanged in the morning with no one in it |
 | 5 | **Residual wound** | A persistent bounded disturbance remains: the first place known, still holding | Edge at 40–60 steps; the camp "still holding" (Ch 33, one echo Ch 43) |
 
 **Hard-cap consistency.** B01 shows only local releases at thin points. The cap is not breached, tested or named. Release size is not tied to trigger size; no
 funnel radius or equation is stated. "Why thin" and "why the camp" stay open.
+
+**Note on H9.** "Load" in H9 names the *trigger layer* (stage 3: what people carry together at a point near failure), not the storage layer (stage 1). The page never mentions storage.
 
 **What the characters can legitimately infer** (all non-reserved): a bounded place; a weight with no direction; it decays with distance; it persists with
 no one in the room; it is not grief.
@@ -87,3 +89,7 @@ inside it (laughter lowers it, a camera raises it); it is bounded and stable for
 6. **Ch 12–15, 24, 30:** Baz's silence has the concrete risk and costs him Lucien (§5).
 7. **Ch 26–27:** close the window on the page and kill H6 explicitly (by what is observed, not by a character saying so).
 8. **Documents:** not every revelation comes from a hidden document; add at least three physical discoveries by observation before Ch 30.
+
+## 7. Added after the third check (OUTLINE_CHECK_3)
+- Four dots outside the band, none inside: Wed 8 school, Thu 9 ring, Mon 13 Ursulines, Tue 14 Bayou. The Wed 1 April school-gate hit and the Wed 8 repeat give H9 a real repeat. Fri 24 is run with a control (Inez's Lafitte lunch) and the Ch 37 canvass has a baseline.
+- Numbers in the cards (shop-floor millimetres, canvass cells, event times) are working values; the author or the drafter confirms them against the book.

@@ -18776,4 +18776,10 @@ ever merged, its entries are renumbered with a note.
 - **Response:** `proposals/B01_REWRITE_MECHANICS_LEDGER_2026-10-14.md` (private; five-stage First Tear sequence, observations O1–O8, hypotheses H1–H9 with
   discriminating evidence, the prediction design, Baz's cost, and the card amendments). **Next:** apply the amendments to the cards, then re-check the three tests.
 
+## §560 — B01 rewrite: mechanics amendments applied to the cards; third check and fixes, 2026-10-14
+
+- Amendments from the mechanics ledger (§559) applied in all four card files (revision logs 3 and 4). `OUTLINE_CHECK_3.md`: First Tear sequence and the Ch 21
+  physical inference pass; the H9 model and the Ch 34/39 forecasts are repaired (a control gathering, real repeat sites, a baselined canvass); Act II-B gains
+  physical measurements. Numbers are working values for the drafter to confirm. **Next:** author review; drafting by act on approval.
+
 END RECOVERY LEDGER
