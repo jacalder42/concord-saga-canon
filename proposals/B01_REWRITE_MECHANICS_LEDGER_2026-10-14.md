@@ -120,6 +120,8 @@ Act I shows effects on bodies, balance, the eye, water, a hung weight, sound and
 | Balance lost by many at once | a sharp step up | Ch 10 Square |
 | A low, level tone picked up by microphones, and by some people | can come with the load or without it (16.3); comes before a sharp step (Ch 10: 11 s) | Ch 10 video |
 | Small battery devices fail off | only at a sharp step; no fault is found afterwards; some come back on their own | Ch 9 both phones, Ch 10 amplifier and phones |
+| Hands stop mid-task (brief motor arrest), for several people at once | a strong region or a sharp step; seconds; afterwards only ordinary soreness from a hard grip, nothing lasting or person-specific | Ch 5, 6, 41 |
+| Panes crack and loose objects shift or fall; new plate before old glass | at sharp steps | Ch 24, 26, 27, 28 |
 | Hearing dulls or drops out for people inside (a perceptual effect: microphones and loggers record ambient sound normally throughout) | a strong, even region; bounded (about twelve blocks at most in B01) | Ch 36 (Act III) |
 
 **Does not:** move the ground (wells and pencils flat), register on electrical meters, react through animals, carry information, read minds, or leave anything written into a recording beyond the tone. The page never states this table. The most a character may reach by Ch 21 is "it steps; it does not shake" (14.1) and "it has an edge and a slope".
