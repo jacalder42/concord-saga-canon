@@ -18768,4 +18768,12 @@ ever merged, its entries are renumbered with a note.
   gap arithmetic.
 - **Next:** author review of the cards, then drafting by act. No drafting, PRs or merges have begun.
 
+## §559 — B01 rewrite: external review of the cards; private mechanics ledger, 2026-10-14
+
+- **External review** (author-supplied, `EXTERNAL_REVIEW_1.md` in the manuscript rewrite folder): conditional approval; the secrecy engine is more developed
+  than the discovery engine; three acceptance tests (First Tear causal sequence consistent with the hard cap; a meaningful physical inference by Ch 21; the
+  Act II prediction failure creates a more useful model usable by the B01 intervention without the Breathable Veil).
+- **Response:** `proposals/B01_REWRITE_MECHANICS_LEDGER_2026-10-14.md` (private; five-stage First Tear sequence, observations O1–O8, hypotheses H1–H9 with
+  discriminating evidence, the prediction design, Baz's cost, and the card amendments). **Next:** apply the amendments to the cards, then re-check the three tests.
+
 END RECOVERY LEDGER
