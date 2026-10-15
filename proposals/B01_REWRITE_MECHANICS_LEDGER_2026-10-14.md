@@ -79,7 +79,7 @@ inside it (laughter lowers it, a camera raises it); it is bounded and stable for
 - **The wrong choice (Ch 24):** he keeps the Ursulines block untold as the control, to protect his cover and the experiment's cleanliness. Mrs. Arceneaux breaks her hip.
 - **What it costs him (Ch 24–30):** the one thing he wanted to keep, Lucien's trust and Lucien's distance from Dominion. Lucien learns Baz knew, and walks out at Ch 30.
 
-**Perceptual marker (observation only).** Card 1.4 (Gail's hand on Seraphine's arms) is the beat Seraphine and the reader *perceive as the moment it ends*. It is an **observation anchor**, not a physical cause: it is where a later book (B03/B09) may point back and say "that was when", and the B01 page claims nothing. The ending of compressions is medically appropriate and is never framed as causing anything.
+**Perceptual marker (observation only).** Card 1.4 (Gail's hand on Seraphine's arms) is the beat Seraphine and the reader *perceive as the moment her effort ends*; it is **not** a perceived change in the pressure (stage 4: no change is perceptible). It is an **observation anchor**, not a physical cause: it is where a later book (B03/B09) may point back and say "that was when", and the B01 page claims nothing. The ending of compressions is medically appropriate and is never framed as causing anything.
 
 ## 6. Card amendments this ledger requires (to be applied in the cards)
 

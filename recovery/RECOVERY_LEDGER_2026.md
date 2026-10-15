@@ -18782,4 +18782,14 @@ ever merged, its entries are renumbered with a note.
   physical inference pass; the H9 model and the Ch 34/39 forecasts are repaired (a control gathering, real repeat sites, a baselined canvass); Act II-B gains
   physical measurements. Numbers are working values for the drafter to confirm. **Next:** author review; drafting by act on approval.
 
+## §561 — B01 rewrite: second external review; release gate; surgical corrections applied, 2026-10-14
+
+- **Second external review** (author-supplied, `EXTERNAL_REVIEW_2.md`): hold prose until a final v3 release gate; keep Gail's hand as a perceptual marker, not the
+  proven trigger; keep the Ch 21 ring result but verify instruments and separate observation from interpretation; keep the distance-prediction failure without
+  promoting the replacement to law; keep Baz's ethically costly choice and Seraphine's agency; reconcile numbers and chronology.
+- **Applied** (ledger `proposals/B01_REWRITE_MECHANICS_LEDGER_2026-10-14.md` patched; cards revision logs 5 and 6): First Tear trigger undecided (Q-FT1); instrument tables;
+  H9 marked WORKING; a second ring reading (two nulls) added; `RELEASE_GATE.md` (8 blocking contradictions, 21 surgical corrections) applied except C-21 (phrase cut).
+- **Author decisions open:** the Epilogue's "thinner and faster" (Q-SH3 approved it for the watchers, not the crew); whether Ursulines is "on the line" (default) or outside the band;
+  working numbers (millimetres, cells, times); Lacoste has no street number in the manuscript (only "on St. Claude"). **Next:** author release of Act I for prose.
+
 END RECOVERY LEDGER
