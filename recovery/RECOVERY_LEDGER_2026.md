@@ -18831,4 +18831,8 @@ ever merged, its entries are renumbered with a note.
 
 - Panel 3 mean 3.89. New decision `decisions/B01_REWRITE_PANEL3_AUTHOR_ANSWERS_2026-10-16.md`: write B01 optimally, reconcile saga ladder after B01 lock; heat up (third kiss, Ch 43 kiss + promise, closed door); Baz's concrete Vienna memory (Ch 34); Dominion chain + stated aim; cap may be hinted as the Veil's deeper purpose, other deep reserves hold; C41 lock lifted; Baz–Caro spark kept; Supplement folded into chapters; "None" consolidated; Epilogue recap trimmed.
 
+## §569 — B01 rewrite: answers after blind panel 4, 2026-10-16
+
+- Panel 4 mean 3.83 (noise band 3.72–3.89 over four panels). New decision `decisions/B01_REWRITE_PANEL4_AUTHOR_ANSWERS_2026-10-16.md`: synthesis options 1–5 (targeted pass, compress Ch 23–31/40, closed-door Sunday, proactive Act III win, Lucien's false report under pressure) plus lifting Baz's "Not on a step" hold (Lena's location given). External review 11 folded in.
+
 END RECOVERY LEDGER
