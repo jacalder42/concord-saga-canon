@@ -18827,4 +18827,8 @@ ever merged, its entries are renumbered with a note.
 
 - External reviews 8–10 (Oct 16) recommend freezing structure. New decision `decisions/B01_REWRITE_BOUNDED_FIX_PASS_AUTHOR_ANSWERS_2026-10-16.md`: May 4 stakes reframed (new application for a deceased child, not lost bills); fix sections A–E; Lacuna cameo at the Vein (Ch 22); one light Elisabet beat.
 
+## §568 — B01 rewrite: answers after blind panel 3, 2026-10-16
+
+- Panel 3 mean 3.89. New decision `decisions/B01_REWRITE_PANEL3_AUTHOR_ANSWERS_2026-10-16.md`: write B01 optimally, reconcile saga ladder after B01 lock; heat up (third kiss, Ch 43 kiss + promise, closed door); Baz's concrete Vienna memory (Ch 34); Dominion chain + stated aim; cap may be hinted as the Veil's deeper purpose, other deep reserves hold; C41 lock lifted; Baz–Caro spark kept; Supplement folded into chapters; "None" consolidated; Epilogue recap trimmed.
+
 END RECOVERY LEDGER
