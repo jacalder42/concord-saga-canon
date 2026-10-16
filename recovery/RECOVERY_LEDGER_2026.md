@@ -18815,4 +18815,8 @@ ever merged, its entries are renumbered with a note.
 - Prior state: braid 4 merges, Act II compression (a), partial repair; second-round blind reads; external reviews 6–7 recommended a structural freeze; author direction controls.
 - B02 knock-ons (E08, E23, E25, E31) owed in the B02 packet pass.
 
+## §565 — B01 rewrite: opposition redesign (author answers), 2026-10-15
+
+- New decision: `decisions/B01_REWRITE_OPPOSITION_REDESIGN_AUTHOR_ANSWERS_2026-10-15.md`. Act II ends in an in-person loss to Caldas (Ch 30: the VEIL file taken, Baz exposed); Baz's C-2 moves to 34.3 (the VEIL file and his model of Dominion's aim); the 41.4 trap disproves "who first"; S4 memo cut; Ch 44 a short intake ending on the B2 hook. Reverses Q-H3 (folder = "what you took"); amends Q-H4.
+
 END RECOVERY LEDGER
