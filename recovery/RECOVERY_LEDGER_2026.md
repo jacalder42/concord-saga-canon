@@ -18835,4 +18835,8 @@ ever merged, its entries are renumbered with a note.
 
 - Panel 4 mean 3.83 (noise band 3.72–3.89 over four panels). New decision `decisions/B01_REWRITE_PANEL4_AUTHOR_ANSWERS_2026-10-16.md`: synthesis options 1–5 (targeted pass, compress Ch 23–31/40, closed-door Sunday, proactive Act III win, Lucien's false report under pressure) plus lifting Baz's "Not on a step" hold (Lena's location given). External review 11 folded in.
 
+## §570 — B01 rewrite: middle events after blind panel 5, 2026-10-16
+
+- Panel 5 mean 3.94 (plateau). New decision `decisions/B01_REWRITE_PANEL5_MIDDLE_EVENTS_AUTHOR_ANSWERS_2026-10-16.md`: Dominion recruiter offer to an Ursulines first-feeler child (Ch 26–27); Mrs. Arceneaux dies of hip-fracture complications (~Ch 31); phone-recovery caper as humor/action counterweight; panel-5 fix pass.
+
 END RECOVERY LEDGER
