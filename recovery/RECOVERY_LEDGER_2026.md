@@ -18823,4 +18823,8 @@ ever merged, its entries are renumbered with a note.
 
 - Panel 2 (11 reads) flat against panel 1 (mean 3.72 vs 3.78); persistent issues structural. New decision `decisions/B01_REWRITE_PANEL2_STRUCTURAL_AUTHOR_ANSWERS_2026-10-16.md`: Lucien's "None" exposed by Caldas at Ch 30; two opposition parties (Dominion incl. the Review/Institute and the City; the Cases); cut about 10–12k; Transmission and Interlude cut.
 
+## §567 — B01 rewrite: bounded fix pass answers, 2026-10-16
+
+- External reviews 8–10 (Oct 16) recommend freezing structure. New decision `decisions/B01_REWRITE_BOUNDED_FIX_PASS_AUTHOR_ANSWERS_2026-10-16.md`: May 4 stakes reframed (new application for a deceased child, not lost bills); fix sections A–E; Lacuna cameo at the Vein (Ch 22); one light Elisabet beat.
+
 END RECOVERY LEDGER
