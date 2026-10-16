@@ -18819,4 +18819,8 @@ ever merged, its entries are renumbered with a note.
 
 - New decision: `decisions/B01_REWRITE_OPPOSITION_REDESIGN_AUTHOR_ANSWERS_2026-10-15.md`. Act II ends in an in-person loss to Caldas (Ch 30: the VEIL file taken, Baz exposed); Baz's C-2 moves to 34.3 (the VEIL file and his model of Dominion's aim); the 41.4 trap disproves "who first"; S4 memo cut; Ch 44 a short intake ending on the B2 hook. Reverses Q-H3 (folder = "what you took"); amends Q-H4.
 
+## §566 — B01 rewrite: blind panel 2 and structural answers, 2026-10-16
+
+- Panel 2 (11 reads) flat against panel 1 (mean 3.72 vs 3.78); persistent issues structural. New decision `decisions/B01_REWRITE_PANEL2_STRUCTURAL_AUTHOR_ANSWERS_2026-10-16.md`: Lucien's "None" exposed by Caldas at Ch 30; two opposition parties (Dominion incl. the Review/Institute and the City; the Cases); cut about 10–12k; Transmission and Interlude cut.
+
 END RECOVERY LEDGER
