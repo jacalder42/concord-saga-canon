@@ -18809,4 +18809,10 @@ ever merged, its entries are renumbered with a note.
 - Vernice's Ch 37 detention is grounded in La. R.S. 28:53.2 (coroner's order for protective custody on a private-signature statement), abused through an engineered statement. Mr. Vidrine's oxygen: concentrator primary, E cylinders as backup (about 5–6 h each at 2 L/min).
 - Nothing here changes established canon. All values remain working values pending author confirmation.
 
+## §564 — B01 rewrite: romance oxygen and Book 2 hook (author answers), 2026-10-15
+
+- New decision: `decisions/B01_REWRITE_ROMANCE_OXYGEN_AND_B2_HOOK_AUTHOR_ANSWERS_2026-10-15.md` (romance Option C; hook Option B, new Ch 44, Seraphine forces the telling; Ch 44 completes C-2/C-3, not a C-4).
+- Prior state: braid 4 merges, Act II compression (a), partial repair; second-round blind reads; external reviews 6–7 recommended a structural freeze; author direction controls.
+- B02 knock-ons (E08, E23, E25, E31) owed in the B02 packet pass.
+
 END RECOVERY LEDGER
