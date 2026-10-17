@@ -5,7 +5,7 @@ Status: AUTHOR DECISION. Ledger §578. Plans on manuscript branch `claude/rewrit
 
 ## Direction
 
-- Compress the text spent on testing and spend it on reader payoff (banter, flirting, community texture, lore, tension, action, Calder's chaos squirrel). Approved: the twelve trades T1–T12 (T12 corrected: Elisabet's backer is "the Institute in Vienna", not "the Hollen Institute").
+- Compress the text spent on testing and spend it on reader payoff (banter, flirting, community texture, lore, tension, action, Calder's chaos squirrel). Approved: the twelve trades T1–T12 (T12 written as "the Institute in Vienna"; integration note: the manuscript's full name is the "Hollen Institute for Civic Continuity" (Ch 10, 25, 38, 42), sister to the Hollen Foundation, so the earlier "Hollen Institute is wrong" flag was itself mistaken).
 - Before applying, author asked whether Baz is catching a bad rap and whether the opposition could spoil a test. Approved additions:
   - **Ch 24 spoil:** door hangers ("utility work… remain indoors", naming days) empty the far half of Ursulines for the control; Baz sees one before the fall and misreads it; Lucien logs VOID afterwards. Motivates Baz's Ch 27 report as a counter-test of the leak.
   - **Baz repays the harm of the false report, unasked** (top of Ch 32, Caro's ledger): "Cross it out. It is not a debt." Inverse of Caldas's "I'd rather he owed me." **Money source: Baz's Institute per diem** (author: "per diem works").
@@ -27,3 +27,7 @@ Status: AUTHOR DECISION. Ledger §578. Plans on manuscript branch `claude/rewrit
 - Elisabet's Institute-funded field season; her notebooks claimed "and anybody named in them"; she burned them.
 - Caro–Elisabet flirtation opened in B01.
 - Baz with children seeded (Ch 11 Houston lobby, Ch 19 fishing, Ch 24 Dion's box, Ch 42 the hat) toward his B03 death.
+
+## Applied (2026-10-17)
+
+All fourteen items plus the lag fixes applied on manuscript branch `claude/rewrite-2026-10-14` (WP1–WP5 change logs in `draft-notes/rewrite-2026-10-14/drafts/CHANGES_TRADE_WP*.md`). Book now 105,342 words (+859): earlier passes had already removed most testing procedure, so the trades paid for less than planned. Baz signs the cylinder slip "B.A." (Bastien Arnaud).
