@@ -36,3 +36,7 @@ The ChatGPT export of 2025-11-10 recorded "Final Canon Titles (v 5.01)":
 - **Loom:** *The Frayed Pattern*, *The Unraveling Light*, *The Luminous Thread*
 
 Later drafts of that same export changed it: B01 became *The Woven Veil*, and B02 and B03 went through *Fractured*, *Sundered*, *Shattered* and *Threshold*. The v5.01 set is kept here as history and as reserve candidates. None of it was ever written into the canon repo.
+
+## Note: the eulogy echo (author, 2026-10-17)
+
+If B01 is titled *Screen Door Eulogy*, a later book can allude to it through **Tahl's funeral as a second line**. Canon already places that funeral at the opening of Loom: Tahl dies at the Santa Fe rupture in B06, and Lacuna is prominent at his funeral at B07 A1 E02 (breadcrumb BC-LACUNA-CAMEO). The B01 title would then mirror the saga's largest public mourning: a private screen-door eulogy at the start, a street-wide one later. Whether the funeral is a second line is author direction, not yet ruled. Log it for the B07 design.

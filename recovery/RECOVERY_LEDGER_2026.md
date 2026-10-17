@@ -18855,4 +18855,8 @@ ever merged, its entries are renumbered with a note.
 
 - Author: B02 *Hole in the Screen* and B03 *A Thread Missing* (Claude's pick among the author's variants) favoured, still open; *The Last Veil* to reserve. Same author turn approved the title/texture fix pass (eulogy beats, Catholic funeral for Dré, Seraphine's heritage on the page, "cher" ownership, style-sheet Louisiana section).
 
+## §575 — Note: eulogy title echo, 2026-10-17
+
+- Appended to the working title map: if B01 is *Screen Door Eulogy*, allude to it later via Tahl's funeral as a second line (B07 A1 E02, Lacuna prominent). Second-line form is author direction, not yet ruled; for the B07 design.
+
 END RECOVERY LEDGER
