@@ -40,3 +40,17 @@ Later drafts of that same export changed it: B01 became *The Woven Veil*, and B0
 ## Note: the eulogy echo (author, 2026-10-17)
 
 If B01 is titled *Screen Door Eulogy*, a later book can allude to it through **Tahl's funeral as a second line**. Canon already places that funeral at the opening of Loom: Tahl dies at the Santa Fe rupture in B06, and Lacuna is prominent at his funeral at B07 A1 E02 (breadcrumb BC-LACUNA-CAMEO). The B01 title would then mirror the saga's largest public mourning: a private screen-door eulogy at the start, a street-wide one later. Whether the funeral is a second line is author direction, not yet ruled. Log it for the B07 design.
+
+## Note: B04 as a mourning title (author, 2026-10-17)
+
+The author suggests B04's title could also allude to a death, here Baz's and its aftermath. In canon the cast learns of it at the start of B04 (M10), and Lucien withdraws to Vienna in grief (M05, M57). Claude's candidate is ***Neon Wake***, which carries three senses:
+- a wake for Baz;
+- the book plays out in the wake of his death;
+- waking: the Neon trilogy's awakening.
+
+It opens on the death and leaves *Neon Riot* to name the Act III climax (M16). Both titles stay open. A quick search found no existing novel titled *Neon Wake*; nearby titles include *Newton's Wake* and the *Wake* trilogies.
+
+If the titles keep this pattern, a mourning title opens each trilogy:
+- Veil opens on Dré (*Screen Door Eulogy*);
+- Neon opens on Baz (*Neon Wake*);
+- Loom opens on Tahl's second-line funeral (B07).

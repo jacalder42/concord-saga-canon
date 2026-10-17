@@ -18859,4 +18859,8 @@ ever merged, its entries are renumbered with a note.
 
 - Appended to the working title map: if B01 is *Screen Door Eulogy*, allude to it later via Tahl's funeral as a second line (B07 A1 E02, Lacuna prominent). Second-line form is author direction, not yet ruled; for the B07 design.
 
+## §576 — Note: B04 mourning title, 2026-10-17
+
+- Appended to the working title map: B04 could allude to Baz's death and aftermath; candidate *Neon Wake* (wake / in the wake / waking), *Neon Riot* kept. Possible pattern: each trilogy opens on a mourning (Dré, Baz, Tahl). All open.
+
 END RECOVERY LEDGER
