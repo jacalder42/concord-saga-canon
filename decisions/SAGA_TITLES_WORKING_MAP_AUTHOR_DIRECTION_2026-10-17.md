@@ -21,7 +21,9 @@ Status: AUTHOR DIRECTION, working only. Ledger §573. Supporting material is on 
 | Book | Candidates | Notes |
 |---|---|---|
 | B01 | *Screen Door Eulogy*; *The Wire Beneath* | The 11-persona title panel ranked *Screen Door Eulogy* first; 7 of 11 wrote in *The Wire Beneath*. Both titles are on the beta questionnaire. Whether the prose earns "eulogy" is under review. |
-| B02 / B03 | *Hole in the Screen* (author: "would be successful"); *The Missing Thread*; *The First Tear*; *The Last Veil* | *The Tape Won't Hold* is not favoured by the author for B02. |
+| B02 | *Hole in the Screen* (favoured, open) | The breach shows. *The Tape Won't Hold* is not favoured. |
+| B03 | *A Thread Missing* (favoured, open) | Chosen over *The/A Missing Thread* (crowded; two existing books) and *The Thread Missing*. It carries Baz's death (M10, unseen by the cast until B04), Tahl's first noticed VeilThread brush and his naming (B03 EP), the misdescribed Warehouse record, and the online "thread" of the MT voice. The Veil trilogy zooms in on the mesh: door, then hole, then missing strand. |
+| reserve | *The Last Veil*, *The First Tear*, *The Missing Thread* | |
 | B04 | *Neon Riot* | Ties to M16, the Riot of Light (alternate name: the Neon Riot). |
 | B09 | *Conversation in the Stars* | Ties to M53: the night-sky epilogue. |
 

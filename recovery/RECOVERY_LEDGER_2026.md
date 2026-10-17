@@ -18851,4 +18851,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/SAGA_TITLES_WORKING_MAP_AUTHOR_DIRECTION_2026-10-17.md`. All titles stay open until each book's prose is written. Veil trilogy object = the (screen) door; "screen" double meaning (door / world-wide mesh / device screens) as rhyme, not equation (M09 stands). B01 candidates Screen Door Eulogy / The Wire Beneath (on beta questionnaire); Hole in the Screen favoured for B02/B03; The Tape Won't Hold not favoured; Neon Riot (B04), Conversation in the Stars (B09) banked. Recovered v5.01 title set recorded as history.
 
+## §574 — Saga titles: working map amended, 2026-10-17
+
+- Author: B02 *Hole in the Screen* and B03 *A Thread Missing* (Claude's pick among the author's variants) favoured, still open; *The Last Veil* to reserve. Same author turn approved the title/texture fix pass (eulogy beats, Catholic funeral for Dré, Seraphine's heritage on the page, "cher" ownership, style-sheet Louisiana section).
+
 END RECOVERY LEDGER
