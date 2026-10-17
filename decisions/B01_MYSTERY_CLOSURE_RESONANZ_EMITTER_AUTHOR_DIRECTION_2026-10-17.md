@@ -22,3 +22,14 @@ Status: AUTHOR DIRECTION. Ledger §579. Develops `decisions/B01_REWRITE_TRADE_TH
 
 - Recovered sources use emitter / anchor / lens (Notion blueprint: a group field is shaped by "the strongest emotional emitter" and "the most stable emotional anchor"; Elisabet is a lens, not an emitter; the Implant Lattice "attempts to create intentless resonance emitters" and fails). One B2 reading: the firsts are lenses, Dominion is screening for emitters, and the footage suggests Nyla may be an anchor.
 - Reserves still hold: Loom/soul/Mira, the cycle, the four-wound chain, the Mending site, Tahl's pattern, the breathing-veil answer. Why Dré died stays unstated; the burnout re-read is implied at most. Seraphine's "steps" stay ambiguous.
+
+## Applied (2026-10-17)
+
+- Plan `draft-notes/rewrite-2026-10-14/PLAN_MYSTERY_CLOSURE_2026-10-17.md` applied (T1–T10) on manuscript branch `claude/rewrite-2026-10-14`. The book is now 106,714 words.
+- **The clincher is a wrong name, not a misspelling.** Lucien's form enters the boy as DOUCET, André (the householder's surname); the family is Batiste everywhere else. BAPTISTE was avoided because of Councilwoman Baptiste in B02 E27.
+- Seraphine matches the Foundation envelope against the pink copy of the form (Ch 40).
+- Dates: report Mon 23 March; Mass Fri 27 March.
+- On Lanette's Foundation page: *First aware* struck through, *Emitter (prov.)* beside it, *Ursulines 13.4. Square 2.5.*, file stamp RESONANZ.
+- Baz: "This box I ticked myself, for years. That word I have never seen."
+- In the Epilogue both words come up the line; he reaches for the first time: "Emitter. They have it wrong." / "They have it written down."
+- **Canon packets to amend at reconciliation:** E50 ("no Resonance"); E09/E10 (the funeral week, dated "early to mid-March"). B02 must account for Nyla's Foundation place, held until 15 May and refused "Not this year".
