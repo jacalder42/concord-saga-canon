@@ -18843,4 +18843,8 @@ ever merged, its entries are renumbered with a note.
 
 - Panel 6 mean 4.00 (plateau). New decision `decisions/B01_REWRITE_PANEL6_AUTHOR_ANSWERS_2026-10-16.md`: §6 items 1–6 agreed; Strobl/Hollen seeded at Dré's funeral (Ch 7) and the Square triage (Ch 10); the false Kerlerec report moves from Lucien to Baz (sent from Lucien's laptop; Lucien takes the public retraction); panel-6 polish list applies.
 
+## §572 — B01 rewrite: answers after blind panel 7, 2026-10-16
+
+- Panel 7 mean 3.89 (plateau). New decision `decisions/B01_REWRITE_PANEL7_AUTHOR_ANSWERS_2026-10-16.md`: five cheap fixes applied; opposition shown in action — Caro's two-requests story (Ch 3), Baz's Houston stairwell case and letter (Ch 11); Ch 26 "two lots" halved.
+
 END RECOVERY LEDGER
