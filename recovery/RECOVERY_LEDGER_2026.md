@@ -18847,4 +18847,8 @@ ever merged, its entries are renumbered with a note.
 
 - Panel 7 mean 3.89 (plateau). New decision `decisions/B01_REWRITE_PANEL7_AUTHOR_ANSWERS_2026-10-16.md`: five cheap fixes applied; opposition shown in action — Caro's two-requests story (Ch 3), Baz's Houston stairwell case and letter (Ch 11); Ch 26 "two lots" halved.
 
+## §573 — Saga titles: working map, 2026-10-17
+
+- New `decisions/SAGA_TITLES_WORKING_MAP_AUTHOR_DIRECTION_2026-10-17.md`. All titles stay open until each book's prose is written. Veil trilogy object = the (screen) door; "screen" double meaning (door / world-wide mesh / device screens) as rhyme, not equation (M09 stands). B01 candidates Screen Door Eulogy / The Wire Beneath (on beta questionnaire); Hole in the Screen favoured for B02/B03; The Tape Won't Hold not favoured; Neon Riot (B04), Conversation in the Stars (B09) banked. Recovered v5.01 title set recorded as history.
+
 END RECOVERY LEDGER
