@@ -18872,4 +18872,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_REWRITE_TRADE_THE_TESTING_AUTHOR_ANSWERS_2026-10-17.md`. Twelve testing-for-payoff trades approved (T12 corrected to "the Institute in Vienna"); Ch 24 opposition spoils a control (door hangers); Baz repays the false report's harm from his Institute per diem (Ch 32); lag-audit fixes across Ch 11–42. Author: Caro–Elisabet B01 seed is a teasing invitation to flirt; T2 jealousy banter fine as is. New B01 material (Elisabet's notebooks, Caro–Elisabet flirtation, Baz-with-children seeds) logged for the saga reconciliation.
 
+## §579 — B01 mystery closure, Resonanz and Emitter, 2026-10-17
+
+- New `decisions/B01_MYSTERY_CLOSURE_RESONANZ_EMITTER_AUTHOR_DIRECTION_2026-10-17.md`. B01 solves how they found Dré (coroner contract, misspelled carbon); Dominion wants what it believes the children can do. Author lifts Q-V3-2 for "Resonanz" and "Emitter" as Dominion's terms; Epilogue watchers may react (amends E50). Nyla is the child at the Square. Dominion's theory evolved: firsts (Baz's era, recreating events) to emitters (since he left); resonance known but misidentified.
+
 END RECOVERY LEDGER
