@@ -56,3 +56,15 @@ If the titles keep this pattern, a mourning title opens each trilogy:
 - Loom opens on Tahl's second-line funeral (B07).
 
 **Author, 2026-10-17:** "I like that direction." The pattern is adopted as the working direction for the opening title of each trilogy: Veil opens on Dré, Neon on Baz, Loom on Tahl, each mourning more public than the last. The individual titles remain open.
+
+## B01 act titles (author, 2026-10-17; working)
+
+The author prefers objects to overt points or tells, while leaving some freedom.
+
+- **Act I · *The Blue Folder*** (Prologue, Ch 1–11). The author's lean.
+- **Act II · *A Fistful of Zip Ties*** (Ch 12–29). The author's suggestion; a wry object title between two plain ones.
+- **Act III · *Flour on the Flagstone*** (Ch 30–45, Epilogue). The author's working title, an object allusion to the climax: the tins and saucers of flour on the Square. To make it literal, Ch 41 now has Baz say "I emptied it on the flagstones."
+
+Part pages carry these titles in the beta copy. The rebuild script inserts them.
+
+The panel also suggested *The Blue Folder, Unopened*, with "Unopened" chosen by 9 of 11 personas. It is kept as a variant.

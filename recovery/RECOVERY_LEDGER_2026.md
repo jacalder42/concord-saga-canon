@@ -18864,4 +18864,8 @@ ever merged, its entries are renumbered with a note.
 - Appended to the working title map: B04 could allude to Baz's death and aftermath; candidate *Neon Wake* (wake / in the wake / waking), *Neon Riot* kept. Possible pattern: each trilogy opens on a mourning (Dré, Baz, Tahl). All open.
 - Author: "I like that direction" — opening-on-a-mourning pattern adopted as working direction; titles still open.
 
+## §577 — B01 act titles (working), 2026-10-17
+
+- Appended to the working title map: Act I The Blue Folder; Act II A Fistful of Zip Ties; Act III Flour on the Flagstone (objects, not tells). Part pages added to the beta copy; Ch 41 line made literal. Title panel round 2: The Wire Beneath 7 picks, Screen Door Eulogy 3, The Blue Folder 1.
+
 END RECOVERY LEDGER
