@@ -18839,4 +18839,8 @@ ever merged, its entries are renumbered with a note.
 
 - Panel 5 mean 3.94 (plateau). New decision `decisions/B01_REWRITE_PANEL5_MIDDLE_EVENTS_AUTHOR_ANSWERS_2026-10-16.md`: Dominion recruiter offer to an Ursulines first-feeler child (Ch 26–27); Mrs. Arceneaux dies of hip-fracture complications (~Ch 31); phone-recovery caper as humor/action counterweight; panel-5 fix pass.
 
+## §571 — B01 rewrite: answers after blind panel 6, 2026-10-16
+
+- Panel 6 mean 4.00 (plateau). New decision `decisions/B01_REWRITE_PANEL6_AUTHOR_ANSWERS_2026-10-16.md`: §6 items 1–6 agreed; Strobl/Hollen seeded at Dré's funeral (Ch 7) and the Square triage (Ch 10); the false Kerlerec report moves from Lucien to Baz (sent from Lucien's laptop; Lucien takes the public retraction); panel-6 polish list applies.
+
 END RECOVERY LEDGER
