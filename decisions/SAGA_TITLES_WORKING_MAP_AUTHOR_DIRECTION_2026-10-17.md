@@ -54,3 +54,5 @@ If the titles keep this pattern, a mourning title opens each trilogy:
 - Veil opens on Dré (*Screen Door Eulogy*);
 - Neon opens on Baz (*Neon Wake*);
 - Loom opens on Tahl's second-line funeral (B07).
+
+**Author, 2026-10-17:** "I like that direction." The pattern is adopted as the working direction for the opening title of each trilogy: Veil opens on Dré, Neon on Baz, Loom on Tahl, each mourning more public than the last. The individual titles remain open.

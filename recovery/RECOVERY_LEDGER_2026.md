@@ -18862,5 +18862,6 @@ ever merged, its entries are renumbered with a note.
 ## §576 — Note: B04 mourning title, 2026-10-17
 
 - Appended to the working title map: B04 could allude to Baz's death and aftermath; candidate *Neon Wake* (wake / in the wake / waking), *Neon Riot* kept. Possible pattern: each trilogy opens on a mourning (Dré, Baz, Tahl). All open.
+- Author: "I like that direction" — opening-on-a-mourning pattern adopted as working direction; titles still open.
 
 END RECOVERY LEDGER
