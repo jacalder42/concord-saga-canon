@@ -18868,4 +18868,8 @@ ever merged, its entries are renumbered with a note.
 
 - Appended to the working title map: Act I The Blue Folder; Act II A Fistful of Zip Ties; Act III Flour on the Flagstone (objects, not tells). Part pages added to the beta copy; Ch 41 line made literal. Title panel round 2: The Wire Beneath 7 picks, Screen Door Eulogy 3, The Blue Folder 1.
 
+## §578 — B01: trade the testing, Baz, opposition spoil, lag fixes, 2026-10-17
+
+- New `decisions/B01_REWRITE_TRADE_THE_TESTING_AUTHOR_ANSWERS_2026-10-17.md`. Twelve testing-for-payoff trades approved (T12 corrected to "the Institute in Vienna"); Ch 24 opposition spoils a control (door hangers); Baz repays the false report's harm from his Institute per diem (Ch 32); lag-audit fixes across Ch 11–42. Author: Caro–Elisabet B01 seed is a teasing invitation to flirt; T2 jealousy banter fine as is. New B01 material (Elisabet's notebooks, Caro–Elisabet flirtation, Baz-with-children seeds) logged for the saga reconciliation.
+
 END RECOVERY LEDGER
