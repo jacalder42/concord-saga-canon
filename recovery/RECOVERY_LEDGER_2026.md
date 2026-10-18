@@ -18884,4 +18884,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_FALSE_REPORT_VIENNA_ORDER_AND_ONPAGE_PASS_AUTHOR_APPROVAL_2026-10-17.md`. The Kerlerec report becomes N.'s order, which Lucien confirms under clause eleven to shield Seraphine (his last obedience). Supersedes the panel-6 Baz version. Show-not-tell (7 conversions) and decision-point interiority (about 15 sites) approved. New canon: the Review fabricates reports to feed City holds.
 
+## §582 — B01 panel 10 answers; three manuscripts, 2026-10-17
+
+- New `decisions/B01_PANEL10_AUTHOR_ANSWERS_THREE_MANUSCRIPTS_2026-10-17.md`. Climax is a double win (Caldas loses and may flee; Dominion loses Nyla for good). Reveals move earlier (Ch 14–19). One positive finding that holds twice. No length target. "I was afraid" said aloud. Watchers stay a frame. Plan: A (corrected current draft, to betas), then C (rewrite and merge), then B (full rewrite); compare all three.
+
 END RECOVERY LEDGER
