@@ -18940,4 +18940,8 @@ ever merged, its entries are renumbered with a note.
 - Still OPEN: Concord-Mandate's classification and §VII; Concord-Relationships §III toward a Dominion faction carrying Concord's name; Philomène in B02; the exact book of the split; the Neon book of the first co-opted use; the book and manner of the collapse; Caldas's B03 "free rein" on the page; Helena's membership; confirmation of the City–Dominion draft and the delegated proposals.
 - Not changed: `recovery/ACCOUNT_EXPORT_CONCORD_TIER1_PAIR_AUDIT_2026-09-20.md` (this entry records that "Concord is NOT founded — it EMERGES" largely stands again for the protagonists' Concord); the manuscript (no B01 page change; no Ramon rename).
 
+## §593 — B01 location check approvals, 2026-10-18
+
+- New `decisions/B01_LOCATION_CHECK_AUTHOR_APPROVALS_2026-10-18.md`. Kerlerec moves from the 900 to the 1300 block (near N Robertson); "the Rampart end" replaces "the Esplanade end"; the Ursulines line goes round Armstrong Park; the Causeway toll comes before the bridge, at 55; smaller fixes to the C01 timings, C25, C27 and the C38 fare. The registry B20 row is annotated.
+
 END RECOVERY LEDGER
