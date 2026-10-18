@@ -18896,4 +18896,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_PANEL11_AUTHOR_ANSWERS_2026-10-18.md`. C's fixes now; in the Square film the fall stops at Nyla alone (C and B); the cap hint made vaguer ("built" and "hold back" removed) to protect the Loom reserve. Readers expect Dominion to return for Nyla in B02; noted for reconciliation.
 
+## §585 — B01 final pass on C, 2026-10-18
+
+- New `decisions/B01_FINAL_PASS_RULINGS_C_BASE_2026-10-18.md`. C′ is the base, with grafts G1–G8 from B. Caldas loses in person at Poydras. Lucien loses his posting; Seraphine gets a written warning; a seed of Concord via Baz's funder (opening only, to be reconciled). Nyla seen live is the climax turn. "Was Dré first?" asked once and unanswered. The plate thread is cut. No hard length cap. Then a compression pass, a tic pass, and human betas.
+
 END RECOVERY LEDGER
