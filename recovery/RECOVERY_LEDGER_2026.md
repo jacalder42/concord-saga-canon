@@ -18918,6 +18918,6 @@ ever merged, its entries are renumbered with a note.
 
 ## §590 — B01 polish recommendations approved, 2026-10-18
 
-- New `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`. Lucien's posting is suspended and his papers go to Vienna. Concord: the ethic emerges and the organization is founded after the split; the name is co-opted by the former funder and then an institutional Concord; the New Orleans circle splits; Caldas reads the review in B02; three B01 swaps separate the funder from Hollen. Repetition, continuity, realism (French Quarter Fest named), Companions and banter defaults approved.
+- New `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`. Lucien's posting is suspended and his papers go to Vienna. Concord: the ethic emerges and the organization is founded after the split; the name is co-opted by the former funder and then an institutional Concord; the New Orleans circle splits; Caldas reads the review in B02; three B01 swaps separate the funder from Hollen. Repetition, continuity, realism (French Quarter Fest named), Companions and banter defaults approved. Further: contractions for Baz and Elisabet; the cone paid off with a hint at a second return; Lucien turns Baz's cup up; the withdrawal decision shown; the C43 locked edit allowed if non-destructive.
 
 END RECOVERY LEDGER

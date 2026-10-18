@@ -19,3 +19,10 @@ Marius **suspends** the posting pending review rather than closing it. Under cla
 - Companions: the C43 pile-up of wins is thinned (one or two moved later or left open).
 - Banter: callback before the C41 kiss allowed; no second Caro–Elisabet scene now; snark stays in POV, not narrator; keep "Okay, Mr. Kael"; the C21 earrings paid off in one line or cut.
 - Dialect: Caldas Portuguese (see §587 addendum).
+
+## Further rulings (author, 2026-10-18, 08:50)
+1. Contractions: Baz and Elisabet get some contractions in casual speech; Lucien stays almost uncontracted. **Yes.**
+2. Elisabet's planted returns: pay off one in B1 (the cone, in Caro's C44 call). **Yes, "perhaps one hint at a second."** The rest carry to B02.
+3. Baz's cup: late in the book, Lucien turns it back up without a word. **Yes.**
+4. Lucien's decision to withdraw the false report is shown briefly in his POV. **Yes.**
+5. The edit inside Lucien's locked corrected statement (C43): **"open to editing if non destructive."**
