@@ -18916,4 +18916,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_POLISH_WARMTH_AND_INTERIOR_DIRECTION_2026-10-18.md`. Err toward more jokes, banter, sarcasm, innuendo and flirting; add Cajun and Creole nicknames and pet names; review POV interior voice so the reader knows how the characters think, debate and process.
 
+## §590 — B01 polish recommendations approved, 2026-10-18
+
+- New `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`. Lucien's posting is suspended and his papers go to Vienna. Concord: the ethic emerges and the organization is founded after the split; the name is co-opted by the former funder and then an institutional Concord; the New Orleans circle splits; Caldas reads the review in B02; three B01 swaps separate the funder from Hollen. Repetition, continuity, realism (French Quarter Fest named), Companions and banter defaults approved.
+
 END RECOVERY LEDGER
