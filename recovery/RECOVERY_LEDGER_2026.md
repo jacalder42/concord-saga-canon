@@ -18908,4 +18908,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_POLISH_DIALECT_RULINGS_2026-10-18.md`. Plate-sale day left to Claude; Mr. Ledet's "talks like a document" re-voiced; Caldas is European, subject to a distinctness and antagonist-roster check (American allowed if the roster is too European); authenticity-reader list accepted.
 
+## §588 — B01 character-against-canon audit rulings, 2026-10-18
+
+- New `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md`. Baz's funder is a Dominion splinter; the Group later splits from it and only then founds Concord, with a possible later rival that co-opts the name. Lucien is suspended or reprimanded rather than losing the posting, with a replacement cost to be proposed. Dré may die at the hospital or in the ambulance. Elisabet's page height changed to canon. The C22 singer is the Lacuna.
+
 END RECOVERY LEDGER
