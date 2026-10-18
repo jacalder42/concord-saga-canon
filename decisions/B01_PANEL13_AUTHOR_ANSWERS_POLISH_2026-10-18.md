@@ -18,6 +18,6 @@ Status: AUTHOR DECISION ("Agreed as recommended", plus direction). Ledger §586.
 - **Run polish panels first:** realism, repetition correction, character against canon, dialect, AI tropes and tells, "etc".
 - **"If reader panels mention repetitive events and shapes of events, we need to make those corrections now."** Methods: consolidation, combination, summary, cut, synonym. New events or moments may be added as needed.
 
-## Open
+## Vael / Veil
 
-- Whether Vael / Veil is deliberate (not yet answered).
+- Happenstance, but acceptable (author, 2026-10-18). No change; no wordplay is to be built on it.
