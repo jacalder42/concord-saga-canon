@@ -20,4 +20,4 @@ Status: AUTHOR DECISION ("Agreed as recommended", plus direction). Ledger §586.
 
 ## Vael / Veil
 
-- Happenstance, but acceptable (author, 2026-10-18). No change; no wordplay is to be built on it.
+- Happenstance, but acceptable (author, 2026-10-18). No change.
