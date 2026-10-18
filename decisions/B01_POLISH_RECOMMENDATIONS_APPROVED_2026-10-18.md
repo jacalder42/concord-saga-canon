@@ -26,3 +26,12 @@ Marius **suspends** the posting pending review rather than closing it. Under cla
 3. Baz's cup: late in the book, Lucien turns it back up without a word. **Yes.**
 4. Lucien's decision to withdraw the false report is shown briefly in his POV. **Yes.**
 5. The edit inside Lucien's locked corrected statement (C43): **"open to editing if non destructive."**
+
+## Nickname rulings (author, 2026-10-18, 08:51)
+Source: `draft-notes/final-2026-10-18/AUDIT_NICKNAMES.md`.
+1. **Seraphine's childhood nickname is "Fifine"**, what her late brother called her (C03). New canon; payoff left for later books.
+2. **Lorraine is Dré's godmother** ("His Nannan Lorraine", C40), "if it fits story". It fits: Lorraine is Odile's sister and Dré's aunt, and Renée stays with her. New canon.
+3. **"Mr. Tree"** is Miss Tavie's name for Baz (C18, C43). Yes.
+4. **Gwen's "Mr. Baz"** (C37). Agreed.
+5. **Lucien uses no endearment in B1**; saying her name once in C44 is his. Yes.
+6. **"Cher"**: the author's understanding is that "cher" is Cajun and "chérie" is Creole / New Orleans. Miss Tavie does not say "cher"; "cher" stays Odile's. Any "chérie" for Miss Tavie waits for the Creole authenticity reader.
