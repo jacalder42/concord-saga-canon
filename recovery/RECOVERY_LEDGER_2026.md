@@ -18892,4 +18892,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_C_AND_B_RULINGS_2026-10-17.md`. The positive finding is "the water goes first" (both C and B). Nyla is refused for good (C and B). Caldas is recalled, not arrested. The case people get names and a want; their funder stays open. Dominion plans to observe Nyla, not to take her. In B, "Square 2.5" is a booking.
 
+## §584 — B01 panel 11 answers, 2026-10-18
+
+- New `decisions/B01_PANEL11_AUTHOR_ANSWERS_2026-10-18.md`. C's fixes now; in the Square film the fall stops at Nyla alone (C and B); the cap hint made vaguer ("built" and "hold back" removed) to protect the Loom reserve. Readers expect Dominion to return for Nyla in B02; noted for reconciliation.
+
 END RECOVERY LEDGER
