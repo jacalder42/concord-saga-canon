@@ -18876,4 +18876,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_MYSTERY_CLOSURE_RESONANZ_EMITTER_AUTHOR_DIRECTION_2026-10-17.md`. B01 solves how they found Dré (coroner contract, misspelled carbon); Dominion wants what it believes the children can do. Author lifts Q-V3-2 for "Resonanz" and "Emitter" as Dominion's terms; Epilogue watchers may react (amends E50). Nyla is the child at the Square. Dominion's theory evolved: firsts (Baz's era, recreating events) to emitters (since he left); resonance known but misidentified.
 
+## §580 — B01 panel 9 answers, 2026-10-17
+
+- New `decisions/B01_PANEL9_AUTHOR_ANSWERS_2026-10-17.md`. Panel 9 mean 3.83; the mystery closure registered with all eleven readers. Delivery fixes approved (family-copy route, Ch 41 glimpse, 15 May clock, P8 copyedits). Epilogue keeps Veil and some Resonanz; "Emitter" is Dominion's false term and does not play cosmically. Calder profile §11 amended to the 10-16 four-kiss ruling. Next: a show-not-tell pass, and a redesign of the false report (possibly coerced: the last order Lucien follows from Vienna).
+
 END RECOVERY LEDGER
