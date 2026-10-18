@@ -146,3 +146,27 @@ and it knows it does not belong there forever.
 > **Note, 2026-10-18 (author direction and approved recommendations: `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #1; `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, "Concord and the funder"; ledger §588, §590, §591).** The founding is now stated. **The ethic emerges; the organization is founded** (this refines the author's 2025-12-12 constraint *"Concord is NOT founded — it EMERGES"*). Baz's funder, the foundation behind the Houston housing Group in B01, is a **Dominion splinter**. The New Orleans circle working through Baz takes work from it and later **splits** from it, and only after the split do they found the actual Concord. Its name is then **co-opted**: first by the former funder, then by an institutional Concord that grows from it. §VI (no Concord before the Veil) is unaffected.
 >
 > **OPEN, needs author ruling:** (1) the book of the split and of the founding (the ruling says the split may come "perhaps after Baz's death", the end of B03); (2) whether the header's *Multinational Civilian–Operational Coalition* and §VII *Why Concord is not the protagonist* stand now that the protagonists' circle founds it. The research behind these questions is the manuscript's `draft-notes/final-2026-10-18/RESEARCH_CONCORD_FUNDER_ORIGIN.md` (§2, §4). Nothing above is rewritten.
+
+> **Note, 2026-10-18, later (author answers and ruling: `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`; ledger §592). Supersedes in part the note above.**
+> **Concord's nature.** Author: *"Concord starts as a loose collection of people trying to help. The term is then
+> co-opted by an organization that eventually begins to behave insincerely or following their own best interest."* The
+> protagonists' Concord is **a loose collection of people trying to help**, not an organization. The note above's
+> *"the organization is founded"* (and *"found the actual Concord"*) **overstates the formality** for the protagonists'
+> Concord and is superseded on that point; the 2025-12-12 constraint *"Concord is NOT founded — it EMERGES"* largely
+> stands again for it. The **co-opting organization is the former funder** (funder lineage): **The funder is an internal faction within Dominion**, not a clean splinter that has left (author ruling, 2026-10-18, 09:59, "Agreed as recommended"). Virelli's leadership wants resonance hidden and contained; the faction has concluded the secrecy will not hold (B02 is when it becomes unsustainable) and wants to own the public face of resonance when it breaks. It funds care, consent forms and goodwill, and seeks *firsts*, because whoever holds them holds the evidence and the story. The help is real; the motive is self-interest. It takes the name
+> when resonance goes public in Neon and drifts into insincerity; the loose network keeps the word honestly, and the two
+> collide. It **collapses in Loom**, with Dominion's legacy. The note above's *"Dominion splinter"* is superseded by
+> *internal faction*. **Timing (leaning):** the split falls at the **B03→B04 boundary**, caused by the circle learning,
+> around Baz's death, that he was still paid by Dominion; the exact book is not locked.
+>
+> **Which parts of this file apply to which Concord** (Claude's reading for the author, 2026-10-18; no text above
+> changes). **The loose collection:** §I (not a government; *"Buy time. Reduce harm. Keep people alive."*), §III's three
+> mandates as things people do, §IV's ethos, §V's refusals, §VI (no Concord before the Veil) and §VIII. §II's *"formed by
+> people"* reads, for it, as *gathers*. **The co-opting organization:** the header's **Classification** (*Multinational
+> Civilian–Operational Coalition*) and **Status** describe an organization, which the loose collection is not; they fit
+> the co-opting organization, and the mandate and ethos are what it **professes**, at first partly sincerely, before it
+> drifts. **§VII** (*not the protagonist*) holds for both: the organization is not the protagonist, and the loose
+> collection, though the protagonists are in it, is people rather than a protagonist body.
+>
+> **OPEN, needs author ruling** (report §2 item 3, carried): whether the header's classification and §VII should be
+> re-pointed to the co-opting organization, split between the two, or left as the shared ideal both claim.

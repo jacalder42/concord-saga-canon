@@ -81,3 +81,6 @@ checkpoint. It applies:
 
 Then the checks, a blind read, a fix round, reading copies, regenerated serial modules, and the pull requests to `main`
 (the author's answer 11, ledger §491).
+
+**Pointer, 2026-10-18 (ledger §592; the text above is unchanged).** *"the faction stays unnamed on the page (G1)"* is
+amended by the author (*"naming is approved."*): "Dominion" is named once in the final B01, at C34. See `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md` #5.

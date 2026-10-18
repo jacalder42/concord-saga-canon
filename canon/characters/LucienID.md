@@ -83,4 +83,22 @@
 - **Dated note, 2026-10-18 (final B01 page; `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, further ruling 1 and nickname ruling 5; ledger §591): voice and names.** He stays almost uncontracted. **Q-VI3's naming rung is spent at C44**: the stair is the first time he says "Seraphine" to her face (the earlier C38 use was cut). He uses **no endearment in B01**; saying her name once is his. Her formal "Mr. Kael" turns into her pet name for him after the fourth kiss (C44), extending the earlier "Okay, Mr. Kael" (kept). **Q-VI10's "one French word at B01 E48" is stale for the final page**: the manuscript's style sheet gives Lucien no French on the page, and a search of his dialogue found none. Q-VI10's later permissions (German at a peak; French in intimacy on the B02 watch-list) are unaffected.
 - **Dated note, 2026-10-18 (final B01 page; ledger §591): card fact.** His father's wind-up watch, wound every night for nineteen years and set against the speaking clock on the first of the month; it runs four seconds a week fast (C09, C28).
 
+- **Dated note, 2026-10-18, later (author answers and ruling: `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`; ledger §592).**
+  - **"Dominion" (C34) approved:** he heard the word at the Review before Baz said it (C34). The B01 entry-state line
+    *"first named at B02 E08"* is stale.
+  - **B02 E08 and E34 after his on-record correction — PROPOSAL UNDER AUTHOR DELEGATION** (author: *"as best fits the
+    saga."*; Claude's draft, not ruled; full text in the two packets' notes). **E08:** the letter no longer carries the
+    first naming of the Dominion; it is the first time the name comes to him from **family**. The camp clause no longer
+    proves what C43 put on the record (that the Institute found a family through his form); it **widens** it: the camp
+    report was read too. *"His posting's cover holds"* reads as **the suspended posting**, with his papers already in
+    Vienna. His partial obedience is to Helena as family, after he told Caldas he had stopped carrying things to Vienna
+    (C43); that regression is the scene's cost. **E34:** no longer a confirmation of a suspicion; an **escalation**. He
+    has seen Baz's *disperse them* in the City's line six (C41); E34 shows the method used **beyond New Orleans**, and
+    the B02 pass may draw it from the field book he surrendered under clause eleven. F3's *used, not complicit* (B01
+    only) and the chain's locators are unchanged; CP9's *unproven* is superseded by C43 for his own form only.
+  - **The word "first"** (author ruling 09:59, point 4): he **may notice** that Baz's funder uses the Dominion's form
+    word and **say nothing**; no page change.
+  - **Helena Kael is a possible member** of the funder's faction inside Dominion (possibility, not locked), so her B02
+    request may be double-edged. **Virelli suspects the faction by B04**, when he demands Lucien's return (M05).
+
 END — LUCIEN KAEL IDENTITY CANON

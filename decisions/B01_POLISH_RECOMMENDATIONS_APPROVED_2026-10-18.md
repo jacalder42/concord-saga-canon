@@ -40,3 +40,10 @@ Source: `draft-notes/final-2026-10-18/AUDIT_NICKNAMES.md`.
 Source: `draft-notes/final-2026-10-18/AUDIT_DATELINES.md`. A date line under each chapter heading (C01–C44), and at section breaks only where the story day changes: 56 in all. Day before month, date only; C11 tagged "· Houston". Same-day chapters still print their date. Styled dateline (italic, small caps in EPUB/HTML). No running day count; no datelines on the Prologue or Epilogue. 18 weekday-only reminders cut from the prose; plot times, counts and timestamps stay.
 
 **Pointer, 2026-10-18 (ledger §591; the ruling text above is unchanged).** Nickname ruling 2 says *"Lorraine is Odile's sister and Dré's aunt"*. The final B01 page (C19, C40) and registry B13 make Lorraine **Renée's** sister (Odile's daughter), which is also what makes her Dré's aunt. Canon (registry B22) follows the page; the wording is flagged for the author in `reports/B01_POLISH_CANON_UPDATE_2026-10-18.md`. **Resolved 2026-10-18:** the coordinator corrected the wording in item 2 above; it was a summarising slip, not an author ruling.
+
+**Pointer, 2026-10-18, later (ledger §592; the ruling text above is unchanged).** "Concord and the funder" is refined by
+`decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`: (1) *"the organization is founded after the split"* overstates the formality: the protagonists' Concord is a
+loose collection of people trying to help, and the Dec 12 *"Concord is NOT founded — it EMERGES"* largely stands again
+for it; (2) the co-opting organization is the former funder, now ruled **an internal faction within Dominion** (not a
+splinter); *"then an institutional Concord that grows from it"* reads as that faction's own organization under the
+name, which collapses in Loom.

@@ -162,3 +162,13 @@ He is **outgrown**.
 - See `VirelliEBCI.md` for operational and scene-level rules  
 - See `canon/pov/VirelliPOV.md` *(path corrected 2026-09-27; was `virelli_pov.md`)* for POV constraints  
 - See `Dominions.md` for institutional context
+
+---
+
+- **Dated note, 2026-10-18 (author ruling, 09:59, "Agreed as recommended"; `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`; ledger §592): a faction inside his own house.**
+  An **internal faction within Dominion** (Baz's funder in B01) has concluded that Virelli's secrecy will not hold (B02
+  is when it becomes unsustainable) and wants to own the public face of resonance when it breaks. **Virelli does not
+  know at first**: it is a hedge inside the institution, not open revolt. **By B04, when he demands Lucien's return
+  (M05), he suspects.** The faction later co-opts the name "Concord" in Neon and collapses in Loom with Dominion's
+  legacy. Helena Kael is a possible member (not locked). Nothing above changes; his Neon section (*no longer central*)
+  is unaffected.

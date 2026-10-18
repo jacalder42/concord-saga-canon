@@ -192,5 +192,15 @@
       "requires": "M40",
       "from_book": "B07"
     }
-  ]
+  ],
+  "_concord_cooption_collapse_2026_10_18": {
+    "_status": "AUTHOR ANSWER, 2026-10-18 (\"no they collapse in Loom\"; ruling 09:59): decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md #4; ledger §592. Hand-authored; tools/derive_book_context.py does not touch this key.",
+    "ruled": [
+      "The organization that co-opts Concord's name (the former funder, an internal faction within Dominion) collapses in Loom (B07–B09), with Dominion's legacy; it does not outlive the Mending. The protagonists' loose collection persists."
+    ],
+    "open": [
+      "The book and manner of the collapse."
+    ],
+    "this_book": "B09: by the Mending the co-opting organization has collapsed; no successor organization (Concord-Limits §V holds). For D11, the rival holder of the name is gone by the Mending."
+  }
 }

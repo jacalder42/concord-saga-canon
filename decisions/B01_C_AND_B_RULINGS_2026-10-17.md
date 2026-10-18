@@ -8,3 +8,8 @@ Status: AUTHOR DECISION ("Proceed as recommended"). Ledger §583. Plans on manus
 4. **The case people:** the cream-shoes woman and the technician get names and a sincerely stated want. Who funds the timing data stays open for B02.
 5. **The crowd plan:** Dominion plans to observe Nyla at the Square, not to take children. The trio's tins and the microphone spoil that observation.
 6. **"Square 2.5"** is read as a booking made in advance, in B only. In A and C it is a record date.
+
+**Pointer, 2026-10-18 (ledger §592; the ruling text above is unchanged).** #3's short canon note on the City's relationship
+with Dominion is **drafted** in `canon/factions/Dominions.md` (dated note 2026-10-18, *the City and Dominion*), from the
+final B01 page, for the author's confirmation. Caldas's B02/B03 course is refined by `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md` #7 (restrained by
+leadership in B02, free rein in B03).

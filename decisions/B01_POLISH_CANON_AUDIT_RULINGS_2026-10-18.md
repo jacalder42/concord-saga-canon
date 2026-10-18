@@ -12,3 +12,10 @@ Status: AUTHOR DECISION / DIRECTION. Ledger §588. Source: manuscript branch `cl
 8. **The C22 singer (R8).** Yes, it is the Lacuna cameo.
 
 **Pointer, 2026-10-18 (ledger §591; the rulings above are unchanged).** #1's research and #3's replacement cost were answered in `B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md` (ledger §590), and the canon cards were amended under the author's "Yes" to the canon update (ledger §591; `reports/B01_POLISH_CANON_UPDATE_2026-10-18.md`). #4 (Dré), #5 (Elisabet's height), #6 (Mr. Ledet's house), #7 (Philomène) and #8 (Lacuna) are applied to the cards, registry and grids there.
+
+**Pointer, 2026-10-18, later (ledger §592; the rulings above are unchanged).** #1's *"a Dominion splinter"* is superseded
+by the author's ruling of 09:59: the funder is **an internal faction within Dominion**, and it is the organization that
+later co-opts Concord's name. *"Only after that split do they found the actual Concord"* is refined: the protagonists'
+Concord is a loose collection of people trying to help, not a founded organization. The split leans to the B03→B04
+boundary, caused by the circle learning, around Baz's death, that he was still paid by Dominion. See
+`decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`.

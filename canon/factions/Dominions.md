@@ -245,3 +245,46 @@ They are the institutional antagonist the world must learn to live beyond.
   - **Caldas reads the funder's review in B02**; he is not part of it (Q-BH6 as amended). The review is the splinter's, not Caldas's instrument.
   - **OPEN, needs author ruling:** whether the splinter is morally compromised, so that *"No redemption arc"* (Canon Locks) holds for it, or is a Dominion body that has truly left, as Baz did.
 - **Dated note, 2026-10-18 (final B01 page; ledger §591):** the word **"Dominion" is spoken once on the final B01 page** (C34). **OPEN, needs author ruling:** this against the 2026-10-09 note above, *"The faction stays unnamed on B01's page"*; the later rewrite direction (Dominion and Caldas acting more overtly, `decisions/B01_REWRITE_AND_KNOWING_BAZ_LUCIEN_AUTHOR_DIRECTION_2026-10-14.md`) does not say so explicitly. The B01 recall of Caldas (no warrant; the fourteenth floor was never the City's) still owes the short canon note on the City's changed relationship with Dominion (`decisions/B01_C_AND_B_RULINGS_2026-10-17.md` #3); not drafted here.
+
+- **Dated note, 2026-10-18, later (author answers and ruling: `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`; ledger §592). Supersedes the "splinter" wording of the
+  2026-10-18 note above and answers its OPEN items.**
+  - **The funder is an internal faction within Dominion**, not a clean splinter that has left (author ruling, 2026-10-18, 09:59, "Agreed as recommended"). Virelli's leadership wants resonance hidden and contained; the faction has concluded the secrecy will not hold (B02 is when it becomes unsustainable) and wants to own the public face of resonance when it breaks. It funds care, consent forms and goodwill, and seeks *firsts*, because whoever holds them holds the evidence and the story. The help is real; the motive is self-interest. This explains the B01 page: the form word *first* (C11) and the appetite for consents (C12). It is **not**
+    one of the *"later splinter factions"* of the Usage Guidelines: it is inside the institution, a hedge, not open
+    revolt.
+  - **Virelli does not know at first.** By B04, when he demands Lucien's return (M05), **he suspects**.
+  - **Partly sincere at the start:** some members believe in openness; the leadership wants control of the story. Not a
+    plain villain. **"No redemption arc" (Canon Locks) applies to the faction's leadership, provisionally** (the author
+    leans yes that the funder is compromised: *"I'm open but lean yes."*).
+  - **It is the organization that later co-opts the name "Concord"**, when resonance goes public in Neon, and drifts
+    into insincerity; the protagonists' loose network keeps the word honestly, and the two collide. **It collapses in
+    Loom with Dominion's legacy.**
+  - **Baz believes he left Dominion but is still being paid by it**; he does not suspect in B01. The circle learning this
+    around his death (end of B03) causes the split.
+  - **Helena Kael is a possible member** (registry C04): her B02 request to Lucien becomes double-edged. A possibility,
+    not locked. Marius is not proposed.
+  - **Caldas reads the funder's review in B02** (Q-BH6, unchanged): he is leadership's man reading the faction's paper.
+- **Dated note, 2026-10-18, later (author: *"naming is approved."*; `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`; ledger §592): "Dominion" is named once in B01, at C34**
+  (Baz to Mrs. Carmouche: *"It is called Dominion."*). This amends the 2026-10-09 note above (*"The faction stays unnamed
+  on B01's page"*) and answers the OPEN item of the 2026-10-18 note. No further naming in B01 is licensed.
+- **Dated note, 2026-10-18, later (author: *"Consider: Caldas wants to escalate in B2 but held back by leadership until
+  B3 where he is given free rein."*; `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`; ledger §592): Caldas's ladder.** **B02:** he pushes to escalate and is **restrained by
+  leadership**, which fits his B01 recall *"upstairs"* (C43); his B02 appearance (E27) is as the recommendation's bearer,
+  held to that. **B03:** leadership gives him **free rein**; that is the *lethal pursuit* rung. The Warehouse guardrails
+  and the 10-03 permission for suspicion (not blame stated by the narration) are unchanged; what "free rein" licenses on
+  the B03 page is not ruled.
+- **Dated note, 2026-10-18, later: the City and Dominion. DRAFT for the author's confirmation** (Claude, from the final
+  B01 page; owed by `decisions/B01_C_AND_B_RULINGS_2026-10-17.md` #3; ledger §592). **Through B01** the City takes
+  Dominion's work as its own. Advisory Model V.1 (24 March) is written *"upstairs"*, by the Hollen Institute's Regional
+  Review in Vienna, which Baz calls Dominion's *"post office"* (C34), and goes out in City type with no name on it (C05,
+  C10, C34). Caldas works from the City's Coordinator's Office, Poydras Street, fourteenth floor (C12, C15: *"for the
+  City. For now, anyway"*), and files the Square addendum with a fixed camera and a Hollen Foundation tent (C41: *"Came
+  down from upstairs ... They wrote the advisory, so the advisory's theirs. I'm told to staff it."*). **At B01's end**
+  the relationship changes: Caldas is recalled *"upstairs"*, by Dominion, not by the City, and the fourteenth floor is
+  cleared (C43); the deputy's incident report puts the addendum and the camera on the City's record; City Hall has the
+  advisory model **back under review**, *"Nobody's saying pulled"* (C43); Mr. Ledet's complaint goes to detectives with a
+  name on it (C43); and Mrs. Carmouche has filed the gathering with the City and written down *"a house"* (C34).
+  **Draft reading:** from B02 Dominion no longer works from a desk inside City offices. It still reaches the City, as
+  Q-GV3 has it (a public body signs; Dominion advises), but at arm's length, under review, with a paper trail that names
+  Caldas. This is why Caldas returns in B02 E27 only as the recommendation's bearer *beside* the city's emergency office,
+  and it fits leadership holding him back in B02. **Not drafted:** whether anyone at City Hall knows the name Dominion;
+  who reviews the model; whether the faction (the funder) has its own line into the City.

@@ -188,3 +188,27 @@ The answer is **temporary authority, constantly questioned**.
 ---
 
 > **Note, 2026-10-18 (author direction and approved recommendations: `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #1; `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, "Concord and the funder"; ledger §588, §590, §591).** §VI's *"No long-term dependency"* now has a history: Concord's precursor depended on a single funder, a Dominion splinter, and the organization is founded only after the split from it. Read the resource model as the rule learned from that dependency. No text above changes.
+
+> **Note, 2026-10-18, later (author answers and ruling: `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`; ledger §592). Supersedes in part the note above.** The protagonists'
+> Concord is **a loose collection of people trying to help**; the note above's *"the organization is founded only after
+> the split"* overstates its formality and is superseded on that point. The single funder was **an internal faction
+> within Dominion** (not a splinter that had left), still paying Baz; the circle learning this around his death is the
+> cause of the split. The faction later **co-opts the name** in Neon and **collapses in Loom**.
+>
+> **Which parts of this file apply to which Concord** (Claude's reading for the author; no text above changes).
+> **The loose collection, informally:** §I (modular, temporary, consent-driven), §IV (the triage ethic), §V (defer,
+> support, withdraw), §VI (borrowed, donated, no long-term dependency: the rule learned from the funder), §VII
+> (transparency, uncertainty admitted), §IX's locks and §X. It holds these as habits among people, without named
+> layers. **The co-opting organization:** §II–§III's formal apparatus (a network of cells, field teams with set
+> composition, coordination nodes, liaison and accountability units) describes an organization; it is the shape the
+> co-opting organization builds, and professes, when it takes the name. **§VIII's failure conditions** (missions become
+> permanent, authority stops expiring, secrecy replaces accountability) are **its drift path** into insincerity and
+> self-interest. **Mixed:** §IX (*no permanent headquarters*, *no sovereign authority*) is the loose collection's
+> nature and the co-opting organization's claim; whether the organization keeps those locks as it drifts is not ruled.
+
+> **Note, 2026-10-18, later (author, 10:02, "Yes"; PROVISIONAL DIRECTION, nothing locked; `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`, "After the split: funding"; ledger §592). §VI resource model
+> after the split.** The loose collection's money comes mainly from **open, public funding Elisabet can sign for** (a
+> research grant or Nordic civil-protection money tied to her crisis-data work), with written conditions and data owned
+> by the people it is about, and from **local mutual aid** for the day-to-day (church halls, plate sales, neighbours), so
+> it never depends on one patron again. Rex is not a funder; he may later contribute infrastructure. This is §VI's
+> *"borrowed, donated"* and *"no long-term dependency"* made concrete; no text above changes.

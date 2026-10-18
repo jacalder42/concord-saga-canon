@@ -124,3 +124,16 @@ END — BAZ (BASTIEN “BAZ” ARNAUD) IDENTITY CANON
     Ledet's welcome on the new tread (C43).
   - **Baz's cup:** late in the book Lucien turns it back up without a word (C43; further ruling 3).
 
+- **Dated note, 2026-10-18, later (author answers and ruling: `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`; ledger §592). Supersedes "The funder is a Dominion splinter"
+  in the 2026-10-18 note above and answers its OPEN items.**
+  - **The funder is an internal faction within Dominion**, not a clean splinter that has left. It wants to own the
+    public face of resonance when Virelli's secrecy breaks (B02 is when it becomes unsustainable), funds care, consent
+    forms and goodwill, and seeks *firsts* because whoever holds them holds the evidence and the story. The help is
+    real; the motive is self-interest. The *"as Baz is a man who left the Dominion"* parallel above is now ironic.
+  - **Baz believes he left Dominion but is still being paid by it.** He **does not suspect in B01**. The circle learning
+    this **around his death (end of B03)** is **the cause of the split**; the split and what follows lean to the
+    **B03→B04 boundary** (author: *"I lean 3 or 4, potential tie in to Baz's demise."*), exact book not locked.
+  - **"The actual Concord" is a loose collection of people trying to help**, not a founded organization (author,
+    2026-10-18); the circle he works through is its beginning. The **co-opting organization is the funder's faction**,
+    which takes the name in Neon and collapses in Loom.
+  - **"Dominion" spoken (C34): approved** (author: *"naming is approved."*).

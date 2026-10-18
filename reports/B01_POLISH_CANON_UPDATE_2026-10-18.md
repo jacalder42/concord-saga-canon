@@ -137,3 +137,86 @@ height fits her card; the house, Philomène, Lacuna, nickname and dateline rulin
 registry rows. Twenty-five files changed and this report added, all additively; validation passes. Thirteen items wait on the author (§2),
 the most consequential being the book of the split and founding, the Mandate's classification, whether the splinter is
 compromised, and "Dominion" being spoken in B01.
+
+---
+
+## Addendum, 2026-10-18 (later): author answers applied (ledger §592)
+
+The author answered nine of the thirteen §2 items (09:54), ruled on the funder's nature (09:59, "Agreed as
+recommended") and gave a provisional funding direction (10:02, "Yes"). They are recorded verbatim in
+`decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`. Method as above: additive dated notes and pointers only;
+no canon text removed. Validation after the changes: `validate_canon.py` exit 0 (no violations); `test_validate_canon.py`
+171 tests OK; `derive_book_context.py --check` no drift; the ledger diff is additions only (10 lines); every changed
+registry field is the old value with text appended.
+
+### A.1 What was applied
+
+| §2 item | Answer | Applied as |
+|---|---|---|
+| 2, split and founding | "I lean 3 or 4, potential tie in to Baz's demise." | Leaning: the B03→B04 boundary, caused by the circle learning, around Baz's death, that he was still paid by Dominion (09:59). Exact book not locked. |
+| (new) Concord's nature | A loose collection of people; the term co-opted by an organization that turns insincere | The protagonists' Concord is a loose collection; "the organization is founded after the split" superseded where it implies formality; Dec 12 "not founded — emerges" largely stands again. Each Tier-1 Concord file annotated with which parts fit the loose collection and which the co-opting organization. |
+| (new) the funder, 09:59 | An internal faction within Dominion | Supersedes "Dominion splinter". It is the co-opting organization (funder lineage), co-opts the name in Neon and collapses in Loom. Virelli does not know at first and suspects by B04. Helena is a possible member. |
+| 5, compromised? | "I'm open but lean yes." | Leaning: "no redemption arc" applies provisionally, to the faction's leadership (09:59, point 2). |
+| 6, after the Mending | "no they collapse in Loom." | Ruled: the co-opting organization collapses in B07–B09; Concord-Limits §V holds. B07–B09 contexts carry the item. |
+| 8, "Dominion" in B01 | "naming is approved." | Named once, at C34; pointer on the 10-09 decision; B01 entry_state resolved. |
+| 9, B02 E08/E34 | "as best fits the saga." | Proposal under delegation in both packets and LucienID: E08 loses the first naming and widens (the camp report was read too); E34 becomes an escalation (the method used beyond New Orleans). |
+| 10, Caldas | Restrained by leadership in B02, free rein in B03 | Registry C02, Dominions.md, B02 E27, B03 E14. City–Dominion note drafted from the page for confirmation. |
+| 11, Ramon | "if that fits, yes." | It fits: C22 Ramon is B07 Ramon Espina (pointer on the row). Guardrail: C22 is a service party, not a retirement. |
+| 12, recurrence | "open to whatever fits the saga and prose best." | Recommendations appended to all 22 rows. Strong: Lanette, Nyla, Mrs. Carmouche, Ms. Tran, Pryor, Curtis, Annelie Strobl, Lena (already ruled), Mr. Vidrine (as B02's oxygen resident). Light or texture: Lorraine, Gwen, Vernice, Isaiah, Tamika, Miss Hazel, Mr. Alcide, Miss Pearl, Mr. Fontenot. B01 only: Dion, Keon. No recurrence: Mrs. Arceneaux, Hedwig Pospischil (both dead). |
+| (new) funding, 10:02 | Elisabet's open money and mutual aid | Provisional: ElisabetID, RexID (not the funder), Concord-Structure §VI, Concord-EraFunction, B03/B04 contexts. |
+
+### A.2 Files changed
+
+| File | Change |
+|---|---|
+| `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md` | New: the answers verbatim, the 09:59 ruling and the 10:02 direction, with scope. |
+| `canon/factions/Concord/Concord-Mandate.md` | Loose collection vs co-opting organization; the classification and §VII read as the organization's; OPEN carried. |
+| `canon/factions/Concord/Concord-Structure.md` | §I, IV–VII, IX–X for the loose collection; §II–III's apparatus and §VIII's drift for the organization; §VI funding (provisional). |
+| `canon/factions/Concord/Concord-EraFunction.md` | Veil, Neon and Loom reread; the co-opting organization collapses in Loom; funding (provisional). |
+| `canon/factions/Concord/Concord-Relationships.md` | Internal faction; collision; how to read §II–IX; §III OPEN carried. |
+| `canon/factions/Concord/Concord-Limits.md` | §V answered (collapse in Loom); §IV "failure is not evil" holds for the loose collection only. |
+| `canon/factions/Dominions.md` | Internal faction (supersedes splinter); Virelli; leadership's "no redemption arc"; Helena possible; naming approved; Caldas's ladder; **City–Dominion DRAFT**. |
+| `canon/characters/BazID.md` | Internal faction; still paid, does not suspect in B01; split cause and timing; loose collection; naming. |
+| `canon/characters/LucienID.md` | Naming; E08/E34 proposal; may notice "first" and say nothing; Helena; Virelli suspects by B04. |
+| `canon/characters/VirelliID.md` | The faction inside his house; does not know at first, suspects by B04. |
+| `canon/characters/ElisabetID.md` | Open, signed-for money after the split (provisional); a reason to stay. |
+| `canon/characters/RexID.md` | Not the funder; possible later infrastructure. |
+| `canon/cast_registry.csv` | 25 rows appended: recurrence recommendations on B22–B42 and C06; B07 Ramon merged; C02 Caldas ladder; C04 Helena possible member; B37 funder note. |
+| `book_context/book_context_B01.json` | entry_state: naming resolved (Lucien); funder an internal faction (Baz). |
+| `book_context/book_context_B02.json`–`B04.json` | New hand-authored key `_concord_open_items_answers_2026_10_18` (funding block on B03 and B04). |
+| `book_context/book_context_B07.json`–`B09.json` | New hand-authored key `_concord_cooption_collapse_2026_10_18`. |
+| `ebci/B02/S1.T1.B02.A1.E08.md`, `S1.T1.B02.A3.E34.md` | Delegated re-scope (proposal). |
+| `ebci/B02/S1.T1.B02.A2.E27.md`, `ebci/B03/S1.T1.B03.A1.E14.md` | Caldas restrained (B02) and free rein (B03). |
+| `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md`, `B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, `B01_C_AND_B_RULINGS_2026-10-17.md`, `B01_DIRECT_CONFLICT_HOUSTON_AND_SPLITS_AUTHOR_ANSWERS_2026-10-09.md` | Dated pointers. |
+| `recovery/RECOVERY_LEDGER_2026.md` | §592 appended before END. |
+| `reports/B01_POLISH_CANON_UPDATE_2026-10-18.md` | This addendum. |
+
+### A.3 Still OPEN
+
+From §2, not answered: **3** Concord-Mandate's classification and §VII (now annotated as the co-opting organization's,
+pending a ruling); **4** Concord-Relationships §III (*does not challenge Dominion authority head-on*) toward a Dominion
+faction that carries Concord's name; **13** Philomène in B02. **7** is answered in part (Baz does not suspect in B01;
+the circle learns around his death; the name is co-opted when resonance goes public in Neon): the Neon book of the first
+co-opted use is open. Item 1 (Lorraine) was resolved earlier as a slip.
+
+New: the exact book of the split (end of B03 or start of B04); the book and manner of the faction's collapse in Loom;
+what Caldas's B03 free rein licenses on the page; Helena's membership (a possibility only); the funding details
+(provisional); **author confirmation** of the City–Dominion draft, the E08/E34 proposal and the recurrence
+recommendations; one reconciliation for the B02 pass (Mr. Vidrine is on Ursulines; E27 clears the Bywater block).
+
+### A.4 For the manuscript side
+
+- **No B01 page change** is required by any of these answers (09:59, point 4: Lucien may notice the shared word
+  *first* and say nothing, as the page stands).
+- **No Ramon rename.** One guardrail for later passes: C22 must not read as a retirement party, since he drives in B02.
+- Carried from §3: the two `STYLE_SHEET_B01.md` notes.
+
+### Summary
+
+The answers are recorded and applied. The protagonists' Concord is now a loose collection of people, not a founded
+organization. Baz's funder is an internal Dominion faction that still pays him. It later co-opts the name, turns
+insincere and collapses in Loom. The split leans to the B03→B04 boundary and comes when the circle learns about the
+money around Baz's death. "Dominion" is named once in B01. Caldas is held back in B02 and given free rein in B03. The
+C22 Ramon is B07. Recurrence recommendations sit on all 22 new rows, and the E08/E34 re-scope and the City–Dominion
+note wait for the author's confirmation. Validation passes. Three original §2 items stay open (3, 4, 13), and item 7
+is partly open.

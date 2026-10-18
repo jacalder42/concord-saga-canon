@@ -79,4 +79,13 @@
 
 - **Dated note, 2026-10-18 (final B01 page; ledger §591): presence and exit.** She is in New Orleans on the page from **C13** (the cone and the cable on the neutral ground) to the Square in **C42**, not on a single E23–E30 visit. The *"E48 text, university re-filing her season"* above is **not on the final page**; instead one planted return pays off in B01: she collects her cone from Caro's bay and stands it back by the door, saying she will want it back, reported in Caro's C44 call, which also hints at a second (`decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, further ruling 2). The rest of her planted returns carry to B02. Page facts: the Hollen Institute paid for her **first field season**; at its end her field notebooks were claimed under the award, and she **burned them** after sending the data (C39); her **KNOWN** sheet (C32). She gets some contractions in casual speech (further ruling 1). Height: see `ElisabetAppearance.md` (2026-10-18).
 
+- **Dated note, 2026-10-18 (author, 10:02, "Yes"; PROVISIONAL DIRECTION, nothing locked; `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`, "After the split: funding"; ledger §592): the network's open
+  money.** After the split from the faction funder (B03→B04, around Baz's death), Elisabet brings the loose network
+  **open, public money she can sign for** (for example a university research grant or Nordic civil-protection funding
+  tied to her environmental crisis-data work), **with written conditions and data owned by the people it is about**: the
+  honest mirror of the faction's secret consent-and-*firsts* money. Local mutual aid carries the day-to-day. It gives her
+  a reason to stay in New Orleans: at B01's end her month is nearly up and the car is packed (C20), and *"Ask me in a
+  month"* (C16) has a place to land. She is **not personally wealthy** (class position above); the money is
+  institutional. **Option, not locked:** if her grant comes with strings, she recognizes the pattern fastest.
+
 END — ELISABET ARNARDÓTTIR IDENTITY CANON v1.1

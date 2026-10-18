@@ -201,5 +201,33 @@
       "Whether and when Baz knows or suspects what the funder is."
     ],
     "this_book": "B03: Baz dies at the end of B03 (book context). If the split follows his death, B03 carries the strain that leads to it; not ruled."
+  },
+  "_concord_open_items_answers_2026_10_18": {
+    "_status": "AUTHOR ANSWERS AND RULING, 2026-10-18 (09:54 answers; 09:59 ruling on the funder, \"Agreed as recommended\"; 10:02 provisional funding direction, \"Yes\"): decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md; ledger §592. Hand-authored; tools/derive_book_context.py does not touch this key. Supersedes in part _concord_funder_thread_2026_10_18 (kept as written).",
+    "ruled_or_direction": [
+      "The funder is an internal faction within Dominion, not a clean splinter that has left (supersedes \"a Dominion splinter\" in _concord_funder_thread_2026_10_18). Virelli's leadership wants resonance hidden and contained; the faction has concluded the secrecy will not hold (B02 is when it becomes unsustainable) and wants to own the public face of resonance when it breaks. It funds care, consent forms and goodwill and seeks firsts. The help is real; the motive is self-interest.",
+      "Virelli does not know at first; by B04, when he demands Lucien's return (M05), he suspects.",
+      "Partly sincere at the start; not a plain villain. \"No redemption arc\" applies to the faction's leadership, provisionally.",
+      "Baz believes he left Dominion but is still paid by it; he does not suspect in B01. The circle learning this around his death (end of B03) causes the split.",
+      "The protagonists' Concord is a loose collection of people trying to help, not a founded organization (refines \"the organization is founded after the split\"). The faction is the organization that later co-opts the name, when resonance goes public in Neon, and drifts into insincerity; the two collide. It collapses in Loom with Dominion's legacy.",
+      "\"Dominion\" is named once in B01, at C34 (approved).",
+      "Caldas: in B02 he pushes to escalate and is restrained by leadership; in B03 leadership gives him free rein (the lethal-pursuit rung). Direction (\"Consider\")."
+    ],
+    "leaning": [
+      "The split (and the loose collection coming to be Concord) leans to the B03→B04 boundary, tied to Baz's death; exact book not locked (author: \"I lean 3 or 4\")."
+    ],
+    "possibility": [
+      "Helena Kael is a possible member of the faction (not locked); her B02 request may be double-edged. Marius is not proposed."
+    ],
+    "provisional_funding_after_split": [
+      "PROVISIONAL (10:02): after the split the loose network runs mainly on (a) open, public money Elisabet can sign for (a research grant or Nordic civil-protection funding tied to her crisis-data work), with written conditions and data owned by the people it is about, and (b) local mutual aid for the day-to-day, never one patron again. It gives Elisabet a reason to stay in New Orleans. Rex is not the funder; possibly a later infrastructure contributor in Neon or Loom. Option, not locked: if her grant comes with strings, she recognizes the pattern fastest."
+    ],
+    "open": [
+      "The exact book of the split (end of B03 or start of B04).",
+      "Concord-Mandate's classification and §VII; Concord-Relationships §III toward a Dominion faction that carries Concord's name.",
+      "The book in Neon of the first co-opted use of the name; the book and manner of the faction's collapse in Loom.",
+      "What Caldas's B03 free rein licenses on the page."
+    ],
+    "this_book": "B03: Caldas has free rein (from E14). Baz dies at the end of B03; around his death the circle learns he was still paid by Dominion, which causes the split (leaning: B03→B04 boundary). If the split falls in B03, Elisabet's open money (provisional) begins to replace the faction's."
   }
 }

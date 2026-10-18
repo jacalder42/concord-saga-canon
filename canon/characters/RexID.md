@@ -67,4 +67,8 @@
 - **Employer naming variance:** Technarc / Technarc Directorate treated as the same institutional pressure source
 - **Engineering field phrasing:** mechanical / systems / infrastructure used interchangeably; non-conflicting
 
+- **Dated note, 2026-10-18 (author, 10:02, "Yes"; PROVISIONAL DIRECTION; `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`, "After the split: funding"; ledger §592):** **Rex is not the loose network's
+  funder.** He is a **possible later contributor of infrastructure** (systems engineering) to it in Neon or Loom. Not
+  locked; nothing above changes.
+
 END — REX TAN IDENTITY CANON v1.1
