@@ -35,3 +35,6 @@ Source: `draft-notes/final-2026-10-18/AUDIT_NICKNAMES.md`.
 4. **Gwen's "Mr. Baz"** (C37). Agreed.
 5. **Lucien uses no endearment in B1**; saying her name once in C44 is his. Yes.
 6. **"Cher"**: the author's understanding is that "cher" is Cajun and "chérie" is Creole / New Orleans. Miss Tavie does not say "cher"; "cher" stays Odile's. Any "chérie" for Miss Tavie waits for the Creole authenticity reader.
+
+## Datelines (author, 2026-10-18, 09:03: "Agreed as recommended")
+Source: `draft-notes/final-2026-10-18/AUDIT_DATELINES.md`. A date line under each chapter heading (C01–C44), and at section breaks only where the story day changes: 56 in all. Day before month, date only; C11 tagged "· Houston". Same-day chapters still print their date. Styled dateline (italic, small caps in EPUB/HTML). No running day count; no datelines on the Prologue or Epilogue. 18 weekday-only reminders cut from the prose; plot times, counts and timestamps stay.
