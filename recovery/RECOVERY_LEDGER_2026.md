@@ -18912,4 +18912,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md`. Baz's funder is a Dominion splinter; the Group later splits from it and only then founds Concord, with a possible later rival that co-opts the name. Lucien is suspended or reprimanded rather than losing the posting, with a replacement cost to be proposed. Dré may die at the hospital or in the ambulance. Elisabet's page height changed to canon. The C22 singer is the Lacuna.
 
+## §589 — B01 warmth and interior-voice direction, 2026-10-18
+
+- New `decisions/B01_POLISH_WARMTH_AND_INTERIOR_DIRECTION_2026-10-18.md`. Err toward more jokes, banter, sarcasm, innuendo and flirting; add Cajun and Creole nicknames and pet names; review POV interior voice so the reader knows how the characters think, debate and process.
+
 END RECOVERY LEDGER
