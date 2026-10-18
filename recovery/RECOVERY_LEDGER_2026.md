@@ -18914,7 +18914,7 @@ ever merged, its entries are renumbered with a note.
 
 ## §589 — B01 warmth and interior-voice direction, 2026-10-18
 
-- New `decisions/B01_POLISH_WARMTH_AND_INTERIOR_DIRECTION_2026-10-18.md`. Err toward more jokes, banter, sarcasm, innuendo and flirting; add Cajun and Creole nicknames and pet names; review POV interior voice so the reader knows how the characters think, debate and process.
+- New `decisions/B01_POLISH_WARMTH_AND_INTERIOR_DIRECTION_2026-10-18.md`. Err toward more jokes, banter, sarcasm, innuendo and flirting; add Cajun and Creole nicknames and pet names; review POV interior voice so the reader knows how the characters think, debate and process. Later: all seven POV-interior rulings agreed; internal debate, turmoil and courage shown at every major moment, as information, not melodrama.
 
 ## §590 — B01 polish recommendations approved, 2026-10-18
 
