@@ -18944,4 +18944,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_LOCATION_CHECK_AUTHOR_APPROVALS_2026-10-18.md`. Kerlerec moves from the 900 to the 1300 block (near N Robertson); "the Rampart end" replaces "the Esplanade end"; the Ursulines line goes round Armstrong Park; the Causeway toll comes before the bridge, at 55; smaller fixes to the C01 timings, C25, C27 and the C38 fare. The registry B20 row is annotated.
 
+## §594 — B01 surgical pass; Silence and Hope named, 2026-10-18
+
+- New `decisions/B01_EXTERNAL_REVIEWS_SURGICAL_PASS_AND_EPILOGUE_NAMES_2026-10-18.md`. A 16-edit surgical pass from two external reviews was applied. The Epilogue now opens by naming Silence and Hope (acting on Q-HR2). Baz walked out of the Institute with a folder that was not his.
+
 END RECOVERY LEDGER
