@@ -18904,4 +18904,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_PANEL13_AUTHOR_ANSWERS_POLISH_2026-10-18.md`. Lucien confesses the 23 March note at about Ch 15–16; cheap fixes agreed. Next: an event-shape repetition pass (consolidate, combine, summarise, cut, or add new moments), then polish panels (realism, repetition, character against canon, dialect, AI tells), then human betas.
 
+## §587 — B01 dialect-audit rulings, 2026-10-18
+
+- New `decisions/B01_POLISH_DIALECT_RULINGS_2026-10-18.md`. Plate-sale day left to Claude; Mr. Ledet's "talks like a document" re-voiced; Caldas is European, subject to a distinctness and antagonist-roster check (American allowed if the roster is too European); authenticity-reader list accepted.
+
 END RECOVERY LEDGER
