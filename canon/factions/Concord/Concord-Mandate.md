@@ -140,3 +140,9 @@ Concord embodies the saga’s hardest ethic:
 
 It exists in the space between collapse and care —
 and it knows it does not belong there forever.
+
+---
+
+> **Note, 2026-10-18 (author direction and approved recommendations: `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #1; `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, "Concord and the funder"; ledger §588, §590, §591).** The founding is now stated. **The ethic emerges; the organization is founded** (this refines the author's 2025-12-12 constraint *"Concord is NOT founded — it EMERGES"*). Baz's funder, the foundation behind the Houston housing Group in B01, is a **Dominion splinter**. The New Orleans circle working through Baz takes work from it and later **splits** from it, and only after the split do they found the actual Concord. Its name is then **co-opted**: first by the former funder, then by an institutional Concord that grows from it. §VI (no Concord before the Veil) is unaffected.
+>
+> **OPEN, needs author ruling:** (1) the book of the split and of the founding (the ruling says the split may come "perhaps after Baz's death", the end of B03); (2) whether the header's *Multinational Civilian–Operational Coalition* and §VII *Why Concord is not the protagonist* stand now that the protagonists' circle founds it. The research behind these questions is the manuscript's `draft-notes/final-2026-10-18/RESEARCH_CONCORD_FUNDER_ORIGIN.md` (§2, §4). Nothing above is rewritten.

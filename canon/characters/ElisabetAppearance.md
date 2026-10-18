@@ -10,6 +10,7 @@
 
 - Height: tall (approx. 5'9"–5'11")  
   **Note (added 2026-10-05, author-approved, CP14):** B01's *very tall* (E28) is **Caro's relative view** (Caro is 5'4"–5'6"), within or near this range. The range stands. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)  
+  **Note, 2026-10-18 (author, `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #5; ledger §588, §591):** the page was changed to fit this card, not the reverse. Lucien's exact guess at her height in B01 (C18) now reads one meter eighty (about 5'11"), inside the range, and the joke beat (his precise guess) survives. The earlier page figure, one meter eighty-six, is retired. The range stands.  
 - Build: lean, elegant, disciplined  
 - Posture: upright, balanced, minimal excess motion  
 

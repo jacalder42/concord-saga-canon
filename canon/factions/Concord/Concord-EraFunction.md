@@ -179,3 +179,9 @@ Across every era, Concord answers the same question:
 
 Its answer is imperfect, temporary, and human —
 and that is why it matters.
+
+---
+
+> **Note, 2026-10-18 (author direction and approved recommendations: `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #1; `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, "Concord and the funder"; ledger §588, §590, §591).** **Veil:** §II stands (Concord does not yet exist as a named body). Add a precursor beside the multinational task forces: the funder-backed work of the New Orleans circle through Baz, paid for by a Dominion splinter, from which the circle later splits. B01 holds only an opening: the funder's offer of a conversation in July (C43 of the final B01). **Neon:** §III's *"fully emerges"* reads with the ruled order: the ethic emerges, and the organization is founded after the split. A **rival holder of the name** now exists: the former funder, and later an institutional Concord grown from it.
+>
+> **OPEN, needs author ruling:** the books of the split, the founding and the first co-opted use of the name. A founding at the B04 opening would fit §III, but it is not ruled.

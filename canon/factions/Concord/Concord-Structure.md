@@ -184,3 +184,7 @@ Concord’s structure answers a single question:
 > *How do you act decisively without claiming the right to decide forever?*
 
 The answer is **temporary authority, constantly questioned**.
+
+---
+
+> **Note, 2026-10-18 (author direction and approved recommendations: `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #1; `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, "Concord and the funder"; ledger §588, §590, §591).** §VI's *"No long-term dependency"* now has a history: Concord's precursor depended on a single funder, a Dominion splinter, and the organization is founded only after the split from it. Read the resource model as the rule learned from that dependency. No text above changes.

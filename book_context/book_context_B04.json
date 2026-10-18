@@ -164,5 +164,23 @@
       "requires": "M12",
       "from_book": "B03"
     }
-  ]
+  ],
+  "_concord_funder_thread_2026_10_18": {
+    "_status": "AUTHOR DIRECTION AND APPROVED RECOMMENDATIONS, 2026-10-18 (decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md #1; decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md, Concord and the funder; ledger §588, §590, §591). Hand-authored; tools/derive_book_context.py does not touch this key. Book placements not stated below are OPEN.",
+    "ruled": [
+      "Baz's funder (the foundation that pays for the Houston Group) is a Dominion splinter.",
+      "The Dec 12 constraint \"Concord is NOT founded — it EMERGES\" now reads: the ethic emerges; the organization is founded after the split.",
+      "The group that splits from the funder is the New Orleans circle working through Baz, not Ms. Tran's Houston Group.",
+      "The name is co-opted by both: the former funder first, then an institutional Concord that grows from it (the Dec 10 institutional drift; \"Concord is people\").",
+      "Q-BH6: in B02 Caldas reads the funder's review; he is not part of it.",
+      "B01 leaves the funder's offer as an opening only: a conversation with three people in July, heard on the page only by Baz and Mr. Ledet (decisions/B01_FINAL_PASS_RULINGS_C_BASE_2026-10-18.md #2 as amended)."
+    ],
+    "open": [
+      "Which book holds the split. The author's ruling says \"perhaps after Baz's death\" (end of B03); not fixed.",
+      "Which book holds the founding of the organization (after the split; a founding at the B04 opening would fit Concord-EraFunction §III, but it is not ruled).",
+      "When the co-opted name first shows, and when the institutional Concord grows from it.",
+      "Whether and when Baz knows or suspects what the funder is."
+    ],
+    "this_book": "B04: if the split follows Baz's death, the founding and the first co-opting of the name fall here or later; not ruled. Virelli's demand that Lucien return (M05) is compatible with the suspended posting."
+  }
 }

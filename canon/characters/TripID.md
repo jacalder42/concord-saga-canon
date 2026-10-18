@@ -75,4 +75,6 @@
 
 - **Note (added 2026-10-05, author-approved, approved design, Q-VI7 and Q-VI8): voice.** The card and the page agree and stand. *Voice systems*' **innuendo is retired** (it conflicts with this card's *kind*); its **nicknames as gifts** stay **available, not owed**. **Humor default (Q-VI8):** dry and kind. *Voice systems* (2025-11-30) is **Tier D design** (Q-VI13): evidence of intent in side-by-side reviews, not canon. Review-side; the drafting stack is unchanged (Q-WP3, with Q-VI1's clause). Side by side in `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md`. (author 2026-10-05, "Yes, all as recommended", `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, from `proposals/DIALOGUE_VOICE_INTENT_VS_PAGE_2026-10-05.md`)
 
+- **Dated note, 2026-10-18 (final B01 page; ledger §591): card facts.** She gives Baz a pallet in the back room, swept, "through Thursday", and tapes **BAZ** over the empty hook behind the register beside Seraphine's **TODDY** (C03, C37). She makes red beans on a Thursday for Baz, because he asked her in French (C34).
+
 END — TRIP IDENTITY CANON

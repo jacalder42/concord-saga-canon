@@ -83,3 +83,44 @@ END — BAZ (BASTIEN “BAZ” ARNAUD) IDENTITY CANON
   - **Locator correction:** the City Park approach above is at **E27A** in the current B01 keys, not E43, which is the
     older key.
 
+- **Dated note, 2026-10-18 (author, `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #1 and
+  `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, "Concord and the funder"; ledger §588, §590, §591):
+  the funder and Concord.**
+  - **The funder is a Dominion splinter**, as Baz is a man who left the Dominion. On the B01 page it is "the foundation
+    that pays for the Group" (C11, C12, C43); its counsel asks for the tenants who *first* reported (C11), the
+    Dominion's own form word, and it wants the consents (C12). Three B01 swaps separate it from Hollen: "our funder's
+    lawyer" and "the Group's own foundation" (C11), and its offer moves from June to **July** (C43).
+  - **Houston.** Baz has **resigned** from Ms. Tran's Houston housing Group (C12; registry B37); the grant stays *under
+    review* at B01's end (C43). The funder, having seen the news, would like to talk to three people in July: a
+    conversation, nobody signs anything (C43). Only Baz and Mr. Ledet hear it on the page; meeting the funder is B02's
+    (`decisions/B01_FINAL_PASS_RULINGS_C_BASE_2026-10-18.md` #2, "an opening only").
+  - **The split and the founding.** The group that later splits from the funder is **the New Orleans circle working
+    through Baz**, not Ms. Tran's Group. Only after the split do they found the actual Concord; the name is then
+    co-opted, first by the former funder and then by an institutional Concord that grows from it. The author's ruling
+    says the split may come "perhaps after Baz's death"; **OPEN, needs author ruling:** the book of the split and of the
+    founding, and whether and when Baz knows or suspects what the funder is.
+  - **Q-BH6 amended:** in B02 Caldas **reads** the funder's review; he is not part of it. *"Its Caldas intimidation beat
+    is that review arriving in person"* above is superseded.
+  - **The C-1 bullet above is stale for the final page:** the review's demand for the consents at E48, with his director
+    backing him, no longer happens in B01; the consents and the resignation are before C12.
+- **Dated note, 2026-10-18 (final B01 page; ledger §591): page facts and keys.**
+  - **On paper in New Orleans:** he signs **BASTIEN ARNAUD**, his father's name, which was on a Marseille dock pass for
+    thirty-one years, on the police report Rieux takes (C41), and gives a room on **Banks Street**, rear, in Mid-City
+    (C41), answering the Mid-City room of the 10-05 note.
+  - **Caldas,** in final chapter keys: asks Lucien about "Bastien" at Poydras (C13); approaches Baz in City Park (C17);
+    at Mr. Ledet's step (C29); the Square, where Baz punches him (C42).
+    The E20/E36/E43/E49 and E27A keys above are pre-final.
+  - **The word "Veil"** reaches B01 through the first of the eight wall sentences (C29, C31) and the tab of the folder he
+    taped shut and never opened, which Caldas reads aloud (C11, C29), not a tab he "saw" (refines the CP9 note).
+  - **"Dominion"** is spoken on the page, once (C34). See the OPEN item in `canon/factions/Dominions.md` (2026-10-18).
+  - **Lena's mother:** he telephones her (C37); the Emitter hook points at Lena and the house
+    (`decisions/B01_FINAL_PASS_RULINGS_C_BASE_2026-10-18.md` #10).
+  - **Contractions:** some in casual speech (`decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, further
+    ruling 1); light French syntax in his interior narration (`decisions/B01_POLISH_WARMTH_AND_INTERIOR_DIRECTION_2026-10-18.md`,
+    POV ruling 4).
+  - **Names** (`decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, nickname rulings 3 and 4): Miss Tavie's
+    **"Mr. Tree"** (C18, passed on by Mr. Ledet, C43); **"Mr. Baz"** from the Fondren tenant (C11), Seraphine (C12) and
+    Gwen (C37). **"Bastien"** runs from his mother's tender use (C11) to Caldas's weapon (C13, C17, C29, C42) to Mr.
+    Ledet's welcome on the new tread (C43).
+  - **Baz's cup:** late in the book Lucien turns it back up without a word (C43; further ruling 3).
+

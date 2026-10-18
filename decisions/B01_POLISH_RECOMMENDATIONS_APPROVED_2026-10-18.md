@@ -30,7 +30,7 @@ Marius **suspends** the posting pending review rather than closing it. Under cla
 ## Nickname rulings (author, 2026-10-18, 08:51)
 Source: `draft-notes/final-2026-10-18/AUDIT_NICKNAMES.md`.
 1. **Seraphine's childhood nickname is "Fifine"**, what her late brother called her (C03). New canon; payoff left for later books.
-2. **Lorraine is Dré's godmother** ("His Nannan Lorraine", C40), "if it fits story". It fits: Lorraine is Odile's sister and Dré's aunt, and Renée stays with her. New canon.
+2. **Lorraine is Dré's godmother** ("His Nannan Lorraine", C40), "if it fits story". It fits: Lorraine is Dré's aunt (Renée's sister, per C19/C40 and registry B13; corrected 2026-10-18 from an earlier slip that called her Odile's sister), and Renée stays with her. New canon.
 3. **"Mr. Tree"** is Miss Tavie's name for Baz (C18, C43). Yes.
 4. **Gwen's "Mr. Baz"** (C37). Agreed.
 5. **Lucien uses no endearment in B1**; saying her name once in C44 is his. Yes.
@@ -38,3 +38,5 @@ Source: `draft-notes/final-2026-10-18/AUDIT_NICKNAMES.md`.
 
 ## Datelines (author, 2026-10-18, 09:03: "Agreed as recommended")
 Source: `draft-notes/final-2026-10-18/AUDIT_DATELINES.md`. A date line under each chapter heading (C01–C44), and at section breaks only where the story day changes: 56 in all. Day before month, date only; C11 tagged "· Houston". Same-day chapters still print their date. Styled dateline (italic, small caps in EPUB/HTML). No running day count; no datelines on the Prologue or Epilogue. 18 weekday-only reminders cut from the prose; plot times, counts and timestamps stay.
+
+**Pointer, 2026-10-18 (ledger §591; the ruling text above is unchanged).** Nickname ruling 2 says *"Lorraine is Odile's sister and Dré's aunt"*. The final B01 page (C19, C40) and registry B13 make Lorraine **Renée's** sister (Odile's daughter), which is also what makes her Dré's aunt. Canon (registry B22) follows the page; the wording is flagged for the author in `reports/B01_POLISH_CANON_UPDATE_2026-10-18.md`. **Resolved 2026-10-18:** the coordinator corrected the wording in item 2 above; it was a summarising slip, not an author ruling.

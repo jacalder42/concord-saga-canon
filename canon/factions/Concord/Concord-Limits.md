@@ -245,3 +245,9 @@ Concord answers the saga’s hardest operational question:
 
 Its answer is imperfect, temporary, and costly —
 and that is why it remains human.
+
+---
+
+> **Note, 2026-10-18 (author direction and approved recommendations: `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #1; `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, "Concord and the funder"; ledger §588, §590, §591).** **Name capture**, beside Failure Mode E (narrative capture): the name is co-opted, first by the former funder (a Dominion splinter) and then by an institutional Concord that grows from it. Recorded as ruled fact, not as a new lettered failure mode.
+>
+> **OPEN, needs author ruling:** whether the co-opting organization outlives the Mending, against §V (*"no successor organization forms"*), and how a rival holder of the name bears on the B09 naming question (D11, `decisions/B06_B08_B09_EPILOGUE_AUTHOR_ANSWERS_2026-09-26.md`).

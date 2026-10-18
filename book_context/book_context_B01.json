@@ -79,12 +79,12 @@
       },
       {
         "character": "Lucien",
-        "state": "Already in New Orleans on the Dominion's assignment (B1), under a Dominion-supplied cover he knows is one: the Hollen Institute for Civic Continuity (Vienna), running the Regional Review of Unexpected Public Costs for the parishes around the city, which puts him on the coroner's contract list. Structural timber is his expertise; Sal's crew is how he learns the city's building stock. Credentials, a mandate, an expected report. Sent from Vienna before B01 (ruled); first on the page at E04. The Dominion is not named in B01 (first named at B02 E08); his point of view may think about the cover, more as he grows closer to Seraphine. No explicit distrust of Virelli. Belief: \"If I can structure it, I can contain uncertainty.\" (Amended 2026-10-01 by Q-HR5a–d, Q-HR6, Q-HR6a, Q-HR7; decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md. Replaces A4's legitimate-bureau reading and the earlier OPEN.)",
+        "state": "Already in New Orleans on the Dominion's assignment (B1), under a Dominion-supplied cover he knows is one: the Hollen Institute for Civic Continuity (Vienna), running the Regional Review of Unexpected Public Costs for the parishes around the city, which puts him on the coroner's contract list. Structural timber is his expertise; Sal's crew is how he learns the city's building stock. Credentials, a mandate, an expected report. Sent from Vienna before B01 (ruled); first on the page at E04. The Dominion is not named in B01 (first named at B02 E08); his point of view may think about the cover, more as he grows closer to Seraphine. No explicit distrust of Virelli. Belief: \"If I can structure it, I can contain uncertainty.\" (Amended 2026-10-01 by Q-HR5a–d, Q-HR6, Q-HR6a, Q-HR7; decisions/B01_REDRAFT_HUMAN_READ_ANSWERS_Q_HR_AUTHOR_ANSWERS_2026-09-30.md. Replaces A4's legitimate-bureau reading and the earlier OPEN.) (Amended 2026-10-18, final B01 page, ledger §591: \"The Dominion is not named in B01 (first named at B02 E08)\" is stale; the word is spoken once on the page, in C34. OPEN, needs author ruling: this against the 2026-10-09 note in canon/factions/Dominions.md that the faction stays unnamed on B01's page. At B01's end his posting is suspended pending review, not lost, and his working papers go to Vienna under clause eleven (decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md).)",
         "source": "v4.1b R32, E04, §4, v4.1b Explicit non-decisions; MCL follow-up 1"
       },
       {
         "character": "Bastien \"Baz\" Arnaud",
-        "state": "Outside the crisis and outside New Orleans (where is OPEN). Lucien's close friend and former/adjacent colleague, with witness, documentation, archive and institutional-literacy skills; current employer OPEN. Arrives by personal choice in Act II",
+        "state": "Outside the crisis and outside New Orleans (where is OPEN). Lucien's close friend and former/adjacent colleague, with witness, documentation, archive and institutional-literacy skills; current employer OPEN. Arrives by personal choice in Act II (Amended 2026-10-18, final B01 page and decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md, ledger §591: \"Outside New Orleans (where is OPEN)\" and \"current employer OPEN\" are answered by the page: before B01 he documented for the Houston housing Group, and he has resigned from it by C12; the Group's funder, a Dominion splinter (decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md #1), keeps the grant under review. Chapter keys replace the E-keys.)",
         "source": "v4.1b R33, §4, E17–E18; OQA A12"
       },
       {
@@ -94,7 +94,7 @@
       },
       {
         "character": "Elisabet Arnardóttir",
-        "state": "Not in New Orleans. An independent environmental/geospatial crisis researcher whose own data has flagged a Louisiana anomaly. Her E23–E30 is one research visit; she comes back to stay in B02 (E05)",
+        "state": "Not in New Orleans. An independent environmental/geospatial crisis researcher whose own data has flagged a Louisiana anomaly. Her E23–E30 is one research visit; she comes back to stay in B02 (E05) (Amended 2026-10-18, final B01 page, ledger §591: \"Her E23–E30 is one research visit; she comes back to stay in B02 (E05)\" is stale for the final page: she is in New Orleans from C13 to the Square in C42. Her B02 return stands; one planted return (the cone) is paid off in B01 (decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md, further ruling 2).)",
         "source": "v4.1b R34, E23; MCL follow-up 2; VAA §3 T8"
       },
       {
@@ -109,7 +109,7 @@
       },
       {
         "character": "Offstage, with guards",
-        "state": "Tahl: exists, itinerant, not named before the B03 epilogue; no Tahl trace in B01. Lacuna: a human working musician; a cameo at E31 only, zero portent. Rex: in Detroit; not on the page in B01. Kade: not in B01",
+        "state": "Tahl: exists, itinerant, not named before the B03 epilogue; no Tahl trace in B01. Lacuna: a human working musician; a cameo at E31 only, zero portent. Rex: in Detroit; not on the page in B01. Kade: not in B01 (Amended 2026-10-18, decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md #8, ledger §588, §591: the Lacuna cameo is the unnamed singer at C22 of the final B01, not E31; still unnamed and with zero portent.)",
         "source": "book_context_B01.json _ruled_constraints; v4.1b §9; MCL; VAA §3 T8; BC-LACUNA-CAMEO"
       }
     ],
@@ -143,7 +143,8 @@
         }
       ]
     },
-    "_calendar": "APPROVED DESIGN 2026-09-28, calendar C (decisions/B01_ACT_II_CHECKPOINT_DECISIONS_D1_D5_AUTHOR_ANSWERS_2026-09-28.md D1; applied here 2026-09-29 under decisions/B01_MANUSCRIPT_RULING_CONFLICTS_AUTHOR_ANSWERS_2026-09-29.md #10): late February to late April, about 9-10 weeks; anchors E15 mid-March (about 17 March), E33 mid-April (about 11 April), E45 late April (about 26 April), E48 late April (about 29 April). Act III runs about 18-30 April. Approximate; no year. Mardi Gras is not a major plot event; Easter falls at E32. [Superseded anchors, Q-FB3 2026-09-27: E15 early March, E33 late March, E45 mid-April, E48 late April.]"
+    "_calendar": "APPROVED DESIGN 2026-09-28, calendar C (decisions/B01_ACT_II_CHECKPOINT_DECISIONS_D1_D5_AUTHOR_ANSWERS_2026-09-28.md D1; applied here 2026-09-29 under decisions/B01_MANUSCRIPT_RULING_CONFLICTS_AUTHOR_ANSWERS_2026-09-29.md #10): late February to late April, about 9-10 weeks; anchors E15 mid-March (about 17 March), E33 mid-April (about 11 April), E45 late April (about 26 April), E48 late April (about 29 April). Act III runs about 18-30 April. Approximate; no year. Mardi Gras is not a major plot event; Easter falls at E32. [Superseded anchors, Q-FB3 2026-09-27: E15 early March, E33 late March, E45 mid-April, E48 late April.]",
+    "_calendar_final_2026_10_18": "FINAL B01 PAGE, 2026-10-18 (datelines approved: decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md, Datelines; ledger §590, §591). The final B01 prints a dateline under each chapter heading and at day-changing section breaks (56), day before month, with no year and no running day count. The dated chapters run from Tuesday 17 March (C01) to Sunday 10 May (C44's last section); the Prologue and Epilogue are undated; C11 is tagged Houston. This supersedes, for the final page, the _calendar anchors above (\"late February to late April\") and the 2026-09-29 reconciliation; both are kept as written. Pre-final E-numbers in this file are not remapped here."
   },
   "exit_state_locks": [
     {

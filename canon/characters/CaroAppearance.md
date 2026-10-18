@@ -104,6 +104,8 @@ Her VFX read as **supportive and stabilizing**, never destructive.
 
 **Note (added 2026-10-05, author-approved, card fact):** off duty in B01 she wears a **CHICAGO FIRE DEPT sweatshirt** (B01 E42), consistent with her CFD paramedic past. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
+> **Note, 2026-10-18 (final B01 page; ledger §591).** The CHICAGO FIRE DEPT sweatshirt (E42) is **not on the final B01 page**; it stays available as a wardrobe fact.
+
 ### Neon
 - reinforced civilian layers  
 - weather-ready jackets  
@@ -144,6 +146,8 @@ Stress:
 - visible fatigue in shoulders  
 
 **Note (added 2026-10-05, author-approved, card fact):** after a long call her **hand keeps closing on nothing** (B01 E28, after she holds a trapped driver's head); the tell is **paid at E49**, when she names it herself as something her hand does after a long one. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
+> **Note, 2026-10-18 (final B01 page; ledger §591).** The E-keys above are pre-final. On the final page the hand closes on nothing at the hospital doors in **C20**, and it is Elisabet who points it out ("Your hand is doing something"); Caro does not name it herself at the end. Her C44 advice to Seraphine for a grip cramp (run it under hot water) is the nearest echo.
 
 ---
 

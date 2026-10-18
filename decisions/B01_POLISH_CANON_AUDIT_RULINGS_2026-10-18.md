@@ -10,3 +10,5 @@ Status: AUTHOR DECISION / DIRECTION. Ledger §588. Source: manuscript branch `cl
 6. **Mr. Ledet's house (R6).** Whichever works best.
 7. **Philomène's absence (R7).** Whatever serves the story and the saga best.
 8. **The C22 singer (R8).** Yes, it is the Lacuna cameo.
+
+**Pointer, 2026-10-18 (ledger §591; the rulings above are unchanged).** #1's research and #3's replacement cost were answered in `B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md` (ledger §590), and the canon cards were amended under the author's "Yes" to the canon update (ledger §591; `reports/B01_POLISH_CANON_UPDATE_2026-10-18.md`). #4 (Dré), #5 (Elisabet's height), #6 (Mr. Ledet's house), #7 (Philomène) and #8 (Lacuna) are applied to the cards, registry and grids there.

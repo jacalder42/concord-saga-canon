@@ -189,3 +189,9 @@ Concord exists in a narrow corridor:
 
 It survives only by walking that line —
 and it often stumbles.
+
+---
+
+> **Note, 2026-10-18 (author direction and approved recommendations: `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #1; `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, "Concord and the funder"; ledger §588, §590, §591).** **Dominions (§III):** Concord has a Dominion entanglement at its root: its precursor work was paid for by a **Dominion splinter**, and the circle split from it before founding Concord. **The co-opting organization** (not yet a section here): the former funder first uses Concord's name, then an institutional Concord grows from it; the author allows later conflict between the protagonists' Concord and that organization. This sits beside the Brightbreak narrative capture (§VII) and does not replace it.
+>
+> **OPEN, needs author ruling:** whether §III's *"does not challenge Dominion authority head-on"* holds toward the splinter and the co-opter, which are not the Dominion proper.

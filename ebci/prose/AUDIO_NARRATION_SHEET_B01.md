@@ -350,3 +350,21 @@ carry §1 regardless.
   [F] there as [design permission].
 - **§2, Elisabet.** CP14 narrows her flirtation to **open with Lucien, light with Seraphine** (`ElisabetID.md` note,
   2026-10-05). *Flirts plainly with both leads* is the 10-03 direction before that narrowing.
+
+**Corrections, 2026-10-18** (B01 polish rulings, ledger §591; the lists above are unchanged, and the chapter keys below
+are the final B01's C01–C44, not E-numbers):
+- **§2, Caldas Ren.** *"Origin unstated [ATC]"* is answered: he is **Portuguese**
+  (`decisions/B01_POLISH_DIALECT_RULINGS_2026-10-18.md` #3 and addendum: *"Yes to Portuguese and Lisbon"*). His English
+  is **Lisbon-schooled**, British-standard at base (ring, holiday, haven't got, British question tags), with an American
+  neighbourly manner learned in the field; fluent, contracted, subject-dropping. [R] Near-native English; never play a
+  foreign accent, and keep him smooth, so he stays distinct from Lucien's and Baz's careful, uncontracted English.
+  Lisbon is named once on the page, in Baz's narration (C17); everywhere else he stays unplaced.
+- **§1.1, Caldas Ren.** *Caldas* is not a first name in any European tradition: it is **a family name he goes by** (he
+  types *C. Ren*; *Mr. Ren*, C41). *"Invented"* is superseded. KAL-dus stays the default reading, as the people around
+  him would say it; the Portuguese reading noted above (KAHL-dahsh) remains [ATC]. **"Ren" is shared with Ren Bellande**
+  (registry A09, B04–B09): flag it when A09 is cast or voiced.
+- **§1.6, *cher*.** *"Odile, then Mrs. Arceneaux"* is stale for the final page: *cher* is **Odile's alone** in B01 (C01,
+  C44); Miss Tavie does not say it (`decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, nickname ruling 6).
+- **New names to check** (final page; nickname rulings): **Fifine** (FEE-feen [ATC]; Seraphine's childhood name, C03);
+  **Nannan** (NAH-nahn [ATC]; "His Nannan Lorraine", C40); **mija** (MEE-hah [R]) and **güera** (GWEH-rah [R]), Caro's (C03,
+  C31, C32); **mon cœur** (mohn KUR [R]), Samira's (C11).

@@ -19,3 +19,9 @@ Status: AUTHOR DECISION ("As you recommend", plus the note on #2). Ledger §585.
 8. **The watchers' "One of them has more than the word" is kept.**
 9. **Length:** no hard cap. The −16.5k cut map is a guide; stop where cuts touch plot.
 10. **The Emitter hook** points at Lena, the house and "who did it", not at a B02 approach to Nyla.
+
+---
+
+**Pointer, 2026-10-18 (ledger §591; the ruling text above is unchanged).** Superseded in part by later author rulings the same day:
+- #2, *"Lucien loses his posting outright"*: replaced by a **suspension pending review**, with his working papers sent to Vienna under clause eleven (`B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #3; `B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, "Lucien's posting").
+- #2, *"Baz's funder … 'which then grows'"*: replaced by the split-and-founding direction: the funder is a Dominion splinter; the New Orleans circle later splits from it and only then founds Concord; the name is co-opted by the former funder and then an institutional Concord (`B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #1; `B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, "Concord and the funder"). The written warning for Seraphine and the B01 "opening only" stand.

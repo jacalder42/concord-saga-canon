@@ -63,6 +63,8 @@ Survival is shared.
   Protective, grounding, provided humor and normalcy  
   **Note (added 2026-10-05, author-approved, CP4):** renamed. **Was: Andre Broussard.** *Andre* collided with the dead child **Dré** of B01 E01 (*Dré* is a short form of *André*); the brother predates Dré's naming and is unnamed on the page, so the change costs nothing. **Remy** is a provisional name chosen to implement the recommendation; the author may change it. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
+> **Note, 2026-10-18 (new canon, `decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, nickname ruling 1; ledger §590, §591).** Seraphine's childhood nickname is **"Fifine"**, what her late brother called her (planted once in B01, C03). Nobody alive in B01 knows it; the payoff is left for later books. Lucien uses no endearment in B01 (nickname ruling 5).
+
 ### The Accident (Foundational Trauma)
 
 - A **non-metaphysical car wreck** kills:
@@ -186,6 +188,8 @@ She is trusted, overcommitted, and quietly indispensable.
 - Registry rows for Denise and Marisol now exist (see `canon/cast_registry.csv`), which answers the line above.
 (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
 
+> **Note, 2026-10-18 (final B01 page; `decisions/B01_FINAL_PASS_RULINGS_C_BASE_2026-10-18.md` #2; ledger §591).** The E-keyed steps above are superseded by the final chapter keys: (1) Denise's "I'll watch" (C07); (2) Ursulines, Vidrine, Pierre and Thibodeaux off her sheet to Marisol (C27); (3) a written warning of 20 April in Denise's drawer (C30, C44); (4) a **formal written warning on her personnel file**, copied to the Director (C44): a warning, not dismissal. It carries into B02. Registry B16 has the same list.
+
 ---
 
 ## VIII. IMMEDIATE PRE-SAGA STATE
@@ -247,6 +251,8 @@ She seeks accountability without cruelty.
 > - The child dies
 
 What was wrong: the card had her arrive too late and called the death the prologue event; on the page she arrives in time to attempt CPR and he dies in her care, the death is E01 and not the prologue (E00 is Silence and Hope's), and her unfinished renewal is part of the chain. The lines below stand. (author 2026-10-05, "all as recommended", reports/B01_OPEN_QUESTIONS_REGISTER_2026-10-05.md §6)
+
+> **Note, 2026-10-18 (author, `decisions/B01_POLISH_CANON_AUDIT_RULINGS_2026-10-18.md` #4; ledger §588, §591).** *He dies in her care* above is amended as to **place**: Dré need not die at the camp. On the final page he leaves the camp by ambulance with CPR still going, the call reaches Odile on the porch, and the death is called after midnight on 18 March (C01, C40); he may die in the ambulance or at the hospital. Her arrival in time, her CPR and her share of the chain (the renewal) stand, and the §XII note of 2026-10-14 (the camp as the point where the boundary gave) is unaffected. **"Was Dré first?"** is asked once, privately, and left unanswered (C44; `decisions/B01_FINAL_PASS_RULINGS_C_BASE_2026-10-18.md` #4); why Dré died stays reserved.
 
 This loss echoes her own survival:
 
