@@ -18906,7 +18906,7 @@ ever merged, its entries are renumbered with a note.
 
 ## §587 — B01 dialect-audit rulings, 2026-10-18
 
-- New `decisions/B01_POLISH_DIALECT_RULINGS_2026-10-18.md`. Plate-sale day left to Claude; Mr. Ledet's "talks like a document" re-voiced; Caldas is European, subject to a distinctness and antagonist-roster check (American allowed if the roster is too European); authenticity-reader list accepted.
+- New `decisions/B01_POLISH_DIALECT_RULINGS_2026-10-18.md`. Plate-sale day left to Claude; Mr. Ledet's "talks like a document" re-voiced; Caldas is European, subject to a distinctness and antagonist-roster check (American allowed if the roster is too European); authenticity-reader list accepted. Addendum: Caldas is Portuguese, Lisbon named once (C17).
 
 ## §588 — B01 character-against-canon audit rulings, 2026-10-18
 

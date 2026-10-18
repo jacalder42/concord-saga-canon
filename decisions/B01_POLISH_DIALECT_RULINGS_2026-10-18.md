@@ -6,3 +6,7 @@ Status: AUTHOR DECISION. Ledger §587. Source: manuscript branch `claude/rewrite
 2. **"Talks like a document."** Agreed: Mr. Ledet's version is re-voiced; Odile's and Caro's stay.
 3. **Caldas is European.** The name reads European to the author. Conditions: check that he stays distinct on the page from Lucien and Baz, and survey the saga's antagonists; if the roster is too European-heavy, Caldas may be American instead. Evaluation: `draft-notes/final-2026-10-18/AUDIT_CALDAS_ORIGIN.md` (pending). His English is made consistent with the result.
 4. **Authenticity readers.** The audit's chapter list for a Black New Orleans Creole reader and a Cajun reader is fine.
+
+## Addendum: Caldas's origin (author, 2026-10-18)
+
+Evaluation `AUDIT_CALDAS_ORIGIN.md` found him distinct from Lucien and Baz (fluent, contracted, subject-dropping) and the saga's antagonist roster not European-heavy. **Author: "Yes to Portuguese and Lisbon."** Caldas is Portuguese, with a Lisbon-schooled English (British forms: "ring", "holiday", "haven't got", question tags). Page edits E1–E3, V1 and O1 (Lisbon named once in Baz's narration, C17) are approved. Canon registry and the audio narration sheet are to be updated. Caldas is not a first name in any European tradition; treat it as a family name he goes by. Note the shared "Ren" with Ren Bellande (B04–B09).
