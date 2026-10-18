@@ -18900,4 +18900,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_FINAL_PASS_RULINGS_C_BASE_2026-10-18.md`. C′ is the base, with grafts G1–G8 from B. Caldas loses in person at Poydras. Lucien loses his posting; Seraphine gets a written warning; a seed of Concord via Baz's funder (opening only, to be reconciled). Nyla seen live is the climax turn. "Was Dré first?" asked once and unanswered. The plate thread is cut. No hard length cap. Then a compression pass, a tic pass, and human betas.
 
+## §586 — B01 panel 13 answers; polish phase, 2026-10-18
+
+- New `decisions/B01_PANEL13_AUTHOR_ANSWERS_POLISH_2026-10-18.md`. Lucien confesses the 23 March note at about Ch 15–16; cheap fixes agreed. Next: an event-shape repetition pass (consolidate, combine, summarise, cut, or add new moments), then polish panels (realism, repetition, character against canon, dialect, AI tells), then human betas.
+
 END RECOVERY LEDGER
