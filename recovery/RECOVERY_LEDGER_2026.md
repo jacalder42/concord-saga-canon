@@ -18888,4 +18888,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_PANEL10_AUTHOR_ANSWERS_THREE_MANUSCRIPTS_2026-10-17.md`. Climax is a double win (Caldas loses and may flee; Dominion loses Nyla for good). Reveals move earlier (Ch 14–19). One positive finding that holds twice. No length target. "I was afraid" said aloud. Watchers stay a frame. Plan: A (corrected current draft, to betas), then C (rewrite and merge), then B (full rewrite); compare all three.
 
+## §583 — B01 C and B rulings, 2026-10-17
+
+- New `decisions/B01_C_AND_B_RULINGS_2026-10-17.md`. The positive finding is "the water goes first" (both C and B). Nyla is refused for good (C and B). Caldas is recalled, not arrested. The case people get names and a want; their funder stays open. Dominion plans to observe Nyla, not to take her. In B, "Square 2.5" is a booking.
+
 END RECOVERY LEDGER
