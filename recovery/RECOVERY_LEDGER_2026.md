@@ -18948,4 +18948,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_EXTERNAL_REVIEWS_SURGICAL_PASS_AND_EPILOGUE_NAMES_2026-10-18.md`. A 16-edit surgical pass from two external reviews was applied. The Epilogue now opens by naming Silence and Hope (acting on Q-HR2). Baz walked out of the Institute with a folder that was not his.
 
+## §595 — B01 blind editor read, author answers, 2026-10-18
+
+- New `decisions/B01_BLIND_EDITOR_AUTHOR_ANSWERS_2026-10-18.md`. 21 fixes and 5 approved lines applied; Silence and Hope are not named in the Prologue; the counting line is held. Direction: make Baz and Lucien audible apart, and make missed on-page clues a little more legible.
+
 END RECOVERY LEDGER
