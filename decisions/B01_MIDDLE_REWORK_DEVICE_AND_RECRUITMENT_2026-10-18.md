@@ -15,3 +15,6 @@ Status: AUTHOR DECISION. Ledger §596. Prompted by the blind editor's A1 restate
 - **A hint, at most:** Dominion may begin to wonder whether Seraphine herself was "first" (one look or one question from Strobl, nothing stated).
 - **Compressions:** C24 §7–8, C25 §1 folded into the door-knocking, the C26 laundromat quarrel, and C27's Denise and laptop beats. The book's length stays roughly the same. No chapters are merged or renumbered.
 - **Unchanged:** Arceneaux's fall and death, Strobl's recruitment of Nyla, Miss Pearl, the false report, the kiss and every locked passage.
+
+## Refinement (author, 2026-10-18, 20:36)
+Seraphine does not refuse Strobl at once. She considers the offer over several chapters, a real temptation with her job at risk. When she hears they approached Caro too, she finally blows them off: they are shopping for everyone around her, not choosing her. Pryor's funder stays open; the page does not say that Pryor and the Foundation are one organization.
