@@ -18952,4 +18952,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_BLIND_EDITOR_AUTHOR_ANSWERS_2026-10-18.md`. 21 fixes and 5 approved lines applied; Silence and Hope are not named in the Prologue; the counting line is held. Direction: make Baz and Lucien audible apart, and make missed on-page clues a little more legible.
 
+## §596 — B01 middle rework: device, varied opposition, recruitment, 2026-10-18
+
+- New `decisions/B01_MIDDLE_REWORK_DEVICE_AND_RECRUITMENT_2026-10-18.md`. Ch 23–28 rework: Miss Tavie names the water-tin warning device built in Ch 26; Caldas wants Baz and the folder; Pryor wants the method, and Curtis steals the phone; tins spread to neighbors; Strobl offers Seraphine a job; Pryor tries to hire Caro; at most a hint that Dominion wonders about Seraphine.
+
 END RECOVERY LEDGER
