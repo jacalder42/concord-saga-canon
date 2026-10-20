@@ -17742,4 +17742,19 @@ END OF ENTRY 382
   in the private draft and `ebci/prose/AUDIO_NARRATION_SHEET_B01.md`; recorded as a follow-up in
   `decisions/B01_ENGINE_REVISION_ACCEPTANCE_AUTHOR_ANSWER_2026-10-09.md`.
 
+## §482 — Human dialogue and scene architecture: an independent research study, 2026-10-20
+
+- **Assignment** (received 2026-10-20): research how successful fiction creates believable, emotionally credible and
+  dramatically effective human interaction, without assuming any drafting method is superior. Three phases:
+  primary reference analysis, comparative research, scene-architecture extraction.
+- **Done in the private manuscript repository:** `draft-notes/craft-study/dialogue-architecture/`. It holds:
+  - 48 scene dossiers, built from the 2026-10-01 full-read notes (§357), because the source texts were no longer
+    available;
+  - 6 cross-form controls, from memory;
+  - the comparison;
+  - 13 scene architectures.
+- **Report:** `reports/DIALOGUE_AND_SCENE_ARCHITECTURE_RESEARCH_2026-10-20.md`.
+- **Changes nothing** in the drafting stack. Whether any architecture enters the profile, packets or review practice
+  is the author's decision.
+
 END RECOVERY LEDGER
