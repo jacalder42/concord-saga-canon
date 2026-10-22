@@ -19002,4 +19002,12 @@ ever merged, its entries are renumbered with a note.
 - Both get the same check pass and a blind read.
 - Whether prevention v1 becomes the standing drafting method waits on the trial.
 
+## §604 — B01 hold levels and holds register, 2026-10-22
+
+- New `decisions/B01_HOLD_LEVELS_AND_REGISTER_2026-10-22.md`.
+- Five hold levels: Exact, Precise, General, Subtle (with visibility) and Withheld.
+- A quoted line is Exact only if it is marked verbatim, locked, or called back. An unclear hold defaults to General.
+- The B01 holds register is on the manuscript branch, with style sheet §11.
+- Revising the Prologue's prose is permitted within its intents.
+
 END RECOVERY LEDGER
