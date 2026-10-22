@@ -18960,4 +18960,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_REVIEW2_CALDAS_POV_2026-10-18.md`. Caldas's exit threat and fit, his creed (the unnamed 1755 earthquake), and a ~700-word C42 POV section showing the house's "Not yet" restraint. Vienna-school detail: water by every bed and a woman with a lamp. Watcher echoes in C44. A second hint that they wonder about Seraphine.
 
+## §598 — B01 proposed corrections applied, 2026-10-21
+
+- New `decisions/B01_PROPOSED_CORRECTIONS_2026-10-21.md`. 43 author-supplied fixes. Floyd (not Ramon) in C22, which undoes the §592 B07 merge (registry note added); Mrs. Joubert (not Batson); C.A. for Caro; Marisol in full; Sunday phone timing; thirty-one boxes.
+
 END RECOVERY LEDGER
