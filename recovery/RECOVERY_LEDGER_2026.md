@@ -19009,5 +19009,6 @@ ever merged, its entries are renumbered with a note.
 - A quoted line is Exact only if it is marked verbatim, locked, or called back. An unclear hold defaults to General.
 - The B01 holds register is on the manuscript branch, with style sheet §11.
 - Revising the Prologue's prose is permitted within its intents.
+- **Addendum ("Proceed"):** the Prologue redraft is applied, and register rows X9, S10 and W18 stand as listed.
 
 END RECOVERY LEDGER

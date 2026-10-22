@@ -25,3 +25,13 @@
 - "Tie the watchers to events on earth" and the presences' fewest-words rule are General.
 - **Revising the Prologue's prose is permitted** as long as these intents hold.
 - A redraft was proposed in the conversation on 2026-10-22 and awaits the author's approval.
+
+## Approved (author, 2026-10-22, "Proceed")
+- **The Prologue redraft is applied** to `B01/final-2026-10-18/act-01/P.md` and to both Act I trial versions.
+  - **Exact holds kept:** "He kept the record. She kept the stories.", the screen-door line, and "There's a dog in the road".
+  - **Withheld:** Silence and Hope stay unnamed.
+  - **Added:** "She felt it first" plants the book's question; "a great way apart" sets up the Epilogue's echo.
+- **The three register rows stand as listed:**
+  - **X9:** no declaration of love aloud in B01.
+  - **S10:** Nyla as anchor is a Subtle hold for a later book.
+  - **W18:** prevention v1 is direction only until the K/M read is in.
