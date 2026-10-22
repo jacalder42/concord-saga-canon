@@ -18995,4 +18995,11 @@ ever merged, its entries are renumbered with a note.
   5. A Confession is the full account, given at a chosen cost. C16, C28§4 and C30§4 are admissions.
 - Act I is revised first. Packet 8 (lean versus heavy) runs before that.
 
+## §603 — B01 Act I two-version trial, 2026-10-22
+
+- New `decisions/B01_ACT1_TWO_VERSION_TRIAL_AND_PREVENTION_V1_2026-10-22.md`. The author approved the story more than the prose.
+- Act I is being run two ways: version A trims to the spine C outline; version B is a lean rewrite from one-page briefs plus prevention v1, without the old prose.
+- Both get the same check pass and a blind read.
+- Whether prevention v1 becomes the standing drafting method waits on the trial.
+
 END RECOVERY LEDGER
