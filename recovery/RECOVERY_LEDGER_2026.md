@@ -18968,4 +18968,10 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_TELL_FIXES_2026-10-21.md`. Of the 161 author-supplied tell rows, 137 were applied as proposed and 6 were modified; 18 were kept as they stood (cost, open-thread, humor and interior lines). All 16 of Lucien's remaining contractions are expanded. Manuscript b8d9713, about 116,800 words.
 
+## §600 — B01 numbers must earn their place, 2026-10-22
+
+- New `decisions/B01_NUMBERS_EARN_THEIR_PLACE_2026-10-22.md`, plus manuscript style sheet §10.
+- Numbers, counting, measuring and timestamps are out by default, and must earn their place the way the kisses do: they change an action, hold a clue that pays off, carry feeling, or are Lucien under pressure.
+- Line-level passes are paused. Next: a scene-function audit and plot-spine options, then a single sweep (timing TBD).
+
 END RECOVERY LEDGER
