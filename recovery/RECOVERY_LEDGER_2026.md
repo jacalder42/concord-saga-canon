@@ -18985,4 +18985,14 @@ ever merged, its entries are renumbered with a note.
   - every open thread gets a disposition.
 - Four canon points are proposed for confirmation in the outline.
 
+## §602 — B01 spine C canon points ruled, 2026-10-22
+
+- New `decisions/B01_SPINE_C_CANON_POINTS_RULED_2026-10-22.md`. "Agreed to all":
+  1. Lucien learns about the form at C26 ("Who's Doucet?"; he lies).
+  2. Nyla's partial first sighting at C10. The mother's held arm is kept for C42.
+  3. At C44 the notebook goes to Vienna without Nyla's page.
+  4. Baz tells Seraphine about the form at C37.
+  5. A Confession is the full account, given at a chosen cost. C16, C28§4 and C30§4 are admissions.
+- Act I is revised first. Packet 8 (lean versus heavy) runs before that.
+
 END RECOVERY LEDGER
