@@ -18974,4 +18974,15 @@ ever merged, its entries are renumbered with a note.
 - Numbers, counting, measuring and timestamps are out by default, and must earn their place the way the kisses do: they change an action, hold a clue that pays off, carry feeling, or are Lucien under pressure.
 - Line-level passes are paused. Next: a scene-function audit and plot-spine options, then a single sweep (timing TBD).
 
+## §601 — B01 spine C chosen, 2026-10-22
+
+- New `decisions/B01_SPINE_C_CHOSEN_2026-10-22.md`: "Lucien's reports found Dré's family. Will they find Nyla's?"
+- Folds in the editing thread's five refinements:
+  - the 4 May clock ticks through C20–C31;
+  - the Act III reveal is the DOUCET fact, since Seraphine already knows "he reports" (C16, C38);
+  - Baz works out the DOUCET link, and Lucien leaves a name out of a report before C44;
+  - Nyla's Act I sighting is partial;
+  - every open thread gets a disposition.
+- Four canon points are proposed for confirmation in the outline.
+
 END RECOVERY LEDGER
