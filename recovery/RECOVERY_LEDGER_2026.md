@@ -18964,4 +18964,8 @@ ever merged, its entries are renumbered with a note.
 
 - New `decisions/B01_PROPOSED_CORRECTIONS_2026-10-21.md`. 43 author-supplied fixes. Floyd (not Ramon) in C22, which undoes the §592 B07 merge (registry note added); Mrs. Joubert (not Batson); C.A. for Caro; Marisol in full; Sunday phone timing; thirty-one boxes.
 
+## §599 — B01 tell fixes applied, 2026-10-21
+
+- New `decisions/B01_TELL_FIXES_2026-10-21.md`. Of the 161 author-supplied tell rows, 137 were applied as proposed and 6 were modified; 18 were kept as they stood (cost, open-thread, humor and interior lines). All 16 of Lucien's remaining contractions are expanded. Manuscript b8d9713, about 116,800 words.
+
 END RECOVERY LEDGER
