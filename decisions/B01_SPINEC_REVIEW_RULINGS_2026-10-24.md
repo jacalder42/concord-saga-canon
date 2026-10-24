@@ -22,3 +22,8 @@
    - The author reads before and after blind (Packet 9) before anything goes book-wide.
 
 The review's other continuity items (C30 railing knowledge, the yellow copy's route, C32 "Walt's man", the C38 advisory line, the Vernice hold lines, Mrs. Joubert's drive-by and porch light, the C38 card source) are error fixes and are applied without a ruling.
+
+## Addendum, 2026-10-24 (author, relayed by the editing thread)
+- **Vienna confirmed.** "There is a house. In Vienna." stays in C34, and the Vienna mention in C26 stays. The Dominion's house is in Vienna.
+- **Edit latitude for the pilot.** Flagged lines may be reworded, not only cut, if their intent and meaning hold. This includes the keep-caution lines (the DOUCET form sentence, "Make two", "through a form", the wrong age). Lines quoted back in other chapters stay verbatim.
+- **The C30 continuity items** (the railing source, the yellow-copy route) were already fixed in the Phase 17 continuity pass, before the pilot's `before/` was frozen.
