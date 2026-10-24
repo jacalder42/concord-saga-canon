@@ -19066,4 +19066,11 @@ ever merged, its entries are renumbered with a note.
 - **Music counts:** Act II 5, Act III 2 (the C44 hum plus the C42 brass).
 - **Approved:** the judge-gated pilot on C26 and C30, followed by blind Packet 9.
 
+## §611 — Packet 9 decisions; A/B blend plan, 2026-10-24
+
+- New `decisions/B01_PACKET9_AND_BLEND_PLAN_2026-10-24.md`.
+- **C26:** the original is kept.
+- **C30:** r3 is adopted.
+- **The blend:** Version A (current) against Version B (the pilot method plus new rules: set-pieces whole, signature voice kept, a texture floor, rebuild rather than cut). The author picks scene by scene from blind per-act packets; Packet 10 is Act I.
+
 END RECOVERY LEDGER
