@@ -19011,4 +19011,13 @@ ever merged, its entries are renumbered with a note.
 - Revising the Prologue's prose is permitted within its intents.
 - **Addendum ("Proceed"):** the Prologue redraft is applied, and register rows X9, S10 and W18 stand as listed.
 
+## §605 — B01 author reading notes; Lucien signs his own findings, 2026-10-23
+
+- New `decisions/B01_AUTHOR_READ_NOTES_CARE_ODILE_LUCIEN_2026-10-23.md`.
+- **Ruled ("Yes"):** Lucien is a field inspector of record for Galloway & Lowe, the parish's third-party code-inspection provider (LSUCCC). He holds an ICC certificate and no seal, and signs his own findings. The Hollen Institute is his employer of record (so HOLLEN appears on forms), and Sal's is an unpaid field study. LucienID is annotated.
+- **Direction, waiting on the K/M pick:**
+  - Seraphine's guilt is reoriented around the level of care, not a form, with the family's share Subtle.
+  - Odile's calls get reasons: trust, and keeping her witness close.
+  - Lucien reads houses against their settlement history, not against "true".
+
 END RECOVERY LEDGER
