@@ -27,3 +27,11 @@ The review's other continuity items (C30 railing knowledge, the yellow copy's ro
 - **Vienna confirmed.** "There is a house. In Vienna." stays in C34, and the Vienna mention in C26 stays. The Dominion's house is in Vienna.
 - **Edit latitude for the pilot.** Flagged lines may be reworded, not only cut, if their intent and meaning hold. This includes the keep-caution lines (the DOUCET form sentence, "Make two", "through a form", the wrong age). Lines quoted back in other chapters stay verbatim.
 - **The C30 continuity items** (the railing source, the yellow-copy route) were already fixed in the Phase 17 continuity pass, before the pilot's `before/` was frozen.
+
+## Clarification, 2026-10-24 12:35 (author, direct)
+"Things chosen to keep can still be reworded as long as overall intent is maintained."
+
+This is a standing rule for editing passes:
+- KEEP, caution, joke, confession and voice lines may be reworded if the overall intent holds.
+- A line quoted back in another chapter may be reworded only together with every place that quotes it, so the echo still matches.
+- Plot-document text (the form line, the Kerlerec sentence) is changed only if every place that cites it is changed too.
