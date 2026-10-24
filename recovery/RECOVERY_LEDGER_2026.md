@@ -19029,4 +19029,12 @@ ever merged, its entries are renumbered with a note.
   - An independent check against the holds register is mandatory: 63 fixes for the lean draft against 6 for the trim.
 - **Next:** fold §605 into M's Act I.
 
+## §607 — B01 Sazerac; locked passages in the rewrite; read cadence, 2026-10-24
+
+- New `decisions/B01_SAZERAC_LOCKED_PASSAGES_AND_READ_CADENCE_2026-10-24.md`.
+- **The research thread's Act I package is applied:** 99 exact edits, 3 adapted, 5 already covered, and 22 blocking trims.
+- **SAZERAC replaces TODDY** book-wide; never "SAZ". Trip is a woman.
+- **Locked passages:** the content and key lines are fixed, and the prose is written new in M's voice.
+- **Cadence:** Acts II and III are both rewritten and checked, then the author reads.
+
 END RECOVERY LEDGER
