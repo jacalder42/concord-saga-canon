@@ -19045,4 +19045,16 @@ ever merged, its entries are renumbered with a note.
 - **Range:** 6–12 song moments per book, 2–4 per act, replacing the one-per-chapter cap.
 - **Pending:** B2–B3 seeding (a proposal).
 
+## §609 — Music seeding into B2–B3 ruled, 2026-10-24
+
+- New `decisions/B01_MUSIC_B2_B3_SEEDING_RULED_2026-10-24.md`.
+- **Accepted:** the items that fit canon (Caro at the B3 dance hall, Ledet/Pops, the B2 brass band, Ramon, Rex's silence), plus guards for Clement and the kid.
+- **Ruled:**
+  - Caro's B2 moment stays in the city.
+  - Baz's song returns once before B03 E38.
+  - Sal's altar is dropped, with no reconciliation.
+  - The Arceneaux memorial is dropped.
+  - Lacuna gets no song and no cameo.
+- **Closes:** the pending item in §608.
+
 END RECOVERY LEDGER
