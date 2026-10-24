@@ -19020,4 +19020,13 @@ ever merged, its entries are renumbered with a note.
   - Odile's calls get reasons: trust, and keeping her witness close.
   - Lucien reads houses against their settlement history, not against "true".
 
+## §606 — B01 Act I Version M (lean rewrite) chosen, 2026-10-24
+
+- New `decisions/B01_ACT1_VERSION_M_CHOSEN_LEAN_METHOD_2026-10-24.md`.
+- **The pick:** a blind pick of M, which is the lean rewrite from briefs plus prevention v1.
+- **What it settles:**
+  - Lean drafting is adopted (register W18 is ruled).
+  - An independent check against the holds register is mandatory: 63 fixes for the lean draft against 6 for the trim.
+- **Next:** fold §605 into M's Act I.
+
 END RECOVERY LEDGER
