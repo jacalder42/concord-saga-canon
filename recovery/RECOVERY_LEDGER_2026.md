@@ -19057,4 +19057,13 @@ ever merged, its entries are renumbered with a note.
   - Lacuna gets no song and no cameo.
 - **Closes:** the pending item in §608.
 
+## §610 — Spine C review rulings, 2026-10-24
+
+- New `decisions/B01_SPINEC_REVIEW_RULINGS_2026-10-24.md`.
+- **DOUCET:** C04 is paid off in C37.
+- **New canon:** the Dominion's house is in Vienna (C34), and Lucien gets a visible reaction there.
+- **C44:** "No. I saw it." goes to Baz.
+- **Music counts:** Act II 5, Act III 2 (the C44 hum plus the C42 brass).
+- **Approved:** the judge-gated pilot on C26 and C30, followed by blind Packet 9.
+
 END RECOVERY LEDGER
