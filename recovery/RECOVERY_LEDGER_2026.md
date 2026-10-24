@@ -19037,4 +19037,12 @@ ever merged, its entries are renumbered with a note.
 - **Locked passages:** the content and key lines are fixed, and the prose is written new in M's voice.
 - **Cadence:** Acts II and III are both rewritten and checked, then the author reads.
 
+## §608 — B01 music rules and range, 2026-10-24
+
+- New `decisions/B01_MUSIC_RULES_AND_RANGE_2026-10-24.md`.
+- **Rules:** songs are never named, the title phrase only; one song per person; never an explanation of the phenomenon; no song for the Lacuna cameo.
+- **B1:** six placements.
+- **Range:** 6–12 song moments per book, 2–4 per act, replacing the one-per-chapter cap.
+- **Pending:** B2–B3 seeding (a proposal).
+
 END RECOVERY LEDGER
