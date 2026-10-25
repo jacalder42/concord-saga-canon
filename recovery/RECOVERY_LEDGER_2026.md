@@ -19080,4 +19080,11 @@ ever merged, its entries are renumbered with a note.
 - **Calder role:** narrowed to a canon gate and pastiche removal.
 - **F8:** *The Veil* and *Resonanz* rise in the Epilogue; *Emitter* stays on the carbon. The register is corrected.
 
+## §613 — W14 heat amended; Version D approved, 2026-10-25
+
+- New `decisions/B01_W14_HEAT_AND_VERSION_D_2026-10-25.md`.
+- **W14:** one open-door encounter at C41 (3/5, a brief 4/5 peak); C44 becomes the invitation accepted in calm; the four kisses remain; no other on-page sex.
+- **Version D:** a full-book pass on C@42e0340 with only canon rules in force and style rules suspended, to vary chapter exits like the comparison novels. The writer thread gates it, and the author gets D plus a C→D redline.
+- **Title:** under reconsideration.
+
 END RECOVERY LEDGER
