@@ -19088,4 +19088,17 @@ ever merged, its entries are renumbered with a note.
 - **Title:** under reconsideration.
 - **Packet 16 (C41 heat):** open-door draft B wins (B > A > closed). It is spliced into D's C41 scene 1.
 
+## §614 — Version D is the base; Packet 17 rulings, 2026-10-25
+
+- New `decisions/B01_VERSION_D_BASE_PACKET17_2026-10-25.md`.
+- **Packet 17:** D won 4 of 4. Gated D is the base text.
+- **Rulings:**
+  - "Couillon" kept to four;
+  - the C41 kitchen line fixed;
+  - the E lines stay, with the lead-in tightened;
+  - the C01 and C34 trims;
+  - five carried-over slips fixed;
+  - two unpaid promises paid.
+- **Pending:** a cutting pass, awaiting the author's decision.
+
 END RECOVERY LEDGER
