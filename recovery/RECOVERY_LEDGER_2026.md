@@ -19109,4 +19109,21 @@ ever merged, its entries are renumbered with a note.
 - **Epilogue:** the watchers see heat-shimmer light under the sleeping Nyla; she taps once or twice.
 - **Gates:** one rule only. Nothing confirms that the Veil answers rhythm (X1). Everything else is free.
 
+## §616 — Holds review rulings, 2026-10-25
+
+- New `decisions/B01_HOLDS_REVIEW_RULINGS_2026-10-25.md`. The B01 holds register is amended to match.
+- **Loosened:**
+  - W2 (competing theories argued);
+  - X2 (Dominion's *Emitter* theory explained as institutional belief);
+  - X4/P10 (Dominion named freely after C34).
+- **Conditional:** X8 (character-driven folk explanation only); S5 (may deepen Strobl's threat).
+- **Dropped:**
+  - S10 (Nyla as anchor);
+  - the one-finding ceiling;
+  - "Nobody first" as a rule.
+- **Kept:**
+  - W3, X1, F5 and F8;
+  - "Once is not a rule" (as dialogue).
+- **Principle:** protect real future reveals, not drafting habits. Never reveal the collective-rhythm mechanism.
+
 END RECOVERY LEDGER
