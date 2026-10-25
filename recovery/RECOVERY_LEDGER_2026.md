@@ -19101,4 +19101,12 @@ ever merged, its entries are renumbered with a note.
   - two unpaid promises paid.
 - **Pending:** a cutting pass, awaiting the author's decision.
 
+## §615 — Nyla's arc and the Epilogue's visible moment, 2026-10-25
+
+- New `decisions/NYLA_ARC_AND_VISIBLE_MOMENT_2026-10-25.md`.
+- **Arc:** Nyla is safe in B01. Dominion takes her in B02, through people and places on the page (paper is only the justification). Lanette leads the recovery, and Nyla escapes on the E44 pulse. In B03 Caldas's lethal intent is aimed at Baz.
+- **Superseded:** "Dominion loses Nyla for good" now means lost at the Square.
+- **Epilogue:** the watchers see heat-shimmer light under the sleeping Nyla; she taps once or twice.
+- **Gates:** one rule only. Nothing confirms that the Veil answers rhythm (X1). Everything else is free.
+
 END RECOVERY LEDGER
