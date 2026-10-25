@@ -19086,5 +19086,6 @@ ever merged, its entries are renumbered with a note.
 - **W14:** one open-door encounter at C41 (3/5, a brief 4/5 peak); C44 becomes the invitation accepted in calm; the four kisses remain; no other on-page sex.
 - **Version D:** a full-book pass on C@42e0340 with only canon rules in force and style rules suspended, to vary chapter exits like the comparison novels. The writer thread gates it, and the author gets D plus a C→D redline.
 - **Title:** under reconsideration.
+- **Packet 16 (C41 heat):** open-door draft B wins (B > A > closed). It is spliced into D's C41 scene 1.
 
 END RECOVERY LEDGER

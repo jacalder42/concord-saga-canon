@@ -19,3 +19,13 @@
 
 ## Title
 The author is reconsidering "Screen Door Eulogy". No action yet; the editing thread is preparing options.
+
+## Packet 16 result (C41 heat, author blind, 2026-10-25)
+- **Ranking:** open-door draft B first, open-door draft A second, the closed-door text last.
+- **Draft B** is spliced into Version D's C41 scene 1.
+- **Gate criteria** (amended W14):
+  - heat 3 with a brief 4;
+  - Lucien uncontracted;
+  - no declaration;
+  - her name behind his teeth.
+- **C44:** a light adjustment follows, to the invitation accepted in calm.
