@@ -19073,4 +19073,11 @@ ever merged, its entries are renumbered with a note.
 - **C30:** r3 is adopted.
 - **The blend:** Version A (current) against Version B (the pilot method plus new rules: set-pieces whole, signature voice kept, a texture floor, rebuild rather than cut). The author picks scene by scene from blind per-act packets; Packet 10 is Act I.
 
+## §612 — Version C adopted as the new draft; F8 ruled, 2026-10-25
+
+- New `decisions/B01_VERSION_C_ADOPTED_AND_F8_2026-10-25.md`.
+- **Version C:** voice-shaped drafts, canon-gated. It beat the then-current text in 16 of 17 blind scenes, and is assembled at manuscript 42e0340.
+- **Calder role:** narrowed to a canon gate and pastiche removal.
+- **F8:** *The Veil* and *Resonanz* rise in the Epilogue; *Emitter* stays on the carbon. The register is corrected.
+
 END RECOVERY LEDGER
