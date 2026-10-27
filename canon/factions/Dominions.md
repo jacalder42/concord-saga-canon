@@ -266,6 +266,7 @@ They are the institutional antagonist the world must learn to live beyond.
 - **Dated note, 2026-10-18, later (author: *"naming is approved."*; `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`; ledger §592): "Dominion" is named once in B01, at C34**
   (Baz to Mrs. Carmouche: *"It is called Dominion."*). This amends the 2026-10-09 note above (*"The faction stays unnamed
   on B01's page"*) and answers the OPEN item of the 2026-10-18 note. No further naming in B01 is licensed.
+  **SUPERSEDED 2026-10-27 (author; `decisions/B01_I5_INSTITUTIONS_AUTHOR_RULINGS_2026-10-27.md`; ledger §617):** the naming lock is off. B01 may name Dominion early and as often as the story needs. Hollen (the Institute and the Foundation) is a Dominion front, with mechanics off the page. Baz knows the front from Vienna; he does not learn in B01 that his Houston funder is a Dominion faction. The "post office" line cited at C34 is not in the I4 text.
 - **Dated note, 2026-10-18, later (author: *"Consider: Caldas wants to escalate in B2 but held back by leadership until
   B3 where he is given free rein."*; `decisions/B01_CANON_OPEN_ITEMS_AUTHOR_ANSWERS_2026-10-18.md`; ledger §592): Caldas's ladder.** **B02:** he pushes to escalate and is **restrained by
   leadership**, which fits his B01 recall *"upstairs"* (C43); his B02 appearance (E27) is as the recommendation's bearer,

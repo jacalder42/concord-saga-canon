@@ -19126,4 +19126,13 @@ ever merged, its entries are renumbered with a note.
   - "Once is not a rule" (as dialogue).
 - **Principle:** protect real future reveals, not drafting habits. Never reveal the collective-rhythm mechanism.
 
+## §617 — I5 institutions: author rulings, 2026-10-27
+
+- New `decisions/B01_I5_INSTITUTIONS_AUTHOR_RULINGS_2026-10-27.md`. Dominions.md is amended (a superseded marker on the §592 naming note).
+- **The Dominion naming lock is off.** Early and repeated naming is allowed in B01; this supersedes §592 and the §616 "after C34" limit.
+- **Hollen is a front for Dominion** (the Institute and the Foundation); mechanics stay off the page.
+- **Baz** knows the Hollen front from Vienna; he does not learn in B01 that his Houston funder is a Dominion faction (B03 payoff).
+- **Canon correction:** the "post office" line (C34) is absent from I4.
+- **Open:** Pryor confirmation; D04/P6.
+
 END RECOVERY LEDGER
