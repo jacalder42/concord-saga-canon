@@ -19135,4 +19135,12 @@ ever merged, its entries are renumbered with a note.
 - **Canon correction:** the "post office" line (C34) is absent from I4.
 - **Open:** Pryor confirmation; D04/P6.
 
+## §618 — I4 gate: author rulings, 2026-10-26
+
+- Appended to `decisions/B01_I5_INSTITUTIONS_AUTHOR_RULINGS_2026-10-27.md`.
+- **D04 accepted:** the Doucet surname is told on the C26 curb. P6 and W17 are amended; "That one is not mine to tell." and "I do not know. Ask him." are retired.
+- **Pryor:** confirmed and named, with her buyer and backers unexplained. C42 "The gray suit buys from me" is cut.
+- **C06:** the gaze-stilling beat is reverted. **C38:** "Monday you." / "Tuesday them." is restored.
+- **Gated I4:** sha256 d8b22704488f, the baseline for the I5 blind tests.
+
 END RECOVERY LEDGER

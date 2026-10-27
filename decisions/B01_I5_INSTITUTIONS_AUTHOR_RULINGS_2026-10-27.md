@@ -11,6 +11,8 @@
    - He does **not** learn in B01 that his Houston funder is a faction inside Dominion. That stays a B03 payoff (the split at his death), and nothing in B01 hints it to him. This is CANON_COLLISIONS row B2, unchanged.
    - The canon basis, "believes he left Dominion but is still being paid by it", stands.
 
-## Still open (not ruled here)
-- **Joanne Pryor** (the woman in the cream shoes, named at I4 C28:157). The editing thread reads the author's "mysterious third party" as: her name stays, and her backers and eventual buyer stay unexplained. Awaiting the author's confirmation.
-- **D04 (Doucet resolved earlier) and register P6.** These are live in I4: Lucien names the source in C26. That conflicts with the H2 ruling "P6 stands". Awaiting the author.
+## Further author rulings (2026-10-26, I4 gate; ledger §618)
+- **Joanne Pryor:** confirmed. Her name stays (C28:157), and her backers and buyer stay unexplained. I4's C42 line "The gray suit buys from me" is cut.
+- **D04 (Doucet resolved earlier):** accepted as written in I4. In C26 Lucien lies and then tells her the surname route on the curb within a breath. The B01 holds register's P6 and W17 are amended. The Causeway (C38) stays the Confession, with its subject now the field-book page and the overheard call.
+- **C06:** the I2 beat where Seraphine's gaze stills the water is reverted. It is not canon.
+- **C38:** "Monday you." / "Tuesday them." is restored.
