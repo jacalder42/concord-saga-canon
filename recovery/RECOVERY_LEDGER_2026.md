@@ -19152,6 +19152,6 @@ ever merged, its entries are renumbered with a note.
 - **Nyla converts, not emits** (provisional; no conscious control). Light appears first in the Epilogue.
 - **The Square** is a visible victory, with at least one surprise beyond Nyla.
 - **X1 / §615:** the rhythm gate stands; coordinated behaviour reducing harm may be shown.
-- **Open:** wound feedback (recommended yes); the Square's second surprise.
+- **Follow-up ruled:** wounds escalate (the B01 clock). The Square has three surprises in order: a third pulse bigger than forecast; the edge moving mid-event; the connected seated crowd changing the event (observable, not understood). Nyla stays distinct. Nobody deliberately uses collective rhythm.
 
 END RECOVERY LEDGER

@@ -56,11 +56,15 @@ Characters may form wrong theories about any of these.
    - At least one thing exceeds the forecast and the protocol. Nyla is one; at least one other is needed.
 5. **Discovery comes through failure, accident and argument,** not scheduled lessons (Mechanica §59: failure is story and must leave residue).
 
-## 6. Open questions put to the author
-- **Wounds and feedback.** Do breakthroughs progressively weaken the places where they happen?
-  - Canon *supports* it but does not state it. §42A.2 says "each break becomes a wound"; §31 says weather escalates with "shard proximity"; §34 says a fracture is a "persistent break".
-  - **Recommended:** yes. A break leaves a local wound that raises that spot's future severity ("the city remembers where it broke"). This gives B01 its clock: a weakening system nearing a threshold at the Square.
-- **The Square's second surprise,** alongside Nyla. Options: the intensity exceeds the forecast; the boundary shifts mid-event; the seated crowd changes the manifestation in a way the instruments can't account for.
+## 6. Ruled in follow-up (author, 2026-10-27)
+1. **Wounds escalate: yes.** A breakthrough leaves a local wound that makes that place more permeable, so later pressure there produces a more severe event. This is the B01 clock: a weakening system nearing a threshold. Dominion forecasts partly from its map of old wounds. Basis: §42A.2 "each break becomes a wound"; §31 "shard proximity"; §34 a fracture is a "persistent break".
+2. **The Square has three surprises beyond the forecast, each with its own job, in this order:**
+   1. **The forecast works.** The first pulse comes and the preparations prevent injury, so the protagonists look competent.
+   2. **Bigger than the forecast (the escalation).** Dominion's model predicts two pulses. A third comes, stronger and later, after the apparent all-clear. Dominion's forecasting is useful but incomplete.
+   3. **The edge moves mid-event (the immediate crisis).** The disturbance shifts into an area believed safe. Seraphine and Caro move people under pressure, by judgement rather than the prepared protocol. Baz helps hold the crowd together.
+   4. **The seated crowd changes it (the discovery).** Where people stay connected, the disturbance behaves differently from the area around them. Lucien's instruments register something he cannot explain. This is the first observable evidence that mutual connection can influence the event itself, not only help people endure it. It is **observable, but not yet reproducible or understood.**
+   5. **Nyla stays distinct.** The crowd influences the event collectively and unconsciously; Nyla appears to interact with it individually. Neither mechanism is explained.
+3. **Caution, ruled:** no character deliberately uses collective rhythm to change the event or the Veil. They are trying to keep people safe, not perform a resonance intervention. That would confirm the reserved saga reveal too early (X1, §615).
 
 ## 7. What follows
 - The B01 holds register gets an X1 clarification row, a §60 row and a reserved-reveals row.
