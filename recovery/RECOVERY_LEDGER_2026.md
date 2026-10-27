@@ -19143,4 +19143,15 @@ ever merged, its entries are renumbered with a note.
 - **C06:** the gaze-stilling beat is reverted. **C38:** "Monday you." / "Tuesday them." is restored.
 - **Gated I4:** sha256 d8b22704488f, the baseline for the I5 blind tests.
 
+## §619 — Resonance is discoverable: B01 reveal ladder, 2026-10-27
+
+- New `decisions/B01_RESONANCE_DISCOVERY_LADDER_AUTHOR_RULING_2026-10-27.md`. Mechanica §7.1 and §60 are amended with dated notes.
+- **Principle:** the physical behaviour of resonance is discoverable; its metaphysical origin is not. B01 reveals how resonance weather works, not why the Veil exists.
+- **Dominion's forecast is the plot engine.** Its model is incomplete (it predicts the event, not how people survive it). The protagonists' human finding is preparation, position, a trusted signal and mutual connection, shown working and never explained.
+- **Ursulines:** warning changes outcomes unevenly ("what makes a warning useful?"). Emotion governs coupling, not origin.
+- **Nyla converts, not emits** (provisional; no conscious control). Light appears first in the Epilogue.
+- **The Square** is a visible victory, with at least one surprise beyond Nyla.
+- **X1 / §615:** the rhythm gate stands; coordinated behaviour reducing harm may be shown.
+- **Open:** wound feedback (recommended yes); the Square's second surprise.
+
 END RECOVERY LEDGER

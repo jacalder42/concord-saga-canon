@@ -150,6 +150,8 @@ Mechanica behavior escalates across eras.
 - Early shard precursors only (flickers, ghostwaves)
 - Technology mostly stable
 
+> **Amended 2026-10-27 by author ruling** (`decisions/B01_RESONANCE_DISCOVERY_LADDER_AUTHOR_RULING_2026-10-27.md`; ledger §619). For the Veil books, "subtle, low amplitude" is replaced by **escalating, physically consequential, increasingly measurable.** Institutional suppression stays, but it cannot prevent public observation. §6 still holds: the public misnames what it sees and does not acknowledge metaphysics. Principle: *the physical behaviour of resonance is discoverable even when its ultimate metaphysical origin is not.*
+
 ---
 
 ### 7.2 Neon Trilogy
@@ -1209,6 +1211,11 @@ Characters do not explain Mechanica.
 They experience it.
 
 Exposition belongs in action and consequence, not speech.
+
+> **Amended 2026-10-27 by author ruling** (ledger §619). **In the Veil books, characters may describe, hypothesise, test, teach and explain what they have discovered, in their own words.** Two limits remain:
+> - Mechanica's vocabulary stays off the page (W-levels, RP, corridor tiers, "shard", "Loom").
+> - No one knows a reserved truth (§42A; the breathing-Veil answer) without evidence.
+> The rhythm gate (X1, §615) stands, but it does not bar showing that coordinated human behaviour reduces harm.
 
 ---
 
