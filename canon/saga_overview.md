@@ -15,9 +15,10 @@ TODO: One-paragraph statement of the Concord Saga's core promise and constraints
 - Resonance is grounded emotional physics (no “magic” language)
 
 ## Trilogy Summaries
-- Veil (T1): TODO
-- Neon (T2): TODO
-- Loom (T3): TODO
+*Questions ruled 2026-10-28 (§624). Each trilogy answers its own; see `canon/trilogy_*.md`.*
+- **Veil (T1):** *What is this weather, how does it behave, where is it going? / Who controls what is known, and what does truth cost?* It is answered at the Warehouse: a breach that tears the city, Baz's death, Nyla's conversion, and the southwest lean.
+- **Neon (T2):** *What is breaking in the Southwest, and is it linked? / Once the truth is public, can those who know make the world act in time?* No: Tahl dies, Dominion falls, and the Rupture stays open.
+- **Loom (T3):** *Is the hard cap the only way, and who pays? / Can they close the circuit before the factions find the site, and will Kade choose responsibility?* It is answered at the Mending.
 
 ## Post-Mending Snapshot
 TODO: short post-mending world description (no new arcs).
