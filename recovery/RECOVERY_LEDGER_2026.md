@@ -19258,4 +19258,19 @@ ever merged, its entries are renumbered with a note.
   - the B06 E21 elders' corridor event card, pass 1, is written.
 - **Validator:** no violations.
 
+## §630 — Gated I7: author rulings, 2026-10-28
+
+- New `decisions/B01_I7_GATE_AUTHOR_RULINGS_2026-10-28.md`.
+- **Locks and locked scenes:**
+  - the C01 lock is measured from I6;
+  - locked-scene changes accepted in C04, C10, C41 and C42;
+  - C18 S3 stays as I4.
+- **Canon calls:**
+  - "The Review is their post office.";
+  - the "which one" hook is Nyla's line;
+  - the B02 logger stop is the faction's tampering (B02 E11 note).
+- **Restored:** "Correct the form." with the "Who's Doucet?" quote-back (C38); "Order is not cause…" (C32).
+- **Pryor seams fixed:** C26 and C28.
+- **Paper-zero cuts accepted.** Tante Colette's name is kept for B02 or B03.
+
 END RECOVERY LEDGER
