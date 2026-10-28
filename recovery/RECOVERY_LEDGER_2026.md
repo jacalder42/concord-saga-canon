@@ -19247,4 +19247,15 @@ ever merged, its entries are renumbered with a note.
   - the coercion mechanism (open);
   - the trilogy-sheet relabels.
 
+## §629 — Nyla's B03 retaking: the boarding school; cleanup, 2026-10-28
+
+- New `decisions/NYLA_B03_RETAKING_BOARDING_SCHOOL_AUTHOR_RULING_2026-10-28.md`.
+  - The family, struggling to live with Nyla's resonance, is persuaded to let an in-town boarding school help. The school is a front of the faction's program and does not present as the Foundation Lanette refused.
+  - B03 E12's brief is revised. B02 E47 and E49 are seeded in the control layer.
+- **Cleanup:**
+  - the BC-NYLA-NEON breadcrumb is added (B03 E40 → E45, EP E48; Neon payoff B05 A3 and B06 A1) and cited in the cards;
+  - cast_registry rows B23 Lanette, B24 Nyla (the old guard withdrawn), C06 Strobl and C02 Caldas are updated;
+  - the B06 E21 elders' corridor event card, pass 1, is written.
+- **Validator:** no violations.
+
 END RECOVERY LEDGER
