@@ -161,3 +161,65 @@ Each item is at Story job / Change / Exit state level. There is no prose and no 
 3. **D3:** where does the reveal fall: (a) E37, (b) earlier, or (c) both?
 4. **D2:** is a new Lanette episode needed, or does she fold into existing ones?
 5. **D6:** what form does Caldas's defeat take, and when?
+
+## 4. Applied (2026-10-28, §627)
+Author: "Approve all as recommended" (`decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md`). D1–D9 are applied to `ebci/B03/` at the recommended options. Every *DESIGN pending* note is now an **Applied 2026-10-28 (§627, Dn)** note, and three cards with no pending note gained one (E29, E33, E46). **Not committed.** `grids/episode_beats.csv` was **not edited** (coordinator instruction: a concurrent B02 edit); the B03 row changes are listed below for the coordinator to apply. The validator passes (`tools/validate_canon.py`: no violations).
+
+### Cards changed
+- **All 48:** the blame-clause bracket in *Amendments applied* now records D4 (ii): the reader is made certain through E37; the narration states no cause.
+- **Narrative brief changed (17):** A1.E01, E09, E12, E15; A2.E21, E23, E27, E28, E30; A3.E32, E34, E36, E37, E38, E39, E40, E42 (S04 included). E37 also gains Writer options (control layer).
+- **Notes only (11):** A1.E13, E14; A2.E20, E29; A3.E31, E33, E35, E44, E45; EP.E46, E48. With the briefs above, that makes 28 cards carrying design work.
+
+### Per item
+| Item | Applied as | Cards |
+|---|---|---|
+| **D1** | B03's floor is B02's ceiling (E01 *Keep*: the signs, the interval, the method that finds people, escalating breaches; it follows B02's propagated end state). *No model forecasts* → *no public model* (E09, E27, E30). Dominion's forecast is shown to exist and never read out (E15, E28). E36's *exceeds every model* kept. | E01, E09, E15, E27, E28, E30, E36 |
+| **D2** | Recommended placement: felt in A1 through Lanette inside Seraphine's finite circle (E12); **no new Lanette episode**. Coercion, offstage; the mechanism stays open and off the page; paper at most the excuse. Seraphine knows Nyla is taken, not where (E35). A2 carries her as an absence offstage; E40 pays it. | E12, E35 |
+| **D3** | Option (a) only: Baz finds the program site himself at E37 and recognises his Houston funder working inside Dominion. Recognised, not explained; Baz and the reader only. No seed at E14, E20, E28 or E44. | E37 (brief); E14, E20, E28, E44 (notes) |
+| **D4** | (ii): the reader is certain through D3; the narration states nothing. E36 *Prohibited* restated (no procedure or Mechanica vocabulary; the crowd as amplifier, shown, not certified); the Required observable stays physical. Program site in the older section (E29's bay; Technarc's upper floors read it, E33); the E13 precursor is its earlier leakage (control only). | all 48 (bracket); E36 (brief); E13, E29, E31, E32, E33 (notes) |
+| **D5** | The child is Nyla (E36 *a child*, because Baz does not yet know; E37–E40 Nyla). **Sibling thread cut; the teenager stays as crowd** (E32, E34, E39; E40's parent is now Lanette). M10: her account is fragments and names no one; it is not credited (E39, E44). Erased on paper and felt through Lanette (E40). | E32, E34, E36–E40 |
+| **D6** | See below. Seams: E30/E31 (C04 held), E38 (*No one murders him* held, now in *Keep*). | E14, E21, E28, E30, E31, E38 |
+| **D7** | Argued once as *unknown* on Elisabet's whiteboard (E23); its inverse shown at E36 (a drawn, frightened, unconnected crowd makes it worse, never stated as cause). Not at E15. | E23, E36 |
+| **D8** | E42: the behaviour is held in ordinary words (weak places, worse where it broke before, a district torn and kept torn, the southwest lean); Exit *undeniable; how it behaves known, why it exists not*; origin reserved. S04 also leaves out the child. Costs of the truth noted at E44, E46, E48. | E42, E44, E46, E48 |
+| **D9** | Nyla leaves B03 with Lanette and on no list (E40). Converted, unstable and unable to ascend in the control layer only. Not among the vigil's missing (E45); the EP does not close her (E48). **BC-NYLA-NEON [P] is not added** to `grids/breadcrumbs.csv` (out of scope; a packet that cites it would fail CHK_PACKET_LINKS); proposed for the ledger. | E40, E45, E48 |
+
+### D6: Caldas's form of defeat. **Ruin through exposure** (writer-thread choice; the author may override)
+- **On the page:**
+  - **E21:** the exposure begins. Seraphine puts his registry canvass, with his name, on the rota's record, where it joins the trail B01 left on him (Mr. Ledet's complaint, the deputy's report, C43).
+  - **E28 (late A2):** the defeat. At the protocol meeting, seen by the anonymous institutional ensemble, the Dominion takes back his free rein and his place. The fall is plain and final, and nothing points to what he does next.
+- **The revenge:**
+  - The faction's dawn run in the older section is its own operation.
+  - Caldas only routes the booking to Baz's table (E30), so Baz's own reason takes him there.
+  - Tahl's coordinates, which are Tahl's alone, draw the crowd that amplifies the leak.
+  - Who sent the booking, and whether before E28, stays ambiguous.
+  - *No one murders him* is held: the leak and the second fall kill him. The guilt is shared between Caldas's design and Tahl's coordinates (M11) and is unproven to the cast.
+- **Why ruin, not death or bare exposure:**
+  1. **Death** would force the plan to predate the defeat, which removes the ambiguity the author allowed. It would also put a second death beside Baz's in a book that forbids a second spectacle.
+  2. **Exposure alone** leaves him with his post, so his arc would not read as closed.
+  3. **Ruin** leaves him with no command, which is exactly why his revenge can only exploit the faction's operation and cannot run it. That is the seam D6 asked for.
+  4. **It is built from existing cards:**
+     - E21's door and its *one with a name*;
+     - B01's recall *upstairs* and its paper trail;
+     - his status as leadership's man, which means leadership can drop him (Dominions.md).
+  5. **It fits Neon Q2:** Helena, not Caldas, delivers the B04 E16 demand, so a ruined Caldas needs no Neon errand.
+  6. **It answers the Veil question** of *who controls what is known* (a record defeats him).
+
+### B03 beat-row changes for `grids/episode_beats.csv` (not applied; for the coordinator)
+Change only the `beat_function` cell in each row below. ECID values are unchanged, and no rows are added or removed.
+
+| BID | beat_function: was | beat_function: now |
+|---|---|---|
+| S1.T1.B03.A1.E12-BT01 | the circle | the circle, and Lanette |
+| S1.T1.B03.A2.E28-BT01 | the protocol meeting | the protocol meeting, and Caldas dropped |
+| S1.T1.B03.A2.E30-BT01 | the logs | the logs and the dawn booking |
+| S1.T1.B03.A3.E37-BT02 | freeing the child | the room, and freeing Nyla |
+| S1.T1.B03.A3.E40-BT01 | the staging point | the staging point, and Lanette |
+
+### Still open (unchanged by §627)
+- The coercion mechanism (§625 §3).
+- The time span between trilogies.
+- Whether D1's E01 list matches B02's propagated end state. Check it after the B02 pass lands.
+
+### Flagged, out of scope
+- `act_overlays/act_overlay_S1_T1_B03_A3.json` still carries the *W4 exception at E14* basis note (§1).
+- `canon/characters/BazID.md`, `canon/factions/Dominions.md` and the Caldas row in `canon/cast_registry.csv` should record the ruin at E28 once the author confirms the form.

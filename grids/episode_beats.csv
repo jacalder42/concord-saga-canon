@@ -307,7 +307,7 @@ S1.T1.B03.A1.E10,Trip,NONE,U1,W1,FUN,H0,FX1,CALM,L1,S1.T1.B03.A1.E10-BT02,Baz re
 S1.T1.B03.A1.E10,Trip,NONE,U1,W1,FUN,H0,FX1,CALM,L1,S1.T1.B03.A1.E10-BT03,the loft party moves,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A1.E10.md; values are the episode end state
 S1.T1.B03.A1.E11,Seraphine Vael,NONE,U1,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A1.E11-BT01,the offer,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A1.E11.md; values are the episode end state
 S1.T1.B03.A1.E11,Seraphine Vael,NONE,U1,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A1.E11-BT02,what the review cited,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A1.E11.md; values are the episode end state
-S1.T1.B03.A1.E12,Seraphine Vael,NONE,U1,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A1.E12-BT01,the circle,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A1.E12.md; values are the episode end state
+S1.T1.B03.A1.E12,Seraphine Vael,NONE,U1,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A1.E12-BT01,"the circle, and Lanette",,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A1.E12.md; values are the episode end state
 S1.T1.B03.A1.E12,Seraphine Vael,NONE,U1,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A1.E12-BT02,her proposal,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A1.E12.md; values are the episode end state
 S1.T1.B03.A1.E12,Seraphine Vael,NONE,U1,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A1.E12-BT03,the family that waits,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A1.E12.md; values are the episode end state
 S1.T1.B03.A1.E13,"Bastien ""Baz"" Arnaud",NONE,U2,W1,SCI,H0,FX1,CALM,L1,S1.T1.B03.A1.E13-BT01,the dock and the foreman,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A1.E13.md; values are the episode end state
@@ -342,11 +342,11 @@ S1.T1.B03.A2.E26,"Bastien ""Baz"" Arnaud",NONE,U1,W1,FUN,H0,FX1,CALM,L0,S1.T1.B0
 S1.T1.B03.A2.E26,"Bastien ""Baz"" Arnaud",NONE,U1,W1,FUN,H0,FX1,CALM,L0,S1.T1.B03.A2.E26-BT02,Kesi's word,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E26.md; values are the episode end state; beats revised by Veil pass 6 (2026-09-29)
 S1.T1.B03.A2.E27,"Bastien ""Baz"" Arnaud",NONE,U2,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A2.E27-BT01,the building,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E27.md; values are the episode end state
 S1.T1.B03.A2.E27,"Bastien ""Baz"" Arnaud",NONE,U2,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A2.E27-BT02,the rule,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E27.md; values are the episode end state
-S1.T1.B03.A2.E28,institutional analysts [anonymous ensemble],NONE,U1,W1,CIV,H0,FX1,CALM,L1,S1.T1.B03.A2.E28-BT01,the protocol meeting,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E28.md; values are the episode end state
+S1.T1.B03.A2.E28,institutional analysts [anonymous ensemble],NONE,U1,W1,CIV,H0,FX1,CALM,L1,S1.T1.B03.A2.E28-BT01,"the protocol meeting, and Caldas dropped",,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E28.md; values are the episode end state
 S1.T1.B03.A2.E28,institutional analysts [anonymous ensemble],NONE,U1,W1,CIV,H0,FX1,CALM,L1,S1.T1.B03.A2.E28-BT02,the briefing,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E28.md; values are the episode end state
 S1.T1.B03.A2.E29,a night-shift forklift operator [anonymous witness],NONE,U2,W1,SLICE,H0,FX1,CALM,L2,S1.T1.B03.A2.E29-BT01,the shift,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E29.md; values are the episode end state
 S1.T1.B03.A2.E29,a night-shift forklift operator [anonymous witness],NONE,U2,W1,SLICE,H0,FX1,CALM,L2,S1.T1.B03.A2.E29-BT02,the extra hours,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E29.md; values are the episode end state
-S1.T1.B03.A2.E30,"Bastien ""Baz"" Arnaud",NONE,U2,W2,SCI,H0,FX1,CALM,L2,S1.T1.B03.A2.E30-BT01,the logs,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E30.md; values are the episode end state
+S1.T1.B03.A2.E30,"Bastien ""Baz"" Arnaud",NONE,U2,W2,SCI,H0,FX1,CALM,L2,S1.T1.B03.A2.E30-BT01,the logs and the dawn booking,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E30.md; values are the episode end state
 S1.T1.B03.A2.E30,"Bastien ""Baz"" Arnaud",NONE,U2,W2,SCI,H0,FX1,CALM,L2,S1.T1.B03.A2.E30-BT02,the decision,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E30.md; values are the episode end state
 S1.T1.B03.A2.E30,"Bastien ""Baz"" Arnaud",NONE,U2,W2,SCI,H0,FX1,CALM,L2,S1.T1.B03.A2.E30-BT03,Lucien,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A2.E30.md; values are the episode end state
 S1.T1.B03.A3.E31,"Bastien ""Baz"" Arnaud",NONE,U3,W1,ACT,H0,FX1,CALM,L1,S1.T1.B03.A3.E31-BT01,the district at dawn,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E31.md; values are the episode end state
@@ -364,13 +364,13 @@ S1.T1.B03.A3.E36,"Bastien ""Baz"" Arnaud + Officer Daniel Rieux",NONE,U5,W3,ACT,
 S1.T1.B03.A3.E36,"Bastien ""Baz"" Arnaud + Officer Daniel Rieux",NONE,U5,W3,ACT,H0,FX2,RUPTURE,L3,S1.T1.B03.A3.E36-BT02,the collapse,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E36.md; values are the episode end state
 S1.T1.B03.A3.E36,"Bastien ""Baz"" Arnaud + Officer Daniel Rieux",NONE,U5,W3,ACT,H0,FX2,RUPTURE,L3,S1.T1.B03.A3.E36-BT03,the street door,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E36.md; values are the episode end state
 S1.T1.B03.A3.E37,"Bastien ""Baz"" Arnaud",NONE,U5,W2,ACT,H0,FX2,RUPTURE,L3,S1.T1.B03.A3.E37-BT01,the voice,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E37.md; values are the episode end state
-S1.T1.B03.A3.E37,"Bastien ""Baz"" Arnaud",NONE,U5,W2,ACT,H0,FX2,RUPTURE,L3,S1.T1.B03.A3.E37-BT02,freeing the child,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E37.md; values are the episode end state
+S1.T1.B03.A3.E37,"Bastien ""Baz"" Arnaud",NONE,U5,W2,ACT,H0,FX2,RUPTURE,L3,S1.T1.B03.A3.E37-BT02,"the room, and freeing Nyla",,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E37.md; values are the episode end state
 S1.T1.B03.A3.E38,"Bastien ""Baz"" Arnaud",NONE,U5,W2,ACT,H0,FX2,RUPTURE,L3,S1.T1.B03.A3.E38-BT01,the dock door,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E38.md; values are the episode end state
 S1.T1.B03.A3.E38,"Bastien ""Baz"" Arnaud",NONE,U5,W2,ACT,H0,FX2,RUPTURE,L3,S1.T1.B03.A3.E38-BT02,the second fall,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E38.md; values are the episode end state
 S1.T1.B03.A3.E39,responders at the dock gap [anonymous ensemble] + Leila Broussard,NONE,U3,W1,ACT,H0,FX2,CALM,L2,S1.T1.B03.A3.E39-BT01,the child found,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E39.md; values are the episode end state
 S1.T1.B03.A3.E39,responders at the dock gap [anonymous ensemble] + Leila Broussard,NONE,U3,W1,ACT,H0,FX2,CALM,L2,S1.T1.B03.A3.E39-BT02,the body they cannot reach,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E39.md; values are the episode end state
 S1.T1.B03.A3.E39,responders at the dock gap [anonymous ensemble] + Leila Broussard,NONE,U3,W1,ACT,H0,FX2,CALM,L2,S1.T1.B03.A3.E39-BT03,Leila,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E39.md; values are the episode end state
-S1.T1.B03.A3.E40,Arianna Duplantier,NONE,U2,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A3.E40-BT01,the staging point,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E40.md; values are the episode end state
+S1.T1.B03.A3.E40,Arianna Duplantier,NONE,U2,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A3.E40-BT01,"the staging point, and Lanette",,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E40.md; values are the episode end state
 S1.T1.B03.A3.E40,Arianna Duplantier,NONE,U2,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A3.E40-BT02,the log,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E40.md; values are the episode end state
 S1.T1.B03.A3.E41,Trip,NONE,U1,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A3.E41-BT01,the hotline,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E41.md; values are the episode end state
 S1.T1.B03.A3.E41,Trip,NONE,U1,W1,CIV,H0,FX1,CALM,L2,S1.T1.B03.A3.E41-BT02,the board,,,,,,B03 EBCI; packet ebci/B03/S1.T1.B03.A3.E41.md; values are the episode end state
