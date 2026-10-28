@@ -77,3 +77,20 @@ The writer thread chose, under that latitude:
 
 ## 7. Card wording
 - Elisabet's personal question is reworded to **"why do the wells stop following the tide?"**, because "breathing" is reserved for the finale. The page may still say a well "breathes" in its ordinary hydrogeological sense, sparingly, and never as Elisabet's question about the phenomenon.
+
+## 8. Reconciled against I6, with author rulings (2026-10-28, later; ledger §621)
+The gate cited I4, and the editing thread works on **I6**, whose package the author is holding. Its reconciliation (`ELISABET_GATE_RECONCILIATION_I6.md`) maps each fact. The I6 page facts as reported:
+
+| Fact | I4 | I6 | Resolution |
+|---|---|---|---|
+| The C39 admission | Lucien: "I owe you an apology… I named your wells" (C39:31) | Gone. Elisabet speaks first: "You need not tell me, Mr. Kael… You are only the nearest" (C39:29) | **Author: cut off.** He begins the admission and she stops him (about +15 words). The full apology stays at C44 and the repair at B02 E05, so §6 stands. |
+| The Caro–Seraphine "Is the data going to find me?" scene | C44:119–127 | Moved to C39:95–107 (Tue 28 Apr) | In I6 the 9 May section is Caro's only appearance in C44. CaroID's references to that scene point to C39. |
+| The W19 callback ("get your well lady back down here") | C44:135 | Not in I6 | **Author: restore it in C39's pickle scene.** The W19 count becomes the C32 flirtation, the C39 callback, and the C44 (Sat 9 May) data-ethics scene. |
+| The permit withdrawal and the offer to buy her records | C20:33 | No Elisabet in I6 C20. The withdrawal is at C39:29 ("my station lost its place with the City"), and there is no purchase offer | The February record is carried by C13:93 ("I asked for the pump logs in February…"). Nothing depends on C20. |
+| "my wells were flat… I have nothing" | C16:65 | C16:63, same text | Reading (a) holds. |
+| The cone | Not on the page | Not on the page | **Author: approve the three-beat plant** (about +40 words). C13: an orange cone by her open well lid on the Poydras neutral ground; she takes it with her. C32: at Ms. Dorsey's, Caro throws it in the rig ("she can come and get it"). C44 (Sat 9 May): Elisabet comes for it, then stands it back by the door. No explanation. |
+
+**Further notes:**
+- **The Caro scene:** Elisabet *has seen* Caro's pages (C32:315, "I am not seeing them"). She takes only her own consented data. Caro shows the method, not her private reason (E05:17, unspent).
+- **The B02 logger stop:** the mechanics ledger says small battery devices fail only at a sharp step. B02 chooses between tampering, total suppression, a fault or a step. No B01 change.
+

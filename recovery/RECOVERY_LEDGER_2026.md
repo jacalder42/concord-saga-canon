@@ -19165,4 +19165,16 @@ ever merged, its entries are renumbered with a note.
 - **The apology:** C39 admission → C44 apology → B02 E05 repair.
 - **Card question** reworded: "why do the wells stop following the tide?"
 
+## §621 — §620 reconciled to I6; author rulings, 2026-10-28
+
+- Appended §8 to `decisions/B01_ELISABET_SIGNATURE_BREACH_LEXICON_AUTHOR_RULING_2026-10-28.md`. CaroID and ElisabetID notes added.
+- **Author:**
+  - the C39 admission is cut off (she stops him); the apology is at C44 and the repair at B02 E05;
+  - the W19 callback is restored in C39's pickle scene;
+  - the cone gets a three-beat plant (C13 / C32 / C44, 9 May).
+- **I6 page facts:**
+  - the "Is the data going to find me?" scene is now C39;
+  - no Elisabet in C20, so the February record rests on C13:93;
+  - C16:63 reading (a) holds.
+
 END RECOVERY LEDGER

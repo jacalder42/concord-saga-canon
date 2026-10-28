@@ -96,5 +96,6 @@
   - **End of B01:** the Vienna consultation (the Regional Review; leverage is her northern series; why-now left open).
   - **The data-ethics turn through Caro** (C44, Sat 9 May): home records go as district and day only.
   - **Superseded:** ID:78's "no second Caro–Elisabet scene", ID:80's exit wording, and ID:88's "her month is nearly up".
+  - **2026-10-28, later (§621):** the cone is planted in three beats (C13 Poydras well lid; C32 Caro throws it in the rig; C44, 9 May, she stands it back by Caro's door). The C39 admission is cut off by her, and the callback is restored in C39's pickle scene.
 
 END — ELISABET ARNARDÓTTIR IDENTITY CANON v1.1
