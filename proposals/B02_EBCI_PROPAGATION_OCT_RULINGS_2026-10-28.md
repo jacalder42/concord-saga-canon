@@ -204,3 +204,58 @@ The intake's pre-17 March question about similar episodes is now usable as Domin
 
 ### D15. E30's *her data underestimated the cluster* (§620 §3)
 The water signature gives no size, so the line implies an estimate it cannot make. Restate it as: her data gave no sign of its size.
+
+## Part 3. Applied (2026-10-28, §627)
+
+**Ruling:** `decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md` (§627): all of D1–D15 approved as recommended; D4 is option (a); D8 is at E02; D9 and D10 are new packets. Every `DESIGN pending` line (27 on 21 cards) is now an `Applied 2026-10-28 (§627, Dn)` line, which records the earlier wording where a brief field changed. Not committed.
+
+### Cards changed (21) and packets added (2)
+| Card | Items | Brief fields changed |
+|---|---|---|
+| E01 | D1, D14 | *Keep* (B01's ceiling). D14 is control-only and optional (no Wound chain). |
+| E02 | D8 | *Change*, *Keep*, *Exit state*; BT02. |
+| E05 | D4 (a), D5, D6, D7 | *Story job*, *Change*, *Keep*, *Exit state*; BT01; BT03 added (Lucien's repair). |
+| E10 | D2, D1 | *Story job*, *Change*, *Exit state*. |
+| E11 | D6 | *Keep*, *Exit state*; BT03 added (the logger). |
+| E14 | D2 | *Change*, *Exit state*. |
+| E17 | D2, D1 | *Want*, *Change*, *Keep*, *Exit state*; BT02. *Rhythm* is gone from the brief. |
+| E22 | D2, D13 | *Story job*, *Change*; BT01. D13 keeps the oblique objection; how the group knows the window is left to prose. |
+| E23 | D2 | *Change* (*will not clear a block on a number* is dropped). |
+| E26 | D2, D13 | *Change* (the grounds are the method's signs for who is exposed); the *Keep* occlusion stands. |
+| E29 | D2, D9 | *Exit state*, *Required consequence*; the D9 note points to E48. |
+| E30 | D15 | *Keep* (*her data gave no sign of the cluster's size*). |
+| E31 | D9 | *Change* (she knows Nyla was taken), *Keep* (the civic reckoning stays its job). |
+| E32 | D1 | *Keep* (the city's rule; those at the Square do not share it). |
+| E34 | D2, D10 | *Change*, *Keep*, *Exit state*; BT03 added (the footage). |
+| E37 | D10 option | Brief unchanged; a writer option (Arianna sees Lanette come to Seraphine). |
+| E38 | D3 | *Change*, *Keep*, *Exit state*; BT03 added (the minutes inside, argued). It is never confirmed, never used and never tied to Seraphine's gift. |
+| E43 | D10 option | Brief unchanged; a writer option (Lanette among Ramon's night riders). |
+| E44 | D11, D1 | *Want*, *Change*, *Keep*, *Exit state*, *Prohibited* (adds *Nyla showing any power*); BT02. *Required consequence* is unchanged. |
+| E45 | D12 option | Brief unchanged; a writer option (Lanette and Nyla at the night). |
+| E47 | D12, D2 | *Exit state* (the Dominion has lost Nyla for now; nobody calls it over). The D2 check passes. |
+| **E48 (new)** | D9 | `S1.T1.B02.A2.E48`, *The Taking*, POV Lanette, read after E29 and S03, before E30. |
+| **E49 (new)** | D10 | `S1.T1.B02.A3.E49`, *Where She Is*, POV Lanette, read after E37, before E38. |
+
+**Options marked [P] in the map.** The three *option [P]* rows (E37, E43, E45) were applied as **writer options** in the control layer, not as brief requirements. D13 has no recommended change, so the occlusion stands and naming the Dominion outright remains an author option. D4's open sub-points (whether she knows the Review is a front; how the outcome sits with Q-VB3) stay [P] in E05's Notes.
+
+### SIDs for the new packets
+B02 numbers its packets E01–E47 in reading order. It has no suffix or interstitial scheme, and the SID format (`E{00-99}`) admits none. Inserting the packets in sequence would renumber every card from E30 on (B01's relabelling to reading order came with a full redraft and a concordance, `ebci/B01/REDRAFT_CONCORDANCE.md`). So **nothing is renumbered**:
+- The packets take the next free numbers, **E48** and **E49**.
+- Each takes the act in which it is read: **A2** for the taking, after E29; **A3** for the recovery, after E37. This keeps them inside the right act band.
+- Each header's *Reading position* states where it is read.
+- Existing cards keep their *n of 51* positions. B02 is now 53 reading positions; the existing headers are not rewritten.
+
+### Grid, README, validator
+- **`grids/episode_beats.csv`:** six beat rows for the two new packets, four beat rows added (E05, E11, E34, E38) and five beat texts updated (E02, E05, E17, E22, E44). That gives 119 B02 rows.
+- **`ebci/README.md`:** the B02 line now reads 49 packets.
+- **`tools/validate_canon.py`:** no violations.
+
+**Rules kept:**
+- No death-tells in briefs (E49 carries Baz's guard in the control layer).
+- The paper behind the taking is offstage, and its grounds (the Pontalba footage) stay in the control layer.
+- The escape shows no power.
+- There is no funder–Dominion link.
+- The forecast is the Dominion's, and Baz's method finds the people.
+- The lexicon holds: breach and scar, never *Wound*, and *breathing* is unused.
+
+**Upstream rows still outside this scope:** `canon/cast_registry.csv` B23, B24 and C06 (as above).
