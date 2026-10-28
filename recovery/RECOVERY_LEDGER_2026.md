@@ -19213,4 +19213,10 @@ ever merged, its entries are renumbered with a note.
 - **Leaning:** the funder faction runs it, so the B03 funder reveal and the conversion are one revelation. Recommended reading (a): the faction escapes as "Concord", and its authorship surfaces in Loom as the co-opter's collapse.
 - **Open:** the time span (chat exports: about 3 years, non-canonical), the coercion mechanism, and the form of Caldas's defeat.
 
+## §626 — The funder runs Nyla's conversion; reading (a), 2026-10-28
+
+- Appended §4 to `decisions/NYLA_SAGA_PLACE_AUTHOR_RULING_2026-10-28.md`.
+- The funder faction runs the conversion, so the B03 funder reveal and the conversion are one revelation.
+- Virelli's leadership falls in Neon. The faction escapes as "Concord", and its authorship surfaces in Loom as the Concord's collapse.
+
 END RECOVERY LEDGER

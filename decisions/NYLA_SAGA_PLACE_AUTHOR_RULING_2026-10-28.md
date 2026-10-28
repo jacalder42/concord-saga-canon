@@ -36,3 +36,12 @@
   - On that span, Nyla (about 8 in B01) would be about 9–10 in Neon, so her Neon role is carried through Lanette and MT, not a teen POV.
 - **The coercion mechanism in B03.**
 - **The form of Caldas's defeat** (§624 §4).
+
+## 4. Ruled later (author, 07:57, "Agreed proceed"; ledger §626)
+- **The funder faction runs the conversion.** The B03 funder reveal (§624 §3) and Nyla's conversion are **one revelation**: the reader learns it in B03 before Baz dies, and the cast in B04.
+- **Reading (a) is adopted:**
+  - The public sees only "Dominion", and **Virelli's leadership falls in Neon** for the faction's program. This is the canon wane, Dominions.md:108–111.
+  - **The faction escapes the blame by co-opting the name "Concord".**
+  - **In Loom, the Concord's collapse is the day its authorship of the Nyla program comes out.** This places the co-opter's collapse, which was previously unplaced (BC9).
+- **Next:** the propagation pass (B02/B03 EBCI, then the Neon and Loom architecture) and the trilogy cards.
+
