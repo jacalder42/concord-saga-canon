@@ -19219,4 +19219,13 @@ ever merged, its entries are renumbered with a note.
 - The funder faction runs the conversion, so the B03 funder reveal and the conversion are one revelation.
 - Virelli's leadership falls in Neon. The faction escapes as "Concord", and its authorship surfaces in Loom as the Concord's collapse.
 
+## §627 — The propagation design items approved, 2026-10-28
+
+- New `decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md`.
+- Approved as recommended:
+  - B02 D1–D15;
+  - B03 D1–D9;
+  - every Neon/Loom design item, with the six defaults: Reykjavík by the grant's terms; Helena delivers M05; the Concord collapses in B08 A2; "several" in the fragment; Hope's attention is not action; Ren's people are M46's hands, with his return at B09 E47.
+- To be applied to the EBCI and the architecture next.
+
 END RECOVERY LEDGER
