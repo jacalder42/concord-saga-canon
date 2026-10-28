@@ -1,6 +1,6 @@
 # Nyla's place in the saga: four paths against canon (2026-10-28)
 
-**Status:** DESIGN analysis for the author. Nothing is ruled. §615 (taken in B02, Lanette-led recovery, escape on the E44 pulse) stands until the author rules. Ledger §624 §6.
+**Status:** DESIGN analysis. **Ruled 2026-10-28 (§625): 1-as-source + 3 + 5 (combination D).** See `decisions/NYLA_SAGA_PLACE_AUTHOR_RULING_2026-10-28.md`. §615 (taken in B02, Lanette-led recovery, escape on the E44 pulse) stands until the author rules. Ledger §624 §6.
 
 ## The author's paths
 1. **No role outside Veil.** She becomes a Dominion attempt to make a meta and is killed in the explosion that kills Baz, or is its source.

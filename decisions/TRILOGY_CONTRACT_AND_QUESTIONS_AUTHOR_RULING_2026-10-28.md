@@ -45,3 +45,5 @@ The author: "Nyla's importance has grown through B01 and her place in the saga i
 5. **She ends in Neon, as part of the fall of Dominion.**
 
 Analysis: `proposals/NYLA_SAGA_PATHS_2026-10-28.md`. **Nothing here is ruled.** §615 (taken in B02, escape on the E44 pulse) stands until the author rules.
+
+**Ruled later the same day (§625):** 1-as-source + 3 + 5. See `decisions/NYLA_SAGA_PLACE_AUTHOR_RULING_2026-10-28.md`.

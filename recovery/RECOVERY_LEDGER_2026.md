@@ -19201,4 +19201,16 @@ ever merged, its entries are renumbered with a note.
 - **Line 8** is reclassified as Dominion's wrong belief (10-14 knowledge map), not a reserved reveal.
 - **Nyla's saga place is open:** four paths, analysed in `proposals/NYLA_SAGA_PATHS_2026-10-28.md`. §615 stands until ruled.
 
+## §625 — Nyla's place in the saga, 2026-10-28
+
+- New `decisions/NYLA_SAGA_PLACE_AUTHOR_RULING_2026-10-28.md`.
+- **Ruled:**
+  - Nyla's forced conversion fails by leakage and is the source of the Warehouse Rupture (M08); Baz dies pulling her free (M10);
+  - she survives, converted, as a person (§48);
+  - her arc ends in Neon as the scandal that causes Dominion's wane; there is no Loom load;
+  - §615's B02 escape stands, and she is retaken by coercion in B03;
+  - the procedure stays off the page.
+- **Leaning:** the funder faction runs it, so the B03 funder reveal and the conversion are one revelation. Recommended reading (a): the faction escapes as "Concord", and its authorship surfaces in Loom as the co-opter's collapse.
+- **Open:** the time span (chat exports: about 3 years, non-canonical), the coercion mechanism, and the form of Caldas's defeat.
+
 END RECOVERY LEDGER
