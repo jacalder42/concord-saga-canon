@@ -123,8 +123,9 @@ Act I shows effects on bodies, balance, the eye, water, a hung weight, sound and
 | Hands stop mid-task (brief motor arrest), for several people at once | a strong region or a sharp step; seconds; afterwards only ordinary soreness from a hard grip, nothing lasting or person-specific | Ch 5, 6, 41 |
 | Panes crack and loose objects shift or fall; new plate before old glass | at sharp steps | Ch 24, 26, 27, 28 |
 | Hearing dulls or drops out for people inside (a perceptual effect: microphones and loggers record ambient sound normally throughout) | a strong, even region; bounded (about twelve blocks at most in B01) | Ch 36 (Act III) |
+| **Confined-aquifer wells lose most of their earth-tide response at once; a faint, faster variation remains** (added 2026-10-28, §620) | an interval of hours to days, before and around pulses; **citywide** (several independent wells); not seen in local-only events (E7) | public well records (the suppression); Elisabet's per-second loggers (the grain; the lead of 9 s or more, C32). A shallow well point shows only the grain and lead |
 
-**Does not:** move the ground (wells and pencils flat), register on electrical meters, react through animals, carry information, read minds, or leave anything written into a recording beyond the tone. The page never states this table. The most a character may reach by Ch 21 is "it steps; it does not shake" (14.1) and "it has an edge and a slope".
+**Does not:** move the ground (wells and pencils flat; the ground still tides, and only the water's response changes, §620), register on electrical meters, react through animals, carry information, read minds, or leave anything written into a recording beyond the tone. The page never states this table. The most a character may reach by Ch 21 is "it steps; it does not shake" (14.1) and "it has an edge and a slope".
 
 ## 11. Instrument independence (added 2026-10-15)
 - **Ch 10 amplifier:** the scene proves only that the note did not need the mains. Lucien's line names the battery, the boy's phone or something else. **16.3** removes the amplifier: the note is recorded over water with no amplifier or speaker present. **Amendment for 16.3:** two phones of different makes record it (Lucien's and Seraphine's), so the trace does not depend on one device's processing. Ch 32 (Caro's data) inherits both files.
@@ -136,3 +137,11 @@ Act I shows effects on bodies, balance, the eye, water, a hung weight, sound and
 - **Shared-load clause** ("comes where people carry one load together"): **contradicted** by the Sat 25 Apr empty lot and by the untold Ursulines control moving on Sat 2 May, while the told Lafitte control stays quiet.
 - **H9 overall:** still the working survivor; it **needs revision**; no character states it as a law. B01 ends with a partly wrong model, by design.
 - **Ch 36 result (perceptual hearing loss with normal microphone records):** the effect acts on the hearers' perception, not on sound in the air. This does **not** decide whether the cause is an external field or something people generate or shape (§8 stands).
+
+## 10A. Tentative mechanism for the well signature (added 2026-10-28, §620; ledger only, not for the page)
+- Loading changes how water responds before a breakthrough (§20, §42A.2). Mechanica §21's "strong amplification" is read as **preferential coupling**: the water couples to the load over the weaker tidal strain, so the tide is overridden, and the faint faster variation is the load itself.
+- **Coarse timing only:** the signature shows that a window is open. It never counts pulses or gives places.
+- The page never says storage or loading.
+- **February:** loading only; no breakthrough in New Orleans before 17 March; no signature dated to 17 March.
+- A character may hypothesise an influence external to people, unconfirmed (§619).
+

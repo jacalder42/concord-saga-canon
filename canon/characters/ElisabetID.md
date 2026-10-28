@@ -88,4 +88,13 @@
   month"* (C16) has a place to land. She is **not personally wealthy** (class position above); the money is
   institutional. **Option, not locked:** if her grant comes with strings, she recognizes the pattern fastest.
 
+- **Dated note, 2026-10-28 (author ruling; `decisions/B01_ELISABET_SIGNATURE_BREACH_LEXICON_AUTHOR_RULING_2026-10-28.md`; ledger §620):**
+  - **Current season:** a university-funded subsidence season, which is real, and also the cover for her own investigation. A looser resemblance in the public well data drew her. February is the first suppression she can stand behind.
+  - **First season:** in the far north (rural, unnamed, never Reykjavík, non-geothermal), funded by Hollen. "Anybody named" means the well owners. She sent the data and burned the notebooks. **Not an informant.**
+  - **The site** was a non-Wound breach, now a scar. She does not know that.
+  - **Her question:** *"why do the wells stop following the tide?"*
+  - **End of B01:** the Vienna consultation (the Regional Review; leverage is her northern series; why-now left open).
+  - **The data-ethics turn through Caro** (C44, Sat 9 May): home records go as district and day only.
+  - **Superseded:** ID:78's "no second Caro–Elisabet scene", ID:80's exit wording, and ID:88's "her month is nearly up".
+
 END — ELISABET ARNARDÓTTIR IDENTITY CANON v1.1

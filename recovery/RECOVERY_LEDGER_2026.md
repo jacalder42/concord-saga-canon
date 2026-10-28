@@ -19154,4 +19154,15 @@ ever merged, its entries are renumbered with a note.
 - **X1 / §615:** the rhythm gate stands; coordinated behaviour reducing harm may be shown.
 - **Follow-up ruled:** wounds escalate (the B01 clock). The Square has three surprises in order: a third pulse bigger than forecast; the edge moving mid-event; the connected seated crowd changing the event (observable, not understood). Nyla stays distinct. Nobody deliberately uses collective rhythm.
 
+## §620 — Elisabet's water signature, provenance, Vienna; the breach lexicon, 2026-10-28
+
+- New `decisions/B01_ELISABET_SIGNATURE_BREACH_LEXICON_AUTHOR_RULING_2026-10-28.md`.
+- Amended: Mechanica §42A (lexicon note); the mechanics ledger (a §10 row and §10A); ElisabetID; CaroID; B02 E05; §619 (wound → breach).
+- **Lexicon:** breach (an active local break, escalating) / scar (an old breach gone quiet) / Wound (the four, reserved).
+- **The water signature** enters B01 as an observation. **The mechanism** is tentative, ledger only, with coarse timing; it never counts pulses or gives places.
+- **February:** loading only. **The northern site:** a non-Wound breach, now a scar, on Dominion's map; Elisabet doesn't know.
+- **Vienna** is confirmed. **The C44 Caro scene** overrides ElisabetID:78 and the W19 count.
+- **The apology:** C39 admission → C44 apology → B02 E05 repair.
+- **Card question** reworded: "why do the wells stop following the tide?"
+
 END RECOVERY LEDGER

@@ -57,7 +57,7 @@ Characters may form wrong theories about any of these.
 5. **Discovery comes through failure, accident and argument,** not scheduled lessons (Mechanica §59: failure is story and must leave residue).
 
 ## 6. Ruled in follow-up (author, 2026-10-27)
-1. **Wounds escalate: yes.** A breakthrough leaves a local wound that makes that place more permeable, so later pressure there produces a more severe event. This is the B01 clock: a weakening system nearing a threshold. Dominion forecasts partly from its map of old wounds. Basis: §42A.2 "each break becomes a wound"; §31 "shard proximity"; §34 a fracture is a "persistent break".
+1. **Breaches escalate: yes.** (The term was *wound*; renamed **breach** in §620 to keep it apart from the four Wounds.) A breakthrough leaves a local breach that makes that place more permeable, so later pressure there produces a more severe event. This is the B01 clock: a weakening system nearing a threshold. Dominion forecasts partly from its map of old breaches and scars. Basis: §42A.2 "each break becomes a wound"; §31 "shard proximity"; §34 a fracture is a "persistent break".
 2. **The Square has three surprises beyond the forecast, each with its own job, in this order:**
    1. **The forecast works.** The first pulse comes and the preparations prevent injury, so the protagonists look competent.
    2. **Bigger than the forecast (the escalation).** Dominion's model predicts two pulses. A third comes, stronger and later, after the apparent all-clear. Dominion's forecasting is useful but incomplete.

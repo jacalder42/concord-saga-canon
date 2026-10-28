@@ -888,6 +888,8 @@ A hard cap is brittle:
 Stored pressure breaking through weak points produces the shard ladder (§34).
 Each break becomes a wound.
 
+> **Lexicon note, 2026-10-28 (author ruling; `decisions/B01_ELISABET_SIGNATURE_BREACH_LEXICON_AUTHOR_RULING_2026-10-28.md`; ledger §620):** a local break is a **breach**. It stays active, and later breaks there are worse. An old breach gone quiet is a **scar**. **Wound**, capitalised, is reserved for the four failure points of the cap (Santa Fe → Mound City → Serpent Mound → Honey Island). "Each break becomes a wound" above means a breach.
+
 Stabilising a wound under a hard cap is temporary, costly, and leaves a scar.
 
 Every hard cap eventually fails and requires a new soul.
