@@ -19177,4 +19177,10 @@ ever merged, its entries are renumbered with a note.
   - no Elisabet in C20, so the February record rests on C13:93;
   - C16:63 reading (a) holds.
 
+## §622 — §621 corrections (editing thread, 2026-10-28)
+
+- I6 C20:31–37 does have Elisabet (on TV: the monitoring pulled, an offer to buy her readings). The February record rests on C13:93 and C20:31–37.
+- The W19 callback is already in I6 at C39:107, so §621's restoration costs nothing.
+- Amended in §620 §8.
+
 END RECOVERY LEDGER
