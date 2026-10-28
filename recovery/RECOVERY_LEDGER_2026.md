@@ -19183,4 +19183,11 @@ ever merged, its entries are renumbered with a note.
 - The W19 callback is already in I6 at C39:107, so §621's restoration costs nothing.
 - Amended in §620 §8.
 
+## §623 — I7 brief gate: author rulings, 2026-10-28
+
+- Gate: `draft-notes/final-2026-10-18/CANON_GATE_I7_BRIEF_2026-10-28.md` (manuscript repo).
+- **Findings are protected:** each event keeps at least one aftermath finding line, and B-first compression never cuts it.
+- **The C01 lock is waived for PH-01 only:** one misnaming beat at the camp by someone other than Seraphine, with nothing marking a change in the room.
+- **SA-M8 is allowed:** Inez's C35 s1 POV is merged away.
+
 END RECOVERY LEDGER
