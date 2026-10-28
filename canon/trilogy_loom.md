@@ -10,7 +10,9 @@ TODO: ceilings and typical ranges.
 Choirless escalation; Brightbreak manipulation; panic factions.
 
 ## Key Locations
-NOLA → Santa Fe Scar → St. Louis (Mound City) → Serpent Mound → Honey Island Swamp.
+NOLA → Santa Fe → St. Louis (Mound City) → Serpent Mound → Honey Island Swamp.
+
+**Note (propagated 2026-10-28, §627, L8):** Santa Fe is **Wound 1** at author level, the first the crew stabilises (R620 §1: the four Wounds, capital W, reserved; Mound City and Serpent Mound follow, and Honey Island, the fragment's "first one", is last). It replaces *"Santa Fe Scar"*, which predated the lexicon. *Scar* means an old local breach gone quiet. The public never learns the four.
 
 ## Trilogy Lead
 Kade (Loom lead); Seraphine remains saga lead.
@@ -34,5 +36,3 @@ Kade (Loom lead); Seraphine remains saga lead.
   - The Concord collapses when its authorship of the Nyla program comes out (**RULED** §626).
 - **Lead's arc:** Kade, from righteousness to responsibility.
 
-## Lexicon note (§620)
-"Santa Fe Scar" under Key Locations predates the lexicon. Santa Fe is one of the four **Wounds**; *scar* means an old local breach gone quiet.

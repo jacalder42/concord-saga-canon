@@ -10,6 +10,8 @@ with reconciliation of existing material rather than a fresh draft."*
 
 > **Answered 2026-09-27** (`decisions/NEON_PASS3_MOBIUS_AND_EBCI_PREFLIGHT_AUTHOR_ANSWERS_2026-09-27.md`, ledger §201): *"N1-N12 as recommended"*, approved design; the three Neon pass-3 files are approved as provisional architecture. On N11 the author adds: *"I think we will need more Seraphine before we are done"*. The body below is unchanged.
 
+> **Propagated 2026-10-28 (§627, N1–N18).** The October rulings are applied to the three Neon architecture files below, not to this reconciliation's body (`proposals/NEON_LOOM_ARCHITECTURE_PROPAGATION_OCT_RULINGS_2026-10-28.md`, its "Applied" section; `decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md`). Where this body differs, the architecture governs. In particular, in the B04 row of the ruled-points table: **Helena, not Caldas Ren, delivers the M05 demand** (Q2; Caldas is defeated in B03), coloured by Virelli's suspicion of the faction; **B04 E06 is re-purposed as the split** (Elisabet), with Rex's Detroit content folded into E10. In the B05 row: **Act III gains a civic set-piece, the Nyla disclosure** (N12), and **the grant's terms send Elisabet to Reykjavík** (Q1). In the B06 row: **Virelli's leadership falls in A1** (a POL supplement), the faction speaks as "Concord", and "the wound pattern" reads **"the Wound pattern"** at author level; on the Neon page Santa Fe is never called a Wound and no count is given (R620 §1). The constraint "no Tahl VT contact in B04–B05" is unchanged: B04 E03 carries the B03 brush as memory only (N7).
+
 **It feeds three provisional architecture files:**
 
 - `proposals/B04_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md`

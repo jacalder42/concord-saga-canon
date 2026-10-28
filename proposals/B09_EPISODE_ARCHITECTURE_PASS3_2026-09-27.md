@@ -17,6 +17,8 @@ progressive-resolution order, from the Loom reconciliation
   scene (L8), the epilogue (L9), and **E02 re-owned Rex → Lucien** (L10).
 - The B01 EBCI hold stands.
 
+> **Propagated 2026-10-28 (§627).** The October rulings (§624–§626) are applied in place from `proposals/NEON_LOOM_ARCHITECTURE_PROPAGATION_OCT_RULINGS_2026-10-28.md`, approved as recommended (`decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md`; Q6 Ren Bellande's payoff is the E47 return). Each changed row or line carries its item tag (L1–L11). The ruled finale is not reopened. Approved design, Tier B; not ruled.
+
 **Codes:** as in B07. **Places:** Serpent Mound · the road south · the Gulf network · NOLA (the feint) ·
 NOLA-14 the Honey Island Approach · NOLA-11 Honey Island.
 
@@ -98,7 +100,7 @@ the swamp, and nobody else knows.
 | 27 | Thin | Kade | **The search thins; Elias is restless**; Kade is almost relieved | — | — |
 | 28 | What a Message Would Do | Elisabet | **She works out that any message forward would expose the route.** If a warning is needed, it goes on foot | Route Q8 (the constraint) | Sets up E36 |
 | 29 | The Last Warning | Seraphine | **Mira's last warning.** She still does not know the answer | M49 | — |
-| 30 | The Edge | Seraphine / NOLA-14 | **Act II close.** The edge of Honey Island. **Nobody knows but them** | **M51 holds** | Pays off `BC-HONEY-ISLAND-SITE`'s approach |
+| 30 | The Edge | Seraphine / NOLA-14 | **Act II close.** The edge of Honey Island. **Nobody knows but them.** **Dré's memory is present**: one line of job, no exposition, no origin (propagated 2026-10-28, §627, L6) | **M51 holds** | Pays off `BC-HONEY-ISLAND-SITE`'s approach |
 
 ## 3. Act III — The Mending (E31–E45)
 
@@ -114,22 +116,22 @@ is the rear action and the flare; the last cluster is the rest of the Mending.**
 | 34 | Hope Goes | Caro | **Hope gives herself to the Loom.** Caro feels her go, and does not yet understand | **M33** (Hope second) | Pays off `BC-HOPE-CARO` |
 | 35 | South, Fast | Kade | **The splinter races from New Orleans**, Elias in front. **Kade is driving them toward the people he loves** | The author's arc | — |
 | 36 | Go | Elisabet / the rear | **Rex tells her to go and warn the others.** A message would expose the route; she goes on foot | Route Q8; the 12-07 order | — |
-| **37** | **The Perimeter** | Rex | ***Penultimate cluster.*** **Brightbreak and the Choirless collide at the perimeter.** Kade tries to tell Elias to stop and let him talk to Rex (the author, `NS` 8599). **Elias attacks Rex anyway; Rex knocks him down** | **M52** (ruled); A4 | — |
+| **37** | **The Perimeter** | Rex | ***Penultimate cluster.*** **Brightbreak and the Choirless collide at the perimeter**, paying off pressure the reader has seen (B07 E28, E32; B08 E16; propagated 2026-10-28, §627, L5). Kade tries to tell Elias to stop and let him talk to Rex (the author, `NS` 8599). **Elias attacks Rex anyway; Rex knocks him down** | **M52** (ruled); A4 | — |
 | 38 | Kade | Kade | **Fearing Rex will kill Elias, Kade attacks Rex** | **M52** (ruled) | — |
 | 39 | Silence, Giving | **VT** | **Silence powers Tahl's echo** | **M33** (12-07: Silence powers the echo before he goes) | — |
 | 40 | The Flare | Rex | **Tahl's echo flares and stops Kade**: its one identifiable appearance. **Rex knows him** | **M52** (ruled) | **Pays off `BC-VT-BRUSH-LADDER`** (the fourth contact) and **`BC-REX-TAHL-SOURCE`** |
-| 41 | After the Flare | Kade | **He stops himself, talks Brightbreak down, and protects Rex from the others while Elisabet goes on** (the author, `MDR` 11347); he stands with Rex against the Choirless, who stay unresolved | **M52** (A4) | Sets up M35 |
+| 41 | After the Flare | Kade | **He stops himself, talks Brightbreak down, and protects Rex from the others while Elisabet goes on** (the author, `MDR` 11347); he stands with Rex against the Choirless, who stay unresolved. **Kade's half of the dramatic question is answered here: his stand** (§624; propagated 2026-10-28, §627, L1) | **M52** (A4) | Sets up M35 |
 | **42** | **Silence** | Lucien | ***Last cluster.*** **Silence gives himself to the Loom. Lucien understands, only now, that he must become a guide, and goes** | **M33** (Silence, then Lucien); **the price revealed at the Mending** (ruled) | Pays off `BC-LUCIEN-SILENCE`, `BC-LUCIEN-LISTENING` |
 | 43 | Elisabet | Elisabet | **She arrives after Silence and Hope have gone, before Caro.** The warning, and **their final moment**: Elisabet *"not broken but proud"* (the author, `BB` 9747) | **M33** (Elisabet's goodbye) | Pays off `BC-CARO-ELISABET-LADDER` |
 | 44 | Caro | Caro | **Caro becomes the other guide.** | **M33** (Caro last) | — |
-| 45 | The Loom | Seraphine | **After the goodbye.** **She understands the answer at the very end**: the veil held jointly, breathing. **Mira's echo is released.** The veil gives, and recovers | **M33**, **M49**, **M34**; §42A | **Pays off `BC-BOUNDED-RESPONSIBILITY`**; the author's *"the last episode … may be from Seraphine's pov after Caro and Elisabet say good bye"* |
+| 45 | The Loom | Seraphine | **After the goodbye.** **She understands the answer at the very end**: the veil held jointly, breathing. **Mira's echo is released.** The veil gives, and recovers. **Her answer, held jointly, is Line 8's inversion understood on the page: no first and no lever, the Veil held by many**; it answers the Loom mystery question (no) (propagated 2026-10-28, §627, L1, L10). **Guard:** no crowd staged and no rhythm confirmed beyond what Mechanica's B09 reveal allows | **M33**, **M49**, **M34**; §42A | **Pays off `BC-BOUNDED-RESPONSIBILITY`**; the author's *"the last episode … may be from Seraphine's pov after Caro and Elisabet say good bye"* |
 
 ## 4. Epilogue — A few days after (E46–E48, `EP`)
 
 | E | Title (working) | Owner / theater | Story job and turn | Milestone / obligation | Sets up / pays off |
 | --- | --- | --- | --- | --- | --- |
 | 46 | After the Breath | Elisabet / the swamp | **She goes back to the swamp.** Post-Mending conditions: less hostile, measured, **not utopian** (the author: *"perfectly imperfect"*). **By daylight, as Elisabet's; macro axis 5 governs E48's cut only** (L7, approved 2026-09-27) | **M34**; **D10** (ruled: a few days) | — |
-| 47 | The Holochat | Kade / the Velvet Vein | **Elisabet and Rex call Kade and Lacuna.** **MT continues under a new MT-initialled name** (the name is deferred, D12); **Kade starts reintegrating the rebellion's people** | **M35** (ruled) | Pays off Kade's arc |
+| 47 | The Holochat | Kade / the Velvet Vein | **Elisabet and Rex call Kade and Lacuna.** **MT continues under a new MT-initialled name** (the name is deferred, D12); **Kade starts reintegrating the rebellion's people**, **Ren Bellande among them**: Ren's required Loom payoff is a return, not a punishment (§627 L11 / Q6). **The name "Concord" is free again for the loose network**; the entity's name itself stays deferred (D11; SL §7) (§627 L2) (propagated 2026-10-28) | **M35** (ruled); Ren (A09, "payoff required in Loom"); Concord step 8 (coda) | Pays off Kade's arc and Ren's |
 | 48 | The Conversation Under the Sky | Kade / the Vein rooftop | **Kade writes his first post after the Mending, hesitates, and Lacuna presses post for him.** They look up; she says the stars look like they are talking. **A message request, with only a small triangle.** **He can answer. The saga ends before he does.** **Every callback unpointed; no echo of the fragment's wording** (L7, approved 2026-09-27) | **M53** (ruled); the macro-Möbius (five axes, approved) | **Pays off `BC-MACRO-MOBIUS-SKY` and `BC-TAHL-SIGNATURE-TRIANGLE`** |
 
 **S02** (after E46): **MT continues after the Mending, as the rebellion's people read it** (corrected 2026-09-27, L7: it was *"Kade's first post-Mending MT post"*, which contradicted E48).
@@ -142,7 +144,8 @@ is the rear action and the flare; the last cluster is the rest of the Mending.**
 | --- | --- |
 | **Ruled** | M48 (E01); M50 (E17–E18); **M51: the site learned only in A3** (E33); M52 in order (E37–E41); **M33's order**: Seraphine (E32) → Hope (E34) → Silence after powering the echo (E39, E42) → Lucien (E42) → Elisabet's goodbye (E43) → Caro (E44); Mira released (E45); M35, M53 and D10 in the epilogue; **flare = penultimate cluster, Mending = last** |
 | **Approved design** | The remnant as pursuer; sparks without price or farewell; the recommitment; the guide relationships (E10, E11, E13); Lacuna's feint; the Mending as the signal; the rear approach; Elisabet on foot under a real constraint; the perimeter collision and Kade's stand |
-| **Protected** | **No price previewed**: Seraphine believes it is hers (E25); Lucien and Caro learn their part at the Mending (E42, E44). **The answer arrives at the very end** (E45). The epilogue shows no Tahl: **the triangle implies him**. Lacuna does not name the Thread |
+| **Protected** | **No price previewed**: Seraphine believes it is hers (E25); Lucien and Caro learn their part at the Mending (E42, E44). **The answer arrives at the very end** (E45). The epilogue shows no Tahl: **the triangle implies him**. Lacuna does not name the Thread. **No Nyla** (§625: her arc ends in Neon; propagated 2026-10-28, §627, L3) |
+| **Trilogy answers (§624; §627 L1)** | Mystery: **no** (E45; the Veil held jointly, the price not Seraphine's alone). Dramatic: the circuit closes with Honey Island last (E32–E45); **Kade's stand** answers his half (E41) |
 | **D5 cards owed** | The Mending's steps (E32–E45); the flare (E40); Silence powering the echo (E39); post-Mending conditions (E46) |
 | **Thin spots** | **Seraphine at 27% in B09**, because the ruled Mending gives each person their own moment. **Loom as a whole: 30%.** **Kade 19%** in B09, **22% across Loom**, under his band as trilogy lead |
 

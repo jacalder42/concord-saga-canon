@@ -215,5 +215,9 @@
       "requires": "M14",
       "from_book": "B04"
     }
-  ]
+  ],
+  "_concord_propagation_2026_10_28": {
+    "_status": "APPROVED DESIGN, 2026-10-28 (author: 'Approve all as recommended'; decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md, ledger §627), from proposals/NEON_LOOM_ARCHITECTURE_PROPAGATION_OCT_RULINGS_2026-10-28.md §3.2. Hand-authored; tools/derive_book_context.py does not touch this key. Not ruled.",
+    "this_book": "Propagated 2026-10-28 (§627, N3, N4, N5; approved design, not ruled; proposals/NEON_LOOM_ARCHITECTURE_PROPAGATION_OCT_RULINGS_2026-10-28.md; decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md). B06: Concord step 5, the escape: a new A1 POL supplement (after E07) has Virelli's leadership fall, framed as accountability for the B05 scandal; 'Concord' steps into the vacuum (R626); Lucien receives it at E08 as a remote receipt. By B06's end Dominion's institutional legitimacy has gone, its doctrines persist, and 'Concord' holds the name. Nyla's name is restored on paper (E19 or E28); her arc closes with no Loom hook."
+  }
 }

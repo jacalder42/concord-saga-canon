@@ -435,3 +435,31 @@
 3. N3 and N12 (B05 Act III), then the B06 placements (N4, N8–N10).
 4. **After Q3 and Q4:** L1, L2, L4–L7, L9–L12.
 5. Update BX4–BX9 `this_book` in the Concord keys, then the GRID notes (M10, M20, M39, M45).
+
+---
+
+## Applied (2026-10-28, §627)
+
+Every MECH and DESIGN item is applied as recommended, with the six defaults of `decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md` (Q1 option a; Q2 Helena; Q3 B08 A2, E27; Q4 "several", four inferred at B07 E26 and confirmed at B08 E18; Q5 attention, not action; Q6 Ren's people, with the B09 E47 return). The files keep no struck history, so changed text is replaced in place and tagged **"propagated 2026-10-28 (§627, Nx/Lx)"**; each architecture file also carries a dated header note. Approved design (Tier B), not ruled. Not committed. `ebci/` untouched.
+
+| File | Changed (episode, section or key) | Items |
+| --- | --- | --- |
+| `proposals/B04_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md` | Header note; §0 entry state, trilogy questions, entry-point line, POV (Rex 5, Elisabet 4); E01 (note), S01, E02, E03, E04, **E06 re-purposed "The Split" (Elisabet)**, E07, E08, E10 (absorbs Rex's Detroit content), E15, **E16 (Helena)**, E25, E27, E29 (optional), E30 (recorded), E41; §4 Approved, Protected, Thin spots; §5 exit (circle, Nyla, "Concord") | N1, N1b, N2, N3, N4, N5, N7, N11, N14, N15, N16, N17 |
+| `proposals/B05_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md` | §0 (Act III civic set-piece; header note); E05, E08, E10 (the grant's terms), E21, E31 (the camp's edge), E34, E41, E44, E45; S02 ("Concord volunteers"); §4 Approved, Protected (Nyla guards; N18 Reykjavík guard), Thin spots; §5 exit | N3, N5, N6, N7, N12, N15, N18, L10, L11 |
+| `proposals/B06_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md` | Header note; §0 trilogy questions, lexicon note (Santa Fe Wound 1 at author level; never so on the Neon page), scale (4 supplements); **new S-POL after E07** (Virelli falls; Concord step 5); E08, E19 (Nyla's name restored; or E28), E21 (elders' corridor), E26, E28, E42, E45 (Hope's attention), E47; §5 Approved, Protected, D5; §6 exit (Dominion, Nyla, answers, Rupture, Hope) | N1, N3, N4, N5, N6, N8, N9, N10, N13, N14, L7 |
+| `proposals/B07_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md` | Header note; §0 Wounds, trilogy questions, entry state; E08, E10, E16 (Kade's half; the triangle), E17, E19, E26 (four inferred), E28, E32; §4 Protected (No Nyla), lexicon condition (Warehouse scar); §5 exit | L1, L2, L3, L4, L5, L6, L7, L8, L12 |
+| `proposals/B08_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md` | Header note; §0 and Act I lexicon sweep (Wound); E05, E08 ("a breach, not the origin"), E10, E13, E14, E16 (Ren's people; Choirless foil), E18 (four confirmed), E20, E23 (Holt's file), **E27 (Kade publishes the authorship)**, **new S02 (POL) after E27**, Mound City glimpse, E33, E41, E42 (decisive), E43 (answer beat); §4 Approved, Protected; §5 exit | L2, L3, L4, L5, L7, L8, L9, L10, L11 |
+| `proposals/B09_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md` | Header note; E30, E37, E41, E45, E47 (Ren's return; the name free); §5 Protected (No Nyla), trilogy answers | L1, L2, L3, L5, L6, L10, L11 |
+| `proposals/NEON_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-27.md` | Dated header note: the architecture governs; Helena for Caldas, the split, the B05 set-piece, Q1, Virelli's fall, Wound lexicon | N2, N4, N12, N14, N16 |
+| `proposals/LOOM_RECONCILIATION_FOR_EPISODE_ARCHITECTURE_2026-09-27.md` | Dated header note: Wound lexicon (incl. answer L2's finding and public version), Q3, Q4, Q6, no Nyla | L2, L3, L7, L8, L11 |
+| `book_context/book_context_B04.json` | `_concord_funder_thread_2026_10_18.this_book`, `_concord_open_items_answers_2026_10_18.this_book` (old text kept as `this_book_was_before_2026_10_28`) | N2, N4, N5, N15, N16 |
+| `book_context/book_context_B05.json`, `book_context_B06.json` | New hand-authored key `_concord_propagation_2026_10_28` (they had no Concord key) | N3, N4, N5, N12 |
+| `book_context/book_context_B07.json`, `B08.json`, `B09.json` | `_concord_cooption_collapse_2026_10_18.this_book` (old text kept as `this_book_was_before_2026_10_28`) | L2, L10, L12 |
+| `grids/milestones_payoffs.csv` | M10 (note: Nyla); M20, M39, M45 (description "Wound", with "Was:"); M05, M46, M47, M53 (dated notes) | N4, N14, N16, N17, L4, L7, L8, L11 |
+| `canon/trilogy_loom.md` | Key Locations "Santa Fe Scar" → "Santa Fe", with a note (Wound 1 at author level); the §620 lexicon note removed | L8 |
+| `canon/factions/Dominions.md` | Dated note: B04 rung, Helena's M05, Virelli's fall in B06 A1, the five Concord steps, the B08 A2 collapse | N4, N5, N16, L2 |
+| `canon/characters/ElisabetID.md` | Dated note: the Reykjavík route via the grant's terms; the R620 §5 guard | N15 / Q1, N18 |
+
+**Not applied here (outside the named targets, noted only):** SL 10.6 relabel and 10.7 withdrawal (L3, L10) in `reports/TRILOGY_SHEET_LOOM_2026-10-28.md`; MX D5–D7 closures; the `canon/cast_registry.csv` B24 guard superseded by §625 (N17). **Owed:** the D5 card for the Santa Fe elders' corridor (B06 E21, N10).
+
+**Checks:** JSON valid (`python -m json.tool`, B04–B09); CSV parses (60 rows × 20 fields); `tools/derive_book_context.py --check`: no drift; `tools/validate_canon.py`: no violations; `tools/test_validate_canon.py`: 171 tests OK.

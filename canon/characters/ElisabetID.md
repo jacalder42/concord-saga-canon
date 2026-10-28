@@ -98,4 +98,10 @@
   - **Superseded:** ID:78's "no second Caro–Elisabet scene", ID:80's exit wording, and ID:88's "her month is nearly up".
   - **2026-10-28, later (§621):** the cone is planted in three beats (C13 Poydras well lid; C32 Caro throws it in the rig; C44, 9 May, she stands it back by Caro's door). The C39 admission is cut off by her, and the callback is restored in C39's pickle scene.
 
+- **Dated note, 2026-10-28 (approved design, not ruled; `decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md` Q1, ledger §627; `proposals/NEON_LOOM_ARCHITECTURE_PROPAGATION_OCT_RULINGS_2026-10-28.md` N15 option a): the route to Reykjavík runs through the grant's terms.**
+  - In B04 E06 ("The Split") she signs for the network's open money: Nordic civil-protection funding with written conditions. **One condition is that the comparison work is done in Reykjavík.**
+  - In B05 E10 **the grant's terms pull her north.** She recognizes the strings as a funder's leash (the 10-18 option above) and accepts them knowingly. The network's money continues under her signature at a distance; local mutual aid carries the day-to-day.
+  - This supersedes the 10:02 note's *"It gives her a reason to stay in New Orleans"*: the money is now the reason for the route. The approved routes stand (Reykjavík from B05 A1 through B06).
+  - **Guard (R620 §5):** her Reykjavík comparison never links her northern scar to the Southwest and never counts sites; the northern site is never Reykjavík city.
+
 END — ELISABET ARNARDÓTTIR IDENTITY CANON v1.1

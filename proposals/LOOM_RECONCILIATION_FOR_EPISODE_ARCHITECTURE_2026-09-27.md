@@ -14,6 +14,8 @@ order (`decisions/PROGRESSIVE_RESOLUTION_SEQUENCE_AUTHOR_INSTRUCTION_2026-09-27.
 **Answered 2026-09-27: L1–L14 as recommended, approved design** (`decisions/LOOM_PASS3_AND_B01_PRERELEASE_AUTHOR_ANSWERS_2026-09-27.md`, ledger §205).
 L2 answers deferred D4; L3 ends the B08 end-sequence deferral (Clock A); L7 answers route Q9.
 
+> **Propagated 2026-10-28 (§627, L1–L12).** The October rulings are applied to the three Loom architecture files above, not to this reconciliation's body (`proposals/NEON_LOOM_ARCHITECTURE_PROPAGATION_OCT_RULINGS_2026-10-28.md`, its "Applied" section; `decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md`). Where this body differs, the architecture governs. In particular: **lexicon (R620 §1)**: the four sites are **Wounds** (the superseded-lineage row "All three wounds in B07" reads "Wounds"); answer L2's finding reads "the **Wound** shows the old way failing; it is a **Wound**, not where it began", and its public version is **"a breach, not the origin"**; the public never learns the four. **The fragment says "several"**; four is inferred at B07 E26 and confirmed at B08 E18 (Q4). **The Concord collapses in B08 Act II** (E23 receipt → E27 MT post → S02; Q3). **Ren Bellande's people are M46's hands**, and his payoff is the B09 E47 return (Q6). **No Nyla in Loom** beyond the Concord's authorship coming out (§625).
+
 **What it does not change:** no ruling, row, card, rule or `recovery/` file. **No recovered material is
 deleted or replaced**; superseded lineages stay where they are. The B08 end-sequence deferral and the
 B01 EBCI hold stand.

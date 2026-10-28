@@ -129,5 +129,9 @@
       "requires": "M10",
       "from_book": "B03"
     }
-  ]
+  ],
+  "_concord_propagation_2026_10_28": {
+    "_status": "APPROVED DESIGN, 2026-10-28 (author: 'Approve all as recommended'; decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md, ledger §627), from proposals/NEON_LOOM_ARCHITECTURE_PROPAGATION_OCT_RULINGS_2026-10-28.md §3.2. Hand-authored; tools/derive_book_context.py does not touch this key. Not ruled.",
+    "this_book": "Propagated 2026-10-28 (§627, N3, N5, N12; approved design, not ruled; proposals/NEON_LOOM_ARCHITECTURE_PROPAGATION_OCT_RULINGS_2026-10-28.md; decisions/PROPAGATION_DESIGN_APPROVAL_AUTHOR_RULING_2026-10-28.md). B05: Concord step 4, the drift: S02 (the Chicago after-action record) credits Caro's handoff to 'Concord volunteers'. Act III's civic set-piece is the Nyla disclosure (E41 Lanette and Nyla choose to go public; E44 MT publishes Lanette's consented testimony and the paper trail through Hollen, known against inferred; the procedure is never shown). 'Dominion' is blamed. Step 5, the escape, begins at E44-E45: 'Concord' condemns 'Dominion'. Elisabet is in Reykjavík on the grant's terms (E10; §627 Q1)."
+  }
 }
