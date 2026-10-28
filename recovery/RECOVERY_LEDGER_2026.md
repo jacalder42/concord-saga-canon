@@ -19228,4 +19228,23 @@ ever merged, its entries are renumbered with a note.
   - every Neon/Loom design item, with the six defaults: Reykjavík by the grant's terms; Helena delivers M05; the Concord collapses in B08 A2; "several" in the fragment; Hope's attention is not action; Ren's people are M46's hands, with his return at B09 E47.
 - To be applied to the EBCI and the architecture next.
 
+## §628 — The propagation pass applied, 2026-10-28
+
+- **B02 EBCI:**
+  - §627 D1–D15 in 21 cards;
+  - new packets S1.T1.B02.A2.E48 (the taking; POV Lanette) and S1.T1.B02.A3.E49 (the recovery; POV Lanette);
+  - 49 packets.
+- **B03 EBCI:**
+  - D1–D9 in 28 cards;
+  - the sibling thread cut; the child is Nyla;
+  - **Caldas's defeat is ruin through exposure** (E21 record → E28 Dominion takes back his rein and place → E30 his revenge routes the faction's dawn booking to Baz). This is a writer-thread choice; the author may override.
+- **Neon and Loom:** the B04–B09 architecture, book_context, the milestone grid (the Wound lexicon; notes on M05, M10, M46, M47, M53), trilogy_loom (Santa Fe), and the Dominions and ElisabetID notes.
+- **Validator:** no violations; 171 tests OK; book_context shows no drift.
+- **Still owed:**
+  - the B06 E21 elders'-corridor card (D5);
+  - the cast_registry B24 row and the Lanette, Nyla, Strobl and Caldas registry rows;
+  - the BC-NYLA-NEON breadcrumb;
+  - the coercion mechanism (open);
+  - the trilogy-sheet relabels.
+
 END RECOVERY LEDGER
