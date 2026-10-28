@@ -19190,4 +19190,15 @@ ever merged, its entries are renumbered with a note.
 - **The C01 lock is waived for PH-01 only:** one misnaming beat at the camp by someone other than Seraphine, with nothing marking a change in the room.
 - **SA-M8 is allowed:** Inez's C35 s1 POV is merged away.
 
+## §624 — The trilogy contract and questions; the funder; Caldas; Line 8, 2026-10-28
+
+- New `decisions/TRILOGY_CONTRACT_AND_QUESTIONS_AUTHOR_RULING_2026-10-28.md`.
+- **Adopted:**
+  - the five-rule trilogy contract;
+  - the Veil, Neon and Loom mystery and dramatic questions;
+  - the funder reveal: reader in B03, cast in B04.
+- **Caldas:** defeated in B03, his revenge still lands through the coordinates kill; whether the plan predates his defeat is open.
+- **Line 8** is reclassified as Dominion's wrong belief (10-14 knowledge map), not a reserved reveal.
+- **Nyla's saga place is open:** four paths, analysed in `proposals/NYLA_SAGA_PATHS_2026-10-28.md`. §615 stands until ruled.
+
 END RECOVERY LEDGER
