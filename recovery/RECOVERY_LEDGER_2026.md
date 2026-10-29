@@ -19281,4 +19281,18 @@ ever merged, its entries are renumbered with a note.
 - **B8.2:** a hint only, signed off.
 - **Couillon:** C06, C15 and C42 (style sheet).
 
+## §632 — Term change: "the Review" → "the Vienna desk", 2026-10-29
+
+- New `decisions/TERM_VIENNA_DESK_AUTHOR_DIRECTION_2026-10-29.md` (author-directed; B02/B03 follow by the writer thread's decision).
+- In narration and speech Lucien's Vienna office is **"the Vienna desk"** ("the desk" where unambiguous), defined once at B01 C04:179. **"Regional Review"** is on paper only. Canon fact unchanged (§617; §620 §6). C34:178 (I7.2): "Vienna writes it and the City paints it. The Vienna desk is their post office." supersedes the §630 wording.
+- **Canon repo, living documents changed (6):** `ebci/B02/S1.T1.B02.A1.E05.md` (Story job, Change, Keep, Exit state; Notes line); `ebci/B02/S1.T1.B02.A1.E11.md` (control-choice note; Notes line); `canon/factions/Dominions.md` (post-office line at the City and Dominion note; dated note); `canon/characters/LucienID.md` (two living references; dated note); `canon/characters/ElisabetID.md` (dated note); `canon/characters/BazID.md` (dated note).
+- **Manuscript notes changed (2):** `draft-notes/final-2026-10-18/B01_HOLDS_REGISTER.md` (L6, A-I7, the I7-pass post-office line, the §630 post-office ruling and the S6/P16 Pryor ruling, history struck; new section); `draft-notes/rewrite-2026-10-14/STYLE_SHEET_B01.md` (names table row).
+- **Checked, no change:** `ebci/B03/*` (only "Review C04" pass references); `proposals/B04`–`B09_EPISODE_ARCHITECTURE_PASS3_2026-09-27.md` and `proposals/NEON_LOOM_ARCHITECTURE_PROPAGATION_OCT_RULINGS_2026-10-28.md` (no use of the term). Historical files in `decisions/` and `recovery/` are records and were not edited.
+
+## §633 — Standing rule: Exact-line clarity rewording, 2026-10-29
+
+- New `decisions/EXACT_LINE_CLARITY_REWORD_RULE_AUTHOR_RULING_2026-10-29.md`.
+- An Exact or required line may be reworded for clarity with author approval if its function, key phrase and callbacks survive. The writer gate checks all three.
+- First applications: C34:178, C38:55 and C41:273 (I7.2).
+
 END RECOVERY LEDGER

@@ -104,4 +104,6 @@
   - This supersedes the 10:02 note's *"It gives her a reason to stay in New Orleans"*: the money is now the reason for the route. The approved routes stand (Reykjavík from B05 A1 through B06).
   - **Guard (R620 §5):** her Reykjavík comparison never links her northern scar to the Southwest and never counts sites; the northern site is never Reykjavík city.
 
+- **Dated note, 2026-10-29 (author-directed term change; `decisions/TERM_VIENNA_DESK_AUTHOR_DIRECTION_2026-10-29.md`; ledger §632): the Vienna desk.** Her Vienna consultation (end of B01; B02 E05) is with **"the Vienna desk"** in narration and speech (defined at B01 C04:179), no longer "the Review". **"Regional Review"** stays for paper only: the invitation letter, forms and letterheads. Canon fact unchanged: the Hollen Institute's Regional Review in Vienna, a Dominion front (§617), the body that invites her (§620 §6). B02 and B03 follow.
+
 END — ELISABET ARNARDÓTTIR IDENTITY CANON v1.1
