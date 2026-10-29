@@ -19273,4 +19273,12 @@ ever merged, its entries are renumbered with a note.
 - **Pryor seams fixed:** C26 and C28.
 - **Paper-zero cuts accepted.** Tante Colette's name is kept for B02 or B03.
 
+## §631 — I7.1 clarity pass: canon items, 2026-10-29
+
+- New `decisions/B01_I71_CLARITY_PASS_CANON_2026-10-29.md`.
+- **Lanette is the woman in scrubs** (C05:91, C10:95, recognised at C25:107; author-approved). Registry B23 is updated, and B02/B03 are consistent.
+- **The Houston funder** stays a reader-level suspicion only; signed off against §617 r3 and §624 §3.
+- **B8.2:** a hint only, signed off.
+- **Couillon:** C06, C15 and C42 (style sheet).
+
 END RECOVERY LEDGER
