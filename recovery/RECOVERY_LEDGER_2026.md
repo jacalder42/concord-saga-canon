@@ -19303,4 +19303,19 @@ ever merged, its entries are renumbered with a note.
 - **B02 E13:** "since he has never seen one of the cases" is cut (false against B01).
 - **The B01 beta text is locked:** gated I7.2P, sha256 305c48a793cd, 119,158 words (manuscript repo `B01/BETA_2026-10-29/`).
 
+## §635 — I8 gate: canon items, 2026-10-29
+
+- New `decisions/B01_I8_GATE_AUTHOR_RULINGS_2026-10-29.md`. Basis: the writer thread's canon memo (manuscript `draft-notes/final-2026-10-18/CANON_MEMO_I8_2026-10-29.md` §3), adjusted by the author's rulings of 2026-10-29.
+- **Watcher interludes (W-I8, provisional):** held as written pending beta-reader response; the memo's C10, C36 and C42 page fixes are not applied. Open conflicts recorded: C10 "where he could reach it quickly" and C42 "did not tell her what it was for" (intent before B06); C36 "held the woman" (collecting the dead, M21). BC-SILENCE-HOPE-OBSERVE notes updated.
+- **X3 lifted (author, 18:05, "Naming them in 42 is fine."):** Silence and Hope may be named from the C42 interlude; the Epilogue echoes them (F7 unchanged). F6 stands for the Prologue. **Supersedes §595's "the Epilogue naming stands alone".**
+- **W17 (I8):** C30 Baz, C38 Lucien, C40 Seraphine; C34 "The column was mine." is an admission. **P10 (I8):** the C12 anchors are cut; first spoken "Dominion" is Baz's, C14:63.
+- **Pryor (P16/S6, author latitude):** C26:167 softened ("The cream shoes came in, in the afternoon. By six Marius was asking for it."); her buyer is a reader-level hint only, never known to the cast; backers and employer stay unexplained; a sale is not ownership. §630's Pryor bullet amended. Registry B41/B42; B02 E08 and E13 notes. Recorded under §633.
+- **Hazel absorbs Pearl:** registry B33 amended, B35 retired and merged into B33, new row in `canon/cast_retired_aliases.csv`.
+- **Clause eleven:** C04:177 now reads "a call declined, or a posting suspended" (gated I8); LucienID note. **C38:77:** "His Lacombe form had been a Monday." (gated I8).
+- **The encrypted Veil folder (C17:73):** BazID ("never opened" and the C11 locator corrected) and Dominions.md notes. **C39 notebook burning cut:** ElisabetID note. **C26:151:** B03 E12 control note.
+- **Locked-scene trims accepted:** C09 S4, C10 S2–3, C18 S3, C41 S1; seams restored at C09 and C10. **C28 "Money."** stays Seraphine's.
+- **Checked, no change:** the death date at C44:47 (a record-date; X-FT); the barbecue guard (C39; §620 §4); the C24 and C35 interludes.
+- **The B01 beta text moves to I8** (author, 18:05): manuscript `B01/BETA_I8_2026-10-29/` (ddd55d1c6212). Supersedes §634's lock on gated I7.2P.
+- **Manuscript notes changed:** `draft-notes/final-2026-10-18/B01_HOLDS_REGISTER.md` (new "I8 gate" section; pointers on W17, F6, P10, P13, S6, X3, A-I7, the I7-pass W17/P10/P16 and the §630 Pryor bullet); `B01/spineC-2026-10-24/CALLBACKS_ACT2_3.md`; `B01/act1-trial-2026-10-22/CALLBACKS_ACT1.md`; `draft-notes/rewrite-2026-10-14/STYLE_SHEET_B01.md`; `draft-notes/final-2026-10-18/LOCATION_BIBLE_B01.md`.
+
 END RECOVERY LEDGER
