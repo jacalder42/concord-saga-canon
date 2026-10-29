@@ -19295,4 +19295,12 @@ ever merged, its entries are renumbered with a note.
 - An Exact or required line may be reworded for clarity with author approval if its function, key phrase and callbacks survive. The writer gate checks all three.
 - First applications: C34:178, C38:55 and C41:273 (I7.2).
 
+## §634 — I7.2 polish items; B01 beta text locked, 2026-10-29
+
+- **W5:** the device under the Poydras well lid (C13:101) is Elisabet's own yellow logger, not a network case. Her loggers are yellow on the page (C18, C39); the network's are gray cases.
+- **D3:** the C28 jack nearly fell through an ordinary mechanism (the case's cable round the jack). Whether Curtis rigged it on purpose stays open. The phenomenon is not implicated, and the fear that the gray cases cause the events is rumour only (Gwen C25, Sal C28).
+- **W4:** the scar man (Curtis) is the second C03 visitor (call times), not the lawyer "representing a foundation". No foundation tie.
+- **B02 E13:** "since he has never seen one of the cases" is cut (false against B01).
+- **The B01 beta text is locked:** gated I7.2P, sha256 305c48a793cd, 119,158 words (manuscript repo `B01/BETA_2026-10-29/`).
+
 END RECOVERY LEDGER
