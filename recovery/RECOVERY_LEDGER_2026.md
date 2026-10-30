@@ -19348,3 +19348,16 @@ END RECOVERY LEDGER
   - It complies with P15/X6.
   - Still open: the series line on the B01 cover.
 - **The series line:** none on B01 (the author, 2026-10-29 23:15 CT). The build header is now "Screen Door Eulogy", and the I8.1 gated build is 9d549dcac9da (header change only).
+
+## §637 — B01 I9 gate (Screen Door Eulogy, structural round), 2026-10-30
+
+- **New:** `decisions/B01_I9_GATE_AUTHOR_RULINGS_2026-10-30.md`.
+- **Gated I9:** manuscript `B01/spineC-2026-10-24/versionI9/gated/`.
+  - Final build **ffee5ed077f4**, 101,316 words.
+  - Five canon or seam fixes, plus the W19 restoration.
+  - No B02+ breaks.
+- **Exact:** the 47-item reconciled list is adopted, with #42 made Precise and #44 kept on the canon basis of B02 E08:65.
+- **Author rulings:**
+  - W19's yard line is restored at C29.
+  - The lexicon bar on ordinary uses of "loading", "storage" and "scar" is lifted. Whether the lift covers the resonance sense is open, so the §620 resonance bar stands until the author confirms.
+- **Maintenance owed:** the B02/B03 card anchors move to the new numbering; the Lacombe-form and P10 notes are stale (see the decision).
