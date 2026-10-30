@@ -19361,3 +19361,14 @@ END RECOVERY LEDGER
   - W19's yard line is restored at C29.
   - The lexicon bar on ordinary uses of "loading", "storage" and "scar" is lifted. Whether the lift covers the resonance sense is open, so the §620 resonance bar stands until the author confirms.
 - **Maintenance owed:** the B02/B03 card anchors move to the new numbering; the Lacombe-form and P10 notes are stale (see the decision).
+
+## §638 — B01 voice and lexicon rulings; I9.1 mini-gate, 2026-10-30
+
+- **New:** `decisions/B01_VOICE_AND_LEXICON_AUTHOR_RULINGS_2026-10-30.md`. ElisabetID gets a note.
+- **Rulings:**
+  - **W10:** soft, applied after the beta.
+  - **Elisabet:** uncontracted when professional; contractions allowed when flustered or comfortable.
+  - **"loading", "storage" and "scar":** allowed in every sense, the resonance sense included (this closes §637's open item).
+    - Each resonance-sense use is flagged, and the gate checks it against the cap (§584), the meta-storage line (§48/§625), the site rule and S-well.
+    - "Wound" (as the reserved term for the four) and "breathing" stay reserved.
+- **I9.1 mini-gate:** the base is gated I9 ffee5ed077f4. Three craft hunks (C34:177, C35:55–57, C40:171) all pass, with no fixes. The build is fe8f9c3412c8 (d57ce268bc9e with plain datelines), 101,314 words. The beta kit is built from I9.1.
