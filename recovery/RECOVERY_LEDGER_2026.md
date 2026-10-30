@@ -19344,3 +19344,6 @@ END RECOVERY LEDGER
   - **Rule 3:** provisional until the beta; the three lines are held.
   - **The §615 Epilogue line:** the wording is freed and the meaning kept.
   - **C12:** still open.
+- **C12, the author (2026-10-29 23:13 CT):** B01 is titled ***Screen Door Eulogy***.
+  - It complies with P15/X6.
+  - Still open: the series line on the B01 cover.

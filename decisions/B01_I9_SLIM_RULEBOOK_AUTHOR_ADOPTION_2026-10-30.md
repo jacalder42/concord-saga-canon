@@ -65,4 +65,4 @@ These are not new canon. Each restates an existing ruling or card dependency tha
 - **C6:** the C44 data scene stays in Caro's POV and is compressed in place.
 - **Rule 3 / W-I8:** provisional until the beta. The C10:95, C36:9 and C42:269 lines are held as written.
 - **The §615 Epilogue line:** the wording is freed. Its meaning stays (nothing had come for her from across the water), so the irony on a reread holds. This supersedes the 10-25 "stays" for wording only.
-- **C12 (title):** still open.
+- **C12 (title):** Book One is titled ***Screen Door Eulogy*** (the author, 2026-10-29 23:13 CT). It meets P15/X6: no "Concord", *The First Tear*, Wound, breathe or Mechanica term. Screen doors recur on the page (15 instances in I8.1); the word "eulogy" does not appear in the text. **Still open:** whether a "Concord Saga" series line appears on the B01 cover or title page.
