@@ -19338,3 +19338,9 @@ END RECOVERY LEDGER
   - B02 E08:65 (the only B02+ card that quotes a B01 line);
   - B02 E41:17;
   - B02 E05: the C32 access now runs under the night supervisor's session.
+- **Author rulings, 2026-10-30:**
+  - **C4:** handled only; the buyer is never said.
+  - **C6:** stays in Caro's POV.
+  - **Rule 3:** provisional until the beta; the three lines are held.
+  - **The §615 Epilogue line:** the wording is freed and the meaning kept.
+  - **C12:** still open.

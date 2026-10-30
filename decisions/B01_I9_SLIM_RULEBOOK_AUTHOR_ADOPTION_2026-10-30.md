@@ -59,3 +59,10 @@ These are not new canon. Each restates an existing ruling or card dependency tha
 - **C12:** the Book One title, and whether a "Concord Saga" series line goes on the B01 cover (P15/X6).
 - **Rule 3 against the three lines held under §635** (C10:95, C36:9, C42:269): apply the fixes, or mark rule 3 provisional until the beta.
 - **§615's Epilogue line:** whether it stays Exact.
+
+## Author rulings (2026-10-30)
+- **C4:** "handled only". Curtis confirms that Pryor's people handled the phone. The buyer is never said on the page and stays known only to the reader. No card change is needed. The rulebook's §5.3 "reached the desk" wording is not used.
+- **C6:** the C44 data scene stays in Caro's POV and is compressed in place.
+- **Rule 3 / W-I8:** provisional until the beta. The C10:95, C36:9 and C42:269 lines are held as written.
+- **The §615 Epilogue line:** the wording is freed. Its meaning stays (nothing had come for her from across the water), so the irony on a reread holds. This supersedes the 10-25 "stays" for wording only.
+- **C12 (title):** still open.
