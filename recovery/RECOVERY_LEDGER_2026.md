@@ -19319,3 +19319,22 @@ ever merged, its entries are renumbered with a note.
 - **Manuscript notes changed:** `draft-notes/final-2026-10-18/B01_HOLDS_REGISTER.md` (new "I8 gate" section; pointers on W17, F6, P10, P13, S6, X3, A-I7, the I7-pass W17/P10/P16 and the §630 Pryor bullet); `B01/spineC-2026-10-24/CALLBACKS_ACT2_3.md`; `B01/act1-trial-2026-10-22/CALLBACKS_ACT1.md`; `draft-notes/rewrite-2026-10-14/STYLE_SHEET_B01.md`; `draft-notes/final-2026-10-18/LOCATION_BIBLE_B01.md`.
 
 END RECOVERY LEDGER
+
+## §636 — B01 I9 slim rulebook adopted; I8.1 gated; canon answers C1–C14, 2026-10-30
+
+- **New:** `decisions/B01_I9_SLIM_RULEBOOK_AUTHOR_ADOPTION_2026-10-30.md`.
+- **The author adopted** the editing thread's slim rulebook (manuscript `versionI81/handoff/02_RULEBOOK_I9.md`):
+  - Exact is narrowed to lines the page quotes again and recurring documents; the writer list has 38 pairs;
+  - locked passages keep their content and key lines;
+  - findings survive as content only;
+  - the C01 lock allows line fixes;
+  - L10 is Precise, with one sentence Exact.
+- **The writer check** (manuscript `draft-notes/final-2026-10-18/CANON_MEMO_RULEBOOK_I9_2026-10-30.md`) restores 26 B02+ holds that the rulebook omits or narrows. These include X7, F1, F8, S3, X-L8, the site rule, S-north, S-well, the cap hint, Inez's list, the §615 line, and the Square as first evidence. The register's I9 section carries them.
+- **I8.1 is gated:** 104,236 words, sha256 2a6335641c95, manuscript commit dde80c5. There were 168 hunks, all OK, with two fixes (the C39 dateline wrap and the C40 antecedent). L9 and L10 are accepted under §633. The plumb-bob physics agrees with mechanics ledger §10.
+- **Canon answers C1–C14:** manuscript `draft-notes/final-2026-10-18/CANON_ANSWERS_C1_C14_2026-10-30.md`.
+  - **Writer-gate calls:** C1–C3, C5, C7–C11, C13 and C14, most of them with limits.
+  - **Pending the author:** C4's wording, C6's POV move, C12's title and series line, rule 3 against the three watcher lines held under §635, and whether the §615 line stays Exact.
+- **Card maintenance owed:**
+  - B02 E08:65 (the only B02+ card that quotes a B01 line);
+  - B02 E41:17;
+  - B02 E05: the C32 access now runs under the night supervisor's session.
