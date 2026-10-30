@@ -19347,3 +19347,4 @@ END RECOVERY LEDGER
 - **C12, the author (2026-10-29 23:13 CT):** B01 is titled ***Screen Door Eulogy***.
   - It complies with P15/X6.
   - Still open: the series line on the B01 cover.
+- **The series line:** none on B01 (the author, 2026-10-29 23:15 CT). The build header is now "Screen Door Eulogy", and the I8.1 gated build is 9d549dcac9da (header change only).
