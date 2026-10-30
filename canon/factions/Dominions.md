@@ -283,7 +283,7 @@ They are the institutional antagonist the world must learn to live beyond.
   down from upstairs ... They wrote the advisory, so the advisory's theirs. I'm told to staff it."*). **At B01's end**
   the relationship changes: Caldas is recalled *"upstairs"*, by Dominion, not by the City, and the fourteenth floor is
   cleared (C43); the deputy's incident report puts the addendum and the camera on the City's record; City Hall has the
-  advisory model **back under review**, *"Nobody's saying pulled"* (C43); Mr. Ledet's complaint goes to detectives with a
+  advisory model **back under review**, *"Nobody's saying pulled"* (C43) *[note 2026-10-30, §639: on the I9 page (C41) the advisory is "withdrawn… back under review"; the City issues no new public advisory after C41]*; Mr. Ledet's complaint goes to detectives with a
   name on it (C43); and Mrs. Carmouche has filed the gathering with the City and written down *"a house"* (C34).
   **Draft reading:** from B02 Dominion no longer works from a desk inside City offices. It still reaches the City, as
   Q-GV3 has it (a public body signs; Dominion advises), but at arm's length, under review, with a paper trail that names

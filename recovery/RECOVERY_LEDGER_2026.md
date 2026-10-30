@@ -19372,3 +19372,20 @@ END RECOVERY LEDGER
     - Each resonance-sense use is flagged, and the gate checks it against the cap (§584), the meta-storage line (§48/§625), the site rule and S-well.
     - "Wound" (as the reserved term for the four) and "breathing" stay reserved.
 - **I9.1 mini-gate:** the base is gated I9 ffee5ed077f4. Three craft hunks (C34:177, C35:55–57, C40:171) all pass, with no fixes. The build is fe8f9c3412c8 (d57ce268bc9e with plain datelines), 101,314 words. The beta kit is built from I9.1.
+
+## §639 — B01 I10 design: author direction (loosen canon where it helps), rulings and canon answers, 2026-10-30
+
+- **New:** `decisions/B01_I10_DESIGN_AUTHOR_RULINGS_2026-10-30.md`.
+- **Author direction:** "I am open to loosening canon to make the book successful." Blocks now come with the minimal loosening, its B02+ cost and a recommendation; hard locks are named; the author rules.
+- **Author rulings:**
+  - the beta is held until I10;
+  - the warning repertoire is accepted;
+  - the City's guidance is generic and withdrawn at C41;
+  - "Sit down where you are" is a shorthand to be outgrown;
+  - **C39 peak exception** (W3, SOFT, one event);
+  - **the animal bound is lifted for B01** (not at the camp; a tell, not a forecast; nothing senses Nyla);
+  - **one remote hearsay item is restored** (BC-REMOTE-SIMILAR; never the lake).
+- **Writer answers adopted** (no loosening): see the decision.
+  - **Required cuts:** C29's interval list and "the first of May" (S-well, HARD; an I9 gate miss); C42 "as the Square".
+  - The bell stays Pryor's, and braced watchers go low.
+- **Maintenance:** the mechanics ledger (lines 71 and 128), B02 E29:46 and Dominions.md:286 get notes.
