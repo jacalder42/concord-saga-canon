@@ -19460,3 +19460,9 @@ END RECOVERY LEDGER
 - **Author decisions:**
   - **C42, Dré:** Seraphine's thought acknowledges his exposure ("He had felt it, then, the way she had"). The cause stays open; "Was Dré first?" stays unasked (§642 §4).
   - **C42, the books:** Lucien's reason ("Only the porch had a child on it… The rest he had let himself call the job.") and Seraphine's act (she tells Miss Tavie herself). Vienna still holds no household names.
+
+## §646 — B01 J1.2 mini-gate, 2026-10-31
+
+- **Gated J1.2:** manuscript `B01/spineC-2026-10-24/versionJ1_2/gated/`, build **0a4040afbf3a**, 103561 words.
+- **7 edits** from an external targeted reread (speaker tags; the C42 Sunday reordered, author option B). All are OK, with no fixes and no re-points.
+- **Declined, and agreed by the writer:** the Epilogue "They have it wrong" stays (F8); no watcher line acknowledges the rescue.
