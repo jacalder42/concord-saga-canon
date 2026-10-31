@@ -110,3 +110,5 @@
 END — ELISABET ARNARDÓTTIR IDENTITY CANON v1.1
 
 - **Dated note, 2026-10-30 (author ruling, §638): register-dependent contraction.** Elisabet **does not contract when she is acting professionally** (verdicts, findings, consultations), and **she loosens up when flustered or comfortable**, where contractions are allowed (for example, the C29 yard exchange in *Screen Door Eulogy* I9). This replaces the "hypothesis for B02 to test" above: B02 reads her B01 lines by register, not by an absolute rule. In B01 I9.1 none of her lines contracts, so the page is unchanged. (`decisions/B01_VOICE_AND_LEXICON_AUTHOR_RULINGS_2026-10-30.md`)
+
+- **Dated note, 2026-10-31 (§643):** in B01 (C42), Caro and Elisabet dance at the Velvet Vein, at Elisabet's invitation. There is no declaration, plan, date or kiss; W19 holds. B03 E24 is no longer their first dance, and its kiss is unspent.

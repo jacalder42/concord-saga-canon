@@ -19429,3 +19429,17 @@ END RECOVERY LEDGER
 - **The child:** Kevontae. **Discovery:** in the event.
 - **Dré:** one family-told exposure tell while he is alive. Contribution to his death is closed as unanswerable by B03. Origin is held (HARD).
 - **Card re-points approved as notes:** Möbius #6 (three steps), BC-ARRIVE-TOGETHER, B01 E49, B02 E01/E38, B03 D7/E36–E38, B04 E38, B06 E21.
+
+## §643 — B01 J1 gate (Screen Door Eulogy), 2026-10-31
+
+- **Gated J1:** manuscript `B01/spineC-2026-10-24/versionJ1/gated/`, build **9704e898187f**, 103,589 words. Summary: `GATE_SUMMARY_J1.md`.
+- **What J1 adds:** the §642 rescue (C39, Kevontae, Caro, the ring, off camera); Dré's exposure tell (C37); communal Velvet Vein scenes (C2, C21, C38, C42).
+- **Fixes:**
+  - C24 "Off the desk's own inspections" restored (B03 E12);
+  - C39 "breath" removed (X1).
+- **Author (2026-10-31):**
+  - C23's Good Friday line is restored (the leak is Caldas's);
+  - **Pryor did not see the rescue** (C40).
+- **SOFT holds:** Trip's waltz is unnamed; the brass opener stays at the bar; the boil is yearly, after Easter; the Vein is free of the phenomenon.
+- **Cast:** Kevontae (10).
+- **Notes owed:** W19 / B03 E24 (the C42 dance is not their first; the kiss is unspent).
