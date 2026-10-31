@@ -19405,3 +19405,16 @@ END RECOVERY LEDGER
 - **The author's decisions this round are accepted:** compression stops at about 98.7k; the Strobl scene and the saucer are cut; the 1788 story stays without the grandmother line; Baz's French tics are character.
 - **R-REP is recorded as B01's canon intervention**, replacing the mechanics ledger's "sitting intervention" (note at line 71, §639).
 - **Stale quotes, no dependency:** the lexicon ruling's C14 "…I have nothing"; CaroID:67's anchor. The anchor map is `draft-notes/final-2026-10-18/I10_ANCHOR_MAP_2026-10-31.md`.
+
+## §641 — B01 I10.1 mini-gate, 2026-10-31
+
+- **Gated I10.1:** manuscript `B01/spineC-2026-10-24/versionI10_1/gated/`, build **4549d721f046**, 98,942 words.
+- **27 repair edits** from the editing thread's evaluation of an external fresh read. The author approved all 15 items and decisions A–E:
+  - **A:** the camp exception is named in Lucien's rule;
+  - **B:** the behavioural fix to the lunch;
+  - **C:** Dré's limit exchange on Odile's porch;
+  - **D:** Lucien's approach to Odile is kept;
+  - **E:** the Epilogue's object-recap paragraph is cut.
+- **The gate:** 26 OK, 1 Adjust. No B02+ breaks; all 46 Exact items have both ends.
+- **The Adjust (FIRST_TEAR):** C27 "If another place breaks this" → "If one place I time breaks this". The camp is named as untimed, never as a counted first break or a different kind of place.
+- **Notes:** the C39 W3 peak passes narrowly. The camera anchor is now C39:17–19.
