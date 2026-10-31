@@ -16,6 +16,7 @@
 - **The rhythm gate (X1) and the saga reserve stand:** nothing confirms that the Veil answers rhythm, and the breathing-Veil answer belongs to B09. The corridor is **people keeping people safe**, not an intervention on the Veil.
 - **On the Neon page Santa Fe is never called a Wound**, and no count is given (§627 N14).
 - **Neon's dramatic answer is "no"** (§624). The corridor is a partial yes at human scale that cannot touch the Rupture.
+- *Note 2026-10-31, §642: this stays a later rung (scale, intent, cost); its floor is B01's C39 reach (a few feet, seconds, one child), and the technique crosses to people, not the Wound.*
 
 ## 2. The event, as proposed
 

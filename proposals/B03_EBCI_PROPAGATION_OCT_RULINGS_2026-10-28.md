@@ -133,6 +133,7 @@ Each item is at Story job / Change / Exit state level. There is no prose and no 
   - Its inverse shown at E36: a drawn, frightened and unconnected crowd amplifies (§22: crowds multiply whatever state they are in).
 - **Guards:** nobody deliberately uses collective rhythm, and nothing names rhythm as the cause.
 - **Exit state:** the question is sharper, and nobody has answered it.
+- *Note 2026-10-31, §642: the inverse at E36 is now the exact opposite of B01's C39 ring, and the question sharpens: why did it reach, and why only as far as hands?*
 
 ### D8. B03's ending answers both Veil questions (E42, S04, E44, E46, E48)
 - **Mystery** (by the close, in the cast's and the city's possession, argued in ordinary words):
