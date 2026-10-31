@@ -19389,3 +19389,19 @@ END RECOVERY LEDGER
   - **Required cuts:** C29's interval list and "the first of May" (S-well, HARD; an I9 gate miss); C42 "as the Square".
   - The bell stays Pryor's, and braced watchers go low.
 - **Maintenance:** the mechanics ledger (lines 71 and 128), B02 E29:46 and Dominions.md:286 get notes.
+
+## §640 — B01 I10 gate (Screen Door Eulogy), 2026-10-31
+
+- **Gated I10:** manuscript `B01/spineC-2026-10-24/versionI10/gated/`. Build **eb340bad80b6**, 98,643 words. Summary: `GATE_SUMMARY_I10.md`.
+- **No B02+ dependency breaks.** All 46 Exact items have both ends.
+- **§639's limits are met:**
+  - the C39 W3 peak;
+  - animals (none at the camp react);
+  - the hearsay item "out in the Gulf";
+  - the City texts A1–A4 and the C41 withdrawal; the verbal C42 co-option;
+  - the sentinels; the bell stays Pryor's; braced watchers go low.
+- **The required cuts are done** (C29, C42). All 13 I9.2 fixes are applied, and the Doucet misentry is kept at C24.
+- **Four canon fixes:** C10 Samira from Marseille; C26 "under the street" cut; C32 car alarm cut; C35 spelling.
+- **The author's decisions this round are accepted:** compression stops at about 98.7k; the Strobl scene and the saucer are cut; the 1788 story stays without the grandmother line; Baz's French tics are character.
+- **R-REP is recorded as B01's canon intervention**, replacing the mechanics ledger's "sitting intervention" (note at line 71, §639).
+- **Stale quotes, no dependency:** the lexicon ruling's C14 "…I have nothing"; CaroID:67's anchor. The anchor map is `draft-notes/final-2026-10-18/I10_ANCHOR_MAP_2026-10-31.md`.
