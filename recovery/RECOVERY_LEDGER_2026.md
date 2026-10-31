@@ -19452,3 +19452,11 @@ END RECOVERY LEDGER
   - **L-RUMOUR:** Quarter rumour reaches Dominion, argued and unconfirmed (E38).
   - **L-PRYOR:** Pryor hears secondhand and returns to Brianna (E13).
 - Pointer notes are added to B02 E13, E34 and E38.
+
+## §645 — B01 J1.1 mini-gate, 2026-10-31
+
+- **Gated J1.1:** manuscript `B01/spineC-2026-10-24/versionJ1_1/gated/`, build **9cae01b06ba3**, 103584 words.
+- **10 narrow edits** from the external J1 fresh read (the author approved all). All are OK, with no fixes.
+- **Author decisions:**
+  - **C42, Dré:** Seraphine's thought acknowledges his exposure ("He had felt it, then, the way she had"). The cause stays open; "Was Dré first?" stays unasked (§642 §4).
+  - **C42, the books:** Lucien's reason ("Only the porch had a child on it… The rest he had let himself call the job.") and Seraphine's act (she tells Miss Tavie herself). Vienna still holds no household names.
