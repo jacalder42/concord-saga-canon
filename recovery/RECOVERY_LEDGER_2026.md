@@ -19466,3 +19466,4 @@ END RECOVERY LEDGER
 - **Gated J1.2:** manuscript `B01/spineC-2026-10-24/versionJ1_2/gated/`, build **0a4040afbf3a**, 103561 words.
 - **7 edits** from an external targeted reread (speaker tags; the C42 Sunday reordered, author option B). All are OK, with no fixes and no re-points.
 - **Declined, and agreed by the writer:** the Epilogue "They have it wrong" stays (F8); no watcher line acknowledges the rescue.
+- **J1.2.1 (author, 2026-10-31):** C42 "Lucien drove Seraphine out in her own car" (a one-word clarity fix). The beta kit base is manuscript `versionJ1_2_1/gated/`, fa0022e832d7 (plain).
