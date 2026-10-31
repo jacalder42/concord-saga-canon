@@ -19443,3 +19443,12 @@ END RECOVERY LEDGER
 - **SOFT holds:** Trip's waltz is unnamed; the brass opener stays at the bar; the boil is yearly, after Easter; the Vein is free of the phenomenon.
 - **Cast:** Kevontae (10).
 - **Notes owed:** W19 / B03 E24 (the C42 dance is not their first; the kiss is unspent).
+
+## §644 — B02 options: how word of the B01 rescue gets out, 2026-10-31
+
+- **The author keeps B01 as ruled:** no Dominion or Pryor witness to the C39 rescue.
+- **Recorded as B02 options** (not rulings): `proposals/B02_RESCUE_LEAK_OPTIONS_2026-10-31.md`.
+  - **L-LOG:** Seraphine's surrendered log has a Saturday entry the desk cannot square with the camera (E34).
+  - **L-RUMOUR:** Quarter rumour reaches Dominion, argued and unconfirmed (E38).
+  - **L-PRYOR:** Pryor hears secondhand and returns to Brianna (E13).
+- Pointer notes are added to B02 E13, E34 and E38.
