@@ -19418,3 +19418,14 @@ END RECOVERY LEDGER
 - **The gate:** 26 OK, 1 Adjust. No B02+ breaks; all 46 Exact items have both ends.
 - **The Adjust (FIRST_TEAR):** C27 "If another place breaks this" → "If one place I time breaks this". The camp is named as untimed, never as a counted first break or a different kind of place.
 - **Notes:** the C39 W3 peak passes narrowly. The camera anchor is now C39:17–19.
+
+## §642 — I10.2 gated; B01 child rescue and Dré exposure, 2026-10-31
+
+- **I10.2 mini-gate:** manuscript `versionI10_2/gated/`, build **a07b2ab24d95**, 99,073 words. 12 edits: 10 OK, 2 Adjust.
+  - **C41:** "Not at the camp; nobody timed it there."
+  - **C42:** the Vienna log goes without the households' names (B02 E23/E25; X-L8).
+- **New:** `decisions/B01_CHILD_RESCUE_AND_DRE_EXPOSURE_AUTHOR_RULINGS_2026-10-31.md`. It follows the external post-read report, which the author agreed. The writer analysis is in manuscript `draft-notes/final-2026-10-18/CANON_IMPACT_B01_CHILD_RESCUE_2026-10-31.md`.
+- **§619 §6.3 amended:** once, in the C39 third pulse, the St. Peter corner ring keeps holding and reaches, to get one child out. It is improvised, unnamed, unrepeated, off the footage, not stabilisation, not Seraphine's gift. X1, the cap, S-light and Nyla's sole anomaly hold.
+- **The child:** Kevontae. **Discovery:** in the event.
+- **Dré:** one family-told exposure tell while he is alive. Contribution to his death is closed as unanswerable by B03. Origin is held (HARD).
+- **Card re-points approved as notes:** Möbius #6 (three steps), BC-ARRIVE-TOGETHER, B01 E49, B02 E01/E38, B03 D7/E36–E38, B04 E38, B06 E21.

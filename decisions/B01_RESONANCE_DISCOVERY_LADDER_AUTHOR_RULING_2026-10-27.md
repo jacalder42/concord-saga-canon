@@ -69,3 +69,7 @@ Characters may form wrong theories about any of these.
 ## 7. What follows
 - The B01 holds register gets an X1 clarification row, a §60 row and a reserved-reveals row.
 - The editing thread gets the discovery ladder (`draft-notes/final-2026-10-18/RESONANCE_DISCOVERY_LADDER_B01_2026-10-27.md` in the manuscript repo), mapped onto the I4 events. A phenomenon pass in I5 follows it.
+
+
+---
+**Dated amendment, 2026-10-31 (§642):** §6.3 is amended for one C39 act. Once, in the third pulse, the St. Peter corner ring keeps holding and reaches, to get one child (Kevontae) out. It is improvised, unnamed and unrepeated; it is off the footage; it is not stabilisation and not Seraphine's gift. Nobody tries to change the Veil, and nobody uses rhythm. See `decisions/B01_CHILD_RESCUE_AND_DRE_EXPOSURE_AUTHOR_RULINGS_2026-10-31.md`.
