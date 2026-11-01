@@ -19467,3 +19467,18 @@ END RECOVERY LEDGER
 - **7 edits** from an external targeted reread (speaker tags; the C42 Sunday reordered, author option B). All are OK, with no fixes and no re-points.
 - **Declined, and agreed by the writer:** the Epilogue "They have it wrong" stays (F8); no watcher line acknowledges the rescue.
 - **J1.2.1 (author, 2026-10-31):** C42 "Lucien drove Seraphine out in her own car" (a one-word clarity fix). The beta kit base is manuscript `versionJ1_2_1/gated/`, fa0022e832d7 (plain).
+
+## §647 — B01 J1.3 mini-gate (author revision candidate), 2026-11-01
+
+- **Gated J1.3:** manuscript `B01/spineC-2026-10-24/versionJ1_3/gated/`, build **9e3170ce89f0**, 103277 words.
+- **Eight author edits:**
+  - C20 inventory cut;
+  - C24 direct admission (the denial and "untrue thing" cut);
+  - C24 Sal exchange cut;
+  - C29 Seraphine warns her households;
+  - C35 Causeway focused on the porch page;
+  - C36 failed fax removed;
+  - C42 household calls moved to C29;
+  - C42 handover call.
+- **All OK, with no fixes.**
+- **Exact #7 ("Who's Doucet?" / "I do not know.") is struck**, so the list is now 45. This supersedes §630 ruling 10's pair (the C38 "Correct the form." quote-back) by the author's own revision. No B02+ dependency.
