@@ -19492,3 +19492,4 @@ END RECOVERY LEDGER
 - **The C1 kitchen-light habit gloss is cut** (author, 2026-11-01). "Behind her the kitchen light stayed on" stays, so the 10-12 leaving ritual stands in short form.
 - **The watchers are unnamed at C39**; the first naming is in the Epilogue.
 - **No B02+ dependency is touched.**
+- **J1.4.1 (author, 2026-11-01):** the stair-light continuity pass. The bulb over her stair is seen at C28 (21 Apr) and C38 (29 Apr) and switched off at C42; the C41 bob narration moves below the signature. Gated build 9c8986fc2862, the beta-kit base.
