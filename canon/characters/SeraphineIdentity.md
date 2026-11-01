@@ -332,3 +332,5 @@ and she survives.
 **Note (added 2026-10-05, author-approved, approved design, Q-LB1–2): Louisiana speech.** Forms of address by default; discourse markers and calques when she is tired, at home or with family; Cajun at home and with family, with the downtown habits of her Tremé years, lightly. Rules in writer profile §12B (`ebci/prose/WRITER_PROFILE_JA_CALDER.md`). This reads with the speech-strand note in §II. (author 2026-10-05, "Yes, all as recommended", `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`)
 
 END — SERAPHINE VAEL EBCI CANON
+
+- **Dated note, 2026-11-01 (§648):** in B01, Seraphine has two lights. **The kitchen light** is her leaving ritual (C1, short form). **The stair light** she has left burning every night since Wed 15 April (C24, a confidence she gives Lucien: she had sat in the car under the dark stair every night since the camp). She switches it off at C42 when he comes up. The Epilogue: "Hope watched the dark where the stair light had been."

@@ -19482,3 +19482,13 @@ END RECOVERY LEDGER
   - C42 handover call.
 - **All OK, with no fixes.**
 - **Exact #7 ("Who's Doucet?" / "I do not know.") is struck**, so the list is now 45. This supersedes §630 ruling 10's pair (the C38 "Correct the form." quote-back) by the author's own revision. No B02+ dependency.
+
+## §648 — B01 J1.4 mini-gate (author fix sheet), 2026-11-01
+
+- **Gated J1.4:** manuscript `B01/spineC-2026-10-24/versionJ1_4/gated/`, build **f28465a78c58**, 103424 words.
+- **The Doucet route:** the C3 phone call (the household boxes read down the line). L10 and Exact #36 hold.
+- **The bob deflection stays off the coroner's record** (author A). It is Lucien's reading alone.
+- **Seraphine's stair light** (author B, C24 Wed 15 Apr): it burns from that night and goes off at C42. It is separate from the kitchen light.
+- **The C1 kitchen-light habit gloss is cut** (author, 2026-11-01). "Behind her the kitchen light stayed on" stays, so the 10-12 leaving ritual stands in short form.
+- **The watchers are unnamed at C39**; the first naming is in the Epilogue.
+- **No B02+ dependency is touched.**
