@@ -19493,3 +19493,11 @@ END RECOVERY LEDGER
 - **The watchers are unnamed at C39**; the first naming is in the Epilogue.
 - **No B02+ dependency is touched.**
 - **J1.4.1 (author, 2026-11-01):** the stair-light continuity pass. The bulb over her stair is seen at C28 (21 Apr) and C38 (29 Apr) and switched off at C42; the C41 bob narration moves below the signature. Gated build 9c8986fc2862, the beta-kit base.
+
+## §649 — Watcher rule 3 loosened (author), 2026-11-04
+
+- **Author:** the watchers are "likely just experienced enough to know something is going to happen", which is not prophecy.
+- **Rule 3 (W-I8/F5) is amended:** anticipation from experience is allowed. Purpose clauses, specific foretelling, acting and holding the dead stay barred (M21).
+- **Writer caution:** a worn-net line should not become the mechanism of a B01 event; keep the place vague.
+- **J1.5 T7b** (the net interlude at the C39 opening) is allowed.
+- The amendment is recorded in `decisions/B01_I9_SLIM_RULEBOOK_AUTHOR_ADOPTION_2026-10-30.md`.

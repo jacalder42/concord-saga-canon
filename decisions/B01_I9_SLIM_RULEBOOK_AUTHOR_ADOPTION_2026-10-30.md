@@ -66,3 +66,11 @@ These are not new canon. Each restates an existing ruling or card dependency tha
 - **Rule 3 / W-I8:** provisional until the beta. The C10:95, C36:9 and C42:269 lines are held as written.
 - **The §615 Epilogue line:** the wording is freed. Its meaning stays (nothing had come for her from across the water), so the irony on a reread holds. This supersedes the 10-25 "stays" for wording only.
 - **C12 (title):** Book One is titled ***Screen Door Eulogy*** (the author, 2026-10-29 23:13 CT). It meets P15/X6: no "Concord", *The First Tear*, Wound, breathe or Mechanica term. Screen doors recur on the page (15 instances in I8.1); the word "eulogy" does not appear in the text. **Series line (the author, 2026-10-29 23:15 CT):** none. "Concord Saga" does not appear on the B01 cover or title page. The build header now reads "Screen Door Eulogy".
+
+---
+**Dated amendment, 2026-11-04 (§649, author): rule 3 (W-I8/F5) loosened.** The watchers may **sense from experience that something is coming**, as old hands would. That is not prophecy.
+- **Still held:** no purpose clause; no specific foretelling (no time, count or outcome); the watchers never act on events below or hold the dead (M21: no intent before B06; BC-SILENCE-HOPE-OBSERVE).
+- **Writer caution:** a watcher line may notice where the net is worn, but it should not read as the *mechanism* of a B01 event or of the rescue (§619 "observed, never explained"). "Down the river" is safer than naming the Square as the thin place.
+- **Effect:**
+  - the three held lines (C09:73, C33:9, C39:265) are no longer breaches of the anticipation clause; they are judged on the "act / hold the dead" limits only;
+  - the J1.5 T7b move of the net interlude to the C39 opening is **allowed**.
