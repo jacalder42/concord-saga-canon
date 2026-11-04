@@ -19501,3 +19501,10 @@ END RECOVERY LEDGER
 - **Writer caution:** a worn-net line should not become the mechanism of a B01 event; keep the place vague.
 - **J1.5 T7b** (the net interlude at the C39 opening) is allowed.
 - The amendment is recorded in `decisions/B01_I9_SLIM_RULEBOOK_AUTHOR_ADOPTION_2026-10-30.md`.
+
+## §650 — B01 J1.5 mini-gate (author trials after Edith's letter), 2026-11-04
+
+- **Gated J1.5:** manuscript `B01/spineC-2026-10-24/versionJ1_5/gated/`, build **dabec3981923**, 103487 words.
+- **Trials T1, T2 (settled), T4, T5, T6a–d, T7/T7b (§649) and T9a/b** all pass, with no fixes.
+- **The net interlude now opens C39** (C39:3); BC-SILENCE-HOPE-OBSERVE and the I8-ruling cites re-point there.
+- **Open for the author:** whether to restore "Under its square of stone" (both versions pass).
