@@ -19508,3 +19508,15 @@ END RECOVERY LEDGER
 - **Trials T1, T2 (settled), T4, T5, T6a–d, T7/T7b (§649) and T9a/b** all pass, with no fixes.
 - **The net interlude now opens C39** (C39:3); BC-SILENCE-HOPE-OBSERVE and the I8-ruling cites re-point there.
 - **Open for the author:** whether to restore "Under its square of stone" (both versions pass).
+
+## §651 — Author decisions on the facts-brief check, full-rewrite test, 2026-11-05
+
+- **Exact #41 "Put him on." is demoted to Precise.** The C36 fact stays. The pair has had one end since I9, which was a writer-gate miss. The Exact list is now **44**: 47 minus #7 (struck §647), #41 and #42 (both Precise).
+- **Exact #27:** the C27:223 callback's actual wording becomes the fixed text.
+- **#42** is confirmed Precise (§637).
+- **No exemptions in the full-rewrite test:** the Prologue, the Epilogue and C1 are rewritten from packets. Their locks (the frame, BC-MACRO-MOBIUS-SKY, F7/F8, FIRST_TEAR in C1, the author paragraph) become INV items. The author may keep the originals after the comparison.
+- **C33's order is not locked** (funeral, then gate, is IMP). The required outcomes:
+  - the total, pressure-free silence;
+  - she nearly leaves her post and returns by her own choice;
+  - the flat-hand signal gets across, and she tells someone (paid at C39:201);
+  - the phones keep the sound.
