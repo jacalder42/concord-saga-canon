@@ -19532,3 +19532,9 @@ END RECOVERY LEDGER
   - §12: the 25 April empty-lot counterexample is retired.
 - **The register:** the watcher anchors re-point to M1.2. C33's is now C33:23.
 - Recorded in `decisions/B01_M1_2_W13_WAIVER_AND_LEDGER_NOTES_2026-11-07.md`. No B02+ card is touched.
+
+## §653 — B01 M1.6 gate: the C27 compression and the C42 books beat, 2026-11-07
+
+- **M1.6** (sha256 89510a7ce0d6) **passes canon with no fixes.** The diff against M1.2 shows only logged changes (B27–B30, R1–R4, P1–P2, C1–C2).
+- **The C27 compression (author):** three of Baz's explanatory lines are cut from the Kia confession. The fixed texts and W17 are intact.
+- **The C42 books beat (author, Option A):** one paragraph. A kept-back book is a breach; the posting is "suspended, not ended"; his standing in the country hangs on the difference, "and he wanted to stay". It rests on C3, C20 and C41. It is consistent with LucienID (§590/§591, §635) and supports B02 E08's knowing partial obedience. No card change is needed.
