@@ -19538,3 +19538,11 @@ END RECOVERY LEDGER
 - **M1.6** (sha256 89510a7ce0d6) **passes canon with no fixes.** The diff against M1.2 shows only logged changes (B27–B30, R1–R4, P1–P2, C1–C2).
 - **The C27 compression (author):** three of Baz's explanatory lines are cut from the Kia confession. The fixed texts and W17 are intact.
 - **The C42 books beat (author, Option A):** one paragraph. A kept-back book is a breach; the posting is "suspended, not ended"; his standing in the country hangs on the difference, "and he wanted to stay". It rests on C3, C20 and C41. It is consistent with LucienID (§590/§591, §635) and supports B02 E08's knowing partial obedience. No card change is needed.
+
+## §654 — B01 M1.8 trial gate: the beans, the fax, the cooler, Miss Tavie, 2026-11-07
+
+- **R5 (author):** Mrs. Arceneaux's plate was paid (C22). The C23 "owed" clause is cut. At C34, Baz's eight dollars go "for the stone", as "what her plate cost". No price canon exists, so none is touched.
+- **R6 (author; exception to PACKET_41 item 18):** C41's corrected statement reads "The wrong name originated with my inspection." It replaces "No other paper on this file gave him that name", which overstated Lucien's knowledge. The exclusivity of DOUCET stays with Seraphine (C22, C24). L10's Exact sentence is intact.
+- **R7:** a C39 clarity fix. R-RESCUE (§642) holds.
+- **R8 (the author's choice of wording pending):** Miss Tavie is told on Fri 8 May and stops speaking to Lucien. The gate requires the telling on the page (wording A+ or V). Once adopted, it is a B01-end state for B02 (registry B15, Q-CP16).
+- No B02+ card, HARD rule or Exact item is touched. The Exact list stays at 44.
