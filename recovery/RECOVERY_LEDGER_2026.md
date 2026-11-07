@@ -19553,3 +19553,15 @@ END RECOVERY LEDGER
 - **The C42 wording:** "At her house the porch was dark and Miss Tavie's television was going behind the curtain. Seraphine had told her on Friday, before work. Miss Tavie had not said a word to him since, and Seraphine had not asked her to. He walked her to the foot of the side stair."
 - **R8-V is declined.** The author's reasons: a shut door could suggest a rift with Seraphine, or a disruption of the Mass routine.
 - **Miss Tavie's B01-end state (registry B15):** she knows her records went to Vienna in Lucien's books (Seraphine told her Fri 8 May), and she has not spoken to Lucien since. Seraphine does not intervene. **The duration and any resolution are OPEN for B02.**
+
+## §656 — B01 MIDDLE_TRIAL_R2 gate (C16–C35 rebuilt; C38–C41 aligned), 2026-11-07
+
+- **The candidate** (sha256 d99b40901f5e, 110,872 words) **is canon-clear for adoption**, with two required fixes: the chapter-heading blank lines (a build defect), and the C24 "Not off me." attribution. Four small continuity fixes are recommended.
+- **All 13 request items are OK.** No HARD rule, B02/B03 dependency or Exact item breaks.
+- **Author-retired packet rules:** P16 INV 1 and "It's a floor."
+- **New knowledge states if adopted** (register §656):
+  - Baz's Favoriten role: Seraphine and Lucien at C16; the pen at C23 (Miss Tavie overhears); Lanette at C34.
+  - Ledet learns of the erased warning at C38, before going to the police. Lucien is never told.
+  - Lucien hears "It was my ears" (C32) and "I left the gate" (C33).
+  - The lunch fails through table nine and a premature release, as the characters' theory only.
+- **M1.8 remains current until adoption.** On adoption: the registry B20 note, the B03 E12 card note, and the register re-anchors.
