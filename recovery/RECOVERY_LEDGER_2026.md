@@ -19520,3 +19520,15 @@ END RECOVERY LEDGER
   - she nearly leaves her post and returns by her own choice;
   - the flat-hand signal gets across, and she tells someone (paid at C39:201);
   - the phones keep the sound.
+
+## §652 — B01 M1 and M1.2 gates; the W13 waiver; ledger maintenance, 2026-11-07
+
+- **M1** (the merged manuscript, sha256 2c925a8721a9) **passes canon with no blocking item.** C33 is V8, the procession without the boy.
+- **M1.2** (sha256 09a26aa1b886, 104,865 words): the nine changes since M1 (A1b, A2–A8, B26) are all OK.
+- **The W13 waiver (author):** red beans on a Saturday, once, for the funeral tribute (C33). The page names the exception. W13 stands elsewhere.
+- **Mechanics ledger:**
+  - §10: the hearing drop may occur without ear fullness or a water response; recordings keep the sound;
+  - §10: the "recording" text, split by the §639 insertion, is repaired;
+  - §12: the 25 April empty-lot counterexample is retired.
+- **The register:** the watcher anchors re-point to M1.2. C33's is now C33:23.
+- Recorded in `decisions/B01_M1_2_W13_WAIVER_AND_LEDGER_NOTES_2026-11-07.md`. No B02+ card is touched.
