@@ -19546,3 +19546,10 @@ END RECOVERY LEDGER
 - **R7:** a C39 clarity fix. R-RESCUE (§642) holds.
 - **R8 (the author's choice of wording pending):** Miss Tavie is told on Fri 8 May and stops speaking to Lucien. The gate requires the telling on the page (wording A+ or V). Once adopted, it is a B01-end state for B02 (registry B15, Q-CP16).
 - No B02+ card, HARD rule or Exact item is touched. The Exact list stays at 44.
+
+## §655 — Author's M1.8 selection; Miss Tavie's B01-end state, 2026-11-07
+
+- **M1.8 = M1.7 + R5, R6 and R7 as passed (§654), + R8-A+ as tightened by the author.**
+- **The C42 wording:** "At her house the porch was dark and Miss Tavie's television was going behind the curtain. Seraphine had told her on Friday, before work. Miss Tavie had not said a word to him since, and Seraphine had not asked her to. He walked her to the foot of the side stair."
+- **R8-V is declined.** The author's reasons: a shut door could suggest a rift with Seraphine, or a disruption of the Mass routine.
+- **Miss Tavie's B01-end state (registry B15):** she knows her records went to Vienna in Lucien's books (Seraphine told her Fri 8 May), and she has not spoken to Lucien since. Seraphine does not intervene. **The duration and any resolution are OPEN for B02.**
