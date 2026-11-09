@@ -19603,3 +19603,13 @@ END RECOVERY LEDGER
 - **The next candidate** is trial 5a with C33:125 changed to "I need you to." (and the clerk renamed, if the author agrees). It gets a single hash and count, then a fresh blind read.
 - **Addendum (author, 2026-11-08, 19:05 CT):** the clerk is to be renamed, to a first name absent from the registry and cards; "I need you to." and the mid-word "*—tate*" are confirmed. **Producing the candidate and its blind read does not adopt the trial-5a line.** M1.8 stays the last cleared text. Exact #27 and hold #2 are already in effect.
 - **Trial 5b confirmed (2026-11-08):** b537c6e39bee, 106,696 words. It is trial 5a plus the two spec items (C33 "I need you to."; the C25 clerk renamed, three references). It goes to a fresh blind read. **Not adopted; M1.8 stays the last cleared text.**
+
+## §659 — Appearance and registry maintenance against the page, 2026-11-08
+
+- **The author asked for it** (2026-11-08, "update as you recommend") after the Calder appearance check of trial 5b against the 15 Appearance and Render card pairs and the cast registry. **No contradictions were found; this is record maintenance only.**
+- **ElisabetAppearance.md:** a dated note. The C18 "one meter eighty" line is no longer on the page; "very nearly his height" (C12, since M1 B05) and "I am very tall" (C42) stand. The range holds.
+- **Cast registry:**
+  - **C02 (Caldas):** "in his fifties" is now a card fact, not a page fact. The page has gray hair, pale eyes, a gray suit.
+  - **B15 (Miss Tavie):** the cardigan is a card fact; the cane is on the page.
+  - **B42 (Curtis Guillory):** his page identifier is recorded, a scar through his left eyebrow (trial 5b C2, C14, C23, C26, C29; M1.8 the same).
+- No page change; no B02/B03 card touched.
