@@ -19565,3 +19565,24 @@ END RECOVERY LEDGER
   - Lucien hears "It was my ears" (C32) and "I left the gate" (C33).
   - The lunch fails through table nine and a premature release, as the characters' theory only.
 - **M1.8 remains current until adoption.** On adoption: the registry B20 note, the B03 E12 card note, and the register re-anchors.
+
+## §657 — B01 trial 5a: author rulings, the Calder clearance, Exact #27 and hold #2, 2026-11-08
+
+- **The lineage, recorded:** trials 3, 4, 5 and 5a (manuscript branch `claude/dialogue-scene-architecture-te4g17`), descended from MIDDLE_TRIAL_R2 (§656) through the compression copy 671d05b9aded. **None is adopted. M1.8 stays the last cleared text.**
+- **The Calder clearance of trial 5a** (9f9b98a1386f): it can be cleared once the rulings below are entered. No canon item requires a page change. The writer gate's dates (2026-11-09) are a mislabel for 2026-11-08.
+- **Author rulings, confirmed 2026-11-08,** binding for the trial-5a line on adoption:
+  - **T4-1:** Miss Tavie is told Tue 5 May; the destination is hers to infer. Amends §654 and §655, and registry B15.
+  - **RC-1:** the action-led ring; amends §642 for C39.
+  - **RC-2:** the box connection is a reader-level inference, unconfirmed.
+  - **RC-3:** a real arrest and overnight custody. Control layer: court permission before departure, pending at B01's end, refused before July; the lawyer is leadership's.
+  - **RC-5:** Baz's calculation is local.
+- **Effective now:**
+  - **Exact #27 is demoted to Precise.** The C27 callback is retired, and **the Exact list is 43**.
+  - **Hold #2 (July) is retired,** after a dependency check; B02 E48 names its new B01 setup.
+  - C33 reads "I need you to." The "*—tate*" choice is pending a read-aloud (the author leans mid-word).
+- **Canon updated:**
+  - Dominions.md: the City–Dominion note, owed since the 2026-10-17 rulings #3, is drafted, and B02 E27's citation is repaired.
+  - Registry B15.
+  - Card notes on B02 E01, E27, E38 and E48, and B03 E21 and E28.
+- **Awaiting the author's item-by-item confirmation:** D2, D5–D11, RC-4, C28, T4-2 to T4-9.
+- Recorded in `decisions/B01_TRIAL5A_AUTHOR_RULINGS_2026-11-08.md`.
