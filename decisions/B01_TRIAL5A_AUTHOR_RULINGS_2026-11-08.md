@@ -93,3 +93,18 @@
 
 ## Not yet confirmed (awaiting item-by-item confirmation)
 D2, D5–D11, RC-4, C28, and T4-2 to T4-9. They are listed in the Calder consolidated summary. They are recorded as proposals until confirmed.
+
+## Addendum, 2026-11-08 (later): the remaining rows confirmed (ledger §658)
+The author confirmed the remaining summary rows (D2, D5–D11, RC-4, C28, T4-2 to T4-9) for the trial-5a line, with these qualifications:
+- **C33:** the mid-word return ("*—tate*") is chosen. The narration never declares causation.
+- **RC-4:** the L.K. pair is re-anchored to "a week on" (C24, C27). **"A week on" is approximate** (six days).
+- **D7:** Exact #33 protects the words and italics, not the paragraphing.
+- **C28:** the refusal and the correction are separate on the page (checked).
+- **The count:** the established counter is `tools/count_words.py` (trial-5a tools); its counts were reproduced.
+- **T4-3:** at C23 Seraphine learns Favoriten and the words, and the pen and signing are withheld; at C34 Lanette gets the full account. Later callbacks keep who knows what, and when.
+- **T4-8, Vienna's holding:**
+  - The books carry no names, but they carry readings **by house and date** for every house Lucien measured except the porch.
+  - This **identifies households**. It is not anonymisation and does not settle consent.
+  - In B02, the Dominion holds those houses by address and date; what it lacks is the names and who is fragile (E23, E25 notes).
+- **T4-9:** confirmed on its merits. One card effect was found: a trial-4 clerk shares the first name of Seraphine's mother (SeraphineIdentity), and a rename is recommended.
+- **A fresh blind read follows reconciliation.**

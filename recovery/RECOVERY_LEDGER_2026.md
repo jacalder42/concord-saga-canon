@@ -19586,3 +19586,18 @@ END RECOVERY LEDGER
   - Card notes on B02 E01, E27, E38 and E48, and B03 E21 and E28.
 - **Awaiting the author's item-by-item confirmation:** D2, D5–D11, RC-4, C28, T4-2 to T4-9.
 - Recorded in `decisions/B01_TRIAL5A_AUTHOR_RULINGS_2026-11-08.md`.
+
+## §658 — Trial 5a: the remaining rows confirmed; the C33 choice, 2026-11-08
+
+- **The author confirmed** D2, D5–D11, RC-4, C28 and T4-2 to T4-9, for the trial-5a line, with qualifications:
+  - "a week on" is approximate;
+  - the counter is named (`tools/count_words.py`), and its counts were reproduced;
+  - who knows Favoriten, and when, is kept (C23 against C34);
+  - **T4-8: Vienna holds the measured B01 houses by address and date, not by name.** This identifies households; it is not anonymisation; consent is unsettled. Notes are entered on B02 E23 and E25.
+- **C33:** the mid-word "*—tate*" is chosen.
+- **Checks:**
+  - the C28 separation is on the page;
+  - the L2 dates hold;
+  - trial 5a differs from frozen trial 5 only by the logged decision-pass changes (9 hunks);
+  - **one card effect: the clerk "Danielle" collides with Seraphine's mother's name**, and a rename is recommended.
+- **The next candidate** is trial 5a with C33:125 changed to "I need you to." (and the clerk renamed, if the author agrees). It gets a single hash and count, then a fresh blind read.
