@@ -19602,3 +19602,4 @@ END RECOVERY LEDGER
   - **one card effect: the clerk "Danielle" collides with Seraphine's mother's name**, and a rename is recommended.
 - **The next candidate** is trial 5a with C33:125 changed to "I need you to." (and the clerk renamed, if the author agrees). It gets a single hash and count, then a fresh blind read.
 - **Addendum (author, 2026-11-08, 19:05 CT):** the clerk is to be renamed, to a first name absent from the registry and cards; "I need you to." and the mid-word "*—tate*" are confirmed. **Producing the candidate and its blind read does not adopt the trial-5a line.** M1.8 stays the last cleared text. Exact #27 and hold #2 are already in effect.
+- **Trial 5b confirmed (2026-11-08):** b537c6e39bee, 106,696 words. It is trial 5a plus the two spec items (C33 "I need you to."; the C25 clerk renamed, three references). It goes to a fresh blind read. **Not adopted; M1.8 stays the last cleared text.**
