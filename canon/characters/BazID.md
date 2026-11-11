@@ -117,6 +117,7 @@ END — BAZ (BASTIEN “BAZ” ARNAUD) IDENTITY CANON
   - **"Dominion"** is spoken on the page, once (C34). See the OPEN item in `canon/factions/Dominions.md` (2026-10-18).
   - **Lena's mother:** he telephones her (C37); the Emitter hook points at Lena and the house
     (`decisions/B01_FINAL_PASS_RULINGS_C_BASE_2026-10-18.md` #10).
+    *Dated note 2026-11-11 (author R6 rename; §660): Lena is **Resi** on the R9 line.*
   - **Contractions:** some in casual speech (`decisions/B01_POLISH_RECOMMENDATIONS_APPROVED_2026-10-18.md`, further
     ruling 1); light French syntax in his interior narration (`decisions/B01_POLISH_WARMTH_AND_INTERIOR_DIRECTION_2026-10-18.md`,
     POV ruling 4).

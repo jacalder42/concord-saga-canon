@@ -368,3 +368,5 @@ are the final B01's C01–C44, not E-numbers):
 - **New names to check** (final page; nickname rulings): **Fifine** (FEE-feen [ATC]; Seraphine's childhood name, C03);
   **Nannan** (NAH-nahn [ATC]; "His Nannan Lorraine", C40); **mija** (MEE-hah [R]) and **güera** (GWEH-rah [R]), Caro's (C03,
   C31, C32); **mon cœur** (mohn KUR [R]), Samira's (C11).
+
+*Dated note 2026-11-11 (author R6 rename; §660):* on the R9 line Kevin (Sal's crew) is **Joey**; read the two Tony/Kevin rows above as Tony/Joey. The pronunciation guidance is unchanged.

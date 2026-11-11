@@ -19613,3 +19613,49 @@ END RECOVERY LEDGER
   - **B15 (Miss Tavie):** the cardigan is a card fact; the cane is on the page.
   - **B42 (Curtis Guillory):** his page identifier is recorded, a scar through his left eyebrow (trial 5b C2, C14, C23, C26, C29; M1.8 the same).
 - No page change; no B02/B03 card touched.
+
+## §660 — R9: the author's rulings on the Calder gate, 2026-11-11
+
+- **The author ruled** at 07:03 US Central, on the Calder gate of R9 (600be8ed86db, 43 chapters) and its reconciliation with an adviser's ten recommendations:
+  1. adopt the reconciliation, with its corrections and the Calder defaults;
+  2. Nyla's grounds come from both sources;
+  3. Banks Street is a new arrangement;
+  4. the asking lines stay, "to fit context and reader payoff";
+  5. the animal bar is lifted.
+- **Scope:** the **R9 line**. The rulings bind on adoption. M1.8 stays the last cleared text; trial 5b is superseded as the working candidate.
+- **The lifts recorded with their bounds (L1–L10):**
+  - plain light in glass before the Epilogue;
+  - "the weather" (the watchers' frame phrase exempt);
+  - local, parasitic out-forecasting (Elisabet's wells corroborate only);
+  - the understanding ladder;
+  - the ring lift (unspent; RC-1 stands);
+  - Nyla's classification loosened;
+  - W14 loosened (no love declared aloud);
+  - the D6 behaviours;
+  - O6;
+  - X7 amended (Mr. Ledet's wrist, and the pressure on Baz).
+- **Departures settled by ruling:**
+  - **the lake event (C35)** is kept as one event: one place, two records. It overrides I10 r7 for that event only; no character links it to the camp before the FIRST_TEAR reveal;
+  - **the desk–Pryor route** is inferred by the cast (amends I8 r3 / P16);
+  - Miss Tavie is told "Vienna" (amends §657 T4-1);
+  - the R9 asking lines stay (supersedes §658's page instruction, subject to a read-aloud);
+  - hold #12 is retired (Inez's book);
+  - the Foundation holds canvass details, not the book;
+  - B01 names Dominion and Hollen publicly (C31);
+  - the crossing order reaches Vienna as an observation, not a model;
+  - "old glass holds" becomes conditional;
+  - the bench man is unexplained, with no anomaly;
+  - **I10 6(a) is lifted for C30 only** (Butter);
+  - Banks Street is a new arrangement;
+  - Nyla's grounds are the Pontalba after-footage **and** Isaiah's footage.
+  - **§658 T4-3 stands** (C23's signing lines are cut).
+- **The Exact list is 41:** #25 and #40 go to Precise, and #15's asking end is re-anchored to C28:153.
+- **Renames (R6):** Lena → Resi; Kevin → Joey.
+- **Page fixes** go to the editing thread (listed in the decision file).
+- **Canon updated:**
+  - cards B02 E01, E05, E08, E09, E13, E23, E25, E27, E34, E47, E48 and B03 E12, E14, E21, E33, E37, E42;
+  - Dominions.md;
+  - registry B15, B19, B20, B37, B38, B41, B42;
+  - BazID;
+  - the audio narration sheet.
+- Recorded in `decisions/B01_R9_GATE_AUTHOR_RULINGS_2026-11-11.md`.

@@ -300,3 +300,7 @@ They are the institutional antagonist the world must learn to live beyond.
   - "No warrant" in the 2026-10-18 note means Caldas held no City commission. It does not bar his arrest.
   - For the trial-5a line: Mr. Ledet's complaint led to Caldas's arrest at the Square. A booking, a release on bond and a pending charge are on the City's record. The City takes Dominion recommendations at arm's length from B01's end.
   - **Control layer:** the lawyer is leadership's protection of its own man, through its fronts, not the funder faction's (§592). Written court permission precedes his departure, and the district attorney refuses the charge before B02 E27. P9 holds: no conviction or sentence, and nothing that removes him from B02 E27 or B03.
+- **Dated note, 2026-11-11 (author, §660; R9 line; `decisions/B01_R9_GATE_AUTHOR_RULINGS_2026-11-11.md`):**
+  - **X7 amended (L10):** Caldas's B01 force is one act of bodily violence against a bystander (Mr. Ledet's wrist) and pressure on Baz. The B01 rung of the ladder ("surveillance in B01") reads with that addition; leadership's B02 restraint follows from it.
+  - **U10:** B01 names "Dominion" and "The Hollen Institute" publicly (C31, chalk on a church gatepost). Baz's naming to the cast (C16) stays the first; *"a house"* (above) is Mrs. Carmouche's word for the gathering, not the only public name.
+  - **U2:** the cast infers a leak from near the Vienna desk to Pryor; the chair and mechanism stay unknown, and nothing makes Pryor Dominion's.
