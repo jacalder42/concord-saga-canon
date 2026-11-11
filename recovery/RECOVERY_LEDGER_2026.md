@@ -19659,3 +19659,4 @@ END RECOVERY LEDGER
   - BazID;
   - the audio narration sheet.
 - Recorded in `decisions/B01_R9_GATE_AUTHOR_RULINGS_2026-11-11.md`.
+- **Addendum (2026-11-11): the R9 gate candidate confirmed.** 9661a2df8af0, 110,233 words. It is R9 plus the eleven page instructions and the C43:31 read-aloud trim; only C09, C10, C23, C24, C27, C31, C38 and C43 change. **Not adopted; M1.8 stays the last cleared text.** "Northern series" (C43) means Elisabet's far-north series (S-north; B02 E05), **not** the Causeway logger. A two-line C36 rewording ("Causeway logger") is recommended so that readers do not conflate them.
