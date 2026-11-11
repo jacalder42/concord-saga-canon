@@ -19660,3 +19660,16 @@ END RECOVERY LEDGER
   - the audio narration sheet.
 - Recorded in `decisions/B01_R9_GATE_AUTHOR_RULINGS_2026-11-11.md`.
 - **Addendum (2026-11-11): the R9 gate candidate confirmed.** 9661a2df8af0, 110,233 words. It is R9 plus the eleven page instructions and the C43:31 read-aloud trim; only C09, C10, C23, C24, C27, C31, C38 and C43 change. **Not adopted; M1.8 stays the last cleared text.** "Northern series" (C43) means Elisabet's far-north series (S-north; B02 E05), **not** the Causeway logger. A two-line C36 rewording ("Causeway logger") is recommended so that readers do not conflate them.
+
+## §661 — B01: candidate B adopted (R9 line), 2026-11-11
+
+- **The author adopted candidate B** ("Adopt as recommended"), recorded on the writer branch at d55d4c5 (`draft-notes/r9-gate-2026-11-11/01_AUTHOR_DECISION_ADOPT_B.md`).
+- **The adopted text:** `SCREEN_DOOR_EULOGY_READING_COPY_B.md`, sha256 **94899fb540d7**, **110,232** words (`tools/count_words.py`), 43 chapters.
+- **Calder's checks:**
+  - the hash and count were reproduced;
+  - B differs from the confirmed candidate 9661a2df8af0 in **C36:55 and C36:57 only** (the "Causeway" rewording).
+- **The effect:**
+  - **B is the last cleared text of B01, superseding M1.8** (687468ff7458).
+  - The §660 rulings bind, and §657–§658 bind as amended by §660.
+  - R9 (600be8ed86db), candidate A (9661a2df8af0), trial 5b and every earlier draft are kept unchanged as history.
+- **Follow-up:** card citations to the old chapter keys are corrected as cards are next touched. The working anchor map is the R9 gate logs.

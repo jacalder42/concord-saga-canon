@@ -127,3 +127,10 @@ Notes go on registry B38 and B19, BazID and the audio narration sheet. Earlier d
 - **Dominions.md:** the B01 ladder and the public naming.
 - **Registry:** B15, B19, B20, B37, B38, B41, B42.
 - **BazID**, and the audio narration sheet.
+
+## Adoption (2026-11-11, ledger §661)
+- **The author adopted candidate B** ("Adopt as recommended"): sha256 **94899fb540d7**, 110,232 words.
+  - B is the candidate confirmed against this ruling (9661a2df8af0) plus the C36 rewording ("Causeway logger" / "at the Causeway"), which keeps the lake logger apart from Elisabet's far-north "northern series".
+  - Calder verified that B differs from the confirmed candidate in those two lines only.
+- **B is now the last cleared text of B01.** It supersedes M1.8 (687468ff7458). **The rulings above now bind.**
+- **Chapter keys:** B01 has 43 chapters (C01–C43), plus the Prologue and Epilogue. Card citations made against M1.8's or trial 5b's keys are stale wherever the chapter structure moved, and are corrected as cards are next touched. The gate logs (manuscript `draft-notes/r9-gate/`) map the line-level anchors.

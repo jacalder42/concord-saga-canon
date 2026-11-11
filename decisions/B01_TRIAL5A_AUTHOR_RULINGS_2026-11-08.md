@@ -108,3 +108,6 @@ The author confirmed the remaining summary rows (D2, D5–D11, RC-4, C28, T4-2 t
   - In B02, the Dominion holds those houses by address and date; what it lacks is the names and who is fragile (E23, E25 notes).
 - **T4-9:** confirmed on its merits. One card effect was found: a trial-4 clerk shares the first name of Seraphine's mother (SeraphineIdentity), and a rename is recommended.
 - **A fresh blind read follows reconciliation.**
+
+## Dated note, 2026-11-11 (ledger §661)
+The trial-5a line was not adopted. Its successor, R9, was adopted as candidate B (94899fb540d7). The rulings here bind **as amended by §660** (`decisions/B01_R9_GATE_AUTHOR_RULINGS_2026-11-11.md`): T4-1 (Miss Tavie is told the destination), the C33 page instruction (superseded) and the Exact list (41). RC-1, RC-3, T4-3, Exact #27's demotion and hold #2's retirement stand.
