@@ -19673,3 +19673,7 @@ END RECOVERY LEDGER
   - The §660 rulings bind, and §657–§658 bind as amended by §660.
   - R9 (600be8ed86db), candidate A (9661a2df8af0), trial 5b and every earlier draft are kept unchanged as history.
 - **Follow-up:** card citations to the old chapter keys are corrected as cards are next touched. The working anchor map is the R9 gate logs.
+- **Addendum (2026-11-12): record maintenance on B, author-approved (developmental packet, Q-DP7 and Q-DPC6).**
+  - **Registry B28 (Mrs. Arceneaux):** a dated note refreshes her page facts to B, with no cup on her porch and B's chapter keys.
+  - **B02 E48:** a correction note. The camera is the Pontalba camera (the State Museum's, placed on Ren's request, C38), not "the Foundation's". The §660 note had it wrong. U19's grounds are unchanged.
+  - Nothing else changes. Trial DP is not adopted.
