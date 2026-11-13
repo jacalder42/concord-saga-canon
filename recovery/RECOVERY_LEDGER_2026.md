@@ -19727,3 +19727,21 @@ END RECOVERY LEDGER
   - B02 E01–E04 do not pick up B01's tins, boxes, paint or "the weather" (a re-alignment pass, no ruling);
   - no card depends on the lines the writer cut.
 - The Exact list is re-anchored in the private register.
+
+## §665 — B02 E05 carries Lucien's admission to Elisabet (author ruling), 2026-11-13
+
+- **The author answered "proceed as recommended"** (16:19 US Central) to §664 report §3.1, option (a).
+- **The ruling:**
+  - On the R9 line, B01 carries neither Lucien's admission nor his apology to Elisabet (§620's C39 and C44 placements are superseded).
+  - At B01's end she suspects Pryor's box (DP3c.1 C36:51) and does not know he named her wells.
+  - **B02 E05 carries his first admission and the apology, then the repair.** Her acceptance stays hers.
+  - The underlying fact (§620) stands. §627 D5's chain is superseded on the R9 line.
+- **Canon updated:**
+  - `decisions/B02_E05_LUCIEN_ADMISSION_MOVED_AUTHOR_RULING_2026-11-13.md`;
+  - dated notes on B02 E05 and ElisabetID.
+- **No page change to B01.**
+- **Still open:**
+  - Hampson (C25), recommended "on Carrollton, at Hampson", for the writer thread;
+  - the professional read of C26;
+  - the B02 opening re-alignment;
+  - registry rows for Kevontae, Pam and Bijou, if wanted.

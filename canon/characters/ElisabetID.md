@@ -113,3 +113,4 @@ END — ELISABET ARNARDÓTTIR IDENTITY CANON v1.1
 
 - **Dated note, 2026-10-31 (§643):** in B01 (C42), Caro and Elisabet dance at the Velvet Vein, at Elisabet's invitation. There is no declaration, plan, date or kiss; W19 holds. B03 E24 is no longer their first dance, and its kiss is unspent.
 - **Re-anchor, 2026-11-13 (§664; DP3c.1, d83f8b175187):** *the Vienna desk* is defined at **C03:173** (was C04:179). Lucien's C39 admission and C44 apology to her are **not on DP3c.1** (see §664 and B02 E05). Her station loss is voiced at C36:51, aimed at Pryor's case. The 9 May data scene is now **C43:53–65** (Wed 6 May), with the cone at C43:61–65.
+- **Author ruling, 2026-11-13 (§665; R9 line):** at B01's end she suspects Pryor's box cost her the City station (C36:51) and does not know Lucien named her wells. His admission and apology move to **B02 E05**, before the repair. §620's B01 placements (C39 admission, C44 apology) are superseded; the underlying fact stands.
