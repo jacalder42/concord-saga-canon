@@ -134,3 +134,13 @@ Notes go on registry B38 and B19, BazID and the audio narration sheet. Earlier d
   - Calder verified that B differs from the confirmed candidate in those two lines only.
 - **B is now the last cleared text of B01.** It supersedes M1.8 (687468ff7458). **The rulings above now bind.**
 - **Chapter keys:** B01 has 43 chapters (C01–C43), plus the Prologue and Epilogue. Card citations made against M1.8's or trial 5b's keys are stale wherever the chapter structure moved, and are corrected as cards are next touched. The gate logs (manuscript `draft-notes/r9-gate/`) map the line-level anchors.
+
+## Adoption of DP3c (2026-11-13, ledger §663)
+- **The author adopted DP3c on 2026-11-13.** His words: "Adopt DP3c as the current working manuscript and enter Calder's listed card notes. Archive B and DP3b."
+  - The adoption record is on the writer branch: `draft-notes/trial-dp3c-2026-11-13/02_ADOPTION_DP3C.md`.
+  - DP3c: sha256 **d65d2c9e06ff**, 110,676 words. Calder's gate note: f70e3f02.
+- **The working text is DP3c.1:** sha256 **d83f8b175187**, **110,681** words.
+  - It applies five corrections of fact and mechanics, which the author approved ("Approved as recommended, apply 1–5"): Ursulines 2200 block (C20, C26), Galvez (C27), the pantry van on Ursulines (C23), and the gallery-floor beam and the jack screw (C26).
+  - Calder reproduced the hash and the count. The diff against DP3c is six lines in C20, C23, C26 and C27, and it has no canon effect.
+- **DP3c.1 supersedes B (94899fb540d7) as the last cleared text.** B and DP3b are archived unchanged.
+- **This ruling (§660) binds as before, and §662 now binds.**

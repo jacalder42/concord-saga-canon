@@ -28,3 +28,6 @@
 ## Canon updated
 - `canon/characters/LucienID.md`: a dated note beside the F3 note.
 - `ebci/B02/S1.T1.B02.A1.E08.md`: a dated note.
+
+## Now in force (2026-11-13, ledger §663)
+DP3c, which carries the Columbus sheet at C24 and C26, was adopted. The working text is DP3c.1 (d83f8b175187). This ruling binds.

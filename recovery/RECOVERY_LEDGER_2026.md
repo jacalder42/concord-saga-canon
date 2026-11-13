@@ -19687,3 +19687,27 @@ END RECOVERY LEDGER
   - `decisions/B01_LUCIEN_F3_COLUMBUS_SHEET_AUTHOR_RULING_2026-11-13.md`;
   - dated notes on LucienID and B02 E08.
 - **On DP3b's adoption:** the notes listed in the gate note §3 (B02 E13, E44; B03 E42; registry B28).
+
+## §663 — B01: DP3c adopted; DP3c.1 is the last cleared text, 2026-11-13
+
+- **The author adopted DP3c** ("Adopt DP3c as the current working manuscript and enter Calder's listed card notes. Archive B and DP3b.").
+  - DP3c: d65d2c9e06ff, 110,676 words. Gated by Calder, f70e3f02.
+- **He then approved five corrections of fact and mechanics** ("Approved as recommended, apply 1–5"), from the writer's map check and C26 engineering check.
+  - **DP3c.1:** sha256 **d83f8b175187**, **110,681** words, 43 chapters.
+  - Calder reproduced the hash and the count, and confirmed the diff against DP3c: six lines in C20, C23, C26 and C27; Ursulines 2200 block, Galvez, the van on Ursulines, the gallery floor and the jack screw. **It has no canon effect.**
+- **The last cleared text of B01 is DP3c.1**, superseding B (94899fb540d7). B and DP3b (a7aa61a4272a) are archived unchanged.
+- **Rulings:** §660 binds, §662 is now in force, and §657–§658 bind as amended.
+- **Card notes entered:**
+  - B02 E13 (Columbus consent: informed against uninformed);
+  - B02 E44 (the B01 C29 source for the *Want*);
+  - B03 E42 (C29, the first ordinary use of *breach*);
+  - B03 E12 (stale locator "C26:151" → C23:129–135, C42:11);
+  - registry B28 (the far-side gap named; keys refreshed);
+  - adoption sections on `decisions/B01_R9_GATE_AUTHOR_RULINGS_2026-11-11.md` and `decisions/B01_LUCIEN_F3_COLUMBUS_SHEET_AUTHOR_RULING_2026-11-13.md`.
+- **Closed:**
+  - the Ursulines map check (three errors found and fixed in DP3c.1);
+  - the coroner's 72-hour protective custody (C34, C39), already confirmed.
+- **Open before final text lock:**
+  - a professional read of C26 (low priority; the author's);
+  - map plausibility for Columbus 1500 and Hampson (Calder's lookup follows);
+  - the re-anchoring of card citations, the Exact list and the knowledge register to DP3c.1 (handoff B).
