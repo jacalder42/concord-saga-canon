@@ -19758,3 +19758,30 @@ END RECOVERY LEDGER
 - **Still open:**
   - Hampson (C25), recommended "on Carrollton, at Hampson", for the writer thread;
   - the B02 opening re-alignment (§664 report §3.4). Recommended timing: at the start of B02 writing, keyed to the B01 text locked then.
+
+## §667 — B01: DP3c.2 adopted as the last cleared text; map lookups, 2026-11-13
+
+- **The author asked** Calder to confirm the eleven-correction diff, enter the card notes and record the adoption.
+- **The last cleared text of B01 is DP3c.2:**
+  - sha256 **73ba0de08503**, **110,683** words, 43 chapters (writer branch @aa07e7f1);
+  - it supersedes DP3c.1 (d83f8b175187), which is kept unchanged.
+- **Calder reproduced** the hash and the count. The Exact check shows all items present.
+- **The diff:**
+  - **DP3c.1 → DP3c.2:** exactly the six Hampson lines that place the gas station and shelter on Carrollton, at Hampson (C25 ×5, C26 ×1). The author approved these as "apply all six".
+  - **DP3c → DP3c.2:** the eleven corrections are those six plus DP3c.1's five (§663).
+  - **It has no canon effect.** "Hampson" stays as the event's and the place's name.
+- **Card notes:** the writer's list was entered at §663 (B02 E13, B02 E44, B03 E42, B03 E12, registry B28). DP3c.2 needs none new. B41's "the shelter at Hampson" still holds.
+- **Map lookups (handoff item 14):**
+  - **Six miles** holds by road (about 5½–6, estimated; no router was reachable). The straight line is about 4.
+  - **Columbus 1500** is plausible: the 1300 and 1400 blocks are residential.
+  - **A gas station at the corner** is not verified, but plausible as fiction.
+  - The item is closed at plausibility.
+- **Two page slips are recommended** (facts only, writer thread):
+  - C26:103 still has Mrs. Price go "back across Hampson" (now Carrollton);
+  - South Carrollton has one travel lane and one parking lane each way, so C25:93's "across four lanes" does not fit a shelter in the neutral ground.
+- **The gate note** is in the manuscript repo: `draft-notes/r9-gate/09_CALDER_GATE_DP3C2_AND_MAP_LOOKUPS_2026-11-13.md`.
+- **Open before final text lock:**
+  - the two slips;
+  - the C27 early-arrival polish (logged, not applied);
+  - optionally, "six miles by road" at C25:199;
+  - the B02 opening re-alignment (§664 report §3.4), at the start of B02 writing.
