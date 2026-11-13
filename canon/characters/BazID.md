@@ -141,3 +141,4 @@ END — BAZ (BASTIEN “BAZ” ARNAUD) IDENTITY CANON
     which takes the name in Neon and collapses in Loom.
   - **"Dominion" spoken (C34): approved** (author: *"naming is approved."*).
 - **Dated note, 2026-10-29 (author-directed term change; `decisions/TERM_VIENNA_DESK_AUTHOR_DIRECTION_2026-10-29.md`; ledger §632): the Vienna desk.** Baz's C34 post-office line is now *"Vienna writes it and the City paints it. The Vienna desk is their post office."* (I7.2). In narration and speech the Hollen Institute's Regional Review in Vienna (a Dominion front, §617) is **"the Vienna desk"**, no longer "the Review"; **"Regional Review"** survives on paper only. B02 and B03 follow.
+- **Re-anchor, 2026-11-13 (§664; DP3c.1, d83f8b175187):** the folder opened once in Houston is **C15:55** (was C17:73). Caldas describes its tab at C25:35, and takes it at C27:33–47 (was C29:45–47).

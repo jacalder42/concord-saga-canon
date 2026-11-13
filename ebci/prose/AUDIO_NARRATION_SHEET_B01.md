@@ -370,3 +370,23 @@ are the final B01's C01–C44, not E-numbers):
   C31, C32); **mon cœur** (mohn KUR [R]), Samira's (C11).
 
 *Dated note 2026-11-11 (author R6 rename; §660):* on the R9 line Kevin (Sal's crew) is **Joey**; read the two Tony/Kevin rows above as Tony/Joey. The pronunciation guidance is unchanged.
+
+## Additions for the R9 line, DP3c.1 (dated 2026-11-13, §664)
+**Status: PROPOSED** pronunciations, marked [ATC] where they need the author's confirmation. The chapter keys are DP3c.1's (C01–C43). The episode keys above are older and are not remapped here. Nothing above is changed.
+
+| Name | Say | Note | Chapters |
+|---|---|---|---|
+| Nyla | NY-luh [ATC] | The child at the railing; Lanette's daughter | C09, C22–C43 |
+| Marius | MAH-ree-oos [ATC] | The Vienna desk's voice on Lucien's line | C03–C42 |
+| Joanne Pryor | PRY-er | The woman in cream shoes; *Pryor* only between her and Strobl | C26–C43 |
+| Annelie Strobl | AH-neh-lee SHTROH-bul [ATC] | The Foundation's woman, Austrian; *Ms. Strobl* | C23, C33–C41 |
+| Resi | RAY-zee [ATC] | Viennese short form of Theresia. Baz's Favoriten account (renamed from Lena, R6) | C16, C23, C34, C42 |
+| Joey | — | Sal's crew (renamed from Kevin, R6) | C03–C38 |
+| Bastien Arnaud | bas-TYAN ar-NOH [ATC] | Baz's full name, said by Caldas and on the police record | C07–C15, C25–C27, C34, C38, C40 |
+| Gwen | — | Mrs. Arceneaux's sister-in-law. Introduced at the hospital | C22, C23, C27, C30, C33, C34 |
+| Mrs. Carmouche | kar-MOOSH (as above) | Taught fourth grade for forty-one years. Her meeting on the lot | C30, C31 |
+| Kevontae | keh-VON-tay [ATC] | On Brianna's crew; kept from the tray | C28, C32, C39 |
+| Pam | — | The dispatcher on the night of the camp | C01 |
+| Floyd | — | Bus driver; the Velvet Vein's Friday | C21, C43 |
+| Bijou | BEE-zhoo | Vernice's cat | C05, C09, C14, C34, C39 |
+| Touro | TOO-roh | Touro Infirmary (local) | C23, C39, C41 |

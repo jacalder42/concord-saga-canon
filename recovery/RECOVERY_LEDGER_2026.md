@@ -19711,3 +19711,19 @@ END RECOVERY LEDGER
   - a professional read of C26 (low priority; the author's);
   - map plausibility for Columbus 1500 and Hampson (Calder's lookup follows);
   - the re-anchoring of card citations, the Exact list and the knowledge register to DP3c.1 (handoff B).
+
+## §664 — B01 DP3c.1: anchor refresh, knowledge states and dependency sweep, 2026-11-13
+
+- **Calder answered the writer's handoff** (items 6–15) in `reports/B01_DP3C1_ANCHOR_REFRESH_AND_HANDOFF_SWEEP_2026-11-13.md`.
+- **Re-anchor notes** (dated, additive) on:
+  - B02 E08;
+  - LucienID, ElisabetID, BazID and Dominions;
+  - registry B23, B32 (Mrs. Carmouche's occupation) and B33.
+- **A proposed DP3c.1 section** is added to `ebci/prose/AUDIO_NARRATION_SHEET_B01.md`.
+- **CLAUDE.md §8** gains a dated line for the R9 line.
+- **The finding that needs the author:** B02 E05 is built on Lucien's B01 admission and apology to Elisabet. Neither has been on the page **since R9**, and the R9 gate missed it. Recommended: amend E05 so that it carries the first admission (report §3.1).
+- **Other findings:**
+  - C25's "Hampson" is probably South Carrollton Avenue at Hampson;
+  - B02 E01–E04 do not pick up B01's tins, boxes, paint or "the weather" (a re-alignment pass, no ruling);
+  - no card depends on the lines the writer cut.
+- The Exact list is re-anchored in the private register.

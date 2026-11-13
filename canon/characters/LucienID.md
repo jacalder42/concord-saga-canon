@@ -106,4 +106,6 @@
 
 - **Dated note, 2026-10-29 (author-directed term change; `decisions/TERM_VIENNA_DESK_AUTHOR_DIRECTION_2026-10-29.md`; ledger §632): the Vienna desk.** In narration and speech his Vienna office is **"the Vienna desk"** ("the desk" where unambiguous), defined once at B01 C04:179; it is no longer called "the Review". The formal name, the Hollen Institute's **Regional Review** (of Unexpected Public Costs), survives on paper only: forms, letterheads, quoted letters, and the formal title of his brief. Canon fact unchanged: a Dominion front (§617); his desk (Marius, N.), the body that suspends him (C43), and the body that invites Elisabet (§620 §6). The two living references above (his papers by courier; where he heard "Dominion") now read "the Vienna desk". B02 and B03 follow.
 
+- **Re-anchor, 2026-11-13 (§664; DP3c.1, d83f8b175187):** *the Vienna desk* is defined at **C03:173** (was C04:179). Clause eleven is defined at **C03:175** (was C04:177), and named again at C21:29. The "held" beat is C14:23 (was C16:23). The suspension call is C42:23 (was C43:153). "Tear it out" is C22:171. The "book burned or lost is a breach" line (was C22:109) is gone; its function now sits at C42:225 (a leaf kept back is a breach). "His Lacombe form had been" (was C38:77) is not on DP3c.1.
+
 END — LUCIEN KAEL IDENTITY CANON

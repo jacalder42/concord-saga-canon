@@ -304,3 +304,4 @@ They are the institutional antagonist the world must learn to live beyond.
   - **X7 amended (L10):** Caldas's B01 force is one act of bodily violence against a bystander (Mr. Ledet's wrist) and pressure on Baz. The B01 rung of the ladder ("surveillance in B01") reads with that addition; leadership's B02 restraint follows from it.
   - **U10:** B01 names "Dominion" and "The Hollen Institute" publicly (C31, chalk on a church gatepost). Baz's naming to the cast (C16) stays the first; *"a house"* (above) is Mrs. Carmouche's word for the gathering, not the only public name.
   - **U2:** the cast infers a leak from near the Vienna desk to Pryor; the chair and mechanism stay unknown, and nothing makes Pryor Dominion's.
+- **Re-anchor, 2026-11-13 (§664; DP3c.1, d83f8b175187):** *the Vienna desk* is defined at **C03:173** (was C04:179). Baz's enciphered folder is C15:55 (was C17:73), and the folder's tab is C25:35.
