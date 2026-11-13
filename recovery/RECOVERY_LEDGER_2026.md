@@ -19745,3 +19745,16 @@ END RECOVERY LEDGER
   - the professional read of C26;
   - the B02 opening re-alignment;
   - registry rows for Kevontae, Pam and Bijou, if wanted.
+
+## §666 — B01 DP3c.1: C26's professional read cleared; three registry rows, 2026-11-13
+
+- **The author reported** "professional read of c26 has cleared." That closes the open item in §664 and §665. C26 stands as on DP3c.1 (d83f8b175187), and F3 as amended at §662.
+- **Registry rows added** on the author's "proceed with registry rows" (offered at §664, report §4). They hold page facts only, with recurrence OPEN:
+  - **B43 Kevontae**, on Brianna's crew (C28, C32, C39);
+  - **B44 Pam**, the camp-night dispatcher (C01);
+  - **B45 Bijou**, Vernice's cat, with Baz from C34.
+- **Brianna is still unregistered** (she is on the narration sheet). No row was asked for.
+- **CLAUDE.md §8** drops the C26 read from its open list.
+- **Still open:**
+  - Hampson (C25), recommended "on Carrollton, at Hampson", for the writer thread;
+  - the B02 opening re-alignment (§664 report §3.4). Recommended timing: at the start of B02 writing, keyed to the B01 text locked then.
