@@ -19677,3 +19677,13 @@ END RECOVERY LEDGER
   - **Registry B28 (Mrs. Arceneaux):** a dated note refreshes her page facts to B, with no cup on her porch and B's chapter keys.
   - **B02 E48:** a correction note. The camera is the Pontalba camera (the State Museum's, placed on Ren's request, C38), not "the Foundation's". The §660 note had it wrong. U19's grounds are unchanged.
   - Nothing else changes. Trial DP is not adopted.
+
+## §662 — B01: Lucien's Columbus sheet, F3 amended (author ruling), 2026-11-13
+
+- **The author answered "A"** (07:34 US Central) to the Calder gate on trial DP3b (a7aa61a4272a, 110,629 words; manuscript `draft-notes/r9-gate/05_CALDER_GATE_TRIAL_DP3B_2026-11-13.md`).
+- **The ruling:** F3's *used, not complicit* (B01) is amended. In B01 Lucien is used, and once knowingly compliant: the Columbus sheet at C24, weighed against clause eleven, admitted at C26. B02 E08's exit becomes his first knowing obedience to the Dominion by name.
+- **Scope:** the R9 line. It binds when a text carrying it is adopted. **B stays the last cleared text; DP3b is not adopted.**
+- **Canon updated:**
+  - `decisions/B01_LUCIEN_F3_COLUMBUS_SHEET_AUTHOR_RULING_2026-11-13.md`;
+  - dated notes on LucienID and B02 E08.
+- **On DP3b's adoption:** the notes listed in the gate note §3 (B02 E13, E44; B03 E42; registry B28).
