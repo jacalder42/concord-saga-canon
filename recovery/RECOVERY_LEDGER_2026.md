@@ -19785,3 +19785,23 @@ END RECOVERY LEDGER
   - the C27 early-arrival polish (logged, not applied);
   - optionally, "six miles by road" at C25:199;
   - the B02 opening re-alignment (§664 report §3.4), at the start of B02 writing.
+
+## §668 — B01: DP3c.3 and DP3c.4 cleared; trial DP4.1 clearable, 2026-11-14
+
+- **DP3c.3** (181fd985de2b, 110,676) and **DP3c.4** (4dd0577b8dcf, 110,675) are confirmed: facts only, no canon effect.
+  - DP3c.3 has four lines: C25:93 "across the street"; C25:199 "six miles by road"; C26:103 "back across Carrollton"; C27:27, the early-arrival polish. Baz's inference stays his.
+  - DP3c.4 has one line: C35:35, kitchen and linoleum, matching C03.
+  - Both were author-approved ("Approved, apply both 3 and 4"; "Proceed as recommended").
+  - **The last cleared text of B01 is DP3c.4.** It is the text with the beta readers.
+- **Trial DP4.1** (310fc569b2da, 110,621) **is clearable as is.** It is the bounded pass: decision sets v1 and v2 of the manuscript's `draft-notes/full-read-review-2026-11-14/`, author "Proceed as recommended", plus F1–F4. Every hunk matches an approved item, and no ruling is crossed.
+  - **§605 stake (A8):** C35:49 and C42:225 name the posting as what lets Lucien stay in the country. That is already canon (Hollen is his employer of record; the C42 books beat). No status is chosen, and the immigration record's "no immigration subplot" holds.
+  - **Elisabet (A9, F3):** C36:73 and C43:63 put restored canon on the page: Hollen funded her first season, asked for the notebooks and the names, and she sent the numbers and burned the notebooks (ElisabetID §620 note; the 10-28 ruling §5). **§665 holds:** she is not told Lucien named her wells. **Watch:** Hollen's "records like mine" must not grow into a list of sites.
+  - **§662 holds.** C38:11's recognition adds no compliance, because the Square went on her *Send it* (C36:161).
+  - **The Saturday guard** moves from C35 to C41:159 ("wrote nothing"), and C42:5 stands. B02 E48's grounds are unaffected.
+  - **C43:11** (what a cup had already read goes to Vienna) agrees with T4-8.
+- **Adoption is the author's call.** On adoption, enter:
+  - dated notes on registry B28 (the cut line "not mine to shout" and its replacements, C22:59/:141) and B44 (Pam's quote, C01:43);
+  - dated notes on LucienID, ElisabetID and B02 E05;
+  - the line-key map: C22 >58 +2; C23 >15 −2; C32 >134 +2; C35 −4/−16; C38 12–67 +2 (:65 cut); C43 >39 +4.
+- **One optional writer note:** C32:137, "She watched him…", can read as Brianna after her new call.
+- **The gate note** is in the manuscript repo: `draft-notes/r9-gate/10_CALDER_GATE_DP3C3_DP3C4_DP41_2026-11-14.md`.
