@@ -19894,3 +19894,34 @@ END RECOVERY LEDGER
   - LucienID (the camp entry; Wonder A);
   - the line-key map;
   - the Exact register re-keyed.
+
+## §674 — B01: DP5 adopted; notes, line keys and register entered, 2026-11-14
+
+- **The author:** "Adopt dp5." **The last cleared text of B01 is DP5:** sha256 **6b4434aa9a23**, **110,377** words, 43 chapters (writer branch @d23c074e, `draft-notes/trial-dp5-2026-11-14/`).
+  - It supersedes DP4.3 (94c9b5bf0b0d), which is kept unchanged.
+  - Gated at §672, with the camp entry ruled at §673. The text was rechecked unchanged before adoption.
+- **§673 now binds:** the camp entry goes to Vienna, under the forward guard.
+- **Notes entered (dated 2026-11-14):**
+  - registry B13 (Renée): she hears *drive out Mon.* from Caldas's young man before Seraphine admits it;
+  - LucienID: the camp entry, Wonder A, Plan R, and §662 verbatim at its new keys;
+  - B02 E08 and BC-CAMP-HOLDING (entered at §673).
+- **Line keys, DP4.3 → DP5** (from the §669 numbering):
+  - C17: lines after 92 move +2;
+  - C19: 134–135 move −2, and lines after 137 move −4;
+  - C20: 68–166 move +4, and lines after 166 move +6;
+  - C23: lines after 150 move +2;
+  - C24: 26–212 move −6, and lines after 212 move +2;
+  - **C25: 16–258 move +2;**
+  - C26: lines after 81 move −10;
+  - C27: lines after 110 move −4;
+  - C28: 40–62 move −4, 70–180 move −10, and lines after 182 move −12;
+  - C29: 44–49 move −4, and lines after 49 move +6;
+  - C30: lines after 45 move +6;
+  - C31: 199–201 move −2, and lines after 206 move −6;
+  - C34: 45–46 move −2, and lines after 51 move −6;
+  - **C42: 129–130 move +2;**
+  - C43: lines after 147 move +2.
+  - The gate note's §4 missed C25 and C42, and is corrected in the manuscript repo.
+  - The DP3c.1 → DP4.2 map (§669) applies first.
+- **The private Exact register is re-keyed to DP5** (manuscript `draft-notes/r9-gate/07_…`, addendum; 27 anchors move).
+- **Fresh beta readers** should get DP5. The first readers keep DP3c.4.
