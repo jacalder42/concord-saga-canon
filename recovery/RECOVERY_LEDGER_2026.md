@@ -19858,3 +19858,24 @@ END RECOVERY LEDGER
 - **Line keys are unchanged from DP4.2** (all five edits are in-line). C36 does not shift, so §669's six-chapter map stands as it is.
 - **Card notes:** registry B28 gets a dated note, because §669 quoted the trimmed clause. The other §669 notes still read true.
 - **Housekeeping:** CLAUDE.md §8 still listed B07's extra field as open. That item was closed at §670 and is now dropped.
+
+## §672 — B01: trial DP5 gated, clearable after one author answer, 2026-11-14
+
+- **Trial DP5:** sha256 **6b4434aa9a23**, **110,377** words. It answers the Edithedits Stage 1 review, with the author's decision set, Option A, and wonder moments A and B. Calder reproduced the hash and the count.
+- **Not adopted.** DP4.3 stays the last cleared text.
+- **Checks:**
+  - The Exact check is 43 PRESENT, 2 CHECK and no ABSENT; the bans are clean.
+  - The §662 and §664 anchor lines are verbatim at their new positions.
+- **G1–G8 pass:**
+  - **L10/X7 holds.** Option A is speech, not force.
+  - **Renée's knowledge changes.** She hears *drive out Mon.* from Caldas's young man before Seraphine admits it. No B02/B03 card reads her.
+  - **U2 is unaffected** by Wonder A's extra onset at a sheet site.
+  - **Wonder B is unrecorded** by Caro's choice.
+- **One unlisted change needs the author:**
+  - **What changed:** at C20 the camp's four-millimetre pull ("Pulled toward a place") is now written in Lucien's field book, and the books go to Vienna (C42–C43).
+  - **What it breaks:** neither Q-FT5 nor the narrowed first-tear guard nor the B09 A3 site constraint.
+  - **The exposure:** it gives Vienna's file a second North Shore anomaly in Lucien's hand, beside the lake minute.
+  - **Recommended (a):** accept, with a forward guard. Through B03, no Dominion character links or acts on the camp entry, or connects the camp and the lake. Notes go on B02 E08 and BC-CAMP-HOLDING.
+  - **Or (b):** keep the entry out of the books, a page change at C20.
+- **On adoption:** a note on registry B13 (Renée); notes on LucienID (the camp entry; Wonder A); the line-key map; the Exact register re-keyed.
+- **The gate note** is in the manuscript repo: `draft-notes/r9-gate/11_CALDER_GATE_TRIAL_DP5_2026-11-14.md`.
