@@ -19805,3 +19805,30 @@ END RECOVERY LEDGER
   - the line-key map: C22 >58 +2; C23 >15 −2; C32 >134 +2; C35 −4/−16; C38 12–67 +2 (:65 cut); C43 >39 +4.
 - **One optional writer note:** C32:137, "She watched him…", can read as Brianna after her new call.
 - **The gate note** is in the manuscript repo: `draft-notes/r9-gate/10_CALDER_GATE_DP3C3_DP3C4_DP41_2026-11-14.md`.
+
+## §669 — B01: DP4.2 adopted; card notes and line keys entered, 2026-11-14
+
+- **The author adopted DP4.2** as the working manuscript ("Proceed as recommended"; manuscript `draft-notes/trial-dp4-2026-11-14/03_ADOPTION_DP42.md`, commit 71ec3e2c).
+  - **DP4.2:** sha256 **10b6541b06e4**, **110,621** words, 43 chapters.
+  - It is DP4.1 (gated at §668) plus one word at C32:137 ("Seraphine watched him…"), the clarity note from the gate.
+  - Calder reproduced the hash and the count, and confirmed the one-word diff. **It has no canon effect.**
+- **The last cleared text of B01 is DP4.2**, superseding DP3c.4. DP3c.4 stays unchanged with the beta readers; their notes map onto DP4.2 through the manuscript's `reports/DIFF_DP3C4_TO_DP42.diff`.
+- **Card notes entered (dated 2026-11-14):**
+  - registry B28: "not mine to shout" is cut; the gap is now at C22:59 (Baz) and C22:141 (Lucien); C29 stands;
+  - registry B44: Pam's line and the wreck, C01:43;
+  - LucienID: the stake on the page at C35:49 and C42:225, with no status and no subplot; C38:11 within §662; the Saturday guard now at C41:159;
+  - ElisabetID: the restored first-season facts on the page at C36:73 and C43:63; §665 holds; the "records like mine" watch;
+  - B02 E05: her Hollen history is known ground for Lucien's admission; she is still not told his part.
+- **Line keys, DP3c.1 → DP4.2** (DP3c.1 to DP3c.4 share one numbering; line 1 is the chapter heading):
+  - C22: lines after 58 move **+2**;
+  - C23: lines after 15 move **−2** (B03 E12's C23:129–135 → 127–133; B23's C23:89 → 87);
+  - C32: lines after 134 move **+2**;
+  - C35: lines 50–53 fold into :49; lines after 85 move **−16**;
+  - C38: lines 12–67 move **+2**; :65 is cut;
+  - C43: lines after 39 move **+4** (Elisabet's 53–65 → 57–69).
+  - All other chapters are unchanged. The writer's `work/C01.md` numbers C01 three lines higher than this convention (Pam: 46 against 43); every other chapter matches.
+- **Found, not fixed:** registry row **B07** has 16 fields, not 15. A §598 note (the C22 bus driver renamed Floyd) was appended as a separate field rather than inside the last one. The validator passes and nothing reads the extra field. Folding it into field 15 is a one-line repair; it waits for an author yes.
+- **Still open:**
+  - the beta readers' reports;
+  - the serial packaging (B7–B10), when the author wants it;
+  - the B02 opening re-alignment (§664 report §3.4), at the start of B02 writing.
