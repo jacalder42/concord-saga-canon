@@ -19879,3 +19879,18 @@ END RECOVERY LEDGER
   - **Or (b):** keep the entry out of the books, a page change at C20.
 - **On adoption:** a note on registry B13 (Renée); notes on LucienID (the camp entry; Wonder A); the line-key map; the Exact register re-keyed.
 - **The gate note** is in the manuscript repo: `draft-notes/r9-gate/11_CALDER_GATE_TRIAL_DP5_2026-11-14.md`.
+
+## §673 — B01 DP5: the camp entry reaches Vienna, ruled (a); DP5 cleared, 2026-11-14
+
+- **The author answered §672's question:** "A, proceed as recommended" (`decisions/B01_DP5_CAMP_ENTRY_TO_VIENNA_AUTHOR_RULING_2026-11-14.md`).
+  - **The ruling:** the C20 camp entry stays and goes to Vienna in the books.
+  - **The forward guard:** through B03, no Dominion character links it to any other site or acts on it, and none connects the camp with the lake.
+  - **Binds** when a text carrying the entry is adopted, as at §662.
+- **Notes entered:** B02 E08 (the camp clause sits beside the entry; H8 stands) and the breadcrumb grid's BC-CAMP-HOLDING.
+- **Trial DP5 (6b4434aa9a23) now has nothing left to gate.**
+- **Adoption is the author's.** DP4.3 stays the last cleared text until then.
+- **On adoption,** the §672 list goes in:
+  - registry B13 (Renée);
+  - LucienID (the camp entry; Wonder A);
+  - the line-key map;
+  - the Exact register re-keyed.
