@@ -19832,3 +19832,9 @@ END RECOVERY LEDGER
   - the beta readers' reports;
   - the serial packaging (B7–B10), when the author wants it;
   - the B02 opening re-alignment (§664 report §3.4), at the start of B02 writing.
+
+## §670 — Registry B07: stray field folded in (author "Fix defect"), 2026-11-14
+
+- **The defect** (found at §669): row B07 had 16 fields. Its §598 note ("the C22 bus driver is renamed Floyd… Ramon Espina stays unused in B01") had been appended as a separate field after `approval`.
+- **The fix:** the note is moved, word for word, into the end of the `approval` field after a space. Fields 1–14 are byte-identical. Every registry row now has 15 fields.
+- **No content changed.**
