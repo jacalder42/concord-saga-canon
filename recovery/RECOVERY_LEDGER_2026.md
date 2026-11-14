@@ -19838,3 +19838,23 @@ END RECOVERY LEDGER
 - **The defect** (found at §669): row B07 had 16 fields. Its §598 note ("the C22 bus driver is renamed Floyd… Ramon Espina stays unused in B01") had been appended as a separate field after `approval`.
 - **The fix:** the note is moved, word for word, into the end of the `approval` field after a space. Fields 1–14 are byte-identical. Every registry row now has 15 fields.
 - **No content changed.**
+
+## §671 — B01: DP4.3 adopted and gated, 2026-11-14
+
+- **The author adopted DP4.3** as the working manuscript ("Proceed as recommended" to four finishing items; manuscript `draft-notes/trial-dp4-2026-11-14/04_DP43_ADOPTED_AND_GATE_REQUEST.md`, commit 91702a1b).
+  - **DP4.3:** sha256 **94c9b5bf0b0d**, **110,615** words, 43 chapters.
+  - Calder reproduced the hash and the count. The Exact check against DP3c.4 is 44 PRESENT and 1 CHECK (#37, the C35:49 paragraph; the phrase is verbatim).
+- **The diff against DP4.2 is five in-line edits, and passes:**
+  - C22:59: Baz's beat is trimmed ("There was no cup on this porch.");
+  - C32:135: "Brianna called", so the call is unambiguously hers;
+  - C35:49: Lucien asks ("If you will let me, I tell them where you will be") instead of settling the tactic;
+  - C36:151: Seraphine's note chooses Vernice's table herself ("I'm going to say yes");
+  - C43:65: Elisabet asks Caro to "Read it before it goes".
+- **No canon effect.**
+  - **The Saturday plan:** Lucien proposes, and Seraphine chooses the place and authorises it (C36:151, *Send it* at C36:161). It is still no compliance, so §662 holds; C38:11 stays consistent.
+  - **Elisabet's invitation** agrees with her burned notebooks and the data-ethics turn through Caro (ElisabetID §620 note).
+  - **§665 holds.**
+- **The last cleared text of B01 is DP4.3**, superseding DP4.2. Fresh beta readers get DP4.3.
+- **Line keys are unchanged from DP4.2** (all five edits are in-line). C36 does not shift, so §669's six-chapter map stands as it is.
+- **Card notes:** registry B28 gets a dated note, because §669 quoted the trimmed clause. The other §669 notes still read true.
+- **Housekeeping:** CLAUDE.md §8 still listed B07's extra field as open. That item was closed at §670 and is now dropped.
