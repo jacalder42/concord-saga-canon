@@ -19935,3 +19935,10 @@ END RECOVERY LEDGER
 - **Canon effect: none.** Nothing in canon gives Mrs. Arceneaux an Easter Monday schedule; registry B28's "Mondays" stands. C22 stays Baz's first sitting. No card cites either old line.
 - **Checks:** hash and word count reproduced; Exact register 45 PRESENT; bans unchanged. Gate note: manuscript `draft-notes/r9-gate/12_CALDER_GATE_TRIAL_DP51_2026-11-15.md`.
 - **Adoption is the author's.** DP5 stays the last cleared text until then. On adoption, no card notes or key changes are needed.
+
+## §676 — B01: DP5.1 adopted, 2026-11-15
+
+- **The author:** "adopt". **The last cleared text of B01 is DP5.1:** sha256 **53cb0d72315c**, **110,384** words, 43 chapters (writer branch @6fe54b44, `draft-notes/trial-dp51-2026-11-15/`). Rechecked unchanged before adoption.
+  - It supersedes DP5 (6b4434aa9a23), which is kept unchanged. Gated at §675.
+- **Nothing else moves:** no line keys (DP5 keys hold), no card notes, no change to the private Exact register.
+- **Readers:** fresh beta readers should get DP5.1. The 2026-11-14 beta packet carries DP5, so it wants the DP5.1 reading copy; the first readers keep DP3c.4.
