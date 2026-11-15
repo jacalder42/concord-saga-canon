@@ -148,6 +148,8 @@ Seven attributed lines in B01: a direction, not a settled voice.
 | Under pressure | [C] quieter, more decisive | Shortest at the end | Leave it |
 | Language | Tremé | Local food talk as a boundary | Profile §12B |
 
+> **Correction (2026-11-15, author ruling):** the Trip row's "**[VS]'s innuendo is retired**" is withdrawn as an error. Trip is intended to be flirtatious and provocative when the moment calls for it. See `decisions/TRIP_FLIRTATION_AND_INNUENDO_AUTHOR_RULING_2026-11-15.md`.
+
 ## 8. Characters not yet on a measured page
 
 Rex, Tahl, Kade, Lacuna, Elias and the antagonists have no B01 dialogue to weigh. **Their cards govern** until a

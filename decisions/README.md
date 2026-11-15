@@ -181,6 +181,7 @@ requires sit beside it and name the ruling they serve
 | `B01_OPEN_QUESTIONS_ALL_AS_RECOMMENDED_AUTHOR_ANSWERS_2026-10-05.md` | **Approved design.** The post-merge register's §6 recommendations are accepted, except voice, language and lens, which go to side-by-side review; Q-LL5 is done and the pilot form approved (ledger §431) |
 | `B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md` | **Approved design.** Q-LB1–10 (profile §12B), Q-VI1–13 and Q-EL1–3 as recommended; POV chapter headings, a listening EPUB and the narrator's sheet; Level B book-wide (ledger §435) |
 | `B01_REVIEW_FOLLOW_UPS_AUTHOR_ANSWERS_2026-10-06.md` | **Approved design.** Lucien's heritage corrected (French mother, Austrian father); Q-LB9 nothing to record; the lens *ladder* is the relationship ladder (ledger §438) |
+| `TRIP_FLIRTATION_AND_INNUENDO_AUTHOR_RULING_2026-11-15.md` | **Withdraws the 2026-10-05 clause retiring Trip's innuendo as an error.** Trip is intended to be flirtatious and provocative when the moment calls for it. Not ruled: the *dry and kind* default, Render/Appearance limits, the music, any manuscript change |
 
 ### Earlier rulings, which stay in `recovery/`
 

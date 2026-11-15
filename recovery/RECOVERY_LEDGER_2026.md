@@ -17742,4 +17742,17 @@ END OF ENTRY 382
   in the private draft and `ebci/prose/AUDIO_NARRATION_SHEET_B01.md`; recorded as a follow-up in
   `decisions/B01_ENGINE_REVISION_ACCEPTANCE_AUTHOR_ANSWER_2026-10-09.md`.
 
+## §482 — Trip: the innuendo clause withdrawn; flirtation is intended, 2026-11-15
+
+- **Author:** *"innuendo ruling was erroneous. She is intended to flirtatious and provocative when the moment calls for
+  it"*. Recorded in `decisions/TRIP_FLIRTATION_AND_INNUENDO_AUTHOR_RULING_2026-11-15.md`.
+- **What was wrong:** the 2026-10-05 note on `canon/characters/TripID.md` §XII (Q-VI7) retired *Voice systems*'
+  innuendo as conflicting with the card's *kind*. **What replaces it:** a dated note appended under it; the earlier
+  note is kept as the record. A pointer is appended in `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md`.
+- **Not ruled:** how flirtation sits with the *dry and kind* default (Q-VI8); the Render and Appearance limits; the
+  music profile's lane and which recordings go out under her name; any manuscript change; whom she flirts with.
+- **Context (private, manuscript repository):** a simulated beta round on B01 reading copy 8 and a proposal comparing
+  Trip's cards and recovered music profile with the page
+  (`draft-notes/sde-isolated-beta-round-2026-11-14/`). B01's text shows no flirtation from Trip.
+
 END RECOVERY LEDGER
