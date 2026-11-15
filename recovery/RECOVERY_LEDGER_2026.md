@@ -19925,3 +19925,13 @@ END RECOVERY LEDGER
   - The DP3c.1 → DP4.2 map (§669) applies first.
 - **The private Exact register is re-keyed to DP5** (manuscript `draft-notes/r9-gate/07_…`, addendum; 27 anchors move).
 - **Fresh beta readers** should get DP5. The first readers keep DP3c.4.
+
+## §675 — B01: trial DP5.1 gated, clearable as is, 2026-11-15
+
+- **The text:** DP5.1, sha256 **53cb0d72315c**, **110,384** words (writer branch @6fe54b44, `draft-notes/trial-dp51-2026-11-15/`). A facts-only trial on DP5 that the author approved (*"a"*, 2026-11-15), from the coordinator's cross-round comparison.
+- **Two lines change; no line keys move:**
+  - C16:195, Miss Tavie: Mrs. Arceneaux does not cook on Easter Monday, so the porch test first runs on Mon 13 April (C22);
+  - C43:11: the last door on Seraphine's list now waits until Wednesday, instead of being narrated under Tuesday.
+- **Canon effect: none.** Nothing in canon gives Mrs. Arceneaux an Easter Monday schedule; registry B28's "Mondays" stands. C22 stays Baz's first sitting. No card cites either old line.
+- **Checks:** hash and word count reproduced; Exact register 45 PRESENT; bans unchanged. Gate note: manuscript `draft-notes/r9-gate/12_CALDER_GATE_TRIAL_DP51_2026-11-15.md`.
+- **Adoption is the author's.** DP5 stays the last cleared text until then. On adoption, no card notes or key changes are needed.
