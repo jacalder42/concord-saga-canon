@@ -19942,3 +19942,25 @@ END RECOVERY LEDGER
   - It supersedes DP5 (6b4434aa9a23), which is kept unchanged. Gated at §675.
 - **Nothing else moves:** no line keys (DP5 keys hold), no card notes, no change to the private Exact register.
 - **Readers:** fresh beta readers should get DP5.1. The 2026-11-14 beta packet carries DP5, so it wants the DP5.1 reading copy; the first readers keep DP3c.4.
+
+## §677 — B01: trial DP5.2 (Trip's gears) gated, clearable, 2026-11-18
+
+- **The text:** DP5.2, sha256 **76c0d8dcdd27**, **111,412** words (writer branch @05c8e72d, `draft-notes/trial-dp52-trip-2026-11-18/`). A trial on DP5.1 carrying the author's approved proposal *"Trip's gears"* (seven revisions) and two clauses he added (C22:289, C32:75).
+- **Result: clearable against the six rulings the author approved on 2026-11-17** (recorded at §678). Every new Trip line sits inside them: causes only about the person in front of her (C02, C21 twice); no final truth about the Square (C11); banter without innuendo (C21); the Vein never becomes one of Lucien's sites; she resolves no plot conflict.
+- **Baz:** he learns on 11 April that a man buys minutes of the Square fall (C21), sets it aside (C22:289) and tells no one. No canon card (BazID, BazEBCI, B02, B03) has him first learning it later.
+- **The cut C21 "Fridays" clause** was never in a cleared text and no card cites it.
+- **Checks:** hash and word count reproduced; Exact register 45 PRESENT, DP5.1 against DP5.2; bans unchanged. Gate note: manuscript `draft-notes/r9-gate/13_CALDER_GATE_TRIAL_DP52_TRIP_2026-11-18.md`.
+- **Line keys, DP5.1 → DP5.2:** C02 after 237 +2; C11 after 96 +8; C21 38–195 +14, 196–223 +16, after 223 +38; C34 after 304 +6; C38 after 169 +2; C43 after 53 +2. C22:289 and C32:75 change in line. Unchanged anchors include C21:29, C38:11 and C43:5/:11/:31.
+
+## §678 — B01: DP5.2 adopted; the Trip rulings recorded, 2026-11-19
+
+- **The author:** "Adopt and record". **The last cleared text of B01 is DP5.2** (76c0d8dcdd27, 111,412 words), rechecked unchanged at the tip. DP5.1 (53cb0d72315c) is superseded and kept.
+- **The six rulings of 2026-11-17 are recorded** in `decisions/TRIP_GEARS_AND_POV_RULE_AUTHOR_RULING_2026-11-17.md`:
+  1. TripID IX: she may name a cause about the person in front of her, from inside a gear; never the plot or the world, never leading, never to the reader;
+  2. TripID I: "truth" narrows to the final truth about events;
+  3. her humor default is "dry at the door, warm at the bar, playful on the floor, and kind throughout";
+  4. the tease is banter and nicknames, never innuendo, never romantic;
+  5. a dated note on the October 5 voice pass;
+  6. she still cannot resolve plot conflicts or replace the leads' emotional work.
+- **Card notes:** TripID (under I and IX; voice and gears; the page facts with DP5.2 anchors; *SAZERAC*, not *TODDY*, corrects the 10-18 note); `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md` §7; BazID (the minute-buyer); registry B34 (Mr. Alcide's front window). B02 E04 and B03 E25 are unchanged.
+- **Readers:** fresh beta readers get DP5.2; the first readers keep DP3c.4.

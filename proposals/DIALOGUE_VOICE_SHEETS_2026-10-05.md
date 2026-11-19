@@ -148,6 +148,8 @@ Seven attributed lines in B01: a direction, not a settled voice.
 | Under pressure | [C] quieter, more decisive | Shortest at the end | Leave it |
 | Language | Tremé | Local food talk as a boundary | Profile §12B |
 
+**Dated note, 2026-11-17 (author ruling, ruling 5; `decisions/TRIP_GEARS_AND_POV_RULE_AUTHOR_RULING_2026-11-17.md`; recorded 2026-11-19, ledger §678):** Trip's POV rule was loosened at the author's word on 2026-11-17: she may name a cause about the person in front of her, from inside one of her gears. Her humor default is now *dry at the door, warm at the bar, playful on the floor, and kind throughout*, which replaces "dry and kind" for her in this row, in §1's Q-VI8 defaults and in §10's dry-humor row. Innuendo stays retired; nicknames are now part of her tease gear.
+
 ## 8. Characters not yet on a measured page
 
 Rex, Tahl, Kade, Lacuna, Elias and the antagonists have no B01 dialogue to weigh. **Their cards govern** until a

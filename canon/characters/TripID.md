@@ -5,6 +5,7 @@
 - **Role Function:** social stabilizer; threshold keeper; continuity witness
 - **Saga Position:** human-scale connective tissue across trilogies; maintains social coherence as institutions and metaphysical structures fracture
 - **Hard Rule:** Trip’s authority is social and situational; she never claims truth, leadership, or narrative control
+  - **Amended 2026-11-17 (author ruling, ruling 2; `decisions/TRIP_GEARS_AND_POV_RULE_AUTHOR_RULING_2026-11-17.md`; recorded 2026-11-19, ledger §678):** "truth" narrows to **she never claims the final truth about events**. Leadership and narrative control stay as they are.
 
 ## II. Geographic Origin
 - **Birthplace:** New Orleans, Louisiana
@@ -53,6 +54,7 @@
 - **Leadership ceiling:** Trip does not lead movements, factions, or strategy
 - **Authority posture:** host, witness, stabilizer, mirror
 - **POV rule:** Trip may name tension but never diagnose cause; she observes patterns, not truths
+  - **Amended 2026-11-17 (author ruling, ruling 1; `decisions/TRIP_GEARS_AND_POV_RULE_AUTHOR_RULING_2026-11-17.md`; recorded 2026-11-19, ledger §678):** Trip **may name a cause about the person in front of her, from inside one of her gears**. She never explains the plot or how the world works, never leads the cast, and never addresses the reader. Unchanged (ruling 6): she cannot resolve plot conflicts or replace the leads' emotional work.
 - **Explicit rule:** Trip influences through conversation and presence, never through instruction or explanation
 
 ## X. Temporal & Bridge Function (LOCKED)
@@ -76,5 +78,20 @@
 - **Note (added 2026-10-05, author-approved, approved design, Q-VI7 and Q-VI8): voice.** The card and the page agree and stand. *Voice systems*' **innuendo is retired** (it conflicts with this card's *kind*); its **nicknames as gifts** stay **available, not owed**. **Humor default (Q-VI8):** dry and kind. *Voice systems* (2025-11-30) is **Tier D design** (Q-VI13): evidence of intent in side-by-side reviews, not canon. Review-side; the drafting stack is unchanged (Q-WP3, with Q-VI1's clause). Side by side in `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md`. (author 2026-10-05, "Yes, all as recommended", `decisions/B01_LISTENING_REALISM_AND_SIDE_BY_SIDE_AUTHOR_ANSWERS_2026-10-05.md`, from `proposals/DIALOGUE_VOICE_INTENT_VS_PAGE_2026-10-05.md`)
 
 - **Dated note, 2026-10-18 (final B01 page; ledger §591): card facts.** She gives Baz a pallet in the back room, swept, "through Thursday", and tapes **BAZ** over the empty hook behind the register beside Seraphine's **TODDY** (C03, C37). She makes red beans on a Thursday for Baz, because he asked her in French (C34).
+
+- **Dated note, 2026-11-17 (author ruling; `decisions/TRIP_GEARS_AND_POV_RULE_AUTHOR_RULING_2026-11-17.md`; recorded 2026-11-19, ledger §678): voice and gears.**
+  - **Humor default (ruling 3, replaces Q-VI8's "dry and kind"):** dry at the door, warm at the bar, playful on the floor, and kind throughout.
+  - **The tease gear (ruling 4):** banter and nicknames, never innuendo, never romantic. Flirtation as a trait stays Elisabet's.
+  - **Her gears (approved design):** host, bartender, performer, tease, gossip keeper, bouncer, auntie. She changes gear to meet whoever is in front of her.
+
+- **Dated note, 2026-11-19 (page facts, DP5.2, 76c0d8dcdd27; ledger §678): the gears on the B01 page.**
+  - Auntie: she tells Seraphine why she is a Sazerac (C02:237–239).
+  - Gossip keeper: "I pour." She keeps every version of the Square and claims none (C11:97–103).
+  - Gossip keeper, then bouncer: she names the man buying minutes to his face and bars him (C21:37–51, Sat 11 April).
+  - Performer and tease at the boil, Sun 12 April: "At ease, Rows", "Nobody breathe" (C21:197–229).
+  - Host, bouncer, tease: she refuses Lucien her front window ("a *post*"), and offers him the end stool (C21:241–261). The Vein is not one of his sites.
+  - Her gears jam with Baz: asked what her own tape would say, she says only "Trip" (C34:305–310). It seeds B02 E04 and B03 E25 without spending them.
+  - "Nobody touches my box" (C38:171); the brass crawfish opener for Caro (C43:55).
+  - **Correction to the 2026-10-18 note:** Seraphine's tape says **SAZERAC** (C02:229; C34:295), not *TODDY*, and BAZ goes on the hook beside it at C34:297.
 
 END — TRIP IDENTITY CANON
