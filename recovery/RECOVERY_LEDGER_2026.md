@@ -20014,3 +20014,12 @@ END RECOVERY LEDGER
 - **Cards:** TripID's brass crawfish C43:55 → C44:57, now with Seraphine's nod. BazID C22:289 → C22:287, plus the C07 Houston page fact (he hears Lucien's message and does not call back). Registry B34 is unchanged.
 - **Still open:** the three Exact amendments RC4, #44 and #37C20. They are reverted in the adopted text until the author rules; Calder recommends approving RC4.
 - **Correction to §680's line keys:** chapter keys count the heading as line 1. On that count TripID's "Nobody touches my box" **stays C38:171**; §680's "C38:170" was wrong. Most DP5.2 anchors in C01–C37 keep their keys; C22:289 → C22:287 and C03:175 → C03:173 move. Gate note 15 §7 is corrected to match.
+
+## §682 — B01: RC4 accepted; DP5.3.2 is the cleared text, 2026-11-20
+
+- **The author:** "Accept as recommended" on the three Exact amendments left open at §681.
+  - **RC4 is accepted:** the L.K. pair (C20, C27) drops "a week on", which amends the 11-08 RC-4 re-anchor (§658).
+  - **#44 and #37C20 are not taken;** they had no recommendation.
+- **The last cleared text of B01 is DP5.3.2** (2c37332b5589, 112,753 words, 44 chapters; manuscript `draft-notes/trial-dp532-2026-11-20/`). It is DP5.3.1 with RC4 applied in both copies and nothing else. Calder applied the writer's own specified wording, at the author's request for a new file.
+- **Checks:** hash and count reproduced. Exact register DP5.3.1 against DP5.3.2: 44 PRESENT, 0 CHECK, 1 ABSENT (RC4, as approved). No canon card cites the phrase. Line keys do not move.
+- **Recorded:** an addendum to the 11-20 ruling file; a dated amendment on the trial-5a rulings; the private Exact register and holds register.

@@ -45,3 +45,9 @@ Until the author rules, the adopted text carries all three as they were.
   - Registry B34 keeps its keys.
 - **The holds register** (private): an addendum for F6, X3, W-I8, S-light, W11 and the folder.
 - **The chapter and line map:** gate note 15 §7 (manuscript `draft-notes/r9-gate/`), as corrected at §681.
+
+---
+**Addendum, 2026-11-20 (later; ledger §682). The author: "Accept as recommended".**
+- **RC4 is accepted.** The L.K. note pair (C20, C27) drops "a week on". The entry above it dates the camp to 23 March, so the cup's day is that entry's. This amends the 11-08 RC-4 re-anchor (`decisions/B01_TRIAL5A_AUTHOR_RULINGS_2026-11-08.md`).
+- **#44 and #37C20 are not taken.** Neither had a recommendation, so the wording stays as it is.
+- **The last cleared text of B01 is DP5.3.2**: sha256 **2c37332b5589**, **112,753** words, 44 chapters (manuscript `draft-notes/trial-dp532-2026-11-20/`). It is DP5.3.1 with RC4 applied and nothing else (Exact register: 44 PRESENT, 1 ABSENT, RC4 as approved). DP5.3.1 is superseded and kept.
