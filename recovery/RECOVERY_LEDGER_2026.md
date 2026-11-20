@@ -19979,3 +19979,22 @@ END RECOVERY LEDGER
   - Caro is not classified (N8 reserves Hope's contact for B05).
   - The TRIP hook points without spending if nobody remarks on it.
 - **Where:** gate note, manuscript `draft-notes/r9-gate/14_CALDER_GATE_DP52_PROPOSALS_2026-11-20.md`.
+
+## §680 — B01: trials DP5.3 and DP5.3.1 gated, both clearable, 2026-11-20
+
+- **The texts** (writer branch, `draft-notes/trial-dp53-2026-11-20/` and `trial-dp531-2026-11-20/`): DP5.3, sha256 **b0519b135848**, 112,563 words; **DP5.3.1, sha256 68da2148b5c6, 112,759 words**, DP5.3 with seven fixes. Both carry the author's 2026-11-20 answers to the DP5.2 proposals (§679). **Nothing is adopted; DP5.2 stays the last cleared text.**
+- **Result: both clear; DP5.3.1 is the text to adopt.** Every change sits inside the author's answers or existing canon. Seven canon amendments wait for adoption, to be recorded with it:
+  - St. Tammany named (Q-LL1 and R9 U1, for the parish only; the camp and swamp stay unnamed);
+  - the interlude reorder ahead of beta (W-I8);
+  - one light behaviour at Ch32 (S-light; the light runs down the row of tins);
+  - the folder clause, "every hour after dark";
+  - the W11 bird, on Strobl's card;
+  - F6/X3, with Silence and Hope named in the Prologue and Epilogue headings;
+  - the chapter split, giving 44 chapters.
+- **Three Exact amendments are proposed and reverted pending a ruling.** RC4 (drop "a week on" from the L.K. note pair) is canon-neutral, and I recommend approving it. #44 and #37C20 are cosmetic, the author's call.
+- **Corrections to the 2026-11-20 review (§679, gate note 14):**
+  - Q-LB1 (10-05) allows "Mais non." when she is tired, at home or with family;
+  - "Couillon" was already approved (interior, self-directed);
+  - St. Tammany is superseded by the author's answer.
+- **Checks:** hashes and word counts reproduced; Exact register DP5.2 against DP5.3.1: 39 PRESENT, 6 CHECK (each read; anchors present in edited paragraphs), 0 ABSENT; bans clean; no new names. Gate note: manuscript `draft-notes/r9-gate/15_CALDER_GATE_TRIAL_DP53_DP531_2026-11-20.md`.
+- **Line keys, DP5.2 → DP5.3.1:** C01–C37 keep their numbers, with growing line offsets. Old C38 splits into C38 and C39 at the Friday dateline. Old C39–C40 become C40–C41. Old C41's Baz half is C42, and its Lucien half opens C43. Old C42–C43 become C43–C44. Part Two now opens at C18. TripID's C38:171 → C38:170; C43:55 → C44 (re-key at adoption).
