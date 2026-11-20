@@ -60,3 +60,5 @@ New Orleans:
 
 It never names the place. The Cajun-family answer stands either way. Where the camp is, is a separate question:
 Q-CP1, in `reports/B01_MERGED_POST_MERGE_REVIEW_SESSION_B_2026-10-05.md`.
+
+**Dated note, 2026-11-20 (§681, author: "St Tammany is approved for use"; `decisions/B01_DP52_PROPOSALS_ANSWERS_AND_DP531_ADOPTION_AUTHOR_RULING_2026-11-20.md`):** the B01 page may name the parish, St. Tammany (the dispatcher; Lucien's report, "near Lacombe"). The camp and the swamp stay unnamed, and Honey Island is never named. Cost: Honey Island lies in St. Tammany, so a reader who knows the region can narrow the camp's area; nothing on the page may narrow it further.

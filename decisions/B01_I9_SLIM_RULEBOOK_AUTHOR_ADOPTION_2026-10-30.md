@@ -74,3 +74,9 @@ These are not new canon. Each restates an existing ruling or card dependency tha
 - **Effect:**
   - the three held lines (C09:73, C33:9, C39:265) are no longer breaches of the anticipation clause; they are judged on the "act / hold the dead" limits only;
   - the J1.5 T7b move of the net interlude to the C39 opening is **allowed**.
+
+---
+**Dated amendment, 2026-11-20 (§681, author; `decisions/B01_DP52_PROPOSALS_ANSWERS_AND_DP531_ADOPTION_AUTHOR_RULING_2026-11-20.md`):**
+- **Hold 4, S-light:** one light behaviour comes before the Epilogue, at Ch32. The light on a tin's water goes round the rim once and lies still, and the same is seen down the row of tins. The Epilogue's light stays the new category.
+- **Hold 11, W-I8:** the Ch40 interlude reorder goes in ahead of the beta. The rest of rule 3 stays provisional until the beta.
+- **Hold 15, the folder:** one fact about its content is visible: dates, each with an hour, and every hour after dark. The code stays unread, and nothing says what the dates or hours are.

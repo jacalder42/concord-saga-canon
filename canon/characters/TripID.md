@@ -94,4 +94,8 @@
   - "Nobody touches my box" (C38:171); the brass crawfish opener for Caro (C43:55).
   - **Correction to the 2026-10-18 note:** Seraphine's tape says **SAZERAC** (C02:229; C34:295), not *TODDY*, and BAZ goes on the hook beside it at C34:297.
 
+- **Re-anchor, 2026-11-20 (§681; DP5.3.1, 68da2148b5c6): the 44-chapter split.**
+  - The brass crawfish moves from C43:55 to **C44:57**. Trip now looks across at Seraphine, gets a nod, and then opens Caro's beer: the host gear, inside the 11-17 rulings.
+  - Every other anchor in the 11-19 note keeps its key.
+
 END — TRIP IDENTITY CANON

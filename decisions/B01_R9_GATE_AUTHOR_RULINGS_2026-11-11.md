@@ -144,3 +144,7 @@ Notes go on registry B38 and B19, BazID and the audio narration sheet. Earlier d
   - Calder reproduced the hash and the count. The diff against DP3c is six lines in C20, C23, C26 and C27, and it has no canon effect.
 - **DP3c.1 supersedes B (94899fb540d7) as the last cleared text.** B and DP3b are archived unchanged.
 - **This ruling (§660) binds as before, and §662 now binds.**
+
+**Dated note, 2026-11-20 (§681, author; `decisions/B01_DP52_PROPOSALS_ANSWERS_AND_DP531_ADOPTION_AUTHOR_RULING_2026-11-20.md`):**
+- **The parish:** the camp's location stays unnamed, but the page now names St. Tammany.
+- **Chapters:** B01 has **44 chapters**; Ch38 splits at the Friday dateline. Anchors follow DP5.3.1's keys, mapped in gate note 15 §7 as corrected at §681.

@@ -19998,3 +19998,19 @@ END RECOVERY LEDGER
   - St. Tammany is superseded by the author's answer.
 - **Checks:** hashes and word counts reproduced; Exact register DP5.2 against DP5.3.1: 39 PRESENT, 6 CHECK (each read; anchors present in edited paragraphs), 0 ABSENT; bans clean; no new names. Gate note: manuscript `draft-notes/r9-gate/15_CALDER_GATE_TRIAL_DP53_DP531_2026-11-20.md`.
 - **Line keys, DP5.2 → DP5.3.1:** C01–C37 keep their numbers, with growing line offsets. Old C38 splits into C38 and C39 at the Friday dateline. Old C39–C40 become C40–C41. Old C41's Baz half is C42, and its Lucien half opens C43. Old C42–C43 become C43–C44. Part Two now opens at C18. TripID's C38:171 → C38:170; C43:55 → C44 (re-key at adoption).
+
+## §681 — B01: DP5.3.1 adopted; the author's 2026-11-20 answers recorded, 2026-11-20
+
+- **The author:** "Adopt and record". **The last cleared text of B01 is DP5.3.1** (68da2148b5c6, 112,759 words, 44 chapters), rechecked unchanged at the writer tip (c11b5209). DP5.2 (76c0d8dcdd27) and DP5.3 (b0519b135848) are superseded and kept.
+- **Recorded** in `decisions/B01_DP52_PROPOSALS_ANSWERS_AND_DP531_ADOPTION_AUTHOR_RULING_2026-11-20.md`:
+  - St. Tammany may be named; the camp and swamp stay unnamed (Q-LL1 and the R9 bounds amended for the parish only);
+  - the Ch40 interlude reorder goes in ahead of the beta (W-I8);
+  - one light behaviour at Ch32, seen down the row of tins (S-light);
+  - the folder's one visible fact, "every hour after dark" (I9 hold 15);
+  - Silence and Hope are named in the Prologue and Epilogue headings (F6 superseded; the X3 naming at the old C42 interlude is off the page);
+  - the W11 bird on Strobl's card;
+  - 44 chapters.
+- **Dated notes** on the I9 rulebook adoption (holds 4, 11, 15), the Louisiana language answers (Q-LL1) and the R9 gate rulings.
+- **Cards:** TripID's brass crawfish C43:55 → C44:57, now with Seraphine's nod. BazID C22:289 → C22:287, plus the C07 Houston page fact (he hears Lucien's message and does not call back). Registry B34 is unchanged.
+- **Still open:** the three Exact amendments RC4, #44 and #37C20. They are reverted in the adopted text until the author rules; Calder recommends approving RC4.
+- **Correction to §680's line keys:** chapter keys count the heading as line 1. On that count TripID's "Nobody touches my box" **stays C38:171**; §680's "C38:170" was wrong. Most DP5.2 anchors in C01–C37 keep their keys; C22:289 → C22:287 and C03:175 → C03:173 move. Gate note 15 §7 is corrected to match.
