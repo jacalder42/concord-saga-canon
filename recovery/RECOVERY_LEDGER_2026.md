@@ -19964,3 +19964,18 @@ END RECOVERY LEDGER
   6. she still cannot resolve plot conflicts or replace the leads' emotional work.
 - **Card notes:** TripID (under I and IX; voice and gears; the page facts with DP5.2 anchors; *SAZERAC*, not *TODDY*, corrects the 10-18 note); `proposals/DIALOGUE_VOICE_SHEETS_2026-10-05.md` §7; BazID (the minute-buyer); registry B34 (Mr. Alcide's front window). B02 E04 and B03 E25 are unchanged.
 - **Readers:** fresh beta readers get DP5.2; the first readers keep DP3c.4.
+
+## §679 — B01: canon review of the DP5.2 proposals doc, 2026-11-20
+
+- **What:** a canon review of the proposals doc for DP5.2: thirteen structural proposals, nine Prologue edits and 83 gate questions, plus the writer's review of the 383 line edits. **Nothing is applied or adopted.** DP5.2 (76c0d8dcdd27, §678) stays the cleared text. The doc and the writer's guidance still name DP5.1, which predates §678.
+- **Flags for the author:**
+  - Naming Silence and Hope in the Prologue (James's Call 3) amends F6 and X3. It is consistent with canon (Silence the record, Hope the stories) and needs dated amendments on adoption.
+  - B01-18 would name St. Tammany, against Q-LL1 and the R9 bounds; "parish line" stays.
+  - S12's DOUCET fix would cut the S2 plant.
+  - B08-11's light breaks S-light.
+  - The new watcher interludes wait on W-I8's beta hold.
+  - The Veil clause "every hour after dark" reads as a timing rule, so the fallback ("the oldest of them before he was born") is recommended; it needs the author's ruling on what Baz can read in the folder.
+  - Pryor stays neither Hollen's rival nor its tool (S6, P16, §660); B06-24's added clause is declined.
+  - Caro is not classified (N8 reserves Hope's contact for B05).
+  - The TRIP hook points without spending if nobody remarks on it.
+- **Where:** gate note, manuscript `draft-notes/r9-gate/14_CALDER_GATE_DP52_PROPOSALS_2026-11-20.md`.
