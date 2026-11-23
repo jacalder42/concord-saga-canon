@@ -147,3 +147,4 @@ END — BAZ (BASTIEN “BAZ” ARNAUD) IDENTITY CANON
   - "wanted minutes, not paper" moves from C22:289 to **C22:287**.
   - **C07, Sun 29 March, Houston:** Baz plays Lucien's message in French (a child dead, a witness who described the room, the desk asking whether she was first, no name). He does not call back. He has a clipboard of Fondren signatures, which he turns face down and leaves in the car.
   - No event is shown, and nothing about the folder or the desk changes.
+- **Re-anchor, 2026-11-22 (§684; R1-accepted, b42690953d7e):** "wanted minutes, not paper" C22:287 → **C22:285**; the Houston folder C15:55 → **C15:53**. No fact changes.

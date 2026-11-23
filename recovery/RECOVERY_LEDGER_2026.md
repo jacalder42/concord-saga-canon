@@ -20039,3 +20039,14 @@ END RECOVERY LEDGER
   - Four re-keys: C22:287 → C22:285, C03:173 → C03:175, C15:55 → C15:53, C16:195 → C16:189.
 - **Not ruled and still held:** L5-12, and lessons 1–2. The engineering check of C26 stays with the author.
 - **Gate note:** manuscript `draft-notes/r9-gate/16_CALDER_GATE_R1_ACCEPTED_2026-11-22.md`.
+
+## §684 — B01: R1 with accepted changes adopted, 2026-11-22
+
+- **The author:** "Record without them. I will discuss them with the writer thread." Before that he wrote "Engineering is cleared, same for Fred items", which closes G7 and the hold on Fred's batches.
+- **The last cleared text of B01 is R1-accepted** (b42690953d7e, 112,584 words, 44 chapters; gated §683). DP5.3.2 is superseded and kept.
+- **Recorded** in `decisions/B01_R1_ACCEPTED_ADOPTION_AUTHOR_RULING_2026-11-22.md`:
+  - the chapter headings drop the POV names, which amends item 3 of the 10-05 answers (dated note there, and on the narration sheet);
+  - Odessa has registry row **B46**;
+  - the inspector's-paper page fact is noted on B12 and B13;
+  - the re-keys are recorded (BazID note).
+- **Not adopted:** L5-12 and lessons 1–2. Any later change is gated on its own.

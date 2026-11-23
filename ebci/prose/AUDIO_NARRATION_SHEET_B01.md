@@ -276,6 +276,7 @@ carry it**: a light regional colour, never a performance.
   narration, quieter and slower, with longer pauses between their short lines, and leave a clear space before the next
   speaker. Their two closing words in E00 and E50 echo each other: give them the same reading both times. The Interlude
   has no speech; read it as the prologue's narration. E50 says *the Veil* once: give it no special weight.
+- **Superseded 2026-11-22 (ledger §684): the headings no longer name the POV.** They read "Chapter N", and each section names its POV character in its first lines. The Prologue and Epilogue headings read "· Silence and Hope" (§681). The text below is kept as the record of the 10-05 design.
 - **POV in the headings** (author, 2026-10-05). Chapter headings name the POV: *Chapter 1 · Seraphine*. Multi-POV
   chapters name both in on-page order: E12 and E14 Seraphine then Lucien; E21 Seraphine, Lucien, Seraphine; E46
   alternating, Lucien first. *Prologue*, *Supplement*, *Interlude* and *Epilogue* carry no name: the presences are never

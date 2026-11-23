@@ -66,3 +66,5 @@ These updates are finished first. Then the author reads (and listens to) the mos
 
 No ruled canon, grid row or packet. Manuscript changes are in the private repository, with logs in
 `draft-notes/listening-pass/`.
+
+**Dated amendment, 2026-11-22 (ledger §684; `decisions/B01_R1_ACCEPTED_ADOPTION_AUTHOR_RULING_2026-11-22.md`):** item 3 is amended. The author's words were "drop names entirely". B01's chapter headings now read "Chapter N", with no POV names, and each section names its POV character within its first lines. The Prologue and Epilogue headings carry "· Silence and Hope", by the 11-20 answers (§681). That supersedes item 3's "the presences are not named".
