@@ -60,3 +60,5 @@ The author answered the placement map's (`proposals/B01_PRESSURE_DESIGN_PACKET_P
 - **C5.** Yes, option A: Caro first meets Elisabet at E28, watching the flirting there.
 - **E02.** Yes: Renée's look at the camp the morning after is left to the manuscript revision.
 - **"Proceed"** releases one B01 revision, act by act, from the updated packets (ledger §384).
+
+**Dated pointer, 2026-11-23 (ledger §685): C2 is superseded.** It was amended the same day at §387 (Baz says *the Veil* at E49, and Silence and Hope react in E50) and widened on 10-12 at §533–§534 (Q-RV4: the folder's sheet names *the Veil*). On the current B01 page *Veil* appears twice: on the folder tab, which Caldas reads in Ch27, and in the Epilogue. Both fall within those rulings.

@@ -20050,3 +20050,15 @@ END RECOVERY LEDGER
   - the inspector's-paper page fact is noted on B12 and B13;
   - the re-keys are recorded (BazID note).
 - **Not adopted:** L5-12 and lessons 1–2. Any later change is gated on its own.
+
+## §685 — B01: Round 15 on R1-accepted gated, clearable; *Veil* once confirmed superseded, 2026-11-23
+
+- **The text:** writer branch, `draft-notes/r1-2026-11-20/gate-package-round15-2026-11-23/SCREEN_DOOR_EULOGY_R1_ROUND15.md`, sha256 **36a273d36b7e**, **112,360** words, 44 chapters. It is R1-accepted plus round 15 (24 rows), which the author accepted in full on 11-23 ("Accept as recommended, include R-08"). **Nothing is adopted; R1-accepted stays the last cleared text.**
+- **Result: clear.**
+  - The diff reproduces the text.
+  - Exact register: 43 PRESENT; 1 CHECK (#30, string intact); RC4 in its §682 form.
+  - Bans and names unchanged. No card anchor moves.
+  - R-01–R-04 and R-08 are clear. The 19 cuts remove no fact the book still needs.
+- **One mechanical defect is recommended for a fix before adoption:** at C28 l.5225 R-02 runs two of Miss Tavie's quotations together with no beat. It is a page edit, and no canon changes.
+- **Q-OR3:** "*Veil* once, in E50" (§385, 10-03 C2) is confirmed superseded by §387 and §533–§534, so no new decision is needed. A dated pointer is added to `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
+- **Gate note:** manuscript `draft-notes/r9-gate/17_CALDER_GATE_ROUND15_2026-11-23.md`.
