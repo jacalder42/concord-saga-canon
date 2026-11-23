@@ -20023,3 +20023,19 @@ END RECOVERY LEDGER
 - **The last cleared text of B01 is DP5.3.2** (2c37332b5589, 112,753 words, 44 chapters; manuscript `draft-notes/trial-dp532-2026-11-20/`). It is DP5.3.1 with RC4 applied in both copies and nothing else. Calder applied the writer's own specified wording, at the author's request for a new file.
 - **Checks:** hash and count reproduced. Exact register DP5.3.1 against DP5.3.2: 44 PRESENT, 0 CHECK, 1 ABSENT (RC4, as approved). No canon card cites the phrase. Line keys do not move.
 - **Recorded:** an addendum to the 11-20 ruling file; a dated amendment on the trial-5a rulings; the private Exact register and holds register.
+
+## §683 — B01: R1 with accepted changes gated against DP5.3.2, clearable, 2026-11-22
+
+- **The text:** R1-accepted, sha256 **b42690953d7e**, **112,584** words, 44 chapters (writer branch, `draft-notes/r1-2026-11-20/gate-package-2026-11-25/`). It is the author's own candidate R1 (219a763e5dd5, 113,054 words: 46 changes to DP5.3.2) plus every change he accepted in the writer's rounds (102 hunks). The package is marked "Not sent"; it was gated at the author's request to check for requests. **Nothing is adopted; DP5.3.2 stays the last cleared text.**
+- **Result: clear.** R1 had never been gated, so the gate covers the whole span from DP5.3.2. Both diffs reproduce their texts exactly.
+- **Checks:**
+  - Exact register: 42 PRESENT; 2 CHECK (#30 and #37, strings intact and counts unchanged); RC4 in its §682 form, twice.
+  - Bans clean.
+  - One new name, Odessa, offstage and named only in speech.
+- **To record at adoption (notes, not new rulings):**
+  - The headings drop POV names, which amends the 10-05 answers, item 3; the narration sheet gets a dated note. The Prologue and Epilogue keep "· Silence and Hope" (§681).
+  - Odessa gets a registry note.
+  - Odile and Renée hold the inspector's paper from Guidry (C44), a page fact.
+  - Four re-keys: C22:287 → C22:285, C03:173 → C03:175, C15:55 → C15:53, C16:195 → C16:189.
+- **Not ruled and still held:** L5-12, and lessons 1–2. The engineering check of C26 stays with the author.
+- **Gate note:** manuscript `draft-notes/r9-gate/16_CALDER_GATE_R1_ACCEPTED_2026-11-22.md`.
