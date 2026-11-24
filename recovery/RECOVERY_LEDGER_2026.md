@@ -20067,3 +20067,9 @@ END RECOVERY LEDGER
 
 - **The author:** *"Naming twice is fine."* This confirms §685's reading: "*Veil* once, in E50" (§385) is superseded. *Veil* appears on the B01 page twice, on the folder tab Caldas reads in Ch27 and in the Epilogue. The confirmation is recorded beside the 10-03 C2 line.
 - Round 15 is still gated but not adopted (§685). R1-accepted stays the last cleared text.
+
+## §687 — B01: R1 Round 15.1 adopted, 2026-11-24
+
+- **The author:** "Adopt and record with 28 fix as you recommend."
+- **The last cleared text of B01 is R1 Round 15.1** (f22a6d044f39, 112,360 words, 44 chapters; manuscript `draft-notes/trial-round15-1-2026-11-24/`). It is Round 15 (gated §685) with the C28 quotation fix, which Calder applied at the author's instruction. The Exact register shows no difference from Round 15.
+- R1-accepted (b42690953d7e) is superseded and kept. No card or registry change. Recorded as an addendum to `decisions/B01_R1_ACCEPTED_ADOPTION_AUTHOR_RULING_2026-11-22.md`.

@@ -36,3 +36,10 @@ the writer thread."* The gate is ledger §683 (manuscript gate note 16); this is
 ## 3. Not adopted
 L5-12 (the only spoken inference about the box, C41) and lessons 1 (the leak route) and 2 (cutting a minor event) are not in
 the adopted text. The author will take them up with the writer thread, and any change that follows is gated on its own.
+
+---
+**Addendum, 2026-11-24 (ledger §687). The author: "Adopt and record with 28 fix as you recommend".**
+- **The last cleared text of B01 is R1 Round 15.1**: sha256 **f22a6d044f39**, **112,360** words, 44 chapters, in the manuscript at `draft-notes/trial-round15-1-2026-11-24/`.
+- **What it adds:** R1-accepted plus round 15 (24 rows, which the author accepted in full on 11-23; gated §685), plus one mechanical fix at C28 that joins Miss Tavie's two quotations into one.
+- **Records:** no card anchor moves, and no card or registry fact changes. *Veil* appears twice, as the author confirmed (§686).
+- R1-accepted and Round 15 (36a273d36b7e) are superseded and kept.
