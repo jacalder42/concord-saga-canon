@@ -20062,3 +20062,8 @@ END RECOVERY LEDGER
 - **One mechanical defect is recommended for a fix before adoption:** at C28 l.5225 R-02 runs two of Miss Tavie's quotations together with no beat. It is a page edit, and no canon changes.
 - **Q-OR3:** "*Veil* once, in E50" (§385, 10-03 C2) is confirmed superseded by §387 and §533–§534, so no new decision is needed. A dated pointer is added to `decisions/B01_HEAT_ELISABET_BAZ_AND_REVIEW_FIXES_AUTHOR_ANSWERS_2026-10-03.md`.
 - **Gate note:** manuscript `draft-notes/r9-gate/17_CALDER_GATE_ROUND15_2026-11-23.md`.
+
+## §686 — B01: *Veil* twice confirmed, 2026-11-24
+
+- **The author:** *"Naming twice is fine."* This confirms §685's reading: "*Veil* once, in E50" (§385) is superseded. *Veil* appears on the B01 page twice, on the folder tab Caldas reads in Ch27 and in the Epilogue. The confirmation is recorded beside the 10-03 C2 line.
+- Round 15 is still gated but not adopted (§685). R1-accepted stays the last cleared text.
